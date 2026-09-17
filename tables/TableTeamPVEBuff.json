@@ -1,0 +1,119 @@
+[
+ {
+  "BuffID": 1001,
+  "BuffType": 1,
+  "AEID": [
+   101
+  ],
+  "BuffWeight": 50,
+  "BuffIcon": "Icon_Profession_2"
+ },
+ {
+  "BuffID": 1002,
+  "BuffType": 1,
+  "AEID": [
+   102
+  ],
+  "BuffWeight": 50,
+  "BuffIcon": "Icon_Profession_4"
+ },
+ {
+  "BuffID": 1003,
+  "BuffType": 1,
+  "AEID": [
+   103
+  ],
+  "BuffWeight": 50,
+  "BuffIcon": "Icon_Profession_5"
+ },
+ {
+  "BuffID": 1004,
+  "BuffType": 1,
+  "AEID": [
+   104
+  ],
+  "BuffWeight": 50,
+  "BuffIcon": "Icon_Profession_6"
+ },
+ {
+  "BuffID": 1005,
+  "BuffType": 1,
+  "AEID": [
+   105
+  ],
+  "BuffWeight": 50,
+  "BuffIcon": "Icon_Profession_8"
+ },
+ {
+  "BuffID": 1006,
+  "BuffType": 1,
+  "AEID": [
+   106
+  ],
+  "BuffWeight": 50,
+  "BuffIcon": "Icon_Profession_3"
+ },
+ {
+  "BuffID": 2001,
+  "BuffType": 2,
+  "AEID": [
+   201
+  ],
+  "BuffWeight": 50,
+  "BuffIcon": "team_icon_buff_02"
+ },
+ {
+  "BuffID": 2002,
+  "BuffType": 2,
+  "AEID": [
+   202
+  ],
+  "BuffWeight": 50,
+  "BuffIcon": "team_icon_buff_02"
+ },
+ {
+  "BuffID": 2003,
+  "BuffType": 2,
+  "AEID": [
+   203
+  ],
+  "BuffWeight": 50,
+  "BuffIcon": "team_icon_buff_02"
+ },
+ {
+  "BuffID": 2004,
+  "BuffType": 2,
+  "AEID": [
+   204
+  ],
+  "BuffWeight": 50,
+  "BuffIcon": "team_icon_buff_02"
+ },
+ {
+  "BuffID": 2005,
+  "BuffType": 2,
+  "AEID": [
+   205
+  ],
+  "BuffWeight": 50,
+  "BuffIcon": "team_icon_buff_02"
+ },
+ {
+  "BuffID": 2006,
+  "BuffType": 2,
+  "AEID": [
+   206
+  ],
+  "BuffWeight": 50,
+  "BuffIcon": "team_icon_buff_02"
+ },
+ {
+  "BuffID": 2007,
+  "BuffType": 2,
+  "AEID": [
+   207
+  ],
+  "BuffWeight": 50,
+  "BuffIcon": "team_icon_buff_02"
+ }
+]

@@ -1,0 +1,22 @@
+[
+ {
+  "LeaderID": 230101,
+  "AccessWay": 0,
+  "AccessID": 0
+ },
+ {
+  "LeaderID": 240101,
+  "AccessWay": 3,
+  "AccessID": 4600001
+ },
+ {
+  "LeaderID": 240201,
+  "AccessWay": 3,
+  "AccessID": 210301
+ },
+ {
+  "LeaderID": 250101,
+  "AccessWay": 3,
+  "AccessID": 210501
+ }
+]

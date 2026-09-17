@@ -1,0 +1,864 @@
+[
+ {
+  "ID": 10001,
+  "Type": 1,
+  "MinRanking": 1,
+  "MaxRanking": 1,
+  "Reward": [
+   1201007,
+   1,
+   230,
+   100,
+   306,
+   3,
+   116,
+   50
+  ],
+  "ShowItem": [],
+  "ShowItemNum": []
+ },
+ {
+  "ID": 10002,
+  "Type": 1,
+  "MinRanking": 2,
+  "MaxRanking": 2,
+  "Reward": [
+   1201007,
+   1,
+   306,
+   2,
+   116,
+   40
+  ],
+  "ShowItem": [],
+  "ShowItemNum": []
+ },
+ {
+  "ID": 10003,
+  "Type": 1,
+  "MinRanking": 3,
+  "MaxRanking": 3,
+  "Reward": [
+   1201007,
+   1,
+   306,
+   1,
+   116,
+   30
+  ],
+  "ShowItem": [],
+  "ShowItemNum": []
+ },
+ {
+  "ID": 10004,
+  "Type": 1,
+  "MinRanking": 4,
+  "MaxRanking": 10,
+  "Reward": [
+   305,
+   2,
+   116,
+   20
+  ],
+  "ShowItem": [],
+  "ShowItemNum": []
+ },
+ {
+  "ID": 10005,
+  "Type": 1,
+  "MinRanking": 11,
+  "MaxRanking": 50,
+  "Reward": [
+   305,
+   1,
+   116,
+   10
+  ],
+  "ShowItem": [],
+  "ShowItemNum": []
+ },
+ {
+  "ID": 10006,
+  "Type": 1,
+  "MinRanking": 51,
+  "MaxRanking": 100,
+  "Reward": [
+   116,
+   5
+  ],
+  "ShowItem": [],
+  "ShowItemNum": []
+ },
+ {
+  "ID": 10007,
+  "Type": 1,
+  "MinRanking": 101,
+  "MaxRanking": 9999,
+  "Reward": [
+   116,
+   1
+  ],
+  "ShowItem": [],
+  "ShowItemNum": []
+ },
+ {
+  "ID": 20001,
+  "Type": 2,
+  "MinRanking": 1,
+  "MaxRanking": 1,
+  "Reward": [
+   124,
+   1000,
+   169,
+   10,
+   170,
+   5
+  ],
+  "ShowItem": [],
+  "ShowItemNum": []
+ },
+ {
+  "ID": 20002,
+  "Type": 2,
+  "MinRanking": 2,
+  "MaxRanking": 2,
+  "Reward": [
+   124,
+   800,
+   169,
+   10,
+   170,
+   3
+  ],
+  "ShowItem": [],
+  "ShowItemNum": []
+ },
+ {
+  "ID": 20003,
+  "Type": 2,
+  "MinRanking": 3,
+  "MaxRanking": 3,
+  "Reward": [
+   124,
+   600,
+   169,
+   10,
+   170,
+   2
+  ],
+  "ShowItem": [],
+  "ShowItemNum": []
+ },
+ {
+  "ID": 20004,
+  "Type": 2,
+  "MinRanking": 4,
+  "MaxRanking": 10,
+  "Reward": [
+   124,
+   500,
+   169,
+   10
+  ],
+  "ShowItem": [],
+  "ShowItemNum": []
+ },
+ {
+  "ID": 20005,
+  "Type": 2,
+  "MinRanking": 11,
+  "MaxRanking": 20,
+  "Reward": [
+   124,
+   400,
+   169,
+   8
+  ],
+  "ShowItem": [],
+  "ShowItemNum": []
+ },
+ {
+  "ID": 20006,
+  "Type": 2,
+  "MinRanking": 21,
+  "MaxRanking": 30,
+  "Reward": [
+   124,
+   300,
+   169,
+   6
+  ],
+  "ShowItem": [],
+  "ShowItemNum": []
+ },
+ {
+  "ID": 20007,
+  "Type": 2,
+  "MinRanking": 31,
+  "MaxRanking": 50,
+  "Reward": [
+   124,
+   200,
+   169,
+   4
+  ],
+  "ShowItem": [],
+  "ShowItemNum": []
+ },
+ {
+  "ID": 20008,
+  "Type": 2,
+  "MinRanking": 51,
+  "MaxRanking": 100,
+  "Reward": [
+   124,
+   100,
+   169,
+   2
+  ],
+  "ShowItem": [],
+  "ShowItemNum": []
+ },
+ {
+  "ID": 20009,
+  "Type": 2,
+  "MinRanking": 101,
+  "MaxRanking": 9999,
+  "Reward": [
+   124,
+   50
+  ],
+  "ShowItem": [],
+  "ShowItemNum": []
+ },
+ {
+  "ID": 30001,
+  "Type": 7,
+  "MinRanking": 1,
+  "MaxRanking": 1,
+  "Reward": [
+   124,
+   1000,
+   169,
+   10,
+   170,
+   5
+  ],
+  "ShowItem": [],
+  "ShowItemNum": []
+ },
+ {
+  "ID": 30002,
+  "Type": 7,
+  "MinRanking": 2,
+  "MaxRanking": 2,
+  "Reward": [
+   124,
+   800,
+   169,
+   10,
+   170,
+   3
+  ],
+  "ShowItem": [],
+  "ShowItemNum": []
+ },
+ {
+  "ID": 30003,
+  "Type": 7,
+  "MinRanking": 3,
+  "MaxRanking": 3,
+  "Reward": [
+   124,
+   600,
+   169,
+   10,
+   170,
+   2
+  ],
+  "ShowItem": [],
+  "ShowItemNum": []
+ },
+ {
+  "ID": 30004,
+  "Type": 7,
+  "MinRanking": 4,
+  "MaxRanking": 10,
+  "Reward": [
+   124,
+   500,
+   169,
+   10
+  ],
+  "ShowItem": [],
+  "ShowItemNum": []
+ },
+ {
+  "ID": 30005,
+  "Type": 7,
+  "MinRanking": 11,
+  "MaxRanking": 20,
+  "Reward": [
+   124,
+   400,
+   169,
+   8
+  ],
+  "ShowItem": [],
+  "ShowItemNum": []
+ },
+ {
+  "ID": 30006,
+  "Type": 7,
+  "MinRanking": 21,
+  "MaxRanking": 30,
+  "Reward": [
+   124,
+   300,
+   169,
+   6
+  ],
+  "ShowItem": [],
+  "ShowItemNum": []
+ },
+ {
+  "ID": 30007,
+  "Type": 7,
+  "MinRanking": 31,
+  "MaxRanking": 50,
+  "Reward": [
+   124,
+   200,
+   169,
+   4
+  ],
+  "ShowItem": [],
+  "ShowItemNum": []
+ },
+ {
+  "ID": 30008,
+  "Type": 7,
+  "MinRanking": 51,
+  "MaxRanking": 100,
+  "Reward": [
+   124,
+   100,
+   169,
+   2
+  ],
+  "ShowItem": [],
+  "ShowItemNum": []
+ },
+ {
+  "ID": 30009,
+  "Type": 7,
+  "MinRanking": 101,
+  "MaxRanking": 9999,
+  "Reward": [
+   124,
+   50
+  ],
+  "ShowItem": [],
+  "ShowItemNum": []
+ },
+ {
+  "ID": 40001,
+  "Type": 6,
+  "MinRanking": 1,
+  "MaxRanking": 1,
+  "Reward": [
+   1201007,
+   1,
+   602006,
+   1,
+   165,
+   500,
+   124,
+   1000
+  ],
+  "ShowItem": [],
+  "ShowItemNum": []
+ },
+ {
+  "ID": 40002,
+  "Type": 6,
+  "MinRanking": 2,
+  "MaxRanking": 2,
+  "Reward": [
+   602006,
+   1,
+   165,
+   400,
+   124,
+   800
+  ],
+  "ShowItem": [],
+  "ShowItemNum": []
+ },
+ {
+  "ID": 40003,
+  "Type": 6,
+  "MinRanking": 3,
+  "MaxRanking": 3,
+  "Reward": [
+   602006,
+   1,
+   165,
+   300,
+   124,
+   600
+  ],
+  "ShowItem": [],
+  "ShowItemNum": []
+ },
+ {
+  "ID": 40004,
+  "Type": 6,
+  "MinRanking": 4,
+  "MaxRanking": 10,
+  "Reward": [
+   165,
+   200,
+   124,
+   500
+  ],
+  "ShowItem": [],
+  "ShowItemNum": []
+ },
+ {
+  "ID": 40005,
+  "Type": 6,
+  "MinRanking": 11,
+  "MaxRanking": 20,
+  "Reward": [
+   165,
+   150,
+   124,
+   400
+  ],
+  "ShowItem": [],
+  "ShowItemNum": []
+ },
+ {
+  "ID": 40006,
+  "Type": 6,
+  "MinRanking": 21,
+  "MaxRanking": 30,
+  "Reward": [
+   165,
+   100,
+   124,
+   300
+  ],
+  "ShowItem": [],
+  "ShowItemNum": []
+ },
+ {
+  "ID": 40007,
+  "Type": 6,
+  "MinRanking": 31,
+  "MaxRanking": 50,
+  "Reward": [
+   165,
+   50,
+   124,
+   200
+  ],
+  "ShowItem": [],
+  "ShowItemNum": []
+ },
+ {
+  "ID": 40008,
+  "Type": 6,
+  "MinRanking": 51,
+  "MaxRanking": 100,
+  "Reward": [
+   165,
+   200,
+   124,
+   100
+  ],
+  "ShowItem": [],
+  "ShowItemNum": []
+ },
+ {
+  "ID": 40009,
+  "Type": 6,
+  "MinRanking": 101,
+  "MaxRanking": 9999,
+  "Reward": [
+   124,
+   50,
+   124,
+   50
+  ],
+  "ShowItem": [],
+  "ShowItemNum": []
+ },
+ {
+  "ID": 50001,
+  "Type": 0,
+  "MinRanking": 1,
+  "MaxRanking": 1,
+  "Reward": [
+   177,
+   10,
+   166,
+   100,
+   124,
+   1000
+  ],
+  "ShowItem": [],
+  "ShowItemNum": []
+ },
+ {
+  "ID": 50002,
+  "Type": 0,
+  "MinRanking": 2,
+  "MaxRanking": 2,
+  "Reward": [
+   177,
+   6,
+   166,
+   80,
+   124,
+   800
+  ],
+  "ShowItem": [],
+  "ShowItemNum": []
+ },
+ {
+  "ID": 50003,
+  "Type": 0,
+  "MinRanking": 3,
+  "MaxRanking": 3,
+  "Reward": [
+   177,
+   5,
+   166,
+   60,
+   124,
+   600
+  ],
+  "ShowItem": [],
+  "ShowItemNum": []
+ },
+ {
+  "ID": 50004,
+  "Type": 0,
+  "MinRanking": 4,
+  "MaxRanking": 10,
+  "Reward": [
+   177,
+   4,
+   166,
+   50,
+   124,
+   500
+  ],
+  "ShowItem": [],
+  "ShowItemNum": []
+ },
+ {
+  "ID": 50005,
+  "Type": 0,
+  "MinRanking": 11,
+  "MaxRanking": 20,
+  "Reward": [
+   177,
+   3,
+   166,
+   40,
+   124,
+   400
+  ],
+  "ShowItem": [],
+  "ShowItemNum": []
+ },
+ {
+  "ID": 50006,
+  "Type": 0,
+  "MinRanking": 21,
+  "MaxRanking": 30,
+  "Reward": [
+   177,
+   2,
+   166,
+   30,
+   124,
+   300
+  ],
+  "ShowItem": [],
+  "ShowItemNum": []
+ },
+ {
+  "ID": 50007,
+  "Type": 0,
+  "MinRanking": 31,
+  "MaxRanking": 50,
+  "Reward": [
+   166,
+   20,
+   124,
+   200
+  ],
+  "ShowItem": [],
+  "ShowItemNum": []
+ },
+ {
+  "ID": 50008,
+  "Type": 0,
+  "MinRanking": 51,
+  "MaxRanking": 100,
+  "Reward": [
+   166,
+   10,
+   124,
+   100
+  ],
+  "ShowItem": [],
+  "ShowItemNum": []
+ },
+ {
+  "ID": 50009,
+  "Type": 0,
+  "MinRanking": 101,
+  "MaxRanking": 9999,
+  "Reward": [
+   166,
+   5,
+   124,
+   50
+  ],
+  "ShowItem": [],
+  "ShowItemNum": []
+ },
+ {
+  "ID": 60001,
+  "Type": 10,
+  "MinRanking": 1,
+  "MaxRanking": 1,
+  "Reward": [
+   43030102,
+   1,
+   215,
+   3,
+   116,
+   40
+  ],
+  "ShowItem": [],
+  "ShowItemNum": []
+ },
+ {
+  "ID": 60002,
+  "Type": 10,
+  "MinRanking": 2,
+  "MaxRanking": 2,
+  "Reward": [
+   43030102,
+   1,
+   215,
+   2,
+   116,
+   30
+  ],
+  "ShowItem": [],
+  "ShowItemNum": []
+ },
+ {
+  "ID": 60003,
+  "Type": 10,
+  "MinRanking": 3,
+  "MaxRanking": 3,
+  "Reward": [
+   43030102,
+   1,
+   215,
+   1,
+   116,
+   20
+  ],
+  "ShowItem": [],
+  "ShowItemNum": []
+ },
+ {
+  "ID": 60004,
+  "Type": 10,
+  "MinRanking": 4,
+  "MaxRanking": 10,
+  "Reward": [
+   215,
+   1,
+   116,
+   15
+  ],
+  "ShowItem": [],
+  "ShowItemNum": []
+ },
+ {
+  "ID": 60005,
+  "Type": 10,
+  "MinRanking": 11,
+  "MaxRanking": 50,
+  "Reward": [
+   116,
+   10
+  ],
+  "ShowItem": [],
+  "ShowItemNum": []
+ },
+ {
+  "ID": 60008,
+  "Type": 10,
+  "MinRanking": 51,
+  "MaxRanking": 100,
+  "Reward": [
+   116,
+   5
+  ],
+  "ShowItem": [],
+  "ShowItemNum": []
+ },
+ {
+  "ID": 60009,
+  "Type": 10,
+  "MinRanking": 101,
+  "MaxRanking": 9999,
+  "Reward": [
+   124,
+   50
+  ],
+  "ShowItem": [],
+  "ShowItemNum": []
+ },
+ {
+  "ID": 70001,
+  "Type": 9,
+  "MinRanking": 1,
+  "MaxRanking": 1,
+  "Reward": [
+   124,
+   1000,
+   169,
+   10,
+   170,
+   5
+  ],
+  "ShowItem": [],
+  "ShowItemNum": []
+ },
+ {
+  "ID": 70002,
+  "Type": 9,
+  "MinRanking": 2,
+  "MaxRanking": 2,
+  "Reward": [
+   124,
+   800,
+   169,
+   10,
+   170,
+   3
+  ],
+  "ShowItem": [],
+  "ShowItemNum": []
+ },
+ {
+  "ID": 70003,
+  "Type": 9,
+  "MinRanking": 3,
+  "MaxRanking": 3,
+  "Reward": [
+   124,
+   600,
+   169,
+   10,
+   170,
+   2
+  ],
+  "ShowItem": [],
+  "ShowItemNum": []
+ },
+ {
+  "ID": 70004,
+  "Type": 9,
+  "MinRanking": 4,
+  "MaxRanking": 10,
+  "Reward": [
+   124,
+   500,
+   169,
+   10
+  ],
+  "ShowItem": [],
+  "ShowItemNum": []
+ },
+ {
+  "ID": 70005,
+  "Type": 9,
+  "MinRanking": 11,
+  "MaxRanking": 20,
+  "Reward": [
+   124,
+   400,
+   169,
+   8
+  ],
+  "ShowItem": [],
+  "ShowItemNum": []
+ },
+ {
+  "ID": 70006,
+  "Type": 9,
+  "MinRanking": 21,
+  "MaxRanking": 30,
+  "Reward": [
+   124,
+   300,
+   169,
+   6
+  ],
+  "ShowItem": [],
+  "ShowItemNum": []
+ },
+ {
+  "ID": 70007,
+  "Type": 9,
+  "MinRanking": 31,
+  "MaxRanking": 50,
+  "Reward": [
+   124,
+   200,
+   169,
+   4
+  ],
+  "ShowItem": [],
+  "ShowItemNum": []
+ },
+ {
+  "ID": 70008,
+  "Type": 9,
+  "MinRanking": 51,
+  "MaxRanking": 100,
+  "Reward": [
+   124,
+   100,
+   169,
+   2
+  ],
+  "ShowItem": [],
+  "ShowItemNum": []
+ },
+ {
+  "ID": 70009,
+  "Type": 9,
+  "MinRanking": 101,
+  "MaxRanking": 9999,
+  "Reward": [
+   124,
+   50
+  ],
+  "ShowItem": [],
+  "ShowItemNum": []
+ }
+]

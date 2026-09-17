@@ -1,0 +1,2138 @@
+[
+ {
+  "ID": 1001,
+  "EventID": 1000,
+  "GroupID": 1,
+  "LevelID": 1000,
+  "LevelMonsters": [
+   {
+    "MonsterPos": 18,
+    "MonsterID": 910104,
+    "Level": 1,
+    "Star": 1,
+    "EquipmentIDs": []
+   },
+   {
+    "MonsterPos": 13,
+    "MonsterID": 910104,
+    "Level": 1,
+    "Star": 1,
+    "EquipmentIDs": []
+   },
+   {
+    "MonsterPos": 1,
+    "MonsterID": 910101,
+    "Level": 1,
+    "Star": 1,
+    "EquipmentIDs": []
+   },
+   {
+    "MonsterPos": 2,
+    "MonsterID": 910103,
+    "Level": 1,
+    "Star": 1,
+    "EquipmentIDs": []
+   },
+   {
+    "MonsterPos": 4,
+    "MonsterID": 910103,
+    "Level": 1,
+    "Star": 1,
+    "EquipmentIDs": []
+   },
+   {
+    "MonsterPos": 5,
+    "MonsterID": 910101,
+    "Level": 1,
+    "Star": 1,
+    "EquipmentIDs": []
+   }
+  ],
+  "AttrIDs": [
+   100,
+   4,
+   102,
+   215,
+   216,
+   213,
+   230,
+   204,
+   207
+  ],
+  "AttrTypes": [
+   2,
+   2,
+   2,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   -4000,
+   -6000,
+   -4000,
+   500,
+   500,
+   200,
+   200,
+   200,
+   200
+  ],
+  "HeroID": [],
+  "LockedHeroID": [
+   150501
+  ],
+  "LockedHeroStar": [
+   1
+  ],
+  "HeroNumID": 1,
+  "AttrIDs1": [
+   100,
+   4,
+   102,
+   215,
+   216,
+   213,
+   230,
+   204,
+   207
+  ],
+  "AttrTypes1": [
+   2,
+   2,
+   2,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1
+  ],
+  "AttrVals1": [
+   4000,
+   4000,
+   4000,
+   500,
+   500,
+   200,
+   200,
+   200,
+   200
+  ],
+  "Unlock": 0,
+  "Reward": [
+   110
+  ],
+  "StageIcon": "ChatEmoji_croc_23"
+ },
+ {
+  "ID": 1002,
+  "EventID": 1000,
+  "GroupID": 2,
+  "LevelID": 1000,
+  "LevelMonsters": [
+   {
+    "MonsterPos": 18,
+    "MonsterID": 910104,
+    "Level": 1,
+    "Star": 1,
+    "EquipmentIDs": []
+   },
+   {
+    "MonsterPos": 13,
+    "MonsterID": 910104,
+    "Level": 1,
+    "Star": 1,
+    "EquipmentIDs": []
+   },
+   {
+    "MonsterPos": 1,
+    "MonsterID": 910101,
+    "Level": 1,
+    "Star": 1,
+    "EquipmentIDs": []
+   },
+   {
+    "MonsterPos": 2,
+    "MonsterID": 910103,
+    "Level": 1,
+    "Star": 1,
+    "EquipmentIDs": []
+   },
+   {
+    "MonsterPos": 4,
+    "MonsterID": 910103,
+    "Level": 1,
+    "Star": 1,
+    "EquipmentIDs": []
+   },
+   {
+    "MonsterPos": 5,
+    "MonsterID": 910101,
+    "Level": 1,
+    "Star": 1,
+    "EquipmentIDs": []
+   }
+  ],
+  "AttrIDs": [
+   100,
+   4,
+   102,
+   215,
+   216,
+   213,
+   230,
+   204,
+   207
+  ],
+  "AttrTypes": [
+   2,
+   2,
+   2,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   -4000,
+   -6000,
+   -4000,
+   500,
+   500,
+   200,
+   200,
+   200,
+   200
+  ],
+  "HeroID": [],
+  "LockedHeroID": [
+   150501
+  ],
+  "LockedHeroStar": [
+   2
+  ],
+  "HeroNumID": 1,
+  "AttrIDs1": [
+   100,
+   4,
+   102,
+   215,
+   216,
+   213,
+   230,
+   204,
+   207
+  ],
+  "AttrTypes1": [
+   2,
+   2,
+   2,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1
+  ],
+  "AttrVals1": [
+   4000,
+   4000,
+   4000,
+   500,
+   500,
+   200,
+   200,
+   200,
+   200
+  ],
+  "Unlock": 0,
+  "Reward": [
+   110
+  ],
+  "StageIcon": "Icon_Head_tx_830203"
+ },
+ {
+  "ID": 1003,
+  "EventID": 1000,
+  "GroupID": 3,
+  "LevelID": 1000,
+  "LevelMonsters": [
+   {
+    "MonsterPos": 18,
+    "MonsterID": 910104,
+    "Level": 1,
+    "Star": 1,
+    "EquipmentIDs": []
+   },
+   {
+    "MonsterPos": 13,
+    "MonsterID": 910104,
+    "Level": 1,
+    "Star": 1,
+    "EquipmentIDs": []
+   },
+   {
+    "MonsterPos": 1,
+    "MonsterID": 910101,
+    "Level": 1,
+    "Star": 1,
+    "EquipmentIDs": []
+   },
+   {
+    "MonsterPos": 2,
+    "MonsterID": 910103,
+    "Level": 1,
+    "Star": 1,
+    "EquipmentIDs": []
+   },
+   {
+    "MonsterPos": 4,
+    "MonsterID": 910103,
+    "Level": 1,
+    "Star": 1,
+    "EquipmentIDs": []
+   },
+   {
+    "MonsterPos": 5,
+    "MonsterID": 910101,
+    "Level": 1,
+    "Star": 1,
+    "EquipmentIDs": []
+   }
+  ],
+  "AttrIDs": [
+   100,
+   4,
+   102,
+   215,
+   216,
+   213,
+   230,
+   204,
+   207
+  ],
+  "AttrTypes": [
+   2,
+   2,
+   2,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   -4000,
+   -6000,
+   -4000,
+   500,
+   500,
+   200,
+   200,
+   200,
+   200
+  ],
+  "HeroID": [
+   140301,
+   110602,
+   120603,
+   450101,
+   150501
+  ],
+  "LockedHeroID": [
+   150501
+  ],
+  "LockedHeroStar": [
+   3
+  ],
+  "HeroNumID": 3,
+  "AttrIDs1": [
+   100,
+   4,
+   102,
+   215,
+   216,
+   213,
+   230,
+   204,
+   207
+  ],
+  "AttrTypes1": [
+   2,
+   2,
+   2,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1
+  ],
+  "AttrVals1": [
+   4000,
+   4000,
+   4000,
+   500,
+   500,
+   200,
+   200,
+   200,
+   200
+  ],
+  "Unlock": 0,
+  "Reward": [
+   110
+  ],
+  "StageIcon": "ChatEmoji_croc_23"
+ },
+ {
+  "ID": 1004,
+  "EventID": 1000,
+  "GroupID": 4,
+  "LevelID": 1000,
+  "LevelMonsters": [
+   {
+    "MonsterPos": 18,
+    "MonsterID": 910104,
+    "Level": 1,
+    "Star": 1,
+    "EquipmentIDs": []
+   },
+   {
+    "MonsterPos": 13,
+    "MonsterID": 910104,
+    "Level": 1,
+    "Star": 1,
+    "EquipmentIDs": []
+   },
+   {
+    "MonsterPos": 1,
+    "MonsterID": 910101,
+    "Level": 1,
+    "Star": 1,
+    "EquipmentIDs": []
+   },
+   {
+    "MonsterPos": 2,
+    "MonsterID": 910103,
+    "Level": 1,
+    "Star": 1,
+    "EquipmentIDs": []
+   },
+   {
+    "MonsterPos": 4,
+    "MonsterID": 910103,
+    "Level": 1,
+    "Star": 1,
+    "EquipmentIDs": []
+   },
+   {
+    "MonsterPos": 5,
+    "MonsterID": 910101,
+    "Level": 1,
+    "Star": 1,
+    "EquipmentIDs": []
+   }
+  ],
+  "AttrIDs": [
+   100,
+   4,
+   102,
+   215,
+   216,
+   213,
+   230,
+   204,
+   207
+  ],
+  "AttrTypes": [
+   2,
+   2,
+   2,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   -4000,
+   -6000,
+   -4000,
+   500,
+   500,
+   200,
+   200,
+   200,
+   200
+  ],
+  "HeroID": [
+   140301,
+   110602,
+   120603,
+   450101,
+   150501
+  ],
+  "LockedHeroID": [
+   150501
+  ],
+  "LockedHeroStar": [
+   4
+  ],
+  "HeroNumID": 3,
+  "AttrIDs1": [
+   100,
+   4,
+   102,
+   215,
+   216,
+   213,
+   230,
+   204,
+   207
+  ],
+  "AttrTypes1": [
+   2,
+   2,
+   2,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1
+  ],
+  "AttrVals1": [
+   4000,
+   4000,
+   4000,
+   500,
+   500,
+   200,
+   200,
+   200,
+   200
+  ],
+  "Unlock": 1,
+  "Reward": [
+   110
+  ],
+  "StageIcon": "Icon_Head_tx_830203"
+ },
+ {
+  "ID": 1005,
+  "EventID": 1000,
+  "GroupID": 5,
+  "LevelID": 1000,
+  "LevelMonsters": [
+   {
+    "MonsterPos": 18,
+    "MonsterID": 910104,
+    "Level": 1,
+    "Star": 1,
+    "EquipmentIDs": []
+   },
+   {
+    "MonsterPos": 13,
+    "MonsterID": 910104,
+    "Level": 1,
+    "Star": 1,
+    "EquipmentIDs": []
+   },
+   {
+    "MonsterPos": 1,
+    "MonsterID": 910101,
+    "Level": 1,
+    "Star": 1,
+    "EquipmentIDs": []
+   },
+   {
+    "MonsterPos": 2,
+    "MonsterID": 910103,
+    "Level": 1,
+    "Star": 1,
+    "EquipmentIDs": []
+   },
+   {
+    "MonsterPos": 4,
+    "MonsterID": 910103,
+    "Level": 1,
+    "Star": 1,
+    "EquipmentIDs": []
+   },
+   {
+    "MonsterPos": 5,
+    "MonsterID": 910101,
+    "Level": 1,
+    "Star": 1,
+    "EquipmentIDs": []
+   }
+  ],
+  "AttrIDs": [
+   100,
+   4,
+   102,
+   215,
+   216,
+   213,
+   230,
+   204,
+   207
+  ],
+  "AttrTypes": [
+   2,
+   2,
+   2,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   -4000,
+   -6000,
+   -4000,
+   500,
+   500,
+   200,
+   200,
+   200,
+   200
+  ],
+  "HeroID": [
+   140301,
+   110602,
+   120603,
+   450101,
+   150501
+  ],
+  "LockedHeroID": [
+   150501
+  ],
+  "LockedHeroStar": [
+   5
+  ],
+  "HeroNumID": 4,
+  "AttrIDs1": [
+   100,
+   4,
+   102,
+   215,
+   216,
+   213,
+   230,
+   204,
+   207
+  ],
+  "AttrTypes1": [
+   2,
+   2,
+   2,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1
+  ],
+  "AttrVals1": [
+   4000,
+   4000,
+   4000,
+   500,
+   500,
+   200,
+   200,
+   200,
+   200
+  ],
+  "Unlock": 2,
+  "Reward": [
+   110
+  ],
+  "StageIcon": "ChatEmoji_croc_23"
+ },
+ {
+  "ID": 1006,
+  "EventID": 1000,
+  "GroupID": 6,
+  "LevelID": 1000,
+  "LevelMonsters": [
+   {
+    "MonsterPos": 18,
+    "MonsterID": 910104,
+    "Level": 1,
+    "Star": 1,
+    "EquipmentIDs": []
+   },
+   {
+    "MonsterPos": 13,
+    "MonsterID": 910104,
+    "Level": 1,
+    "Star": 1,
+    "EquipmentIDs": []
+   },
+   {
+    "MonsterPos": 1,
+    "MonsterID": 910101,
+    "Level": 1,
+    "Star": 1,
+    "EquipmentIDs": []
+   },
+   {
+    "MonsterPos": 2,
+    "MonsterID": 910103,
+    "Level": 1,
+    "Star": 1,
+    "EquipmentIDs": []
+   },
+   {
+    "MonsterPos": 4,
+    "MonsterID": 910103,
+    "Level": 1,
+    "Star": 1,
+    "EquipmentIDs": []
+   },
+   {
+    "MonsterPos": 5,
+    "MonsterID": 910101,
+    "Level": 1,
+    "Star": 1,
+    "EquipmentIDs": []
+   }
+  ],
+  "AttrIDs": [
+   100,
+   4,
+   102,
+   215,
+   216,
+   213,
+   230,
+   204,
+   207
+  ],
+  "AttrTypes": [
+   2,
+   2,
+   2,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   -4000,
+   -6000,
+   -4000,
+   500,
+   500,
+   200,
+   200,
+   200,
+   200
+  ],
+  "HeroID": [
+   140301,
+   110602,
+   120603,
+   450101,
+   150501
+  ],
+  "LockedHeroID": [
+   150501
+  ],
+  "LockedHeroStar": [
+   6
+  ],
+  "HeroNumID": 5,
+  "AttrIDs1": [
+   100,
+   4,
+   102,
+   215,
+   216,
+   213,
+   230,
+   204,
+   207
+  ],
+  "AttrTypes1": [
+   2,
+   2,
+   2,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1
+  ],
+  "AttrVals1": [
+   4000,
+   4000,
+   4000,
+   500,
+   500,
+   200,
+   200,
+   200,
+   200
+  ],
+  "Unlock": 3,
+  "Reward": [
+   110
+  ],
+  "StageIcon": "Icon_Head_tx_830203"
+ },
+ {
+  "ID": 1007,
+  "EventID": 1000,
+  "GroupID": 7,
+  "LevelID": 1000,
+  "LevelMonsters": [
+   {
+    "MonsterPos": 18,
+    "MonsterID": 910104,
+    "Level": 1,
+    "Star": 1,
+    "EquipmentIDs": []
+   },
+   {
+    "MonsterPos": 13,
+    "MonsterID": 910104,
+    "Level": 1,
+    "Star": 1,
+    "EquipmentIDs": []
+   },
+   {
+    "MonsterPos": 1,
+    "MonsterID": 910101,
+    "Level": 1,
+    "Star": 1,
+    "EquipmentIDs": []
+   },
+   {
+    "MonsterPos": 2,
+    "MonsterID": 910103,
+    "Level": 1,
+    "Star": 1,
+    "EquipmentIDs": []
+   },
+   {
+    "MonsterPos": 4,
+    "MonsterID": 910103,
+    "Level": 1,
+    "Star": 1,
+    "EquipmentIDs": []
+   },
+   {
+    "MonsterPos": 5,
+    "MonsterID": 910101,
+    "Level": 1,
+    "Star": 1,
+    "EquipmentIDs": []
+   }
+  ],
+  "AttrIDs": [
+   100,
+   4,
+   102,
+   215,
+   216,
+   213,
+   230,
+   204,
+   207
+  ],
+  "AttrTypes": [
+   2,
+   2,
+   2,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   -4000,
+   -6000,
+   -4000,
+   500,
+   500,
+   200,
+   200,
+   200,
+   200
+  ],
+  "HeroID": [
+   140301,
+   110602,
+   120603,
+   450101,
+   150501
+  ],
+  "LockedHeroID": [
+   150501
+  ],
+  "LockedHeroStar": [
+   7
+  ],
+  "HeroNumID": 5,
+  "AttrIDs1": [
+   100,
+   4,
+   102,
+   215,
+   216,
+   213,
+   230,
+   204,
+   207
+  ],
+  "AttrTypes1": [
+   2,
+   2,
+   2,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1
+  ],
+  "AttrVals1": [
+   4000,
+   4000,
+   4000,
+   500,
+   500,
+   200,
+   200,
+   200,
+   200
+  ],
+  "Unlock": 4,
+  "Reward": [
+   110
+  ],
+  "StageIcon": "ChatEmoji_croc_23"
+ },
+ {
+  "ID": 1008,
+  "EventID": 1000,
+  "GroupID": 8,
+  "LevelID": 1000,
+  "LevelMonsters": [
+   {
+    "MonsterPos": 18,
+    "MonsterID": 910104,
+    "Level": 1,
+    "Star": 1,
+    "EquipmentIDs": []
+   },
+   {
+    "MonsterPos": 13,
+    "MonsterID": 910104,
+    "Level": 1,
+    "Star": 1,
+    "EquipmentIDs": []
+   },
+   {
+    "MonsterPos": 1,
+    "MonsterID": 910101,
+    "Level": 1,
+    "Star": 1,
+    "EquipmentIDs": []
+   },
+   {
+    "MonsterPos": 2,
+    "MonsterID": 910103,
+    "Level": 1,
+    "Star": 1,
+    "EquipmentIDs": []
+   },
+   {
+    "MonsterPos": 4,
+    "MonsterID": 910103,
+    "Level": 1,
+    "Star": 1,
+    "EquipmentIDs": []
+   },
+   {
+    "MonsterPos": 5,
+    "MonsterID": 910101,
+    "Level": 1,
+    "Star": 1,
+    "EquipmentIDs": []
+   }
+  ],
+  "AttrIDs": [
+   100,
+   4,
+   102,
+   215,
+   216,
+   213,
+   230,
+   204,
+   207
+  ],
+  "AttrTypes": [
+   2,
+   2,
+   2,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   -4000,
+   -6000,
+   -4000,
+   500,
+   500,
+   200,
+   200,
+   200,
+   200
+  ],
+  "HeroID": [
+   140301,
+   110602,
+   120603,
+   450101,
+   150501
+  ],
+  "LockedHeroID": [
+   150501
+  ],
+  "LockedHeroStar": [
+   8
+  ],
+  "HeroNumID": 5,
+  "AttrIDs1": [
+   100,
+   4,
+   102,
+   215,
+   216,
+   213,
+   230,
+   204,
+   207
+  ],
+  "AttrTypes1": [
+   2,
+   2,
+   2,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1
+  ],
+  "AttrVals1": [
+   4000,
+   4000,
+   4000,
+   500,
+   500,
+   200,
+   200,
+   200,
+   200
+  ],
+  "Unlock": 5,
+  "Reward": [
+   110
+  ],
+  "StageIcon": "Icon_Head_tx_830203"
+ },
+ {
+  "ID": 2001,
+  "EventID": 2000,
+  "GroupID": 1,
+  "LevelID": 2000,
+  "LevelMonsters": [
+   {
+    "MonsterPos": 18,
+    "MonsterID": 910104,
+    "Level": 1,
+    "Star": 1,
+    "EquipmentIDs": []
+   },
+   {
+    "MonsterPos": 13,
+    "MonsterID": 910104,
+    "Level": 1,
+    "Star": 1,
+    "EquipmentIDs": []
+   },
+   {
+    "MonsterPos": 1,
+    "MonsterID": 910101,
+    "Level": 1,
+    "Star": 1,
+    "EquipmentIDs": []
+   },
+   {
+    "MonsterPos": 2,
+    "MonsterID": 910103,
+    "Level": 1,
+    "Star": 1,
+    "EquipmentIDs": []
+   },
+   {
+    "MonsterPos": 4,
+    "MonsterID": 910103,
+    "Level": 1,
+    "Star": 1,
+    "EquipmentIDs": []
+   },
+   {
+    "MonsterPos": 5,
+    "MonsterID": 910101,
+    "Level": 1,
+    "Star": 1,
+    "EquipmentIDs": []
+   }
+  ],
+  "AttrIDs": [
+   100,
+   4,
+   102,
+   215,
+   216,
+   213,
+   230,
+   204,
+   207
+  ],
+  "AttrTypes": [
+   2,
+   2,
+   2,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   -4000,
+   -6000,
+   -4000,
+   500,
+   500,
+   200,
+   200,
+   200,
+   200
+  ],
+  "HeroID": [],
+  "LockedHeroID": [
+   150501
+  ],
+  "LockedHeroStar": [
+   1
+  ],
+  "HeroNumID": 1,
+  "AttrIDs1": [
+   100,
+   4,
+   102,
+   215,
+   216,
+   213,
+   230,
+   204,
+   207
+  ],
+  "AttrTypes1": [
+   2,
+   2,
+   2,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1
+  ],
+  "AttrVals1": [
+   4000,
+   4000,
+   4000,
+   500,
+   500,
+   200,
+   200,
+   200,
+   200
+  ],
+  "Unlock": 0,
+  "Reward": [
+   110
+  ],
+  "StageIcon": "ChatEmoji_croc_23"
+ },
+ {
+  "ID": 2002,
+  "EventID": 2000,
+  "GroupID": 2,
+  "LevelID": 2000,
+  "LevelMonsters": [
+   {
+    "MonsterPos": 18,
+    "MonsterID": 910104,
+    "Level": 1,
+    "Star": 1,
+    "EquipmentIDs": []
+   },
+   {
+    "MonsterPos": 13,
+    "MonsterID": 910104,
+    "Level": 1,
+    "Star": 1,
+    "EquipmentIDs": []
+   },
+   {
+    "MonsterPos": 1,
+    "MonsterID": 910101,
+    "Level": 1,
+    "Star": 1,
+    "EquipmentIDs": []
+   },
+   {
+    "MonsterPos": 2,
+    "MonsterID": 910103,
+    "Level": 1,
+    "Star": 1,
+    "EquipmentIDs": []
+   },
+   {
+    "MonsterPos": 4,
+    "MonsterID": 910103,
+    "Level": 1,
+    "Star": 1,
+    "EquipmentIDs": []
+   },
+   {
+    "MonsterPos": 5,
+    "MonsterID": 910101,
+    "Level": 1,
+    "Star": 1,
+    "EquipmentIDs": []
+   }
+  ],
+  "AttrIDs": [
+   100,
+   4,
+   102,
+   215,
+   216,
+   213,
+   230,
+   204,
+   207
+  ],
+  "AttrTypes": [
+   2,
+   2,
+   2,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   -4000,
+   -6000,
+   -4000,
+   500,
+   500,
+   200,
+   200,
+   200,
+   200
+  ],
+  "HeroID": [],
+  "LockedHeroID": [
+   150501
+  ],
+  "LockedHeroStar": [
+   2
+  ],
+  "HeroNumID": 1,
+  "AttrIDs1": [
+   100,
+   4,
+   102,
+   215,
+   216,
+   213,
+   230,
+   204,
+   207
+  ],
+  "AttrTypes1": [
+   2,
+   2,
+   2,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1
+  ],
+  "AttrVals1": [
+   4000,
+   4000,
+   4000,
+   500,
+   500,
+   200,
+   200,
+   200,
+   200
+  ],
+  "Unlock": 0,
+  "Reward": [
+   110
+  ],
+  "StageIcon": "Icon_Head_tx_830203"
+ },
+ {
+  "ID": 2003,
+  "EventID": 2000,
+  "GroupID": 3,
+  "LevelID": 2000,
+  "LevelMonsters": [
+   {
+    "MonsterPos": 18,
+    "MonsterID": 910104,
+    "Level": 1,
+    "Star": 1,
+    "EquipmentIDs": []
+   },
+   {
+    "MonsterPos": 13,
+    "MonsterID": 910104,
+    "Level": 1,
+    "Star": 1,
+    "EquipmentIDs": []
+   },
+   {
+    "MonsterPos": 1,
+    "MonsterID": 910101,
+    "Level": 1,
+    "Star": 1,
+    "EquipmentIDs": []
+   },
+   {
+    "MonsterPos": 2,
+    "MonsterID": 910103,
+    "Level": 1,
+    "Star": 1,
+    "EquipmentIDs": []
+   },
+   {
+    "MonsterPos": 4,
+    "MonsterID": 910103,
+    "Level": 1,
+    "Star": 1,
+    "EquipmentIDs": []
+   },
+   {
+    "MonsterPos": 5,
+    "MonsterID": 910101,
+    "Level": 1,
+    "Star": 1,
+    "EquipmentIDs": []
+   }
+  ],
+  "AttrIDs": [
+   100,
+   4,
+   102,
+   215,
+   216,
+   213,
+   230,
+   204,
+   207
+  ],
+  "AttrTypes": [
+   2,
+   2,
+   2,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   -4000,
+   -6000,
+   -4000,
+   500,
+   500,
+   200,
+   200,
+   200,
+   200
+  ],
+  "HeroID": [
+   140301,
+   110602,
+   120603,
+   450101,
+   150501
+  ],
+  "LockedHeroID": [
+   150501
+  ],
+  "LockedHeroStar": [
+   3
+  ],
+  "HeroNumID": 3,
+  "AttrIDs1": [
+   100,
+   4,
+   102,
+   215,
+   216,
+   213,
+   230,
+   204,
+   207
+  ],
+  "AttrTypes1": [
+   2,
+   2,
+   2,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1
+  ],
+  "AttrVals1": [
+   4000,
+   4000,
+   4000,
+   500,
+   500,
+   200,
+   200,
+   200,
+   200
+  ],
+  "Unlock": 0,
+  "Reward": [
+   110
+  ],
+  "StageIcon": "ChatEmoji_croc_23"
+ },
+ {
+  "ID": 2004,
+  "EventID": 2000,
+  "GroupID": 4,
+  "LevelID": 2000,
+  "LevelMonsters": [
+   {
+    "MonsterPos": 18,
+    "MonsterID": 910104,
+    "Level": 1,
+    "Star": 1,
+    "EquipmentIDs": []
+   },
+   {
+    "MonsterPos": 13,
+    "MonsterID": 910104,
+    "Level": 1,
+    "Star": 1,
+    "EquipmentIDs": []
+   },
+   {
+    "MonsterPos": 1,
+    "MonsterID": 910101,
+    "Level": 1,
+    "Star": 1,
+    "EquipmentIDs": []
+   },
+   {
+    "MonsterPos": 2,
+    "MonsterID": 910103,
+    "Level": 1,
+    "Star": 1,
+    "EquipmentIDs": []
+   },
+   {
+    "MonsterPos": 4,
+    "MonsterID": 910103,
+    "Level": 1,
+    "Star": 1,
+    "EquipmentIDs": []
+   },
+   {
+    "MonsterPos": 5,
+    "MonsterID": 910101,
+    "Level": 1,
+    "Star": 1,
+    "EquipmentIDs": []
+   }
+  ],
+  "AttrIDs": [
+   100,
+   4,
+   102,
+   215,
+   216,
+   213,
+   230,
+   204,
+   207
+  ],
+  "AttrTypes": [
+   2,
+   2,
+   2,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   -4000,
+   -6000,
+   -4000,
+   500,
+   500,
+   200,
+   200,
+   200,
+   200
+  ],
+  "HeroID": [
+   140301,
+   110602,
+   120603,
+   450101,
+   150501
+  ],
+  "LockedHeroID": [
+   150501
+  ],
+  "LockedHeroStar": [
+   4
+  ],
+  "HeroNumID": 3,
+  "AttrIDs1": [
+   100,
+   4,
+   102,
+   215,
+   216,
+   213,
+   230,
+   204,
+   207
+  ],
+  "AttrTypes1": [
+   2,
+   2,
+   2,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1
+  ],
+  "AttrVals1": [
+   4000,
+   4000,
+   4000,
+   500,
+   500,
+   200,
+   200,
+   200,
+   200
+  ],
+  "Unlock": 1,
+  "Reward": [
+   110
+  ],
+  "StageIcon": "Icon_Head_tx_830203"
+ },
+ {
+  "ID": 2005,
+  "EventID": 2000,
+  "GroupID": 5,
+  "LevelID": 2000,
+  "LevelMonsters": [
+   {
+    "MonsterPos": 18,
+    "MonsterID": 910104,
+    "Level": 1,
+    "Star": 1,
+    "EquipmentIDs": []
+   },
+   {
+    "MonsterPos": 13,
+    "MonsterID": 910104,
+    "Level": 1,
+    "Star": 1,
+    "EquipmentIDs": []
+   },
+   {
+    "MonsterPos": 1,
+    "MonsterID": 910101,
+    "Level": 1,
+    "Star": 1,
+    "EquipmentIDs": []
+   },
+   {
+    "MonsterPos": 2,
+    "MonsterID": 910103,
+    "Level": 1,
+    "Star": 1,
+    "EquipmentIDs": []
+   },
+   {
+    "MonsterPos": 4,
+    "MonsterID": 910103,
+    "Level": 1,
+    "Star": 1,
+    "EquipmentIDs": []
+   },
+   {
+    "MonsterPos": 5,
+    "MonsterID": 910101,
+    "Level": 1,
+    "Star": 1,
+    "EquipmentIDs": []
+   }
+  ],
+  "AttrIDs": [
+   100,
+   4,
+   102,
+   215,
+   216,
+   213,
+   230,
+   204,
+   207
+  ],
+  "AttrTypes": [
+   2,
+   2,
+   2,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   -4000,
+   -6000,
+   -4000,
+   500,
+   500,
+   200,
+   200,
+   200,
+   200
+  ],
+  "HeroID": [
+   140301,
+   110602,
+   120603,
+   450101,
+   150501
+  ],
+  "LockedHeroID": [
+   150501
+  ],
+  "LockedHeroStar": [
+   5
+  ],
+  "HeroNumID": 4,
+  "AttrIDs1": [
+   100,
+   4,
+   102,
+   215,
+   216,
+   213,
+   230,
+   204,
+   207
+  ],
+  "AttrTypes1": [
+   2,
+   2,
+   2,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1
+  ],
+  "AttrVals1": [
+   4000,
+   4000,
+   4000,
+   500,
+   500,
+   200,
+   200,
+   200,
+   200
+  ],
+  "Unlock": 2,
+  "Reward": [
+   110
+  ],
+  "StageIcon": "ChatEmoji_croc_23"
+ },
+ {
+  "ID": 2006,
+  "EventID": 2000,
+  "GroupID": 6,
+  "LevelID": 2000,
+  "LevelMonsters": [
+   {
+    "MonsterPos": 18,
+    "MonsterID": 910104,
+    "Level": 1,
+    "Star": 1,
+    "EquipmentIDs": []
+   },
+   {
+    "MonsterPos": 13,
+    "MonsterID": 910104,
+    "Level": 1,
+    "Star": 1,
+    "EquipmentIDs": []
+   },
+   {
+    "MonsterPos": 1,
+    "MonsterID": 910101,
+    "Level": 1,
+    "Star": 1,
+    "EquipmentIDs": []
+   },
+   {
+    "MonsterPos": 2,
+    "MonsterID": 910103,
+    "Level": 1,
+    "Star": 1,
+    "EquipmentIDs": []
+   },
+   {
+    "MonsterPos": 4,
+    "MonsterID": 910103,
+    "Level": 1,
+    "Star": 1,
+    "EquipmentIDs": []
+   },
+   {
+    "MonsterPos": 5,
+    "MonsterID": 910101,
+    "Level": 1,
+    "Star": 1,
+    "EquipmentIDs": []
+   }
+  ],
+  "AttrIDs": [
+   100,
+   4,
+   102,
+   215,
+   216,
+   213,
+   230,
+   204,
+   207
+  ],
+  "AttrTypes": [
+   2,
+   2,
+   2,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   -4000,
+   -6000,
+   -4000,
+   500,
+   500,
+   200,
+   200,
+   200,
+   200
+  ],
+  "HeroID": [
+   140301,
+   110602,
+   120603,
+   450101,
+   150501
+  ],
+  "LockedHeroID": [
+   150501
+  ],
+  "LockedHeroStar": [
+   6
+  ],
+  "HeroNumID": 5,
+  "AttrIDs1": [
+   100,
+   4,
+   102,
+   215,
+   216,
+   213,
+   230,
+   204,
+   207
+  ],
+  "AttrTypes1": [
+   2,
+   2,
+   2,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1
+  ],
+  "AttrVals1": [
+   4000,
+   4000,
+   4000,
+   500,
+   500,
+   200,
+   200,
+   200,
+   200
+  ],
+  "Unlock": 3,
+  "Reward": [
+   110
+  ],
+  "StageIcon": "Icon_Head_tx_830203"
+ },
+ {
+  "ID": 2007,
+  "EventID": 2000,
+  "GroupID": 7,
+  "LevelID": 2000,
+  "LevelMonsters": [
+   {
+    "MonsterPos": 18,
+    "MonsterID": 910104,
+    "Level": 1,
+    "Star": 1,
+    "EquipmentIDs": []
+   },
+   {
+    "MonsterPos": 13,
+    "MonsterID": 910104,
+    "Level": 1,
+    "Star": 1,
+    "EquipmentIDs": []
+   },
+   {
+    "MonsterPos": 1,
+    "MonsterID": 910101,
+    "Level": 1,
+    "Star": 1,
+    "EquipmentIDs": []
+   },
+   {
+    "MonsterPos": 2,
+    "MonsterID": 910103,
+    "Level": 1,
+    "Star": 1,
+    "EquipmentIDs": []
+   },
+   {
+    "MonsterPos": 4,
+    "MonsterID": 910103,
+    "Level": 1,
+    "Star": 1,
+    "EquipmentIDs": []
+   },
+   {
+    "MonsterPos": 5,
+    "MonsterID": 910101,
+    "Level": 1,
+    "Star": 1,
+    "EquipmentIDs": []
+   }
+  ],
+  "AttrIDs": [
+   100,
+   4,
+   102,
+   215,
+   216,
+   213,
+   230,
+   204,
+   207
+  ],
+  "AttrTypes": [
+   2,
+   2,
+   2,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   -4000,
+   -6000,
+   -4000,
+   500,
+   500,
+   200,
+   200,
+   200,
+   200
+  ],
+  "HeroID": [
+   140301,
+   110602,
+   120603,
+   450101,
+   150501
+  ],
+  "LockedHeroID": [
+   150501
+  ],
+  "LockedHeroStar": [
+   7
+  ],
+  "HeroNumID": 5,
+  "AttrIDs1": [
+   100,
+   4,
+   102,
+   215,
+   216,
+   213,
+   230,
+   204,
+   207
+  ],
+  "AttrTypes1": [
+   2,
+   2,
+   2,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1
+  ],
+  "AttrVals1": [
+   4000,
+   4000,
+   4000,
+   500,
+   500,
+   200,
+   200,
+   200,
+   200
+  ],
+  "Unlock": 4,
+  "Reward": [
+   110
+  ],
+  "StageIcon": "ChatEmoji_croc_23"
+ },
+ {
+  "ID": 2008,
+  "EventID": 2000,
+  "GroupID": 8,
+  "LevelID": 2000,
+  "LevelMonsters": [
+   {
+    "MonsterPos": 18,
+    "MonsterID": 910104,
+    "Level": 1,
+    "Star": 1,
+    "EquipmentIDs": []
+   },
+   {
+    "MonsterPos": 13,
+    "MonsterID": 910104,
+    "Level": 1,
+    "Star": 1,
+    "EquipmentIDs": []
+   },
+   {
+    "MonsterPos": 1,
+    "MonsterID": 910101,
+    "Level": 1,
+    "Star": 1,
+    "EquipmentIDs": []
+   },
+   {
+    "MonsterPos": 2,
+    "MonsterID": 910103,
+    "Level": 1,
+    "Star": 1,
+    "EquipmentIDs": []
+   },
+   {
+    "MonsterPos": 4,
+    "MonsterID": 910103,
+    "Level": 1,
+    "Star": 1,
+    "EquipmentIDs": []
+   },
+   {
+    "MonsterPos": 5,
+    "MonsterID": 910101,
+    "Level": 1,
+    "Star": 1,
+    "EquipmentIDs": []
+   }
+  ],
+  "AttrIDs": [
+   100,
+   4,
+   102,
+   215,
+   216,
+   213,
+   230,
+   204,
+   207
+  ],
+  "AttrTypes": [
+   2,
+   2,
+   2,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   -4000,
+   -6000,
+   -4000,
+   500,
+   500,
+   200,
+   200,
+   200,
+   200
+  ],
+  "HeroID": [
+   140301,
+   110602,
+   120603,
+   450101,
+   150501
+  ],
+  "LockedHeroID": [
+   150501
+  ],
+  "LockedHeroStar": [
+   8
+  ],
+  "HeroNumID": 5,
+  "AttrIDs1": [
+   100,
+   4,
+   102,
+   215,
+   216,
+   213,
+   230,
+   204,
+   207
+  ],
+  "AttrTypes1": [
+   2,
+   2,
+   2,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1
+  ],
+  "AttrVals1": [
+   4000,
+   4000,
+   4000,
+   500,
+   500,
+   200,
+   200,
+   200,
+   200
+  ],
+  "Unlock": 5,
+  "Reward": [
+   110
+  ],
+  "StageIcon": "Icon_Head_tx_830203"
+ }
+]

@@ -1,0 +1,695 @@
+[
+ {
+  "ID": 1001,
+  "MonsterId": 110602,
+  "MonsterLevel": 13,
+  "AttrIDs": [
+   100,
+   4,
+   102
+  ],
+  "AttrTypes": [
+   2,
+   2,
+   2
+  ],
+  "AttrVals": [
+   150000,
+   150000,
+   300000
+  ],
+  "RewardId": 901000
+ },
+ {
+  "ID": 1002,
+  "MonsterId": 110603,
+  "MonsterLevel": 13,
+  "AttrIDs": [
+   100,
+   4,
+   102
+  ],
+  "AttrTypes": [
+   2,
+   2,
+   2
+  ],
+  "AttrVals": [
+   150000,
+   150000,
+   300000
+  ],
+  "RewardId": 901000
+ },
+ {
+  "ID": 1003,
+  "MonsterId": 110604,
+  "MonsterLevel": 13,
+  "AttrIDs": [
+   100,
+   4,
+   102
+  ],
+  "AttrTypes": [
+   2,
+   2,
+   2
+  ],
+  "AttrVals": [
+   150000,
+   150000,
+   300000
+  ],
+  "RewardId": 901000
+ },
+ {
+  "ID": 1004,
+  "MonsterId": 120602,
+  "MonsterLevel": 13,
+  "AttrIDs": [
+   100,
+   4,
+   102
+  ],
+  "AttrTypes": [
+   2,
+   2,
+   2
+  ],
+  "AttrVals": [
+   150000,
+   150000,
+   300000
+  ],
+  "RewardId": 901000
+ },
+ {
+  "ID": 1005,
+  "MonsterId": 120603,
+  "MonsterLevel": 13,
+  "AttrIDs": [
+   100,
+   4,
+   102
+  ],
+  "AttrTypes": [
+   2,
+   2,
+   2
+  ],
+  "AttrVals": [
+   150000,
+   150000,
+   300000
+  ],
+  "RewardId": 901000
+ },
+ {
+  "ID": 1006,
+  "MonsterId": 1206031,
+  "MonsterLevel": 13,
+  "AttrIDs": [
+   100,
+   4,
+   102
+  ],
+  "AttrTypes": [
+   2,
+   2,
+   2
+  ],
+  "AttrVals": [
+   150000,
+   150000,
+   300000
+  ],
+  "RewardId": 901000
+ },
+ {
+  "ID": 1007,
+  "MonsterId": 130601,
+  "MonsterLevel": 13,
+  "AttrIDs": [
+   100,
+   4,
+   102
+  ],
+  "AttrTypes": [
+   2,
+   2,
+   2
+  ],
+  "AttrVals": [
+   150000,
+   150000,
+   300000
+  ],
+  "RewardId": 901000
+ },
+ {
+  "ID": 1008,
+  "MonsterId": 130602,
+  "MonsterLevel": 13,
+  "AttrIDs": [
+   100,
+   4,
+   102
+  ],
+  "AttrTypes": [
+   2,
+   2,
+   2
+  ],
+  "AttrVals": [
+   150000,
+   150000,
+   300000
+  ],
+  "RewardId": 901000
+ },
+ {
+  "ID": 1009,
+  "MonsterId": 130603,
+  "MonsterLevel": 13,
+  "AttrIDs": [
+   100,
+   4,
+   102
+  ],
+  "AttrTypes": [
+   2,
+   2,
+   2
+  ],
+  "AttrVals": [
+   150000,
+   150000,
+   300000
+  ],
+  "RewardId": 901000
+ },
+ {
+  "ID": 1010,
+  "MonsterId": 140402,
+  "MonsterLevel": 13,
+  "AttrIDs": [
+   100,
+   4,
+   102
+  ],
+  "AttrTypes": [
+   2,
+   2,
+   2
+  ],
+  "AttrVals": [
+   150000,
+   150000,
+   300000
+  ],
+  "RewardId": 901000
+ },
+ {
+  "ID": 1011,
+  "MonsterId": 140403,
+  "MonsterLevel": 13,
+  "AttrIDs": [
+   100,
+   4,
+   102
+  ],
+  "AttrTypes": [
+   2,
+   2,
+   2
+  ],
+  "AttrVals": [
+   150000,
+   150000,
+   300000
+  ],
+  "RewardId": 901000
+ },
+ {
+  "ID": 1012,
+  "MonsterId": 140404,
+  "MonsterLevel": 13,
+  "AttrIDs": [
+   100,
+   4,
+   102
+  ],
+  "AttrTypes": [
+   2,
+   2,
+   2
+  ],
+  "AttrVals": [
+   150000,
+   150000,
+   300000
+  ],
+  "RewardId": 901000
+ },
+ {
+  "ID": 1013,
+  "MonsterId": 410101,
+  "MonsterLevel": 13,
+  "AttrIDs": [
+   100,
+   4,
+   102
+  ],
+  "AttrTypes": [
+   2,
+   2,
+   2
+  ],
+  "AttrVals": [
+   150000,
+   150000,
+   300000
+  ],
+  "RewardId": 901000
+ },
+ {
+  "ID": 1014,
+  "MonsterId": 410301,
+  "MonsterLevel": 13,
+  "AttrIDs": [
+   100,
+   4,
+   102
+  ],
+  "AttrTypes": [
+   2,
+   2,
+   2
+  ],
+  "AttrVals": [
+   150000,
+   150000,
+   300000
+  ],
+  "RewardId": 901000
+ },
+ {
+  "ID": 1015,
+  "MonsterId": 420101,
+  "MonsterLevel": 13,
+  "AttrIDs": [
+   100,
+   4,
+   102
+  ],
+  "AttrTypes": [
+   2,
+   2,
+   2
+  ],
+  "AttrVals": [
+   150000,
+   150000,
+   300000
+  ],
+  "RewardId": 901000
+ },
+ {
+  "ID": 1016,
+  "MonsterId": 430301,
+  "MonsterLevel": 13,
+  "AttrIDs": [
+   100,
+   4,
+   102
+  ],
+  "AttrTypes": [
+   2,
+   2,
+   2
+  ],
+  "AttrVals": [
+   150000,
+   150000,
+   300000
+  ],
+  "RewardId": 901000
+ },
+ {
+  "ID": 1017,
+  "MonsterId": 430401,
+  "MonsterLevel": 13,
+  "AttrIDs": [
+   100,
+   4,
+   102
+  ],
+  "AttrTypes": [
+   2,
+   2,
+   2
+  ],
+  "AttrVals": [
+   150000,
+   150000,
+   300000
+  ],
+  "RewardId": 901000
+ },
+ {
+  "ID": 1018,
+  "MonsterId": 440201,
+  "MonsterLevel": 13,
+  "AttrIDs": [
+   100,
+   4,
+   102
+  ],
+  "AttrTypes": [
+   2,
+   2,
+   2
+  ],
+  "AttrVals": [
+   150000,
+   150000,
+   300000
+  ],
+  "RewardId": 901000
+ },
+ {
+  "ID": 1019,
+  "MonsterId": 440401,
+  "MonsterLevel": 13,
+  "AttrIDs": [
+   100,
+   4,
+   102
+  ],
+  "AttrTypes": [
+   2,
+   2,
+   2
+  ],
+  "AttrVals": [
+   150000,
+   150000,
+   300000
+  ],
+  "RewardId": 901000
+ },
+ {
+  "ID": 1020,
+  "MonsterId": 450101,
+  "MonsterLevel": 13,
+  "AttrIDs": [
+   100,
+   4,
+   102
+  ],
+  "AttrTypes": [
+   2,
+   2,
+   2
+  ],
+  "AttrVals": [
+   150000,
+   150000,
+   300000
+  ],
+  "RewardId": 901000
+ },
+ {
+  "ID": 1021,
+  "MonsterId": 150501,
+  "MonsterLevel": 9,
+  "AttrIDs": [
+   100,
+   4,
+   102
+  ],
+  "AttrTypes": [
+   2,
+   2,
+   2
+  ],
+  "AttrVals": [
+   150000,
+   150000,
+   300000
+  ],
+  "RewardId": 901000
+ },
+ {
+  "ID": 1022,
+  "MonsterId": 210401,
+  "MonsterLevel": 15,
+  "AttrIDs": [
+   100,
+   4,
+   102
+  ],
+  "AttrTypes": [
+   2,
+   2,
+   2
+  ],
+  "AttrVals": [
+   150000,
+   150000,
+   300000
+  ],
+  "RewardId": 901000
+ },
+ {
+  "ID": 1023,
+  "MonsterId": 210301,
+  "MonsterLevel": 13,
+  "AttrIDs": [
+   100,
+   4,
+   102
+  ],
+  "AttrTypes": [
+   2,
+   2,
+   2
+  ],
+  "AttrVals": [
+   150000,
+   150000,
+   300000
+  ],
+  "RewardId": 901000
+ },
+ {
+  "ID": 1024,
+  "MonsterId": 210501,
+  "MonsterLevel": 9,
+  "AttrIDs": [
+   100,
+   4,
+   102
+  ],
+  "AttrTypes": [
+   2,
+   2,
+   2
+  ],
+  "AttrVals": [
+   150000,
+   150000,
+   300000
+  ],
+  "RewardId": 901000
+ },
+ {
+  "ID": 2001,
+  "MonsterId": 930201,
+  "MonsterLevel": 1,
+  "AttrIDs": [
+   100,
+   4,
+   102
+  ],
+  "AttrTypes": [
+   2,
+   2,
+   2
+  ],
+  "AttrVals": [
+   10000,
+   10000,
+   10000
+  ],
+  "RewardId": 902000
+ },
+ {
+  "ID": 3001,
+  "MonsterId": 930101,
+  "MonsterLevel": 1,
+  "AttrIDs": [
+   100,
+   4,
+   102
+  ],
+  "AttrTypes": [
+   2,
+   2,
+   2
+  ],
+  "AttrVals": [
+   10000,
+   10000,
+   10000
+  ],
+  "RewardId": 903000
+ },
+ {
+  "ID": 3002,
+  "MonsterId": 930102,
+  "MonsterLevel": 1,
+  "AttrIDs": [
+   100,
+   4,
+   102
+  ],
+  "AttrTypes": [
+   2,
+   2,
+   2
+  ],
+  "AttrVals": [
+   10000,
+   10000,
+   10000
+  ],
+  "RewardId": 904000
+ },
+ {
+  "ID": 3003,
+  "MonsterId": 930103,
+  "MonsterLevel": 1,
+  "AttrIDs": [
+   100,
+   4,
+   102
+  ],
+  "AttrTypes": [
+   2,
+   2,
+   2
+  ],
+  "AttrVals": [
+   10000,
+   10000,
+   10000
+  ],
+  "RewardId": 905000
+ },
+ {
+  "ID": 3004,
+  "MonsterId": 930104,
+  "MonsterLevel": 1,
+  "AttrIDs": [
+   100,
+   4,
+   102
+  ],
+  "AttrTypes": [
+   2,
+   2,
+   2
+  ],
+  "AttrVals": [
+   10000,
+   10000,
+   10000
+  ],
+  "RewardId": 906000
+ },
+ {
+  "ID": 3005,
+  "MonsterId": 930105,
+  "MonsterLevel": 1,
+  "AttrIDs": [
+   100,
+   4,
+   102
+  ],
+  "AttrTypes": [
+   2,
+   2,
+   2
+  ],
+  "AttrVals": [
+   10000,
+   10000,
+   10000
+  ],
+  "RewardId": 907000
+ },
+ {
+  "ID": 3006,
+  "MonsterId": 930106,
+  "MonsterLevel": 1,
+  "AttrIDs": [
+   100,
+   4,
+   102
+  ],
+  "AttrTypes": [
+   2,
+   2,
+   2
+  ],
+  "AttrVals": [
+   10000,
+   10000,
+   10000
+  ],
+  "RewardId": 908000
+ },
+ {
+  "ID": 3007,
+  "MonsterId": 930107,
+  "MonsterLevel": 1,
+  "AttrIDs": [
+   100,
+   4,
+   102
+  ],
+  "AttrTypes": [
+   2,
+   2,
+   2
+  ],
+  "AttrVals": [
+   10000,
+   10000,
+   10000
+  ],
+  "RewardId": 909000
+ },
+ {
+  "ID": 3008,
+  "MonsterId": 930108,
+  "MonsterLevel": 1,
+  "AttrIDs": [
+   100,
+   4,
+   102
+  ],
+  "AttrTypes": [
+   2,
+   2,
+   2
+  ],
+  "AttrVals": [
+   10000,
+   10000,
+   10000
+  ],
+  "RewardId": 910000
+ }
+]

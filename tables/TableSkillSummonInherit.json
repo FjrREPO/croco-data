@@ -1,0 +1,3503 @@
+[
+ {
+  "InheritID": 10001,
+  "InheritValueTypes": [
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  "InheritTargets": [
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1
+  ],
+  "InheritAttrIDs": [
+   4,
+   100,
+   102,
+   213,
+   215,
+   216
+  ],
+  "InheritRatios": [
+   {
+    "Key": "",
+    "Num": 500
+   },
+   {
+    "Key": "",
+    "Num": 100
+   },
+   {
+    "Key": "",
+    "Num": 100
+   },
+   {
+    "Key": "",
+    "Num": 100
+   },
+   {
+    "Key": "",
+    "Num": 100
+   },
+   {
+    "Key": "",
+    "Num": 100
+   }
+  ]
+ },
+ {
+  "InheritID": 10035,
+  "InheritValueTypes": [
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  "InheritTargets": [
+   1999,
+   1999,
+   1999,
+   1999,
+   1999,
+   1999,
+   1999
+  ],
+  "InheritAttrIDs": [
+   4,
+   100,
+   102,
+   3,
+   213,
+   215,
+   216
+  ],
+  "InheritRatios": [
+   {
+    "Key": "@100350",
+    "Num": 0
+   },
+   {
+    "Key": "@100350",
+    "Num": 0
+   },
+   {
+    "Key": "",
+    "Num": 100
+   },
+   {
+    "Key": "",
+    "Num": 100
+   },
+   {
+    "Key": "",
+    "Num": 100
+   },
+   {
+    "Key": "",
+    "Num": 100
+   },
+   {
+    "Key": "",
+    "Num": 100
+   }
+  ]
+ },
+ {
+  "InheritID": 10036,
+  "InheritValueTypes": [
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  "InheritTargets": [
+   1999,
+   1999,
+   1999,
+   1999,
+   1999,
+   1999,
+   1999
+  ],
+  "InheritAttrIDs": [
+   4,
+   100,
+   102,
+   3,
+   213,
+   215,
+   216
+  ],
+  "InheritRatios": [
+   {
+    "Key": "@100360",
+    "Num": 0
+   },
+   {
+    "Key": "@100360",
+    "Num": 0
+   },
+   {
+    "Key": "",
+    "Num": 100
+   },
+   {
+    "Key": "",
+    "Num": 100
+   },
+   {
+    "Key": "",
+    "Num": 100
+   },
+   {
+    "Key": "",
+    "Num": 100
+   },
+   {
+    "Key": "",
+    "Num": 100
+   }
+  ]
+ },
+ {
+  "InheritID": 10037,
+  "InheritValueTypes": [
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  "InheritTargets": [
+   1999,
+   1999,
+   1999,
+   1999,
+   1999,
+   1999,
+   1999
+  ],
+  "InheritAttrIDs": [
+   4,
+   100,
+   102,
+   3,
+   213,
+   215,
+   216
+  ],
+  "InheritRatios": [
+   {
+    "Key": "@100371",
+    "Num": 0
+   },
+   {
+    "Key": "@100371",
+    "Num": 0
+   },
+   {
+    "Key": "",
+    "Num": 100
+   },
+   {
+    "Key": "",
+    "Num": 100
+   },
+   {
+    "Key": "",
+    "Num": 100
+   },
+   {
+    "Key": "",
+    "Num": 100
+   },
+   {
+    "Key": "",
+    "Num": 100
+   }
+  ]
+ },
+ {
+  "InheritID": 20048,
+  "InheritValueTypes": [
+   0,
+   0,
+   0,
+   0
+  ],
+  "InheritTargets": [
+   1999,
+   1999,
+   1999,
+   1999
+  ],
+  "InheritAttrIDs": [
+   4,
+   100,
+   102,
+   3
+  ],
+  "InheritRatios": [
+   {
+    "Key": "@200480",
+    "Num": 0
+   },
+   {
+    "Key": "@200480",
+    "Num": 0
+   },
+   {
+    "Key": "",
+    "Num": 100
+   },
+   {
+    "Key": "",
+    "Num": 100
+   }
+  ]
+ },
+ {
+  "InheritID": 30006,
+  "InheritValueTypes": [
+   1,
+   1,
+   1,
+   0,
+   0,
+   0,
+   0
+  ],
+  "InheritTargets": [
+   1998,
+   1998,
+   1998,
+   1998,
+   1998,
+   1998,
+   1998
+  ],
+  "InheritAttrIDs": [
+   4,
+   100,
+   102,
+   3,
+   213,
+   215,
+   216
+  ],
+  "InheritRatios": [
+   {
+    "Key": "@300060",
+    "Num": 0
+   },
+   {
+    "Key": "@300061",
+    "Num": 0
+   },
+   {
+    "Key": "@300062",
+    "Num": 0
+   },
+   {
+    "Key": "",
+    "Num": 100
+   },
+   {
+    "Key": "",
+    "Num": 100
+   },
+   {
+    "Key": "",
+    "Num": 100
+   },
+   {
+    "Key": "",
+    "Num": 100
+   }
+  ]
+ },
+ {
+  "InheritID": 30021,
+  "InheritValueTypes": [
+   0,
+   0,
+   0,
+   0
+  ],
+  "InheritTargets": [
+   1999,
+   1999,
+   1999,
+   1999
+  ],
+  "InheritAttrIDs": [
+   4,
+   100,
+   102,
+   3
+  ],
+  "InheritRatios": [
+   {
+    "Key": "",
+    "Num": 120
+   },
+   {
+    "Key": "",
+    "Num": 120
+   },
+   {
+    "Key": "",
+    "Num": 100
+   },
+   {
+    "Key": "",
+    "Num": 100
+   }
+  ]
+ },
+ {
+  "InheritID": 30026,
+  "InheritValueTypes": [
+   0,
+   0,
+   0,
+   0
+  ],
+  "InheritTargets": [
+   1999,
+   1999,
+   1999,
+   1999
+  ],
+  "InheritAttrIDs": [
+   4,
+   100,
+   102,
+   3
+  ],
+  "InheritRatios": [
+   {
+    "Key": "",
+    "Num": 60
+   },
+   {
+    "Key": "",
+    "Num": 60
+   },
+   {
+    "Key": "",
+    "Num": 100
+   },
+   {
+    "Key": "",
+    "Num": 100
+   }
+  ]
+ },
+ {
+  "InheritID": 190101,
+  "InheritValueTypes": [
+   0,
+   0,
+   0
+  ],
+  "InheritTargets": [
+   1,
+   1,
+   1
+  ],
+  "InheritAttrIDs": [
+   100,
+   4,
+   102
+  ],
+  "InheritRatios": [
+   {
+    "Key": "",
+    "Num": 50
+   },
+   {
+    "Key": "",
+    "Num": 10
+   },
+   {
+    "Key": "",
+    "Num": 100
+   }
+  ]
+ },
+ {
+  "InheritID": 507002110,
+  "InheritValueTypes": [
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  "InheritTargets": [
+   1999,
+   1999,
+   1999,
+   1999,
+   1999,
+   1999,
+   1999
+  ],
+  "InheritAttrIDs": [
+   4,
+   100,
+   102,
+   3,
+   213,
+   215,
+   216
+  ],
+  "InheritRatios": [
+   {
+    "Key": "",
+    "Num": 50
+   },
+   {
+    "Key": "",
+    "Num": 50
+   },
+   {
+    "Key": "",
+    "Num": 100
+   },
+   {
+    "Key": "",
+    "Num": 100
+   },
+   {
+    "Key": "",
+    "Num": 100
+   },
+   {
+    "Key": "",
+    "Num": 100
+   },
+   {
+    "Key": "",
+    "Num": 100
+   }
+  ]
+ },
+ {
+  "InheritID": 410501212,
+  "InheritValueTypes": [
+   1
+  ],
+  "InheritTargets": [
+   1
+  ],
+  "InheritAttrIDs": [
+   4
+  ],
+  "InheritRatios": [
+   {
+    "Key": "",
+    "Num": 3
+   }
+  ]
+ },
+ {
+  "InheritID": 410501222,
+  "InheritValueTypes": [
+   1
+  ],
+  "InheritTargets": [
+   1
+  ],
+  "InheritAttrIDs": [
+   4
+  ],
+  "InheritRatios": [
+   {
+    "Key": "",
+    "Num": 4
+   }
+  ]
+ },
+ {
+  "InheritID": 410501232,
+  "InheritValueTypes": [
+   1
+  ],
+  "InheritTargets": [
+   1
+  ],
+  "InheritAttrIDs": [
+   4
+  ],
+  "InheritRatios": [
+   {
+    "Key": "",
+    "Num": 5
+   }
+  ]
+ },
+ {
+  "InheritID": 8302042,
+  "InheritValueTypes": [
+   1
+  ],
+  "InheritTargets": [
+   1
+  ],
+  "InheritAttrIDs": [
+   100
+  ],
+  "InheritRatios": [
+   {
+    "Key": "",
+    "Num": 70
+   }
+  ]
+ },
+ {
+  "InheritID": 130601110,
+  "InheritValueTypes": [
+   1,
+   1,
+   1
+  ],
+  "InheritTargets": [
+   2,
+   2,
+   2
+  ],
+  "InheritAttrIDs": [
+   4,
+   102,
+   100
+  ],
+  "InheritRatios": [
+   {
+    "Key": "",
+    "Num": 35
+   },
+   {
+    "Key": "",
+    "Num": 35
+   },
+   {
+    "Key": "",
+    "Num": 35
+   }
+  ]
+ },
+ {
+  "InheritID": 130601120,
+  "InheritValueTypes": [
+   1,
+   1,
+   1
+  ],
+  "InheritTargets": [
+   2,
+   2,
+   2
+  ],
+  "InheritAttrIDs": [
+   4,
+   102,
+   100
+  ],
+  "InheritRatios": [
+   {
+    "Key": "",
+    "Num": 35
+   },
+   {
+    "Key": "",
+    "Num": 35
+   },
+   {
+    "Key": "",
+    "Num": 50
+   }
+  ]
+ },
+ {
+  "InheritID": 130601130,
+  "InheritValueTypes": [
+   1,
+   1,
+   1
+  ],
+  "InheritTargets": [
+   2,
+   2,
+   2
+  ],
+  "InheritAttrIDs": [
+   4,
+   102,
+   100
+  ],
+  "InheritRatios": [
+   {
+    "Key": "",
+    "Num": 35
+   },
+   {
+    "Key": "",
+    "Num": 35
+   },
+   {
+    "Key": "",
+    "Num": 65
+   }
+  ]
+ },
+ {
+  "InheritID": 1000155,
+  "InheritValueTypes": [
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  "InheritTargets": [
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1
+  ],
+  "InheritAttrIDs": [
+   4,
+   100,
+   102,
+   213,
+   215,
+   216
+  ],
+  "InheritRatios": [
+   {
+    "Key": "",
+    "Num": 50
+   },
+   {
+    "Key": "",
+    "Num": 30
+   },
+   {
+    "Key": "",
+    "Num": 100
+   },
+   {
+    "Key": "",
+    "Num": 100
+   },
+   {
+    "Key": "",
+    "Num": 100
+   },
+   {
+    "Key": "",
+    "Num": 100
+   },
+   {
+    "Key": "",
+    "Num": 100
+   }
+  ]
+ },
+ {
+  "InheritID": 505007111,
+  "InheritValueTypes": [
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  "InheritTargets": [
+   1999,
+   1999,
+   1999,
+   1999,
+   1999,
+   1999,
+   1999
+  ],
+  "InheritAttrIDs": [
+   4,
+   100,
+   102,
+   213,
+   215,
+   216
+  ],
+  "InheritRatios": [
+   {
+    "Key": "",
+    "Num": 42
+   },
+   {
+    "Key": "",
+    "Num": 42
+   },
+   {
+    "Key": "",
+    "Num": 42
+   },
+   {
+    "Key": "",
+    "Num": 100
+   },
+   {
+    "Key": "",
+    "Num": 100
+   },
+   {
+    "Key": "",
+    "Num": 100
+   }
+  ]
+ },
+ {
+  "InheritID": 505007121,
+  "InheritValueTypes": [
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  "InheritTargets": [
+   1999,
+   1999,
+   1999,
+   1999,
+   1999,
+   1999,
+   1999
+  ],
+  "InheritAttrIDs": [
+   4,
+   100,
+   102,
+   213,
+   215,
+   216
+  ],
+  "InheritRatios": [
+   {
+    "Key": "",
+    "Num": 49
+   },
+   {
+    "Key": "",
+    "Num": 49
+   },
+   {
+    "Key": "",
+    "Num": 49
+   },
+   {
+    "Key": "",
+    "Num": 100
+   },
+   {
+    "Key": "",
+    "Num": 100
+   },
+   {
+    "Key": "",
+    "Num": 100
+   }
+  ]
+ },
+ {
+  "InheritID": 505007131,
+  "InheritValueTypes": [
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  "InheritTargets": [
+   1999,
+   1999,
+   1999,
+   1999,
+   1999,
+   1999,
+   1999
+  ],
+  "InheritAttrIDs": [
+   4,
+   100,
+   102,
+   213,
+   215,
+   216
+  ],
+  "InheritRatios": [
+   {
+    "Key": "",
+    "Num": 56
+   },
+   {
+    "Key": "",
+    "Num": 56
+   },
+   {
+    "Key": "",
+    "Num": 56
+   },
+   {
+    "Key": "",
+    "Num": 100
+   },
+   {
+    "Key": "",
+    "Num": 100
+   },
+   {
+    "Key": "",
+    "Num": 100
+   }
+  ]
+ },
+ {
+  "InheritID": 505007141,
+  "InheritValueTypes": [
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  "InheritTargets": [
+   1999,
+   1999,
+   1999,
+   1999,
+   1999,
+   1999,
+   1999
+  ],
+  "InheritAttrIDs": [
+   4,
+   100,
+   102,
+   213,
+   215,
+   216
+  ],
+  "InheritRatios": [
+   {
+    "Key": "",
+    "Num": 63
+   },
+   {
+    "Key": "",
+    "Num": 63
+   },
+   {
+    "Key": "",
+    "Num": 63
+   },
+   {
+    "Key": "",
+    "Num": 100
+   },
+   {
+    "Key": "",
+    "Num": 100
+   },
+   {
+    "Key": "",
+    "Num": 100
+   }
+  ]
+ },
+ {
+  "InheritID": 505007151,
+  "InheritValueTypes": [
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  "InheritTargets": [
+   1999,
+   1999,
+   1999,
+   1999,
+   1999,
+   1999,
+   1999
+  ],
+  "InheritAttrIDs": [
+   4,
+   100,
+   102,
+   213,
+   215,
+   216
+  ],
+  "InheritRatios": [
+   {
+    "Key": "",
+    "Num": 70
+   },
+   {
+    "Key": "",
+    "Num": 70
+   },
+   {
+    "Key": "",
+    "Num": 70
+   },
+   {
+    "Key": "",
+    "Num": 100
+   },
+   {
+    "Key": "",
+    "Num": 100
+   },
+   {
+    "Key": "",
+    "Num": 100
+   }
+  ]
+ },
+ {
+  "InheritID": 507007111,
+  "InheritValueTypes": [
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  "InheritTargets": [
+   1999,
+   1999,
+   1999,
+   1999,
+   1999,
+   1999,
+   1999
+  ],
+  "InheritAttrIDs": [
+   4,
+   100,
+   102,
+   213,
+   215,
+   216
+  ],
+  "InheritRatios": [
+   {
+    "Key": "",
+    "Num": 60
+   },
+   {
+    "Key": "",
+    "Num": 60
+   },
+   {
+    "Key": "",
+    "Num": 60
+   },
+   {
+    "Key": "",
+    "Num": 100
+   },
+   {
+    "Key": "",
+    "Num": 100
+   },
+   {
+    "Key": "",
+    "Num": 100
+   }
+  ]
+ },
+ {
+  "InheritID": 507007121,
+  "InheritValueTypes": [
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  "InheritTargets": [
+   1999,
+   1999,
+   1999,
+   1999,
+   1999,
+   1999,
+   1999
+  ],
+  "InheritAttrIDs": [
+   4,
+   100,
+   102,
+   213,
+   215,
+   216
+  ],
+  "InheritRatios": [
+   {
+    "Key": "",
+    "Num": 70
+   },
+   {
+    "Key": "",
+    "Num": 70
+   },
+   {
+    "Key": "",
+    "Num": 70
+   },
+   {
+    "Key": "",
+    "Num": 100
+   },
+   {
+    "Key": "",
+    "Num": 100
+   },
+   {
+    "Key": "",
+    "Num": 100
+   }
+  ]
+ },
+ {
+  "InheritID": 507007131,
+  "InheritValueTypes": [
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  "InheritTargets": [
+   1999,
+   1999,
+   1999,
+   1999,
+   1999,
+   1999,
+   1999
+  ],
+  "InheritAttrIDs": [
+   4,
+   100,
+   102,
+   213,
+   215,
+   216
+  ],
+  "InheritRatios": [
+   {
+    "Key": "",
+    "Num": 80
+   },
+   {
+    "Key": "",
+    "Num": 80
+   },
+   {
+    "Key": "",
+    "Num": 80
+   },
+   {
+    "Key": "",
+    "Num": 100
+   },
+   {
+    "Key": "",
+    "Num": 100
+   },
+   {
+    "Key": "",
+    "Num": 100
+   }
+  ]
+ },
+ {
+  "InheritID": 507007141,
+  "InheritValueTypes": [
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  "InheritTargets": [
+   1999,
+   1999,
+   1999,
+   1999,
+   1999,
+   1999,
+   1999
+  ],
+  "InheritAttrIDs": [
+   4,
+   100,
+   102,
+   213,
+   215,
+   216
+  ],
+  "InheritRatios": [
+   {
+    "Key": "",
+    "Num": 90
+   },
+   {
+    "Key": "",
+    "Num": 90
+   },
+   {
+    "Key": "",
+    "Num": 90
+   },
+   {
+    "Key": "",
+    "Num": 100
+   },
+   {
+    "Key": "",
+    "Num": 100
+   },
+   {
+    "Key": "",
+    "Num": 100
+   }
+  ]
+ },
+ {
+  "InheritID": 507007151,
+  "InheritValueTypes": [
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  "InheritTargets": [
+   1999,
+   1999,
+   1999,
+   1999,
+   1999,
+   1999,
+   1999
+  ],
+  "InheritAttrIDs": [
+   4,
+   100,
+   102,
+   213,
+   215,
+   216
+  ],
+  "InheritRatios": [
+   {
+    "Key": "",
+    "Num": 100
+   },
+   {
+    "Key": "",
+    "Num": 100
+   },
+   {
+    "Key": "",
+    "Num": 100
+   },
+   {
+    "Key": "",
+    "Num": 100
+   },
+   {
+    "Key": "",
+    "Num": 100
+   },
+   {
+    "Key": "",
+    "Num": 100
+   }
+  ]
+ },
+ {
+  "InheritID": 120302110,
+  "InheritValueTypes": [
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  "InheritTargets": [
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1
+  ],
+  "InheritAttrIDs": [
+   4,
+   100,
+   102,
+   3,
+   213,
+   215,
+   216
+  ],
+  "InheritRatios": [
+   {
+    "Key": "@2120302211",
+    "Num": 0
+   },
+   {
+    "Key": "@2120302212",
+    "Num": 0
+   },
+   {
+    "Key": "",
+    "Num": 100
+   },
+   {
+    "Key": "",
+    "Num": 100
+   },
+   {
+    "Key": "",
+    "Num": 100
+   },
+   {
+    "Key": "",
+    "Num": 100
+   },
+   {
+    "Key": "",
+    "Num": 100
+   }
+  ]
+ },
+ {
+  "InheritID": 1120302110,
+  "InheritValueTypes": [
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  "InheritTargets": [
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1
+  ],
+  "InheritAttrIDs": [
+   4,
+   100,
+   102,
+   3,
+   213,
+   215,
+   216
+  ],
+  "InheritRatios": [
+   {
+    "Key": "@2120302213",
+    "Num": 0
+   },
+   {
+    "Key": "@2120302214",
+    "Num": 0
+   },
+   {
+    "Key": "",
+    "Num": 100
+   },
+   {
+    "Key": "",
+    "Num": 100
+   },
+   {
+    "Key": "",
+    "Num": 100
+   },
+   {
+    "Key": "",
+    "Num": 100
+   },
+   {
+    "Key": "",
+    "Num": 100
+   }
+  ]
+ },
+ {
+  "InheritID": 1120302210,
+  "InheritValueTypes": [
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  "InheritTargets": [
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1
+  ],
+  "InheritAttrIDs": [
+   4,
+   100,
+   102,
+   3,
+   213,
+   215,
+   216
+  ],
+  "InheritRatios": [
+   {
+    "Key": "@2120302215",
+    "Num": 0
+   },
+   {
+    "Key": "@2120302216",
+    "Num": 0
+   },
+   {
+    "Key": "",
+    "Num": 100
+   },
+   {
+    "Key": "",
+    "Num": 100
+   },
+   {
+    "Key": "",
+    "Num": 100
+   },
+   {
+    "Key": "",
+    "Num": 100
+   },
+   {
+    "Key": "",
+    "Num": 100
+   }
+  ]
+ },
+ {
+  "InheritID": 2120302310,
+  "InheritValueTypes": [
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  "InheritTargets": [
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1
+  ],
+  "InheritAttrIDs": [
+   4,
+   100,
+   102,
+   3,
+   213,
+   215,
+   216
+  ],
+  "InheritRatios": [
+   {
+    "Key": "@2120302217",
+    "Num": 0
+   },
+   {
+    "Key": "@2120302218",
+    "Num": 0
+   },
+   {
+    "Key": "",
+    "Num": 100
+   },
+   {
+    "Key": "",
+    "Num": 100
+   },
+   {
+    "Key": "",
+    "Num": 100
+   },
+   {
+    "Key": "",
+    "Num": 100
+   },
+   {
+    "Key": "",
+    "Num": 100
+   }
+  ]
+ },
+ {
+  "InheritID": 140301110,
+  "InheritValueTypes": [
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  "InheritTargets": [
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1
+  ],
+  "InheritAttrIDs": [
+   4,
+   100,
+   102,
+   3,
+   213,
+   215,
+   216
+  ],
+  "InheritRatios": [
+   {
+    "Key": "",
+    "Num": 20
+   },
+   {
+    "Key": "",
+    "Num": 100
+   },
+   {
+    "Key": "",
+    "Num": 100
+   },
+   {
+    "Key": "",
+    "Num": 100
+   },
+   {
+    "Key": "",
+    "Num": 100
+   },
+   {
+    "Key": "",
+    "Num": 100
+   },
+   {
+    "Key": "",
+    "Num": 100
+   }
+  ]
+ },
+ {
+  "InheritID": 110402110,
+  "InheritValueTypes": [
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  "InheritTargets": [
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1
+  ],
+  "InheritAttrIDs": [
+   4,
+   100,
+   102,
+   3,
+   213,
+   215,
+   216
+  ],
+  "InheritRatios": [
+   {
+    "Key": "",
+    "Num": 10
+   },
+   {
+    "Key": "",
+    "Num": 100
+   },
+   {
+    "Key": "",
+    "Num": 100
+   },
+   {
+    "Key": "",
+    "Num": 100
+   },
+   {
+    "Key": "",
+    "Num": 100
+   },
+   {
+    "Key": "",
+    "Num": 100
+   },
+   {
+    "Key": "",
+    "Num": 100
+   }
+  ]
+ },
+ {
+  "InheritID": 110701110,
+  "InheritValueTypes": [
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  "InheritTargets": [
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1
+  ],
+  "InheritAttrIDs": [
+   4,
+   100,
+   102,
+   3,
+   213,
+   215,
+   216
+  ],
+  "InheritRatios": [
+   {
+    "Key": "@1110701510",
+    "Num": 0
+   },
+   {
+    "Key": "@1110701511",
+    "Num": 0
+   },
+   {
+    "Key": "",
+    "Num": 100
+   },
+   {
+    "Key": "",
+    "Num": 100
+   },
+   {
+    "Key": "",
+    "Num": 100
+   },
+   {
+    "Key": "",
+    "Num": 100
+   },
+   {
+    "Key": "",
+    "Num": 100
+   }
+  ]
+ },
+ {
+  "InheritID": 110701112,
+  "InheritValueTypes": [
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  "InheritTargets": [
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1
+  ],
+  "InheritAttrIDs": [
+   4,
+   100,
+   102,
+   3,
+   213,
+   215,
+   216
+  ],
+  "InheritRatios": [
+   {
+    "Key": "",
+    "Num": 40
+   },
+   {
+    "Key": "",
+    "Num": 100
+   },
+   {
+    "Key": "",
+    "Num": 100
+   },
+   {
+    "Key": "",
+    "Num": 100
+   },
+   {
+    "Key": "",
+    "Num": 100
+   },
+   {
+    "Key": "",
+    "Num": 100
+   },
+   {
+    "Key": "",
+    "Num": 100
+   }
+  ]
+ },
+ {
+  "InheritID": 840103113,
+  "InheritValueTypes": [
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  "InheritTargets": [
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1
+  ],
+  "InheritAttrIDs": [
+   4,
+   100,
+   102,
+   3,
+   213,
+   215,
+   216
+  ],
+  "InheritRatios": [
+   {
+    "Key": "",
+    "Num": 30
+   },
+   {
+    "Key": "",
+    "Num": 60
+   },
+   {
+    "Key": "",
+    "Num": 100
+   },
+   {
+    "Key": "",
+    "Num": 100
+   },
+   {
+    "Key": "",
+    "Num": 100
+   },
+   {
+    "Key": "",
+    "Num": 100
+   },
+   {
+    "Key": "",
+    "Num": 100
+   }
+  ]
+ },
+ {
+  "InheritID": 840103114,
+  "InheritValueTypes": [
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  "InheritTargets": [
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1
+  ],
+  "InheritAttrIDs": [
+   4,
+   100,
+   102,
+   3,
+   213,
+   215,
+   216
+  ],
+  "InheritRatios": [
+   {
+    "Key": "",
+    "Num": 20
+   },
+   {
+    "Key": "",
+    "Num": 50
+   },
+   {
+    "Key": "",
+    "Num": 100
+   },
+   {
+    "Key": "",
+    "Num": 100
+   },
+   {
+    "Key": "",
+    "Num": 100
+   },
+   {
+    "Key": "",
+    "Num": 100
+   },
+   {
+    "Key": "",
+    "Num": 100
+   }
+  ]
+ },
+ {
+  "InheritID": 840105310,
+  "InheritValueTypes": [
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  "InheritTargets": [
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1
+  ],
+  "InheritAttrIDs": [
+   4,
+   100,
+   102,
+   3,
+   213,
+   215,
+   216
+  ],
+  "InheritRatios": [
+   {
+    "Key": "",
+    "Num": 5
+   },
+   {
+    "Key": "",
+    "Num": 100
+   },
+   {
+    "Key": "",
+    "Num": 100
+   },
+   {
+    "Key": "",
+    "Num": 100
+   },
+   {
+    "Key": "",
+    "Num": 100
+   },
+   {
+    "Key": "",
+    "Num": 100
+   },
+   {
+    "Key": "",
+    "Num": 100
+   }
+  ]
+ },
+ {
+  "InheritID": 1004155,
+  "InheritValueTypes": [
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  "InheritTargets": [
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1
+  ],
+  "InheritAttrIDs": [
+   4,
+   100,
+   102,
+   3,
+   213,
+   215,
+   216
+  ],
+  "InheritRatios": [
+   {
+    "Key": "",
+    "Num": 100
+   },
+   {
+    "Key": "",
+    "Num": 100
+   },
+   {
+    "Key": "",
+    "Num": 100
+   },
+   {
+    "Key": "",
+    "Num": 100
+   },
+   {
+    "Key": "",
+    "Num": 100
+   },
+   {
+    "Key": "",
+    "Num": 100
+   },
+   {
+    "Key": "",
+    "Num": 100
+   }
+  ]
+ },
+ {
+  "InheritID": 840101310,
+  "InheritValueTypes": [
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  "InheritTargets": [
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1
+  ],
+  "InheritAttrIDs": [
+   4,
+   100,
+   102,
+   3,
+   213,
+   215,
+   216
+  ],
+  "InheritRatios": [
+   {
+    "Key": "",
+    "Num": 30
+   },
+   {
+    "Key": "",
+    "Num": 100
+   },
+   {
+    "Key": "",
+    "Num": 100
+   },
+   {
+    "Key": "",
+    "Num": 100
+   },
+   {
+    "Key": "",
+    "Num": 100
+   },
+   {
+    "Key": "",
+    "Num": 100
+   },
+   {
+    "Key": "",
+    "Num": 100
+   }
+  ]
+ },
+ {
+  "InheritID": 2120603610,
+  "InheritValueTypes": [
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  "InheritTargets": [
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1
+  ],
+  "InheritAttrIDs": [
+   4,
+   100,
+   102,
+   3,
+   213,
+   215,
+   216
+  ],
+  "InheritRatios": [
+   {
+    "Key": "",
+    "Num": 20
+   },
+   {
+    "Key": "",
+    "Num": 50
+   },
+   {
+    "Key": "",
+    "Num": 100
+   },
+   {
+    "Key": "",
+    "Num": 100
+   },
+   {
+    "Key": "",
+    "Num": 100
+   },
+   {
+    "Key": "",
+    "Num": 100
+   },
+   {
+    "Key": "",
+    "Num": 100
+   }
+  ]
+ },
+ {
+  "InheritID": 840107210,
+  "InheritValueTypes": [
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  "InheritTargets": [
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1
+  ],
+  "InheritAttrIDs": [
+   4,
+   100,
+   102,
+   3,
+   213,
+   215,
+   216
+  ],
+  "InheritRatios": [
+   {
+    "Key": "",
+    "Num": 50
+   },
+   {
+    "Key": "",
+    "Num": 100
+   },
+   {
+    "Key": "",
+    "Num": 100
+   },
+   {
+    "Key": "",
+    "Num": 100
+   },
+   {
+    "Key": "",
+    "Num": 100
+   },
+   {
+    "Key": "",
+    "Num": 100
+   },
+   {
+    "Key": "",
+    "Num": 100
+   }
+  ]
+ },
+ {
+  "InheritID": 507004111,
+  "InheritValueTypes": [
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  "InheritTargets": [
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1
+  ],
+  "InheritAttrIDs": [
+   4,
+   100,
+   102,
+   3,
+   213,
+   215,
+   216
+  ],
+  "InheritRatios": [
+   {
+    "Key": "",
+    "Num": 100
+   },
+   {
+    "Key": "",
+    "Num": 100
+   },
+   {
+    "Key": "",
+    "Num": 100
+   },
+   {
+    "Key": "",
+    "Num": 100
+   },
+   {
+    "Key": "",
+    "Num": 100
+   },
+   {
+    "Key": "",
+    "Num": 100
+   },
+   {
+    "Key": "",
+    "Num": 100
+   }
+  ]
+ },
+ {
+  "InheritID": 507004121,
+  "InheritValueTypes": [
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  "InheritTargets": [
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1
+  ],
+  "InheritAttrIDs": [
+   4,
+   100,
+   102,
+   3,
+   213,
+   215,
+   216
+  ],
+  "InheritRatios": [
+   {
+    "Key": "",
+    "Num": 116
+   },
+   {
+    "Key": "",
+    "Num": 116
+   },
+   {
+    "Key": "",
+    "Num": 116
+   },
+   {
+    "Key": "",
+    "Num": 116
+   },
+   {
+    "Key": "",
+    "Num": 116
+   },
+   {
+    "Key": "",
+    "Num": 116
+   },
+   {
+    "Key": "",
+    "Num": 116
+   }
+  ]
+ },
+ {
+  "InheritID": 507004131,
+  "InheritValueTypes": [
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  "InheritTargets": [
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1
+  ],
+  "InheritAttrIDs": [
+   4,
+   100,
+   102,
+   3,
+   213,
+   215,
+   216
+  ],
+  "InheritRatios": [
+   {
+    "Key": "",
+    "Num": 133
+   },
+   {
+    "Key": "",
+    "Num": 133
+   },
+   {
+    "Key": "",
+    "Num": 133
+   },
+   {
+    "Key": "",
+    "Num": 133
+   },
+   {
+    "Key": "",
+    "Num": 133
+   },
+   {
+    "Key": "",
+    "Num": 133
+   },
+   {
+    "Key": "",
+    "Num": 133
+   }
+  ]
+ },
+ {
+  "InheritID": 507004141,
+  "InheritValueTypes": [
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  "InheritTargets": [
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1
+  ],
+  "InheritAttrIDs": [
+   4,
+   100,
+   102,
+   3,
+   213,
+   215,
+   216
+  ],
+  "InheritRatios": [
+   {
+    "Key": "",
+    "Num": 150
+   },
+   {
+    "Key": "",
+    "Num": 150
+   },
+   {
+    "Key": "",
+    "Num": 150
+   },
+   {
+    "Key": "",
+    "Num": 150
+   },
+   {
+    "Key": "",
+    "Num": 150
+   },
+   {
+    "Key": "",
+    "Num": 150
+   },
+   {
+    "Key": "",
+    "Num": 150
+   }
+  ]
+ },
+ {
+  "InheritID": 507004151,
+  "InheritValueTypes": [
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  "InheritTargets": [
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1
+  ],
+  "InheritAttrIDs": [
+   4,
+   100,
+   102,
+   3,
+   213,
+   215,
+   216
+  ],
+  "InheritRatios": [
+   {
+    "Key": "",
+    "Num": 166
+   },
+   {
+    "Key": "",
+    "Num": 166
+   },
+   {
+    "Key": "",
+    "Num": 166
+   },
+   {
+    "Key": "",
+    "Num": 166
+   },
+   {
+    "Key": "",
+    "Num": 166
+   },
+   {
+    "Key": "",
+    "Num": 166
+   },
+   {
+    "Key": "",
+    "Num": 166
+   }
+  ]
+ },
+ {
+  "InheritID": 507004161,
+  "InheritValueTypes": [
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  "InheritTargets": [
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1
+  ],
+  "InheritAttrIDs": [
+   4,
+   100,
+   102,
+   3,
+   213,
+   215,
+   216
+  ],
+  "InheritRatios": [
+   {
+    "Key": "",
+    "Num": 183
+   },
+   {
+    "Key": "",
+    "Num": 183
+   },
+   {
+    "Key": "",
+    "Num": 183
+   },
+   {
+    "Key": "",
+    "Num": 183
+   },
+   {
+    "Key": "",
+    "Num": 183
+   },
+   {
+    "Key": "",
+    "Num": 183
+   },
+   {
+    "Key": "",
+    "Num": 183
+   }
+  ]
+ },
+ {
+  "InheritID": 507004171,
+  "InheritValueTypes": [
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  "InheritTargets": [
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1
+  ],
+  "InheritAttrIDs": [
+   4,
+   100,
+   102,
+   3,
+   213,
+   215,
+   216
+  ],
+  "InheritRatios": [
+   {
+    "Key": "",
+    "Num": 200
+   },
+   {
+    "Key": "",
+    "Num": 200
+   },
+   {
+    "Key": "",
+    "Num": 200
+   },
+   {
+    "Key": "",
+    "Num": 200
+   },
+   {
+    "Key": "",
+    "Num": 200
+   },
+   {
+    "Key": "",
+    "Num": 200
+   },
+   {
+    "Key": "",
+    "Num": 200
+   }
+  ]
+ },
+ {
+  "InheritID": 507004181,
+  "InheritValueTypes": [
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  "InheritTargets": [
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1
+  ],
+  "InheritAttrIDs": [
+   4,
+   100,
+   102,
+   3,
+   213,
+   215,
+   216
+  ],
+  "InheritRatios": [
+   {
+    "Key": "",
+    "Num": 217
+   },
+   {
+    "Key": "",
+    "Num": 217
+   },
+   {
+    "Key": "",
+    "Num": 217
+   },
+   {
+    "Key": "",
+    "Num": 217
+   },
+   {
+    "Key": "",
+    "Num": 217
+   },
+   {
+    "Key": "",
+    "Num": 217
+   },
+   {
+    "Key": "",
+    "Num": 217
+   }
+  ]
+ },
+ {
+  "InheritID": 506006111,
+  "InheritValueTypes": [
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  "InheritTargets": [
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1
+  ],
+  "InheritAttrIDs": [
+   4,
+   100,
+   102,
+   3,
+   213,
+   215,
+   216
+  ],
+  "InheritRatios": [
+   {
+    "Key": "",
+    "Num": 100
+   },
+   {
+    "Key": "",
+    "Num": 100
+   },
+   {
+    "Key": "",
+    "Num": 100
+   },
+   {
+    "Key": "",
+    "Num": 100
+   },
+   {
+    "Key": "",
+    "Num": 100
+   },
+   {
+    "Key": "",
+    "Num": 100
+   },
+   {
+    "Key": "",
+    "Num": 100
+   }
+  ]
+ },
+ {
+  "InheritID": 506006121,
+  "InheritValueTypes": [
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  "InheritTargets": [
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1
+  ],
+  "InheritAttrIDs": [
+   4,
+   100,
+   102,
+   3,
+   213,
+   215,
+   216
+  ],
+  "InheritRatios": [
+   {
+    "Key": "",
+    "Num": 116
+   },
+   {
+    "Key": "",
+    "Num": 116
+   },
+   {
+    "Key": "",
+    "Num": 116
+   },
+   {
+    "Key": "",
+    "Num": 116
+   },
+   {
+    "Key": "",
+    "Num": 116
+   },
+   {
+    "Key": "",
+    "Num": 116
+   },
+   {
+    "Key": "",
+    "Num": 116
+   }
+  ]
+ },
+ {
+  "InheritID": 506006131,
+  "InheritValueTypes": [
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  "InheritTargets": [
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1
+  ],
+  "InheritAttrIDs": [
+   4,
+   100,
+   102,
+   3,
+   213,
+   215,
+   216
+  ],
+  "InheritRatios": [
+   {
+    "Key": "",
+    "Num": 133
+   },
+   {
+    "Key": "",
+    "Num": 133
+   },
+   {
+    "Key": "",
+    "Num": 133
+   },
+   {
+    "Key": "",
+    "Num": 133
+   },
+   {
+    "Key": "",
+    "Num": 133
+   },
+   {
+    "Key": "",
+    "Num": 133
+   },
+   {
+    "Key": "",
+    "Num": 133
+   }
+  ]
+ },
+ {
+  "InheritID": 506006141,
+  "InheritValueTypes": [
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  "InheritTargets": [
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1
+  ],
+  "InheritAttrIDs": [
+   4,
+   100,
+   102,
+   3,
+   213,
+   215,
+   216
+  ],
+  "InheritRatios": [
+   {
+    "Key": "",
+    "Num": 150
+   },
+   {
+    "Key": "",
+    "Num": 150
+   },
+   {
+    "Key": "",
+    "Num": 150
+   },
+   {
+    "Key": "",
+    "Num": 150
+   },
+   {
+    "Key": "",
+    "Num": 150
+   },
+   {
+    "Key": "",
+    "Num": 150
+   },
+   {
+    "Key": "",
+    "Num": 150
+   }
+  ]
+ },
+ {
+  "InheritID": 506006151,
+  "InheritValueTypes": [
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  "InheritTargets": [
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1
+  ],
+  "InheritAttrIDs": [
+   4,
+   100,
+   102,
+   3,
+   213,
+   215,
+   216
+  ],
+  "InheritRatios": [
+   {
+    "Key": "",
+    "Num": 166
+   },
+   {
+    "Key": "",
+    "Num": 166
+   },
+   {
+    "Key": "",
+    "Num": 166
+   },
+   {
+    "Key": "",
+    "Num": 166
+   },
+   {
+    "Key": "",
+    "Num": 166
+   },
+   {
+    "Key": "",
+    "Num": 166
+   },
+   {
+    "Key": "",
+    "Num": 166
+   }
+  ]
+ },
+ {
+  "InheritID": 506006161,
+  "InheritValueTypes": [
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  "InheritTargets": [
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1
+  ],
+  "InheritAttrIDs": [
+   4,
+   100,
+   102,
+   3,
+   213,
+   215,
+   216
+  ],
+  "InheritRatios": [
+   {
+    "Key": "",
+    "Num": 183
+   },
+   {
+    "Key": "",
+    "Num": 183
+   },
+   {
+    "Key": "",
+    "Num": 183
+   },
+   {
+    "Key": "",
+    "Num": 183
+   },
+   {
+    "Key": "",
+    "Num": 183
+   },
+   {
+    "Key": "",
+    "Num": 183
+   },
+   {
+    "Key": "",
+    "Num": 183
+   }
+  ]
+ },
+ {
+  "InheritID": 506006171,
+  "InheritValueTypes": [
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  "InheritTargets": [
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1
+  ],
+  "InheritAttrIDs": [
+   4,
+   100,
+   102,
+   3,
+   213,
+   215,
+   216
+  ],
+  "InheritRatios": [
+   {
+    "Key": "",
+    "Num": 200
+   },
+   {
+    "Key": "",
+    "Num": 200
+   },
+   {
+    "Key": "",
+    "Num": 200
+   },
+   {
+    "Key": "",
+    "Num": 200
+   },
+   {
+    "Key": "",
+    "Num": 200
+   },
+   {
+    "Key": "",
+    "Num": 200
+   },
+   {
+    "Key": "",
+    "Num": 200
+   }
+  ]
+ },
+ {
+  "InheritID": 505003111,
+  "InheritValueTypes": [
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  "InheritTargets": [
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1
+  ],
+  "InheritAttrIDs": [
+   4,
+   100,
+   102,
+   3,
+   213,
+   215,
+   216
+  ],
+  "InheritRatios": [
+   {
+    "Key": "",
+    "Num": 100
+   },
+   {
+    "Key": "",
+    "Num": 100
+   },
+   {
+    "Key": "",
+    "Num": 100
+   },
+   {
+    "Key": "",
+    "Num": 100
+   },
+   {
+    "Key": "",
+    "Num": 100
+   },
+   {
+    "Key": "",
+    "Num": 100
+   },
+   {
+    "Key": "",
+    "Num": 100
+   }
+  ]
+ },
+ {
+  "InheritID": 505003121,
+  "InheritValueTypes": [
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  "InheritTargets": [
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1
+  ],
+  "InheritAttrIDs": [
+   4,
+   100,
+   102,
+   3,
+   213,
+   215,
+   216
+  ],
+  "InheritRatios": [
+   {
+    "Key": "",
+    "Num": 116
+   },
+   {
+    "Key": "",
+    "Num": 116
+   },
+   {
+    "Key": "",
+    "Num": 116
+   },
+   {
+    "Key": "",
+    "Num": 116
+   },
+   {
+    "Key": "",
+    "Num": 116
+   },
+   {
+    "Key": "",
+    "Num": 116
+   },
+   {
+    "Key": "",
+    "Num": 116
+   }
+  ]
+ },
+ {
+  "InheritID": 505003131,
+  "InheritValueTypes": [
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  "InheritTargets": [
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1
+  ],
+  "InheritAttrIDs": [
+   4,
+   100,
+   102,
+   3,
+   213,
+   215,
+   216
+  ],
+  "InheritRatios": [
+   {
+    "Key": "",
+    "Num": 133
+   },
+   {
+    "Key": "",
+    "Num": 133
+   },
+   {
+    "Key": "",
+    "Num": 133
+   },
+   {
+    "Key": "",
+    "Num": 133
+   },
+   {
+    "Key": "",
+    "Num": 133
+   },
+   {
+    "Key": "",
+    "Num": 133
+   },
+   {
+    "Key": "",
+    "Num": 133
+   }
+  ]
+ },
+ {
+  "InheritID": 505003141,
+  "InheritValueTypes": [
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  "InheritTargets": [
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1
+  ],
+  "InheritAttrIDs": [
+   4,
+   100,
+   102,
+   3,
+   213,
+   215,
+   216
+  ],
+  "InheritRatios": [
+   {
+    "Key": "",
+    "Num": 150
+   },
+   {
+    "Key": "",
+    "Num": 150
+   },
+   {
+    "Key": "",
+    "Num": 150
+   },
+   {
+    "Key": "",
+    "Num": 150
+   },
+   {
+    "Key": "",
+    "Num": 150
+   },
+   {
+    "Key": "",
+    "Num": 150
+   },
+   {
+    "Key": "",
+    "Num": 150
+   }
+  ]
+ },
+ {
+  "InheritID": 505003151,
+  "InheritValueTypes": [
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  "InheritTargets": [
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1
+  ],
+  "InheritAttrIDs": [
+   4,
+   100,
+   102,
+   3,
+   213,
+   215,
+   216
+  ],
+  "InheritRatios": [
+   {
+    "Key": "",
+    "Num": 166
+   },
+   {
+    "Key": "",
+    "Num": 166
+   },
+   {
+    "Key": "",
+    "Num": 166
+   },
+   {
+    "Key": "",
+    "Num": 166
+   },
+   {
+    "Key": "",
+    "Num": 166
+   },
+   {
+    "Key": "",
+    "Num": 166
+   },
+   {
+    "Key": "",
+    "Num": 166
+   }
+  ]
+ },
+ {
+  "InheritID": 505003161,
+  "InheritValueTypes": [
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  "InheritTargets": [
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1
+  ],
+  "InheritAttrIDs": [
+   4,
+   100,
+   102,
+   3,
+   213,
+   215,
+   216
+  ],
+  "InheritRatios": [
+   {
+    "Key": "",
+    "Num": 183
+   },
+   {
+    "Key": "",
+    "Num": 183
+   },
+   {
+    "Key": "",
+    "Num": 183
+   },
+   {
+    "Key": "",
+    "Num": 183
+   },
+   {
+    "Key": "",
+    "Num": 183
+   },
+   {
+    "Key": "",
+    "Num": 183
+   },
+   {
+    "Key": "",
+    "Num": 183
+   }
+  ]
+ },
+ {
+  "InheritID": 505003171,
+  "InheritValueTypes": [
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  "InheritTargets": [
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1
+  ],
+  "InheritAttrIDs": [
+   4,
+   100,
+   102,
+   3,
+   213,
+   215,
+   216
+  ],
+  "InheritRatios": [
+   {
+    "Key": "",
+    "Num": 200
+   },
+   {
+    "Key": "",
+    "Num": 200
+   },
+   {
+    "Key": "",
+    "Num": 200
+   },
+   {
+    "Key": "",
+    "Num": 200
+   },
+   {
+    "Key": "",
+    "Num": 200
+   },
+   {
+    "Key": "",
+    "Num": 200
+   },
+   {
+    "Key": "",
+    "Num": 200
+   }
+  ]
+ }
+]

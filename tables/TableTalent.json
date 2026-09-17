@@ -1,0 +1,3506 @@
+[
+ {
+  "id": 10000,
+  "Name": "",
+  "Type1": 1,
+  "Unlocklevel": 10,
+  "Color": 1,
+  "FunctionID": 1,
+  "FunctionParams": 720,
+  "TitleAttrIDs": [],
+  "TitleAttrTypes": [],
+  "TitleAttrVals": []
+ },
+ {
+  "id": 10001,
+  "Name": "",
+  "Type1": 2,
+  "Unlocklevel": 20,
+  "Color": 2,
+  "FunctionID": 7,
+  "FunctionParams": 2,
+  "TitleAttrIDs": [],
+  "TitleAttrTypes": [],
+  "TitleAttrVals": []
+ },
+ {
+  "id": 10002,
+  "Name": "",
+  "Type1": 3,
+  "Unlocklevel": 30,
+  "Color": 3,
+  "FunctionID": 0,
+  "FunctionParams": 0,
+  "TitleAttrIDs": [
+   100,
+   4,
+   102
+  ],
+  "TitleAttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "TitleAttrVals": [
+   24,
+   360,
+   12
+  ]
+ },
+ {
+  "id": 10003,
+  "Name": "",
+  "Type1": 1,
+  "Unlocklevel": 40,
+  "Color": 1,
+  "FunctionID": 1,
+  "FunctionParams": 1440,
+  "TitleAttrIDs": [],
+  "TitleAttrTypes": [],
+  "TitleAttrVals": []
+ },
+ {
+  "id": 10004,
+  "Name": "",
+  "Type1": 2,
+  "Unlocklevel": 50,
+  "Color": 2,
+  "FunctionID": 8,
+  "FunctionParams": 3,
+  "TitleAttrIDs": [],
+  "TitleAttrTypes": [],
+  "TitleAttrVals": []
+ },
+ {
+  "id": 10005,
+  "Name": "",
+  "Type1": 3,
+  "Unlocklevel": 60,
+  "Color": 3,
+  "FunctionID": 0,
+  "FunctionParams": 0,
+  "TitleAttrIDs": [
+   100,
+   4,
+   102
+  ],
+  "TitleAttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "TitleAttrVals": [
+   36,
+   540,
+   18
+  ]
+ },
+ {
+  "id": 10006,
+  "Name": "",
+  "Type1": 1,
+  "Unlocklevel": 70,
+  "Color": 1,
+  "FunctionID": 1,
+  "FunctionParams": 2400,
+  "TitleAttrIDs": [],
+  "TitleAttrTypes": [],
+  "TitleAttrVals": []
+ },
+ {
+  "id": 10007,
+  "Name": "",
+  "Type1": 2,
+  "Unlocklevel": 80,
+  "Color": 2,
+  "FunctionID": 9,
+  "FunctionParams": 1,
+  "TitleAttrIDs": [],
+  "TitleAttrTypes": [],
+  "TitleAttrVals": []
+ },
+ {
+  "id": 10008,
+  "Name": "",
+  "Type1": 3,
+  "Unlocklevel": 90,
+  "Color": 3,
+  "FunctionID": 0,
+  "FunctionParams": 0,
+  "TitleAttrIDs": [
+   100,
+   4,
+   102
+  ],
+  "TitleAttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "TitleAttrVals": [
+   48,
+   720,
+   24
+  ]
+ },
+ {
+  "id": 10009,
+  "Name": "",
+  "Type1": 1,
+  "Unlocklevel": 100,
+  "Color": 1,
+  "FunctionID": 1,
+  "FunctionParams": 2700,
+  "TitleAttrIDs": [],
+  "TitleAttrTypes": [],
+  "TitleAttrVals": []
+ },
+ {
+  "id": 10010,
+  "Name": "",
+  "Type1": 2,
+  "Unlocklevel": 110,
+  "Color": 2,
+  "FunctionID": 8,
+  "FunctionParams": 3,
+  "TitleAttrIDs": [],
+  "TitleAttrTypes": [],
+  "TitleAttrVals": []
+ },
+ {
+  "id": 10011,
+  "Name": "",
+  "Type1": 3,
+  "Unlocklevel": 120,
+  "Color": 3,
+  "FunctionID": 0,
+  "FunctionParams": 0,
+  "TitleAttrIDs": [
+   100,
+   4,
+   102
+  ],
+  "TitleAttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "TitleAttrVals": [
+   60,
+   900,
+   30
+  ]
+ },
+ {
+  "id": 10012,
+  "Name": "",
+  "Type1": 1,
+  "Unlocklevel": 130,
+  "Color": 1,
+  "FunctionID": 1,
+  "FunctionParams": 3500,
+  "TitleAttrIDs": [],
+  "TitleAttrTypes": [],
+  "TitleAttrVals": []
+ },
+ {
+  "id": 10013,
+  "Name": "",
+  "Type1": 2,
+  "Unlocklevel": 140,
+  "Color": 2,
+  "FunctionID": 2,
+  "FunctionParams": 5,
+  "TitleAttrIDs": [],
+  "TitleAttrTypes": [],
+  "TitleAttrVals": []
+ },
+ {
+  "id": 10014,
+  "Name": "",
+  "Type1": 3,
+  "Unlocklevel": 150,
+  "Color": 3,
+  "FunctionID": 0,
+  "FunctionParams": 0,
+  "TitleAttrIDs": [
+   100,
+   4,
+   102
+  ],
+  "TitleAttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "TitleAttrVals": [
+   72,
+   1080,
+   36
+  ]
+ },
+ {
+  "id": 10015,
+  "Name": "",
+  "Type1": 1,
+  "Unlocklevel": 160,
+  "Color": 1,
+  "FunctionID": 1,
+  "FunctionParams": 4800,
+  "TitleAttrIDs": [],
+  "TitleAttrTypes": [],
+  "TitleAttrVals": []
+ },
+ {
+  "id": 10016,
+  "Name": "",
+  "Type1": 2,
+  "Unlocklevel": 170,
+  "Color": 2,
+  "FunctionID": 11,
+  "FunctionParams": 5,
+  "TitleAttrIDs": [],
+  "TitleAttrTypes": [],
+  "TitleAttrVals": []
+ },
+ {
+  "id": 10017,
+  "Name": "",
+  "Type1": 3,
+  "Unlocklevel": 180,
+  "Color": 3,
+  "FunctionID": 0,
+  "FunctionParams": 0,
+  "TitleAttrIDs": [
+   100,
+   4,
+   102
+  ],
+  "TitleAttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "TitleAttrVals": [
+   84,
+   1260,
+   42
+  ]
+ },
+ {
+  "id": 10018,
+  "Name": "",
+  "Type1": 1,
+  "Unlocklevel": 190,
+  "Color": 1,
+  "FunctionID": 1,
+  "FunctionParams": 6750,
+  "TitleAttrIDs": [],
+  "TitleAttrTypes": [],
+  "TitleAttrVals": []
+ },
+ {
+  "id": 10019,
+  "Name": "",
+  "Type1": 2,
+  "Unlocklevel": 200,
+  "Color": 2,
+  "FunctionID": 12,
+  "FunctionParams": 10,
+  "TitleAttrIDs": [],
+  "TitleAttrTypes": [],
+  "TitleAttrVals": []
+ },
+ {
+  "id": 10020,
+  "Name": "",
+  "Type1": 3,
+  "Unlocklevel": 210,
+  "Color": 3,
+  "FunctionID": 0,
+  "FunctionParams": 0,
+  "TitleAttrIDs": [
+   100,
+   4,
+   102
+  ],
+  "TitleAttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "TitleAttrVals": [
+   96,
+   1440,
+   48
+  ]
+ },
+ {
+  "id": 10021,
+  "Name": "",
+  "Type1": 1,
+  "Unlocklevel": 220,
+  "Color": 1,
+  "FunctionID": 1,
+  "FunctionParams": 8000,
+  "TitleAttrIDs": [],
+  "TitleAttrTypes": [],
+  "TitleAttrVals": []
+ },
+ {
+  "id": 10022,
+  "Name": "",
+  "Type1": 2,
+  "Unlocklevel": 230,
+  "Color": 2,
+  "FunctionID": 13,
+  "FunctionParams": 10,
+  "TitleAttrIDs": [],
+  "TitleAttrTypes": [],
+  "TitleAttrVals": []
+ },
+ {
+  "id": 10023,
+  "Name": "",
+  "Type1": 3,
+  "Unlocklevel": 240,
+  "Color": 3,
+  "FunctionID": 0,
+  "FunctionParams": 0,
+  "TitleAttrIDs": [
+   100,
+   4,
+   102
+  ],
+  "TitleAttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "TitleAttrVals": [
+   108,
+   1620,
+   54
+  ]
+ },
+ {
+  "id": 10024,
+  "Name": "",
+  "Type1": 1,
+  "Unlocklevel": 250,
+  "Color": 1,
+  "FunctionID": 1,
+  "FunctionParams": 9900,
+  "TitleAttrIDs": [],
+  "TitleAttrTypes": [],
+  "TitleAttrVals": []
+ },
+ {
+  "id": 10025,
+  "Name": "",
+  "Type1": 2,
+  "Unlocklevel": 260,
+  "Color": 2,
+  "FunctionID": 2,
+  "FunctionParams": 5,
+  "TitleAttrIDs": [],
+  "TitleAttrTypes": [],
+  "TitleAttrVals": []
+ },
+ {
+  "id": 10026,
+  "Name": "",
+  "Type1": 3,
+  "Unlocklevel": 270,
+  "Color": 3,
+  "FunctionID": 0,
+  "FunctionParams": 0,
+  "TitleAttrIDs": [
+   100,
+   4,
+   102
+  ],
+  "TitleAttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "TitleAttrVals": [
+   120,
+   1800,
+   60
+  ]
+ },
+ {
+  "id": 10027,
+  "Name": "",
+  "Type1": 1,
+  "Unlocklevel": 280,
+  "Color": 1,
+  "FunctionID": 1,
+  "FunctionParams": 12500,
+  "TitleAttrIDs": [],
+  "TitleAttrTypes": [],
+  "TitleAttrVals": []
+ },
+ {
+  "id": 10028,
+  "Name": "",
+  "Type1": 2,
+  "Unlocklevel": 290,
+  "Color": 2,
+  "FunctionID": 11,
+  "FunctionParams": 5,
+  "TitleAttrIDs": [],
+  "TitleAttrTypes": [],
+  "TitleAttrVals": []
+ },
+ {
+  "id": 10029,
+  "Name": "",
+  "Type1": 3,
+  "Unlocklevel": 300,
+  "Color": 3,
+  "FunctionID": 0,
+  "FunctionParams": 0,
+  "TitleAttrIDs": [
+   100,
+   4,
+   102
+  ],
+  "TitleAttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "TitleAttrVals": [
+   140,
+   2100,
+   70
+  ]
+ },
+ {
+  "id": 10030,
+  "Name": "",
+  "Type1": 1,
+  "Unlocklevel": 310,
+  "Color": 1,
+  "FunctionID": 1,
+  "FunctionParams": 15000,
+  "TitleAttrIDs": [],
+  "TitleAttrTypes": [],
+  "TitleAttrVals": []
+ },
+ {
+  "id": 10031,
+  "Name": "",
+  "Type1": 2,
+  "Unlocklevel": 320,
+  "Color": 2,
+  "FunctionID": 12,
+  "FunctionParams": 10,
+  "TitleAttrIDs": [],
+  "TitleAttrTypes": [],
+  "TitleAttrVals": []
+ },
+ {
+  "id": 10032,
+  "Name": "",
+  "Type1": 3,
+  "Unlocklevel": 330,
+  "Color": 3,
+  "FunctionID": 0,
+  "FunctionParams": 0,
+  "TitleAttrIDs": [
+   100,
+   4,
+   102
+  ],
+  "TitleAttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "TitleAttrVals": [
+   160,
+   2400,
+   80
+  ]
+ },
+ {
+  "id": 10033,
+  "Name": "",
+  "Type1": 1,
+  "Unlocklevel": 340,
+  "Color": 1,
+  "FunctionID": 1,
+  "FunctionParams": 16600,
+  "TitleAttrIDs": [],
+  "TitleAttrTypes": [],
+  "TitleAttrVals": []
+ },
+ {
+  "id": 10034,
+  "Name": "",
+  "Type1": 2,
+  "Unlocklevel": 350,
+  "Color": 2,
+  "FunctionID": 5,
+  "FunctionParams": 2,
+  "TitleAttrIDs": [],
+  "TitleAttrTypes": [],
+  "TitleAttrVals": []
+ },
+ {
+  "id": 10035,
+  "Name": "",
+  "Type1": 3,
+  "Unlocklevel": 360,
+  "Color": 3,
+  "FunctionID": 0,
+  "FunctionParams": 0,
+  "TitleAttrIDs": [
+   100,
+   4,
+   102
+  ],
+  "TitleAttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "TitleAttrVals": [
+   180,
+   2700,
+   90
+  ]
+ },
+ {
+  "id": 10036,
+  "Name": "",
+  "Type1": 1,
+  "Unlocklevel": 370,
+  "Color": 1,
+  "FunctionID": 1,
+  "FunctionParams": 19000,
+  "TitleAttrIDs": [],
+  "TitleAttrTypes": [],
+  "TitleAttrVals": []
+ },
+ {
+  "id": 10037,
+  "Name": "",
+  "Type1": 2,
+  "Unlocklevel": 380,
+  "Color": 2,
+  "FunctionID": 6,
+  "FunctionParams": 5,
+  "TitleAttrIDs": [],
+  "TitleAttrTypes": [],
+  "TitleAttrVals": []
+ },
+ {
+  "id": 10038,
+  "Name": "",
+  "Type1": 3,
+  "Unlocklevel": 390,
+  "Color": 3,
+  "FunctionID": 0,
+  "FunctionParams": 0,
+  "TitleAttrIDs": [
+   100,
+   4,
+   102
+  ],
+  "TitleAttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "TitleAttrVals": [
+   200,
+   3000,
+   100
+  ]
+ },
+ {
+  "id": 10039,
+  "Name": "",
+  "Type1": 1,
+  "Unlocklevel": 400,
+  "Color": 1,
+  "FunctionID": 1,
+  "FunctionParams": 21200,
+  "TitleAttrIDs": [],
+  "TitleAttrTypes": [],
+  "TitleAttrVals": []
+ },
+ {
+  "id": 10040,
+  "Name": "",
+  "Type1": 2,
+  "Unlocklevel": 410,
+  "Color": 2,
+  "FunctionID": 7,
+  "FunctionParams": 2,
+  "TitleAttrIDs": [],
+  "TitleAttrTypes": [],
+  "TitleAttrVals": []
+ },
+ {
+  "id": 10041,
+  "Name": "",
+  "Type1": 3,
+  "Unlocklevel": 420,
+  "Color": 3,
+  "FunctionID": 0,
+  "FunctionParams": 0,
+  "TitleAttrIDs": [
+   100,
+   4,
+   102
+  ],
+  "TitleAttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "TitleAttrVals": [
+   220,
+   3300,
+   110
+  ]
+ },
+ {
+  "id": 10042,
+  "Name": "",
+  "Type1": 1,
+  "Unlocklevel": 430,
+  "Color": 1,
+  "FunctionID": 1,
+  "FunctionParams": 23800,
+  "TitleAttrIDs": [],
+  "TitleAttrTypes": [],
+  "TitleAttrVals": []
+ },
+ {
+  "id": 10043,
+  "Name": "",
+  "Type1": 2,
+  "Unlocklevel": 440,
+  "Color": 2,
+  "FunctionID": 8,
+  "FunctionParams": 3,
+  "TitleAttrIDs": [],
+  "TitleAttrTypes": [],
+  "TitleAttrVals": []
+ },
+ {
+  "id": 10044,
+  "Name": "",
+  "Type1": 3,
+  "Unlocklevel": 450,
+  "Color": 3,
+  "FunctionID": 0,
+  "FunctionParams": 0,
+  "TitleAttrIDs": [
+   100,
+   4,
+   102
+  ],
+  "TitleAttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "TitleAttrVals": [
+   240,
+   3600,
+   120
+  ]
+ },
+ {
+  "id": 10045,
+  "Name": "",
+  "Type1": 1,
+  "Unlocklevel": 460,
+  "Color": 1,
+  "FunctionID": 1,
+  "FunctionParams": 26600,
+  "TitleAttrIDs": [],
+  "TitleAttrTypes": [],
+  "TitleAttrVals": []
+ },
+ {
+  "id": 10046,
+  "Name": "",
+  "Type1": 2,
+  "Unlocklevel": 470,
+  "Color": 2,
+  "FunctionID": 9,
+  "FunctionParams": 1,
+  "TitleAttrIDs": [],
+  "TitleAttrTypes": [],
+  "TitleAttrVals": []
+ },
+ {
+  "id": 10047,
+  "Name": "",
+  "Type1": 3,
+  "Unlocklevel": 480,
+  "Color": 3,
+  "FunctionID": 0,
+  "FunctionParams": 0,
+  "TitleAttrIDs": [
+   100,
+   4,
+   102
+  ],
+  "TitleAttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "TitleAttrVals": [
+   270,
+   4050,
+   135
+  ]
+ },
+ {
+  "id": 10048,
+  "Name": "",
+  "Type1": 1,
+  "Unlocklevel": 490,
+  "Color": 1,
+  "FunctionID": 1,
+  "FunctionParams": 29900,
+  "TitleAttrIDs": [],
+  "TitleAttrTypes": [],
+  "TitleAttrVals": []
+ },
+ {
+  "id": 10049,
+  "Name": "",
+  "Type1": 2,
+  "Unlocklevel": 500,
+  "Color": 2,
+  "FunctionID": 5,
+  "FunctionParams": 2,
+  "TitleAttrIDs": [],
+  "TitleAttrTypes": [],
+  "TitleAttrVals": []
+ },
+ {
+  "id": 10050,
+  "Name": "",
+  "Type1": 3,
+  "Unlocklevel": 510,
+  "Color": 3,
+  "FunctionID": 0,
+  "FunctionParams": 0,
+  "TitleAttrIDs": [
+   100,
+   4,
+   102
+  ],
+  "TitleAttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "TitleAttrVals": [
+   300,
+   4500,
+   150
+  ]
+ },
+ {
+  "id": 10051,
+  "Name": "",
+  "Type1": 1,
+  "Unlocklevel": 520,
+  "Color": 1,
+  "FunctionID": 1,
+  "FunctionParams": 32100,
+  "TitleAttrIDs": [],
+  "TitleAttrTypes": [],
+  "TitleAttrVals": []
+ },
+ {
+  "id": 10052,
+  "Name": "",
+  "Type1": 2,
+  "Unlocklevel": 530,
+  "Color": 2,
+  "FunctionID": 15,
+  "FunctionParams": 3,
+  "TitleAttrIDs": [],
+  "TitleAttrTypes": [],
+  "TitleAttrVals": []
+ },
+ {
+  "id": 10053,
+  "Name": "",
+  "Type1": 3,
+  "Unlocklevel": 540,
+  "Color": 3,
+  "FunctionID": 0,
+  "FunctionParams": 0,
+  "TitleAttrIDs": [
+   100,
+   4,
+   102
+  ],
+  "TitleAttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "TitleAttrVals": [
+   360,
+   5400,
+   180
+  ]
+ },
+ {
+  "id": 10054,
+  "Name": "",
+  "Type1": 1,
+  "Unlocklevel": 550,
+  "Color": 1,
+  "FunctionID": 1,
+  "FunctionParams": 48000,
+  "TitleAttrIDs": [],
+  "TitleAttrTypes": [],
+  "TitleAttrVals": []
+ },
+ {
+  "id": 10055,
+  "Name": "",
+  "Type1": 2,
+  "Unlocklevel": 560,
+  "Color": 2,
+  "FunctionID": 2,
+  "FunctionParams": 5,
+  "TitleAttrIDs": [],
+  "TitleAttrTypes": [],
+  "TitleAttrVals": []
+ },
+ {
+  "id": 10056,
+  "Name": "",
+  "Type1": 3,
+  "Unlocklevel": 570,
+  "Color": 3,
+  "FunctionID": 0,
+  "FunctionParams": 0,
+  "TitleAttrIDs": [
+   100,
+   4,
+   102
+  ],
+  "TitleAttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "TitleAttrVals": [
+   440,
+   6600,
+   220
+  ]
+ },
+ {
+  "id": 10057,
+  "Name": "",
+  "Type1": 1,
+  "Unlocklevel": 580,
+  "Color": 1,
+  "FunctionID": 1,
+  "FunctionParams": 50900,
+  "TitleAttrIDs": [],
+  "TitleAttrTypes": [],
+  "TitleAttrVals": []
+ },
+ {
+  "id": 10058,
+  "Name": "",
+  "Type1": 2,
+  "Unlocklevel": 590,
+  "Color": 2,
+  "FunctionID": 11,
+  "FunctionParams": 5,
+  "TitleAttrIDs": [],
+  "TitleAttrTypes": [],
+  "TitleAttrVals": []
+ },
+ {
+  "id": 10059,
+  "Name": "",
+  "Type1": 3,
+  "Unlocklevel": 600,
+  "Color": 3,
+  "FunctionID": 0,
+  "FunctionParams": 0,
+  "TitleAttrIDs": [
+   100,
+   4,
+   102
+  ],
+  "TitleAttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "TitleAttrVals": [
+   520,
+   7800,
+   260
+  ]
+ },
+ {
+  "id": 10060,
+  "Name": "",
+  "Type1": 1,
+  "Unlocklevel": 610,
+  "Color": 1,
+  "FunctionID": 1,
+  "FunctionParams": 53900,
+  "TitleAttrIDs": [],
+  "TitleAttrTypes": [],
+  "TitleAttrVals": []
+ },
+ {
+  "id": 10061,
+  "Name": "",
+  "Type1": 2,
+  "Unlocklevel": 620,
+  "Color": 2,
+  "FunctionID": 13,
+  "FunctionParams": 10,
+  "TitleAttrIDs": [],
+  "TitleAttrTypes": [],
+  "TitleAttrVals": []
+ },
+ {
+  "id": 10062,
+  "Name": "",
+  "Type1": 3,
+  "Unlocklevel": 630,
+  "Color": 3,
+  "FunctionID": 0,
+  "FunctionParams": 0,
+  "TitleAttrIDs": [
+   100,
+   4,
+   102
+  ],
+  "TitleAttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "TitleAttrVals": [
+   560,
+   8400,
+   280
+  ]
+ },
+ {
+  "id": 10063,
+  "Name": "",
+  "Type1": 1,
+  "Unlocklevel": 640,
+  "Color": 1,
+  "FunctionID": 1,
+  "FunctionParams": 57400,
+  "TitleAttrIDs": [],
+  "TitleAttrTypes": [],
+  "TitleAttrVals": []
+ },
+ {
+  "id": 10064,
+  "Name": "",
+  "Type1": 2,
+  "Unlocklevel": 650,
+  "Color": 2,
+  "FunctionID": 5,
+  "FunctionParams": 2,
+  "TitleAttrIDs": [],
+  "TitleAttrTypes": [],
+  "TitleAttrVals": []
+ },
+ {
+  "id": 10065,
+  "Name": "",
+  "Type1": 3,
+  "Unlocklevel": 660,
+  "Color": 3,
+  "FunctionID": 0,
+  "FunctionParams": 0,
+  "TitleAttrIDs": [
+   100,
+   4,
+   102
+  ],
+  "TitleAttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "TitleAttrVals": [
+   600,
+   9000,
+   300
+  ]
+ },
+ {
+  "id": 10066,
+  "Name": "",
+  "Type1": 1,
+  "Unlocklevel": 670,
+  "Color": 1,
+  "FunctionID": 1,
+  "FunctionParams": 61100,
+  "TitleAttrIDs": [],
+  "TitleAttrTypes": [],
+  "TitleAttrVals": []
+ },
+ {
+  "id": 10067,
+  "Name": "",
+  "Type1": 2,
+  "Unlocklevel": 680,
+  "Color": 2,
+  "FunctionID": 7,
+  "FunctionParams": 3,
+  "TitleAttrIDs": [],
+  "TitleAttrTypes": [],
+  "TitleAttrVals": []
+ },
+ {
+  "id": 10068,
+  "Name": "",
+  "Type1": 3,
+  "Unlocklevel": 690,
+  "Color": 3,
+  "FunctionID": 0,
+  "FunctionParams": 0,
+  "TitleAttrIDs": [
+   100,
+   4,
+   102
+  ],
+  "TitleAttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "TitleAttrVals": [
+   700,
+   10500,
+   350
+  ]
+ },
+ {
+  "id": 10069,
+  "Name": "",
+  "Type1": 1,
+  "Unlocklevel": 700,
+  "Color": 1,
+  "FunctionID": 1,
+  "FunctionParams": 65500,
+  "TitleAttrIDs": [],
+  "TitleAttrTypes": [],
+  "TitleAttrVals": []
+ },
+ {
+  "id": 10070,
+  "Name": "",
+  "Type1": 2,
+  "Unlocklevel": 710,
+  "Color": 2,
+  "FunctionID": 8,
+  "FunctionParams": 3,
+  "TitleAttrIDs": [],
+  "TitleAttrTypes": [],
+  "TitleAttrVals": []
+ },
+ {
+  "id": 10071,
+  "Name": "",
+  "Type1": 3,
+  "Unlocklevel": 720,
+  "Color": 3,
+  "FunctionID": 0,
+  "FunctionParams": 0,
+  "TitleAttrIDs": [
+   100,
+   4,
+   102
+  ],
+  "TitleAttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "TitleAttrVals": [
+   760,
+   11400,
+   380
+  ]
+ },
+ {
+  "id": 10072,
+  "Name": "",
+  "Type1": 1,
+  "Unlocklevel": 730,
+  "Color": 1,
+  "FunctionID": 1,
+  "FunctionParams": 70100,
+  "TitleAttrIDs": [],
+  "TitleAttrTypes": [],
+  "TitleAttrVals": []
+ },
+ {
+  "id": 10073,
+  "Name": "",
+  "Type1": 2,
+  "Unlocklevel": 740,
+  "Color": 2,
+  "FunctionID": 7,
+  "FunctionParams": 3,
+  "TitleAttrIDs": [],
+  "TitleAttrTypes": [],
+  "TitleAttrVals": []
+ },
+ {
+  "id": 10074,
+  "Name": "",
+  "Type1": 3,
+  "Unlocklevel": 750,
+  "Color": 3,
+  "FunctionID": 0,
+  "FunctionParams": 0,
+  "TitleAttrIDs": [
+   100,
+   4,
+   102
+  ],
+  "TitleAttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "TitleAttrVals": [
+   840,
+   12600,
+   420
+  ]
+ },
+ {
+  "id": 10075,
+  "Name": "",
+  "Type1": 1,
+  "Unlocklevel": 760,
+  "Color": 1,
+  "FunctionID": 1,
+  "FunctionParams": 75400,
+  "TitleAttrIDs": [],
+  "TitleAttrTypes": [],
+  "TitleAttrVals": []
+ },
+ {
+  "id": 10076,
+  "Name": "",
+  "Type1": 2,
+  "Unlocklevel": 770,
+  "Color": 2,
+  "FunctionID": 15,
+  "FunctionParams": 3,
+  "TitleAttrIDs": [],
+  "TitleAttrTypes": [],
+  "TitleAttrVals": []
+ },
+ {
+  "id": 10077,
+  "Name": "",
+  "Type1": 3,
+  "Unlocklevel": 780,
+  "Color": 3,
+  "FunctionID": 0,
+  "FunctionParams": 0,
+  "TitleAttrIDs": [
+   100,
+   4,
+   102
+  ],
+  "TitleAttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "TitleAttrVals": [
+   980,
+   14700,
+   490
+  ]
+ },
+ {
+  "id": 10078,
+  "Name": "",
+  "Type1": 1,
+  "Unlocklevel": 790,
+  "Color": 1,
+  "FunctionID": 1,
+  "FunctionParams": 80900,
+  "TitleAttrIDs": [],
+  "TitleAttrTypes": [],
+  "TitleAttrVals": []
+ },
+ {
+  "id": 10079,
+  "Name": "",
+  "Type1": 2,
+  "Unlocklevel": 800,
+  "Color": 2,
+  "FunctionID": 5,
+  "FunctionParams": 2,
+  "TitleAttrIDs": [],
+  "TitleAttrTypes": [],
+  "TitleAttrVals": []
+ },
+ {
+  "id": 10080,
+  "Name": "",
+  "Type1": 3,
+  "Unlocklevel": 810,
+  "Color": 3,
+  "FunctionID": 0,
+  "FunctionParams": 0,
+  "TitleAttrIDs": [
+   100,
+   4,
+   102
+  ],
+  "TitleAttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "TitleAttrVals": [
+   1040,
+   15600,
+   520
+  ]
+ },
+ {
+  "id": 10081,
+  "Name": "",
+  "Type1": 1,
+  "Unlocklevel": 820,
+  "Color": 1,
+  "FunctionID": 1,
+  "FunctionParams": 86800,
+  "TitleAttrIDs": [],
+  "TitleAttrTypes": [],
+  "TitleAttrVals": []
+ },
+ {
+  "id": 10082,
+  "Name": "",
+  "Type1": 2,
+  "Unlocklevel": 830,
+  "Color": 2,
+  "FunctionID": 5,
+  "FunctionParams": 2,
+  "TitleAttrIDs": [],
+  "TitleAttrTypes": [],
+  "TitleAttrVals": []
+ },
+ {
+  "id": 10083,
+  "Name": "",
+  "Type1": 3,
+  "Unlocklevel": 840,
+  "Color": 3,
+  "FunctionID": 0,
+  "FunctionParams": 0,
+  "TitleAttrIDs": [
+   100,
+   4,
+   102
+  ],
+  "TitleAttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "TitleAttrVals": [
+   1100,
+   16500,
+   550
+  ]
+ },
+ {
+  "id": 10084,
+  "Name": "",
+  "Type1": 1,
+  "Unlocklevel": 850,
+  "Color": 1,
+  "FunctionID": 1,
+  "FunctionParams": 93500,
+  "TitleAttrIDs": [],
+  "TitleAttrTypes": [],
+  "TitleAttrVals": []
+ },
+ {
+  "id": 10085,
+  "Name": "",
+  "Type1": 2,
+  "Unlocklevel": 860,
+  "Color": 2,
+  "FunctionID": 2,
+  "FunctionParams": 5,
+  "TitleAttrIDs": [],
+  "TitleAttrTypes": [],
+  "TitleAttrVals": []
+ },
+ {
+  "id": 10086,
+  "Name": "",
+  "Type1": 3,
+  "Unlocklevel": 870,
+  "Color": 3,
+  "FunctionID": 0,
+  "FunctionParams": 0,
+  "TitleAttrIDs": [
+   100,
+   4,
+   102
+  ],
+  "TitleAttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "TitleAttrVals": [
+   1160,
+   17400,
+   580
+  ]
+ },
+ {
+  "id": 10087,
+  "Name": "",
+  "Type1": 1,
+  "Unlocklevel": 880,
+  "Color": 1,
+  "FunctionID": 1,
+  "FunctionParams": 101200,
+  "TitleAttrIDs": [],
+  "TitleAttrTypes": [],
+  "TitleAttrVals": []
+ },
+ {
+  "id": 10088,
+  "Name": "",
+  "Type1": 2,
+  "Unlocklevel": 890,
+  "Color": 2,
+  "FunctionID": 11,
+  "FunctionParams": 5,
+  "TitleAttrIDs": [],
+  "TitleAttrTypes": [],
+  "TitleAttrVals": []
+ },
+ {
+  "id": 10089,
+  "Name": "",
+  "Type1": 3,
+  "Unlocklevel": 900,
+  "Color": 3,
+  "FunctionID": 0,
+  "FunctionParams": 0,
+  "TitleAttrIDs": [
+   100,
+   4,
+   102
+  ],
+  "TitleAttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "TitleAttrVals": [
+   1220,
+   18300,
+   610
+  ]
+ },
+ {
+  "id": 10090,
+  "Name": "",
+  "Type1": 1,
+  "Unlocklevel": 910,
+  "Color": 1,
+  "FunctionID": 1,
+  "FunctionParams": 109200,
+  "TitleAttrIDs": [],
+  "TitleAttrTypes": [],
+  "TitleAttrVals": []
+ },
+ {
+  "id": 10091,
+  "Name": "",
+  "Type1": 2,
+  "Unlocklevel": 920,
+  "Color": 2,
+  "FunctionID": 12,
+  "FunctionParams": 10,
+  "TitleAttrIDs": [],
+  "TitleAttrTypes": [],
+  "TitleAttrVals": []
+ },
+ {
+  "id": 10092,
+  "Name": "",
+  "Type1": 3,
+  "Unlocklevel": 930,
+  "Color": 3,
+  "FunctionID": 0,
+  "FunctionParams": 0,
+  "TitleAttrIDs": [
+   100,
+   4,
+   102
+  ],
+  "TitleAttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "TitleAttrVals": [
+   1360,
+   20400,
+   680
+  ]
+ },
+ {
+  "id": 10093,
+  "Name": "",
+  "Type1": 1,
+  "Unlocklevel": 940,
+  "Color": 1,
+  "FunctionID": 1,
+  "FunctionParams": 117700,
+  "TitleAttrIDs": [],
+  "TitleAttrTypes": [],
+  "TitleAttrVals": []
+ },
+ {
+  "id": 10094,
+  "Name": "",
+  "Type1": 2,
+  "Unlocklevel": 950,
+  "Color": 2,
+  "FunctionID": 2,
+  "FunctionParams": 5,
+  "TitleAttrIDs": [],
+  "TitleAttrTypes": [],
+  "TitleAttrVals": []
+ },
+ {
+  "id": 10095,
+  "Name": "",
+  "Type1": 3,
+  "Unlocklevel": 960,
+  "Color": 3,
+  "FunctionID": 0,
+  "FunctionParams": 0,
+  "TitleAttrIDs": [
+   100,
+   4,
+   102
+  ],
+  "TitleAttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "TitleAttrVals": [
+   1460,
+   21900,
+   730
+  ]
+ },
+ {
+  "id": 10096,
+  "Name": "",
+  "Type1": 1,
+  "Unlocklevel": 970,
+  "Color": 1,
+  "FunctionID": 1,
+  "FunctionParams": 127300,
+  "TitleAttrIDs": [],
+  "TitleAttrTypes": [],
+  "TitleAttrVals": []
+ },
+ {
+  "id": 10097,
+  "Name": "",
+  "Type1": 2,
+  "Unlocklevel": 980,
+  "Color": 2,
+  "FunctionID": 11,
+  "FunctionParams": 5,
+  "TitleAttrIDs": [],
+  "TitleAttrTypes": [],
+  "TitleAttrVals": []
+ },
+ {
+  "id": 10098,
+  "Name": "",
+  "Type1": 3,
+  "Unlocklevel": 990,
+  "Color": 3,
+  "FunctionID": 0,
+  "FunctionParams": 0,
+  "TitleAttrIDs": [
+   100,
+   4,
+   102
+  ],
+  "TitleAttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "TitleAttrVals": [
+   1600,
+   24000,
+   800
+  ]
+ },
+ {
+  "id": 10099,
+  "Name": "",
+  "Type1": 1,
+  "Unlocklevel": 1005,
+  "Color": 1,
+  "FunctionID": 1,
+  "FunctionParams": 116200,
+  "TitleAttrIDs": [],
+  "TitleAttrTypes": [],
+  "TitleAttrVals": []
+ },
+ {
+  "id": 10100,
+  "Name": "",
+  "Type1": 2,
+  "Unlocklevel": 1020,
+  "Color": 2,
+  "FunctionID": 5,
+  "FunctionParams": 2,
+  "TitleAttrIDs": [],
+  "TitleAttrTypes": [],
+  "TitleAttrVals": []
+ },
+ {
+  "id": 10101,
+  "Name": "",
+  "Type1": 3,
+  "Unlocklevel": 1035,
+  "Color": 3,
+  "FunctionID": 0,
+  "FunctionParams": 0,
+  "TitleAttrIDs": [
+   100,
+   4,
+   102
+  ],
+  "TitleAttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "TitleAttrVals": [
+   1800,
+   27000,
+   900
+  ]
+ },
+ {
+  "id": 10102,
+  "Name": "",
+  "Type1": 1,
+  "Unlocklevel": 1050,
+  "Color": 1,
+  "FunctionID": 1,
+  "FunctionParams": 122600,
+  "TitleAttrIDs": [],
+  "TitleAttrTypes": [],
+  "TitleAttrVals": []
+ },
+ {
+  "id": 10103,
+  "Name": "",
+  "Type1": 2,
+  "Unlocklevel": 1065,
+  "Color": 2,
+  "FunctionID": 13,
+  "FunctionParams": 10,
+  "TitleAttrIDs": [],
+  "TitleAttrTypes": [],
+  "TitleAttrVals": []
+ },
+ {
+  "id": 10104,
+  "Name": "",
+  "Type1": 3,
+  "Unlocklevel": 1080,
+  "Color": 3,
+  "FunctionID": 0,
+  "FunctionParams": 0,
+  "TitleAttrIDs": [
+   100,
+   4,
+   102
+  ],
+  "TitleAttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "TitleAttrVals": [
+   1860,
+   27900,
+   930
+  ]
+ },
+ {
+  "id": 10105,
+  "Name": "",
+  "Type1": 1,
+  "Unlocklevel": 1095,
+  "Color": 1,
+  "FunctionID": 1,
+  "FunctionParams": 129200,
+  "TitleAttrIDs": [],
+  "TitleAttrTypes": [],
+  "TitleAttrVals": []
+ },
+ {
+  "id": 10106,
+  "Name": "",
+  "Type1": 2,
+  "Unlocklevel": 1110,
+  "Color": 2,
+  "FunctionID": 7,
+  "FunctionParams": 4,
+  "TitleAttrIDs": [],
+  "TitleAttrTypes": [],
+  "TitleAttrVals": []
+ },
+ {
+  "id": 10107,
+  "Name": "",
+  "Type1": 3,
+  "Unlocklevel": 1125,
+  "Color": 3,
+  "FunctionID": 0,
+  "FunctionParams": 0,
+  "TitleAttrIDs": [
+   100,
+   4,
+   102
+  ],
+  "TitleAttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "TitleAttrVals": [
+   1920,
+   28800,
+   960
+  ]
+ },
+ {
+  "id": 10108,
+  "Name": "",
+  "Type1": 1,
+  "Unlocklevel": 1140,
+  "Color": 1,
+  "FunctionID": 1,
+  "FunctionParams": 136000,
+  "TitleAttrIDs": [],
+  "TitleAttrTypes": [],
+  "TitleAttrVals": []
+ },
+ {
+  "id": 10109,
+  "Name": "",
+  "Type1": 2,
+  "Unlocklevel": 1155,
+  "Color": 2,
+  "FunctionID": 8,
+  "FunctionParams": 3,
+  "TitleAttrIDs": [],
+  "TitleAttrTypes": [],
+  "TitleAttrVals": []
+ },
+ {
+  "id": 10110,
+  "Name": "",
+  "Type1": 3,
+  "Unlocklevel": 1170,
+  "Color": 3,
+  "FunctionID": 0,
+  "FunctionParams": 0,
+  "TitleAttrIDs": [
+   100,
+   4,
+   102
+  ],
+  "TitleAttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "TitleAttrVals": [
+   1980,
+   29700,
+   990
+  ]
+ },
+ {
+  "id": 10111,
+  "Name": "",
+  "Type1": 1,
+  "Unlocklevel": 1185,
+  "Color": 1,
+  "FunctionID": 1,
+  "FunctionParams": 143800,
+  "TitleAttrIDs": [],
+  "TitleAttrTypes": [],
+  "TitleAttrVals": []
+ },
+ {
+  "id": 10112,
+  "Name": "",
+  "Type1": 2,
+  "Unlocklevel": 1200,
+  "Color": 2,
+  "FunctionID": 9,
+  "FunctionParams": 2,
+  "TitleAttrIDs": [],
+  "TitleAttrTypes": [],
+  "TitleAttrVals": []
+ },
+ {
+  "id": 10113,
+  "Name": "",
+  "Type1": 3,
+  "Unlocklevel": 1215,
+  "Color": 3,
+  "FunctionID": 0,
+  "FunctionParams": 0,
+  "TitleAttrIDs": [
+   100,
+   4,
+   102
+  ],
+  "TitleAttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "TitleAttrVals": [
+   2160,
+   32400,
+   1080
+  ]
+ },
+ {
+  "id": 10114,
+  "Name": "",
+  "Type1": 1,
+  "Unlocklevel": 1230,
+  "Color": 1,
+  "FunctionID": 1,
+  "FunctionParams": 151800,
+  "TitleAttrIDs": [],
+  "TitleAttrTypes": [],
+  "TitleAttrVals": []
+ },
+ {
+  "id": 10115,
+  "Name": "",
+  "Type1": 2,
+  "Unlocklevel": 1245,
+  "Color": 2,
+  "FunctionID": 8,
+  "FunctionParams": 3,
+  "TitleAttrIDs": [],
+  "TitleAttrTypes": [],
+  "TitleAttrVals": []
+ },
+ {
+  "id": 10116,
+  "Name": "",
+  "Type1": 3,
+  "Unlocklevel": 1260,
+  "Color": 3,
+  "FunctionID": 0,
+  "FunctionParams": 0,
+  "TitleAttrIDs": [
+   100,
+   4,
+   102
+  ],
+  "TitleAttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "TitleAttrVals": [
+   2340,
+   35100,
+   1170
+  ]
+ },
+ {
+  "id": 10117,
+  "Name": "",
+  "Type1": 1,
+  "Unlocklevel": 1275,
+  "Color": 1,
+  "FunctionID": 1,
+  "FunctionParams": 160800,
+  "TitleAttrIDs": [],
+  "TitleAttrTypes": [],
+  "TitleAttrVals": []
+ },
+ {
+  "id": 10118,
+  "Name": "",
+  "Type1": 2,
+  "Unlocklevel": 1290,
+  "Color": 2,
+  "FunctionID": 9,
+  "FunctionParams": 2,
+  "TitleAttrIDs": [],
+  "TitleAttrTypes": [],
+  "TitleAttrVals": []
+ },
+ {
+  "id": 10119,
+  "Name": "",
+  "Type1": 3,
+  "Unlocklevel": 1305,
+  "Color": 3,
+  "FunctionID": 0,
+  "FunctionParams": 0,
+  "TitleAttrIDs": [
+   100,
+   4,
+   102
+  ],
+  "TitleAttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "TitleAttrVals": [
+   2520,
+   37800,
+   1260
+  ]
+ },
+ {
+  "id": 10120,
+  "Name": "",
+  "Type1": 1,
+  "Unlocklevel": 1320,
+  "Color": 1,
+  "FunctionID": 1,
+  "FunctionParams": 170200,
+  "TitleAttrIDs": [],
+  "TitleAttrTypes": [],
+  "TitleAttrVals": []
+ },
+ {
+  "id": 10121,
+  "Name": "",
+  "Type1": 2,
+  "Unlocklevel": 1335,
+  "Color": 2,
+  "FunctionID": 15,
+  "FunctionParams": 3,
+  "TitleAttrIDs": [],
+  "TitleAttrTypes": [],
+  "TitleAttrVals": []
+ },
+ {
+  "id": 10122,
+  "Name": "",
+  "Type1": 3,
+  "Unlocklevel": 1350,
+  "Color": 3,
+  "FunctionID": 0,
+  "FunctionParams": 0,
+  "TitleAttrIDs": [
+   100,
+   4,
+   102
+  ],
+  "TitleAttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "TitleAttrVals": [
+   2700,
+   40500,
+   1350
+  ]
+ },
+ {
+  "id": 10123,
+  "Name": "",
+  "Type1": 1,
+  "Unlocklevel": 1365,
+  "Color": 1,
+  "FunctionID": 1,
+  "FunctionParams": 179800,
+  "TitleAttrIDs": [],
+  "TitleAttrTypes": [],
+  "TitleAttrVals": []
+ },
+ {
+  "id": 10124,
+  "Name": "",
+  "Type1": 2,
+  "Unlocklevel": 1380,
+  "Color": 2,
+  "FunctionID": 2,
+  "FunctionParams": 5,
+  "TitleAttrIDs": [],
+  "TitleAttrTypes": [],
+  "TitleAttrVals": []
+ },
+ {
+  "id": 10125,
+  "Name": "",
+  "Type1": 3,
+  "Unlocklevel": 1395,
+  "Color": 3,
+  "FunctionID": 0,
+  "FunctionParams": 0,
+  "TitleAttrIDs": [
+   100,
+   4,
+   102
+  ],
+  "TitleAttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "TitleAttrVals": [
+   2880,
+   43200,
+   1440
+  ]
+ },
+ {
+  "id": 10126,
+  "Name": "",
+  "Type1": 1,
+  "Unlocklevel": 1410,
+  "Color": 1,
+  "FunctionID": 1,
+  "FunctionParams": 190600,
+  "TitleAttrIDs": [],
+  "TitleAttrTypes": [],
+  "TitleAttrVals": []
+ },
+ {
+  "id": 10127,
+  "Name": "",
+  "Type1": 2,
+  "Unlocklevel": 1425,
+  "Color": 2,
+  "FunctionID": 11,
+  "FunctionParams": 5,
+  "TitleAttrIDs": [],
+  "TitleAttrTypes": [],
+  "TitleAttrVals": []
+ },
+ {
+  "id": 10128,
+  "Name": "",
+  "Type1": 3,
+  "Unlocklevel": 1440,
+  "Color": 3,
+  "FunctionID": 0,
+  "FunctionParams": 0,
+  "TitleAttrIDs": [
+   100,
+   4,
+   102
+  ],
+  "TitleAttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "TitleAttrVals": [
+   3060,
+   45900,
+   1530
+  ]
+ },
+ {
+  "id": 10129,
+  "Name": "",
+  "Type1": 1,
+  "Unlocklevel": 1455,
+  "Color": 1,
+  "FunctionID": 1,
+  "FunctionParams": 201800,
+  "TitleAttrIDs": [],
+  "TitleAttrTypes": [],
+  "TitleAttrVals": []
+ },
+ {
+  "id": 10130,
+  "Name": "",
+  "Type1": 2,
+  "Unlocklevel": 1470,
+  "Color": 2,
+  "FunctionID": 12,
+  "FunctionParams": 10,
+  "TitleAttrIDs": [],
+  "TitleAttrTypes": [],
+  "TitleAttrVals": []
+ },
+ {
+  "id": 10131,
+  "Name": "",
+  "Type1": 3,
+  "Unlocklevel": 1485,
+  "Color": 3,
+  "FunctionID": 0,
+  "FunctionParams": 0,
+  "TitleAttrIDs": [
+   100,
+   4,
+   102
+  ],
+  "TitleAttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "TitleAttrVals": [
+   3240,
+   48600,
+   1620
+  ]
+ },
+ {
+  "id": 10132,
+  "Name": "",
+  "Type1": 1,
+  "Unlocklevel": 1500,
+  "Color": 1,
+  "FunctionID": 1,
+  "FunctionParams": 212600,
+  "TitleAttrIDs": [],
+  "TitleAttrTypes": [],
+  "TitleAttrVals": []
+ },
+ {
+  "id": 10133,
+  "Name": "",
+  "Type1": 2,
+  "Unlocklevel": 1515,
+  "Color": 2,
+  "FunctionID": 2,
+  "FunctionParams": 5,
+  "TitleAttrIDs": [],
+  "TitleAttrTypes": [],
+  "TitleAttrVals": []
+ },
+ {
+  "id": 10134,
+  "Name": "",
+  "Type1": 3,
+  "Unlocklevel": 1530,
+  "Color": 3,
+  "FunctionID": 0,
+  "FunctionParams": 0,
+  "TitleAttrIDs": [
+   100,
+   4,
+   102
+  ],
+  "TitleAttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "TitleAttrVals": [
+   3420,
+   51300,
+   1710
+  ]
+ },
+ {
+  "id": 10135,
+  "Name": "",
+  "Type1": 1,
+  "Unlocklevel": 1545,
+  "Color": 1,
+  "FunctionID": 1,
+  "FunctionParams": 223800,
+  "TitleAttrIDs": [],
+  "TitleAttrTypes": [],
+  "TitleAttrVals": []
+ },
+ {
+  "id": 10136,
+  "Name": "",
+  "Type1": 2,
+  "Unlocklevel": 1560,
+  "Color": 2,
+  "FunctionID": 11,
+  "FunctionParams": 5,
+  "TitleAttrIDs": [],
+  "TitleAttrTypes": [],
+  "TitleAttrVals": []
+ },
+ {
+  "id": 10137,
+  "Name": "",
+  "Type1": 3,
+  "Unlocklevel": 1575,
+  "Color": 3,
+  "FunctionID": 0,
+  "FunctionParams": 0,
+  "TitleAttrIDs": [
+   100,
+   4,
+   102
+  ],
+  "TitleAttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "TitleAttrVals": [
+   3700,
+   55500,
+   1850
+  ]
+ },
+ {
+  "id": 10138,
+  "Name": "",
+  "Type1": 1,
+  "Unlocklevel": 1590,
+  "Color": 1,
+  "FunctionID": 1,
+  "FunctionParams": 236200,
+  "TitleAttrIDs": [],
+  "TitleAttrTypes": [],
+  "TitleAttrVals": []
+ },
+ {
+  "id": 10139,
+  "Name": "",
+  "Type1": 2,
+  "Unlocklevel": 1605,
+  "Color": 2,
+  "FunctionID": 5,
+  "FunctionParams": 2,
+  "TitleAttrIDs": [],
+  "TitleAttrTypes": [],
+  "TitleAttrVals": []
+ },
+ {
+  "id": 10140,
+  "Name": "",
+  "Type1": 3,
+  "Unlocklevel": 1620,
+  "Color": 3,
+  "FunctionID": 0,
+  "FunctionParams": 0,
+  "TitleAttrIDs": [
+   100,
+   4,
+   102
+  ],
+  "TitleAttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "TitleAttrVals": [
+   4200,
+   63000,
+   2100
+  ]
+ },
+ {
+  "id": 10141,
+  "Name": "",
+  "Type1": 1,
+  "Unlocklevel": 1635,
+  "Color": 1,
+  "FunctionID": 1,
+  "FunctionParams": 249100,
+  "TitleAttrIDs": [],
+  "TitleAttrTypes": [],
+  "TitleAttrVals": []
+ },
+ {
+  "id": 10142,
+  "Name": "",
+  "Type1": 2,
+  "Unlocklevel": 1650,
+  "Color": 2,
+  "FunctionID": 2,
+  "FunctionParams": 5,
+  "TitleAttrIDs": [],
+  "TitleAttrTypes": [],
+  "TitleAttrVals": []
+ },
+ {
+  "id": 10143,
+  "Name": "",
+  "Type1": 3,
+  "Unlocklevel": 1665,
+  "Color": 3,
+  "FunctionID": 0,
+  "FunctionParams": 0,
+  "TitleAttrIDs": [
+   100,
+   4,
+   102
+  ],
+  "TitleAttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "TitleAttrVals": [
+   4600,
+   69000,
+   2300
+  ]
+ },
+ {
+  "id": 10144,
+  "Name": "",
+  "Type1": 1,
+  "Unlocklevel": 1680,
+  "Color": 1,
+  "FunctionID": 1,
+  "FunctionParams": 262400,
+  "TitleAttrIDs": [],
+  "TitleAttrTypes": [],
+  "TitleAttrVals": []
+ },
+ {
+  "id": 10145,
+  "Name": "",
+  "Type1": 2,
+  "Unlocklevel": 1695,
+  "Color": 2,
+  "FunctionID": 11,
+  "FunctionParams": 5,
+  "TitleAttrIDs": [],
+  "TitleAttrTypes": [],
+  "TitleAttrVals": []
+ },
+ {
+  "id": 10146,
+  "Name": "",
+  "Type1": 3,
+  "Unlocklevel": 1710,
+  "Color": 3,
+  "FunctionID": 0,
+  "FunctionParams": 0,
+  "TitleAttrIDs": [
+   100,
+   4,
+   102
+  ],
+  "TitleAttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "TitleAttrVals": [
+   5000,
+   75000,
+   2500
+  ]
+ },
+ {
+  "id": 10147,
+  "Name": "",
+  "Type1": 1,
+  "Unlocklevel": 1725,
+  "Color": 1,
+  "FunctionID": 1,
+  "FunctionParams": 277100,
+  "TitleAttrIDs": [],
+  "TitleAttrTypes": [],
+  "TitleAttrVals": []
+ },
+ {
+  "id": 10148,
+  "Name": "",
+  "Type1": 2,
+  "Unlocklevel": 1740,
+  "Color": 2,
+  "FunctionID": 6,
+  "FunctionParams": 5,
+  "TitleAttrIDs": [],
+  "TitleAttrTypes": [],
+  "TitleAttrVals": []
+ },
+ {
+  "id": 10149,
+  "Name": "",
+  "Type1": 3,
+  "Unlocklevel": 1755,
+  "Color": 3,
+  "FunctionID": 0,
+  "FunctionParams": 0,
+  "TitleAttrIDs": [
+   100,
+   4,
+   102
+  ],
+  "TitleAttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "TitleAttrVals": [
+   5400,
+   81000,
+   2700
+  ]
+ },
+ {
+  "id": 10150,
+  "Name": "",
+  "Type1": 1,
+  "Unlocklevel": 1770,
+  "Color": 1,
+  "FunctionID": 1,
+  "FunctionParams": 292300,
+  "TitleAttrIDs": [],
+  "TitleAttrTypes": [],
+  "TitleAttrVals": []
+ },
+ {
+  "id": 10151,
+  "Name": "",
+  "Type1": 2,
+  "Unlocklevel": 1785,
+  "Color": 2,
+  "FunctionID": 5,
+  "FunctionParams": 2,
+  "TitleAttrIDs": [],
+  "TitleAttrTypes": [],
+  "TitleAttrVals": []
+ },
+ {
+  "id": 10152,
+  "Name": "",
+  "Type1": 3,
+  "Unlocklevel": 1800,
+  "Color": 3,
+  "FunctionID": 0,
+  "FunctionParams": 0,
+  "TitleAttrIDs": [
+   100,
+   4,
+   102
+  ],
+  "TitleAttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "TitleAttrVals": [
+   5800,
+   87000,
+   2900
+  ]
+ },
+ {
+  "id": 10153,
+  "Name": "",
+  "Type1": 1,
+  "Unlocklevel": 1815,
+  "Color": 1,
+  "FunctionID": 1,
+  "FunctionParams": 308100,
+  "TitleAttrIDs": [],
+  "TitleAttrTypes": [],
+  "TitleAttrVals": []
+ },
+ {
+  "id": 10154,
+  "Name": "",
+  "Type1": 2,
+  "Unlocklevel": 1830,
+  "Color": 2,
+  "FunctionID": 7,
+  "FunctionParams": 4,
+  "TitleAttrIDs": [],
+  "TitleAttrTypes": [],
+  "TitleAttrVals": []
+ },
+ {
+  "id": 10155,
+  "Name": "",
+  "Type1": 3,
+  "Unlocklevel": 1845,
+  "Color": 3,
+  "FunctionID": 0,
+  "FunctionParams": 0,
+  "TitleAttrIDs": [
+   100,
+   4,
+   102
+  ],
+  "TitleAttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "TitleAttrVals": [
+   6200,
+   93000,
+   3100
+  ]
+ },
+ {
+  "id": 10156,
+  "Name": "",
+  "Type1": 1,
+  "Unlocklevel": 1860,
+  "Color": 1,
+  "FunctionID": 1,
+  "FunctionParams": 325300,
+  "TitleAttrIDs": [],
+  "TitleAttrTypes": [],
+  "TitleAttrVals": []
+ },
+ {
+  "id": 10157,
+  "Name": "",
+  "Type1": 2,
+  "Unlocklevel": 1875,
+  "Color": 2,
+  "FunctionID": 8,
+  "FunctionParams": 3,
+  "TitleAttrIDs": [],
+  "TitleAttrTypes": [],
+  "TitleAttrVals": []
+ },
+ {
+  "id": 10158,
+  "Name": "",
+  "Type1": 3,
+  "Unlocklevel": 1890,
+  "Color": 3,
+  "FunctionID": 0,
+  "FunctionParams": 0,
+  "TitleAttrIDs": [
+   100,
+   4,
+   102
+  ],
+  "TitleAttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "TitleAttrVals": [
+   6600,
+   99000,
+   3300
+  ]
+ },
+ {
+  "id": 10159,
+  "Name": "",
+  "Type1": 1,
+  "Unlocklevel": 1905,
+  "Color": 1,
+  "FunctionID": 1,
+  "FunctionParams": 343200,
+  "TitleAttrIDs": [],
+  "TitleAttrTypes": [],
+  "TitleAttrVals": []
+ },
+ {
+  "id": 10160,
+  "Name": "",
+  "Type1": 2,
+  "Unlocklevel": 1920,
+  "Color": 2,
+  "FunctionID": 9,
+  "FunctionParams": 3,
+  "TitleAttrIDs": [],
+  "TitleAttrTypes": [],
+  "TitleAttrVals": []
+ },
+ {
+  "id": 10161,
+  "Name": "",
+  "Type1": 3,
+  "Unlocklevel": 1935,
+  "Color": 3,
+  "FunctionID": 0,
+  "FunctionParams": 0,
+  "TitleAttrIDs": [
+   100,
+   4,
+   102
+  ],
+  "TitleAttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "TitleAttrVals": [
+   7000,
+   105000,
+   3500
+  ]
+ },
+ {
+  "id": 10162,
+  "Name": "",
+  "Type1": 1,
+  "Unlocklevel": 1950,
+  "Color": 1,
+  "FunctionID": 1,
+  "FunctionParams": 361700,
+  "TitleAttrIDs": [],
+  "TitleAttrTypes": [],
+  "TitleAttrVals": []
+ },
+ {
+  "id": 10163,
+  "Name": "",
+  "Type1": 2,
+  "Unlocklevel": 1965,
+  "Color": 2,
+  "FunctionID": 15,
+  "FunctionParams": 3,
+  "TitleAttrIDs": [],
+  "TitleAttrTypes": [],
+  "TitleAttrVals": []
+ },
+ {
+  "id": 10164,
+  "Name": "",
+  "Type1": 3,
+  "Unlocklevel": 1980,
+  "Color": 3,
+  "FunctionID": 0,
+  "FunctionParams": 0,
+  "TitleAttrIDs": [
+   100,
+   4,
+   102
+  ],
+  "TitleAttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "TitleAttrVals": [
+   7400,
+   111000,
+   3700
+  ]
+ },
+ {
+  "id": 10165,
+  "Name": "",
+  "Type1": 1,
+  "Unlocklevel": 1995,
+  "Color": 1,
+  "FunctionID": 1,
+  "FunctionParams": 380900,
+  "TitleAttrIDs": [],
+  "TitleAttrTypes": [],
+  "TitleAttrVals": []
+ },
+ {
+  "id": 10166,
+  "Name": "",
+  "Type1": 2,
+  "Unlocklevel": 2010,
+  "Color": 2,
+  "FunctionID": 13,
+  "FunctionParams": 10,
+  "TitleAttrIDs": [],
+  "TitleAttrTypes": [],
+  "TitleAttrVals": []
+ },
+ {
+  "id": 10167,
+  "Name": "",
+  "Type1": 3,
+  "Unlocklevel": 2025,
+  "Color": 3,
+  "FunctionID": 0,
+  "FunctionParams": 0,
+  "TitleAttrIDs": [
+   100,
+   4,
+   102
+  ],
+  "TitleAttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "TitleAttrVals": [
+   7800,
+   117000,
+   3900
+  ]
+ },
+ {
+  "id": 10168,
+  "Name": "",
+  "Type1": 1,
+  "Unlocklevel": 2040,
+  "Color": 1,
+  "FunctionID": 1,
+  "FunctionParams": 401800,
+  "TitleAttrIDs": [],
+  "TitleAttrTypes": [],
+  "TitleAttrVals": []
+ },
+ {
+  "id": 10169,
+  "Name": "",
+  "Type1": 2,
+  "Unlocklevel": 2055,
+  "Color": 2,
+  "FunctionID": 5,
+  "FunctionParams": 2,
+  "TitleAttrIDs": [],
+  "TitleAttrTypes": [],
+  "TitleAttrVals": []
+ },
+ {
+  "id": 10170,
+  "Name": "",
+  "Type1": 3,
+  "Unlocklevel": 2070,
+  "Color": 3,
+  "FunctionID": 0,
+  "FunctionParams": 0,
+  "TitleAttrIDs": [
+   100,
+   4,
+   102
+  ],
+  "TitleAttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "TitleAttrVals": [
+   8200,
+   123000,
+   4100
+  ]
+ },
+ {
+  "id": 10171,
+  "Name": "",
+  "Type1": 1,
+  "Unlocklevel": 2085,
+  "Color": 1,
+  "FunctionID": 1,
+  "FunctionParams": 424500,
+  "TitleAttrIDs": [],
+  "TitleAttrTypes": [],
+  "TitleAttrVals": []
+ },
+ {
+  "id": 10172,
+  "Name": "",
+  "Type1": 2,
+  "Unlocklevel": 2100,
+  "Color": 2,
+  "FunctionID": 5,
+  "FunctionParams": 2,
+  "TitleAttrIDs": [],
+  "TitleAttrTypes": [],
+  "TitleAttrVals": []
+ },
+ {
+  "id": 10173,
+  "Name": "",
+  "Type1": 3,
+  "Unlocklevel": 2115,
+  "Color": 3,
+  "FunctionID": 0,
+  "FunctionParams": 0,
+  "TitleAttrIDs": [
+   100,
+   4,
+   102
+  ],
+  "TitleAttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "TitleAttrVals": [
+   8600,
+   129000,
+   4300
+  ]
+ },
+ {
+  "id": 10174,
+  "Name": "",
+  "Type1": 1,
+  "Unlocklevel": 2130,
+  "Color": 1,
+  "FunctionID": 1,
+  "FunctionParams": 456500,
+  "TitleAttrIDs": [],
+  "TitleAttrTypes": [],
+  "TitleAttrVals": []
+ },
+ {
+  "id": 10175,
+  "Name": "",
+  "Type1": 2,
+  "Unlocklevel": 2145,
+  "Color": 2,
+  "FunctionID": 2,
+  "FunctionParams": 5,
+  "TitleAttrIDs": [],
+  "TitleAttrTypes": [],
+  "TitleAttrVals": []
+ },
+ {
+  "id": 10176,
+  "Name": "",
+  "Type1": 3,
+  "Unlocklevel": 2160,
+  "Color": 3,
+  "FunctionID": 0,
+  "FunctionParams": 0,
+  "TitleAttrIDs": [
+   100,
+   4,
+   102
+  ],
+  "TitleAttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "TitleAttrVals": [
+   10000,
+   150000,
+   5000
+  ]
+ },
+ {
+  "id": 10177,
+  "Name": "",
+  "Type1": 1,
+  "Unlocklevel": 2175,
+  "Color": 1,
+  "FunctionID": 1,
+  "FunctionParams": 490900,
+  "TitleAttrIDs": [],
+  "TitleAttrTypes": [],
+  "TitleAttrVals": []
+ },
+ {
+  "id": 10178,
+  "Name": "",
+  "Type1": 2,
+  "Unlocklevel": 2190,
+  "Color": 2,
+  "FunctionID": 11,
+  "FunctionParams": 5,
+  "TitleAttrIDs": [],
+  "TitleAttrTypes": [],
+  "TitleAttrVals": []
+ },
+ {
+  "id": 10179,
+  "Name": "",
+  "Type1": 3,
+  "Unlocklevel": 2205,
+  "Color": 3,
+  "FunctionID": 0,
+  "FunctionParams": 0,
+  "TitleAttrIDs": [
+   100,
+   4,
+   102
+  ],
+  "TitleAttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "TitleAttrVals": [
+   11000,
+   165000,
+   5500
+  ]
+ },
+ {
+  "id": 10180,
+  "Name": "",
+  "Type1": 1,
+  "Unlocklevel": 2220,
+  "Color": 1,
+  "FunctionID": 1,
+  "FunctionParams": 527700,
+  "TitleAttrIDs": [],
+  "TitleAttrTypes": [],
+  "TitleAttrVals": []
+ },
+ {
+  "id": 10181,
+  "Name": "",
+  "Type1": 2,
+  "Unlocklevel": 2235,
+  "Color": 2,
+  "FunctionID": 9,
+  "FunctionParams": 3,
+  "TitleAttrIDs": [],
+  "TitleAttrTypes": [],
+  "TitleAttrVals": []
+ },
+ {
+  "id": 10182,
+  "Name": "",
+  "Type1": 3,
+  "Unlocklevel": 2250,
+  "Color": 3,
+  "FunctionID": 0,
+  "FunctionParams": 0,
+  "TitleAttrIDs": [
+   100,
+   4,
+   102
+  ],
+  "TitleAttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "TitleAttrVals": [
+   12000,
+   180000,
+   6000
+  ]
+ },
+ {
+  "id": 10183,
+  "Name": "",
+  "Type1": 1,
+  "Unlocklevel": 2265,
+  "Color": 1,
+  "FunctionID": 1,
+  "FunctionParams": 567500,
+  "TitleAttrIDs": [],
+  "TitleAttrTypes": [],
+  "TitleAttrVals": []
+ },
+ {
+  "id": 10184,
+  "Name": "",
+  "Type1": 2,
+  "Unlocklevel": 2280,
+  "Color": 2,
+  "FunctionID": 8,
+  "FunctionParams": 3,
+  "TitleAttrIDs": [],
+  "TitleAttrTypes": [],
+  "TitleAttrVals": []
+ },
+ {
+  "id": 10185,
+  "Name": "",
+  "Type1": 3,
+  "Unlocklevel": 2295,
+  "Color": 3,
+  "FunctionID": 0,
+  "FunctionParams": 0,
+  "TitleAttrIDs": [
+   100,
+   4,
+   102
+  ],
+  "TitleAttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "TitleAttrVals": [
+   13000,
+   195000,
+   6500
+  ]
+ },
+ {
+  "id": 10186,
+  "Name": "",
+  "Type1": 1,
+  "Unlocklevel": 2310,
+  "Color": 1,
+  "FunctionID": 1,
+  "FunctionParams": 609100,
+  "TitleAttrIDs": [],
+  "TitleAttrTypes": [],
+  "TitleAttrVals": []
+ },
+ {
+  "id": 10187,
+  "Name": "",
+  "Type1": 2,
+  "Unlocklevel": 2325,
+  "Color": 2,
+  "FunctionID": 12,
+  "FunctionParams": 10,
+  "TitleAttrIDs": [],
+  "TitleAttrTypes": [],
+  "TitleAttrVals": []
+ },
+ {
+  "id": 10188,
+  "Name": "",
+  "Type1": 3,
+  "Unlocklevel": 2340,
+  "Color": 3,
+  "FunctionID": 0,
+  "FunctionParams": 0,
+  "TitleAttrIDs": [
+   100,
+   4,
+   102
+  ],
+  "TitleAttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "TitleAttrVals": [
+   15000,
+   225000,
+   7500
+  ]
+ },
+ {
+  "id": 10189,
+  "Name": "",
+  "Type1": 1,
+  "Unlocklevel": 2355,
+  "Color": 1,
+  "FunctionID": 1,
+  "FunctionParams": 654000,
+  "TitleAttrIDs": [],
+  "TitleAttrTypes": [],
+  "TitleAttrVals": []
+ },
+ {
+  "id": 10190,
+  "Name": "",
+  "Type1": 2,
+  "Unlocklevel": 2370,
+  "Color": 2,
+  "FunctionID": 13,
+  "FunctionParams": 10,
+  "TitleAttrIDs": [],
+  "TitleAttrTypes": [],
+  "TitleAttrVals": []
+ },
+ {
+  "id": 10191,
+  "Name": "",
+  "Type1": 3,
+  "Unlocklevel": 2385,
+  "Color": 3,
+  "FunctionID": 0,
+  "FunctionParams": 0,
+  "TitleAttrIDs": [
+   100,
+   4,
+   102
+  ],
+  "TitleAttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "TitleAttrVals": [
+   16000,
+   240000,
+   8000
+  ]
+ },
+ {
+  "id": 10192,
+  "Name": "",
+  "Type1": 1,
+  "Unlocklevel": 2400,
+  "Color": 1,
+  "FunctionID": 1,
+  "FunctionParams": 703000,
+  "TitleAttrIDs": [],
+  "TitleAttrTypes": [],
+  "TitleAttrVals": []
+ },
+ {
+  "id": 10193,
+  "Name": "",
+  "Type1": 2,
+  "Unlocklevel": 2415,
+  "Color": 2,
+  "FunctionID": 5,
+  "FunctionParams": 2,
+  "TitleAttrIDs": [],
+  "TitleAttrTypes": [],
+  "TitleAttrVals": []
+ },
+ {
+  "id": 10194,
+  "Name": "",
+  "Type1": 3,
+  "Unlocklevel": 2430,
+  "Color": 3,
+  "FunctionID": 0,
+  "FunctionParams": 0,
+  "TitleAttrIDs": [
+   100,
+   4,
+   102
+  ],
+  "TitleAttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "TitleAttrVals": [
+   17000,
+   255000,
+   8500
+  ]
+ },
+ {
+  "id": 10195,
+  "Name": "",
+  "Type1": 1,
+  "Unlocklevel": 2445,
+  "Color": 1,
+  "FunctionID": 1,
+  "FunctionParams": 755200,
+  "TitleAttrIDs": [],
+  "TitleAttrTypes": [],
+  "TitleAttrVals": []
+ },
+ {
+  "id": 10196,
+  "Name": "",
+  "Type1": 2,
+  "Unlocklevel": 2460,
+  "Color": 2,
+  "FunctionID": 5,
+  "FunctionParams": 2,
+  "TitleAttrIDs": [],
+  "TitleAttrTypes": [],
+  "TitleAttrVals": []
+ },
+ {
+  "id": 10197,
+  "Name": "",
+  "Type1": 3,
+  "Unlocklevel": 2475,
+  "Color": 3,
+  "FunctionID": 0,
+  "FunctionParams": 0,
+  "TitleAttrIDs": [
+   100,
+   4,
+   102
+  ],
+  "TitleAttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "TitleAttrVals": [
+   18000,
+   270000,
+   9000
+  ]
+ },
+ {
+  "id": 10198,
+  "Name": "",
+  "Type1": 1,
+  "Unlocklevel": 2490,
+  "Color": 1,
+  "FunctionID": 1,
+  "FunctionParams": 812000,
+  "TitleAttrIDs": [],
+  "TitleAttrTypes": [],
+  "TitleAttrVals": []
+ },
+ {
+  "id": 10199,
+  "Name": "",
+  "Type1": 2,
+  "Unlocklevel": 2505,
+  "Color": 2,
+  "FunctionID": 2,
+  "FunctionParams": 5,
+  "TitleAttrIDs": [],
+  "TitleAttrTypes": [],
+  "TitleAttrVals": []
+ },
+ {
+  "id": 10200,
+  "Name": "",
+  "Type1": 3,
+  "Unlocklevel": 2520,
+  "Color": 3,
+  "FunctionID": 0,
+  "FunctionParams": 0,
+  "TitleAttrIDs": [
+   100,
+   4,
+   102
+  ],
+  "TitleAttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "TitleAttrVals": [
+   19000,
+   285000,
+   9500
+  ]
+ },
+ {
+  "id": 10201,
+  "Name": "",
+  "Type1": 1,
+  "Unlocklevel": 2535,
+  "Color": 1,
+  "FunctionID": 1,
+  "FunctionParams": 872200,
+  "TitleAttrIDs": [],
+  "TitleAttrTypes": [],
+  "TitleAttrVals": []
+ },
+ {
+  "id": 10202,
+  "Name": "",
+  "Type1": 2,
+  "Unlocklevel": 2550,
+  "Color": 2,
+  "FunctionID": 11,
+  "FunctionParams": 5,
+  "TitleAttrIDs": [],
+  "TitleAttrTypes": [],
+  "TitleAttrVals": []
+ },
+ {
+  "id": 10203,
+  "Name": "",
+  "Type1": 3,
+  "Unlocklevel": 2565,
+  "Color": 3,
+  "FunctionID": 0,
+  "FunctionParams": 0,
+  "TitleAttrIDs": [
+   100,
+   4,
+   102
+  ],
+  "TitleAttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "TitleAttrVals": [
+   20000,
+   300000,
+   10000
+  ]
+ },
+ {
+  "id": 10204,
+  "Name": "",
+  "Type1": 1,
+  "Unlocklevel": 2580,
+  "Color": 1,
+  "FunctionID": 1,
+  "FunctionParams": 937400,
+  "TitleAttrIDs": [],
+  "TitleAttrTypes": [],
+  "TitleAttrVals": []
+ },
+ {
+  "id": 10205,
+  "Name": "",
+  "Type1": 2,
+  "Unlocklevel": 2595,
+  "Color": 2,
+  "FunctionID": 6,
+  "FunctionParams": 5,
+  "TitleAttrIDs": [],
+  "TitleAttrTypes": [],
+  "TitleAttrVals": []
+ },
+ {
+  "id": 10206,
+  "Name": "",
+  "Type1": 3,
+  "Unlocklevel": 2610,
+  "Color": 3,
+  "FunctionID": 0,
+  "FunctionParams": 0,
+  "TitleAttrIDs": [
+   100,
+   4,
+   102
+  ],
+  "TitleAttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "TitleAttrVals": [
+   22000,
+   330000,
+   11000
+  ]
+ },
+ {
+  "id": 10207,
+  "Name": "",
+  "Type1": 1,
+  "Unlocklevel": 2625,
+  "Color": 1,
+  "FunctionID": 1,
+  "FunctionParams": 1000000,
+  "TitleAttrIDs": [],
+  "TitleAttrTypes": [],
+  "TitleAttrVals": []
+ },
+ {
+  "id": 10208,
+  "Name": "",
+  "Type1": 2,
+  "Unlocklevel": 2640,
+  "Color": 2,
+  "FunctionID": 2,
+  "FunctionParams": 5,
+  "TitleAttrIDs": [],
+  "TitleAttrTypes": [],
+  "TitleAttrVals": []
+ },
+ {
+  "id": 10209,
+  "Name": "",
+  "Type1": 3,
+  "Unlocklevel": 2655,
+  "Color": 3,
+  "FunctionID": 0,
+  "FunctionParams": 0,
+  "TitleAttrIDs": [
+   100,
+   4,
+   102
+  ],
+  "TitleAttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "TitleAttrVals": [
+   24000,
+   360000,
+   12000
+  ]
+ },
+ {
+  "id": 10210,
+  "Name": "",
+  "Type1": 1,
+  "Unlocklevel": 2670,
+  "Color": 1,
+  "FunctionID": 1,
+  "FunctionParams": 1080000,
+  "TitleAttrIDs": [],
+  "TitleAttrTypes": [],
+  "TitleAttrVals": []
+ },
+ {
+  "id": 10211,
+  "Name": "",
+  "Type1": 2,
+  "Unlocklevel": 2685,
+  "Color": 2,
+  "FunctionID": 11,
+  "FunctionParams": 5,
+  "TitleAttrIDs": [],
+  "TitleAttrTypes": [],
+  "TitleAttrVals": []
+ },
+ {
+  "id": 10212,
+  "Name": "",
+  "Type1": 3,
+  "Unlocklevel": 2700,
+  "Color": 3,
+  "FunctionID": 0,
+  "FunctionParams": 0,
+  "TitleAttrIDs": [
+   100,
+   4,
+   102
+  ],
+  "TitleAttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "TitleAttrVals": [
+   26000,
+   390000,
+   13000
+  ]
+ },
+ {
+  "id": 10213,
+  "Name": "",
+  "Type1": 1,
+  "Unlocklevel": 2715,
+  "Color": 1,
+  "FunctionID": 1,
+  "FunctionParams": 1160000,
+  "TitleAttrIDs": [],
+  "TitleAttrTypes": [],
+  "TitleAttrVals": []
+ },
+ {
+  "id": 10214,
+  "Name": "",
+  "Type1": 2,
+  "Unlocklevel": 2730,
+  "Color": 2,
+  "FunctionID": 5,
+  "FunctionParams": 2,
+  "TitleAttrIDs": [],
+  "TitleAttrTypes": [],
+  "TitleAttrVals": []
+ },
+ {
+  "id": 10215,
+  "Name": "",
+  "Type1": 3,
+  "Unlocklevel": 2745,
+  "Color": 3,
+  "FunctionID": 0,
+  "FunctionParams": 0,
+  "TitleAttrIDs": [
+   100,
+   4,
+   102
+  ],
+  "TitleAttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "TitleAttrVals": [
+   28000,
+   420000,
+   14000
+  ]
+ },
+ {
+  "id": 10216,
+  "Name": "",
+  "Type1": 1,
+  "Unlocklevel": 2760,
+  "Color": 1,
+  "FunctionID": 1,
+  "FunctionParams": 1240000,
+  "TitleAttrIDs": [],
+  "TitleAttrTypes": [],
+  "TitleAttrVals": []
+ },
+ {
+  "id": 10217,
+  "Name": "",
+  "Type1": 2,
+  "Unlocklevel": 2775,
+  "Color": 2,
+  "FunctionID": 5,
+  "FunctionParams": 2,
+  "TitleAttrIDs": [],
+  "TitleAttrTypes": [],
+  "TitleAttrVals": []
+ },
+ {
+  "id": 10218,
+  "Name": "",
+  "Type1": 3,
+  "Unlocklevel": 2790,
+  "Color": 3,
+  "FunctionID": 0,
+  "FunctionParams": 0,
+  "TitleAttrIDs": [
+   100,
+   4,
+   102
+  ],
+  "TitleAttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "TitleAttrVals": [
+   30000,
+   450000,
+   15000
+  ]
+ }
+]

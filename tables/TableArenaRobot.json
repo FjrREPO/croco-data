@@ -1,0 +1,712 @@
+[
+ {
+  "RobotID": 1,
+  "RobotName": "RobotName_1",
+  "Rate": 1000,
+  "CE": 1303,
+  "LeaderAtk": 200,
+  "Monsters": [
+   {
+    "MonsterPos": 1,
+    "MonsterID": 230101,
+    "Level": 1,
+    "Star": 5,
+    "EquipmentIDs": []
+   },
+   {
+    "MonsterPos": 2,
+    "MonsterID": 120202,
+    "Level": 1,
+    "Star": 5,
+    "EquipmentIDs": []
+   },
+   {
+    "MonsterPos": 4,
+    "MonsterID": 110302,
+    "Level": 1,
+    "Star": 5,
+    "EquipmentIDs": []
+   },
+   {
+    "MonsterPos": 17,
+    "MonsterID": 140201,
+    "Level": 1,
+    "Star": 5,
+    "EquipmentIDs": []
+   },
+   {
+    "MonsterPos": 18,
+    "MonsterID": 140401,
+    "Level": 1,
+    "Star": 5,
+    "EquipmentIDs": []
+   },
+   {
+    "MonsterPos": 19,
+    "MonsterID": 140301,
+    "Level": 1,
+    "Star": 5,
+    "EquipmentIDs": []
+   }
+  ],
+  "AttrIDs": [
+   4,
+   100,
+   102
+  ],
+  "AttrVals": [
+   500,
+   500,
+   500
+  ],
+  "MaxChapter": 9014,
+  "Equips": "{ \"id\": 246, \"position\": 1, \"quality\": 1, \"level\": 30, \"madeTime\": 1768486539 }|{ \"id\": 177, \"position\": 2, \"quality\": 2, \"level\": 30, \"madeTime\": 1768475497 }|{ \"id\": 228, \"position\": 3, \"quality\": 2, \"level\": 30, \"madeTime\": 1768486117 }|{ \"id\": 227, \"position\": 4, \"quality\": 2, \"level\": 30, \"madeTime\": 1768481956 }|{ \"id\": 163, \"position\": 5, \"quality\": 2, \"level\": 30, \"madeTime\": 1768475490 }|{ \"id\": 168, \"position\": 6, \"quality\": 2, \"level\": 30, \"madeTime\": 1768475494 }",
+  "PutSlotLevels": [
+   3,
+   3,
+   3,
+   3,
+   3,
+   3
+  ]
+ },
+ {
+  "RobotID": 2,
+  "RobotName": "RobotName_2",
+  "Rate": 1000,
+  "CE": 1337,
+  "LeaderAtk": 201,
+  "Monsters": [
+   {
+    "MonsterPos": 1,
+    "MonsterID": 230101,
+    "Level": 1,
+    "Star": 5,
+    "EquipmentIDs": []
+   },
+   {
+    "MonsterPos": 2,
+    "MonsterID": 120202,
+    "Level": 1,
+    "Star": 5,
+    "EquipmentIDs": []
+   },
+   {
+    "MonsterPos": 4,
+    "MonsterID": 110302,
+    "Level": 1,
+    "Star": 5,
+    "EquipmentIDs": []
+   },
+   {
+    "MonsterPos": 17,
+    "MonsterID": 130501,
+    "Level": 1,
+    "Star": 5,
+    "EquipmentIDs": []
+   },
+   {
+    "MonsterPos": 18,
+    "MonsterID": 130202,
+    "Level": 1,
+    "Star": 5,
+    "EquipmentIDs": []
+   },
+   {
+    "MonsterPos": 19,
+    "MonsterID": 140301,
+    "Level": 1,
+    "Star": 5,
+    "EquipmentIDs": []
+   }
+  ],
+  "AttrIDs": [
+   4,
+   100,
+   102
+  ],
+  "AttrVals": [
+   500,
+   500,
+   500
+  ],
+  "MaxChapter": 9014,
+  "Equips": "{ \"id\": 246, \"position\": 1, \"quality\": 1, \"level\": 30, \"madeTime\": 1768486539 }|{ \"id\": 177, \"position\": 2, \"quality\": 2, \"level\": 30, \"madeTime\": 1768475497 }|{ \"id\": 228, \"position\": 3, \"quality\": 2, \"level\": 30, \"madeTime\": 1768486117 }|{ \"id\": 227, \"position\": 4, \"quality\": 2, \"level\": 30, \"madeTime\": 1768481956 }|{ \"id\": 163, \"position\": 5, \"quality\": 2, \"level\": 30, \"madeTime\": 1768475490 }|{ \"id\": 168, \"position\": 6, \"quality\": 2, \"level\": 30, \"madeTime\": 1768475494 }",
+  "PutSlotLevels": [
+   3,
+   3,
+   3,
+   3,
+   3,
+   3
+  ]
+ },
+ {
+  "RobotID": 3,
+  "RobotName": "RobotName_3",
+  "Rate": 1000,
+  "CE": 1284,
+  "LeaderAtk": 202,
+  "Monsters": [
+   {
+    "MonsterPos": 1,
+    "MonsterID": 230101,
+    "Level": 1,
+    "Star": 5,
+    "EquipmentIDs": []
+   },
+   {
+    "MonsterPos": 2,
+    "MonsterID": 120202,
+    "Level": 1,
+    "Star": 5,
+    "EquipmentIDs": []
+   },
+   {
+    "MonsterPos": 4,
+    "MonsterID": 110302,
+    "Level": 1,
+    "Star": 5,
+    "EquipmentIDs": []
+   },
+   {
+    "MonsterPos": 17,
+    "MonsterID": 140201,
+    "Level": 1,
+    "Star": 5,
+    "EquipmentIDs": []
+   },
+   {
+    "MonsterPos": 18,
+    "MonsterID": 120302,
+    "Level": 1,
+    "Star": 5,
+    "EquipmentIDs": []
+   },
+   {
+    "MonsterPos": 19,
+    "MonsterID": 140301,
+    "Level": 1,
+    "Star": 5,
+    "EquipmentIDs": []
+   }
+  ],
+  "AttrIDs": [
+   4,
+   100,
+   102
+  ],
+  "AttrVals": [
+   500,
+   500,
+   500
+  ],
+  "MaxChapter": 9014,
+  "Equips": "{ \"id\": 246, \"position\": 1, \"quality\": 1, \"level\": 30, \"madeTime\": 1768486539 }|{ \"id\": 177, \"position\": 2, \"quality\": 2, \"level\": 30, \"madeTime\": 1768475497 }|{ \"id\": 228, \"position\": 3, \"quality\": 2, \"level\": 30, \"madeTime\": 1768486117 }|{ \"id\": 227, \"position\": 4, \"quality\": 2, \"level\": 30, \"madeTime\": 1768481956 }|{ \"id\": 163, \"position\": 5, \"quality\": 2, \"level\": 30, \"madeTime\": 1768475490 }|{ \"id\": 168, \"position\": 6, \"quality\": 2, \"level\": 30, \"madeTime\": 1768475494 }",
+  "PutSlotLevels": [
+   3,
+   3,
+   3,
+   3,
+   3,
+   3
+  ]
+ },
+ {
+  "RobotID": 4,
+  "RobotName": "RobotName_4",
+  "Rate": 1000,
+  "CE": 1280,
+  "LeaderAtk": 203,
+  "Monsters": [
+   {
+    "MonsterPos": 1,
+    "MonsterID": 230101,
+    "Level": 1,
+    "Star": 5,
+    "EquipmentIDs": []
+   },
+   {
+    "MonsterPos": 2,
+    "MonsterID": 120202,
+    "Level": 1,
+    "Star": 5,
+    "EquipmentIDs": []
+   },
+   {
+    "MonsterPos": 4,
+    "MonsterID": 110302,
+    "Level": 1,
+    "Star": 5,
+    "EquipmentIDs": []
+   },
+   {
+    "MonsterPos": 17,
+    "MonsterID": 140201,
+    "Level": 1,
+    "Star": 5,
+    "EquipmentIDs": []
+   },
+   {
+    "MonsterPos": 18,
+    "MonsterID": 140401,
+    "Level": 1,
+    "Star": 5,
+    "EquipmentIDs": []
+   },
+   {
+    "MonsterPos": 19,
+    "MonsterID": 140301,
+    "Level": 1,
+    "Star": 5,
+    "EquipmentIDs": []
+   }
+  ],
+  "AttrIDs": [
+   4,
+   100,
+   102
+  ],
+  "AttrVals": [
+   500,
+   500,
+   500
+  ],
+  "MaxChapter": 9014,
+  "Equips": "{ \"id\": 246, \"position\": 1, \"quality\": 1, \"level\": 30, \"madeTime\": 1768486539 }|{ \"id\": 177, \"position\": 2, \"quality\": 2, \"level\": 30, \"madeTime\": 1768475497 }|{ \"id\": 228, \"position\": 3, \"quality\": 2, \"level\": 30, \"madeTime\": 1768486117 }|{ \"id\": 227, \"position\": 4, \"quality\": 2, \"level\": 30, \"madeTime\": 1768481956 }|{ \"id\": 163, \"position\": 5, \"quality\": 2, \"level\": 30, \"madeTime\": 1768475490 }|{ \"id\": 168, \"position\": 6, \"quality\": 2, \"level\": 30, \"madeTime\": 1768475494 }",
+  "PutSlotLevels": [
+   3,
+   3,
+   3,
+   3,
+   3,
+   3
+  ]
+ },
+ {
+  "RobotID": 5,
+  "RobotName": "RobotName_5",
+  "Rate": 1000,
+  "CE": 1314,
+  "LeaderAtk": 204,
+  "Monsters": [
+   {
+    "MonsterPos": 1,
+    "MonsterID": 230101,
+    "Level": 1,
+    "Star": 5,
+    "EquipmentIDs": []
+   },
+   {
+    "MonsterPos": 2,
+    "MonsterID": 120202,
+    "Level": 1,
+    "Star": 5,
+    "EquipmentIDs": []
+   },
+   {
+    "MonsterPos": 4,
+    "MonsterID": 110302,
+    "Level": 1,
+    "Star": 5,
+    "EquipmentIDs": []
+   },
+   {
+    "MonsterPos": 17,
+    "MonsterID": 130501,
+    "Level": 1,
+    "Star": 5,
+    "EquipmentIDs": []
+   },
+   {
+    "MonsterPos": 18,
+    "MonsterID": 130202,
+    "Level": 1,
+    "Star": 5,
+    "EquipmentIDs": []
+   },
+   {
+    "MonsterPos": 19,
+    "MonsterID": 140301,
+    "Level": 1,
+    "Star": 5,
+    "EquipmentIDs": []
+   }
+  ],
+  "AttrIDs": [
+   4,
+   100,
+   102
+  ],
+  "AttrVals": [
+   500,
+   500,
+   500
+  ],
+  "MaxChapter": 9014,
+  "Equips": "{ \"id\": 246, \"position\": 1, \"quality\": 1, \"level\": 30, \"madeTime\": 1768486539 }|{ \"id\": 177, \"position\": 2, \"quality\": 2, \"level\": 30, \"madeTime\": 1768475497 }|{ \"id\": 228, \"position\": 3, \"quality\": 2, \"level\": 30, \"madeTime\": 1768486117 }|{ \"id\": 227, \"position\": 4, \"quality\": 2, \"level\": 30, \"madeTime\": 1768481956 }|{ \"id\": 163, \"position\": 5, \"quality\": 2, \"level\": 30, \"madeTime\": 1768475490 }|{ \"id\": 168, \"position\": 6, \"quality\": 2, \"level\": 30, \"madeTime\": 1768475494 }",
+  "PutSlotLevels": [
+   3,
+   3,
+   3,
+   3,
+   3,
+   3
+  ]
+ },
+ {
+  "RobotID": 6,
+  "RobotName": "RobotName_6",
+  "Rate": 1000,
+  "CE": 1105,
+  "LeaderAtk": 205,
+  "Monsters": [
+   {
+    "MonsterPos": 1,
+    "MonsterID": 230101,
+    "Level": 1,
+    "Star": 5,
+    "EquipmentIDs": []
+   },
+   {
+    "MonsterPos": 2,
+    "MonsterID": 120202,
+    "Level": 1,
+    "Star": 5,
+    "EquipmentIDs": []
+   },
+   {
+    "MonsterPos": 4,
+    "MonsterID": 110302,
+    "Level": 1,
+    "Star": 5,
+    "EquipmentIDs": []
+   },
+   {
+    "MonsterPos": 17,
+    "MonsterID": 140201,
+    "Level": 1,
+    "Star": 5,
+    "EquipmentIDs": []
+   },
+   {
+    "MonsterPos": 18,
+    "MonsterID": 120302,
+    "Level": 1,
+    "Star": 5,
+    "EquipmentIDs": []
+   },
+   {
+    "MonsterPos": 19,
+    "MonsterID": 140301,
+    "Level": 1,
+    "Star": 5,
+    "EquipmentIDs": []
+   }
+  ],
+  "AttrIDs": [
+   4,
+   100,
+   102
+  ],
+  "AttrVals": [
+   500,
+   500,
+   500
+  ],
+  "MaxChapter": 9014,
+  "Equips": "{ \"id\": 246, \"position\": 1, \"quality\": 1, \"level\": 30, \"madeTime\": 1768486539 }|{ \"id\": 177, \"position\": 2, \"quality\": 2, \"level\": 30, \"madeTime\": 1768475497 }|{ \"id\": 228, \"position\": 3, \"quality\": 2, \"level\": 30, \"madeTime\": 1768486117 }|{ \"id\": 227, \"position\": 4, \"quality\": 2, \"level\": 30, \"madeTime\": 1768481956 }|{ \"id\": 163, \"position\": 5, \"quality\": 2, \"level\": 30, \"madeTime\": 1768475490 }|{ \"id\": 168, \"position\": 6, \"quality\": 2, \"level\": 30, \"madeTime\": 1768475494 }",
+  "PutSlotLevels": [
+   3,
+   3,
+   3,
+   3,
+   3,
+   3
+  ]
+ },
+ {
+  "RobotID": 7,
+  "RobotName": "RobotName_7",
+  "Rate": 1000,
+  "CE": 1214,
+  "LeaderAtk": 206,
+  "Monsters": [
+   {
+    "MonsterPos": 1,
+    "MonsterID": 230101,
+    "Level": 1,
+    "Star": 5,
+    "EquipmentIDs": []
+   },
+   {
+    "MonsterPos": 2,
+    "MonsterID": 120202,
+    "Level": 1,
+    "Star": 5,
+    "EquipmentIDs": []
+   },
+   {
+    "MonsterPos": 4,
+    "MonsterID": 110302,
+    "Level": 1,
+    "Star": 5,
+    "EquipmentIDs": []
+   },
+   {
+    "MonsterPos": 17,
+    "MonsterID": 140201,
+    "Level": 1,
+    "Star": 5,
+    "EquipmentIDs": []
+   },
+   {
+    "MonsterPos": 18,
+    "MonsterID": 140401,
+    "Level": 1,
+    "Star": 5,
+    "EquipmentIDs": []
+   },
+   {
+    "MonsterPos": 19,
+    "MonsterID": 140301,
+    "Level": 1,
+    "Star": 5,
+    "EquipmentIDs": []
+   }
+  ],
+  "AttrIDs": [
+   4,
+   100,
+   102
+  ],
+  "AttrVals": [
+   500,
+   500,
+   500
+  ],
+  "MaxChapter": 9014,
+  "Equips": "{ \"id\": 246, \"position\": 1, \"quality\": 1, \"level\": 30, \"madeTime\": 1768486539 }|{ \"id\": 177, \"position\": 2, \"quality\": 2, \"level\": 30, \"madeTime\": 1768475497 }|{ \"id\": 228, \"position\": 3, \"quality\": 2, \"level\": 30, \"madeTime\": 1768486117 }|{ \"id\": 227, \"position\": 4, \"quality\": 2, \"level\": 30, \"madeTime\": 1768481956 }|{ \"id\": 163, \"position\": 5, \"quality\": 2, \"level\": 30, \"madeTime\": 1768475490 }|{ \"id\": 168, \"position\": 6, \"quality\": 2, \"level\": 30, \"madeTime\": 1768475494 }",
+  "PutSlotLevels": [
+   3,
+   3,
+   3,
+   3,
+   3,
+   3
+  ]
+ },
+ {
+  "RobotID": 8,
+  "RobotName": "RobotName_8",
+  "Rate": 1000,
+  "CE": 1134,
+  "LeaderAtk": 207,
+  "Monsters": [
+   {
+    "MonsterPos": 1,
+    "MonsterID": 230101,
+    "Level": 1,
+    "Star": 5,
+    "EquipmentIDs": []
+   },
+   {
+    "MonsterPos": 2,
+    "MonsterID": 120202,
+    "Level": 1,
+    "Star": 5,
+    "EquipmentIDs": []
+   },
+   {
+    "MonsterPos": 4,
+    "MonsterID": 110302,
+    "Level": 1,
+    "Star": 5,
+    "EquipmentIDs": []
+   },
+   {
+    "MonsterPos": 17,
+    "MonsterID": 130501,
+    "Level": 1,
+    "Star": 5,
+    "EquipmentIDs": []
+   },
+   {
+    "MonsterPos": 18,
+    "MonsterID": 130202,
+    "Level": 1,
+    "Star": 5,
+    "EquipmentIDs": []
+   },
+   {
+    "MonsterPos": 19,
+    "MonsterID": 140301,
+    "Level": 1,
+    "Star": 5,
+    "EquipmentIDs": []
+   }
+  ],
+  "AttrIDs": [
+   4,
+   100,
+   102
+  ],
+  "AttrVals": [
+   500,
+   500,
+   500
+  ],
+  "MaxChapter": 9014,
+  "Equips": "{ \"id\": 246, \"position\": 1, \"quality\": 1, \"level\": 30, \"madeTime\": 1768486539 }|{ \"id\": 177, \"position\": 2, \"quality\": 2, \"level\": 30, \"madeTime\": 1768475497 }|{ \"id\": 228, \"position\": 3, \"quality\": 2, \"level\": 30, \"madeTime\": 1768486117 }|{ \"id\": 227, \"position\": 4, \"quality\": 2, \"level\": 30, \"madeTime\": 1768481956 }|{ \"id\": 163, \"position\": 5, \"quality\": 2, \"level\": 30, \"madeTime\": 1768475490 }|{ \"id\": 168, \"position\": 6, \"quality\": 2, \"level\": 30, \"madeTime\": 1768475494 }",
+  "PutSlotLevels": [
+   3,
+   3,
+   3,
+   3,
+   3,
+   3
+  ]
+ },
+ {
+  "RobotID": 9,
+  "RobotName": "RobotName_9",
+  "Rate": 1000,
+  "CE": 1146,
+  "LeaderAtk": 208,
+  "Monsters": [
+   {
+    "MonsterPos": 1,
+    "MonsterID": 230101,
+    "Level": 1,
+    "Star": 5,
+    "EquipmentIDs": []
+   },
+   {
+    "MonsterPos": 2,
+    "MonsterID": 120202,
+    "Level": 1,
+    "Star": 5,
+    "EquipmentIDs": []
+   },
+   {
+    "MonsterPos": 4,
+    "MonsterID": 110302,
+    "Level": 1,
+    "Star": 5,
+    "EquipmentIDs": []
+   },
+   {
+    "MonsterPos": 17,
+    "MonsterID": 140201,
+    "Level": 1,
+    "Star": 5,
+    "EquipmentIDs": []
+   },
+   {
+    "MonsterPos": 18,
+    "MonsterID": 120302,
+    "Level": 1,
+    "Star": 5,
+    "EquipmentIDs": []
+   },
+   {
+    "MonsterPos": 19,
+    "MonsterID": 140301,
+    "Level": 1,
+    "Star": 5,
+    "EquipmentIDs": []
+   }
+  ],
+  "AttrIDs": [
+   4,
+   100,
+   102
+  ],
+  "AttrVals": [
+   500,
+   500,
+   500
+  ],
+  "MaxChapter": 9014,
+  "Equips": "{ \"id\": 246, \"position\": 1, \"quality\": 1, \"level\": 30, \"madeTime\": 1768486539 }|{ \"id\": 177, \"position\": 2, \"quality\": 2, \"level\": 30, \"madeTime\": 1768475497 }|{ \"id\": 228, \"position\": 3, \"quality\": 2, \"level\": 30, \"madeTime\": 1768486117 }|{ \"id\": 227, \"position\": 4, \"quality\": 2, \"level\": 30, \"madeTime\": 1768481956 }|{ \"id\": 163, \"position\": 5, \"quality\": 2, \"level\": 30, \"madeTime\": 1768475490 }|{ \"id\": 168, \"position\": 6, \"quality\": 2, \"level\": 30, \"madeTime\": 1768475494 }",
+  "PutSlotLevels": [
+   3,
+   3,
+   3,
+   3,
+   3,
+   3
+  ]
+ },
+ {
+  "RobotID": 10,
+  "RobotName": "RobotName_10",
+  "Rate": 1000,
+  "CE": 1001,
+  "LeaderAtk": 209,
+  "Monsters": [
+   {
+    "MonsterPos": 1,
+    "MonsterID": 230101,
+    "Level": 1,
+    "Star": 5,
+    "EquipmentIDs": []
+   },
+   {
+    "MonsterPos": 2,
+    "MonsterID": 120202,
+    "Level": 1,
+    "Star": 5,
+    "EquipmentIDs": []
+   },
+   {
+    "MonsterPos": 4,
+    "MonsterID": 110302,
+    "Level": 1,
+    "Star": 5,
+    "EquipmentIDs": []
+   },
+   {
+    "MonsterPos": 17,
+    "MonsterID": 140201,
+    "Level": 1,
+    "Star": 5,
+    "EquipmentIDs": []
+   },
+   {
+    "MonsterPos": 18,
+    "MonsterID": 120302,
+    "Level": 1,
+    "Star": 5,
+    "EquipmentIDs": []
+   },
+   {
+    "MonsterPos": 19,
+    "MonsterID": 140301,
+    "Level": 1,
+    "Star": 5,
+    "EquipmentIDs": []
+   }
+  ],
+  "AttrIDs": [
+   4,
+   100,
+   102
+  ],
+  "AttrVals": [
+   500,
+   500,
+   500
+  ],
+  "MaxChapter": 9014,
+  "Equips": "{ \"id\": 246, \"position\": 1, \"quality\": 1, \"level\": 30, \"madeTime\": 1768486539 }|{ \"id\": 177, \"position\": 2, \"quality\": 2, \"level\": 30, \"madeTime\": 1768475497 }|{ \"id\": 228, \"position\": 3, \"quality\": 2, \"level\": 30, \"madeTime\": 1768486117 }|{ \"id\": 227, \"position\": 4, \"quality\": 2, \"level\": 30, \"madeTime\": 1768481956 }|{ \"id\": 163, \"position\": 5, \"quality\": 2, \"level\": 30, \"madeTime\": 1768475490 }|{ \"id\": 168, \"position\": 6, \"quality\": 2, \"level\": 30, \"madeTime\": 1768475494 }",
+  "PutSlotLevels": [
+   3,
+   3,
+   3,
+   3,
+   3,
+   3
+  ]
+ }
+]

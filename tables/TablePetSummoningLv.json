@@ -1,0 +1,227 @@
+[
+ {
+  "id": 1,
+  "ExpRequired": 30,
+  "RewardID": 501006,
+  "ProbabilityDisplay": [
+   10000,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  "MaxPitchInNum": 1
+ },
+ {
+  "id": 2,
+  "ExpRequired": 100,
+  "RewardID": 501007,
+  "ProbabilityDisplay": [
+   8000,
+   2000,
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  "MaxPitchInNum": 1
+ },
+ {
+  "id": 3,
+  "ExpRequired": 240,
+  "RewardID": 501008,
+  "ProbabilityDisplay": [
+   6000,
+   3000,
+   1000,
+   0,
+   0,
+   0,
+   0
+  ],
+  "MaxPitchInNum": 1
+ },
+ {
+  "id": 4,
+  "ExpRequired": 450,
+  "RewardID": 501009,
+  "ProbabilityDisplay": [
+   5000,
+   3300,
+   1500,
+   200,
+   0,
+   0,
+   0
+  ],
+  "MaxPitchInNum": 2
+ },
+ {
+  "id": 5,
+  "ExpRequired": 750,
+  "RewardID": 501010,
+  "ProbabilityDisplay": [
+   4500,
+   3500,
+   1700,
+   300,
+   0,
+   0,
+   0
+  ],
+  "MaxPitchInNum": 2
+ },
+ {
+  "id": 6,
+  "ExpRequired": 1400,
+  "RewardID": 501011,
+  "ProbabilityDisplay": [
+   4000,
+   3300,
+   2200,
+   400,
+   100,
+   0,
+   0
+  ],
+  "MaxPitchInNum": 2
+ },
+ {
+  "id": 7,
+  "ExpRequired": 2400,
+  "RewardID": 501012,
+  "ProbabilityDisplay": [
+   3500,
+   3000,
+   2840,
+   500,
+   160,
+   0,
+   0
+  ],
+  "MaxPitchInNum": 3
+ },
+ {
+  "id": 8,
+  "ExpRequired": 3600,
+  "RewardID": 501013,
+  "ProbabilityDisplay": [
+   3000,
+   2500,
+   3640,
+   600,
+   240,
+   20,
+   0
+  ],
+  "MaxPitchInNum": 3
+ },
+ {
+  "id": 9,
+  "ExpRequired": 5000,
+  "RewardID": 501014,
+  "ProbabilityDisplay": [
+   2500,
+   2500,
+   3840,
+   800,
+   320,
+   40,
+   0
+  ],
+  "MaxPitchInNum": 3
+ },
+ {
+  "id": 10,
+  "ExpRequired": 7000,
+  "RewardID": 501015,
+  "ProbabilityDisplay": [
+   2500,
+   2500,
+   3540,
+   1000,
+   400,
+   60,
+   0
+  ],
+  "MaxPitchInNum": 3
+ },
+ {
+  "id": 11,
+  "ExpRequired": 9600,
+  "RewardID": 501016,
+  "ProbabilityDisplay": [
+   2400,
+   2400,
+   3435,
+   1200,
+   480,
+   80,
+   5
+  ],
+  "MaxPitchInNum": 3
+ },
+ {
+  "id": 12,
+  "ExpRequired": 13500,
+  "RewardID": 501017,
+  "ProbabilityDisplay": [
+   2400,
+   2400,
+   3130,
+   1400,
+   560,
+   100,
+   10
+  ],
+  "MaxPitchInNum": 3
+ },
+ {
+  "id": 13,
+  "ExpRequired": 17000,
+  "RewardID": 501018,
+  "ProbabilityDisplay": [
+   2400,
+   2400,
+   2825,
+   1600,
+   640,
+   120,
+   15
+  ],
+  "MaxPitchInNum": 3
+ },
+ {
+  "id": 14,
+  "ExpRequired": 22000,
+  "RewardID": 501019,
+  "ProbabilityDisplay": [
+   2400,
+   2400,
+   2520,
+   1800,
+   720,
+   140,
+   20
+  ],
+  "MaxPitchInNum": 3
+ },
+ {
+  "id": 15,
+  "ExpRequired": 0,
+  "RewardID": 501020,
+  "ProbabilityDisplay": [
+   2400,
+   2400,
+   2215,
+   2000,
+   800,
+   160,
+   25
+  ],
+  "MaxPitchInNum": 3
+ }
+]

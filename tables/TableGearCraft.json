@@ -1,0 +1,128 @@
+[
+ {
+  "ID": 10001,
+  "CraftFrontQuality": 0,
+  "CraftFrontENHLevel": 0,
+  "CraftBackQuality": 1,
+  "CraftBackENHLevel": 0,
+  "ConsumeType": 2,
+  "ConsumeNum": 2
+ },
+ {
+  "ID": 10002,
+  "CraftFrontQuality": 1,
+  "CraftFrontENHLevel": 0,
+  "CraftBackQuality": 2,
+  "CraftBackENHLevel": 0,
+  "ConsumeType": 2,
+  "ConsumeNum": 2
+ },
+ {
+  "ID": 10003,
+  "CraftFrontQuality": 2,
+  "CraftFrontENHLevel": 0,
+  "CraftBackQuality": 3,
+  "CraftBackENHLevel": 0,
+  "ConsumeType": 2,
+  "ConsumeNum": 2
+ },
+ {
+  "ID": 10004,
+  "CraftFrontQuality": 3,
+  "CraftFrontENHLevel": 0,
+  "CraftBackQuality": 3,
+  "CraftBackENHLevel": 1,
+  "ConsumeType": 2,
+  "ConsumeNum": 1
+ },
+ {
+  "ID": 10005,
+  "CraftFrontQuality": 3,
+  "CraftFrontENHLevel": 1,
+  "CraftBackQuality": 3,
+  "CraftBackENHLevel": 2,
+  "ConsumeType": 2,
+  "ConsumeNum": 2
+ },
+ {
+  "ID": 10006,
+  "CraftFrontQuality": 3,
+  "CraftFrontENHLevel": 2,
+  "CraftBackQuality": 4,
+  "CraftBackENHLevel": 0,
+  "ConsumeType": 2,
+  "ConsumeNum": 2
+ },
+ {
+  "ID": 10007,
+  "CraftFrontQuality": 4,
+  "CraftFrontENHLevel": 0,
+  "CraftBackQuality": 4,
+  "CraftBackENHLevel": 1,
+  "ConsumeType": 2,
+  "ConsumeNum": 1
+ },
+ {
+  "ID": 10008,
+  "CraftFrontQuality": 4,
+  "CraftFrontENHLevel": 1,
+  "CraftBackQuality": 4,
+  "CraftBackENHLevel": 2,
+  "ConsumeType": 2,
+  "ConsumeNum": 2
+ },
+ {
+  "ID": 10009,
+  "CraftFrontQuality": 4,
+  "CraftFrontENHLevel": 2,
+  "CraftBackQuality": 4,
+  "CraftBackENHLevel": 3,
+  "ConsumeType": 2,
+  "ConsumeNum": 3
+ },
+ {
+  "ID": 10010,
+  "CraftFrontQuality": 4,
+  "CraftFrontENHLevel": 3,
+  "CraftBackQuality": 5,
+  "CraftBackENHLevel": 0,
+  "ConsumeType": 2,
+  "ConsumeNum": 2
+ },
+ {
+  "ID": 10011,
+  "CraftFrontQuality": 5,
+  "CraftFrontENHLevel": 0,
+  "CraftBackQuality": 5,
+  "CraftBackENHLevel": 1,
+  "ConsumeType": 2,
+  "ConsumeNum": 1
+ },
+ {
+  "ID": 10012,
+  "CraftFrontQuality": 5,
+  "CraftFrontENHLevel": 1,
+  "CraftBackQuality": 5,
+  "CraftBackENHLevel": 2,
+  "ConsumeType": 2,
+  "ConsumeNum": 2
+ },
+ {
+  "ID": 10013,
+  "CraftFrontQuality": 5,
+  "CraftFrontENHLevel": 2,
+  "CraftBackQuality": 5,
+  "CraftBackENHLevel": 3,
+  "ConsumeType": 2,
+  "ConsumeNum": 3
+ },
+ {
+  "ID": 10014,
+  "CraftFrontQuality": 5,
+  "CraftFrontENHLevel": 3,
+  "CraftBackQuality": 5,
+  "CraftBackENHLevel": 4,
+  "ConsumeType": 2,
+  "ConsumeNum": 4
+ }
+]

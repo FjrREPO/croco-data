@@ -1,0 +1,206 @@
+[
+ {
+  "ID": 1,
+  "HeroQuality": 5,
+  "Levelsum": 29,
+  "AFKtime": 43200,
+  "Fixedoutput": [
+   116,
+   1,
+   4077,
+   5,
+   241,
+   50
+  ],
+  "Probabilityoutput": [
+   331,
+   1,
+   1800
+  ]
+ },
+ {
+  "ID": 2,
+  "HeroQuality": 5,
+  "Levelsum": 39,
+  "AFKtime": 43200,
+  "Fixedoutput": [
+   116,
+   1,
+   4077,
+   8,
+   333,
+   15
+  ],
+  "Probabilityoutput": [
+   331,
+   1,
+   2200,
+   116,
+   1,
+   2500
+  ]
+ },
+ {
+  "ID": 3,
+  "HeroQuality": 5,
+  "Levelsum": 40,
+  "AFKtime": 43200,
+  "Fixedoutput": [
+   116,
+   1,
+   4077,
+   10,
+   333,
+   60
+  ],
+  "Probabilityoutput": [
+   331,
+   1,
+   2500,
+   116,
+   1,
+   2500
+  ]
+ },
+ {
+  "ID": 4,
+  "HeroQuality": 4,
+  "Levelsum": 29,
+  "AFKtime": 43200,
+  "Fixedoutput": [
+   4076,
+   5,
+   241,
+   15
+  ],
+  "Probabilityoutput": [
+   116,
+   1,
+   7500
+  ]
+ },
+ {
+  "ID": 5,
+  "HeroQuality": 4,
+  "Levelsum": 39,
+  "AFKtime": 43200,
+  "Fixedoutput": [
+   116,
+   1,
+   4076,
+   8,
+   241,
+   20
+  ],
+  "Probabilityoutput": [
+   130,
+   1,
+   450
+  ]
+ },
+ {
+  "ID": 6,
+  "HeroQuality": 4,
+  "Levelsum": 40,
+  "AFKtime": 43200,
+  "Fixedoutput": [
+   116,
+   1,
+   4076,
+   10,
+   241,
+   25
+  ],
+  "Probabilityoutput": [
+   130,
+   1,
+   900
+  ]
+ },
+ {
+  "ID": 7,
+  "HeroQuality": 3,
+  "Levelsum": 29,
+  "AFKtime": 43200,
+  "Fixedoutput": [
+   4075,
+   5,
+   241,
+   3
+  ],
+  "Probabilityoutput": []
+ },
+ {
+  "ID": 8,
+  "HeroQuality": 3,
+  "Levelsum": 39,
+  "AFKtime": 43200,
+  "Fixedoutput": [
+   4075,
+   8,
+   241,
+   5
+  ],
+  "Probabilityoutput": [
+   116,
+   1,
+   2500
+  ]
+ },
+ {
+  "ID": 9,
+  "HeroQuality": 3,
+  "Levelsum": 40,
+  "AFKtime": 43200,
+  "Fixedoutput": [
+   4075,
+   10,
+   241,
+   10
+  ],
+  "Probabilityoutput": [
+   116,
+   1,
+   5000
+  ]
+ },
+ {
+  "ID": 10,
+  "HeroQuality": 2,
+  "Levelsum": 29,
+  "AFKtime": 43200,
+  "Fixedoutput": [
+   4074,
+   5,
+   241,
+   1
+  ],
+  "Probabilityoutput": []
+ },
+ {
+  "ID": 11,
+  "HeroQuality": 2,
+  "Levelsum": 39,
+  "AFKtime": 43200,
+  "Fixedoutput": [
+   4074,
+   8,
+   241,
+   2
+  ],
+  "Probabilityoutput": []
+ },
+ {
+  "ID": 12,
+  "HeroQuality": 2,
+  "Levelsum": 40,
+  "AFKtime": 43200,
+  "Fixedoutput": [
+   4074,
+   10,
+   241,
+   3
+  ],
+  "Probabilityoutput": []
+ }
+]

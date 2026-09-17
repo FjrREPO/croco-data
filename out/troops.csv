@@ -1,0 +1,21 @@
+id,name,unit_name,rarity,race,role,cost,hp,atk,defense,atk_speed,atk_range,max_level,skills,icon
+210501,GreatSage,GreatSage,SS,Krock,Control,1,990,66,33,100,1,20,Golden Cudgel,icons/Icons/HeadIcon/Icon_Head_210501.png
+410503,Kaka Clone,Kaka Clone,SS,-,Assassin,1,2700,180,90,100,1,0,,icons/Icons/HeadIcon/Icon_Head_410501.png
+410502,Susano Kakaka,Susano Kakaka,SS,-,Assassin,1,2700,180,90,100,1,0,,icons/Icons/HeadIcon/Icon_Head_410501.png
+410504,Susano Kakaka Clone,Susano Kakaka Clone,SS,-,Assassin,1,2700,180,90,100,1,0,,icons/Icons/HeadIcon/Icon_Head_410501.png
+420201,Bubba,Bubba,S,-,Archer,1,675,24,31,100,1,20,Demon-Banishing Holy Arrow,
+430401,Goober,Goober,S,-,Control,1,1500,100,60,100,1,20,,
+130602,Lich,Lich,S,-,-,1,1500,100,60,100,4,20,,
+130604,Little Strong,Little Strong,S,-,Archer,1,675,24,31,100,1,20,Demon-Banishing Holy Arrow,
+120604,Little Y,Little Y,S,-,Archer,1,675,24,31,100,1,20,Demon-Banishing Holy Arrow,
+130301,Necromancer,Necromancer,S,-,Archer,1,675,24,31,100,1,20,Demon-Banishing Holy Arrow,
+210301,Nina,Nina,S,Krock,Warrior,1,900,60,30,100,6,20,Lollipop,icons/Icons/HeadIcon/Icon_Head_210301.png
+120601,Prophet,Prophet,S,-,Archer,1,675,24,31,100,1,20,Demon-Banishing Holy Arrow,
+110601,Water Mage,Water Mage,S,-,Archer,1,675,24,31,100,1,20,Demon-Banishing Holy Arrow,
+140302,Wind Spirit,Wind Spirit,S,-,Archer,1,675,24,31,100,1,20,Demon-Banishing Holy Arrow,icons/Icons/HeadIcon/heroIcon_006.png
+110605,,,S,-,Assistance,1,3600,240,120,100,4,200,,icons/Icons/HeadIcon/Icon_Head_1010.png
+210401,Dodo​,Dodo​,A,Krock,Archer,1,750,50,25,100,6,20,Slingshot Shot,icons/Icons/HeadIcon/Icon_Head_210401.png
+14030112,,,A,-,-,1,0,0,0,100,1,0,,
+210101,Rumble,Rumble,B,Krock,Mage,1,638,43,21,100,1,20,Throw,icons/Icons/HeadIcon/Icon_Head_210101.png
+1302011,Little Spider,Little Spider,D,-,-,1,1500,100,50,100,4,20,,
+1206031,Sword Demon,Sword Demon,D,Demon Race,-,1,5400,360,180,100,1,200,dmg increased,icons/Icons/HeadIcon/Icon_Head_2011.png

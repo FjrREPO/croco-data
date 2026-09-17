@@ -1,0 +1,74 @@
+[
+ {
+  "ID": 1,
+  "MinRanking": 1,
+  "MaxRanking": 1,
+  "Reward": [
+   7004001
+  ]
+ },
+ {
+  "ID": 2,
+  "MinRanking": 2,
+  "MaxRanking": 2,
+  "Reward": [
+   7004002
+  ]
+ },
+ {
+  "ID": 3,
+  "MinRanking": 3,
+  "MaxRanking": 3,
+  "Reward": [
+   7004003
+  ]
+ },
+ {
+  "ID": 4,
+  "MinRanking": 4,
+  "MaxRanking": 10,
+  "Reward": [
+   7004004
+  ]
+ },
+ {
+  "ID": 5,
+  "MinRanking": 11,
+  "MaxRanking": 50,
+  "Reward": [
+   7004005
+  ]
+ },
+ {
+  "ID": 6,
+  "MinRanking": 51,
+  "MaxRanking": 100,
+  "Reward": [
+   7004006
+  ]
+ },
+ {
+  "ID": 7,
+  "MinRanking": 101,
+  "MaxRanking": 150,
+  "Reward": [
+   7004007
+  ]
+ },
+ {
+  "ID": 8,
+  "MinRanking": 151,
+  "MaxRanking": 200,
+  "Reward": [
+   7004008
+  ]
+ },
+ {
+  "ID": 9,
+  "MinRanking": 201,
+  "MaxRanking": 9999,
+  "Reward": [
+   7004009
+  ]
+ }
+]

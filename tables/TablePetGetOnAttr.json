@@ -1,0 +1,464 @@
+[
+ {
+  "QualityLvID": 10001,
+  "AtkIncre": 40,
+  "DfsIncre": 20,
+  "HpIncre": 600
+ },
+ {
+  "QualityLvID": 10010,
+  "AtkIncre": 20,
+  "DfsIncre": 10,
+  "HpIncre": 300
+ },
+ {
+  "QualityLvID": 10020,
+  "AtkIncre": 70,
+  "DfsIncre": 35,
+  "HpIncre": 1050
+ },
+ {
+  "QualityLvID": 10030,
+  "AtkIncre": 170,
+  "DfsIncre": 85,
+  "HpIncre": 2550
+ },
+ {
+  "QualityLvID": 10040,
+  "AtkIncre": 320,
+  "DfsIncre": 160,
+  "HpIncre": 4800
+ },
+ {
+  "QualityLvID": 10050,
+  "AtkIncre": 520,
+  "DfsIncre": 260,
+  "HpIncre": 7800
+ },
+ {
+  "QualityLvID": 10060,
+  "AtkIncre": 770,
+  "DfsIncre": 385,
+  "HpIncre": 11550
+ },
+ {
+  "QualityLvID": 10070,
+  "AtkIncre": 1070,
+  "DfsIncre": 535,
+  "HpIncre": 16050
+ },
+ {
+  "QualityLvID": 10080,
+  "AtkIncre": 1470,
+  "DfsIncre": 735,
+  "HpIncre": 22050
+ },
+ {
+  "QualityLvID": 10090,
+  "AtkIncre": 1970,
+  "DfsIncre": 985,
+  "HpIncre": 29550
+ },
+ {
+  "QualityLvID": 10100,
+  "AtkIncre": 2570,
+  "DfsIncre": 1285,
+  "HpIncre": 38550
+ },
+ {
+  "QualityLvID": 11001,
+  "AtkIncre": 48,
+  "DfsIncre": 24,
+  "HpIncre": 720
+ },
+ {
+  "QualityLvID": 11010,
+  "AtkIncre": 24,
+  "DfsIncre": 12,
+  "HpIncre": 360
+ },
+ {
+  "QualityLvID": 11020,
+  "AtkIncre": 84,
+  "DfsIncre": 42,
+  "HpIncre": 1260
+ },
+ {
+  "QualityLvID": 11030,
+  "AtkIncre": 204,
+  "DfsIncre": 102,
+  "HpIncre": 3060
+ },
+ {
+  "QualityLvID": 11040,
+  "AtkIncre": 384,
+  "DfsIncre": 192,
+  "HpIncre": 5760
+ },
+ {
+  "QualityLvID": 11050,
+  "AtkIncre": 624,
+  "DfsIncre": 312,
+  "HpIncre": 9360
+ },
+ {
+  "QualityLvID": 11060,
+  "AtkIncre": 924,
+  "DfsIncre": 462,
+  "HpIncre": 13860
+ },
+ {
+  "QualityLvID": 11070,
+  "AtkIncre": 1284,
+  "DfsIncre": 642,
+  "HpIncre": 19260
+ },
+ {
+  "QualityLvID": 11080,
+  "AtkIncre": 1764,
+  "DfsIncre": 882,
+  "HpIncre": 26460
+ },
+ {
+  "QualityLvID": 11090,
+  "AtkIncre": 2364,
+  "DfsIncre": 1182,
+  "HpIncre": 35460
+ },
+ {
+  "QualityLvID": 11100,
+  "AtkIncre": 3084,
+  "DfsIncre": 1542,
+  "HpIncre": 46260
+ },
+ {
+  "QualityLvID": 12001,
+  "AtkIncre": 60,
+  "DfsIncre": 30,
+  "HpIncre": 900
+ },
+ {
+  "QualityLvID": 12010,
+  "AtkIncre": 30,
+  "DfsIncre": 15,
+  "HpIncre": 450
+ },
+ {
+  "QualityLvID": 12020,
+  "AtkIncre": 106,
+  "DfsIncre": 53,
+  "HpIncre": 1590
+ },
+ {
+  "QualityLvID": 12030,
+  "AtkIncre": 256,
+  "DfsIncre": 128,
+  "HpIncre": 3840
+ },
+ {
+  "QualityLvID": 12040,
+  "AtkIncre": 480,
+  "DfsIncre": 240,
+  "HpIncre": 7200
+ },
+ {
+  "QualityLvID": 12050,
+  "AtkIncre": 780,
+  "DfsIncre": 390,
+  "HpIncre": 11700
+ },
+ {
+  "QualityLvID": 12060,
+  "AtkIncre": 1156,
+  "DfsIncre": 578,
+  "HpIncre": 17340
+ },
+ {
+  "QualityLvID": 12070,
+  "AtkIncre": 1606,
+  "DfsIncre": 803,
+  "HpIncre": 24090
+ },
+ {
+  "QualityLvID": 12080,
+  "AtkIncre": 2206,
+  "DfsIncre": 1103,
+  "HpIncre": 33090
+ },
+ {
+  "QualityLvID": 12090,
+  "AtkIncre": 2956,
+  "DfsIncre": 1478,
+  "HpIncre": 44340
+ },
+ {
+  "QualityLvID": 12100,
+  "AtkIncre": 3856,
+  "DfsIncre": 1928,
+  "HpIncre": 57840
+ },
+ {
+  "QualityLvID": 13001,
+  "AtkIncre": 80,
+  "DfsIncre": 40,
+  "HpIncre": 1200
+ },
+ {
+  "QualityLvID": 13010,
+  "AtkIncre": 40,
+  "DfsIncre": 20,
+  "HpIncre": 600
+ },
+ {
+  "QualityLvID": 13020,
+  "AtkIncre": 140,
+  "DfsIncre": 70,
+  "HpIncre": 2100
+ },
+ {
+  "QualityLvID": 13030,
+  "AtkIncre": 340,
+  "DfsIncre": 170,
+  "HpIncre": 5100
+ },
+ {
+  "QualityLvID": 13040,
+  "AtkIncre": 640,
+  "DfsIncre": 320,
+  "HpIncre": 9600
+ },
+ {
+  "QualityLvID": 13050,
+  "AtkIncre": 1040,
+  "DfsIncre": 520,
+  "HpIncre": 15600
+ },
+ {
+  "QualityLvID": 13060,
+  "AtkIncre": 1540,
+  "DfsIncre": 770,
+  "HpIncre": 23100
+ },
+ {
+  "QualityLvID": 13070,
+  "AtkIncre": 2140,
+  "DfsIncre": 1070,
+  "HpIncre": 32100
+ },
+ {
+  "QualityLvID": 13080,
+  "AtkIncre": 2940,
+  "DfsIncre": 1470,
+  "HpIncre": 44100
+ },
+ {
+  "QualityLvID": 13090,
+  "AtkIncre": 3940,
+  "DfsIncre": 1970,
+  "HpIncre": 59100
+ },
+ {
+  "QualityLvID": 13100,
+  "AtkIncre": 5140,
+  "DfsIncre": 2570,
+  "HpIncre": 77100
+ },
+ {
+  "QualityLvID": 14001,
+  "AtkIncre": 120,
+  "DfsIncre": 60,
+  "HpIncre": 1800
+ },
+ {
+  "QualityLvID": 14010,
+  "AtkIncre": 60,
+  "DfsIncre": 30,
+  "HpIncre": 900
+ },
+ {
+  "QualityLvID": 14020,
+  "AtkIncre": 210,
+  "DfsIncre": 105,
+  "HpIncre": 3150
+ },
+ {
+  "QualityLvID": 14030,
+  "AtkIncre": 510,
+  "DfsIncre": 255,
+  "HpIncre": 7650
+ },
+ {
+  "QualityLvID": 14040,
+  "AtkIncre": 960,
+  "DfsIncre": 480,
+  "HpIncre": 14400
+ },
+ {
+  "QualityLvID": 14050,
+  "AtkIncre": 1560,
+  "DfsIncre": 780,
+  "HpIncre": 23400
+ },
+ {
+  "QualityLvID": 14060,
+  "AtkIncre": 2310,
+  "DfsIncre": 1155,
+  "HpIncre": 34650
+ },
+ {
+  "QualityLvID": 14070,
+  "AtkIncre": 3210,
+  "DfsIncre": 1605,
+  "HpIncre": 48150
+ },
+ {
+  "QualityLvID": 14080,
+  "AtkIncre": 4410,
+  "DfsIncre": 2205,
+  "HpIncre": 66150
+ },
+ {
+  "QualityLvID": 14090,
+  "AtkIncre": 5910,
+  "DfsIncre": 2955,
+  "HpIncre": 88650
+ },
+ {
+  "QualityLvID": 14100,
+  "AtkIncre": 7710,
+  "DfsIncre": 3855,
+  "HpIncre": 115650
+ },
+ {
+  "QualityLvID": 15001,
+  "AtkIncre": 160,
+  "DfsIncre": 80,
+  "HpIncre": 2400
+ },
+ {
+  "QualityLvID": 15010,
+  "AtkIncre": 80,
+  "DfsIncre": 40,
+  "HpIncre": 1200
+ },
+ {
+  "QualityLvID": 15020,
+  "AtkIncre": 280,
+  "DfsIncre": 140,
+  "HpIncre": 4200
+ },
+ {
+  "QualityLvID": 15030,
+  "AtkIncre": 680,
+  "DfsIncre": 340,
+  "HpIncre": 10200
+ },
+ {
+  "QualityLvID": 15040,
+  "AtkIncre": 1280,
+  "DfsIncre": 640,
+  "HpIncre": 19200
+ },
+ {
+  "QualityLvID": 15050,
+  "AtkIncre": 2080,
+  "DfsIncre": 1040,
+  "HpIncre": 31200
+ },
+ {
+  "QualityLvID": 15060,
+  "AtkIncre": 3080,
+  "DfsIncre": 1540,
+  "HpIncre": 46200
+ },
+ {
+  "QualityLvID": 15070,
+  "AtkIncre": 4280,
+  "DfsIncre": 2140,
+  "HpIncre": 64200
+ },
+ {
+  "QualityLvID": 15080,
+  "AtkIncre": 5880,
+  "DfsIncre": 2940,
+  "HpIncre": 88200
+ },
+ {
+  "QualityLvID": 15090,
+  "AtkIncre": 7880,
+  "DfsIncre": 3940,
+  "HpIncre": 118200
+ },
+ {
+  "QualityLvID": 15100,
+  "AtkIncre": 10280,
+  "DfsIncre": 5140,
+  "HpIncre": 154200
+ },
+ {
+  "QualityLvID": 16001,
+  "AtkIncre": 240,
+  "DfsIncre": 120,
+  "HpIncre": 3600
+ },
+ {
+  "QualityLvID": 16010,
+  "AtkIncre": 120,
+  "DfsIncre": 60,
+  "HpIncre": 1800
+ },
+ {
+  "QualityLvID": 16020,
+  "AtkIncre": 420,
+  "DfsIncre": 210,
+  "HpIncre": 6300
+ },
+ {
+  "QualityLvID": 16030,
+  "AtkIncre": 1020,
+  "DfsIncre": 510,
+  "HpIncre": 15300
+ },
+ {
+  "QualityLvID": 16040,
+  "AtkIncre": 1920,
+  "DfsIncre": 960,
+  "HpIncre": 28800
+ },
+ {
+  "QualityLvID": 16050,
+  "AtkIncre": 3120,
+  "DfsIncre": 1560,
+  "HpIncre": 46800
+ },
+ {
+  "QualityLvID": 16060,
+  "AtkIncre": 4620,
+  "DfsIncre": 2310,
+  "HpIncre": 69300
+ },
+ {
+  "QualityLvID": 16070,
+  "AtkIncre": 6420,
+  "DfsIncre": 3210,
+  "HpIncre": 96300
+ },
+ {
+  "QualityLvID": 16080,
+  "AtkIncre": 8820,
+  "DfsIncre": 4410,
+  "HpIncre": 132300
+ },
+ {
+  "QualityLvID": 16090,
+  "AtkIncre": 11820,
+  "DfsIncre": 5910,
+  "HpIncre": 177300
+ },
+ {
+  "QualityLvID": 16100,
+  "AtkIncre": 15420,
+  "DfsIncre": 7710,
+  "HpIncre": 231300
+ }
+]

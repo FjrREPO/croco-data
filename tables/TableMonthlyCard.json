@@ -1,0 +1,72 @@
+[
+ {
+  "Id": 21001,
+  "Desc": "免广告卡日奖励-钻石x200",
+  "Type": 1,
+  "DailyRewards": 21001,
+  "Sort": 0
+ },
+ {
+  "Id": 21002,
+  "Desc": "免广告卡日奖励-符文抽卡*1",
+  "Type": 1,
+  "DailyRewards": 21002,
+  "Sort": 1
+ },
+ {
+  "Id": 22001,
+  "Desc": "月卡日奖励-钻石x200",
+  "Type": 2,
+  "DailyRewards": 22001,
+  "Sort": 0
+ },
+ {
+  "Id": 22003,
+  "Desc": "月卡日奖励-体力*10",
+  "Type": 2,
+  "DailyRewards": 22003,
+  "Sort": 2
+ },
+ {
+  "Id": 23001,
+  "Desc": "终生卡日奖励-钻石x500",
+  "Type": 3,
+  "DailyRewards": 23001,
+  "Sort": 0
+ },
+ {
+  "Id": 23002,
+  "Desc": "终生卡日奖励-英雄券*3",
+  "Type": 3,
+  "DailyRewards": 23002,
+  "Sort": 1
+ },
+ {
+  "Id": 24001,
+  "Desc": "考古卡日奖励-考古镜x50",
+  "Type": 4,
+  "DailyRewards": 24001,
+  "Sort": 0
+ },
+ {
+  "Id": 25001,
+  "Desc": "周卡",
+  "Type": 5,
+  "DailyRewards": 25001,
+  "Sort": 0
+ },
+ {
+  "Id": 26001,
+  "Desc": "赛季宝典-1",
+  "Type": 6,
+  "DailyRewards": 411022,
+  "Sort": 0
+ },
+ {
+  "Id": 27001,
+  "Desc": "终极宝典-1",
+  "Type": 7,
+  "DailyRewards": 411023,
+  "Sort": 0
+ }
+]

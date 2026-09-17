@@ -1,0 +1,64 @@
+[
+ {
+  "Id": 1,
+  "Name": "Mail_Name1",
+  "Content": "Mail_Content1",
+  "Sender": "Mail_Sender1",
+  "RewardID": [
+   110
+  ],
+  "LimitTime": 7
+ },
+ {
+  "Id": 2,
+  "Name": "Mail_Name2",
+  "Content": "Mail_Content2",
+  "Sender": "Mail_Sender2",
+  "RewardID": [
+   110
+  ],
+  "LimitTime": 7
+ },
+ {
+  "Id": 3,
+  "Name": "Mail_Name3",
+  "Content": "Mail_Content3",
+  "Sender": "Mail_Sender3",
+  "RewardID": [
+   110
+  ],
+  "LimitTime": 7
+ },
+ {
+  "Id": 4,
+  "Name": "Mail_Name4",
+  "Content": "Mail_Content4",
+  "Sender": "Mail_Sender4",
+  "RewardID": [],
+  "LimitTime": 7
+ },
+ {
+  "Id": 5,
+  "Name": "Mail_Name5",
+  "Content": "Mail_Content5",
+  "Sender": "Mail_Sender5",
+  "RewardID": [],
+  "LimitTime": 7
+ },
+ {
+  "Id": 6,
+  "Name": "Mail_Name5",
+  "Content": "Mail_Content5",
+  "Sender": "Mail_Sender5",
+  "RewardID": [],
+  "LimitTime": 7
+ },
+ {
+  "Id": 7,
+  "Name": "Mail_DeliveryMailName",
+  "Content": "Mail_DeliveryMailContent",
+  "Sender": "Mail_DeliveryMailSender",
+  "RewardID": [],
+  "LimitTime": 99999
+ }
+]

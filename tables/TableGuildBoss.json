@@ -1,0 +1,557 @@
+[
+ {
+  "Id": 1,
+  "BOSSId": 191101,
+  "ChapterBg": "BG021",
+  "hpvalue": 150,
+  "AttrInheritIDs": [
+   100,
+   102
+  ],
+  "AttrInheritRatios": [
+   30,
+   100
+  ],
+  "Reward": 4000201
+ },
+ {
+  "Id": 2,
+  "BOSSId": 191101,
+  "ChapterBg": "BG021",
+  "hpvalue": 200,
+  "AttrInheritIDs": [
+   100,
+   102
+  ],
+  "AttrInheritRatios": [
+   30,
+   100
+  ],
+  "Reward": 4000202
+ },
+ {
+  "Id": 3,
+  "BOSSId": 191101,
+  "ChapterBg": "BG021",
+  "hpvalue": 300,
+  "AttrInheritIDs": [
+   100,
+   102
+  ],
+  "AttrInheritRatios": [
+   30,
+   100
+  ],
+  "Reward": 4000203
+ },
+ {
+  "Id": 4,
+  "BOSSId": 191101,
+  "ChapterBg": "BG021",
+  "hpvalue": 410,
+  "AttrInheritIDs": [
+   100,
+   102
+  ],
+  "AttrInheritRatios": [
+   30,
+   100
+  ],
+  "Reward": 4000204
+ },
+ {
+  "Id": 5,
+  "BOSSId": 191101,
+  "ChapterBg": "BG021",
+  "hpvalue": 447,
+  "AttrInheritIDs": [
+   100,
+   102
+  ],
+  "AttrInheritRatios": [
+   30,
+   100
+  ],
+  "Reward": 4000205
+ },
+ {
+  "Id": 6,
+  "BOSSId": 191101,
+  "ChapterBg": "BG021",
+  "hpvalue": 1141,
+  "AttrInheritIDs": [
+   100,
+   102
+  ],
+  "AttrInheritRatios": [
+   30,
+   100
+  ],
+  "Reward": 4000206
+ },
+ {
+  "Id": 7,
+  "BOSSId": 191101,
+  "ChapterBg": "BG021",
+  "hpvalue": 1458,
+  "AttrInheritIDs": [
+   100,
+   102
+  ],
+  "AttrInheritRatios": [
+   30,
+   100
+  ],
+  "Reward": 4000207
+ },
+ {
+  "Id": 8,
+  "BOSSId": 191101,
+  "ChapterBg": "BG021",
+  "hpvalue": 1775,
+  "AttrInheritIDs": [
+   100,
+   102
+  ],
+  "AttrInheritRatios": [
+   30,
+   100
+  ],
+  "Reward": 4000208
+ },
+ {
+  "Id": 9,
+  "BOSSId": 191101,
+  "ChapterBg": "BG021",
+  "hpvalue": 2029,
+  "AttrInheritIDs": [
+   100,
+   102
+  ],
+  "AttrInheritRatios": [
+   30,
+   100
+  ],
+  "Reward": 4000209
+ },
+ {
+  "Id": 10,
+  "BOSSId": 191101,
+  "ChapterBg": "BG021",
+  "hpvalue": 2825,
+  "AttrInheritIDs": [
+   100,
+   102
+  ],
+  "AttrInheritRatios": [
+   30,
+   100
+  ],
+  "Reward": 4000210
+ },
+ {
+  "Id": 11,
+  "BOSSId": 191101,
+  "ChapterBg": "BG021",
+  "hpvalue": 3453,
+  "AttrInheritIDs": [
+   100,
+   102
+  ],
+  "AttrInheritRatios": [
+   30,
+   100
+  ],
+  "Reward": 4000211
+ },
+ {
+  "Id": 12,
+  "BOSSId": 191101,
+  "ChapterBg": "BG021",
+  "hpvalue": 5499,
+  "AttrInheritIDs": [
+   100,
+   102
+  ],
+  "AttrInheritRatios": [
+   30,
+   100
+  ],
+  "Reward": 4000212
+ },
+ {
+  "Id": 13,
+  "BOSSId": 191101,
+  "ChapterBg": "BG021",
+  "hpvalue": 6721,
+  "AttrInheritIDs": [
+   100,
+   102
+  ],
+  "AttrInheritRatios": [
+   30,
+   100
+  ],
+  "Reward": 4000213
+ },
+ {
+  "Id": 14,
+  "BOSSId": 191101,
+  "ChapterBg": "BG021",
+  "hpvalue": 12333,
+  "AttrInheritIDs": [
+   100,
+   102
+  ],
+  "AttrInheritRatios": [
+   30,
+   100
+  ],
+  "Reward": 4000214
+ },
+ {
+  "Id": 15,
+  "BOSSId": 191101,
+  "ChapterBg": "BG021",
+  "hpvalue": 15759,
+  "AttrInheritIDs": [
+   100,
+   102
+  ],
+  "AttrInheritRatios": [
+   30,
+   100
+  ],
+  "Reward": 4000215
+ },
+ {
+  "Id": 16,
+  "BOSSId": 191101,
+  "ChapterBg": "BG021",
+  "hpvalue": 19184,
+  "AttrInheritIDs": [
+   100,
+   102
+  ],
+  "AttrInheritRatios": [
+   30,
+   100
+  ],
+  "Reward": 4000216
+ },
+ {
+  "Id": 17,
+  "BOSSId": 191101,
+  "ChapterBg": "BG021",
+  "hpvalue": 21925,
+  "AttrInheritIDs": [
+   100,
+   102
+  ],
+  "AttrInheritRatios": [
+   30,
+   100
+  ],
+  "Reward": 4000217
+ },
+ {
+  "Id": 18,
+  "BOSSId": 191101,
+  "ChapterBg": "BG021",
+  "hpvalue": 60345,
+  "AttrInheritIDs": [
+   100,
+   102
+  ],
+  "AttrInheritRatios": [
+   30,
+   100
+  ],
+  "Reward": 4000218
+ },
+ {
+  "Id": 19,
+  "BOSSId": 191101,
+  "ChapterBg": "BG021",
+  "hpvalue": 67050,
+  "AttrInheritIDs": [
+   100,
+   102
+  ],
+  "AttrInheritRatios": [
+   30,
+   100
+  ],
+  "Reward": 4000219
+ },
+ {
+  "Id": 20,
+  "BOSSId": 191101,
+  "ChapterBg": "BG021",
+  "hpvalue": 73755,
+  "AttrInheritIDs": [
+   100,
+   102
+  ],
+  "AttrInheritRatios": [
+   30,
+   100
+  ],
+  "Reward": 4000220
+ },
+ {
+  "Id": 21,
+  "BOSSId": 191101,
+  "ChapterBg": "BG021",
+  "hpvalue": 80460,
+  "AttrInheritIDs": [
+   100,
+   102
+  ],
+  "AttrInheritRatios": [
+   30,
+   100
+  ],
+  "Reward": 4000221
+ },
+ {
+  "Id": 22,
+  "BOSSId": 191101,
+  "ChapterBg": "BG021",
+  "hpvalue": 87165,
+  "AttrInheritIDs": [
+   100,
+   102
+  ],
+  "AttrInheritRatios": [
+   30,
+   100
+  ],
+  "Reward": 4000222
+ },
+ {
+  "Id": 23,
+  "BOSSId": 191101,
+  "ChapterBg": "BG021",
+  "hpvalue": 93870,
+  "AttrInheritIDs": [
+   100,
+   102
+  ],
+  "AttrInheritRatios": [
+   30,
+   100
+  ],
+  "Reward": 4000223
+ },
+ {
+  "Id": 24,
+  "BOSSId": 191101,
+  "ChapterBg": "BG021",
+  "hpvalue": 100575,
+  "AttrInheritIDs": [
+   100,
+   102
+  ],
+  "AttrInheritRatios": [
+   30,
+   100
+  ],
+  "Reward": 4000224
+ },
+ {
+  "Id": 25,
+  "BOSSId": 191101,
+  "ChapterBg": "BG021",
+  "hpvalue": 107280,
+  "AttrInheritIDs": [
+   100,
+   102
+  ],
+  "AttrInheritRatios": [
+   30,
+   100
+  ],
+  "Reward": 4000225
+ },
+ {
+  "Id": 26,
+  "BOSSId": 191101,
+  "ChapterBg": "BG021",
+  "hpvalue": 98284,
+  "AttrInheritIDs": [
+   100,
+   102
+  ],
+  "AttrInheritRatios": [
+   30,
+   100
+  ],
+  "Reward": 4000226
+ },
+ {
+  "Id": 27,
+  "BOSSId": 191101,
+  "ChapterBg": "BG021",
+  "hpvalue": 122854,
+  "AttrInheritIDs": [
+   100,
+   102
+  ],
+  "AttrInheritRatios": [
+   30,
+   100
+  ],
+  "Reward": 4000227
+ },
+ {
+  "Id": 28,
+  "BOSSId": 191101,
+  "ChapterBg": "BG021",
+  "hpvalue": 147425,
+  "AttrInheritIDs": [
+   100,
+   102
+  ],
+  "AttrInheritRatios": [
+   30,
+   100
+  ],
+  "Reward": 4000228
+ },
+ {
+  "Id": 29,
+  "BOSSId": 191101,
+  "ChapterBg": "BG021",
+  "hpvalue": 171996,
+  "AttrInheritIDs": [
+   100,
+   102
+  ],
+  "AttrInheritRatios": [
+   30,
+   100
+  ],
+  "Reward": 4000229
+ },
+ {
+  "Id": 30,
+  "BOSSId": 191101,
+  "ChapterBg": "BG021",
+  "hpvalue": 196567,
+  "AttrInheritIDs": [
+   100,
+   102
+  ],
+  "AttrInheritRatios": [
+   30,
+   100
+  ],
+  "Reward": 4000230
+ },
+ {
+  "Id": 31,
+  "BOSSId": 191101,
+  "ChapterBg": "BG021",
+  "hpvalue": 221138,
+  "AttrInheritIDs": [
+   100,
+   102
+  ],
+  "AttrInheritRatios": [
+   30,
+   100
+  ],
+  "Reward": 4000231
+ },
+ {
+  "Id": 32,
+  "BOSSId": 191101,
+  "ChapterBg": "BG021",
+  "hpvalue": 245709,
+  "AttrInheritIDs": [
+   100,
+   102
+  ],
+  "AttrInheritRatios": [
+   30,
+   100
+  ],
+  "Reward": 4000232
+ },
+ {
+  "Id": 33,
+  "BOSSId": 191101,
+  "ChapterBg": "BG021",
+  "hpvalue": 270280,
+  "AttrInheritIDs": [
+   100,
+   102
+  ],
+  "AttrInheritRatios": [
+   30,
+   100
+  ],
+  "Reward": 4000233
+ },
+ {
+  "Id": 34,
+  "BOSSId": 191101,
+  "ChapterBg": "BG021",
+  "hpvalue": 294851,
+  "AttrInheritIDs": [
+   100,
+   102
+  ],
+  "AttrInheritRatios": [
+   30,
+   100
+  ],
+  "Reward": 4000234
+ },
+ {
+  "Id": 35,
+  "BOSSId": 191101,
+  "ChapterBg": "BG021",
+  "hpvalue": 319422,
+  "AttrInheritIDs": [
+   100,
+   102
+  ],
+  "AttrInheritRatios": [
+   30,
+   100
+  ],
+  "Reward": 4000235
+ },
+ {
+  "Id": 36,
+  "BOSSId": 191101,
+  "ChapterBg": "BG021",
+  "hpvalue": 368563,
+  "AttrInheritIDs": [
+   100,
+   102
+  ],
+  "AttrInheritRatios": [
+   30,
+   100
+  ],
+  "Reward": 4000236
+ },
+ {
+  "Id": 37,
+  "BOSSId": 191101,
+  "ChapterBg": "BG021",
+  "hpvalue": 999999999,
+  "AttrInheritIDs": [
+   100,
+   102
+  ],
+  "AttrInheritRatios": [
+   30,
+   100
+  ],
+  "Reward": 4000237
+ }
+]

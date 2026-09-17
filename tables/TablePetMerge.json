@@ -1,0 +1,80 @@
+[
+ {
+  "ID": 1,
+  "MergeGet": 1,
+  "MergeRate": 9000,
+  "MaxNum": 0,
+  "LosePetGet": [
+   318,
+   400,
+   302,
+   1
+  ],
+  "MergeRateShow": 9000
+ },
+ {
+  "ID": 2,
+  "MergeGet": 2,
+  "MergeRate": 7500,
+  "MaxNum": 0,
+  "LosePetGet": [
+   318,
+   800,
+   303,
+   1
+  ],
+  "MergeRateShow": 7500
+ },
+ {
+  "ID": 3,
+  "MergeGet": 3,
+  "MergeRate": 500,
+  "MaxNum": 3,
+  "LosePetGet": [
+   318,
+   1200,
+   304,
+   1
+  ],
+  "MergeRateShow": 3500
+ },
+ {
+  "ID": 4,
+  "MergeGet": 4,
+  "MergeRate": 720,
+  "MaxNum": 8,
+  "LosePetGet": [
+   318,
+   2000,
+   305,
+   1
+  ],
+  "MergeRateShow": 1600
+ },
+ {
+  "ID": 5,
+  "MergeGet": 5,
+  "MergeRate": 800,
+  "MaxNum": 0,
+  "LosePetGet": [
+   318,
+   5000,
+   306,
+   1
+  ],
+  "MergeRateShow": 800
+ },
+ {
+  "ID": 6,
+  "MergeGet": 6,
+  "MergeRate": 300,
+  "MaxNum": 0,
+  "LosePetGet": [
+   318,
+   15000,
+   307,
+   1
+  ],
+  "MergeRateShow": 300
+ }
+]

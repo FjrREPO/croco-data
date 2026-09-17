@@ -1,0 +1,15 @@
+[
+ {
+  "Id": 1,
+  "ServerList": [
+   20000,
+   20001
+  ],
+  "FileList": [
+   "Function",
+   "Chapter",
+   "Level",
+   "Reward"
+  ]
+ }
+]

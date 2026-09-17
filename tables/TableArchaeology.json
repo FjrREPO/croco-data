@@ -1,0 +1,702 @@
+[
+ {
+  "ArchaeologyID": 110001,
+  "ItemRward": 110001,
+  "SculptureRward": 110002,
+  "ItemMin": 4,
+  "ItemMax": 10
+ },
+ {
+  "ArchaeologyID": 110002,
+  "ItemRward": 110001,
+  "SculptureRward": 110002,
+  "ItemMin": 4,
+  "ItemMax": 10
+ },
+ {
+  "ArchaeologyID": 110003,
+  "ItemRward": 110001,
+  "SculptureRward": 110002,
+  "ItemMin": 4,
+  "ItemMax": 10
+ },
+ {
+  "ArchaeologyID": 110004,
+  "ItemRward": 110001,
+  "SculptureRward": 110002,
+  "ItemMin": 4,
+  "ItemMax": 10
+ },
+ {
+  "ArchaeologyID": 110005,
+  "ItemRward": 110001,
+  "SculptureRward": 110002,
+  "ItemMin": 4,
+  "ItemMax": 10
+ },
+ {
+  "ArchaeologyID": 110006,
+  "ItemRward": 110001,
+  "SculptureRward": 110002,
+  "ItemMin": 4,
+  "ItemMax": 10
+ },
+ {
+  "ArchaeologyID": 110007,
+  "ItemRward": 110001,
+  "SculptureRward": 110002,
+  "ItemMin": 4,
+  "ItemMax": 10
+ },
+ {
+  "ArchaeologyID": 110008,
+  "ItemRward": 110001,
+  "SculptureRward": 110002,
+  "ItemMin": 4,
+  "ItemMax": 10
+ },
+ {
+  "ArchaeologyID": 110009,
+  "ItemRward": 110001,
+  "SculptureRward": 110002,
+  "ItemMin": 4,
+  "ItemMax": 10
+ },
+ {
+  "ArchaeologyID": 110010,
+  "ItemRward": 110001,
+  "SculptureRward": 110002,
+  "ItemMin": 4,
+  "ItemMax": 10
+ },
+ {
+  "ArchaeologyID": 110011,
+  "ItemRward": 110001,
+  "SculptureRward": 110003,
+  "ItemMin": 4,
+  "ItemMax": 10
+ },
+ {
+  "ArchaeologyID": 110012,
+  "ItemRward": 110001,
+  "SculptureRward": 110003,
+  "ItemMin": 4,
+  "ItemMax": 10
+ },
+ {
+  "ArchaeologyID": 110013,
+  "ItemRward": 110001,
+  "SculptureRward": 110003,
+  "ItemMin": 4,
+  "ItemMax": 10
+ },
+ {
+  "ArchaeologyID": 110014,
+  "ItemRward": 110001,
+  "SculptureRward": 110003,
+  "ItemMin": 4,
+  "ItemMax": 10
+ },
+ {
+  "ArchaeologyID": 110015,
+  "ItemRward": 110001,
+  "SculptureRward": 110003,
+  "ItemMin": 4,
+  "ItemMax": 10
+ },
+ {
+  "ArchaeologyID": 110016,
+  "ItemRward": 110001,
+  "SculptureRward": 110003,
+  "ItemMin": 4,
+  "ItemMax": 10
+ },
+ {
+  "ArchaeologyID": 110017,
+  "ItemRward": 110001,
+  "SculptureRward": 110003,
+  "ItemMin": 4,
+  "ItemMax": 10
+ },
+ {
+  "ArchaeologyID": 110018,
+  "ItemRward": 110001,
+  "SculptureRward": 110003,
+  "ItemMin": 4,
+  "ItemMax": 10
+ },
+ {
+  "ArchaeologyID": 110019,
+  "ItemRward": 110001,
+  "SculptureRward": 110003,
+  "ItemMin": 4,
+  "ItemMax": 10
+ },
+ {
+  "ArchaeologyID": 110020,
+  "ItemRward": 110001,
+  "SculptureRward": 110003,
+  "ItemMin": 4,
+  "ItemMax": 10
+ },
+ {
+  "ArchaeologyID": 110021,
+  "ItemRward": 110001,
+  "SculptureRward": 110004,
+  "ItemMin": 5,
+  "ItemMax": 11
+ },
+ {
+  "ArchaeologyID": 110022,
+  "ItemRward": 110001,
+  "SculptureRward": 110004,
+  "ItemMin": 5,
+  "ItemMax": 11
+ },
+ {
+  "ArchaeologyID": 110023,
+  "ItemRward": 110001,
+  "SculptureRward": 110004,
+  "ItemMin": 5,
+  "ItemMax": 11
+ },
+ {
+  "ArchaeologyID": 110024,
+  "ItemRward": 110001,
+  "SculptureRward": 110004,
+  "ItemMin": 5,
+  "ItemMax": 11
+ },
+ {
+  "ArchaeologyID": 110025,
+  "ItemRward": 110001,
+  "SculptureRward": 110004,
+  "ItemMin": 5,
+  "ItemMax": 11
+ },
+ {
+  "ArchaeologyID": 110026,
+  "ItemRward": 110001,
+  "SculptureRward": 110004,
+  "ItemMin": 5,
+  "ItemMax": 11
+ },
+ {
+  "ArchaeologyID": 110027,
+  "ItemRward": 110001,
+  "SculptureRward": 110004,
+  "ItemMin": 5,
+  "ItemMax": 11
+ },
+ {
+  "ArchaeologyID": 110028,
+  "ItemRward": 110001,
+  "SculptureRward": 110004,
+  "ItemMin": 5,
+  "ItemMax": 11
+ },
+ {
+  "ArchaeologyID": 110029,
+  "ItemRward": 110001,
+  "SculptureRward": 110004,
+  "ItemMin": 5,
+  "ItemMax": 11
+ },
+ {
+  "ArchaeologyID": 110030,
+  "ItemRward": 110001,
+  "SculptureRward": 110004,
+  "ItemMin": 5,
+  "ItemMax": 11
+ },
+ {
+  "ArchaeologyID": 110031,
+  "ItemRward": 110001,
+  "SculptureRward": 110005,
+  "ItemMin": 5,
+  "ItemMax": 11
+ },
+ {
+  "ArchaeologyID": 110032,
+  "ItemRward": 110001,
+  "SculptureRward": 110005,
+  "ItemMin": 5,
+  "ItemMax": 11
+ },
+ {
+  "ArchaeologyID": 110033,
+  "ItemRward": 110001,
+  "SculptureRward": 110005,
+  "ItemMin": 5,
+  "ItemMax": 11
+ },
+ {
+  "ArchaeologyID": 110034,
+  "ItemRward": 110001,
+  "SculptureRward": 110005,
+  "ItemMin": 5,
+  "ItemMax": 11
+ },
+ {
+  "ArchaeologyID": 110035,
+  "ItemRward": 110001,
+  "SculptureRward": 110005,
+  "ItemMin": 5,
+  "ItemMax": 11
+ },
+ {
+  "ArchaeologyID": 110036,
+  "ItemRward": 110001,
+  "SculptureRward": 110005,
+  "ItemMin": 5,
+  "ItemMax": 11
+ },
+ {
+  "ArchaeologyID": 110037,
+  "ItemRward": 110001,
+  "SculptureRward": 110005,
+  "ItemMin": 5,
+  "ItemMax": 11
+ },
+ {
+  "ArchaeologyID": 110038,
+  "ItemRward": 110001,
+  "SculptureRward": 110005,
+  "ItemMin": 5,
+  "ItemMax": 11
+ },
+ {
+  "ArchaeologyID": 110039,
+  "ItemRward": 110001,
+  "SculptureRward": 110005,
+  "ItemMin": 5,
+  "ItemMax": 11
+ },
+ {
+  "ArchaeologyID": 110040,
+  "ItemRward": 110001,
+  "SculptureRward": 110005,
+  "ItemMin": 5,
+  "ItemMax": 11
+ },
+ {
+  "ArchaeologyID": 110041,
+  "ItemRward": 110001,
+  "SculptureRward": 110006,
+  "ItemMin": 5,
+  "ItemMax": 12
+ },
+ {
+  "ArchaeologyID": 110042,
+  "ItemRward": 110001,
+  "SculptureRward": 110006,
+  "ItemMin": 5,
+  "ItemMax": 12
+ },
+ {
+  "ArchaeologyID": 110043,
+  "ItemRward": 110001,
+  "SculptureRward": 110006,
+  "ItemMin": 5,
+  "ItemMax": 12
+ },
+ {
+  "ArchaeologyID": 110044,
+  "ItemRward": 110001,
+  "SculptureRward": 110006,
+  "ItemMin": 5,
+  "ItemMax": 12
+ },
+ {
+  "ArchaeologyID": 110045,
+  "ItemRward": 110001,
+  "SculptureRward": 110006,
+  "ItemMin": 5,
+  "ItemMax": 12
+ },
+ {
+  "ArchaeologyID": 110046,
+  "ItemRward": 110001,
+  "SculptureRward": 110006,
+  "ItemMin": 5,
+  "ItemMax": 12
+ },
+ {
+  "ArchaeologyID": 110047,
+  "ItemRward": 110001,
+  "SculptureRward": 110006,
+  "ItemMin": 5,
+  "ItemMax": 12
+ },
+ {
+  "ArchaeologyID": 110048,
+  "ItemRward": 110001,
+  "SculptureRward": 110006,
+  "ItemMin": 5,
+  "ItemMax": 12
+ },
+ {
+  "ArchaeologyID": 110049,
+  "ItemRward": 110001,
+  "SculptureRward": 110006,
+  "ItemMin": 5,
+  "ItemMax": 12
+ },
+ {
+  "ArchaeologyID": 110050,
+  "ItemRward": 110001,
+  "SculptureRward": 110006,
+  "ItemMin": 5,
+  "ItemMax": 12
+ },
+ {
+  "ArchaeologyID": 110051,
+  "ItemRward": 110001,
+  "SculptureRward": 110007,
+  "ItemMin": 5,
+  "ItemMax": 12
+ },
+ {
+  "ArchaeologyID": 110052,
+  "ItemRward": 110001,
+  "SculptureRward": 110007,
+  "ItemMin": 5,
+  "ItemMax": 12
+ },
+ {
+  "ArchaeologyID": 110053,
+  "ItemRward": 110001,
+  "SculptureRward": 110007,
+  "ItemMin": 5,
+  "ItemMax": 12
+ },
+ {
+  "ArchaeologyID": 110054,
+  "ItemRward": 110001,
+  "SculptureRward": 110007,
+  "ItemMin": 5,
+  "ItemMax": 12
+ },
+ {
+  "ArchaeologyID": 110055,
+  "ItemRward": 110001,
+  "SculptureRward": 110007,
+  "ItemMin": 5,
+  "ItemMax": 12
+ },
+ {
+  "ArchaeologyID": 110056,
+  "ItemRward": 110001,
+  "SculptureRward": 110007,
+  "ItemMin": 5,
+  "ItemMax": 12
+ },
+ {
+  "ArchaeologyID": 110057,
+  "ItemRward": 110001,
+  "SculptureRward": 110007,
+  "ItemMin": 5,
+  "ItemMax": 12
+ },
+ {
+  "ArchaeologyID": 110058,
+  "ItemRward": 110001,
+  "SculptureRward": 110007,
+  "ItemMin": 5,
+  "ItemMax": 12
+ },
+ {
+  "ArchaeologyID": 110059,
+  "ItemRward": 110001,
+  "SculptureRward": 110007,
+  "ItemMin": 5,
+  "ItemMax": 12
+ },
+ {
+  "ArchaeologyID": 110060,
+  "ItemRward": 110001,
+  "SculptureRward": 110007,
+  "ItemMin": 5,
+  "ItemMax": 12
+ },
+ {
+  "ArchaeologyID": 110061,
+  "ItemRward": 110001,
+  "SculptureRward": 110008,
+  "ItemMin": 6,
+  "ItemMax": 12
+ },
+ {
+  "ArchaeologyID": 110062,
+  "ItemRward": 110001,
+  "SculptureRward": 110008,
+  "ItemMin": 6,
+  "ItemMax": 12
+ },
+ {
+  "ArchaeologyID": 110063,
+  "ItemRward": 110001,
+  "SculptureRward": 110008,
+  "ItemMin": 6,
+  "ItemMax": 12
+ },
+ {
+  "ArchaeologyID": 110064,
+  "ItemRward": 110001,
+  "SculptureRward": 110008,
+  "ItemMin": 6,
+  "ItemMax": 12
+ },
+ {
+  "ArchaeologyID": 110065,
+  "ItemRward": 110001,
+  "SculptureRward": 110008,
+  "ItemMin": 6,
+  "ItemMax": 12
+ },
+ {
+  "ArchaeologyID": 110066,
+  "ItemRward": 110001,
+  "SculptureRward": 110008,
+  "ItemMin": 6,
+  "ItemMax": 12
+ },
+ {
+  "ArchaeologyID": 110067,
+  "ItemRward": 110001,
+  "SculptureRward": 110008,
+  "ItemMin": 6,
+  "ItemMax": 12
+ },
+ {
+  "ArchaeologyID": 110068,
+  "ItemRward": 110001,
+  "SculptureRward": 110008,
+  "ItemMin": 6,
+  "ItemMax": 12
+ },
+ {
+  "ArchaeologyID": 110069,
+  "ItemRward": 110001,
+  "SculptureRward": 110008,
+  "ItemMin": 6,
+  "ItemMax": 12
+ },
+ {
+  "ArchaeologyID": 110070,
+  "ItemRward": 110001,
+  "SculptureRward": 110008,
+  "ItemMin": 6,
+  "ItemMax": 12
+ },
+ {
+  "ArchaeologyID": 110071,
+  "ItemRward": 110001,
+  "SculptureRward": 110009,
+  "ItemMin": 6,
+  "ItemMax": 12
+ },
+ {
+  "ArchaeologyID": 110072,
+  "ItemRward": 110001,
+  "SculptureRward": 110009,
+  "ItemMin": 6,
+  "ItemMax": 12
+ },
+ {
+  "ArchaeologyID": 110073,
+  "ItemRward": 110001,
+  "SculptureRward": 110009,
+  "ItemMin": 6,
+  "ItemMax": 12
+ },
+ {
+  "ArchaeologyID": 110074,
+  "ItemRward": 110001,
+  "SculptureRward": 110009,
+  "ItemMin": 6,
+  "ItemMax": 12
+ },
+ {
+  "ArchaeologyID": 110075,
+  "ItemRward": 110001,
+  "SculptureRward": 110009,
+  "ItemMin": 6,
+  "ItemMax": 12
+ },
+ {
+  "ArchaeologyID": 110076,
+  "ItemRward": 110001,
+  "SculptureRward": 110009,
+  "ItemMin": 6,
+  "ItemMax": 12
+ },
+ {
+  "ArchaeologyID": 110077,
+  "ItemRward": 110001,
+  "SculptureRward": 110009,
+  "ItemMin": 6,
+  "ItemMax": 12
+ },
+ {
+  "ArchaeologyID": 110078,
+  "ItemRward": 110001,
+  "SculptureRward": 110009,
+  "ItemMin": 6,
+  "ItemMax": 12
+ },
+ {
+  "ArchaeologyID": 110079,
+  "ItemRward": 110001,
+  "SculptureRward": 110009,
+  "ItemMin": 6,
+  "ItemMax": 12
+ },
+ {
+  "ArchaeologyID": 110080,
+  "ItemRward": 110001,
+  "SculptureRward": 110009,
+  "ItemMin": 6,
+  "ItemMax": 12
+ },
+ {
+  "ArchaeologyID": 110081,
+  "ItemRward": 110001,
+  "SculptureRward": 110010,
+  "ItemMin": 6,
+  "ItemMax": 13
+ },
+ {
+  "ArchaeologyID": 110082,
+  "ItemRward": 110001,
+  "SculptureRward": 110010,
+  "ItemMin": 6,
+  "ItemMax": 13
+ },
+ {
+  "ArchaeologyID": 110083,
+  "ItemRward": 110001,
+  "SculptureRward": 110010,
+  "ItemMin": 6,
+  "ItemMax": 13
+ },
+ {
+  "ArchaeologyID": 110084,
+  "ItemRward": 110001,
+  "SculptureRward": 110010,
+  "ItemMin": 6,
+  "ItemMax": 13
+ },
+ {
+  "ArchaeologyID": 110085,
+  "ItemRward": 110001,
+  "SculptureRward": 110010,
+  "ItemMin": 6,
+  "ItemMax": 13
+ },
+ {
+  "ArchaeologyID": 110086,
+  "ItemRward": 110001,
+  "SculptureRward": 110010,
+  "ItemMin": 6,
+  "ItemMax": 13
+ },
+ {
+  "ArchaeologyID": 110087,
+  "ItemRward": 110001,
+  "SculptureRward": 110010,
+  "ItemMin": 6,
+  "ItemMax": 13
+ },
+ {
+  "ArchaeologyID": 110088,
+  "ItemRward": 110001,
+  "SculptureRward": 110010,
+  "ItemMin": 6,
+  "ItemMax": 13
+ },
+ {
+  "ArchaeologyID": 110089,
+  "ItemRward": 110001,
+  "SculptureRward": 110010,
+  "ItemMin": 6,
+  "ItemMax": 13
+ },
+ {
+  "ArchaeologyID": 110090,
+  "ItemRward": 110001,
+  "SculptureRward": 110010,
+  "ItemMin": 6,
+  "ItemMax": 13
+ },
+ {
+  "ArchaeologyID": 110091,
+  "ItemRward": 110001,
+  "SculptureRward": 110011,
+  "ItemMin": 6,
+  "ItemMax": 13
+ },
+ {
+  "ArchaeologyID": 110092,
+  "ItemRward": 110001,
+  "SculptureRward": 110011,
+  "ItemMin": 6,
+  "ItemMax": 13
+ },
+ {
+  "ArchaeologyID": 110093,
+  "ItemRward": 110001,
+  "SculptureRward": 110011,
+  "ItemMin": 6,
+  "ItemMax": 13
+ },
+ {
+  "ArchaeologyID": 110094,
+  "ItemRward": 110001,
+  "SculptureRward": 110011,
+  "ItemMin": 6,
+  "ItemMax": 13
+ },
+ {
+  "ArchaeologyID": 110095,
+  "ItemRward": 110001,
+  "SculptureRward": 110011,
+  "ItemMin": 6,
+  "ItemMax": 13
+ },
+ {
+  "ArchaeologyID": 110096,
+  "ItemRward": 110001,
+  "SculptureRward": 110011,
+  "ItemMin": 6,
+  "ItemMax": 13
+ },
+ {
+  "ArchaeologyID": 110097,
+  "ItemRward": 110001,
+  "SculptureRward": 110011,
+  "ItemMin": 6,
+  "ItemMax": 13
+ },
+ {
+  "ArchaeologyID": 110098,
+  "ItemRward": 110001,
+  "SculptureRward": 110011,
+  "ItemMin": 6,
+  "ItemMax": 13
+ },
+ {
+  "ArchaeologyID": 110099,
+  "ItemRward": 110001,
+  "SculptureRward": 110011,
+  "ItemMin": 6,
+  "ItemMax": 13
+ },
+ {
+  "ArchaeologyID": 110100,
+  "ItemRward": 110001,
+  "SculptureRward": 110011,
+  "ItemMin": 6,
+  "ItemMax": 13
+ }
+]

@@ -1,0 +1,1310 @@
+[
+ {
+  "Id": 101,
+  "PlayerGrade": 10,
+  "TeamupGearLevel1": 10,
+  "TeamupGearLevel2": 10,
+  "TeamupGearLevel3": 10,
+  "TeamupGearLevelWeight": [
+   10,
+   10,
+   10
+  ]
+ },
+ {
+  "Id": 102,
+  "PlayerGrade": 20,
+  "TeamupGearLevel1": 20,
+  "TeamupGearLevel2": 20,
+  "TeamupGearLevel3": 20,
+  "TeamupGearLevelWeight": [
+   10,
+   10,
+   10
+  ]
+ },
+ {
+  "Id": 103,
+  "PlayerGrade": 30,
+  "TeamupGearLevel1": 30,
+  "TeamupGearLevel2": 30,
+  "TeamupGearLevel3": 30,
+  "TeamupGearLevelWeight": [
+   10,
+   10,
+   10
+  ]
+ },
+ {
+  "Id": 104,
+  "PlayerGrade": 40,
+  "TeamupGearLevel1": 50,
+  "TeamupGearLevel2": 40,
+  "TeamupGearLevel3": 40,
+  "TeamupGearLevelWeight": [
+   10,
+   15,
+   15
+  ]
+ },
+ {
+  "Id": 105,
+  "PlayerGrade": 50,
+  "TeamupGearLevel1": 60,
+  "TeamupGearLevel2": 55,
+  "TeamupGearLevel3": 50,
+  "TeamupGearLevelWeight": [
+   10,
+   30,
+   60
+  ]
+ },
+ {
+  "Id": 106,
+  "PlayerGrade": 55,
+  "TeamupGearLevel1": 65,
+  "TeamupGearLevel2": 60,
+  "TeamupGearLevel3": 55,
+  "TeamupGearLevelWeight": [
+   10,
+   30,
+   60
+  ]
+ },
+ {
+  "Id": 107,
+  "PlayerGrade": 60,
+  "TeamupGearLevel1": 70,
+  "TeamupGearLevel2": 65,
+  "TeamupGearLevel3": 60,
+  "TeamupGearLevelWeight": [
+   10,
+   30,
+   60
+  ]
+ },
+ {
+  "Id": 108,
+  "PlayerGrade": 65,
+  "TeamupGearLevel1": 75,
+  "TeamupGearLevel2": 70,
+  "TeamupGearLevel3": 65,
+  "TeamupGearLevelWeight": [
+   10,
+   30,
+   60
+  ]
+ },
+ {
+  "Id": 109,
+  "PlayerGrade": 70,
+  "TeamupGearLevel1": 80,
+  "TeamupGearLevel2": 75,
+  "TeamupGearLevel3": 70,
+  "TeamupGearLevelWeight": [
+   10,
+   30,
+   60
+  ]
+ },
+ {
+  "Id": 110,
+  "PlayerGrade": 75,
+  "TeamupGearLevel1": 83,
+  "TeamupGearLevel2": 80,
+  "TeamupGearLevel3": 75,
+  "TeamupGearLevelWeight": [
+   10,
+   30,
+   60
+  ]
+ },
+ {
+  "Id": 111,
+  "PlayerGrade": 80,
+  "TeamupGearLevel1": 85,
+  "TeamupGearLevel2": 83,
+  "TeamupGearLevel3": 80,
+  "TeamupGearLevelWeight": [
+   10,
+   30,
+   60
+  ]
+ },
+ {
+  "Id": 112,
+  "PlayerGrade": 83,
+  "TeamupGearLevel1": 88,
+  "TeamupGearLevel2": 86,
+  "TeamupGearLevel3": 83,
+  "TeamupGearLevelWeight": [
+   10,
+   30,
+   60
+  ]
+ },
+ {
+  "Id": 113,
+  "PlayerGrade": 85,
+  "TeamupGearLevel1": 90,
+  "TeamupGearLevel2": 88,
+  "TeamupGearLevel3": 85,
+  "TeamupGearLevelWeight": [
+   10,
+   30,
+   60
+  ]
+ },
+ {
+  "Id": 114,
+  "PlayerGrade": 88,
+  "TeamupGearLevel1": 93,
+  "TeamupGearLevel2": 90,
+  "TeamupGearLevel3": 88,
+  "TeamupGearLevelWeight": [
+   10,
+   30,
+   60
+  ]
+ },
+ {
+  "Id": 115,
+  "PlayerGrade": 90,
+  "TeamupGearLevel1": 95,
+  "TeamupGearLevel2": 93,
+  "TeamupGearLevel3": 90,
+  "TeamupGearLevelWeight": [
+   10,
+   30,
+   60
+  ]
+ },
+ {
+  "Id": 116,
+  "PlayerGrade": 93,
+  "TeamupGearLevel1": 98,
+  "TeamupGearLevel2": 95,
+  "TeamupGearLevel3": 93,
+  "TeamupGearLevelWeight": [
+   10,
+   30,
+   60
+  ]
+ },
+ {
+  "Id": 117,
+  "PlayerGrade": 95,
+  "TeamupGearLevel1": 100,
+  "TeamupGearLevel2": 98,
+  "TeamupGearLevel3": 95,
+  "TeamupGearLevelWeight": [
+   10,
+   30,
+   60
+  ]
+ },
+ {
+  "Id": 118,
+  "PlayerGrade": 98,
+  "TeamupGearLevel1": 103,
+  "TeamupGearLevel2": 100,
+  "TeamupGearLevel3": 98,
+  "TeamupGearLevelWeight": [
+   10,
+   30,
+   60
+  ]
+ },
+ {
+  "Id": 119,
+  "PlayerGrade": 100,
+  "TeamupGearLevel1": 105,
+  "TeamupGearLevel2": 102,
+  "TeamupGearLevel3": 100,
+  "TeamupGearLevelWeight": [
+   10,
+   30,
+   60
+  ]
+ },
+ {
+  "Id": 120,
+  "PlayerGrade": 102,
+  "TeamupGearLevel1": 107,
+  "TeamupGearLevel2": 104,
+  "TeamupGearLevel3": 102,
+  "TeamupGearLevelWeight": [
+   10,
+   30,
+   60
+  ]
+ },
+ {
+  "Id": 121,
+  "PlayerGrade": 104,
+  "TeamupGearLevel1": 109,
+  "TeamupGearLevel2": 106,
+  "TeamupGearLevel3": 104,
+  "TeamupGearLevelWeight": [
+   10,
+   30,
+   60
+  ]
+ },
+ {
+  "Id": 122,
+  "PlayerGrade": 106,
+  "TeamupGearLevel1": 111,
+  "TeamupGearLevel2": 108,
+  "TeamupGearLevel3": 106,
+  "TeamupGearLevelWeight": [
+   10,
+   30,
+   60
+  ]
+ },
+ {
+  "Id": 123,
+  "PlayerGrade": 108,
+  "TeamupGearLevel1": 113,
+  "TeamupGearLevel2": 110,
+  "TeamupGearLevel3": 108,
+  "TeamupGearLevelWeight": [
+   10,
+   30,
+   60
+  ]
+ },
+ {
+  "Id": 124,
+  "PlayerGrade": 110,
+  "TeamupGearLevel1": 115,
+  "TeamupGearLevel2": 112,
+  "TeamupGearLevel3": 110,
+  "TeamupGearLevelWeight": [
+   10,
+   30,
+   60
+  ]
+ },
+ {
+  "Id": 125,
+  "PlayerGrade": 112,
+  "TeamupGearLevel1": 117,
+  "TeamupGearLevel2": 114,
+  "TeamupGearLevel3": 112,
+  "TeamupGearLevelWeight": [
+   10,
+   30,
+   60
+  ]
+ },
+ {
+  "Id": 126,
+  "PlayerGrade": 114,
+  "TeamupGearLevel1": 119,
+  "TeamupGearLevel2": 116,
+  "TeamupGearLevel3": 114,
+  "TeamupGearLevelWeight": [
+   10,
+   30,
+   60
+  ]
+ },
+ {
+  "Id": 127,
+  "PlayerGrade": 116,
+  "TeamupGearLevel1": 121,
+  "TeamupGearLevel2": 118,
+  "TeamupGearLevel3": 116,
+  "TeamupGearLevelWeight": [
+   10,
+   30,
+   60
+  ]
+ },
+ {
+  "Id": 128,
+  "PlayerGrade": 118,
+  "TeamupGearLevel1": 123,
+  "TeamupGearLevel2": 120,
+  "TeamupGearLevel3": 118,
+  "TeamupGearLevelWeight": [
+   10,
+   30,
+   60
+  ]
+ },
+ {
+  "Id": 129,
+  "PlayerGrade": 120,
+  "TeamupGearLevel1": 125,
+  "TeamupGearLevel2": 122,
+  "TeamupGearLevel3": 120,
+  "TeamupGearLevelWeight": [
+   10,
+   30,
+   60
+  ]
+ },
+ {
+  "Id": 130,
+  "PlayerGrade": 121,
+  "TeamupGearLevel1": 126,
+  "TeamupGearLevel2": 123,
+  "TeamupGearLevel3": 121,
+  "TeamupGearLevelWeight": [
+   10,
+   30,
+   60
+  ]
+ },
+ {
+  "Id": 131,
+  "PlayerGrade": 122,
+  "TeamupGearLevel1": 127,
+  "TeamupGearLevel2": 124,
+  "TeamupGearLevel3": 122,
+  "TeamupGearLevelWeight": [
+   10,
+   30,
+   60
+  ]
+ },
+ {
+  "Id": 132,
+  "PlayerGrade": 123,
+  "TeamupGearLevel1": 128,
+  "TeamupGearLevel2": 125,
+  "TeamupGearLevel3": 123,
+  "TeamupGearLevelWeight": [
+   10,
+   30,
+   60
+  ]
+ },
+ {
+  "Id": 133,
+  "PlayerGrade": 124,
+  "TeamupGearLevel1": 129,
+  "TeamupGearLevel2": 126,
+  "TeamupGearLevel3": 124,
+  "TeamupGearLevelWeight": [
+   10,
+   30,
+   60
+  ]
+ },
+ {
+  "Id": 134,
+  "PlayerGrade": 125,
+  "TeamupGearLevel1": 130,
+  "TeamupGearLevel2": 127,
+  "TeamupGearLevel3": 125,
+  "TeamupGearLevelWeight": [
+   10,
+   30,
+   60
+  ]
+ },
+ {
+  "Id": 135,
+  "PlayerGrade": 126,
+  "TeamupGearLevel1": 131,
+  "TeamupGearLevel2": 128,
+  "TeamupGearLevel3": 126,
+  "TeamupGearLevelWeight": [
+   10,
+   30,
+   60
+  ]
+ },
+ {
+  "Id": 136,
+  "PlayerGrade": 127,
+  "TeamupGearLevel1": 132,
+  "TeamupGearLevel2": 129,
+  "TeamupGearLevel3": 127,
+  "TeamupGearLevelWeight": [
+   10,
+   30,
+   60
+  ]
+ },
+ {
+  "Id": 137,
+  "PlayerGrade": 128,
+  "TeamupGearLevel1": 133,
+  "TeamupGearLevel2": 130,
+  "TeamupGearLevel3": 128,
+  "TeamupGearLevelWeight": [
+   10,
+   30,
+   60
+  ]
+ },
+ {
+  "Id": 138,
+  "PlayerGrade": 129,
+  "TeamupGearLevel1": 134,
+  "TeamupGearLevel2": 131,
+  "TeamupGearLevel3": 129,
+  "TeamupGearLevelWeight": [
+   10,
+   30,
+   60
+  ]
+ },
+ {
+  "Id": 139,
+  "PlayerGrade": 130,
+  "TeamupGearLevel1": 135,
+  "TeamupGearLevel2": 132,
+  "TeamupGearLevel3": 130,
+  "TeamupGearLevelWeight": [
+   10,
+   30,
+   60
+  ]
+ },
+ {
+  "Id": 140,
+  "PlayerGrade": 131,
+  "TeamupGearLevel1": 136,
+  "TeamupGearLevel2": 133,
+  "TeamupGearLevel3": 131,
+  "TeamupGearLevelWeight": [
+   10,
+   30,
+   60
+  ]
+ },
+ {
+  "Id": 141,
+  "PlayerGrade": 132,
+  "TeamupGearLevel1": 137,
+  "TeamupGearLevel2": 134,
+  "TeamupGearLevel3": 132,
+  "TeamupGearLevelWeight": [
+   10,
+   30,
+   60
+  ]
+ },
+ {
+  "Id": 142,
+  "PlayerGrade": 133,
+  "TeamupGearLevel1": 138,
+  "TeamupGearLevel2": 135,
+  "TeamupGearLevel3": 133,
+  "TeamupGearLevelWeight": [
+   10,
+   30,
+   60
+  ]
+ },
+ {
+  "Id": 143,
+  "PlayerGrade": 134,
+  "TeamupGearLevel1": 139,
+  "TeamupGearLevel2": 136,
+  "TeamupGearLevel3": 134,
+  "TeamupGearLevelWeight": [
+   10,
+   30,
+   60
+  ]
+ },
+ {
+  "Id": 144,
+  "PlayerGrade": 135,
+  "TeamupGearLevel1": 140,
+  "TeamupGearLevel2": 137,
+  "TeamupGearLevel3": 135,
+  "TeamupGearLevelWeight": [
+   10,
+   30,
+   60
+  ]
+ },
+ {
+  "Id": 145,
+  "PlayerGrade": 136,
+  "TeamupGearLevel1": 141,
+  "TeamupGearLevel2": 138,
+  "TeamupGearLevel3": 136,
+  "TeamupGearLevelWeight": [
+   10,
+   30,
+   60
+  ]
+ },
+ {
+  "Id": 146,
+  "PlayerGrade": 137,
+  "TeamupGearLevel1": 142,
+  "TeamupGearLevel2": 139,
+  "TeamupGearLevel3": 137,
+  "TeamupGearLevelWeight": [
+   10,
+   30,
+   60
+  ]
+ },
+ {
+  "Id": 147,
+  "PlayerGrade": 138,
+  "TeamupGearLevel1": 143,
+  "TeamupGearLevel2": 140,
+  "TeamupGearLevel3": 138,
+  "TeamupGearLevelWeight": [
+   10,
+   30,
+   60
+  ]
+ },
+ {
+  "Id": 148,
+  "PlayerGrade": 139,
+  "TeamupGearLevel1": 144,
+  "TeamupGearLevel2": 141,
+  "TeamupGearLevel3": 139,
+  "TeamupGearLevelWeight": [
+   10,
+   30,
+   60
+  ]
+ },
+ {
+  "Id": 149,
+  "PlayerGrade": 140,
+  "TeamupGearLevel1": 145,
+  "TeamupGearLevel2": 142,
+  "TeamupGearLevel3": 140,
+  "TeamupGearLevelWeight": [
+   10,
+   30,
+   60
+  ]
+ },
+ {
+  "Id": 150,
+  "PlayerGrade": 141,
+  "TeamupGearLevel1": 146,
+  "TeamupGearLevel2": 143,
+  "TeamupGearLevel3": 141,
+  "TeamupGearLevelWeight": [
+   10,
+   30,
+   60
+  ]
+ },
+ {
+  "Id": 151,
+  "PlayerGrade": 142,
+  "TeamupGearLevel1": 147,
+  "TeamupGearLevel2": 144,
+  "TeamupGearLevel3": 142,
+  "TeamupGearLevelWeight": [
+   10,
+   30,
+   60
+  ]
+ },
+ {
+  "Id": 152,
+  "PlayerGrade": 143,
+  "TeamupGearLevel1": 148,
+  "TeamupGearLevel2": 145,
+  "TeamupGearLevel3": 143,
+  "TeamupGearLevelWeight": [
+   10,
+   30,
+   60
+  ]
+ },
+ {
+  "Id": 153,
+  "PlayerGrade": 144,
+  "TeamupGearLevel1": 149,
+  "TeamupGearLevel2": 146,
+  "TeamupGearLevel3": 144,
+  "TeamupGearLevelWeight": [
+   10,
+   30,
+   60
+  ]
+ },
+ {
+  "Id": 154,
+  "PlayerGrade": 145,
+  "TeamupGearLevel1": 150,
+  "TeamupGearLevel2": 147,
+  "TeamupGearLevel3": 145,
+  "TeamupGearLevelWeight": [
+   10,
+   30,
+   60
+  ]
+ },
+ {
+  "Id": 155,
+  "PlayerGrade": 146,
+  "TeamupGearLevel1": 151,
+  "TeamupGearLevel2": 148,
+  "TeamupGearLevel3": 146,
+  "TeamupGearLevelWeight": [
+   10,
+   30,
+   60
+  ]
+ },
+ {
+  "Id": 156,
+  "PlayerGrade": 147,
+  "TeamupGearLevel1": 152,
+  "TeamupGearLevel2": 149,
+  "TeamupGearLevel3": 147,
+  "TeamupGearLevelWeight": [
+   10,
+   30,
+   60
+  ]
+ },
+ {
+  "Id": 157,
+  "PlayerGrade": 148,
+  "TeamupGearLevel1": 153,
+  "TeamupGearLevel2": 150,
+  "TeamupGearLevel3": 148,
+  "TeamupGearLevelWeight": [
+   10,
+   30,
+   60
+  ]
+ },
+ {
+  "Id": 158,
+  "PlayerGrade": 149,
+  "TeamupGearLevel1": 154,
+  "TeamupGearLevel2": 151,
+  "TeamupGearLevel3": 149,
+  "TeamupGearLevelWeight": [
+   10,
+   30,
+   60
+  ]
+ },
+ {
+  "Id": 159,
+  "PlayerGrade": 150,
+  "TeamupGearLevel1": 155,
+  "TeamupGearLevel2": 152,
+  "TeamupGearLevel3": 150,
+  "TeamupGearLevelWeight": [
+   10,
+   30,
+   60
+  ]
+ },
+ {
+  "Id": 160,
+  "PlayerGrade": 151,
+  "TeamupGearLevel1": 156,
+  "TeamupGearLevel2": 153,
+  "TeamupGearLevel3": 151,
+  "TeamupGearLevelWeight": [
+   10,
+   30,
+   60
+  ]
+ },
+ {
+  "Id": 161,
+  "PlayerGrade": 152,
+  "TeamupGearLevel1": 157,
+  "TeamupGearLevel2": 154,
+  "TeamupGearLevel3": 152,
+  "TeamupGearLevelWeight": [
+   10,
+   30,
+   60
+  ]
+ },
+ {
+  "Id": 162,
+  "PlayerGrade": 153,
+  "TeamupGearLevel1": 158,
+  "TeamupGearLevel2": 155,
+  "TeamupGearLevel3": 153,
+  "TeamupGearLevelWeight": [
+   10,
+   30,
+   60
+  ]
+ },
+ {
+  "Id": 163,
+  "PlayerGrade": 154,
+  "TeamupGearLevel1": 159,
+  "TeamupGearLevel2": 156,
+  "TeamupGearLevel3": 154,
+  "TeamupGearLevelWeight": [
+   10,
+   30,
+   60
+  ]
+ },
+ {
+  "Id": 164,
+  "PlayerGrade": 155,
+  "TeamupGearLevel1": 160,
+  "TeamupGearLevel2": 157,
+  "TeamupGearLevel3": 155,
+  "TeamupGearLevelWeight": [
+   10,
+   30,
+   60
+  ]
+ },
+ {
+  "Id": 165,
+  "PlayerGrade": 156,
+  "TeamupGearLevel1": 161,
+  "TeamupGearLevel2": 158,
+  "TeamupGearLevel3": 156,
+  "TeamupGearLevelWeight": [
+   10,
+   30,
+   60
+  ]
+ },
+ {
+  "Id": 166,
+  "PlayerGrade": 157,
+  "TeamupGearLevel1": 162,
+  "TeamupGearLevel2": 159,
+  "TeamupGearLevel3": 157,
+  "TeamupGearLevelWeight": [
+   10,
+   30,
+   60
+  ]
+ },
+ {
+  "Id": 167,
+  "PlayerGrade": 158,
+  "TeamupGearLevel1": 163,
+  "TeamupGearLevel2": 160,
+  "TeamupGearLevel3": 158,
+  "TeamupGearLevelWeight": [
+   10,
+   30,
+   60
+  ]
+ },
+ {
+  "Id": 168,
+  "PlayerGrade": 159,
+  "TeamupGearLevel1": 164,
+  "TeamupGearLevel2": 161,
+  "TeamupGearLevel3": 159,
+  "TeamupGearLevelWeight": [
+   10,
+   30,
+   60
+  ]
+ },
+ {
+  "Id": 169,
+  "PlayerGrade": 160,
+  "TeamupGearLevel1": 165,
+  "TeamupGearLevel2": 162,
+  "TeamupGearLevel3": 160,
+  "TeamupGearLevelWeight": [
+   10,
+   30,
+   60
+  ]
+ },
+ {
+  "Id": 170,
+  "PlayerGrade": 161,
+  "TeamupGearLevel1": 166,
+  "TeamupGearLevel2": 163,
+  "TeamupGearLevel3": 161,
+  "TeamupGearLevelWeight": [
+   10,
+   30,
+   60
+  ]
+ },
+ {
+  "Id": 171,
+  "PlayerGrade": 162,
+  "TeamupGearLevel1": 167,
+  "TeamupGearLevel2": 164,
+  "TeamupGearLevel3": 162,
+  "TeamupGearLevelWeight": [
+   10,
+   30,
+   60
+  ]
+ },
+ {
+  "Id": 172,
+  "PlayerGrade": 163,
+  "TeamupGearLevel1": 168,
+  "TeamupGearLevel2": 165,
+  "TeamupGearLevel3": 163,
+  "TeamupGearLevelWeight": [
+   10,
+   30,
+   60
+  ]
+ },
+ {
+  "Id": 173,
+  "PlayerGrade": 164,
+  "TeamupGearLevel1": 169,
+  "TeamupGearLevel2": 166,
+  "TeamupGearLevel3": 164,
+  "TeamupGearLevelWeight": [
+   10,
+   30,
+   60
+  ]
+ },
+ {
+  "Id": 174,
+  "PlayerGrade": 165,
+  "TeamupGearLevel1": 170,
+  "TeamupGearLevel2": 167,
+  "TeamupGearLevel3": 165,
+  "TeamupGearLevelWeight": [
+   10,
+   30,
+   60
+  ]
+ },
+ {
+  "Id": 175,
+  "PlayerGrade": 166,
+  "TeamupGearLevel1": 171,
+  "TeamupGearLevel2": 168,
+  "TeamupGearLevel3": 166,
+  "TeamupGearLevelWeight": [
+   10,
+   30,
+   60
+  ]
+ },
+ {
+  "Id": 176,
+  "PlayerGrade": 167,
+  "TeamupGearLevel1": 172,
+  "TeamupGearLevel2": 169,
+  "TeamupGearLevel3": 167,
+  "TeamupGearLevelWeight": [
+   10,
+   30,
+   60
+  ]
+ },
+ {
+  "Id": 177,
+  "PlayerGrade": 168,
+  "TeamupGearLevel1": 173,
+  "TeamupGearLevel2": 170,
+  "TeamupGearLevel3": 168,
+  "TeamupGearLevelWeight": [
+   10,
+   30,
+   60
+  ]
+ },
+ {
+  "Id": 178,
+  "PlayerGrade": 169,
+  "TeamupGearLevel1": 174,
+  "TeamupGearLevel2": 171,
+  "TeamupGearLevel3": 169,
+  "TeamupGearLevelWeight": [
+   10,
+   30,
+   60
+  ]
+ },
+ {
+  "Id": 179,
+  "PlayerGrade": 170,
+  "TeamupGearLevel1": 175,
+  "TeamupGearLevel2": 172,
+  "TeamupGearLevel3": 170,
+  "TeamupGearLevelWeight": [
+   10,
+   30,
+   60
+  ]
+ },
+ {
+  "Id": 180,
+  "PlayerGrade": 171,
+  "TeamupGearLevel1": 176,
+  "TeamupGearLevel2": 173,
+  "TeamupGearLevel3": 171,
+  "TeamupGearLevelWeight": [
+   10,
+   30,
+   60
+  ]
+ },
+ {
+  "Id": 181,
+  "PlayerGrade": 172,
+  "TeamupGearLevel1": 177,
+  "TeamupGearLevel2": 174,
+  "TeamupGearLevel3": 172,
+  "TeamupGearLevelWeight": [
+   10,
+   30,
+   60
+  ]
+ },
+ {
+  "Id": 182,
+  "PlayerGrade": 173,
+  "TeamupGearLevel1": 178,
+  "TeamupGearLevel2": 175,
+  "TeamupGearLevel3": 173,
+  "TeamupGearLevelWeight": [
+   10,
+   30,
+   60
+  ]
+ },
+ {
+  "Id": 183,
+  "PlayerGrade": 174,
+  "TeamupGearLevel1": 179,
+  "TeamupGearLevel2": 176,
+  "TeamupGearLevel3": 174,
+  "TeamupGearLevelWeight": [
+   10,
+   30,
+   60
+  ]
+ },
+ {
+  "Id": 184,
+  "PlayerGrade": 175,
+  "TeamupGearLevel1": 180,
+  "TeamupGearLevel2": 177,
+  "TeamupGearLevel3": 175,
+  "TeamupGearLevelWeight": [
+   10,
+   30,
+   60
+  ]
+ },
+ {
+  "Id": 185,
+  "PlayerGrade": 176,
+  "TeamupGearLevel1": 181,
+  "TeamupGearLevel2": 178,
+  "TeamupGearLevel3": 176,
+  "TeamupGearLevelWeight": [
+   10,
+   30,
+   60
+  ]
+ },
+ {
+  "Id": 186,
+  "PlayerGrade": 177,
+  "TeamupGearLevel1": 182,
+  "TeamupGearLevel2": 179,
+  "TeamupGearLevel3": 177,
+  "TeamupGearLevelWeight": [
+   10,
+   30,
+   60
+  ]
+ },
+ {
+  "Id": 187,
+  "PlayerGrade": 178,
+  "TeamupGearLevel1": 183,
+  "TeamupGearLevel2": 180,
+  "TeamupGearLevel3": 178,
+  "TeamupGearLevelWeight": [
+   10,
+   30,
+   60
+  ]
+ },
+ {
+  "Id": 188,
+  "PlayerGrade": 179,
+  "TeamupGearLevel1": 184,
+  "TeamupGearLevel2": 181,
+  "TeamupGearLevel3": 179,
+  "TeamupGearLevelWeight": [
+   10,
+   30,
+   60
+  ]
+ },
+ {
+  "Id": 189,
+  "PlayerGrade": 180,
+  "TeamupGearLevel1": 185,
+  "TeamupGearLevel2": 182,
+  "TeamupGearLevel3": 180,
+  "TeamupGearLevelWeight": [
+   10,
+   30,
+   60
+  ]
+ },
+ {
+  "Id": 190,
+  "PlayerGrade": 181,
+  "TeamupGearLevel1": 186,
+  "TeamupGearLevel2": 183,
+  "TeamupGearLevel3": 181,
+  "TeamupGearLevelWeight": [
+   10,
+   30,
+   60
+  ]
+ },
+ {
+  "Id": 191,
+  "PlayerGrade": 182,
+  "TeamupGearLevel1": 187,
+  "TeamupGearLevel2": 184,
+  "TeamupGearLevel3": 182,
+  "TeamupGearLevelWeight": [
+   10,
+   30,
+   60
+  ]
+ },
+ {
+  "Id": 192,
+  "PlayerGrade": 183,
+  "TeamupGearLevel1": 188,
+  "TeamupGearLevel2": 185,
+  "TeamupGearLevel3": 183,
+  "TeamupGearLevelWeight": [
+   10,
+   30,
+   60
+  ]
+ },
+ {
+  "Id": 193,
+  "PlayerGrade": 184,
+  "TeamupGearLevel1": 189,
+  "TeamupGearLevel2": 186,
+  "TeamupGearLevel3": 184,
+  "TeamupGearLevelWeight": [
+   10,
+   30,
+   60
+  ]
+ },
+ {
+  "Id": 194,
+  "PlayerGrade": 185,
+  "TeamupGearLevel1": 190,
+  "TeamupGearLevel2": 187,
+  "TeamupGearLevel3": 185,
+  "TeamupGearLevelWeight": [
+   10,
+   30,
+   60
+  ]
+ },
+ {
+  "Id": 195,
+  "PlayerGrade": 186,
+  "TeamupGearLevel1": 191,
+  "TeamupGearLevel2": 188,
+  "TeamupGearLevel3": 186,
+  "TeamupGearLevelWeight": [
+   10,
+   30,
+   60
+  ]
+ },
+ {
+  "Id": 196,
+  "PlayerGrade": 187,
+  "TeamupGearLevel1": 192,
+  "TeamupGearLevel2": 189,
+  "TeamupGearLevel3": 187,
+  "TeamupGearLevelWeight": [
+   10,
+   30,
+   60
+  ]
+ },
+ {
+  "Id": 197,
+  "PlayerGrade": 188,
+  "TeamupGearLevel1": 193,
+  "TeamupGearLevel2": 190,
+  "TeamupGearLevel3": 188,
+  "TeamupGearLevelWeight": [
+   10,
+   30,
+   60
+  ]
+ },
+ {
+  "Id": 198,
+  "PlayerGrade": 189,
+  "TeamupGearLevel1": 194,
+  "TeamupGearLevel2": 191,
+  "TeamupGearLevel3": 189,
+  "TeamupGearLevelWeight": [
+   10,
+   30,
+   60
+  ]
+ },
+ {
+  "Id": 199,
+  "PlayerGrade": 190,
+  "TeamupGearLevel1": 195,
+  "TeamupGearLevel2": 192,
+  "TeamupGearLevel3": 190,
+  "TeamupGearLevelWeight": [
+   10,
+   30,
+   60
+  ]
+ },
+ {
+  "Id": 200,
+  "PlayerGrade": 191,
+  "TeamupGearLevel1": 196,
+  "TeamupGearLevel2": 193,
+  "TeamupGearLevel3": 191,
+  "TeamupGearLevelWeight": [
+   10,
+   30,
+   60
+  ]
+ },
+ {
+  "Id": 201,
+  "PlayerGrade": 192,
+  "TeamupGearLevel1": 197,
+  "TeamupGearLevel2": 194,
+  "TeamupGearLevel3": 192,
+  "TeamupGearLevelWeight": [
+   10,
+   30,
+   60
+  ]
+ },
+ {
+  "Id": 202,
+  "PlayerGrade": 193,
+  "TeamupGearLevel1": 198,
+  "TeamupGearLevel2": 195,
+  "TeamupGearLevel3": 193,
+  "TeamupGearLevelWeight": [
+   10,
+   30,
+   60
+  ]
+ },
+ {
+  "Id": 203,
+  "PlayerGrade": 194,
+  "TeamupGearLevel1": 199,
+  "TeamupGearLevel2": 196,
+  "TeamupGearLevel3": 194,
+  "TeamupGearLevelWeight": [
+   10,
+   30,
+   60
+  ]
+ },
+ {
+  "Id": 204,
+  "PlayerGrade": 195,
+  "TeamupGearLevel1": 200,
+  "TeamupGearLevel2": 197,
+  "TeamupGearLevel3": 195,
+  "TeamupGearLevelWeight": [
+   10,
+   30,
+   60
+  ]
+ },
+ {
+  "Id": 205,
+  "PlayerGrade": 196,
+  "TeamupGearLevel1": 201,
+  "TeamupGearLevel2": 198,
+  "TeamupGearLevel3": 196,
+  "TeamupGearLevelWeight": [
+   10,
+   30,
+   60
+  ]
+ },
+ {
+  "Id": 206,
+  "PlayerGrade": 197,
+  "TeamupGearLevel1": 202,
+  "TeamupGearLevel2": 199,
+  "TeamupGearLevel3": 197,
+  "TeamupGearLevelWeight": [
+   10,
+   30,
+   60
+  ]
+ },
+ {
+  "Id": 207,
+  "PlayerGrade": 198,
+  "TeamupGearLevel1": 203,
+  "TeamupGearLevel2": 200,
+  "TeamupGearLevel3": 198,
+  "TeamupGearLevelWeight": [
+   10,
+   30,
+   60
+  ]
+ },
+ {
+  "Id": 208,
+  "PlayerGrade": 199,
+  "TeamupGearLevel1": 204,
+  "TeamupGearLevel2": 201,
+  "TeamupGearLevel3": 199,
+  "TeamupGearLevelWeight": [
+   10,
+   30,
+   60
+  ]
+ },
+ {
+  "Id": 209,
+  "PlayerGrade": 200,
+  "TeamupGearLevel1": 205,
+  "TeamupGearLevel2": 202,
+  "TeamupGearLevel3": 200,
+  "TeamupGearLevelWeight": [
+   10,
+   30,
+   60
+  ]
+ }
+]

@@ -1,0 +1,3772 @@
+[
+ {
+  "TargetPickerID": 11,
+  "TargetPickerType": 1,
+  "PickCamp": 0,
+  "RefTarget": 1,
+  "ExcludeSelf": 0,
+  "IgnoreLocked": 0,
+  "IgnoreUsedBody": 0,
+  "FilterList": []
+ },
+ {
+  "TargetPickerID": 21,
+  "TargetPickerType": 2,
+  "PickCamp": 0,
+  "RefTarget": 1,
+  "ExcludeSelf": 0,
+  "IgnoreLocked": 0,
+  "IgnoreUsedBody": 0,
+  "FilterList": []
+ },
+ {
+  "TargetPickerID": 31,
+  "TargetPickerType": 3,
+  "PickCamp": 0,
+  "RefTarget": 1,
+  "ExcludeSelf": 0,
+  "IgnoreLocked": 0,
+  "IgnoreUsedBody": 0,
+  "FilterList": []
+ },
+ {
+  "TargetPickerID": 40,
+  "TargetPickerType": 10,
+  "PickCamp": 0,
+  "RefTarget": 1,
+  "ExcludeSelf": 0,
+  "IgnoreLocked": 0,
+  "IgnoreUsedBody": 0,
+  "FilterList": [
+   200
+  ]
+ },
+ {
+  "TargetPickerID": 41,
+  "TargetPickerType": 10,
+  "PickCamp": 1,
+  "RefTarget": 1,
+  "ExcludeSelf": 0,
+  "IgnoreLocked": 0,
+  "IgnoreUsedBody": 0,
+  "FilterList": [
+   200
+  ]
+ },
+ {
+  "TargetPickerID": 42,
+  "TargetPickerType": 10,
+  "PickCamp": 2,
+  "RefTarget": 1,
+  "ExcludeSelf": 0,
+  "IgnoreLocked": 0,
+  "IgnoreUsedBody": 0,
+  "FilterList": [
+   200
+  ]
+ },
+ {
+  "TargetPickerID": 421,
+  "TargetPickerType": 10,
+  "PickCamp": 2,
+  "RefTarget": 2,
+  "ExcludeSelf": 1,
+  "IgnoreLocked": 0,
+  "IgnoreUsedBody": 0,
+  "FilterList": [
+   200
+  ]
+ },
+ {
+  "TargetPickerID": 422,
+  "TargetPickerType": 10,
+  "PickCamp": 2,
+  "RefTarget": 1,
+  "ExcludeSelf": 0,
+  "IgnoreLocked": 0,
+  "IgnoreUsedBody": 0,
+  "FilterList": [
+   105
+  ]
+ },
+ {
+  "TargetPickerID": 43,
+  "TargetPickerType": 10,
+  "PickCamp": 1,
+  "RefTarget": 1,
+  "ExcludeSelf": 1,
+  "IgnoreLocked": 0,
+  "IgnoreUsedBody": 0,
+  "FilterList": [
+   200
+  ]
+ },
+ {
+  "TargetPickerID": 44,
+  "TargetPickerType": 4,
+  "PickCamp": 1,
+  "RefTarget": 0,
+  "ExcludeSelf": 0,
+  "IgnoreLocked": 0,
+  "IgnoreUsedBody": 0,
+  "FilterList": []
+ },
+ {
+  "TargetPickerID": 45,
+  "TargetPickerType": 10,
+  "PickCamp": 1,
+  "RefTarget": 1,
+  "ExcludeSelf": 1,
+  "IgnoreLocked": 0,
+  "IgnoreUsedBody": 0,
+  "FilterList": [
+   200,
+   1002
+  ]
+ },
+ {
+  "TargetPickerID": 51,
+  "TargetPickerType": 11,
+  "PickCamp": 0,
+  "RefTarget": 1,
+  "ExcludeSelf": 0,
+  "IgnoreLocked": 0,
+  "IgnoreUsedBody": 0,
+  "FilterList": [
+   200
+  ]
+ },
+ {
+  "TargetPickerID": 52,
+  "TargetPickerType": 11,
+  "PickCamp": 1,
+  "RefTarget": 1,
+  "ExcludeSelf": 0,
+  "IgnoreLocked": 0,
+  "IgnoreUsedBody": 0,
+  "FilterList": [
+   200
+  ]
+ },
+ {
+  "TargetPickerID": 521,
+  "TargetPickerType": 11,
+  "PickCamp": 1,
+  "RefTarget": 1,
+  "ExcludeSelf": 1,
+  "IgnoreLocked": 0,
+  "IgnoreUsedBody": 0,
+  "FilterList": [
+   200
+  ]
+ },
+ {
+  "TargetPickerID": 522,
+  "TargetPickerType": 11,
+  "PickCamp": 1,
+  "RefTarget": 1,
+  "ExcludeSelf": 1,
+  "IgnoreLocked": 0,
+  "IgnoreUsedBody": 1,
+  "FilterList": [
+   200
+  ]
+ },
+ {
+  "TargetPickerID": 53,
+  "TargetPickerType": 11,
+  "PickCamp": 2,
+  "RefTarget": 1,
+  "ExcludeSelf": 0,
+  "IgnoreLocked": 0,
+  "IgnoreUsedBody": 0,
+  "FilterList": [
+   200
+  ]
+ },
+ {
+  "TargetPickerID": 61,
+  "TargetPickerType": 11,
+  "PickCamp": 0,
+  "RefTarget": 1,
+  "ExcludeSelf": 0,
+  "IgnoreLocked": 0,
+  "IgnoreUsedBody": 0,
+  "FilterList": [
+   10999005
+  ]
+ },
+ {
+  "TargetPickerID": 62,
+  "TargetPickerType": 11,
+  "PickCamp": 1,
+  "RefTarget": 1,
+  "ExcludeSelf": 0,
+  "IgnoreLocked": 0,
+  "IgnoreUsedBody": 0,
+  "FilterList": [
+   10999005
+  ]
+ },
+ {
+  "TargetPickerID": 63,
+  "TargetPickerType": 11,
+  "PickCamp": 2,
+  "RefTarget": 1,
+  "ExcludeSelf": 0,
+  "IgnoreLocked": 0,
+  "IgnoreUsedBody": 0,
+  "FilterList": [
+   10999005
+  ]
+ },
+ {
+  "TargetPickerID": 64,
+  "TargetPickerType": 10,
+  "PickCamp": 2,
+  "RefTarget": 2,
+  "ExcludeSelf": 0,
+  "IgnoreLocked": 1,
+  "IgnoreUsedBody": 0,
+  "FilterList": [
+   201
+  ]
+ },
+ {
+  "TargetPickerID": 65,
+  "TargetPickerType": 10,
+  "PickCamp": 2,
+  "RefTarget": 2,
+  "ExcludeSelf": 1,
+  "IgnoreLocked": 1,
+  "IgnoreUsedBody": 0,
+  "FilterList": [
+   202
+  ]
+ },
+ {
+  "TargetPickerID": 661,
+  "TargetPickerType": 10,
+  "PickCamp": 1,
+  "RefTarget": 2,
+  "ExcludeSelf": 1,
+  "IgnoreLocked": 1,
+  "IgnoreUsedBody": 0,
+  "FilterList": [
+   201
+  ]
+ },
+ {
+  "TargetPickerID": 671,
+  "TargetPickerType": 10,
+  "PickCamp": 1,
+  "RefTarget": 2,
+  "ExcludeSelf": 1,
+  "IgnoreLocked": 1,
+  "IgnoreUsedBody": 0,
+  "FilterList": [
+   202
+  ]
+ },
+ {
+  "TargetPickerID": 651,
+  "TargetPickerType": 10,
+  "PickCamp": 2,
+  "RefTarget": 2,
+  "ExcludeSelf": 0,
+  "IgnoreLocked": 0,
+  "IgnoreUsedBody": 0,
+  "FilterList": [
+   202
+  ]
+ },
+ {
+  "TargetPickerID": 66,
+  "TargetPickerType": 10,
+  "PickCamp": 2,
+  "RefTarget": 2,
+  "ExcludeSelf": 0,
+  "IgnoreLocked": 1,
+  "IgnoreUsedBody": 0,
+  "FilterList": [
+   203
+  ]
+ },
+ {
+  "TargetPickerID": 68,
+  "TargetPickerType": 10,
+  "PickCamp": 1,
+  "RefTarget": 2,
+  "ExcludeSelf": 1,
+  "IgnoreLocked": 1,
+  "IgnoreUsedBody": 0,
+  "FilterList": [
+   203
+  ]
+ },
+ {
+  "TargetPickerID": 1011,
+  "TargetPickerType": 10,
+  "PickCamp": 1,
+  "RefTarget": 1,
+  "ExcludeSelf": 1,
+  "IgnoreLocked": 0,
+  "IgnoreUsedBody": 0,
+  "FilterList": [
+   198
+  ]
+ },
+ {
+  "TargetPickerID": 1012,
+  "TargetPickerType": 10,
+  "PickCamp": 2,
+  "RefTarget": 1,
+  "ExcludeSelf": 0,
+  "IgnoreLocked": 0,
+  "IgnoreUsedBody": 0,
+  "FilterList": [
+   198
+  ]
+ },
+ {
+  "TargetPickerID": 10121,
+  "TargetPickerType": 10,
+  "PickCamp": 2,
+  "RefTarget": 1,
+  "ExcludeSelf": 0,
+  "IgnoreLocked": 1,
+  "IgnoreUsedBody": 0,
+  "FilterList": [
+   198
+  ]
+ },
+ {
+  "TargetPickerID": 10122,
+  "TargetPickerType": 10,
+  "PickCamp": 2,
+  "RefTarget": 1,
+  "ExcludeSelf": 0,
+  "IgnoreLocked": 0,
+  "IgnoreUsedBody": 0,
+  "FilterList": [
+   198,
+   1002
+  ]
+ },
+ {
+  "TargetPickerID": 1013,
+  "TargetPickerType": 10,
+  "PickCamp": 1,
+  "RefTarget": 1,
+  "ExcludeSelf": 0,
+  "IgnoreLocked": 0,
+  "IgnoreUsedBody": 0,
+  "FilterList": []
+ },
+ {
+  "TargetPickerID": 1014,
+  "TargetPickerType": 10,
+  "PickCamp": 2,
+  "RefTarget": 1,
+  "ExcludeSelf": 0,
+  "IgnoreLocked": 0,
+  "IgnoreUsedBody": 0,
+  "FilterList": []
+ },
+ {
+  "TargetPickerID": 10141,
+  "TargetPickerType": 10,
+  "PickCamp": 2,
+  "RefTarget": 2,
+  "ExcludeSelf": 0,
+  "IgnoreLocked": 0,
+  "IgnoreUsedBody": 0,
+  "FilterList": []
+ },
+ {
+  "TargetPickerID": 1015,
+  "TargetPickerType": 10,
+  "PickCamp": 0,
+  "RefTarget": 1,
+  "ExcludeSelf": 0,
+  "IgnoreLocked": 0,
+  "IgnoreUsedBody": 0,
+  "FilterList": []
+ },
+ {
+  "TargetPickerID": 1016,
+  "TargetPickerType": 10,
+  "PickCamp": 1,
+  "RefTarget": 1,
+  "ExcludeSelf": 1,
+  "IgnoreLocked": 0,
+  "IgnoreUsedBody": 0,
+  "FilterList": []
+ },
+ {
+  "TargetPickerID": 1101,
+  "TargetPickerType": 10,
+  "PickCamp": 0,
+  "RefTarget": 2,
+  "ExcludeSelf": 0,
+  "IgnoreLocked": 0,
+  "IgnoreUsedBody": 0,
+  "FilterList": [
+   1101
+  ]
+ },
+ {
+  "TargetPickerID": 2001,
+  "TargetPickerType": 20,
+  "PickCamp": 0,
+  "RefTarget": 1,
+  "ExcludeSelf": 0,
+  "IgnoreLocked": 0,
+  "IgnoreUsedBody": 0,
+  "FilterList": [
+   2001
+  ]
+ },
+ {
+  "TargetPickerID": 2011,
+  "TargetPickerType": 10,
+  "PickCamp": 1,
+  "RefTarget": 2,
+  "ExcludeSelf": 1,
+  "IgnoreLocked": 0,
+  "IgnoreUsedBody": 0,
+  "FilterList": [
+   198
+  ]
+ },
+ {
+  "TargetPickerID": 2012,
+  "TargetPickerType": 10,
+  "PickCamp": 2,
+  "RefTarget": 2,
+  "ExcludeSelf": 1,
+  "IgnoreLocked": 0,
+  "IgnoreUsedBody": 0,
+  "FilterList": [
+   198
+  ]
+ },
+ {
+  "TargetPickerID": 3002,
+  "TargetPickerType": 10,
+  "PickCamp": 2,
+  "RefTarget": 1,
+  "ExcludeSelf": 0,
+  "IgnoreLocked": 0,
+  "IgnoreUsedBody": 0,
+  "FilterList": [
+   300
+  ]
+ },
+ {
+  "TargetPickerID": 7000,
+  "TargetPickerType": 20,
+  "PickCamp": 0,
+  "RefTarget": 1,
+  "ExcludeSelf": 0,
+  "IgnoreLocked": 0,
+  "IgnoreUsedBody": 0,
+  "FilterList": [
+   200
+  ]
+ },
+ {
+  "TargetPickerID": 7001,
+  "TargetPickerType": 20,
+  "PickCamp": 2,
+  "RefTarget": 1,
+  "ExcludeSelf": 0,
+  "IgnoreLocked": 0,
+  "IgnoreUsedBody": 0,
+  "FilterList": [
+   200
+  ]
+ },
+ {
+  "TargetPickerID": 7002,
+  "TargetPickerType": 20,
+  "PickCamp": 1,
+  "RefTarget": 1,
+  "ExcludeSelf": 0,
+  "IgnoreLocked": 0,
+  "IgnoreUsedBody": 0,
+  "FilterList": [
+   200
+  ]
+ },
+ {
+  "TargetPickerID": 7003,
+  "TargetPickerType": 20,
+  "PickCamp": 2,
+  "RefTarget": 1,
+  "ExcludeSelf": 0,
+  "IgnoreLocked": 0,
+  "IgnoreUsedBody": 0,
+  "FilterList": [
+   2000,
+   200
+  ]
+ },
+ {
+  "TargetPickerID": 7004,
+  "TargetPickerType": 20,
+  "PickCamp": 1,
+  "RefTarget": 1,
+  "ExcludeSelf": 0,
+  "IgnoreLocked": 0,
+  "IgnoreUsedBody": 0,
+  "FilterList": [
+   2000,
+   200
+  ]
+ },
+ {
+  "TargetPickerID": 10000,
+  "TargetPickerType": 10,
+  "PickCamp": 2,
+  "RefTarget": 1,
+  "ExcludeSelf": 0,
+  "IgnoreLocked": 0,
+  "IgnoreUsedBody": 0,
+  "FilterList": [
+   2000
+  ]
+ },
+ {
+  "TargetPickerID": 10011,
+  "TargetPickerType": 10,
+  "PickCamp": 2,
+  "RefTarget": 1,
+  "ExcludeSelf": 1,
+  "IgnoreLocked": 1,
+  "IgnoreUsedBody": 0,
+  "FilterList": [
+   20021
+  ]
+ },
+ {
+  "TargetPickerID": 10001,
+  "TargetPickerType": 10,
+  "PickCamp": 2,
+  "RefTarget": 1,
+  "ExcludeSelf": 1,
+  "IgnoreLocked": 1,
+  "IgnoreUsedBody": 0,
+  "FilterList": [
+   10041
+  ]
+ },
+ {
+  "TargetPickerID": 10008,
+  "TargetPickerType": 10,
+  "PickCamp": 2,
+  "RefTarget": 1,
+  "ExcludeSelf": 0,
+  "IgnoreLocked": 0,
+  "IgnoreUsedBody": 0,
+  "FilterList": [
+   20008
+  ]
+ },
+ {
+  "TargetPickerID": 20000,
+  "TargetPickerType": 10,
+  "PickCamp": 2,
+  "RefTarget": 2,
+  "ExcludeSelf": 0,
+  "IgnoreLocked": 0,
+  "IgnoreUsedBody": 0,
+  "FilterList": [
+   20001
+  ]
+ },
+ {
+  "TargetPickerID": 200001,
+  "TargetPickerType": 10,
+  "PickCamp": 1,
+  "RefTarget": 2,
+  "ExcludeSelf": 0,
+  "IgnoreLocked": 0,
+  "IgnoreUsedBody": 0,
+  "FilterList": [
+   20001
+  ]
+ },
+ {
+  "TargetPickerID": 20001,
+  "TargetPickerType": 10,
+  "PickCamp": 2,
+  "RefTarget": 2,
+  "ExcludeSelf": 0,
+  "IgnoreLocked": 0,
+  "IgnoreUsedBody": 0,
+  "FilterList": [
+   10041
+  ]
+ },
+ {
+  "TargetPickerID": 200011,
+  "TargetPickerType": 10,
+  "PickCamp": 2,
+  "RefTarget": 2,
+  "ExcludeSelf": 1,
+  "IgnoreLocked": 1,
+  "IgnoreUsedBody": 0,
+  "FilterList": [
+   10041
+  ]
+ },
+ {
+  "TargetPickerID": 200012,
+  "TargetPickerType": 20,
+  "PickCamp": 0,
+  "RefTarget": 2,
+  "ExcludeSelf": 1,
+  "IgnoreLocked": 0,
+  "IgnoreUsedBody": 0,
+  "FilterList": [
+   200
+  ]
+ },
+ {
+  "TargetPickerID": 200013,
+  "TargetPickerType": 20,
+  "PickCamp": 0,
+  "RefTarget": 2,
+  "ExcludeSelf": 0,
+  "IgnoreLocked": 0,
+  "IgnoreUsedBody": 0,
+  "FilterList": [
+   200,
+   20002
+  ]
+ },
+ {
+  "TargetPickerID": 200014,
+  "TargetPickerType": 20,
+  "PickCamp": 0,
+  "RefTarget": 2,
+  "ExcludeSelf": 1,
+  "IgnoreLocked": 0,
+  "IgnoreUsedBody": 0,
+  "FilterList": [
+   200,
+   10041
+  ]
+ },
+ {
+  "TargetPickerID": 20002,
+  "TargetPickerType": 10,
+  "PickCamp": 2,
+  "RefTarget": 2,
+  "ExcludeSelf": 0,
+  "IgnoreLocked": 0,
+  "IgnoreUsedBody": 0,
+  "FilterList": [
+   20002
+  ]
+ },
+ {
+  "TargetPickerID": 20003,
+  "TargetPickerType": 10,
+  "PickCamp": 2,
+  "RefTarget": 2,
+  "ExcludeSelf": 0,
+  "IgnoreLocked": 0,
+  "IgnoreUsedBody": 0,
+  "FilterList": [
+   20003
+  ]
+ },
+ {
+  "TargetPickerID": 20004,
+  "TargetPickerType": 10,
+  "PickCamp": 2,
+  "RefTarget": 2,
+  "ExcludeSelf": 1,
+  "IgnoreLocked": 0,
+  "IgnoreUsedBody": 0,
+  "FilterList": [
+   10041
+  ]
+ },
+ {
+  "TargetPickerID": 200041,
+  "TargetPickerType": 10,
+  "PickCamp": 2,
+  "RefTarget": 2,
+  "ExcludeSelf": 1,
+  "IgnoreLocked": 0,
+  "IgnoreUsedBody": 0,
+  "FilterList": [
+   10041,
+   200
+  ]
+ },
+ {
+  "TargetPickerID": 20005,
+  "TargetPickerType": 10,
+  "PickCamp": 2,
+  "RefTarget": 2,
+  "ExcludeSelf": 0,
+  "IgnoreLocked": 0,
+  "IgnoreUsedBody": 0,
+  "FilterList": [
+   20005
+  ]
+ },
+ {
+  "TargetPickerID": 20008,
+  "TargetPickerType": 10,
+  "PickCamp": 2,
+  "RefTarget": 2,
+  "ExcludeSelf": 0,
+  "IgnoreLocked": 0,
+  "IgnoreUsedBody": 0,
+  "FilterList": [
+   20008
+  ]
+ },
+ {
+  "TargetPickerID": 30001,
+  "TargetPickerType": 10,
+  "PickCamp": 1,
+  "RefTarget": 2,
+  "ExcludeSelf": 0,
+  "IgnoreLocked": 0,
+  "IgnoreUsedBody": 0,
+  "FilterList": [
+   10041
+  ]
+ },
+ {
+  "TargetPickerID": 30003,
+  "TargetPickerType": 10,
+  "PickCamp": 1,
+  "RefTarget": 2,
+  "ExcludeSelf": 1,
+  "IgnoreLocked": 0,
+  "IgnoreUsedBody": 0,
+  "FilterList": [
+   10041
+  ]
+ },
+ {
+  "TargetPickerID": 30002,
+  "TargetPickerType": 10,
+  "PickCamp": 1,
+  "RefTarget": 2,
+  "ExcludeSelf": 0,
+  "IgnoreLocked": 0,
+  "IgnoreUsedBody": 0,
+  "FilterList": [
+   20002
+  ]
+ },
+ {
+  "TargetPickerID": 30008,
+  "TargetPickerType": 10,
+  "PickCamp": 1,
+  "RefTarget": 2,
+  "ExcludeSelf": 0,
+  "IgnoreLocked": 0,
+  "IgnoreUsedBody": 0,
+  "FilterList": [
+   20008
+  ]
+ },
+ {
+  "TargetPickerID": 40001,
+  "TargetPickerType": 10,
+  "PickCamp": 1,
+  "RefTarget": 2,
+  "ExcludeSelf": 1,
+  "IgnoreLocked": 0,
+  "IgnoreUsedBody": 0,
+  "FilterList": [
+   10041
+  ]
+ },
+ {
+  "TargetPickerID": 50101,
+  "TargetPickerType": 10,
+  "PickCamp": 1,
+  "RefTarget": 1,
+  "ExcludeSelf": 0,
+  "IgnoreLocked": 0,
+  "IgnoreUsedBody": 0,
+  "FilterList": [
+   10981003
+  ]
+ },
+ {
+  "TargetPickerID": 501011,
+  "TargetPickerType": 10,
+  "PickCamp": 1,
+  "RefTarget": 1,
+  "ExcludeSelf": 0,
+  "IgnoreLocked": 1,
+  "IgnoreUsedBody": 0,
+  "FilterList": [
+   10981003
+  ]
+ },
+ {
+  "TargetPickerID": 501012,
+  "TargetPickerType": 10,
+  "PickCamp": 1,
+  "RefTarget": 1,
+  "ExcludeSelf": 1,
+  "IgnoreLocked": 0,
+  "IgnoreUsedBody": 0,
+  "FilterList": [
+   10981003
+  ]
+ },
+ {
+  "TargetPickerID": 501013,
+  "TargetPickerType": 10,
+  "PickCamp": 1,
+  "RefTarget": 1,
+  "ExcludeSelf": 1,
+  "IgnoreLocked": 0,
+  "IgnoreUsedBody": 0,
+  "FilterList": [
+   10981003,
+   1002
+  ]
+ },
+ {
+  "TargetPickerID": 501014,
+  "TargetPickerType": 10,
+  "PickCamp": 1,
+  "RefTarget": 1,
+  "ExcludeSelf": 0,
+  "IgnoreLocked": 0,
+  "IgnoreUsedBody": 0,
+  "FilterList": [
+   10981003,
+   1002
+  ]
+ },
+ {
+  "TargetPickerID": 50102,
+  "TargetPickerType": 10,
+  "PickCamp": 2,
+  "RefTarget": 1,
+  "ExcludeSelf": 0,
+  "IgnoreLocked": 0,
+  "IgnoreUsedBody": 0,
+  "FilterList": [
+   10991007,
+   10991006
+  ]
+ },
+ {
+  "TargetPickerID": 501021,
+  "TargetPickerType": 10,
+  "PickCamp": 2,
+  "RefTarget": 1,
+  "ExcludeSelf": 0,
+  "IgnoreLocked": 0,
+  "IgnoreUsedBody": 0,
+  "FilterList": [
+   10991006
+  ]
+ },
+ {
+  "TargetPickerID": 50103,
+  "TargetPickerType": 10,
+  "PickCamp": 2,
+  "RefTarget": 1,
+  "ExcludeSelf": 0,
+  "IgnoreLocked": 0,
+  "IgnoreUsedBody": 0,
+  "FilterList": [
+   10981003
+  ]
+ },
+ {
+  "TargetPickerID": 501031,
+  "TargetPickerType": 10,
+  "PickCamp": 2,
+  "RefTarget": 1,
+  "ExcludeSelf": 0,
+  "IgnoreLocked": 0,
+  "IgnoreUsedBody": 0,
+  "FilterList": [
+   10981
+  ]
+ },
+ {
+  "TargetPickerID": 50104,
+  "TargetPickerType": 10,
+  "PickCamp": 1,
+  "RefTarget": 1,
+  "ExcludeSelf": 0,
+  "IgnoreLocked": 0,
+  "IgnoreUsedBody": 0,
+  "FilterList": [
+   1098,
+   10991007
+  ]
+ },
+ {
+  "TargetPickerID": 501041,
+  "TargetPickerType": 10,
+  "PickCamp": 1,
+  "RefTarget": 1,
+  "ExcludeSelf": 0,
+  "IgnoreLocked": 0,
+  "IgnoreUsedBody": 0,
+  "FilterList": [
+   10991006,
+   10991007
+  ]
+ },
+ {
+  "TargetPickerID": 50105,
+  "TargetPickerType": 10,
+  "PickCamp": 1,
+  "RefTarget": 1,
+  "ExcludeSelf": 0,
+  "IgnoreLocked": 0,
+  "IgnoreUsedBody": 0,
+  "FilterList": [
+   1099
+  ]
+ },
+ {
+  "TargetPickerID": 50106,
+  "TargetPickerType": 10,
+  "PickCamp": 2,
+  "RefTarget": 1,
+  "ExcludeSelf": 0,
+  "IgnoreLocked": 0,
+  "IgnoreUsedBody": 0,
+  "FilterList": [
+   1099
+  ]
+ },
+ {
+  "TargetPickerID": 50107,
+  "TargetPickerType": 10,
+  "PickCamp": 1,
+  "RefTarget": 1,
+  "ExcludeSelf": 0,
+  "IgnoreLocked": 0,
+  "IgnoreUsedBody": 0,
+  "FilterList": [
+   10982
+  ]
+ },
+ {
+  "TargetPickerID": 11030210,
+  "TargetPickerType": 10,
+  "PickCamp": 2,
+  "RefTarget": 1,
+  "ExcludeSelf": 0,
+  "IgnoreLocked": 0,
+  "IgnoreUsedBody": 0,
+  "FilterList": [
+   199,
+   110302110,
+   110302120,
+   110302130,
+   140301110,
+   140301120,
+   140301130,
+   140401110,
+   140401120,
+   140401130
+  ]
+ },
+ {
+  "TargetPickerID": 11030211,
+  "TargetPickerType": 10,
+  "PickCamp": 2,
+  "RefTarget": 1,
+  "ExcludeSelf": 0,
+  "IgnoreLocked": 1,
+  "IgnoreUsedBody": 0,
+  "FilterList": [
+   199,
+   110302110,
+   110302120,
+   110302130,
+   140301110,
+   140301120,
+   140301130,
+   140401110,
+   140401120,
+   140401130
+  ]
+ },
+ {
+  "TargetPickerID": 11030212,
+  "TargetPickerType": 10,
+  "PickCamp": 2,
+  "RefTarget": 1,
+  "ExcludeSelf": 0,
+  "IgnoreLocked": 0,
+  "IgnoreUsedBody": 0,
+  "FilterList": [
+   199
+  ]
+ },
+ {
+  "TargetPickerID": 11030213,
+  "TargetPickerType": 10,
+  "PickCamp": 1,
+  "RefTarget": 1,
+  "ExcludeSelf": 0,
+  "IgnoreLocked": 0,
+  "IgnoreUsedBody": 0,
+  "FilterList": [
+   199,
+   110302110,
+   110302120,
+   110302130,
+   140301110,
+   140301120,
+   140301130,
+   140401110,
+   140401120,
+   140401130
+  ]
+ },
+ {
+  "TargetPickerID": 13060310,
+  "TargetPickerType": 20,
+  "PickCamp": 0,
+  "RefTarget": 1,
+  "ExcludeSelf": 1,
+  "IgnoreLocked": 0,
+  "IgnoreUsedBody": 0,
+  "FilterList": [
+   10041
+  ]
+ },
+ {
+  "TargetPickerID": 510000000,
+  "TargetPickerType": 2,
+  "PickCamp": 1,
+  "RefTarget": 1,
+  "ExcludeSelf": 0,
+  "IgnoreLocked": 0,
+  "IgnoreUsedBody": 0,
+  "FilterList": []
+ },
+ {
+  "TargetPickerID": 100011,
+  "TargetPickerType": 10,
+  "PickCamp": 1,
+  "RefTarget": 1,
+  "ExcludeSelf": 0,
+  "IgnoreLocked": 0,
+  "IgnoreUsedBody": 0,
+  "FilterList": [
+   100011
+  ]
+ },
+ {
+  "TargetPickerID": 100012,
+  "TargetPickerType": 10,
+  "PickCamp": 2,
+  "RefTarget": 1,
+  "ExcludeSelf": 0,
+  "IgnoreLocked": 0,
+  "IgnoreUsedBody": 0,
+  "FilterList": [
+   100011
+  ]
+ },
+ {
+  "TargetPickerID": 510000001,
+  "TargetPickerType": 10,
+  "PickCamp": 1,
+  "RefTarget": 1,
+  "ExcludeSelf": 0,
+  "IgnoreLocked": 0,
+  "IgnoreUsedBody": 0,
+  "FilterList": [
+   510000000
+  ]
+ },
+ {
+  "TargetPickerID": 510000002,
+  "TargetPickerType": 10,
+  "PickCamp": 1,
+  "RefTarget": 1,
+  "ExcludeSelf": 0,
+  "IgnoreLocked": 0,
+  "IgnoreUsedBody": 0,
+  "FilterList": [
+   510000001
+  ]
+ },
+ {
+  "TargetPickerID": 14030110,
+  "TargetPickerType": 10,
+  "PickCamp": 1,
+  "RefTarget": 1,
+  "ExcludeSelf": 0,
+  "IgnoreLocked": 0,
+  "IgnoreUsedBody": 0,
+  "FilterList": [
+   110302110,
+   110302120,
+   110302130,
+   140301110,
+   140301120,
+   140301130,
+   140401110,
+   140401120,
+   140401130
+  ]
+ },
+ {
+  "TargetPickerID": 14040110,
+  "TargetPickerType": 10,
+  "PickCamp": 1,
+  "RefTarget": 1,
+  "ExcludeSelf": 0,
+  "IgnoreLocked": 0,
+  "IgnoreUsedBody": 0,
+  "FilterList": [
+   110302110,
+   110302120,
+   110302130,
+   140301110,
+   140301120,
+   140301130,
+   140401110,
+   140401120,
+   140401130
+  ]
+ },
+ {
+  "TargetPickerID": 14020210,
+  "TargetPickerType": 10,
+  "PickCamp": 1,
+  "RefTarget": 2,
+  "ExcludeSelf": 0,
+  "IgnoreLocked": 0,
+  "IgnoreUsedBody": 0,
+  "FilterList": [
+   14020210
+  ]
+ },
+ {
+  "TargetPickerID": 14020211,
+  "TargetPickerType": 10,
+  "PickCamp": 2,
+  "RefTarget": 2,
+  "ExcludeSelf": 0,
+  "IgnoreLocked": 0,
+  "IgnoreUsedBody": 0,
+  "FilterList": [
+   14020210
+  ]
+ },
+ {
+  "TargetPickerID": 210101,
+  "TargetPickerType": 10,
+  "PickCamp": 1,
+  "RefTarget": 1,
+  "ExcludeSelf": 0,
+  "IgnoreLocked": 0,
+  "IgnoreUsedBody": 0,
+  "FilterList": [
+   210101
+  ]
+ },
+ {
+  "TargetPickerID": 210401,
+  "TargetPickerType": 10,
+  "PickCamp": 1,
+  "RefTarget": 1,
+  "ExcludeSelf": 0,
+  "IgnoreLocked": 0,
+  "IgnoreUsedBody": 0,
+  "FilterList": [
+   210401
+  ]
+ },
+ {
+  "TargetPickerID": 210301,
+  "TargetPickerType": 10,
+  "PickCamp": 1,
+  "RefTarget": 1,
+  "ExcludeSelf": 0,
+  "IgnoreLocked": 0,
+  "IgnoreUsedBody": 0,
+  "FilterList": [
+   210301
+  ]
+ },
+ {
+  "TargetPickerID": 210501,
+  "TargetPickerType": 10,
+  "PickCamp": 1,
+  "RefTarget": 1,
+  "ExcludeSelf": 0,
+  "IgnoreLocked": 0,
+  "IgnoreUsedBody": 0,
+  "FilterList": [
+   210501
+  ]
+ },
+ {
+  "TargetPickerID": 1991300,
+  "TargetPickerType": 10,
+  "PickCamp": 2,
+  "RefTarget": 1,
+  "ExcludeSelf": 0,
+  "IgnoreLocked": 1,
+  "IgnoreUsedBody": 0,
+  "FilterList": [
+   199,
+   1300
+  ]
+ },
+ {
+  "TargetPickerID": 110301210,
+  "TargetPickerType": 10,
+  "PickCamp": 1,
+  "RefTarget": 1,
+  "ExcludeSelf": 0,
+  "IgnoreLocked": 0,
+  "IgnoreUsedBody": 0,
+  "FilterList": [
+   200,
+   110301210,
+   110301220,
+   110301230
+  ]
+ },
+ {
+  "TargetPickerID": 400,
+  "TargetPickerType": 10,
+  "PickCamp": 1,
+  "RefTarget": 1,
+  "ExcludeSelf": 1,
+  "IgnoreLocked": 0,
+  "IgnoreUsedBody": 0,
+  "FilterList": [
+   400
+  ]
+ },
+ {
+  "TargetPickerID": 500,
+  "TargetPickerType": 20,
+  "PickCamp": 1,
+  "RefTarget": 1,
+  "ExcludeSelf": 1,
+  "IgnoreLocked": 0,
+  "IgnoreUsedBody": 0,
+  "FilterList": [
+   400
+  ]
+ },
+ {
+  "TargetPickerID": 401,
+  "TargetPickerType": 10,
+  "PickCamp": 1,
+  "RefTarget": 1,
+  "ExcludeSelf": 1,
+  "IgnoreLocked": 0,
+  "IgnoreUsedBody": 0,
+  "FilterList": [
+   401
+  ]
+ },
+ {
+  "TargetPickerID": 501,
+  "TargetPickerType": 20,
+  "PickCamp": 1,
+  "RefTarget": 1,
+  "ExcludeSelf": 1,
+  "IgnoreLocked": 0,
+  "IgnoreUsedBody": 0,
+  "FilterList": [
+   401
+  ]
+ },
+ {
+  "TargetPickerID": 402,
+  "TargetPickerType": 10,
+  "PickCamp": 2,
+  "RefTarget": 1,
+  "ExcludeSelf": 1,
+  "IgnoreLocked": 0,
+  "IgnoreUsedBody": 0,
+  "FilterList": [
+   402
+  ]
+ },
+ {
+  "TargetPickerID": 403,
+  "TargetPickerType": 10,
+  "PickCamp": 2,
+  "RefTarget": 1,
+  "ExcludeSelf": 1,
+  "IgnoreLocked": 0,
+  "IgnoreUsedBody": 0,
+  "FilterList": [
+   403
+  ]
+ },
+ {
+  "TargetPickerID": 404,
+  "TargetPickerType": 10,
+  "PickCamp": 2,
+  "RefTarget": 1,
+  "ExcludeSelf": 1,
+  "IgnoreLocked": 0,
+  "IgnoreUsedBody": 0,
+  "FilterList": [
+   404
+  ]
+ },
+ {
+  "TargetPickerID": 5001,
+  "TargetPickerType": 10,
+  "PickCamp": 2,
+  "RefTarget": 1,
+  "ExcludeSelf": 0,
+  "IgnoreLocked": 0,
+  "IgnoreUsedBody": 0,
+  "FilterList": [
+   5001
+  ]
+ },
+ {
+  "TargetPickerID": 5002,
+  "TargetPickerType": 10,
+  "PickCamp": 2,
+  "RefTarget": 1,
+  "ExcludeSelf": 0,
+  "IgnoreLocked": 0,
+  "IgnoreUsedBody": 0,
+  "FilterList": [
+   5002
+  ]
+ },
+ {
+  "TargetPickerID": 5003,
+  "TargetPickerType": 10,
+  "PickCamp": 2,
+  "RefTarget": 1,
+  "ExcludeSelf": 0,
+  "IgnoreLocked": 0,
+  "IgnoreUsedBody": 0,
+  "FilterList": [
+   5003
+  ]
+ },
+ {
+  "TargetPickerID": 5004,
+  "TargetPickerType": 10,
+  "PickCamp": 2,
+  "RefTarget": 1,
+  "ExcludeSelf": 0,
+  "IgnoreLocked": 0,
+  "IgnoreUsedBody": 0,
+  "FilterList": [
+   5004
+  ]
+ },
+ {
+  "TargetPickerID": 5005,
+  "TargetPickerType": 10,
+  "PickCamp": 2,
+  "RefTarget": 1,
+  "ExcludeSelf": 0,
+  "IgnoreLocked": 0,
+  "IgnoreUsedBody": 0,
+  "FilterList": [
+   5005
+  ]
+ },
+ {
+  "TargetPickerID": 5006,
+  "TargetPickerType": 10,
+  "PickCamp": 2,
+  "RefTarget": 1,
+  "ExcludeSelf": 0,
+  "IgnoreLocked": 0,
+  "IgnoreUsedBody": 0,
+  "FilterList": [
+   5006
+  ]
+ },
+ {
+  "TargetPickerID": 5007,
+  "TargetPickerType": 10,
+  "PickCamp": 2,
+  "RefTarget": 1,
+  "ExcludeSelf": 0,
+  "IgnoreLocked": 0,
+  "IgnoreUsedBody": 0,
+  "FilterList": [
+   5007
+  ]
+ },
+ {
+  "TargetPickerID": 5008,
+  "TargetPickerType": 10,
+  "PickCamp": 2,
+  "RefTarget": 1,
+  "ExcludeSelf": 0,
+  "IgnoreLocked": 0,
+  "IgnoreUsedBody": 0,
+  "FilterList": [
+   5008
+  ]
+ },
+ {
+  "TargetPickerID": 50011,
+  "TargetPickerType": 10,
+  "PickCamp": 1,
+  "RefTarget": 1,
+  "ExcludeSelf": 0,
+  "IgnoreLocked": 0,
+  "IgnoreUsedBody": 0,
+  "FilterList": [
+   5001
+  ]
+ },
+ {
+  "TargetPickerID": 50021,
+  "TargetPickerType": 10,
+  "PickCamp": 1,
+  "RefTarget": 1,
+  "ExcludeSelf": 0,
+  "IgnoreLocked": 0,
+  "IgnoreUsedBody": 0,
+  "FilterList": [
+   5002
+  ]
+ },
+ {
+  "TargetPickerID": 50031,
+  "TargetPickerType": 10,
+  "PickCamp": 1,
+  "RefTarget": 1,
+  "ExcludeSelf": 0,
+  "IgnoreLocked": 0,
+  "IgnoreUsedBody": 0,
+  "FilterList": [
+   5003
+  ]
+ },
+ {
+  "TargetPickerID": 50041,
+  "TargetPickerType": 10,
+  "PickCamp": 1,
+  "RefTarget": 1,
+  "ExcludeSelf": 0,
+  "IgnoreLocked": 0,
+  "IgnoreUsedBody": 0,
+  "FilterList": [
+   5004
+  ]
+ },
+ {
+  "TargetPickerID": 410,
+  "TargetPickerType": 10,
+  "PickCamp": 1,
+  "RefTarget": 1,
+  "ExcludeSelf": 1,
+  "IgnoreLocked": 0,
+  "IgnoreUsedBody": 0,
+  "FilterList": [
+   410
+  ]
+ },
+ {
+  "TargetPickerID": 420,
+  "TargetPickerType": 10,
+  "PickCamp": 1,
+  "RefTarget": 1,
+  "ExcludeSelf": 1,
+  "IgnoreLocked": 0,
+  "IgnoreUsedBody": 0,
+  "FilterList": [
+   411
+  ]
+ },
+ {
+  "TargetPickerID": 1001,
+  "TargetPickerType": 10,
+  "PickCamp": 1,
+  "RefTarget": 1,
+  "ExcludeSelf": 1,
+  "IgnoreLocked": 0,
+  "IgnoreUsedBody": 0,
+  "FilterList": [
+   1001
+  ]
+ },
+ {
+  "TargetPickerID": 199,
+  "TargetPickerType": 10,
+  "PickCamp": 2,
+  "RefTarget": 1,
+  "ExcludeSelf": 0,
+  "IgnoreLocked": 1,
+  "IgnoreUsedBody": 0,
+  "FilterList": [
+   199
+  ]
+ },
+ {
+  "TargetPickerID": 190103110,
+  "TargetPickerType": 10,
+  "PickCamp": 2,
+  "RefTarget": 1,
+  "ExcludeSelf": 1,
+  "IgnoreLocked": 0,
+  "IgnoreUsedBody": 0,
+  "FilterList": [
+   190103110
+  ]
+ },
+ {
+  "TargetPickerID": 30021,
+  "TargetPickerType": 10,
+  "PickCamp": 1,
+  "RefTarget": 1,
+  "ExcludeSelf": 0,
+  "IgnoreLocked": 0,
+  "IgnoreUsedBody": 0,
+  "FilterList": [
+   30021
+  ]
+ },
+ {
+  "TargetPickerID": 30026,
+  "TargetPickerType": 10,
+  "PickCamp": 1,
+  "RefTarget": 1,
+  "ExcludeSelf": 0,
+  "IgnoreLocked": 0,
+  "IgnoreUsedBody": 0,
+  "FilterList": [
+   30026
+  ]
+ },
+ {
+  "TargetPickerID": 190101,
+  "TargetPickerType": 10,
+  "PickCamp": 1,
+  "RefTarget": 1,
+  "ExcludeSelf": 0,
+  "IgnoreLocked": 0,
+  "IgnoreUsedBody": 0,
+  "FilterList": [
+   190101
+  ]
+ },
+ {
+  "TargetPickerID": 140702310,
+  "TargetPickerType": 10,
+  "PickCamp": 1,
+  "RefTarget": 1,
+  "ExcludeSelf": 0,
+  "IgnoreLocked": 0,
+  "IgnoreUsedBody": 0,
+  "FilterList": [
+   140702310
+  ]
+ },
+ {
+  "TargetPickerID": 400000,
+  "TargetPickerType": 10,
+  "PickCamp": 1,
+  "RefTarget": 1,
+  "ExcludeSelf": 0,
+  "IgnoreLocked": 0,
+  "IgnoreUsedBody": 0,
+  "FilterList": [
+   400000
+  ]
+ },
+ {
+  "TargetPickerID": 500000,
+  "TargetPickerType": 10,
+  "PickCamp": 1,
+  "RefTarget": 1,
+  "ExcludeSelf": 0,
+  "IgnoreLocked": 0,
+  "IgnoreUsedBody": 0,
+  "FilterList": [
+   500000
+  ]
+ },
+ {
+  "TargetPickerID": 600000,
+  "TargetPickerType": 10,
+  "PickCamp": 2,
+  "RefTarget": 1,
+  "ExcludeSelf": 0,
+  "IgnoreLocked": 0,
+  "IgnoreUsedBody": 0,
+  "FilterList": [
+   600000
+  ]
+ },
+ {
+  "TargetPickerID": 600001,
+  "TargetPickerType": 10,
+  "PickCamp": 2,
+  "RefTarget": 1,
+  "ExcludeSelf": 0,
+  "IgnoreLocked": 0,
+  "IgnoreUsedBody": 0,
+  "FilterList": [
+   600001
+  ]
+ },
+ {
+  "TargetPickerID": 600002,
+  "TargetPickerType": 10,
+  "PickCamp": 2,
+  "RefTarget": 1,
+  "ExcludeSelf": 0,
+  "IgnoreLocked": 1,
+  "IgnoreUsedBody": 0,
+  "FilterList": [
+   600002
+  ]
+ },
+ {
+  "TargetPickerID": 900000,
+  "TargetPickerType": 10,
+  "PickCamp": 2,
+  "RefTarget": 1,
+  "ExcludeSelf": 0,
+  "IgnoreLocked": 0,
+  "IgnoreUsedBody": 0,
+  "FilterList": [
+   900000
+  ]
+ },
+ {
+  "TargetPickerID": 600003,
+  "TargetPickerType": 10,
+  "PickCamp": 1,
+  "RefTarget": 1,
+  "ExcludeSelf": 0,
+  "IgnoreLocked": 0,
+  "IgnoreUsedBody": 0,
+  "FilterList": [
+   600003
+  ]
+ },
+ {
+  "TargetPickerID": 100005901,
+  "TargetPickerType": 10,
+  "PickCamp": 2,
+  "RefTarget": 1,
+  "ExcludeSelf": 0,
+  "IgnoreLocked": 0,
+  "IgnoreUsedBody": 0,
+  "FilterList": [
+   100005901
+  ]
+ },
+ {
+  "TargetPickerID": 140701510,
+  "TargetPickerType": 10,
+  "PickCamp": 2,
+  "RefTarget": 1,
+  "ExcludeSelf": 0,
+  "IgnoreLocked": 0,
+  "IgnoreUsedBody": 0,
+  "FilterList": [
+   140701510
+  ]
+ },
+ {
+  "TargetPickerID": 4032000,
+  "TargetPickerType": 20,
+  "PickCamp": 0,
+  "RefTarget": 1,
+  "ExcludeSelf": 1,
+  "IgnoreLocked": 0,
+  "IgnoreUsedBody": 0,
+  "FilterList": [
+   403,
+   2000
+  ]
+ },
+ {
+  "TargetPickerID": 1,
+  "TargetPickerType": 10,
+  "PickCamp": 1,
+  "RefTarget": 1,
+  "ExcludeSelf": 0,
+  "IgnoreLocked": 0,
+  "IgnoreUsedBody": 0,
+  "FilterList": [
+   1
+  ]
+ },
+ {
+  "TargetPickerID": 601,
+  "TargetPickerType": 10,
+  "PickCamp": 1,
+  "RefTarget": 1,
+  "ExcludeSelf": 0,
+  "IgnoreLocked": 0,
+  "IgnoreUsedBody": 0,
+  "FilterList": [
+   1,
+   600
+  ]
+ },
+ {
+  "TargetPickerID": 1000001,
+  "TargetPickerType": 10,
+  "PickCamp": 2,
+  "RefTarget": 1,
+  "ExcludeSelf": 0,
+  "IgnoreLocked": 0,
+  "IgnoreUsedBody": 0,
+  "FilterList": [
+   1
+  ]
+ },
+ {
+  "TargetPickerID": 2,
+  "TargetPickerType": 10,
+  "PickCamp": 1,
+  "RefTarget": 1,
+  "ExcludeSelf": 0,
+  "IgnoreLocked": 0,
+  "IgnoreUsedBody": 0,
+  "FilterList": [
+   2
+  ]
+ },
+ {
+  "TargetPickerID": 602,
+  "TargetPickerType": 10,
+  "PickCamp": 1,
+  "RefTarget": 1,
+  "ExcludeSelf": 0,
+  "IgnoreLocked": 0,
+  "IgnoreUsedBody": 0,
+  "FilterList": [
+   2,
+   600
+  ]
+ },
+ {
+  "TargetPickerID": 2000001,
+  "TargetPickerType": 10,
+  "PickCamp": 2,
+  "RefTarget": 1,
+  "ExcludeSelf": 0,
+  "IgnoreLocked": 0,
+  "IgnoreUsedBody": 0,
+  "FilterList": [
+   2
+  ]
+ },
+ {
+  "TargetPickerID": 3,
+  "TargetPickerType": 10,
+  "PickCamp": 1,
+  "RefTarget": 1,
+  "ExcludeSelf": 0,
+  "IgnoreLocked": 0,
+  "IgnoreUsedBody": 0,
+  "FilterList": [
+   3
+  ]
+ },
+ {
+  "TargetPickerID": 603,
+  "TargetPickerType": 10,
+  "PickCamp": 1,
+  "RefTarget": 1,
+  "ExcludeSelf": 0,
+  "IgnoreLocked": 0,
+  "IgnoreUsedBody": 0,
+  "FilterList": [
+   3,
+   600
+  ]
+ },
+ {
+  "TargetPickerID": 3000001,
+  "TargetPickerType": 10,
+  "PickCamp": 2,
+  "RefTarget": 1,
+  "ExcludeSelf": 0,
+  "IgnoreLocked": 0,
+  "IgnoreUsedBody": 0,
+  "FilterList": [
+   3
+  ]
+ },
+ {
+  "TargetPickerID": 4,
+  "TargetPickerType": 10,
+  "PickCamp": 1,
+  "RefTarget": 1,
+  "ExcludeSelf": 0,
+  "IgnoreLocked": 0,
+  "IgnoreUsedBody": 0,
+  "FilterList": [
+   4
+  ]
+ },
+ {
+  "TargetPickerID": 604,
+  "TargetPickerType": 10,
+  "PickCamp": 1,
+  "RefTarget": 1,
+  "ExcludeSelf": 0,
+  "IgnoreLocked": 0,
+  "IgnoreUsedBody": 0,
+  "FilterList": [
+   4,
+   600
+  ]
+ },
+ {
+  "TargetPickerID": 4000001,
+  "TargetPickerType": 10,
+  "PickCamp": 2,
+  "RefTarget": 1,
+  "ExcludeSelf": 0,
+  "IgnoreLocked": 0,
+  "IgnoreUsedBody": 0,
+  "FilterList": [
+   4
+  ]
+ },
+ {
+  "TargetPickerID": 5,
+  "TargetPickerType": 10,
+  "PickCamp": 1,
+  "RefTarget": 1,
+  "ExcludeSelf": 0,
+  "IgnoreLocked": 0,
+  "IgnoreUsedBody": 0,
+  "FilterList": [
+   5
+  ]
+ },
+ {
+  "TargetPickerID": 605,
+  "TargetPickerType": 10,
+  "PickCamp": 1,
+  "RefTarget": 1,
+  "ExcludeSelf": 0,
+  "IgnoreLocked": 0,
+  "IgnoreUsedBody": 0,
+  "FilterList": [
+   5,
+   600
+  ]
+ },
+ {
+  "TargetPickerID": 5000001,
+  "TargetPickerType": 10,
+  "PickCamp": 2,
+  "RefTarget": 1,
+  "ExcludeSelf": 0,
+  "IgnoreLocked": 0,
+  "IgnoreUsedBody": 0,
+  "FilterList": [
+   5
+  ]
+ },
+ {
+  "TargetPickerID": 6,
+  "TargetPickerType": 10,
+  "PickCamp": 1,
+  "RefTarget": 1,
+  "ExcludeSelf": 0,
+  "IgnoreLocked": 0,
+  "IgnoreUsedBody": 0,
+  "FilterList": [
+   6
+  ]
+ },
+ {
+  "TargetPickerID": 606,
+  "TargetPickerType": 10,
+  "PickCamp": 1,
+  "RefTarget": 1,
+  "ExcludeSelf": 0,
+  "IgnoreLocked": 0,
+  "IgnoreUsedBody": 0,
+  "FilterList": [
+   6,
+   600
+  ]
+ },
+ {
+  "TargetPickerID": 7,
+  "TargetPickerType": 10,
+  "PickCamp": 1,
+  "RefTarget": 1,
+  "ExcludeSelf": 0,
+  "IgnoreLocked": 0,
+  "IgnoreUsedBody": 0,
+  "FilterList": [
+   7
+  ]
+ },
+ {
+  "TargetPickerID": 607,
+  "TargetPickerType": 10,
+  "PickCamp": 1,
+  "RefTarget": 1,
+  "ExcludeSelf": 0,
+  "IgnoreLocked": 0,
+  "IgnoreUsedBody": 0,
+  "FilterList": [
+   7,
+   600
+  ]
+ },
+ {
+  "TargetPickerID": 8,
+  "TargetPickerType": 10,
+  "PickCamp": 1,
+  "RefTarget": 1,
+  "ExcludeSelf": 0,
+  "IgnoreLocked": 0,
+  "IgnoreUsedBody": 0,
+  "FilterList": [
+   8
+  ]
+ },
+ {
+  "TargetPickerID": 8000001,
+  "TargetPickerType": 10,
+  "PickCamp": 2,
+  "RefTarget": 1,
+  "ExcludeSelf": 0,
+  "IgnoreLocked": 0,
+  "IgnoreUsedBody": 0,
+  "FilterList": [
+   8
+  ]
+ },
+ {
+  "TargetPickerID": 608,
+  "TargetPickerType": 10,
+  "PickCamp": 1,
+  "RefTarget": 1,
+  "ExcludeSelf": 0,
+  "IgnoreLocked": 0,
+  "IgnoreUsedBody": 0,
+  "FilterList": [
+   8,
+   600
+  ]
+ },
+ {
+  "TargetPickerID": 200081,
+  "TargetPickerType": 10,
+  "PickCamp": 1,
+  "RefTarget": 1,
+  "ExcludeSelf": 0,
+  "IgnoreLocked": 0,
+  "IgnoreUsedBody": 0,
+  "FilterList": [
+   8,
+   10981003
+  ]
+ },
+ {
+  "TargetPickerID": 600,
+  "TargetPickerType": 10,
+  "PickCamp": 1,
+  "RefTarget": 1,
+  "ExcludeSelf": 0,
+  "IgnoreLocked": 0,
+  "IgnoreUsedBody": 0,
+  "FilterList": [
+   600
+  ]
+ },
+ {
+  "TargetPickerID": 9,
+  "TargetPickerType": 10,
+  "PickCamp": 1,
+  "RefTarget": 1,
+  "ExcludeSelf": 0,
+  "IgnoreLocked": 0,
+  "IgnoreUsedBody": 0,
+  "FilterList": [
+   9
+  ]
+ },
+ {
+  "TargetPickerID": 100,
+  "TargetPickerType": 10,
+  "PickCamp": 1,
+  "RefTarget": 1,
+  "ExcludeSelf": 0,
+  "IgnoreLocked": 0,
+  "IgnoreUsedBody": 0,
+  "FilterList": [
+   10
+  ]
+ },
+ {
+  "TargetPickerID": 101,
+  "TargetPickerType": 10,
+  "PickCamp": 1,
+  "RefTarget": 1,
+  "ExcludeSelf": 0,
+  "IgnoreLocked": 0,
+  "IgnoreUsedBody": 0,
+  "FilterList": [
+   11
+  ]
+ },
+ {
+  "TargetPickerID": 102,
+  "TargetPickerType": 10,
+  "PickCamp": 1,
+  "RefTarget": 1,
+  "ExcludeSelf": 0,
+  "IgnoreLocked": 0,
+  "IgnoreUsedBody": 0,
+  "FilterList": [
+   12
+  ]
+ },
+ {
+  "TargetPickerID": 103,
+  "TargetPickerType": 10,
+  "PickCamp": 1,
+  "RefTarget": 1,
+  "ExcludeSelf": 0,
+  "IgnoreLocked": 0,
+  "IgnoreUsedBody": 0,
+  "FilterList": [
+   14
+  ]
+ },
+ {
+  "TargetPickerID": 104,
+  "TargetPickerType": 10,
+  "PickCamp": 1,
+  "RefTarget": 1,
+  "ExcludeSelf": 0,
+  "IgnoreLocked": 0,
+  "IgnoreUsedBody": 0,
+  "FilterList": [
+   14
+  ]
+ },
+ {
+  "TargetPickerID": 105,
+  "TargetPickerType": 10,
+  "PickCamp": 1,
+  "RefTarget": 1,
+  "ExcludeSelf": 0,
+  "IgnoreLocked": 0,
+  "IgnoreUsedBody": 0,
+  "FilterList": [
+   15
+  ]
+ },
+ {
+  "TargetPickerID": 100020132,
+  "TargetPickerType": 10,
+  "PickCamp": 2,
+  "RefTarget": 1,
+  "ExcludeSelf": 0,
+  "IgnoreLocked": 0,
+  "IgnoreUsedBody": 0,
+  "FilterList": [
+   100020132
+  ]
+ },
+ {
+  "TargetPickerID": 570241,
+  "TargetPickerType": 10,
+  "PickCamp": 1,
+  "RefTarget": 1,
+  "ExcludeSelf": 0,
+  "IgnoreLocked": 0,
+  "IgnoreUsedBody": 0,
+  "FilterList": [
+   570241
+  ]
+ },
+ {
+  "TargetPickerID": 2100,
+  "TargetPickerType": 10,
+  "PickCamp": 1,
+  "RefTarget": 1,
+  "ExcludeSelf": 0,
+  "IgnoreLocked": 0,
+  "IgnoreUsedBody": 0,
+  "FilterList": [
+   2100,
+   2
+  ]
+ },
+ {
+  "TargetPickerID": 2200,
+  "TargetPickerType": 10,
+  "PickCamp": 1,
+  "RefTarget": 1,
+  "ExcludeSelf": 0,
+  "IgnoreLocked": 0,
+  "IgnoreUsedBody": 0,
+  "FilterList": [
+   2200,
+   5
+  ]
+ },
+ {
+  "TargetPickerID": 90070,
+  "TargetPickerType": 10,
+  "PickCamp": 1,
+  "RefTarget": 1,
+  "ExcludeSelf": 0,
+  "IgnoreLocked": 0,
+  "IgnoreUsedBody": 0,
+  "FilterList": [
+   90070
+  ]
+ },
+ {
+  "TargetPickerID": 90071,
+  "TargetPickerType": 10,
+  "PickCamp": 1,
+  "RefTarget": 1,
+  "ExcludeSelf": 0,
+  "IgnoreLocked": 0,
+  "IgnoreUsedBody": 0,
+  "FilterList": [
+   90071
+  ]
+ },
+ {
+  "TargetPickerID": 90072,
+  "TargetPickerType": 10,
+  "PickCamp": 2,
+  "RefTarget": 1,
+  "ExcludeSelf": 0,
+  "IgnoreLocked": 0,
+  "IgnoreUsedBody": 0,
+  "FilterList": [
+   90070
+  ]
+ },
+ {
+  "TargetPickerID": 2101,
+  "TargetPickerType": 10,
+  "PickCamp": 1,
+  "RefTarget": 1,
+  "ExcludeSelf": 0,
+  "IgnoreLocked": 0,
+  "IgnoreUsedBody": 0,
+  "FilterList": [
+   2100
+  ]
+ },
+ {
+  "TargetPickerID": 21011,
+  "TargetPickerType": 10,
+  "PickCamp": 2,
+  "RefTarget": 1,
+  "ExcludeSelf": 0,
+  "IgnoreLocked": 0,
+  "IgnoreUsedBody": 0,
+  "FilterList": [
+   2100
+  ]
+ },
+ {
+  "TargetPickerID": 2102,
+  "TargetPickerType": 10,
+  "PickCamp": 2,
+  "RefTarget": 1,
+  "ExcludeSelf": 0,
+  "IgnoreLocked": 0,
+  "IgnoreUsedBody": 0,
+  "FilterList": [
+   2102
+  ]
+ },
+ {
+  "TargetPickerID": 23,
+  "TargetPickerType": 10,
+  "PickCamp": 0,
+  "RefTarget": 1,
+  "ExcludeSelf": 0,
+  "IgnoreLocked": 0,
+  "IgnoreUsedBody": 0,
+  "FilterList": [
+   23
+  ]
+ },
+ {
+  "TargetPickerID": 26,
+  "TargetPickerType": 10,
+  "PickCamp": 1,
+  "RefTarget": 1,
+  "ExcludeSelf": 0,
+  "IgnoreLocked": 0,
+  "IgnoreUsedBody": 0,
+  "FilterList": [
+   26
+  ]
+ },
+ {
+  "TargetPickerID": 21001,
+  "TargetPickerType": 10,
+  "PickCamp": 2,
+  "RefTarget": 1,
+  "ExcludeSelf": 0,
+  "IgnoreLocked": 0,
+  "IgnoreUsedBody": 0,
+  "FilterList": [
+   2100
+  ]
+ },
+ {
+  "TargetPickerID": 506005,
+  "TargetPickerType": 10,
+  "PickCamp": 1,
+  "RefTarget": 1,
+  "ExcludeSelf": 0,
+  "IgnoreLocked": 0,
+  "IgnoreUsedBody": 0,
+  "FilterList": [
+   506005
+  ]
+ },
+ {
+  "TargetPickerID": 4006,
+  "TargetPickerType": 10,
+  "PickCamp": 1,
+  "RefTarget": 1,
+  "ExcludeSelf": 0,
+  "IgnoreLocked": 0,
+  "IgnoreUsedBody": 0,
+  "FilterList": [
+   400,
+   6
+  ]
+ },
+ {
+  "TargetPickerID": 100060140,
+  "TargetPickerType": 10,
+  "PickCamp": 2,
+  "RefTarget": 1,
+  "ExcludeSelf": 0,
+  "IgnoreLocked": 0,
+  "IgnoreUsedBody": 0,
+  "FilterList": [
+   2100,
+   100060140
+  ]
+ },
+ {
+  "TargetPickerID": 100350,
+  "TargetPickerType": 10,
+  "PickCamp": 2,
+  "RefTarget": 1,
+  "ExcludeSelf": 0,
+  "IgnoreLocked": 0,
+  "IgnoreUsedBody": 0,
+  "FilterList": [
+   100350
+  ]
+ },
+ {
+  "TargetPickerID": 100340,
+  "TargetPickerType": 10,
+  "PickCamp": 2,
+  "RefTarget": 1,
+  "ExcludeSelf": 0,
+  "IgnoreLocked": 0,
+  "IgnoreUsedBody": 0,
+  "FilterList": [
+   100340
+  ]
+ },
+ {
+  "TargetPickerID": 100330,
+  "TargetPickerType": 10,
+  "PickCamp": 2,
+  "RefTarget": 1,
+  "ExcludeSelf": 0,
+  "IgnoreLocked": 0,
+  "IgnoreUsedBody": 0,
+  "FilterList": [
+   100330
+  ]
+ },
+ {
+  "TargetPickerID": 100320,
+  "TargetPickerType": 10,
+  "PickCamp": 2,
+  "RefTarget": 1,
+  "ExcludeSelf": 0,
+  "IgnoreLocked": 0,
+  "IgnoreUsedBody": 0,
+  "FilterList": [
+   100320
+  ]
+ },
+ {
+  "TargetPickerID": 100310,
+  "TargetPickerType": 10,
+  "PickCamp": 1,
+  "RefTarget": 1,
+  "ExcludeSelf": 0,
+  "IgnoreLocked": 0,
+  "IgnoreUsedBody": 0,
+  "FilterList": [
+   100310
+  ]
+ },
+ {
+  "TargetPickerID": 100001,
+  "TargetPickerType": 10,
+  "PickCamp": 2,
+  "RefTarget": 1,
+  "ExcludeSelf": 0,
+  "IgnoreLocked": 0,
+  "IgnoreUsedBody": 0,
+  "FilterList": [
+   410101,
+   10041
+  ]
+ },
+ {
+  "TargetPickerID": 100005,
+  "TargetPickerType": 10,
+  "PickCamp": 2,
+  "RefTarget": 1,
+  "ExcludeSelf": 0,
+  "IgnoreLocked": 0,
+  "IgnoreUsedBody": 0,
+  "FilterList": [
+   440201,
+   10041
+  ]
+ },
+ {
+  "TargetPickerID": 1095,
+  "TargetPickerType": 10,
+  "PickCamp": 1,
+  "RefTarget": 1,
+  "ExcludeSelf": 0,
+  "IgnoreLocked": 0,
+  "IgnoreUsedBody": 0,
+  "FilterList": [
+   1095,
+   11011
+  ]
+ },
+ {
+  "TargetPickerID": 40351,
+  "TargetPickerType": 10,
+  "PickCamp": 1,
+  "RefTarget": 1,
+  "ExcludeSelf": 0,
+  "IgnoreLocked": 0,
+  "IgnoreUsedBody": 0,
+  "FilterList": [
+   11022003,
+   40351
+  ]
+ },
+ {
+  "TargetPickerID": 101211,
+  "TargetPickerType": 10,
+  "PickCamp": 2,
+  "RefTarget": 1,
+  "ExcludeSelf": 0,
+  "IgnoreLocked": 1,
+  "IgnoreUsedBody": 0,
+  "FilterList": [
+   198
+  ]
+ },
+ {
+  "TargetPickerID": 200350,
+  "TargetPickerType": 10,
+  "PickCamp": 1,
+  "RefTarget": 1,
+  "ExcludeSelf": 0,
+  "IgnoreLocked": 0,
+  "IgnoreUsedBody": 0,
+  "FilterList": [
+   100350
+  ]
+ },
+ {
+  "TargetPickerID": 2100400,
+  "TargetPickerType": 10,
+  "PickCamp": 1,
+  "RefTarget": 1,
+  "ExcludeSelf": 0,
+  "IgnoreLocked": 0,
+  "IgnoreUsedBody": 0,
+  "FilterList": [
+   510001,
+   532100
+  ]
+ },
+ {
+  "TargetPickerID": 410101,
+  "TargetPickerType": 10,
+  "PickCamp": 1,
+  "RefTarget": 1,
+  "ExcludeSelf": 0,
+  "IgnoreLocked": 0,
+  "IgnoreUsedBody": 0,
+  "FilterList": [
+   410101
+  ]
+ },
+ {
+  "TargetPickerID": 450101,
+  "TargetPickerType": 10,
+  "PickCamp": 1,
+  "RefTarget": 1,
+  "ExcludeSelf": 0,
+  "IgnoreLocked": 0,
+  "IgnoreUsedBody": 0,
+  "FilterList": [
+   450101
+  ]
+ },
+ {
+  "TargetPickerID": 440401,
+  "TargetPickerType": 10,
+  "PickCamp": 1,
+  "RefTarget": 1,
+  "ExcludeSelf": 0,
+  "IgnoreLocked": 0,
+  "IgnoreUsedBody": 0,
+  "FilterList": [
+   440401
+  ]
+ },
+ {
+  "TargetPickerID": 4404011,
+  "TargetPickerType": 10,
+  "PickCamp": 2,
+  "RefTarget": 1,
+  "ExcludeSelf": 0,
+  "IgnoreLocked": 0,
+  "IgnoreUsedBody": 0,
+  "FilterList": [
+   440401
+  ]
+ },
+ {
+  "TargetPickerID": 430301,
+  "TargetPickerType": 10,
+  "PickCamp": 1,
+  "RefTarget": 1,
+  "ExcludeSelf": 0,
+  "IgnoreLocked": 0,
+  "IgnoreUsedBody": 0,
+  "FilterList": [
+   430301
+  ]
+ },
+ {
+  "TargetPickerID": 440201,
+  "TargetPickerType": 10,
+  "PickCamp": 1,
+  "RefTarget": 1,
+  "ExcludeSelf": 0,
+  "IgnoreLocked": 0,
+  "IgnoreUsedBody": 0,
+  "FilterList": [
+   440201
+  ]
+ },
+ {
+  "TargetPickerID": 410301,
+  "TargetPickerType": 10,
+  "PickCamp": 1,
+  "RefTarget": 1,
+  "ExcludeSelf": 0,
+  "IgnoreLocked": 0,
+  "IgnoreUsedBody": 0,
+  "FilterList": [
+   410301
+  ]
+ },
+ {
+  "TargetPickerID": 420101,
+  "TargetPickerType": 10,
+  "PickCamp": 1,
+  "RefTarget": 1,
+  "ExcludeSelf": 0,
+  "IgnoreLocked": 0,
+  "IgnoreUsedBody": 0,
+  "FilterList": [
+   420101
+  ]
+ },
+ {
+  "TargetPickerID": 410503,
+  "TargetPickerType": 10,
+  "PickCamp": 1,
+  "RefTarget": 1,
+  "ExcludeSelf": 0,
+  "IgnoreLocked": 0,
+  "IgnoreUsedBody": 0,
+  "FilterList": [
+   410503
+  ]
+ },
+ {
+  "TargetPickerID": 42007,
+  "TargetPickerType": 10,
+  "PickCamp": 2,
+  "RefTarget": 1,
+  "ExcludeSelf": 0,
+  "IgnoreLocked": 0,
+  "IgnoreUsedBody": 0,
+  "FilterList": [
+   42007
+  ]
+ },
+ {
+  "TargetPickerID": 12002,
+  "TargetPickerType": 10,
+  "PickCamp": 2,
+  "RefTarget": 1,
+  "ExcludeSelf": 0,
+  "IgnoreLocked": 0,
+  "IgnoreUsedBody": 0,
+  "FilterList": [
+   12002
+  ]
+ },
+ {
+  "TargetPickerID": 140301100,
+  "TargetPickerType": 10,
+  "PickCamp": 1,
+  "RefTarget": 1,
+  "ExcludeSelf": 0,
+  "IgnoreLocked": 0,
+  "IgnoreUsedBody": 0,
+  "FilterList": [
+   14030110
+  ]
+ },
+ {
+  "TargetPickerID": 14030111,
+  "TargetPickerType": 10,
+  "PickCamp": 1,
+  "RefTarget": 1,
+  "ExcludeSelf": 0,
+  "IgnoreLocked": 0,
+  "IgnoreUsedBody": 0,
+  "FilterList": [
+   14030111
+  ]
+ },
+ {
+  "TargetPickerID": 2004,
+  "TargetPickerType": 10,
+  "PickCamp": 2,
+  "RefTarget": 1,
+  "ExcludeSelf": 0,
+  "IgnoreLocked": 0,
+  "IgnoreUsedBody": 0,
+  "FilterList": [
+   2004
+  ]
+ },
+ {
+  "TargetPickerID": 2007,
+  "TargetPickerType": 10,
+  "PickCamp": 2,
+  "RefTarget": 1,
+  "ExcludeSelf": 0,
+  "IgnoreLocked": 0,
+  "IgnoreUsedBody": 0,
+  "FilterList": [
+   10041,
+   2007
+  ]
+ },
+ {
+  "TargetPickerID": 9004,
+  "TargetPickerType": 10,
+  "PickCamp": 1,
+  "RefTarget": 1,
+  "ExcludeSelf": 0,
+  "IgnoreLocked": 0,
+  "IgnoreUsedBody": 0,
+  "FilterList": [
+   9004
+  ]
+ },
+ {
+  "TargetPickerID": 9005,
+  "TargetPickerType": 10,
+  "PickCamp": 2,
+  "RefTarget": 1,
+  "ExcludeSelf": 0,
+  "IgnoreLocked": 0,
+  "IgnoreUsedBody": 0,
+  "FilterList": [
+   9004
+  ]
+ },
+ {
+  "TargetPickerID": 2003,
+  "TargetPickerType": 10,
+  "PickCamp": 2,
+  "RefTarget": 1,
+  "ExcludeSelf": 0,
+  "IgnoreLocked": 0,
+  "IgnoreUsedBody": 0,
+  "FilterList": [
+   2002
+  ]
+ },
+ {
+  "TargetPickerID": 2002,
+  "TargetPickerType": 10,
+  "PickCamp": 2,
+  "RefTarget": 1,
+  "ExcludeSelf": 0,
+  "IgnoreLocked": 0,
+  "IgnoreUsedBody": 0,
+  "FilterList": [
+   600002
+  ]
+ },
+ {
+  "TargetPickerID": 2008,
+  "TargetPickerType": 10,
+  "PickCamp": 2,
+  "RefTarget": 1,
+  "ExcludeSelf": 0,
+  "IgnoreLocked": 0,
+  "IgnoreUsedBody": 0,
+  "FilterList": [
+   600008
+  ]
+ },
+ {
+  "TargetPickerID": 810203110,
+  "TargetPickerType": 10,
+  "PickCamp": 2,
+  "RefTarget": 1,
+  "ExcludeSelf": 0,
+  "IgnoreLocked": 0,
+  "IgnoreUsedBody": 0,
+  "FilterList": [
+   810203110
+  ]
+ },
+ {
+  "TargetPickerID": 100042,
+  "TargetPickerType": 10,
+  "PickCamp": 1,
+  "RefTarget": 1,
+  "ExcludeSelf": 0,
+  "IgnoreLocked": 0,
+  "IgnoreUsedBody": 0,
+  "FilterList": [
+   100042
+  ]
+ },
+ {
+  "TargetPickerID": 1000421,
+  "TargetPickerType": 10,
+  "PickCamp": 2,
+  "RefTarget": 1,
+  "ExcludeSelf": 0,
+  "IgnoreLocked": 0,
+  "IgnoreUsedBody": 0,
+  "FilterList": [
+   100042
+  ]
+ },
+ {
+  "TargetPickerID": 30006,
+  "TargetPickerType": 10,
+  "PickCamp": 1,
+  "RefTarget": 1,
+  "ExcludeSelf": 0,
+  "IgnoreLocked": 0,
+  "IgnoreUsedBody": 0,
+  "FilterList": [
+   30006,
+   9004
+  ]
+ },
+ {
+  "TargetPickerID": 810203,
+  "TargetPickerType": 10,
+  "PickCamp": 2,
+  "RefTarget": 1,
+  "ExcludeSelf": 0,
+  "IgnoreLocked": 0,
+  "IgnoreUsedBody": 0,
+  "FilterList": [
+   810203
+  ]
+ },
+ {
+  "TargetPickerID": 810204,
+  "TargetPickerType": 10,
+  "PickCamp": 1,
+  "RefTarget": 1,
+  "ExcludeSelf": 0,
+  "IgnoreLocked": 0,
+  "IgnoreUsedBody": 0,
+  "FilterList": [
+   810204
+  ]
+ },
+ {
+  "TargetPickerID": 8102041,
+  "TargetPickerType": 10,
+  "PickCamp": 1,
+  "RefTarget": 1,
+  "ExcludeSelf": 0,
+  "IgnoreLocked": 0,
+  "IgnoreUsedBody": 0,
+  "FilterList": [
+   8102041
+  ]
+ },
+ {
+  "TargetPickerID": 820204111,
+  "TargetPickerType": 10,
+  "PickCamp": 2,
+  "RefTarget": 1,
+  "ExcludeSelf": 0,
+  "IgnoreLocked": 0,
+  "IgnoreUsedBody": 0,
+  "FilterList": [
+   820204111
+  ]
+ },
+ {
+  "TargetPickerID": 90083,
+  "TargetPickerType": 10,
+  "PickCamp": 1,
+  "RefTarget": 1,
+  "ExcludeSelf": 0,
+  "IgnoreLocked": 0,
+  "IgnoreUsedBody": 0,
+  "FilterList": [
+   90083
+  ]
+ },
+ {
+  "TargetPickerID": 830204,
+  "TargetPickerType": 10,
+  "PickCamp": 1,
+  "RefTarget": 1,
+  "ExcludeSelf": 0,
+  "IgnoreLocked": 0,
+  "IgnoreUsedBody": 0,
+  "FilterList": [
+   830204
+  ]
+ },
+ {
+  "TargetPickerID": 830203,
+  "TargetPickerType": 10,
+  "PickCamp": 2,
+  "RefTarget": 1,
+  "ExcludeSelf": 0,
+  "IgnoreLocked": 0,
+  "IgnoreUsedBody": 0,
+  "FilterList": [
+   830203
+  ]
+ },
+ {
+  "TargetPickerID": 2105012,
+  "TargetPickerType": 10,
+  "PickCamp": 1,
+  "RefTarget": 1,
+  "ExcludeSelf": 0,
+  "IgnoreLocked": 0,
+  "IgnoreUsedBody": 0,
+  "FilterList": [
+   2105012
+  ]
+ },
+ {
+  "TargetPickerID": 190,
+  "TargetPickerType": 10,
+  "PickCamp": 1,
+  "RefTarget": 1,
+  "ExcludeSelf": 0,
+  "IgnoreLocked": 0,
+  "IgnoreUsedBody": 0,
+  "FilterList": [
+   190
+  ]
+ },
+ {
+  "TargetPickerID": 110201,
+  "TargetPickerType": 10,
+  "PickCamp": 1,
+  "RefTarget": 1,
+  "ExcludeSelf": 0,
+  "IgnoreLocked": 0,
+  "IgnoreUsedBody": 0,
+  "FilterList": [
+   110201
+  ]
+ },
+ {
+  "TargetPickerID": 110202,
+  "TargetPickerType": 10,
+  "PickCamp": 1,
+  "RefTarget": 1,
+  "ExcludeSelf": 0,
+  "IgnoreLocked": 0,
+  "IgnoreUsedBody": 0,
+  "FilterList": [
+   110202
+  ]
+ },
+ {
+  "TargetPickerID": 210401100,
+  "TargetPickerType": 10,
+  "PickCamp": 2,
+  "RefTarget": 1,
+  "ExcludeSelf": 0,
+  "IgnoreLocked": 0,
+  "IgnoreUsedBody": 0,
+  "FilterList": [
+   210401100
+  ]
+ },
+ {
+  "TargetPickerID": 100325,
+  "TargetPickerType": 10,
+  "PickCamp": 2,
+  "RefTarget": 1,
+  "ExcludeSelf": 0,
+  "IgnoreLocked": 0,
+  "IgnoreUsedBody": 0,
+  "FilterList": [
+   100325
+  ]
+ },
+ {
+  "TargetPickerID": 210000,
+  "TargetPickerType": 5,
+  "PickCamp": 1,
+  "RefTarget": 2,
+  "ExcludeSelf": 0,
+  "IgnoreLocked": 0,
+  "IgnoreUsedBody": 0,
+  "FilterList": []
+ },
+ {
+  "TargetPickerID": 120603,
+  "TargetPickerType": 10,
+  "PickCamp": 1,
+  "RefTarget": 1,
+  "ExcludeSelf": 0,
+  "IgnoreLocked": 0,
+  "IgnoreUsedBody": 0,
+  "FilterList": [
+   120603
+  ]
+ },
+ {
+  "TargetPickerID": 1206031,
+  "TargetPickerType": 10,
+  "PickCamp": 2,
+  "RefTarget": 1,
+  "ExcludeSelf": 0,
+  "IgnoreLocked": 0,
+  "IgnoreUsedBody": 0,
+  "FilterList": [
+   120603
+  ]
+ },
+ {
+  "TargetPickerID": 130601,
+  "TargetPickerType": 10,
+  "PickCamp": 1,
+  "RefTarget": 1,
+  "ExcludeSelf": 0,
+  "IgnoreLocked": 0,
+  "IgnoreUsedBody": 0,
+  "FilterList": [
+   130601
+  ]
+ },
+ {
+  "TargetPickerID": 1306011,
+  "TargetPickerType": 10,
+  "PickCamp": 0,
+  "RefTarget": 1,
+  "ExcludeSelf": 0,
+  "IgnoreLocked": 0,
+  "IgnoreUsedBody": 0,
+  "FilterList": [
+   130601
+  ]
+ },
+ {
+  "TargetPickerID": 130202,
+  "TargetPickerType": 10,
+  "PickCamp": 1,
+  "RefTarget": 1,
+  "ExcludeSelf": 0,
+  "IgnoreLocked": 0,
+  "IgnoreUsedBody": 0,
+  "FilterList": [
+   130202
+  ]
+ },
+ {
+  "TargetPickerID": 1302021,
+  "TargetPickerType": 10,
+  "PickCamp": 2,
+  "RefTarget": 1,
+  "ExcludeSelf": 0,
+  "IgnoreLocked": 0,
+  "IgnoreUsedBody": 0,
+  "FilterList": [
+   130202
+  ]
+ },
+ {
+  "TargetPickerID": 130001,
+  "TargetPickerType": 10,
+  "PickCamp": 1,
+  "RefTarget": 1,
+  "ExcludeSelf": 0,
+  "IgnoreLocked": 0,
+  "IgnoreUsedBody": 0,
+  "FilterList": [
+   130001
+  ]
+ },
+ {
+  "TargetPickerID": 130005,
+  "TargetPickerType": 10,
+  "PickCamp": 1,
+  "RefTarget": 1,
+  "ExcludeSelf": 0,
+  "IgnoreLocked": 0,
+  "IgnoreUsedBody": 0,
+  "FilterList": [
+   130005
+  ]
+ },
+ {
+  "TargetPickerID": 130007,
+  "TargetPickerType": 10,
+  "PickCamp": 1,
+  "RefTarget": 1,
+  "ExcludeSelf": 0,
+  "IgnoreLocked": 0,
+  "IgnoreUsedBody": 0,
+  "FilterList": [
+   130007
+  ]
+ },
+ {
+  "TargetPickerID": 300061,
+  "TargetPickerType": 10,
+  "PickCamp": 1,
+  "RefTarget": 1,
+  "ExcludeSelf": 0,
+  "IgnoreLocked": 0,
+  "IgnoreUsedBody": 0,
+  "FilterList": [
+   300061
+  ]
+ },
+ {
+  "TargetPickerID": 120001,
+  "TargetPickerType": 10,
+  "PickCamp": 1,
+  "RefTarget": 1,
+  "ExcludeSelf": 0,
+  "IgnoreLocked": 0,
+  "IgnoreUsedBody": 0,
+  "FilterList": [
+   120001
+  ]
+ },
+ {
+  "TargetPickerID": 140301112,
+  "TargetPickerType": 10,
+  "PickCamp": 1,
+  "RefTarget": 1,
+  "ExcludeSelf": 0,
+  "IgnoreLocked": 0,
+  "IgnoreUsedBody": 0,
+  "FilterList": [
+   140301112
+  ]
+ },
+ {
+  "TargetPickerID": 140301,
+  "TargetPickerType": 10,
+  "PickCamp": 1,
+  "RefTarget": 1,
+  "ExcludeSelf": 0,
+  "IgnoreLocked": 0,
+  "IgnoreUsedBody": 0,
+  "FilterList": [
+   140301
+  ]
+ },
+ {
+  "TargetPickerID": 110001,
+  "TargetPickerType": 10,
+  "PickCamp": 1,
+  "RefTarget": 1,
+  "ExcludeSelf": 0,
+  "IgnoreLocked": 0,
+  "IgnoreUsedBody": 0,
+  "FilterList": [
+   110001
+  ]
+ },
+ {
+  "TargetPickerID": 1100011,
+  "TargetPickerType": 10,
+  "PickCamp": 1,
+  "RefTarget": 1,
+  "ExcludeSelf": 0,
+  "IgnoreLocked": 0,
+  "IgnoreUsedBody": 0,
+  "FilterList": [
+   1100011,
+   10981003
+  ]
+ },
+ {
+  "TargetPickerID": 130603100,
+  "TargetPickerType": 10,
+  "PickCamp": 2,
+  "RefTarget": 1,
+  "ExcludeSelf": 0,
+  "IgnoreLocked": 0,
+  "IgnoreUsedBody": 0,
+  "FilterList": [
+   130603100
+  ]
+ },
+ {
+  "TargetPickerID": 1304011,
+  "TargetPickerType": 10,
+  "PickCamp": 2,
+  "RefTarget": 1,
+  "ExcludeSelf": 0,
+  "IgnoreLocked": 0,
+  "IgnoreUsedBody": 0,
+  "FilterList": [
+   1304011
+  ]
+ },
+ {
+  "TargetPickerID": 130702610,
+  "TargetPickerType": 10,
+  "PickCamp": 2,
+  "RefTarget": 1,
+  "ExcludeSelf": 0,
+  "IgnoreLocked": 0,
+  "IgnoreUsedBody": 0,
+  "FilterList": [
+   130702110
+  ]
+ },
+ {
+  "TargetPickerID": 120702,
+  "TargetPickerType": 10,
+  "PickCamp": 1,
+  "RefTarget": 1,
+  "ExcludeSelf": 0,
+  "IgnoreLocked": 0,
+  "IgnoreUsedBody": 0,
+  "FilterList": [
+   120702
+  ]
+ },
+ {
+  "TargetPickerID": 1207021,
+  "TargetPickerType": 10,
+  "PickCamp": 2,
+  "RefTarget": 1,
+  "ExcludeSelf": 0,
+  "IgnoreLocked": 0,
+  "IgnoreUsedBody": 0,
+  "FilterList": [
+   1207021
+  ]
+ },
+ {
+  "TargetPickerID": 130401,
+  "TargetPickerType": 10,
+  "PickCamp": 1,
+  "RefTarget": 1,
+  "ExcludeSelf": 0,
+  "IgnoreLocked": 0,
+  "IgnoreUsedBody": 0,
+  "FilterList": [
+   130401
+  ]
+ },
+ {
+  "TargetPickerID": 130402,
+  "TargetPickerType": 10,
+  "PickCamp": 1,
+  "RefTarget": 1,
+  "ExcludeSelf": 0,
+  "IgnoreLocked": 0,
+  "IgnoreUsedBody": 0,
+  "FilterList": [
+   130402
+  ]
+ },
+ {
+  "TargetPickerID": 110603,
+  "TargetPickerType": 10,
+  "PickCamp": 1,
+  "RefTarget": 1,
+  "ExcludeSelf": 0,
+  "IgnoreLocked": 0,
+  "IgnoreUsedBody": 0,
+  "FilterList": [
+   110603
+  ]
+ },
+ {
+  "TargetPickerID": 110701,
+  "TargetPickerType": 10,
+  "PickCamp": 1,
+  "RefTarget": 1,
+  "ExcludeSelf": 0,
+  "IgnoreLocked": 0,
+  "IgnoreUsedBody": 0,
+  "FilterList": [
+   110701
+  ]
+ },
+ {
+  "TargetPickerID": 77,
+  "TargetPickerType": 10,
+  "PickCamp": 1,
+  "RefTarget": 1,
+  "ExcludeSelf": 0,
+  "IgnoreLocked": 0,
+  "IgnoreUsedBody": 0,
+  "FilterList": [
+   77
+  ]
+ },
+ {
+  "TargetPickerID": 140201,
+  "TargetPickerType": 10,
+  "PickCamp": 1,
+  "RefTarget": 1,
+  "ExcludeSelf": 0,
+  "IgnoreLocked": 0,
+  "IgnoreUsedBody": 0,
+  "FilterList": [
+   140201
+  ]
+ },
+ {
+  "TargetPickerID": 140202,
+  "TargetPickerType": 10,
+  "PickCamp": 1,
+  "RefTarget": 1,
+  "ExcludeSelf": 0,
+  "IgnoreLocked": 0,
+  "IgnoreUsedBody": 0,
+  "FilterList": [
+   140202
+  ]
+ },
+ {
+  "TargetPickerID": 140403,
+  "TargetPickerType": 10,
+  "PickCamp": 1,
+  "RefTarget": 1,
+  "ExcludeSelf": 0,
+  "IgnoreLocked": 0,
+  "IgnoreUsedBody": 0,
+  "FilterList": [
+   140403
+  ]
+ },
+ {
+  "TargetPickerID": 140702,
+  "TargetPickerType": 10,
+  "PickCamp": 1,
+  "RefTarget": 1,
+  "ExcludeSelf": 0,
+  "IgnoreLocked": 0,
+  "IgnoreUsedBody": 0,
+  "FilterList": [
+   140702
+  ]
+ },
+ {
+  "TargetPickerID": 1000154,
+  "TargetPickerType": 10,
+  "PickCamp": 1,
+  "RefTarget": 1,
+  "ExcludeSelf": 0,
+  "IgnoreLocked": 0,
+  "IgnoreUsedBody": 0,
+  "FilterList": [
+   1000154
+  ]
+ },
+ {
+  "TargetPickerID": 120302,
+  "TargetPickerType": 10,
+  "PickCamp": 1,
+  "RefTarget": 1,
+  "ExcludeSelf": 0,
+  "IgnoreLocked": 0,
+  "IgnoreUsedBody": 0,
+  "FilterList": [
+   120302
+  ]
+ },
+ {
+  "TargetPickerID": 110302,
+  "TargetPickerType": 10,
+  "PickCamp": 1,
+  "RefTarget": 1,
+  "ExcludeSelf": 0,
+  "IgnoreLocked": 0,
+  "IgnoreUsedBody": 0,
+  "FilterList": [
+   110302
+  ]
+ },
+ {
+  "TargetPickerID": 130501,
+  "TargetPickerType": 10,
+  "PickCamp": 1,
+  "RefTarget": 1,
+  "ExcludeSelf": 0,
+  "IgnoreLocked": 0,
+  "IgnoreUsedBody": 0,
+  "FilterList": [
+   130501
+  ]
+ },
+ {
+  "TargetPickerID": 110402,
+  "TargetPickerType": 10,
+  "PickCamp": 1,
+  "RefTarget": 1,
+  "ExcludeSelf": 0,
+  "IgnoreLocked": 0,
+  "IgnoreUsedBody": 0,
+  "FilterList": [
+   110402
+  ]
+ },
+ {
+  "TargetPickerID": 140304,
+  "TargetPickerType": 10,
+  "PickCamp": 1,
+  "RefTarget": 1,
+  "ExcludeSelf": 0,
+  "IgnoreLocked": 0,
+  "IgnoreUsedBody": 0,
+  "FilterList": [
+   140304
+  ]
+ },
+ {
+  "TargetPickerID": 130603,
+  "TargetPickerType": 10,
+  "PickCamp": 1,
+  "RefTarget": 1,
+  "ExcludeSelf": 0,
+  "IgnoreLocked": 0,
+  "IgnoreUsedBody": 0,
+  "FilterList": [
+   130603
+  ]
+ },
+ {
+  "TargetPickerID": 13060301,
+  "TargetPickerType": 10,
+  "PickCamp": 2,
+  "RefTarget": 1,
+  "ExcludeSelf": 0,
+  "IgnoreLocked": 0,
+  "IgnoreUsedBody": 0,
+  "FilterList": [
+   130603
+  ]
+ },
+ {
+  "TargetPickerID": 120301,
+  "TargetPickerType": 10,
+  "PickCamp": 1,
+  "RefTarget": 1,
+  "ExcludeSelf": 0,
+  "IgnoreLocked": 0,
+  "IgnoreUsedBody": 0,
+  "FilterList": [
+   120301
+  ]
+ },
+ {
+  "TargetPickerID": 1203011,
+  "TargetPickerType": 10,
+  "PickCamp": 2,
+  "RefTarget": 1,
+  "ExcludeSelf": 0,
+  "IgnoreLocked": 0,
+  "IgnoreUsedBody": 0,
+  "FilterList": [
+   120301
+  ]
+ },
+ {
+  "TargetPickerID": 120602,
+  "TargetPickerType": 10,
+  "PickCamp": 1,
+  "RefTarget": 1,
+  "ExcludeSelf": 0,
+  "IgnoreLocked": 0,
+  "IgnoreUsedBody": 0,
+  "FilterList": [
+   120602
+  ]
+ },
+ {
+  "TargetPickerID": 110604,
+  "TargetPickerType": 10,
+  "PickCamp": 1,
+  "RefTarget": 1,
+  "ExcludeSelf": 0,
+  "IgnoreLocked": 0,
+  "IgnoreUsedBody": 0,
+  "FilterList": [
+   110604
+  ]
+ },
+ {
+  "TargetPickerID": 110602,
+  "TargetPickerType": 10,
+  "PickCamp": 1,
+  "RefTarget": 1,
+  "ExcludeSelf": 0,
+  "IgnoreLocked": 0,
+  "IgnoreUsedBody": 0,
+  "FilterList": [
+   110602
+  ]
+ },
+ {
+  "TargetPickerID": 140402,
+  "TargetPickerType": 10,
+  "PickCamp": 1,
+  "RefTarget": 1,
+  "ExcludeSelf": 0,
+  "IgnoreLocked": 0,
+  "IgnoreUsedBody": 0,
+  "FilterList": [
+   140402
+  ]
+ },
+ {
+  "TargetPickerID": 140404,
+  "TargetPickerType": 10,
+  "PickCamp": 1,
+  "RefTarget": 1,
+  "ExcludeSelf": 0,
+  "IgnoreLocked": 0,
+  "IgnoreUsedBody": 0,
+  "FilterList": [
+   140404
+  ]
+ },
+ {
+  "TargetPickerID": 140702610,
+  "TargetPickerType": 10,
+  "PickCamp": 1,
+  "RefTarget": 1,
+  "ExcludeSelf": 0,
+  "IgnoreLocked": 0,
+  "IgnoreUsedBody": 0,
+  "FilterList": [
+   140702610
+  ]
+ },
+ {
+  "TargetPickerID": 120202,
+  "TargetPickerType": 10,
+  "PickCamp": 1,
+  "RefTarget": 1,
+  "ExcludeSelf": 0,
+  "IgnoreLocked": 0,
+  "IgnoreUsedBody": 0,
+  "FilterList": [
+   120202
+  ]
+ },
+ {
+  "TargetPickerID": 140401,
+  "TargetPickerType": 10,
+  "PickCamp": 1,
+  "RefTarget": 1,
+  "ExcludeSelf": 0,
+  "IgnoreLocked": 0,
+  "IgnoreUsedBody": 0,
+  "FilterList": [
+   140401
+  ]
+ },
+ {
+  "TargetPickerID": 506007,
+  "TargetPickerType": 10,
+  "PickCamp": 1,
+  "RefTarget": 1,
+  "ExcludeSelf": 0,
+  "IgnoreLocked": 0,
+  "IgnoreUsedBody": 0,
+  "FilterList": [
+   506007
+  ]
+ },
+ {
+  "TargetPickerID": 5070071,
+  "TargetPickerType": 10,
+  "PickCamp": 1,
+  "RefTarget": 1,
+  "ExcludeSelf": 0,
+  "IgnoreLocked": 0,
+  "IgnoreUsedBody": 0,
+  "FilterList": [
+   5070071
+  ]
+ },
+ {
+  "TargetPickerID": 1120602310,
+  "TargetPickerType": 10,
+  "PickCamp": 2,
+  "RefTarget": 1,
+  "ExcludeSelf": 0,
+  "IgnoreLocked": 0,
+  "IgnoreUsedBody": 0,
+  "FilterList": [
+   1120602310
+  ]
+ },
+ {
+  "TargetPickerID": 1130601510,
+  "TargetPickerType": 10,
+  "PickCamp": 2,
+  "RefTarget": 1,
+  "ExcludeSelf": 0,
+  "IgnoreLocked": 0,
+  "IgnoreUsedBody": 0,
+  "FilterList": [
+   1130601510
+  ]
+ },
+ {
+  "TargetPickerID": 120603111,
+  "TargetPickerType": 10,
+  "PickCamp": 2,
+  "RefTarget": 1,
+  "ExcludeSelf": 0,
+  "IgnoreLocked": 0,
+  "IgnoreUsedBody": 0,
+  "FilterList": [
+   120603111
+  ]
+ },
+ {
+  "TargetPickerID": 110604310,
+  "TargetPickerType": 10,
+  "PickCamp": 2,
+  "RefTarget": 1,
+  "ExcludeSelf": 0,
+  "IgnoreLocked": 0,
+  "IgnoreUsedBody": 0,
+  "FilterList": [
+   110604310
+  ]
+ },
+ {
+  "TargetPickerID": 420101410,
+  "TargetPickerType": 10,
+  "PickCamp": 1,
+  "RefTarget": 1,
+  "ExcludeSelf": 0,
+  "IgnoreLocked": 0,
+  "IgnoreUsedBody": 0,
+  "FilterList": [
+   420101410
+  ]
+ },
+ {
+  "TargetPickerID": 2140701511,
+  "TargetPickerType": 10,
+  "PickCamp": 2,
+  "RefTarget": 1,
+  "ExcludeSelf": 0,
+  "IgnoreLocked": 0,
+  "IgnoreUsedBody": 0,
+  "FilterList": [
+   2140701511
+  ]
+ },
+ {
+  "TargetPickerID": 1110402111,
+  "TargetPickerType": 10,
+  "PickCamp": 2,
+  "RefTarget": 1,
+  "ExcludeSelf": 0,
+  "IgnoreLocked": 0,
+  "IgnoreUsedBody": 0,
+  "FilterList": [
+   1110402111
+  ]
+ },
+ {
+  "TargetPickerID": 6001,
+  "TargetPickerType": 6,
+  "PickCamp": 1,
+  "RefTarget": 1,
+  "ExcludeSelf": 0,
+  "IgnoreLocked": 0,
+  "IgnoreUsedBody": 0,
+  "FilterList": []
+ },
+ {
+  "TargetPickerID": 4501010,
+  "TargetPickerType": 10,
+  "PickCamp": 1,
+  "RefTarget": 1,
+  "ExcludeSelf": 0,
+  "IgnoreLocked": 0,
+  "IgnoreUsedBody": 0,
+  "FilterList": [
+   4501010
+  ]
+ },
+ {
+  "TargetPickerID": 840104111,
+  "TargetPickerType": 10,
+  "PickCamp": 2,
+  "RefTarget": 1,
+  "ExcludeSelf": 0,
+  "IgnoreLocked": 0,
+  "IgnoreUsedBody": 0,
+  "FilterList": [
+   840104111
+  ]
+ },
+ {
+  "TargetPickerID": 8401031,
+  "TargetPickerType": 10,
+  "PickCamp": 1,
+  "RefTarget": 1,
+  "ExcludeSelf": 0,
+  "IgnoreLocked": 0,
+  "IgnoreUsedBody": 0,
+  "FilterList": [
+   8401031
+  ]
+ },
+ {
+  "TargetPickerID": 840103111,
+  "TargetPickerType": 10,
+  "PickCamp": 2,
+  "RefTarget": 1,
+  "ExcludeSelf": 0,
+  "IgnoreLocked": 0,
+  "IgnoreUsedBody": 0,
+  "FilterList": [
+   840103111
+  ]
+ },
+ {
+  "TargetPickerID": 840106111,
+  "TargetPickerType": 10,
+  "PickCamp": 2,
+  "RefTarget": 1,
+  "ExcludeSelf": 0,
+  "IgnoreLocked": 0,
+  "IgnoreUsedBody": 0,
+  "FilterList": [
+   840106111
+  ]
+ },
+ {
+  "TargetPickerID": 840105111,
+  "TargetPickerType": 10,
+  "PickCamp": 2,
+  "RefTarget": 1,
+  "ExcludeSelf": 0,
+  "IgnoreLocked": 0,
+  "IgnoreUsedBody": 0,
+  "FilterList": [
+   840105111
+  ]
+ },
+ {
+  "TargetPickerID": 840105,
+  "TargetPickerType": 10,
+  "PickCamp": 1,
+  "RefTarget": 1,
+  "ExcludeSelf": 0,
+  "IgnoreLocked": 0,
+  "IgnoreUsedBody": 0,
+  "FilterList": [
+   840105
+  ]
+ },
+ {
+  "TargetPickerID": 910303110,
+  "TargetPickerType": 10,
+  "PickCamp": 1,
+  "RefTarget": 1,
+  "ExcludeSelf": 0,
+  "IgnoreLocked": 0,
+  "IgnoreUsedBody": 0,
+  "FilterList": [
+   3,
+   910303110
+  ]
+ },
+ {
+  "TargetPickerID": 110401211,
+  "TargetPickerType": 10,
+  "PickCamp": 2,
+  "RefTarget": 1,
+  "ExcludeSelf": 0,
+  "IgnoreLocked": 0,
+  "IgnoreUsedBody": 0,
+  "FilterList": [
+   110401211
+  ]
+ },
+ {
+  "TargetPickerID": 110401212,
+  "TargetPickerType": 10,
+  "PickCamp": 2,
+  "RefTarget": 1,
+  "ExcludeSelf": 0,
+  "IgnoreLocked": 0,
+  "IgnoreUsedBody": 0,
+  "FilterList": [
+   110401212
+  ]
+ },
+ {
+  "TargetPickerID": 150401,
+  "TargetPickerType": 10,
+  "PickCamp": 1,
+  "RefTarget": 1,
+  "ExcludeSelf": 0,
+  "IgnoreLocked": 0,
+  "IgnoreUsedBody": 0,
+  "FilterList": [
+   150401
+  ]
+ },
+ {
+  "TargetPickerID": 150501,
+  "TargetPickerType": 10,
+  "PickCamp": 1,
+  "RefTarget": 1,
+  "ExcludeSelf": 0,
+  "IgnoreLocked": 0,
+  "IgnoreUsedBody": 0,
+  "FilterList": [
+   150501
+  ]
+ },
+ {
+  "TargetPickerID": 1505011,
+  "TargetPickerType": 10,
+  "PickCamp": 2,
+  "RefTarget": 1,
+  "ExcludeSelf": 0,
+  "IgnoreLocked": 0,
+  "IgnoreUsedBody": 0,
+  "FilterList": [
+   150501
+  ]
+ },
+ {
+  "TargetPickerID": 502503,
+  "TargetPickerType": 10,
+  "PickCamp": 2,
+  "RefTarget": 2,
+  "ExcludeSelf": 0,
+  "IgnoreLocked": 0,
+  "IgnoreUsedBody": 0,
+  "FilterList": [
+   502,
+   503
+  ]
+ },
+ {
+  "TargetPickerID": 504505,
+  "TargetPickerType": 10,
+  "PickCamp": 2,
+  "RefTarget": 2,
+  "ExcludeSelf": 0,
+  "IgnoreLocked": 0,
+  "IgnoreUsedBody": 0,
+  "FilterList": [
+   504,
+   505
+  ]
+ },
+ {
+  "TargetPickerID": 60001,
+  "TargetPickerType": 10,
+  "PickCamp": 1,
+  "RefTarget": 1,
+  "ExcludeSelf": 1,
+  "IgnoreLocked": 0,
+  "IgnoreUsedBody": 0,
+  "FilterList": [
+   505003174,
+   601,
+   400000
+  ]
+ }
+]

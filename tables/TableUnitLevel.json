@@ -1,0 +1,7284 @@
+[
+ {
+  "ID": 0,
+  "UpgradeItem": [
+   204
+  ],
+  "UpgradeItemNum": [
+   68
+  ],
+  "AttrIDs": [
+   4,
+   100,
+   102
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   0,
+   0,
+   0
+  ]
+ },
+ {
+  "ID": 1,
+  "UpgradeItem": [
+   204
+  ],
+  "UpgradeItemNum": [
+   98
+  ],
+  "AttrIDs": [
+   4,
+   100,
+   102
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   180,
+   12,
+   6
+  ]
+ },
+ {
+  "ID": 2,
+  "UpgradeItem": [
+   204
+  ],
+  "UpgradeItemNum": [
+   128
+  ],
+  "AttrIDs": [
+   4,
+   100,
+   102
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   360,
+   24,
+   12
+  ]
+ },
+ {
+  "ID": 3,
+  "UpgradeItem": [
+   204
+  ],
+  "UpgradeItemNum": [
+   158
+  ],
+  "AttrIDs": [
+   4,
+   100,
+   102
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   540,
+   36,
+   18
+  ]
+ },
+ {
+  "ID": 4,
+  "UpgradeItem": [
+   204
+  ],
+  "UpgradeItemNum": [
+   188
+  ],
+  "AttrIDs": [
+   4,
+   100,
+   102
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   720,
+   48,
+   24
+  ]
+ },
+ {
+  "ID": 5,
+  "UpgradeItem": [
+   204
+  ],
+  "UpgradeItemNum": [
+   218
+  ],
+  "AttrIDs": [
+   4,
+   100,
+   102
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   900,
+   60,
+   30
+  ]
+ },
+ {
+  "ID": 6,
+  "UpgradeItem": [
+   204
+  ],
+  "UpgradeItemNum": [
+   248
+  ],
+  "AttrIDs": [
+   4,
+   100,
+   102
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   1080,
+   72,
+   36
+  ]
+ },
+ {
+  "ID": 7,
+  "UpgradeItem": [
+   204
+  ],
+  "UpgradeItemNum": [
+   278
+  ],
+  "AttrIDs": [
+   4,
+   100,
+   102
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   1260,
+   84,
+   42
+  ]
+ },
+ {
+  "ID": 8,
+  "UpgradeItem": [
+   204
+  ],
+  "UpgradeItemNum": [
+   308
+  ],
+  "AttrIDs": [
+   4,
+   100,
+   102
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   1440,
+   96,
+   48
+  ]
+ },
+ {
+  "ID": 9,
+  "UpgradeItem": [
+   204
+  ],
+  "UpgradeItemNum": [
+   338
+  ],
+  "AttrIDs": [
+   4,
+   100,
+   102
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   1620,
+   108,
+   54
+  ]
+ },
+ {
+  "ID": 10,
+  "UpgradeItem": [
+   204,
+   205
+  ],
+  "UpgradeItemNum": [
+   368,
+   10
+  ],
+  "AttrIDs": [
+   4,
+   100,
+   102
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   1800,
+   120,
+   60
+  ]
+ },
+ {
+  "ID": 11,
+  "UpgradeItem": [
+   204
+  ],
+  "UpgradeItemNum": [
+   404
+  ],
+  "AttrIDs": [
+   4,
+   100,
+   102
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   2400,
+   160,
+   80
+  ]
+ },
+ {
+  "ID": 12,
+  "UpgradeItem": [
+   204
+  ],
+  "UpgradeItemNum": [
+   440
+  ],
+  "AttrIDs": [
+   4,
+   100,
+   102
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   3000,
+   200,
+   100
+  ]
+ },
+ {
+  "ID": 13,
+  "UpgradeItem": [
+   204
+  ],
+  "UpgradeItemNum": [
+   476
+  ],
+  "AttrIDs": [
+   4,
+   100,
+   102
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   3600,
+   240,
+   120
+  ]
+ },
+ {
+  "ID": 14,
+  "UpgradeItem": [
+   204
+  ],
+  "UpgradeItemNum": [
+   512
+  ],
+  "AttrIDs": [
+   4,
+   100,
+   102
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   4200,
+   280,
+   140
+  ]
+ },
+ {
+  "ID": 15,
+  "UpgradeItem": [
+   204
+  ],
+  "UpgradeItemNum": [
+   548
+  ],
+  "AttrIDs": [
+   4,
+   100,
+   102
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   4800,
+   320,
+   160
+  ]
+ },
+ {
+  "ID": 16,
+  "UpgradeItem": [
+   204
+  ],
+  "UpgradeItemNum": [
+   584
+  ],
+  "AttrIDs": [
+   4,
+   100,
+   102
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   5400,
+   360,
+   180
+  ]
+ },
+ {
+  "ID": 17,
+  "UpgradeItem": [
+   204
+  ],
+  "UpgradeItemNum": [
+   620
+  ],
+  "AttrIDs": [
+   4,
+   100,
+   102
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   6000,
+   400,
+   200
+  ]
+ },
+ {
+  "ID": 18,
+  "UpgradeItem": [
+   204
+  ],
+  "UpgradeItemNum": [
+   656
+  ],
+  "AttrIDs": [
+   4,
+   100,
+   102
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   6600,
+   440,
+   220
+  ]
+ },
+ {
+  "ID": 19,
+  "UpgradeItem": [
+   204
+  ],
+  "UpgradeItemNum": [
+   692
+  ],
+  "AttrIDs": [
+   4,
+   100,
+   102
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   7200,
+   480,
+   240
+  ]
+ },
+ {
+  "ID": 20,
+  "UpgradeItem": [
+   204,
+   205
+  ],
+  "UpgradeItemNum": [
+   728,
+   20
+  ],
+  "AttrIDs": [
+   4,
+   100,
+   102
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   7800,
+   520,
+   260
+  ]
+ },
+ {
+  "ID": 21,
+  "UpgradeItem": [
+   204
+  ],
+  "UpgradeItemNum": [
+   790
+  ],
+  "AttrIDs": [
+   4,
+   100,
+   102
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   8700,
+   580,
+   290
+  ]
+ },
+ {
+  "ID": 22,
+  "UpgradeItem": [
+   204
+  ],
+  "UpgradeItemNum": [
+   852
+  ],
+  "AttrIDs": [
+   4,
+   100,
+   102
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   9600,
+   640,
+   320
+  ]
+ },
+ {
+  "ID": 23,
+  "UpgradeItem": [
+   204
+  ],
+  "UpgradeItemNum": [
+   914
+  ],
+  "AttrIDs": [
+   4,
+   100,
+   102
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   10500,
+   700,
+   350
+  ]
+ },
+ {
+  "ID": 24,
+  "UpgradeItem": [
+   204
+  ],
+  "UpgradeItemNum": [
+   976
+  ],
+  "AttrIDs": [
+   4,
+   100,
+   102
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   11400,
+   760,
+   380
+  ]
+ },
+ {
+  "ID": 25,
+  "UpgradeItem": [
+   204
+  ],
+  "UpgradeItemNum": [
+   1038
+  ],
+  "AttrIDs": [
+   4,
+   100,
+   102
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   12300,
+   820,
+   410
+  ]
+ },
+ {
+  "ID": 26,
+  "UpgradeItem": [
+   204
+  ],
+  "UpgradeItemNum": [
+   1100
+  ],
+  "AttrIDs": [
+   4,
+   100,
+   102
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   13200,
+   880,
+   440
+  ]
+ },
+ {
+  "ID": 27,
+  "UpgradeItem": [
+   204
+  ],
+  "UpgradeItemNum": [
+   1162
+  ],
+  "AttrIDs": [
+   4,
+   100,
+   102
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   14100,
+   940,
+   470
+  ]
+ },
+ {
+  "ID": 28,
+  "UpgradeItem": [
+   204
+  ],
+  "UpgradeItemNum": [
+   1224
+  ],
+  "AttrIDs": [
+   4,
+   100,
+   102
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   15000,
+   1000,
+   500
+  ]
+ },
+ {
+  "ID": 29,
+  "UpgradeItem": [
+   204
+  ],
+  "UpgradeItemNum": [
+   1286
+  ],
+  "AttrIDs": [
+   4,
+   100,
+   102
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   15900,
+   1060,
+   530
+  ]
+ },
+ {
+  "ID": 30,
+  "UpgradeItem": [
+   204,
+   205
+  ],
+  "UpgradeItemNum": [
+   1348,
+   40
+  ],
+  "AttrIDs": [
+   4,
+   100,
+   102
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   16800,
+   1120,
+   560
+  ]
+ },
+ {
+  "ID": 31,
+  "UpgradeItem": [
+   204
+  ],
+  "UpgradeItemNum": [
+   1436
+  ],
+  "AttrIDs": [
+   4,
+   100,
+   102
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   18000,
+   1200,
+   600
+  ]
+ },
+ {
+  "ID": 32,
+  "UpgradeItem": [
+   204
+  ],
+  "UpgradeItemNum": [
+   1524
+  ],
+  "AttrIDs": [
+   4,
+   100,
+   102
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   19200,
+   1280,
+   640
+  ]
+ },
+ {
+  "ID": 33,
+  "UpgradeItem": [
+   204
+  ],
+  "UpgradeItemNum": [
+   1612
+  ],
+  "AttrIDs": [
+   4,
+   100,
+   102
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   20400,
+   1360,
+   680
+  ]
+ },
+ {
+  "ID": 34,
+  "UpgradeItem": [
+   204
+  ],
+  "UpgradeItemNum": [
+   1700
+  ],
+  "AttrIDs": [
+   4,
+   100,
+   102
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   21600,
+   1440,
+   720
+  ]
+ },
+ {
+  "ID": 35,
+  "UpgradeItem": [
+   204
+  ],
+  "UpgradeItemNum": [
+   1788
+  ],
+  "AttrIDs": [
+   4,
+   100,
+   102
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   22800,
+   1520,
+   760
+  ]
+ },
+ {
+  "ID": 36,
+  "UpgradeItem": [
+   204
+  ],
+  "UpgradeItemNum": [
+   1876
+  ],
+  "AttrIDs": [
+   4,
+   100,
+   102
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   24000,
+   1600,
+   800
+  ]
+ },
+ {
+  "ID": 37,
+  "UpgradeItem": [
+   204
+  ],
+  "UpgradeItemNum": [
+   1964
+  ],
+  "AttrIDs": [
+   4,
+   100,
+   102
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   25200,
+   1680,
+   840
+  ]
+ },
+ {
+  "ID": 38,
+  "UpgradeItem": [
+   204
+  ],
+  "UpgradeItemNum": [
+   2052
+  ],
+  "AttrIDs": [
+   4,
+   100,
+   102
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   26400,
+   1760,
+   880
+  ]
+ },
+ {
+  "ID": 39,
+  "UpgradeItem": [
+   204
+  ],
+  "UpgradeItemNum": [
+   2140
+  ],
+  "AttrIDs": [
+   4,
+   100,
+   102
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   27600,
+   1840,
+   920
+  ]
+ },
+ {
+  "ID": 40,
+  "UpgradeItem": [
+   204,
+   205
+  ],
+  "UpgradeItemNum": [
+   2228,
+   80
+  ],
+  "AttrIDs": [
+   4,
+   100,
+   102
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   28800,
+   1920,
+   960
+  ]
+ },
+ {
+  "ID": 41,
+  "UpgradeItem": [
+   204
+  ],
+  "UpgradeItemNum": [
+   2368
+  ],
+  "AttrIDs": [
+   4,
+   100,
+   102
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   30600,
+   2040,
+   1020
+  ]
+ },
+ {
+  "ID": 42,
+  "UpgradeItem": [
+   204
+  ],
+  "UpgradeItemNum": [
+   2508
+  ],
+  "AttrIDs": [
+   4,
+   100,
+   102
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   32400,
+   2160,
+   1080
+  ]
+ },
+ {
+  "ID": 43,
+  "UpgradeItem": [
+   204
+  ],
+  "UpgradeItemNum": [
+   2648
+  ],
+  "AttrIDs": [
+   4,
+   100,
+   102
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   34200,
+   2280,
+   1140
+  ]
+ },
+ {
+  "ID": 44,
+  "UpgradeItem": [
+   204
+  ],
+  "UpgradeItemNum": [
+   2788
+  ],
+  "AttrIDs": [
+   4,
+   100,
+   102
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   36000,
+   2400,
+   1200
+  ]
+ },
+ {
+  "ID": 45,
+  "UpgradeItem": [
+   204
+  ],
+  "UpgradeItemNum": [
+   2928
+  ],
+  "AttrIDs": [
+   4,
+   100,
+   102
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   37800,
+   2520,
+   1260
+  ]
+ },
+ {
+  "ID": 46,
+  "UpgradeItem": [
+   204
+  ],
+  "UpgradeItemNum": [
+   3068
+  ],
+  "AttrIDs": [
+   4,
+   100,
+   102
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   39600,
+   2640,
+   1320
+  ]
+ },
+ {
+  "ID": 47,
+  "UpgradeItem": [
+   204
+  ],
+  "UpgradeItemNum": [
+   3208
+  ],
+  "AttrIDs": [
+   4,
+   100,
+   102
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   41400,
+   2760,
+   1380
+  ]
+ },
+ {
+  "ID": 48,
+  "UpgradeItem": [
+   204
+  ],
+  "UpgradeItemNum": [
+   3348
+  ],
+  "AttrIDs": [
+   4,
+   100,
+   102
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   43200,
+   2880,
+   1440
+  ]
+ },
+ {
+  "ID": 49,
+  "UpgradeItem": [
+   204
+  ],
+  "UpgradeItemNum": [
+   3488
+  ],
+  "AttrIDs": [
+   4,
+   100,
+   102
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   45000,
+   3000,
+   1500
+  ]
+ },
+ {
+  "ID": 50,
+  "UpgradeItem": [
+   204,
+   205
+  ],
+  "UpgradeItemNum": [
+   3628,
+   120
+  ],
+  "AttrIDs": [
+   4,
+   100,
+   102
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   46800,
+   3120,
+   1560
+  ]
+ },
+ {
+  "ID": 51,
+  "UpgradeItem": [
+   204
+  ],
+  "UpgradeItemNum": [
+   3868
+  ],
+  "AttrIDs": [
+   4,
+   100,
+   102
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   49200,
+   3280,
+   1640
+  ]
+ },
+ {
+  "ID": 52,
+  "UpgradeItem": [
+   204
+  ],
+  "UpgradeItemNum": [
+   4108
+  ],
+  "AttrIDs": [
+   4,
+   100,
+   102
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   51600,
+   3440,
+   1720
+  ]
+ },
+ {
+  "ID": 53,
+  "UpgradeItem": [
+   204
+  ],
+  "UpgradeItemNum": [
+   4348
+  ],
+  "AttrIDs": [
+   4,
+   100,
+   102
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   54000,
+   3600,
+   1800
+  ]
+ },
+ {
+  "ID": 54,
+  "UpgradeItem": [
+   204
+  ],
+  "UpgradeItemNum": [
+   4588
+  ],
+  "AttrIDs": [
+   4,
+   100,
+   102
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   56400,
+   3760,
+   1880
+  ]
+ },
+ {
+  "ID": 55,
+  "UpgradeItem": [
+   204
+  ],
+  "UpgradeItemNum": [
+   4828
+  ],
+  "AttrIDs": [
+   4,
+   100,
+   102
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   58800,
+   3920,
+   1960
+  ]
+ },
+ {
+  "ID": 56,
+  "UpgradeItem": [
+   204
+  ],
+  "UpgradeItemNum": [
+   5068
+  ],
+  "AttrIDs": [
+   4,
+   100,
+   102
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   61200,
+   4080,
+   2040
+  ]
+ },
+ {
+  "ID": 57,
+  "UpgradeItem": [
+   204
+  ],
+  "UpgradeItemNum": [
+   5308
+  ],
+  "AttrIDs": [
+   4,
+   100,
+   102
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   63600,
+   4240,
+   2120
+  ]
+ },
+ {
+  "ID": 58,
+  "UpgradeItem": [
+   204
+  ],
+  "UpgradeItemNum": [
+   5548
+  ],
+  "AttrIDs": [
+   4,
+   100,
+   102
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   66000,
+   4400,
+   2200
+  ]
+ },
+ {
+  "ID": 59,
+  "UpgradeItem": [
+   204
+  ],
+  "UpgradeItemNum": [
+   5788
+  ],
+  "AttrIDs": [
+   4,
+   100,
+   102
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   68400,
+   4560,
+   2280
+  ]
+ },
+ {
+  "ID": 60,
+  "UpgradeItem": [
+   204,
+   205
+  ],
+  "UpgradeItemNum": [
+   6028,
+   160
+  ],
+  "AttrIDs": [
+   4,
+   100,
+   102
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   70800,
+   4720,
+   2360
+  ]
+ },
+ {
+  "ID": 61,
+  "UpgradeItem": [
+   204
+  ],
+  "UpgradeItemNum": [
+   6428
+  ],
+  "AttrIDs": [
+   4,
+   100,
+   102
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   73800,
+   4920,
+   2460
+  ]
+ },
+ {
+  "ID": 62,
+  "UpgradeItem": [
+   204
+  ],
+  "UpgradeItemNum": [
+   6828
+  ],
+  "AttrIDs": [
+   4,
+   100,
+   102
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   76800,
+   5120,
+   2560
+  ]
+ },
+ {
+  "ID": 63,
+  "UpgradeItem": [
+   204
+  ],
+  "UpgradeItemNum": [
+   7228
+  ],
+  "AttrIDs": [
+   4,
+   100,
+   102
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   79800,
+   5320,
+   2660
+  ]
+ },
+ {
+  "ID": 64,
+  "UpgradeItem": [
+   204
+  ],
+  "UpgradeItemNum": [
+   7628
+  ],
+  "AttrIDs": [
+   4,
+   100,
+   102
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   82800,
+   5520,
+   2760
+  ]
+ },
+ {
+  "ID": 65,
+  "UpgradeItem": [
+   204
+  ],
+  "UpgradeItemNum": [
+   8028
+  ],
+  "AttrIDs": [
+   4,
+   100,
+   102
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   85800,
+   5720,
+   2860
+  ]
+ },
+ {
+  "ID": 66,
+  "UpgradeItem": [
+   204
+  ],
+  "UpgradeItemNum": [
+   8428
+  ],
+  "AttrIDs": [
+   4,
+   100,
+   102
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   88800,
+   5920,
+   2960
+  ]
+ },
+ {
+  "ID": 67,
+  "UpgradeItem": [
+   204
+  ],
+  "UpgradeItemNum": [
+   8828
+  ],
+  "AttrIDs": [
+   4,
+   100,
+   102
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   91800,
+   6120,
+   3060
+  ]
+ },
+ {
+  "ID": 68,
+  "UpgradeItem": [
+   204
+  ],
+  "UpgradeItemNum": [
+   9228
+  ],
+  "AttrIDs": [
+   4,
+   100,
+   102
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   94800,
+   6320,
+   3160
+  ]
+ },
+ {
+  "ID": 69,
+  "UpgradeItem": [
+   204
+  ],
+  "UpgradeItemNum": [
+   9628
+  ],
+  "AttrIDs": [
+   4,
+   100,
+   102
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   97800,
+   6520,
+   3260
+  ]
+ },
+ {
+  "ID": 70,
+  "UpgradeItem": [
+   204,
+   205
+  ],
+  "UpgradeItemNum": [
+   10028,
+   200
+  ],
+  "AttrIDs": [
+   4,
+   100,
+   102
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   100800,
+   6720,
+   3360
+  ]
+ },
+ {
+  "ID": 71,
+  "UpgradeItem": [
+   204
+  ],
+  "UpgradeItemNum": [
+   10628
+  ],
+  "AttrIDs": [
+   4,
+   100,
+   102
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   106200,
+   7080,
+   3540
+  ]
+ },
+ {
+  "ID": 72,
+  "UpgradeItem": [
+   204
+  ],
+  "UpgradeItemNum": [
+   11228
+  ],
+  "AttrIDs": [
+   4,
+   100,
+   102
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   111600,
+   7440,
+   3720
+  ]
+ },
+ {
+  "ID": 73,
+  "UpgradeItem": [
+   204
+  ],
+  "UpgradeItemNum": [
+   11828
+  ],
+  "AttrIDs": [
+   4,
+   100,
+   102
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   117000,
+   7800,
+   3900
+  ]
+ },
+ {
+  "ID": 74,
+  "UpgradeItem": [
+   204
+  ],
+  "UpgradeItemNum": [
+   12428
+  ],
+  "AttrIDs": [
+   4,
+   100,
+   102
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   122400,
+   8160,
+   4080
+  ]
+ },
+ {
+  "ID": 75,
+  "UpgradeItem": [
+   204
+  ],
+  "UpgradeItemNum": [
+   13028
+  ],
+  "AttrIDs": [
+   4,
+   100,
+   102
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   127800,
+   8520,
+   4260
+  ]
+ },
+ {
+  "ID": 76,
+  "UpgradeItem": [
+   204
+  ],
+  "UpgradeItemNum": [
+   13628
+  ],
+  "AttrIDs": [
+   4,
+   100,
+   102
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   133200,
+   8880,
+   4440
+  ]
+ },
+ {
+  "ID": 77,
+  "UpgradeItem": [
+   204
+  ],
+  "UpgradeItemNum": [
+   14228
+  ],
+  "AttrIDs": [
+   4,
+   100,
+   102
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   138600,
+   9240,
+   4620
+  ]
+ },
+ {
+  "ID": 78,
+  "UpgradeItem": [
+   204
+  ],
+  "UpgradeItemNum": [
+   14828
+  ],
+  "AttrIDs": [
+   4,
+   100,
+   102
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   144000,
+   9600,
+   4800
+  ]
+ },
+ {
+  "ID": 79,
+  "UpgradeItem": [
+   204
+  ],
+  "UpgradeItemNum": [
+   15428
+  ],
+  "AttrIDs": [
+   4,
+   100,
+   102
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   149400,
+   9960,
+   4980
+  ]
+ },
+ {
+  "ID": 80,
+  "UpgradeItem": [
+   204,
+   205
+  ],
+  "UpgradeItemNum": [
+   16028,
+   300
+  ],
+  "AttrIDs": [
+   4,
+   100,
+   102
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   154800,
+   10320,
+   5160
+  ]
+ },
+ {
+  "ID": 81,
+  "UpgradeItem": [
+   204
+  ],
+  "UpgradeItemNum": [
+   16928
+  ],
+  "AttrIDs": [
+   4,
+   100,
+   102
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   163200,
+   10880,
+   5440
+  ]
+ },
+ {
+  "ID": 82,
+  "UpgradeItem": [
+   204
+  ],
+  "UpgradeItemNum": [
+   17828
+  ],
+  "AttrIDs": [
+   4,
+   100,
+   102
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   171600,
+   11440,
+   5720
+  ]
+ },
+ {
+  "ID": 83,
+  "UpgradeItem": [
+   204
+  ],
+  "UpgradeItemNum": [
+   18728
+  ],
+  "AttrIDs": [
+   4,
+   100,
+   102
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   180000,
+   12000,
+   6000
+  ]
+ },
+ {
+  "ID": 84,
+  "UpgradeItem": [
+   204
+  ],
+  "UpgradeItemNum": [
+   19628
+  ],
+  "AttrIDs": [
+   4,
+   100,
+   102
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   188400,
+   12560,
+   6280
+  ]
+ },
+ {
+  "ID": 85,
+  "UpgradeItem": [
+   204
+  ],
+  "UpgradeItemNum": [
+   20528
+  ],
+  "AttrIDs": [
+   4,
+   100,
+   102
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   196800,
+   13120,
+   6560
+  ]
+ },
+ {
+  "ID": 86,
+  "UpgradeItem": [
+   204
+  ],
+  "UpgradeItemNum": [
+   21428
+  ],
+  "AttrIDs": [
+   4,
+   100,
+   102
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   205200,
+   13680,
+   6840
+  ]
+ },
+ {
+  "ID": 87,
+  "UpgradeItem": [
+   204
+  ],
+  "UpgradeItemNum": [
+   22328
+  ],
+  "AttrIDs": [
+   4,
+   100,
+   102
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   213600,
+   14240,
+   7120
+  ]
+ },
+ {
+  "ID": 88,
+  "UpgradeItem": [
+   204
+  ],
+  "UpgradeItemNum": [
+   23228
+  ],
+  "AttrIDs": [
+   4,
+   100,
+   102
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   222000,
+   14800,
+   7400
+  ]
+ },
+ {
+  "ID": 89,
+  "UpgradeItem": [
+   204
+  ],
+  "UpgradeItemNum": [
+   24128
+  ],
+  "AttrIDs": [
+   4,
+   100,
+   102
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   230400,
+   15360,
+   7680
+  ]
+ },
+ {
+  "ID": 90,
+  "UpgradeItem": [
+   204,
+   205
+  ],
+  "UpgradeItemNum": [
+   25028,
+   500
+  ],
+  "AttrIDs": [
+   4,
+   100,
+   102
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   238800,
+   15920,
+   7960
+  ]
+ },
+ {
+  "ID": 91,
+  "UpgradeItem": [
+   204
+  ],
+  "UpgradeItemNum": [
+   26378
+  ],
+  "AttrIDs": [
+   4,
+   100,
+   102
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   252300,
+   16820,
+   8410
+  ]
+ },
+ {
+  "ID": 92,
+  "UpgradeItem": [
+   204
+  ],
+  "UpgradeItemNum": [
+   27728
+  ],
+  "AttrIDs": [
+   4,
+   100,
+   102
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   265800,
+   17720,
+   8860
+  ]
+ },
+ {
+  "ID": 93,
+  "UpgradeItem": [
+   204
+  ],
+  "UpgradeItemNum": [
+   29078
+  ],
+  "AttrIDs": [
+   4,
+   100,
+   102
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   279300,
+   18620,
+   9310
+  ]
+ },
+ {
+  "ID": 94,
+  "UpgradeItem": [
+   204
+  ],
+  "UpgradeItemNum": [
+   30428
+  ],
+  "AttrIDs": [
+   4,
+   100,
+   102
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   292800,
+   19520,
+   9760
+  ]
+ },
+ {
+  "ID": 95,
+  "UpgradeItem": [
+   204
+  ],
+  "UpgradeItemNum": [
+   31778
+  ],
+  "AttrIDs": [
+   4,
+   100,
+   102
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   306300,
+   20420,
+   10210
+  ]
+ },
+ {
+  "ID": 96,
+  "UpgradeItem": [
+   204
+  ],
+  "UpgradeItemNum": [
+   33128
+  ],
+  "AttrIDs": [
+   4,
+   100,
+   102
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   319800,
+   21320,
+   10660
+  ]
+ },
+ {
+  "ID": 97,
+  "UpgradeItem": [
+   204
+  ],
+  "UpgradeItemNum": [
+   34478
+  ],
+  "AttrIDs": [
+   4,
+   100,
+   102
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   333300,
+   22220,
+   11110
+  ]
+ },
+ {
+  "ID": 98,
+  "UpgradeItem": [
+   204
+  ],
+  "UpgradeItemNum": [
+   35828
+  ],
+  "AttrIDs": [
+   4,
+   100,
+   102
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   346800,
+   23120,
+   11560
+  ]
+ },
+ {
+  "ID": 99,
+  "UpgradeItem": [
+   204
+  ],
+  "UpgradeItemNum": [
+   37178
+  ],
+  "AttrIDs": [
+   4,
+   100,
+   102
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   360300,
+   24020,
+   12010
+  ]
+ },
+ {
+  "ID": 100,
+  "UpgradeItem": [
+   204,
+   205
+  ],
+  "UpgradeItemNum": [
+   38528,
+   700
+  ],
+  "AttrIDs": [
+   4,
+   100,
+   102
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   373800,
+   24920,
+   12460
+  ]
+ },
+ {
+  "ID": 101,
+  "UpgradeItem": [
+   204
+  ],
+  "UpgradeItemNum": [
+   40528
+  ],
+  "AttrIDs": [
+   4,
+   100,
+   102
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   393000,
+   26200,
+   13100
+  ]
+ },
+ {
+  "ID": 102,
+  "UpgradeItem": [
+   204
+  ],
+  "UpgradeItemNum": [
+   42528
+  ],
+  "AttrIDs": [
+   4,
+   100,
+   102
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   412200,
+   27480,
+   13740
+  ]
+ },
+ {
+  "ID": 103,
+  "UpgradeItem": [
+   204
+  ],
+  "UpgradeItemNum": [
+   44528
+  ],
+  "AttrIDs": [
+   4,
+   100,
+   102
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   431400,
+   28760,
+   14380
+  ]
+ },
+ {
+  "ID": 104,
+  "UpgradeItem": [
+   204
+  ],
+  "UpgradeItemNum": [
+   46528
+  ],
+  "AttrIDs": [
+   4,
+   100,
+   102
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   450600,
+   30040,
+   15020
+  ]
+ },
+ {
+  "ID": 105,
+  "UpgradeItem": [
+   204
+  ],
+  "UpgradeItemNum": [
+   48528
+  ],
+  "AttrIDs": [
+   4,
+   100,
+   102
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   469800,
+   31320,
+   15660
+  ]
+ },
+ {
+  "ID": 106,
+  "UpgradeItem": [
+   204
+  ],
+  "UpgradeItemNum": [
+   50528
+  ],
+  "AttrIDs": [
+   4,
+   100,
+   102
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   489000,
+   32600,
+   16300
+  ]
+ },
+ {
+  "ID": 107,
+  "UpgradeItem": [
+   204
+  ],
+  "UpgradeItemNum": [
+   52528
+  ],
+  "AttrIDs": [
+   4,
+   100,
+   102
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   508200,
+   33880,
+   16940
+  ]
+ },
+ {
+  "ID": 108,
+  "UpgradeItem": [
+   204
+  ],
+  "UpgradeItemNum": [
+   54528
+  ],
+  "AttrIDs": [
+   4,
+   100,
+   102
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   527400,
+   35160,
+   17580
+  ]
+ },
+ {
+  "ID": 109,
+  "UpgradeItem": [
+   204
+  ],
+  "UpgradeItemNum": [
+   56528
+  ],
+  "AttrIDs": [
+   4,
+   100,
+   102
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   546600,
+   36440,
+   18220
+  ]
+ },
+ {
+  "ID": 110,
+  "UpgradeItem": [
+   204,
+   205
+  ],
+  "UpgradeItemNum": [
+   58528,
+   1200
+  ],
+  "AttrIDs": [
+   4,
+   100,
+   102
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   565800,
+   37720,
+   18860
+  ]
+ },
+ {
+  "ID": 111,
+  "UpgradeItem": [
+   204
+  ],
+  "UpgradeItemNum": [
+   61528
+  ],
+  "AttrIDs": [
+   4,
+   100,
+   102
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   595800,
+   39720,
+   19860
+  ]
+ },
+ {
+  "ID": 112,
+  "UpgradeItem": [
+   204
+  ],
+  "UpgradeItemNum": [
+   64528
+  ],
+  "AttrIDs": [
+   4,
+   100,
+   102
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   625800,
+   41720,
+   20860
+  ]
+ },
+ {
+  "ID": 113,
+  "UpgradeItem": [
+   204
+  ],
+  "UpgradeItemNum": [
+   67528
+  ],
+  "AttrIDs": [
+   4,
+   100,
+   102
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   655800,
+   43720,
+   21860
+  ]
+ },
+ {
+  "ID": 114,
+  "UpgradeItem": [
+   204
+  ],
+  "UpgradeItemNum": [
+   70528
+  ],
+  "AttrIDs": [
+   4,
+   100,
+   102
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   685800,
+   45720,
+   22860
+  ]
+ },
+ {
+  "ID": 115,
+  "UpgradeItem": [
+   204
+  ],
+  "UpgradeItemNum": [
+   73528
+  ],
+  "AttrIDs": [
+   4,
+   100,
+   102
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   715800,
+   47720,
+   23860
+  ]
+ },
+ {
+  "ID": 116,
+  "UpgradeItem": [
+   204
+  ],
+  "UpgradeItemNum": [
+   76528
+  ],
+  "AttrIDs": [
+   4,
+   100,
+   102
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   745800,
+   49720,
+   24860
+  ]
+ },
+ {
+  "ID": 117,
+  "UpgradeItem": [
+   204
+  ],
+  "UpgradeItemNum": [
+   79528
+  ],
+  "AttrIDs": [
+   4,
+   100,
+   102
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   775800,
+   51720,
+   25860
+  ]
+ },
+ {
+  "ID": 118,
+  "UpgradeItem": [
+   204
+  ],
+  "UpgradeItemNum": [
+   82528
+  ],
+  "AttrIDs": [
+   4,
+   100,
+   102
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   805800,
+   53720,
+   26860
+  ]
+ },
+ {
+  "ID": 119,
+  "UpgradeItem": [
+   204
+  ],
+  "UpgradeItemNum": [
+   85528
+  ],
+  "AttrIDs": [
+   4,
+   100,
+   102
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   835800,
+   55720,
+   27860
+  ]
+ },
+ {
+  "ID": 120,
+  "UpgradeItem": [
+   204,
+   205
+  ],
+  "UpgradeItemNum": [
+   88528,
+   1800
+  ],
+  "AttrIDs": [
+   4,
+   100,
+   102
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   865800,
+   57720,
+   28860
+  ]
+ },
+ {
+  "ID": 121,
+  "UpgradeItem": [
+   204
+  ],
+  "UpgradeItemNum": [
+   93028
+  ],
+  "AttrIDs": [
+   4,
+   100,
+   102
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   913800,
+   60920,
+   30460
+  ]
+ },
+ {
+  "ID": 122,
+  "UpgradeItem": [
+   204
+  ],
+  "UpgradeItemNum": [
+   97528
+  ],
+  "AttrIDs": [
+   4,
+   100,
+   102
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   961800,
+   64120,
+   32060
+  ]
+ },
+ {
+  "ID": 123,
+  "UpgradeItem": [
+   204
+  ],
+  "UpgradeItemNum": [
+   102028
+  ],
+  "AttrIDs": [
+   4,
+   100,
+   102
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   1009800,
+   67320,
+   33660
+  ]
+ },
+ {
+  "ID": 124,
+  "UpgradeItem": [
+   204
+  ],
+  "UpgradeItemNum": [
+   106528
+  ],
+  "AttrIDs": [
+   4,
+   100,
+   102
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   1057800,
+   70520,
+   35260
+  ]
+ },
+ {
+  "ID": 125,
+  "UpgradeItem": [
+   204
+  ],
+  "UpgradeItemNum": [
+   111028
+  ],
+  "AttrIDs": [
+   4,
+   100,
+   102
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   1105800,
+   73720,
+   36860
+  ]
+ },
+ {
+  "ID": 126,
+  "UpgradeItem": [
+   204
+  ],
+  "UpgradeItemNum": [
+   115528
+  ],
+  "AttrIDs": [
+   4,
+   100,
+   102
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   1153800,
+   76920,
+   38460
+  ]
+ },
+ {
+  "ID": 127,
+  "UpgradeItem": [
+   204
+  ],
+  "UpgradeItemNum": [
+   120028
+  ],
+  "AttrIDs": [
+   4,
+   100,
+   102
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   1201800,
+   80120,
+   40060
+  ]
+ },
+ {
+  "ID": 128,
+  "UpgradeItem": [
+   204
+  ],
+  "UpgradeItemNum": [
+   124528
+  ],
+  "AttrIDs": [
+   4,
+   100,
+   102
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   1249800,
+   83320,
+   41660
+  ]
+ },
+ {
+  "ID": 129,
+  "UpgradeItem": [
+   204
+  ],
+  "UpgradeItemNum": [
+   129028
+  ],
+  "AttrIDs": [
+   4,
+   100,
+   102
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   1297800,
+   86520,
+   43260
+  ]
+ },
+ {
+  "ID": 130,
+  "UpgradeItem": [
+   204,
+   205
+  ],
+  "UpgradeItemNum": [
+   133528,
+   2500
+  ],
+  "AttrIDs": [
+   4,
+   100,
+   102
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   1345800,
+   89720,
+   44860
+  ]
+ },
+ {
+  "ID": 131,
+  "UpgradeItem": [
+   204
+  ],
+  "UpgradeItemNum": [
+   140528
+  ],
+  "AttrIDs": [
+   4,
+   100,
+   102
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   1413300,
+   94220,
+   47110
+  ]
+ },
+ {
+  "ID": 132,
+  "UpgradeItem": [
+   204
+  ],
+  "UpgradeItemNum": [
+   147528
+  ],
+  "AttrIDs": [
+   4,
+   100,
+   102
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   1480800,
+   98720,
+   49360
+  ]
+ },
+ {
+  "ID": 133,
+  "UpgradeItem": [
+   204
+  ],
+  "UpgradeItemNum": [
+   154528
+  ],
+  "AttrIDs": [
+   4,
+   100,
+   102
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   1548300,
+   103220,
+   51610
+  ]
+ },
+ {
+  "ID": 134,
+  "UpgradeItem": [
+   204
+  ],
+  "UpgradeItemNum": [
+   161528
+  ],
+  "AttrIDs": [
+   4,
+   100,
+   102
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   1615800,
+   107720,
+   53860
+  ]
+ },
+ {
+  "ID": 135,
+  "UpgradeItem": [
+   204
+  ],
+  "UpgradeItemNum": [
+   168528
+  ],
+  "AttrIDs": [
+   4,
+   100,
+   102
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   1683300,
+   112220,
+   56110
+  ]
+ },
+ {
+  "ID": 136,
+  "UpgradeItem": [
+   204
+  ],
+  "UpgradeItemNum": [
+   175528
+  ],
+  "AttrIDs": [
+   4,
+   100,
+   102
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   1750800,
+   116720,
+   58360
+  ]
+ },
+ {
+  "ID": 137,
+  "UpgradeItem": [
+   204
+  ],
+  "UpgradeItemNum": [
+   182528
+  ],
+  "AttrIDs": [
+   4,
+   100,
+   102
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   1818300,
+   121220,
+   60610
+  ]
+ },
+ {
+  "ID": 138,
+  "UpgradeItem": [
+   204
+  ],
+  "UpgradeItemNum": [
+   189528
+  ],
+  "AttrIDs": [
+   4,
+   100,
+   102
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   1885800,
+   125720,
+   62860
+  ]
+ },
+ {
+  "ID": 139,
+  "UpgradeItem": [
+   204
+  ],
+  "UpgradeItemNum": [
+   196528
+  ],
+  "AttrIDs": [
+   4,
+   100,
+   102
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   1953300,
+   130220,
+   65110
+  ]
+ },
+ {
+  "ID": 140,
+  "UpgradeItem": [
+   204,
+   205
+  ],
+  "UpgradeItemNum": [
+   203528,
+   3500
+  ],
+  "AttrIDs": [
+   4,
+   100,
+   102
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   2020800,
+   134720,
+   67360
+  ]
+ },
+ {
+  "ID": 141,
+  "UpgradeItem": [
+   204
+  ],
+  "UpgradeItemNum": [
+   213528
+  ],
+  "AttrIDs": [
+   4,
+   100,
+   102
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   2118300,
+   141220,
+   70610
+  ]
+ },
+ {
+  "ID": 142,
+  "UpgradeItem": [
+   204
+  ],
+  "UpgradeItemNum": [
+   223528
+  ],
+  "AttrIDs": [
+   4,
+   100,
+   102
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   2215800,
+   147720,
+   73860
+  ]
+ },
+ {
+  "ID": 143,
+  "UpgradeItem": [
+   204
+  ],
+  "UpgradeItemNum": [
+   233528
+  ],
+  "AttrIDs": [
+   4,
+   100,
+   102
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   2313300,
+   154220,
+   77110
+  ]
+ },
+ {
+  "ID": 144,
+  "UpgradeItem": [
+   204
+  ],
+  "UpgradeItemNum": [
+   243528
+  ],
+  "AttrIDs": [
+   4,
+   100,
+   102
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   2410800,
+   160720,
+   80360
+  ]
+ },
+ {
+  "ID": 145,
+  "UpgradeItem": [
+   204
+  ],
+  "UpgradeItemNum": [
+   253528
+  ],
+  "AttrIDs": [
+   4,
+   100,
+   102
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   2508300,
+   167220,
+   83610
+  ]
+ },
+ {
+  "ID": 146,
+  "UpgradeItem": [
+   204
+  ],
+  "UpgradeItemNum": [
+   263528
+  ],
+  "AttrIDs": [
+   4,
+   100,
+   102
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   2605800,
+   173720,
+   86860
+  ]
+ },
+ {
+  "ID": 147,
+  "UpgradeItem": [
+   204
+  ],
+  "UpgradeItemNum": [
+   273528
+  ],
+  "AttrIDs": [
+   4,
+   100,
+   102
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   2703300,
+   180220,
+   90110
+  ]
+ },
+ {
+  "ID": 148,
+  "UpgradeItem": [
+   204
+  ],
+  "UpgradeItemNum": [
+   283528
+  ],
+  "AttrIDs": [
+   4,
+   100,
+   102
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   2800800,
+   186720,
+   93360
+  ]
+ },
+ {
+  "ID": 149,
+  "UpgradeItem": [
+   204
+  ],
+  "UpgradeItemNum": [
+   293528
+  ],
+  "AttrIDs": [
+   4,
+   100,
+   102
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   2898300,
+   193220,
+   96610
+  ]
+ },
+ {
+  "ID": 150,
+  "UpgradeItem": [
+   204,
+   205
+  ],
+  "UpgradeItemNum": [
+   303528,
+   5000
+  ],
+  "AttrIDs": [
+   4,
+   100,
+   102
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   2995800,
+   199720,
+   99860
+  ]
+ },
+ {
+  "ID": 151,
+  "UpgradeItem": [
+   204
+  ],
+  "UpgradeItemNum": [
+   316528
+  ],
+  "AttrIDs": [
+   4,
+   100,
+   102
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   3133800,
+   208920,
+   104460
+  ]
+ },
+ {
+  "ID": 152,
+  "UpgradeItem": [
+   204
+  ],
+  "UpgradeItemNum": [
+   329528
+  ],
+  "AttrIDs": [
+   4,
+   100,
+   102
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   3271800,
+   218120,
+   109060
+  ]
+ },
+ {
+  "ID": 153,
+  "UpgradeItem": [
+   204
+  ],
+  "UpgradeItemNum": [
+   342528
+  ],
+  "AttrIDs": [
+   4,
+   100,
+   102
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   3409800,
+   227320,
+   113660
+  ]
+ },
+ {
+  "ID": 154,
+  "UpgradeItem": [
+   204
+  ],
+  "UpgradeItemNum": [
+   355528
+  ],
+  "AttrIDs": [
+   4,
+   100,
+   102
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   3547800,
+   236520,
+   118260
+  ]
+ },
+ {
+  "ID": 155,
+  "UpgradeItem": [
+   204
+  ],
+  "UpgradeItemNum": [
+   368528
+  ],
+  "AttrIDs": [
+   4,
+   100,
+   102
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   3685800,
+   245720,
+   122860
+  ]
+ },
+ {
+  "ID": 156,
+  "UpgradeItem": [
+   204
+  ],
+  "UpgradeItemNum": [
+   381528
+  ],
+  "AttrIDs": [
+   4,
+   100,
+   102
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   3823800,
+   254920,
+   127460
+  ]
+ },
+ {
+  "ID": 157,
+  "UpgradeItem": [
+   204
+  ],
+  "UpgradeItemNum": [
+   394528
+  ],
+  "AttrIDs": [
+   4,
+   100,
+   102
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   3961800,
+   264120,
+   132060
+  ]
+ },
+ {
+  "ID": 158,
+  "UpgradeItem": [
+   204
+  ],
+  "UpgradeItemNum": [
+   407528
+  ],
+  "AttrIDs": [
+   4,
+   100,
+   102
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   4099800,
+   273320,
+   136660
+  ]
+ },
+ {
+  "ID": 159,
+  "UpgradeItem": [
+   204
+  ],
+  "UpgradeItemNum": [
+   420528
+  ],
+  "AttrIDs": [
+   4,
+   100,
+   102
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   4237800,
+   282520,
+   141260
+  ]
+ },
+ {
+  "ID": 160,
+  "UpgradeItem": [
+   204,
+   205
+  ],
+  "UpgradeItemNum": [
+   433528,
+   6500
+  ],
+  "AttrIDs": [
+   4,
+   100,
+   102
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   4375800,
+   291720,
+   145860
+  ]
+ },
+ {
+  "ID": 161,
+  "UpgradeItem": [
+   204
+  ],
+  "UpgradeItemNum": [
+   449528
+  ],
+  "AttrIDs": [
+   4,
+   100,
+   102
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   4567800,
+   304520,
+   152260
+  ]
+ },
+ {
+  "ID": 162,
+  "UpgradeItem": [
+   204
+  ],
+  "UpgradeItemNum": [
+   465528
+  ],
+  "AttrIDs": [
+   4,
+   100,
+   102
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   4759800,
+   317320,
+   158660
+  ]
+ },
+ {
+  "ID": 163,
+  "UpgradeItem": [
+   204
+  ],
+  "UpgradeItemNum": [
+   481528
+  ],
+  "AttrIDs": [
+   4,
+   100,
+   102
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   4951800,
+   330120,
+   165060
+  ]
+ },
+ {
+  "ID": 164,
+  "UpgradeItem": [
+   204
+  ],
+  "UpgradeItemNum": [
+   497528
+  ],
+  "AttrIDs": [
+   4,
+   100,
+   102
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   5143800,
+   342920,
+   171460
+  ]
+ },
+ {
+  "ID": 165,
+  "UpgradeItem": [
+   204
+  ],
+  "UpgradeItemNum": [
+   513528
+  ],
+  "AttrIDs": [
+   4,
+   100,
+   102
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   5335800,
+   355720,
+   177860
+  ]
+ },
+ {
+  "ID": 166,
+  "UpgradeItem": [
+   204
+  ],
+  "UpgradeItemNum": [
+   529528
+  ],
+  "AttrIDs": [
+   4,
+   100,
+   102
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   5527800,
+   368520,
+   184260
+  ]
+ },
+ {
+  "ID": 167,
+  "UpgradeItem": [
+   204
+  ],
+  "UpgradeItemNum": [
+   545528
+  ],
+  "AttrIDs": [
+   4,
+   100,
+   102
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   5719800,
+   381320,
+   190660
+  ]
+ },
+ {
+  "ID": 168,
+  "UpgradeItem": [
+   204
+  ],
+  "UpgradeItemNum": [
+   561528
+  ],
+  "AttrIDs": [
+   4,
+   100,
+   102
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   5911800,
+   394120,
+   197060
+  ]
+ },
+ {
+  "ID": 169,
+  "UpgradeItem": [
+   204
+  ],
+  "UpgradeItemNum": [
+   577528
+  ],
+  "AttrIDs": [
+   4,
+   100,
+   102
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   6103800,
+   406920,
+   203460
+  ]
+ },
+ {
+  "ID": 170,
+  "UpgradeItem": [
+   204,
+   205
+  ],
+  "UpgradeItemNum": [
+   593528,
+   8000
+  ],
+  "AttrIDs": [
+   4,
+   100,
+   102
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   6295800,
+   419720,
+   209860
+  ]
+ },
+ {
+  "ID": 171,
+  "UpgradeItem": [
+   204
+  ],
+  "UpgradeItemNum": [
+   613528
+  ],
+  "AttrIDs": [
+   4,
+   100,
+   102
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   6535800,
+   435720,
+   217860
+  ]
+ },
+ {
+  "ID": 172,
+  "UpgradeItem": [
+   204
+  ],
+  "UpgradeItemNum": [
+   633528
+  ],
+  "AttrIDs": [
+   4,
+   100,
+   102
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   6775800,
+   451720,
+   225860
+  ]
+ },
+ {
+  "ID": 173,
+  "UpgradeItem": [
+   204
+  ],
+  "UpgradeItemNum": [
+   653528
+  ],
+  "AttrIDs": [
+   4,
+   100,
+   102
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   7015800,
+   467720,
+   233860
+  ]
+ },
+ {
+  "ID": 174,
+  "UpgradeItem": [
+   204
+  ],
+  "UpgradeItemNum": [
+   673528
+  ],
+  "AttrIDs": [
+   4,
+   100,
+   102
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   7255800,
+   483720,
+   241860
+  ]
+ },
+ {
+  "ID": 175,
+  "UpgradeItem": [
+   204
+  ],
+  "UpgradeItemNum": [
+   693528
+  ],
+  "AttrIDs": [
+   4,
+   100,
+   102
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   7495800,
+   499720,
+   249860
+  ]
+ },
+ {
+  "ID": 176,
+  "UpgradeItem": [
+   204
+  ],
+  "UpgradeItemNum": [
+   713528
+  ],
+  "AttrIDs": [
+   4,
+   100,
+   102
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   7735800,
+   515720,
+   257860
+  ]
+ },
+ {
+  "ID": 177,
+  "UpgradeItem": [
+   204
+  ],
+  "UpgradeItemNum": [
+   733528
+  ],
+  "AttrIDs": [
+   4,
+   100,
+   102
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   7975800,
+   531720,
+   265860
+  ]
+ },
+ {
+  "ID": 178,
+  "UpgradeItem": [
+   204
+  ],
+  "UpgradeItemNum": [
+   753528
+  ],
+  "AttrIDs": [
+   4,
+   100,
+   102
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   8215800,
+   547720,
+   273860
+  ]
+ },
+ {
+  "ID": 179,
+  "UpgradeItem": [
+   204
+  ],
+  "UpgradeItemNum": [
+   773528
+  ],
+  "AttrIDs": [
+   4,
+   100,
+   102
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   8455800,
+   563720,
+   281860
+  ]
+ },
+ {
+  "ID": 180,
+  "UpgradeItem": [
+   204,
+   205
+  ],
+  "UpgradeItemNum": [
+   793528,
+   10000
+  ],
+  "AttrIDs": [
+   4,
+   100,
+   102
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   8695800,
+   579720,
+   289860
+  ]
+ },
+ {
+  "ID": 181,
+  "UpgradeItem": [
+   204
+  ],
+  "UpgradeItemNum": [
+   814528
+  ],
+  "AttrIDs": [
+   4,
+   100,
+   102
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   9010800,
+   600720,
+   300360
+  ]
+ },
+ {
+  "ID": 182,
+  "UpgradeItem": [
+   204
+  ],
+  "UpgradeItemNum": [
+   835528
+  ],
+  "AttrIDs": [
+   4,
+   100,
+   102
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   9325800,
+   621720,
+   310860
+  ]
+ },
+ {
+  "ID": 183,
+  "UpgradeItem": [
+   204
+  ],
+  "UpgradeItemNum": [
+   856528
+  ],
+  "AttrIDs": [
+   4,
+   100,
+   102
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   9640800,
+   642720,
+   321360
+  ]
+ },
+ {
+  "ID": 184,
+  "UpgradeItem": [
+   204
+  ],
+  "UpgradeItemNum": [
+   877528
+  ],
+  "AttrIDs": [
+   4,
+   100,
+   102
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   9955800,
+   663720,
+   331860
+  ]
+ },
+ {
+  "ID": 185,
+  "UpgradeItem": [
+   204
+  ],
+  "UpgradeItemNum": [
+   898528
+  ],
+  "AttrIDs": [
+   4,
+   100,
+   102
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   10270800,
+   684720,
+   342360
+  ]
+ },
+ {
+  "ID": 186,
+  "UpgradeItem": [
+   204
+  ],
+  "UpgradeItemNum": [
+   919528
+  ],
+  "AttrIDs": [
+   4,
+   100,
+   102
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   10585800,
+   705720,
+   352860
+  ]
+ },
+ {
+  "ID": 187,
+  "UpgradeItem": [
+   204
+  ],
+  "UpgradeItemNum": [
+   940528
+  ],
+  "AttrIDs": [
+   4,
+   100,
+   102
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   10900800,
+   726720,
+   363360
+  ]
+ },
+ {
+  "ID": 188,
+  "UpgradeItem": [
+   204
+  ],
+  "UpgradeItemNum": [
+   961528
+  ],
+  "AttrIDs": [
+   4,
+   100,
+   102
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   11215800,
+   747720,
+   373860
+  ]
+ },
+ {
+  "ID": 189,
+  "UpgradeItem": [
+   204
+  ],
+  "UpgradeItemNum": [
+   982528
+  ],
+  "AttrIDs": [
+   4,
+   100,
+   102
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   11530800,
+   768720,
+   384360
+  ]
+ },
+ {
+  "ID": 190,
+  "UpgradeItem": [
+   204,
+   205
+  ],
+  "UpgradeItemNum": [
+   1003528,
+   12000
+  ],
+  "AttrIDs": [
+   4,
+   100,
+   102
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   11845800,
+   789720,
+   394860
+  ]
+ },
+ {
+  "ID": 191,
+  "UpgradeItem": [
+   204
+  ],
+  "UpgradeItemNum": [
+   1025528
+  ],
+  "AttrIDs": [
+   4,
+   100,
+   102
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   12220800,
+   814720,
+   407360
+  ]
+ },
+ {
+  "ID": 192,
+  "UpgradeItem": [
+   204
+  ],
+  "UpgradeItemNum": [
+   1047528
+  ],
+  "AttrIDs": [
+   4,
+   100,
+   102
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   12595800,
+   839720,
+   419860
+  ]
+ },
+ {
+  "ID": 193,
+  "UpgradeItem": [
+   204
+  ],
+  "UpgradeItemNum": [
+   1069528
+  ],
+  "AttrIDs": [
+   4,
+   100,
+   102
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   12970800,
+   864720,
+   432360
+  ]
+ },
+ {
+  "ID": 194,
+  "UpgradeItem": [
+   204
+  ],
+  "UpgradeItemNum": [
+   1091528
+  ],
+  "AttrIDs": [
+   4,
+   100,
+   102
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   13345800,
+   889720,
+   444860
+  ]
+ },
+ {
+  "ID": 195,
+  "UpgradeItem": [
+   204
+  ],
+  "UpgradeItemNum": [
+   1113528
+  ],
+  "AttrIDs": [
+   4,
+   100,
+   102
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   13720800,
+   914720,
+   457360
+  ]
+ },
+ {
+  "ID": 196,
+  "UpgradeItem": [
+   204
+  ],
+  "UpgradeItemNum": [
+   1135528
+  ],
+  "AttrIDs": [
+   4,
+   100,
+   102
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   14095800,
+   939720,
+   469860
+  ]
+ },
+ {
+  "ID": 197,
+  "UpgradeItem": [
+   204
+  ],
+  "UpgradeItemNum": [
+   1157528
+  ],
+  "AttrIDs": [
+   4,
+   100,
+   102
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   14470800,
+   964720,
+   482360
+  ]
+ },
+ {
+  "ID": 198,
+  "UpgradeItem": [
+   204
+  ],
+  "UpgradeItemNum": [
+   1179528
+  ],
+  "AttrIDs": [
+   4,
+   100,
+   102
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   14845800,
+   989720,
+   494860
+  ]
+ },
+ {
+  "ID": 199,
+  "UpgradeItem": [
+   204
+  ],
+  "UpgradeItemNum": [
+   1201528
+  ],
+  "AttrIDs": [
+   4,
+   100,
+   102
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   15220800,
+   1014720,
+   507360
+  ]
+ },
+ {
+  "ID": 200,
+  "UpgradeItem": [
+   204,
+   205
+  ],
+  "UpgradeItemNum": [
+   1223528,
+   14000
+  ],
+  "AttrIDs": [
+   4,
+   100,
+   102
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   15595800,
+   1039720,
+   519860
+  ]
+ },
+ {
+  "ID": 201,
+  "UpgradeItem": [
+   204
+  ],
+  "UpgradeItemNum": [
+   1246528
+  ],
+  "AttrIDs": [
+   4,
+   100,
+   102
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   16045800,
+   1069720,
+   534860
+  ]
+ },
+ {
+  "ID": 202,
+  "UpgradeItem": [
+   204
+  ],
+  "UpgradeItemNum": [
+   1269528
+  ],
+  "AttrIDs": [
+   4,
+   100,
+   102
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   16495800,
+   1099720,
+   549860
+  ]
+ },
+ {
+  "ID": 203,
+  "UpgradeItem": [
+   204
+  ],
+  "UpgradeItemNum": [
+   1292528
+  ],
+  "AttrIDs": [
+   4,
+   100,
+   102
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   16945800,
+   1129720,
+   564860
+  ]
+ },
+ {
+  "ID": 204,
+  "UpgradeItem": [
+   204
+  ],
+  "UpgradeItemNum": [
+   1315528
+  ],
+  "AttrIDs": [
+   4,
+   100,
+   102
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   17395800,
+   1159720,
+   579860
+  ]
+ },
+ {
+  "ID": 205,
+  "UpgradeItem": [
+   204
+  ],
+  "UpgradeItemNum": [
+   1338528
+  ],
+  "AttrIDs": [
+   4,
+   100,
+   102
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   17845800,
+   1189720,
+   594860
+  ]
+ },
+ {
+  "ID": 206,
+  "UpgradeItem": [
+   204
+  ],
+  "UpgradeItemNum": [
+   1361528
+  ],
+  "AttrIDs": [
+   4,
+   100,
+   102
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   18295800,
+   1219720,
+   609860
+  ]
+ },
+ {
+  "ID": 207,
+  "UpgradeItem": [
+   204
+  ],
+  "UpgradeItemNum": [
+   1384528
+  ],
+  "AttrIDs": [
+   4,
+   100,
+   102
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   18745800,
+   1249720,
+   624860
+  ]
+ },
+ {
+  "ID": 208,
+  "UpgradeItem": [
+   204
+  ],
+  "UpgradeItemNum": [
+   1407528
+  ],
+  "AttrIDs": [
+   4,
+   100,
+   102
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   19195800,
+   1279720,
+   639860
+  ]
+ },
+ {
+  "ID": 209,
+  "UpgradeItem": [
+   204
+  ],
+  "UpgradeItemNum": [
+   1430528
+  ],
+  "AttrIDs": [
+   4,
+   100,
+   102
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   19645800,
+   1309720,
+   654860
+  ]
+ },
+ {
+  "ID": 210,
+  "UpgradeItem": [
+   204,
+   205
+  ],
+  "UpgradeItemNum": [
+   1453528,
+   16000
+  ],
+  "AttrIDs": [
+   4,
+   100,
+   102
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   20095800,
+   1339720,
+   669860
+  ]
+ },
+ {
+  "ID": 211,
+  "UpgradeItem": [
+   204
+  ],
+  "UpgradeItemNum": [
+   1477528
+  ],
+  "AttrIDs": [
+   4,
+   100,
+   102
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   20620800,
+   1374720,
+   687360
+  ]
+ },
+ {
+  "ID": 212,
+  "UpgradeItem": [
+   204
+  ],
+  "UpgradeItemNum": [
+   1501528
+  ],
+  "AttrIDs": [
+   4,
+   100,
+   102
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   21145800,
+   1409720,
+   704860
+  ]
+ },
+ {
+  "ID": 213,
+  "UpgradeItem": [
+   204
+  ],
+  "UpgradeItemNum": [
+   1525528
+  ],
+  "AttrIDs": [
+   4,
+   100,
+   102
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   21670800,
+   1444720,
+   722360
+  ]
+ },
+ {
+  "ID": 214,
+  "UpgradeItem": [
+   204
+  ],
+  "UpgradeItemNum": [
+   1549528
+  ],
+  "AttrIDs": [
+   4,
+   100,
+   102
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   22195800,
+   1479720,
+   739860
+  ]
+ },
+ {
+  "ID": 215,
+  "UpgradeItem": [
+   204
+  ],
+  "UpgradeItemNum": [
+   1573528
+  ],
+  "AttrIDs": [
+   4,
+   100,
+   102
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   22720800,
+   1514720,
+   757360
+  ]
+ },
+ {
+  "ID": 216,
+  "UpgradeItem": [
+   204
+  ],
+  "UpgradeItemNum": [
+   1597528
+  ],
+  "AttrIDs": [
+   4,
+   100,
+   102
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   23245800,
+   1549720,
+   774860
+  ]
+ },
+ {
+  "ID": 217,
+  "UpgradeItem": [
+   204
+  ],
+  "UpgradeItemNum": [
+   1621528
+  ],
+  "AttrIDs": [
+   4,
+   100,
+   102
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   23770800,
+   1584720,
+   792360
+  ]
+ },
+ {
+  "ID": 218,
+  "UpgradeItem": [
+   204
+  ],
+  "UpgradeItemNum": [
+   1645528
+  ],
+  "AttrIDs": [
+   4,
+   100,
+   102
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   24295800,
+   1619720,
+   809860
+  ]
+ },
+ {
+  "ID": 219,
+  "UpgradeItem": [
+   204
+  ],
+  "UpgradeItemNum": [
+   1669528
+  ],
+  "AttrIDs": [
+   4,
+   100,
+   102
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   24820800,
+   1654720,
+   827360
+  ]
+ },
+ {
+  "ID": 220,
+  "UpgradeItem": [
+   204,
+   205
+  ],
+  "UpgradeItemNum": [
+   1693528,
+   18000
+  ],
+  "AttrIDs": [
+   4,
+   100,
+   102
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   25345800,
+   1689720,
+   844860
+  ]
+ },
+ {
+  "ID": 221,
+  "UpgradeItem": [
+   204
+  ],
+  "UpgradeItemNum": [
+   1718528
+  ],
+  "AttrIDs": [
+   4,
+   100,
+   102
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   25945800,
+   1729720,
+   864860
+  ]
+ },
+ {
+  "ID": 222,
+  "UpgradeItem": [
+   204
+  ],
+  "UpgradeItemNum": [
+   1743528
+  ],
+  "AttrIDs": [
+   4,
+   100,
+   102
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   26545800,
+   1769720,
+   884860
+  ]
+ },
+ {
+  "ID": 223,
+  "UpgradeItem": [
+   204
+  ],
+  "UpgradeItemNum": [
+   1768528
+  ],
+  "AttrIDs": [
+   4,
+   100,
+   102
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   27145800,
+   1809720,
+   904860
+  ]
+ },
+ {
+  "ID": 224,
+  "UpgradeItem": [
+   204
+  ],
+  "UpgradeItemNum": [
+   1793528
+  ],
+  "AttrIDs": [
+   4,
+   100,
+   102
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   27745800,
+   1849720,
+   924860
+  ]
+ },
+ {
+  "ID": 225,
+  "UpgradeItem": [
+   204
+  ],
+  "UpgradeItemNum": [
+   1818528
+  ],
+  "AttrIDs": [
+   4,
+   100,
+   102
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   28345800,
+   1889720,
+   944860
+  ]
+ },
+ {
+  "ID": 226,
+  "UpgradeItem": [
+   204
+  ],
+  "UpgradeItemNum": [
+   1843528
+  ],
+  "AttrIDs": [
+   4,
+   100,
+   102
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   28945800,
+   1929720,
+   964860
+  ]
+ },
+ {
+  "ID": 227,
+  "UpgradeItem": [
+   204
+  ],
+  "UpgradeItemNum": [
+   1868528
+  ],
+  "AttrIDs": [
+   4,
+   100,
+   102
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   29545800,
+   1969720,
+   984860
+  ]
+ },
+ {
+  "ID": 228,
+  "UpgradeItem": [
+   204
+  ],
+  "UpgradeItemNum": [
+   1893528
+  ],
+  "AttrIDs": [
+   4,
+   100,
+   102
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   30145800,
+   2009720,
+   1004860
+  ]
+ },
+ {
+  "ID": 229,
+  "UpgradeItem": [
+   204
+  ],
+  "UpgradeItemNum": [
+   1918528
+  ],
+  "AttrIDs": [
+   4,
+   100,
+   102
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   30745800,
+   2049720,
+   1024860
+  ]
+ },
+ {
+  "ID": 230,
+  "UpgradeItem": [
+   204,
+   205
+  ],
+  "UpgradeItemNum": [
+   1943528,
+   20000
+  ],
+  "AttrIDs": [
+   4,
+   100,
+   102
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   31345800,
+   2089720,
+   1044860
+  ]
+ },
+ {
+  "ID": 231,
+  "UpgradeItem": [
+   204
+  ],
+  "UpgradeItemNum": [
+   1969528
+  ],
+  "AttrIDs": [
+   4,
+   100,
+   102
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   32020800,
+   2134720,
+   1067360
+  ]
+ },
+ {
+  "ID": 232,
+  "UpgradeItem": [
+   204
+  ],
+  "UpgradeItemNum": [
+   1995528
+  ],
+  "AttrIDs": [
+   4,
+   100,
+   102
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   32695800,
+   2179720,
+   1089860
+  ]
+ },
+ {
+  "ID": 233,
+  "UpgradeItem": [
+   204
+  ],
+  "UpgradeItemNum": [
+   2021528
+  ],
+  "AttrIDs": [
+   4,
+   100,
+   102
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   33370800,
+   2224720,
+   1112360
+  ]
+ },
+ {
+  "ID": 234,
+  "UpgradeItem": [
+   204
+  ],
+  "UpgradeItemNum": [
+   2047528
+  ],
+  "AttrIDs": [
+   4,
+   100,
+   102
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   34045800,
+   2269720,
+   1134860
+  ]
+ },
+ {
+  "ID": 235,
+  "UpgradeItem": [
+   204
+  ],
+  "UpgradeItemNum": [
+   2073528
+  ],
+  "AttrIDs": [
+   4,
+   100,
+   102
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   34720800,
+   2314720,
+   1157360
+  ]
+ },
+ {
+  "ID": 236,
+  "UpgradeItem": [
+   204
+  ],
+  "UpgradeItemNum": [
+   2099528
+  ],
+  "AttrIDs": [
+   4,
+   100,
+   102
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   35395800,
+   2359720,
+   1179860
+  ]
+ },
+ {
+  "ID": 237,
+  "UpgradeItem": [
+   204
+  ],
+  "UpgradeItemNum": [
+   2125528
+  ],
+  "AttrIDs": [
+   4,
+   100,
+   102
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   36070800,
+   2404720,
+   1202360
+  ]
+ },
+ {
+  "ID": 238,
+  "UpgradeItem": [
+   204
+  ],
+  "UpgradeItemNum": [
+   2151528
+  ],
+  "AttrIDs": [
+   4,
+   100,
+   102
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   36745800,
+   2449720,
+   1224860
+  ]
+ },
+ {
+  "ID": 239,
+  "UpgradeItem": [
+   204
+  ],
+  "UpgradeItemNum": [
+   2177528
+  ],
+  "AttrIDs": [
+   4,
+   100,
+   102
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   37420800,
+   2494720,
+   1247360
+  ]
+ },
+ {
+  "ID": 240,
+  "UpgradeItem": [
+   204,
+   205
+  ],
+  "UpgradeItemNum": [
+   2203528,
+   22000
+  ],
+  "AttrIDs": [
+   4,
+   100,
+   102
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   38095800,
+   2539720,
+   1269860
+  ]
+ },
+ {
+  "ID": 241,
+  "UpgradeItem": [
+   204
+  ],
+  "UpgradeItemNum": [
+   2230528
+  ],
+  "AttrIDs": [
+   4,
+   100,
+   102
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   38845800,
+   2589720,
+   1294860
+  ]
+ },
+ {
+  "ID": 242,
+  "UpgradeItem": [
+   204
+  ],
+  "UpgradeItemNum": [
+   2257528
+  ],
+  "AttrIDs": [
+   4,
+   100,
+   102
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   39595800,
+   2639720,
+   1319860
+  ]
+ },
+ {
+  "ID": 243,
+  "UpgradeItem": [
+   204
+  ],
+  "UpgradeItemNum": [
+   2284528
+  ],
+  "AttrIDs": [
+   4,
+   100,
+   102
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   40345800,
+   2689720,
+   1344860
+  ]
+ },
+ {
+  "ID": 244,
+  "UpgradeItem": [
+   204
+  ],
+  "UpgradeItemNum": [
+   2311528
+  ],
+  "AttrIDs": [
+   4,
+   100,
+   102
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   41095800,
+   2739720,
+   1369860
+  ]
+ },
+ {
+  "ID": 245,
+  "UpgradeItem": [
+   204
+  ],
+  "UpgradeItemNum": [
+   2338528
+  ],
+  "AttrIDs": [
+   4,
+   100,
+   102
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   41845800,
+   2789720,
+   1394860
+  ]
+ },
+ {
+  "ID": 246,
+  "UpgradeItem": [
+   204
+  ],
+  "UpgradeItemNum": [
+   2365528
+  ],
+  "AttrIDs": [
+   4,
+   100,
+   102
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   42595800,
+   2839720,
+   1419860
+  ]
+ },
+ {
+  "ID": 247,
+  "UpgradeItem": [
+   204
+  ],
+  "UpgradeItemNum": [
+   2392528
+  ],
+  "AttrIDs": [
+   4,
+   100,
+   102
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   43345800,
+   2889720,
+   1444860
+  ]
+ },
+ {
+  "ID": 248,
+  "UpgradeItem": [
+   204
+  ],
+  "UpgradeItemNum": [
+   2419528
+  ],
+  "AttrIDs": [
+   4,
+   100,
+   102
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   44095800,
+   2939720,
+   1469860
+  ]
+ },
+ {
+  "ID": 249,
+  "UpgradeItem": [
+   204
+  ],
+  "UpgradeItemNum": [
+   2446528
+  ],
+  "AttrIDs": [
+   4,
+   100,
+   102
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   44845800,
+   2989720,
+   1494860
+  ]
+ },
+ {
+  "ID": 250,
+  "UpgradeItem": [
+   204,
+   205
+  ],
+  "UpgradeItemNum": [
+   2473528,
+   24000
+  ],
+  "AttrIDs": [
+   4,
+   100,
+   102
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   45595800,
+   3039720,
+   1519860
+  ]
+ },
+ {
+  "ID": 251,
+  "UpgradeItem": [
+   204
+  ],
+  "UpgradeItemNum": [
+   2501528
+  ],
+  "AttrIDs": [
+   4,
+   100,
+   102
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   46420800,
+   3094720,
+   1547360
+  ]
+ },
+ {
+  "ID": 252,
+  "UpgradeItem": [
+   204
+  ],
+  "UpgradeItemNum": [
+   2529528
+  ],
+  "AttrIDs": [
+   4,
+   100,
+   102
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   47245800,
+   3149720,
+   1574860
+  ]
+ },
+ {
+  "ID": 253,
+  "UpgradeItem": [
+   204
+  ],
+  "UpgradeItemNum": [
+   2557528
+  ],
+  "AttrIDs": [
+   4,
+   100,
+   102
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   48070800,
+   3204720,
+   1602360
+  ]
+ },
+ {
+  "ID": 254,
+  "UpgradeItem": [
+   204
+  ],
+  "UpgradeItemNum": [
+   2585528
+  ],
+  "AttrIDs": [
+   4,
+   100,
+   102
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   48895800,
+   3259720,
+   1629860
+  ]
+ },
+ {
+  "ID": 255,
+  "UpgradeItem": [
+   204
+  ],
+  "UpgradeItemNum": [
+   2613528
+  ],
+  "AttrIDs": [
+   4,
+   100,
+   102
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   49720800,
+   3314720,
+   1657360
+  ]
+ },
+ {
+  "ID": 256,
+  "UpgradeItem": [
+   204
+  ],
+  "UpgradeItemNum": [
+   2641528
+  ],
+  "AttrIDs": [
+   4,
+   100,
+   102
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   50545800,
+   3369720,
+   1684860
+  ]
+ },
+ {
+  "ID": 257,
+  "UpgradeItem": [
+   204
+  ],
+  "UpgradeItemNum": [
+   2669528
+  ],
+  "AttrIDs": [
+   4,
+   100,
+   102
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   51370800,
+   3424720,
+   1712360
+  ]
+ },
+ {
+  "ID": 258,
+  "UpgradeItem": [
+   204
+  ],
+  "UpgradeItemNum": [
+   2697528
+  ],
+  "AttrIDs": [
+   4,
+   100,
+   102
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   52195800,
+   3479720,
+   1739860
+  ]
+ },
+ {
+  "ID": 259,
+  "UpgradeItem": [
+   204
+  ],
+  "UpgradeItemNum": [
+   2725528
+  ],
+  "AttrIDs": [
+   4,
+   100,
+   102
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   53020800,
+   3534720,
+   1767360
+  ]
+ },
+ {
+  "ID": 260,
+  "UpgradeItem": [
+   204,
+   205
+  ],
+  "UpgradeItemNum": [
+   2753528,
+   26000
+  ],
+  "AttrIDs": [
+   4,
+   100,
+   102
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   53845800,
+   3589720,
+   1794860
+  ]
+ },
+ {
+  "ID": 261,
+  "UpgradeItem": [
+   204
+  ],
+  "UpgradeItemNum": [
+   2782528
+  ],
+  "AttrIDs": [
+   4,
+   100,
+   102
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   54745800,
+   3649720,
+   1824860
+  ]
+ },
+ {
+  "ID": 262,
+  "UpgradeItem": [
+   204
+  ],
+  "UpgradeItemNum": [
+   2811528
+  ],
+  "AttrIDs": [
+   4,
+   100,
+   102
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   55645800,
+   3709720,
+   1854860
+  ]
+ },
+ {
+  "ID": 263,
+  "UpgradeItem": [
+   204
+  ],
+  "UpgradeItemNum": [
+   2840528
+  ],
+  "AttrIDs": [
+   4,
+   100,
+   102
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   56545800,
+   3769720,
+   1884860
+  ]
+ },
+ {
+  "ID": 264,
+  "UpgradeItem": [
+   204
+  ],
+  "UpgradeItemNum": [
+   2869528
+  ],
+  "AttrIDs": [
+   4,
+   100,
+   102
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   57445800,
+   3829720,
+   1914860
+  ]
+ },
+ {
+  "ID": 265,
+  "UpgradeItem": [
+   204
+  ],
+  "UpgradeItemNum": [
+   2898528
+  ],
+  "AttrIDs": [
+   4,
+   100,
+   102
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   58345800,
+   3889720,
+   1944860
+  ]
+ },
+ {
+  "ID": 266,
+  "UpgradeItem": [
+   204
+  ],
+  "UpgradeItemNum": [
+   2927528
+  ],
+  "AttrIDs": [
+   4,
+   100,
+   102
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   59245800,
+   3949720,
+   1974860
+  ]
+ },
+ {
+  "ID": 267,
+  "UpgradeItem": [
+   204
+  ],
+  "UpgradeItemNum": [
+   2956528
+  ],
+  "AttrIDs": [
+   4,
+   100,
+   102
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   60145800,
+   4009720,
+   2004860
+  ]
+ },
+ {
+  "ID": 268,
+  "UpgradeItem": [
+   204
+  ],
+  "UpgradeItemNum": [
+   2985528
+  ],
+  "AttrIDs": [
+   4,
+   100,
+   102
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   61045800,
+   4069720,
+   2034860
+  ]
+ },
+ {
+  "ID": 269,
+  "UpgradeItem": [
+   204
+  ],
+  "UpgradeItemNum": [
+   3014528
+  ],
+  "AttrIDs": [
+   4,
+   100,
+   102
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   61945800,
+   4129720,
+   2064860
+  ]
+ },
+ {
+  "ID": 270,
+  "UpgradeItem": [
+   204,
+   205
+  ],
+  "UpgradeItemNum": [
+   3043528,
+   28000
+  ],
+  "AttrIDs": [
+   4,
+   100,
+   102
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   62845800,
+   4189720,
+   2094860
+  ]
+ },
+ {
+  "ID": 271,
+  "UpgradeItem": [
+   204
+  ],
+  "UpgradeItemNum": [
+   3073528
+  ],
+  "AttrIDs": [
+   4,
+   100,
+   102
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   63820800,
+   4254720,
+   2127360
+  ]
+ },
+ {
+  "ID": 272,
+  "UpgradeItem": [
+   204
+  ],
+  "UpgradeItemNum": [
+   3103528
+  ],
+  "AttrIDs": [
+   4,
+   100,
+   102
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   64795800,
+   4319720,
+   2159860
+  ]
+ },
+ {
+  "ID": 273,
+  "UpgradeItem": [
+   204
+  ],
+  "UpgradeItemNum": [
+   3133528
+  ],
+  "AttrIDs": [
+   4,
+   100,
+   102
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   65770800,
+   4384720,
+   2192360
+  ]
+ },
+ {
+  "ID": 274,
+  "UpgradeItem": [
+   204
+  ],
+  "UpgradeItemNum": [
+   3163528
+  ],
+  "AttrIDs": [
+   4,
+   100,
+   102
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   66745800,
+   4449720,
+   2224860
+  ]
+ },
+ {
+  "ID": 275,
+  "UpgradeItem": [
+   204
+  ],
+  "UpgradeItemNum": [
+   3193528
+  ],
+  "AttrIDs": [
+   4,
+   100,
+   102
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   67720800,
+   4514720,
+   2257360
+  ]
+ },
+ {
+  "ID": 276,
+  "UpgradeItem": [
+   204
+  ],
+  "UpgradeItemNum": [
+   3223528
+  ],
+  "AttrIDs": [
+   4,
+   100,
+   102
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   68695800,
+   4579720,
+   2289860
+  ]
+ },
+ {
+  "ID": 277,
+  "UpgradeItem": [
+   204
+  ],
+  "UpgradeItemNum": [
+   3253528
+  ],
+  "AttrIDs": [
+   4,
+   100,
+   102
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   69670800,
+   4644720,
+   2322360
+  ]
+ },
+ {
+  "ID": 278,
+  "UpgradeItem": [
+   204
+  ],
+  "UpgradeItemNum": [
+   3283528
+  ],
+  "AttrIDs": [
+   4,
+   100,
+   102
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   70645800,
+   4709720,
+   2354860
+  ]
+ },
+ {
+  "ID": 279,
+  "UpgradeItem": [
+   204
+  ],
+  "UpgradeItemNum": [
+   3313528
+  ],
+  "AttrIDs": [
+   4,
+   100,
+   102
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   71620800,
+   4774720,
+   2387360
+  ]
+ },
+ {
+  "ID": 280,
+  "UpgradeItem": [
+   204,
+   205
+  ],
+  "UpgradeItemNum": [
+   3343528,
+   30000
+  ],
+  "AttrIDs": [
+   4,
+   100,
+   102
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   72595800,
+   4839720,
+   2419860
+  ]
+ },
+ {
+  "ID": 281,
+  "UpgradeItem": [
+   204
+  ],
+  "UpgradeItemNum": [
+   3375528
+  ],
+  "AttrIDs": [
+   4,
+   100,
+   102
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   73645800,
+   4909720,
+   2454860
+  ]
+ },
+ {
+  "ID": 282,
+  "UpgradeItem": [
+   204
+  ],
+  "UpgradeItemNum": [
+   3407528
+  ],
+  "AttrIDs": [
+   4,
+   100,
+   102
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   74695800,
+   4979720,
+   2489860
+  ]
+ },
+ {
+  "ID": 283,
+  "UpgradeItem": [
+   204
+  ],
+  "UpgradeItemNum": [
+   3439528
+  ],
+  "AttrIDs": [
+   4,
+   100,
+   102
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   75745800,
+   5049720,
+   2524860
+  ]
+ },
+ {
+  "ID": 284,
+  "UpgradeItem": [
+   204
+  ],
+  "UpgradeItemNum": [
+   3471528
+  ],
+  "AttrIDs": [
+   4,
+   100,
+   102
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   76795800,
+   5119720,
+   2559860
+  ]
+ },
+ {
+  "ID": 285,
+  "UpgradeItem": [
+   204
+  ],
+  "UpgradeItemNum": [
+   3503528
+  ],
+  "AttrIDs": [
+   4,
+   100,
+   102
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   77845800,
+   5189720,
+   2594860
+  ]
+ },
+ {
+  "ID": 286,
+  "UpgradeItem": [
+   204
+  ],
+  "UpgradeItemNum": [
+   3535528
+  ],
+  "AttrIDs": [
+   4,
+   100,
+   102
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   78895800,
+   5259720,
+   2629860
+  ]
+ },
+ {
+  "ID": 287,
+  "UpgradeItem": [
+   204
+  ],
+  "UpgradeItemNum": [
+   3567528
+  ],
+  "AttrIDs": [
+   4,
+   100,
+   102
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   79945800,
+   5329720,
+   2664860
+  ]
+ },
+ {
+  "ID": 288,
+  "UpgradeItem": [
+   204
+  ],
+  "UpgradeItemNum": [
+   3599528
+  ],
+  "AttrIDs": [
+   4,
+   100,
+   102
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   80995800,
+   5399720,
+   2699860
+  ]
+ },
+ {
+  "ID": 289,
+  "UpgradeItem": [
+   204
+  ],
+  "UpgradeItemNum": [
+   3631528
+  ],
+  "AttrIDs": [
+   4,
+   100,
+   102
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   82045800,
+   5469720,
+   2734860
+  ]
+ },
+ {
+  "ID": 290,
+  "UpgradeItem": [
+   204,
+   205
+  ],
+  "UpgradeItemNum": [
+   3663528,
+   32000
+  ],
+  "AttrIDs": [
+   4,
+   100,
+   102
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   83095800,
+   5539720,
+   2769860
+  ]
+ },
+ {
+  "ID": 291,
+  "UpgradeItem": [
+   204
+  ],
+  "UpgradeItemNum": [
+   3698528
+  ],
+  "AttrIDs": [
+   4,
+   100,
+   102
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   84220800,
+   5614720,
+   2807360
+  ]
+ },
+ {
+  "ID": 292,
+  "UpgradeItem": [
+   204
+  ],
+  "UpgradeItemNum": [
+   3733528
+  ],
+  "AttrIDs": [
+   4,
+   100,
+   102
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   85345800,
+   5689720,
+   2844860
+  ]
+ },
+ {
+  "ID": 293,
+  "UpgradeItem": [
+   204
+  ],
+  "UpgradeItemNum": [
+   3768528
+  ],
+  "AttrIDs": [
+   4,
+   100,
+   102
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   86470800,
+   5764720,
+   2882360
+  ]
+ },
+ {
+  "ID": 294,
+  "UpgradeItem": [
+   204
+  ],
+  "UpgradeItemNum": [
+   3803528
+  ],
+  "AttrIDs": [
+   4,
+   100,
+   102
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   87595800,
+   5839720,
+   2919860
+  ]
+ },
+ {
+  "ID": 295,
+  "UpgradeItem": [
+   204
+  ],
+  "UpgradeItemNum": [
+   3838528
+  ],
+  "AttrIDs": [
+   4,
+   100,
+   102
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   88720800,
+   5914720,
+   2957360
+  ]
+ },
+ {
+  "ID": 296,
+  "UpgradeItem": [
+   204
+  ],
+  "UpgradeItemNum": [
+   3873528
+  ],
+  "AttrIDs": [
+   4,
+   100,
+   102
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   89845800,
+   5989720,
+   2994860
+  ]
+ },
+ {
+  "ID": 297,
+  "UpgradeItem": [
+   204
+  ],
+  "UpgradeItemNum": [
+   3908528
+  ],
+  "AttrIDs": [
+   4,
+   100,
+   102
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   90970800,
+   6064720,
+   3032360
+  ]
+ },
+ {
+  "ID": 298,
+  "UpgradeItem": [
+   204
+  ],
+  "UpgradeItemNum": [
+   3943528
+  ],
+  "AttrIDs": [
+   4,
+   100,
+   102
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   92095800,
+   6139720,
+   3069860
+  ]
+ },
+ {
+  "ID": 299,
+  "UpgradeItem": [
+   204
+  ],
+  "UpgradeItemNum": [
+   3978528
+  ],
+  "AttrIDs": [
+   4,
+   100,
+   102
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   93220800,
+   6214720,
+   3107360
+  ]
+ },
+ {
+  "ID": 300,
+  "UpgradeItem": [
+   204
+  ],
+  "UpgradeItemNum": [
+   0
+  ],
+  "AttrIDs": [
+   4,
+   100,
+   102
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   94345800,
+   6289720,
+   3144860
+  ]
+ }
+]

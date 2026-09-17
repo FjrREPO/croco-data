@@ -1,0 +1,40 @@
+[
+ {
+  "ZoneID": 1,
+  "CountTypes": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7,
+   8,
+   10
+  ],
+  "Min": 20
+ },
+ {
+  "ZoneID": 2,
+  "CountTypes": [
+   9,
+   11,
+   14
+  ],
+  "Min": 20
+ },
+ {
+  "ZoneID": 3,
+  "CountTypes": [
+   12
+  ],
+  "Min": 20
+ },
+ {
+  "ZoneID": 4,
+  "CountTypes": [
+   13
+  ],
+  "Min": 20
+ }
+]

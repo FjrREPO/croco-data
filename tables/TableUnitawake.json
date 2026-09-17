@@ -1,0 +1,1892 @@
+[
+ {
+  "AwakeID": 11020101,
+  "UnitID": 110201,
+  "AwakeLevel": 1,
+  "AwakeCondition": 20001,
+  "AwakeItemID": 215,
+  "AwakeItemNum": 2,
+  "AwakeSkill": 160101100,
+  "AwakeFx": 1
+ },
+ {
+  "AwakeID": 11020102,
+  "UnitID": 110201,
+  "AwakeLevel": 2,
+  "AwakeCondition": 20001,
+  "AwakeItemID": 215,
+  "AwakeItemNum": 2,
+  "AwakeSkill": 160101100,
+  "AwakeFx": 2
+ },
+ {
+  "AwakeID": 11020103,
+  "UnitID": 110201,
+  "AwakeLevel": 3,
+  "AwakeCondition": 20001,
+  "AwakeItemID": 215,
+  "AwakeItemNum": 3,
+  "AwakeSkill": 160101100,
+  "AwakeFx": 3
+ },
+ {
+  "AwakeID": 11030101,
+  "UnitID": 110301,
+  "AwakeLevel": 1,
+  "AwakeCondition": 20001,
+  "AwakeItemID": 215,
+  "AwakeItemNum": 2,
+  "AwakeSkill": 160101100,
+  "AwakeFx": 1
+ },
+ {
+  "AwakeID": 11030102,
+  "UnitID": 110301,
+  "AwakeLevel": 2,
+  "AwakeCondition": 20001,
+  "AwakeItemID": 215,
+  "AwakeItemNum": 2,
+  "AwakeSkill": 160101100,
+  "AwakeFx": 2
+ },
+ {
+  "AwakeID": 11030103,
+  "UnitID": 110301,
+  "AwakeLevel": 3,
+  "AwakeCondition": 20001,
+  "AwakeItemID": 215,
+  "AwakeItemNum": 3,
+  "AwakeSkill": 160101100,
+  "AwakeFx": 3
+ },
+ {
+  "AwakeID": 12020101,
+  "UnitID": 120201,
+  "AwakeLevel": 1,
+  "AwakeCondition": 20001,
+  "AwakeItemID": 215,
+  "AwakeItemNum": 2,
+  "AwakeSkill": 160101100,
+  "AwakeFx": 1
+ },
+ {
+  "AwakeID": 12020102,
+  "UnitID": 120201,
+  "AwakeLevel": 2,
+  "AwakeCondition": 20001,
+  "AwakeItemID": 215,
+  "AwakeItemNum": 2,
+  "AwakeSkill": 160101100,
+  "AwakeFx": 2
+ },
+ {
+  "AwakeID": 12020103,
+  "UnitID": 120201,
+  "AwakeLevel": 3,
+  "AwakeCondition": 20001,
+  "AwakeItemID": 215,
+  "AwakeItemNum": 3,
+  "AwakeSkill": 160101100,
+  "AwakeFx": 3
+ },
+ {
+  "AwakeID": 12020201,
+  "UnitID": 120202,
+  "AwakeLevel": 1,
+  "AwakeCondition": 20001,
+  "AwakeItemID": 215,
+  "AwakeItemNum": 2,
+  "AwakeSkill": 160101100,
+  "AwakeFx": 1
+ },
+ {
+  "AwakeID": 12020202,
+  "UnitID": 120202,
+  "AwakeLevel": 2,
+  "AwakeCondition": 20001,
+  "AwakeItemID": 215,
+  "AwakeItemNum": 2,
+  "AwakeSkill": 160101100,
+  "AwakeFx": 2
+ },
+ {
+  "AwakeID": 12020203,
+  "UnitID": 120202,
+  "AwakeLevel": 3,
+  "AwakeCondition": 20001,
+  "AwakeItemID": 215,
+  "AwakeItemNum": 3,
+  "AwakeSkill": 160101100,
+  "AwakeFx": 3
+ },
+ {
+  "AwakeID": 13020101,
+  "UnitID": 130201,
+  "AwakeLevel": 1,
+  "AwakeCondition": 20001,
+  "AwakeItemID": 215,
+  "AwakeItemNum": 2,
+  "AwakeSkill": 160101100,
+  "AwakeFx": 1
+ },
+ {
+  "AwakeID": 13020102,
+  "UnitID": 130201,
+  "AwakeLevel": 2,
+  "AwakeCondition": 20001,
+  "AwakeItemID": 215,
+  "AwakeItemNum": 2,
+  "AwakeSkill": 160101100,
+  "AwakeFx": 2
+ },
+ {
+  "AwakeID": 13020103,
+  "UnitID": 130201,
+  "AwakeLevel": 3,
+  "AwakeCondition": 20001,
+  "AwakeItemID": 215,
+  "AwakeItemNum": 3,
+  "AwakeSkill": 160101100,
+  "AwakeFx": 3
+ },
+ {
+  "AwakeID": 13020201,
+  "UnitID": 130202,
+  "AwakeLevel": 1,
+  "AwakeCondition": 20001,
+  "AwakeItemID": 215,
+  "AwakeItemNum": 2,
+  "AwakeSkill": 160101100,
+  "AwakeFx": 1
+ },
+ {
+  "AwakeID": 13020202,
+  "UnitID": 130202,
+  "AwakeLevel": 2,
+  "AwakeCondition": 20001,
+  "AwakeItemID": 215,
+  "AwakeItemNum": 2,
+  "AwakeSkill": 160101100,
+  "AwakeFx": 2
+ },
+ {
+  "AwakeID": 13020203,
+  "UnitID": 130202,
+  "AwakeLevel": 3,
+  "AwakeCondition": 20001,
+  "AwakeItemID": 215,
+  "AwakeItemNum": 3,
+  "AwakeSkill": 160101100,
+  "AwakeFx": 3
+ },
+ {
+  "AwakeID": 14020101,
+  "UnitID": 140201,
+  "AwakeLevel": 1,
+  "AwakeCondition": 30001,
+  "AwakeItemID": 215,
+  "AwakeItemNum": 2,
+  "AwakeSkill": 160101100,
+  "AwakeFx": 1
+ },
+ {
+  "AwakeID": 14020102,
+  "UnitID": 140201,
+  "AwakeLevel": 2,
+  "AwakeCondition": 30001,
+  "AwakeItemID": 215,
+  "AwakeItemNum": 2,
+  "AwakeSkill": 160101100,
+  "AwakeFx": 2
+ },
+ {
+  "AwakeID": 14020103,
+  "UnitID": 140201,
+  "AwakeLevel": 3,
+  "AwakeCondition": 30001,
+  "AwakeItemID": 215,
+  "AwakeItemNum": 3,
+  "AwakeSkill": 160101100,
+  "AwakeFx": 3
+ },
+ {
+  "AwakeID": 14020201,
+  "UnitID": 140202,
+  "AwakeLevel": 1,
+  "AwakeCondition": 30001,
+  "AwakeItemID": 215,
+  "AwakeItemNum": 2,
+  "AwakeSkill": 160101100,
+  "AwakeFx": 1
+ },
+ {
+  "AwakeID": 14020202,
+  "UnitID": 140202,
+  "AwakeLevel": 2,
+  "AwakeCondition": 30001,
+  "AwakeItemID": 215,
+  "AwakeItemNum": 2,
+  "AwakeSkill": 160101100,
+  "AwakeFx": 2
+ },
+ {
+  "AwakeID": 14020203,
+  "UnitID": 140202,
+  "AwakeLevel": 3,
+  "AwakeCondition": 30001,
+  "AwakeItemID": 215,
+  "AwakeItemNum": 3,
+  "AwakeSkill": 160101100,
+  "AwakeFx": 3
+ },
+ {
+  "AwakeID": 11020201,
+  "UnitID": 110202,
+  "AwakeLevel": 1,
+  "AwakeCondition": 30001,
+  "AwakeItemID": 215,
+  "AwakeItemNum": 2,
+  "AwakeSkill": 160101100,
+  "AwakeFx": 1
+ },
+ {
+  "AwakeID": 11020202,
+  "UnitID": 110202,
+  "AwakeLevel": 2,
+  "AwakeCondition": 30001,
+  "AwakeItemID": 215,
+  "AwakeItemNum": 2,
+  "AwakeSkill": 160101100,
+  "AwakeFx": 2
+ },
+ {
+  "AwakeID": 11020203,
+  "UnitID": 110202,
+  "AwakeLevel": 3,
+  "AwakeCondition": 30001,
+  "AwakeItemID": 215,
+  "AwakeItemNum": 3,
+  "AwakeSkill": 160101100,
+  "AwakeFx": 3
+ },
+ {
+  "AwakeID": 11020204,
+  "UnitID": 110202,
+  "AwakeLevel": 4,
+  "AwakeCondition": 30001,
+  "AwakeItemID": 215,
+  "AwakeItemNum": 4,
+  "AwakeSkill": 160101100,
+  "AwakeFx": 3
+ },
+ {
+  "AwakeID": 11030201,
+  "UnitID": 110302,
+  "AwakeLevel": 1,
+  "AwakeCondition": 20001,
+  "AwakeItemID": 215,
+  "AwakeItemNum": 2,
+  "AwakeSkill": 160101100,
+  "AwakeFx": 1
+ },
+ {
+  "AwakeID": 11030202,
+  "UnitID": 110302,
+  "AwakeLevel": 2,
+  "AwakeCondition": 20001,
+  "AwakeItemID": 215,
+  "AwakeItemNum": 2,
+  "AwakeSkill": 160101100,
+  "AwakeFx": 2
+ },
+ {
+  "AwakeID": 11030203,
+  "UnitID": 110302,
+  "AwakeLevel": 3,
+  "AwakeCondition": 20001,
+  "AwakeItemID": 215,
+  "AwakeItemNum": 3,
+  "AwakeSkill": 160101100,
+  "AwakeFx": 3
+ },
+ {
+  "AwakeID": 11030204,
+  "UnitID": 110302,
+  "AwakeLevel": 4,
+  "AwakeCondition": 20001,
+  "AwakeItemID": 215,
+  "AwakeItemNum": 4,
+  "AwakeSkill": 160101100,
+  "AwakeFx": 3
+ },
+ {
+  "AwakeID": 11040201,
+  "UnitID": 110402,
+  "AwakeLevel": 1,
+  "AwakeCondition": 40001,
+  "AwakeItemID": 215,
+  "AwakeItemNum": 2,
+  "AwakeSkill": 160101100,
+  "AwakeFx": 1
+ },
+ {
+  "AwakeID": 11040202,
+  "UnitID": 110402,
+  "AwakeLevel": 2,
+  "AwakeCondition": 40001,
+  "AwakeItemID": 215,
+  "AwakeItemNum": 2,
+  "AwakeSkill": 160101100,
+  "AwakeFx": 2
+ },
+ {
+  "AwakeID": 11040203,
+  "UnitID": 110402,
+  "AwakeLevel": 3,
+  "AwakeCondition": 40001,
+  "AwakeItemID": 215,
+  "AwakeItemNum": 3,
+  "AwakeSkill": 160101100,
+  "AwakeFx": 3
+ },
+ {
+  "AwakeID": 11040204,
+  "UnitID": 110402,
+  "AwakeLevel": 4,
+  "AwakeCondition": 40001,
+  "AwakeItemID": 215,
+  "AwakeItemNum": 4,
+  "AwakeSkill": 160101100,
+  "AwakeFx": 3
+ },
+ {
+  "AwakeID": 11050101,
+  "UnitID": 110501,
+  "AwakeLevel": 1,
+  "AwakeCondition": 30001,
+  "AwakeItemID": 215,
+  "AwakeItemNum": 2,
+  "AwakeSkill": 160101100,
+  "AwakeFx": 1
+ },
+ {
+  "AwakeID": 11050102,
+  "UnitID": 110501,
+  "AwakeLevel": 2,
+  "AwakeCondition": 30001,
+  "AwakeItemID": 215,
+  "AwakeItemNum": 2,
+  "AwakeSkill": 160101100,
+  "AwakeFx": 2
+ },
+ {
+  "AwakeID": 11050103,
+  "UnitID": 110501,
+  "AwakeLevel": 3,
+  "AwakeCondition": 30001,
+  "AwakeItemID": 215,
+  "AwakeItemNum": 3,
+  "AwakeSkill": 160101100,
+  "AwakeFx": 3
+ },
+ {
+  "AwakeID": 11050104,
+  "UnitID": 110501,
+  "AwakeLevel": 4,
+  "AwakeCondition": 30001,
+  "AwakeItemID": 215,
+  "AwakeItemNum": 4,
+  "AwakeSkill": 160101100,
+  "AwakeFx": 3
+ },
+ {
+  "AwakeID": 12030101,
+  "UnitID": 120301,
+  "AwakeLevel": 1,
+  "AwakeCondition": 30001,
+  "AwakeItemID": 215,
+  "AwakeItemNum": 2,
+  "AwakeSkill": 160101100,
+  "AwakeFx": 1
+ },
+ {
+  "AwakeID": 12030102,
+  "UnitID": 120301,
+  "AwakeLevel": 2,
+  "AwakeCondition": 30001,
+  "AwakeItemID": 215,
+  "AwakeItemNum": 2,
+  "AwakeSkill": 160101100,
+  "AwakeFx": 2
+ },
+ {
+  "AwakeID": 12030103,
+  "UnitID": 120301,
+  "AwakeLevel": 3,
+  "AwakeCondition": 30001,
+  "AwakeItemID": 215,
+  "AwakeItemNum": 3,
+  "AwakeSkill": 160101100,
+  "AwakeFx": 3
+ },
+ {
+  "AwakeID": 12030104,
+  "UnitID": 120301,
+  "AwakeLevel": 4,
+  "AwakeCondition": 30001,
+  "AwakeItemID": 215,
+  "AwakeItemNum": 4,
+  "AwakeSkill": 160101100,
+  "AwakeFx": 3
+ },
+ {
+  "AwakeID": 12030201,
+  "UnitID": 120302,
+  "AwakeLevel": 1,
+  "AwakeCondition": 30001,
+  "AwakeItemID": 215,
+  "AwakeItemNum": 2,
+  "AwakeSkill": 160101100,
+  "AwakeFx": 1
+ },
+ {
+  "AwakeID": 12030202,
+  "UnitID": 120302,
+  "AwakeLevel": 2,
+  "AwakeCondition": 30001,
+  "AwakeItemID": 215,
+  "AwakeItemNum": 2,
+  "AwakeSkill": 160101100,
+  "AwakeFx": 2
+ },
+ {
+  "AwakeID": 12030203,
+  "UnitID": 120302,
+  "AwakeLevel": 3,
+  "AwakeCondition": 30001,
+  "AwakeItemID": 215,
+  "AwakeItemNum": 3,
+  "AwakeSkill": 160101100,
+  "AwakeFx": 3
+ },
+ {
+  "AwakeID": 12030204,
+  "UnitID": 120302,
+  "AwakeLevel": 4,
+  "AwakeCondition": 30001,
+  "AwakeItemID": 215,
+  "AwakeItemNum": 4,
+  "AwakeSkill": 160101100,
+  "AwakeFx": 3
+ },
+ {
+  "AwakeID": 12040101,
+  "UnitID": 120401,
+  "AwakeLevel": 1,
+  "AwakeCondition": 30001,
+  "AwakeItemID": 215,
+  "AwakeItemNum": 2,
+  "AwakeSkill": 160101100,
+  "AwakeFx": 1
+ },
+ {
+  "AwakeID": 12040102,
+  "UnitID": 120401,
+  "AwakeLevel": 2,
+  "AwakeCondition": 30001,
+  "AwakeItemID": 215,
+  "AwakeItemNum": 2,
+  "AwakeSkill": 160101100,
+  "AwakeFx": 2
+ },
+ {
+  "AwakeID": 12040103,
+  "UnitID": 120401,
+  "AwakeLevel": 3,
+  "AwakeCondition": 30001,
+  "AwakeItemID": 215,
+  "AwakeItemNum": 3,
+  "AwakeSkill": 160101100,
+  "AwakeFx": 3
+ },
+ {
+  "AwakeID": 12040104,
+  "UnitID": 120401,
+  "AwakeLevel": 4,
+  "AwakeCondition": 30001,
+  "AwakeItemID": 215,
+  "AwakeItemNum": 4,
+  "AwakeSkill": 160101100,
+  "AwakeFx": 3
+ },
+ {
+  "AwakeID": 12050101,
+  "UnitID": 120501,
+  "AwakeLevel": 1,
+  "AwakeCondition": 30001,
+  "AwakeItemID": 215,
+  "AwakeItemNum": 2,
+  "AwakeSkill": 160101100,
+  "AwakeFx": 1
+ },
+ {
+  "AwakeID": 12050102,
+  "UnitID": 120501,
+  "AwakeLevel": 2,
+  "AwakeCondition": 30001,
+  "AwakeItemID": 215,
+  "AwakeItemNum": 2,
+  "AwakeSkill": 160101100,
+  "AwakeFx": 2
+ },
+ {
+  "AwakeID": 12050103,
+  "UnitID": 120501,
+  "AwakeLevel": 3,
+  "AwakeCondition": 30001,
+  "AwakeItemID": 215,
+  "AwakeItemNum": 3,
+  "AwakeSkill": 160101100,
+  "AwakeFx": 3
+ },
+ {
+  "AwakeID": 12050104,
+  "UnitID": 120501,
+  "AwakeLevel": 4,
+  "AwakeCondition": 30001,
+  "AwakeItemID": 215,
+  "AwakeItemNum": 4,
+  "AwakeSkill": 160101100,
+  "AwakeFx": 3
+ },
+ {
+  "AwakeID": 13040101,
+  "UnitID": 130401,
+  "AwakeLevel": 1,
+  "AwakeCondition": 30001,
+  "AwakeItemID": 215,
+  "AwakeItemNum": 2,
+  "AwakeSkill": 160101100,
+  "AwakeFx": 1
+ },
+ {
+  "AwakeID": 13040102,
+  "UnitID": 130401,
+  "AwakeLevel": 2,
+  "AwakeCondition": 30001,
+  "AwakeItemID": 215,
+  "AwakeItemNum": 2,
+  "AwakeSkill": 160101100,
+  "AwakeFx": 2
+ },
+ {
+  "AwakeID": 13040103,
+  "UnitID": 130401,
+  "AwakeLevel": 3,
+  "AwakeCondition": 30001,
+  "AwakeItemID": 215,
+  "AwakeItemNum": 3,
+  "AwakeSkill": 160101100,
+  "AwakeFx": 3
+ },
+ {
+  "AwakeID": 13040104,
+  "UnitID": 130401,
+  "AwakeLevel": 4,
+  "AwakeCondition": 30001,
+  "AwakeItemID": 215,
+  "AwakeItemNum": 4,
+  "AwakeSkill": 160101100,
+  "AwakeFx": 3
+ },
+ {
+  "AwakeID": 13040201,
+  "UnitID": 130402,
+  "AwakeLevel": 1,
+  "AwakeCondition": 20001,
+  "AwakeItemID": 215,
+  "AwakeItemNum": 2,
+  "AwakeSkill": 160101100,
+  "AwakeFx": 1
+ },
+ {
+  "AwakeID": 13040202,
+  "UnitID": 130402,
+  "AwakeLevel": 2,
+  "AwakeCondition": 20001,
+  "AwakeItemID": 215,
+  "AwakeItemNum": 2,
+  "AwakeSkill": 160101100,
+  "AwakeFx": 2
+ },
+ {
+  "AwakeID": 13040203,
+  "UnitID": 130402,
+  "AwakeLevel": 3,
+  "AwakeCondition": 20001,
+  "AwakeItemID": 215,
+  "AwakeItemNum": 3,
+  "AwakeSkill": 160101100,
+  "AwakeFx": 3
+ },
+ {
+  "AwakeID": 13040204,
+  "UnitID": 130402,
+  "AwakeLevel": 4,
+  "AwakeCondition": 20001,
+  "AwakeItemID": 215,
+  "AwakeItemNum": 4,
+  "AwakeSkill": 160101100,
+  "AwakeFx": 3
+ },
+ {
+  "AwakeID": 13050101,
+  "UnitID": 130501,
+  "AwakeLevel": 1,
+  "AwakeCondition": 20001,
+  "AwakeItemID": 215,
+  "AwakeItemNum": 2,
+  "AwakeSkill": 160101100,
+  "AwakeFx": 1
+ },
+ {
+  "AwakeID": 13050102,
+  "UnitID": 130501,
+  "AwakeLevel": 2,
+  "AwakeCondition": 20001,
+  "AwakeItemID": 215,
+  "AwakeItemNum": 2,
+  "AwakeSkill": 160101100,
+  "AwakeFx": 2
+ },
+ {
+  "AwakeID": 13050103,
+  "UnitID": 130501,
+  "AwakeLevel": 3,
+  "AwakeCondition": 20001,
+  "AwakeItemID": 215,
+  "AwakeItemNum": 3,
+  "AwakeSkill": 160101100,
+  "AwakeFx": 3
+ },
+ {
+  "AwakeID": 13050104,
+  "UnitID": 130501,
+  "AwakeLevel": 4,
+  "AwakeCondition": 20001,
+  "AwakeItemID": 215,
+  "AwakeItemNum": 4,
+  "AwakeSkill": 160101100,
+  "AwakeFx": 3
+ },
+ {
+  "AwakeID": 14030101,
+  "UnitID": 140301,
+  "AwakeLevel": 1,
+  "AwakeCondition": 20001,
+  "AwakeItemID": 215,
+  "AwakeItemNum": 2,
+  "AwakeSkill": 160101100,
+  "AwakeFx": 1
+ },
+ {
+  "AwakeID": 14030102,
+  "UnitID": 140301,
+  "AwakeLevel": 2,
+  "AwakeCondition": 20001,
+  "AwakeItemID": 215,
+  "AwakeItemNum": 2,
+  "AwakeSkill": 160101100,
+  "AwakeFx": 2
+ },
+ {
+  "AwakeID": 14030103,
+  "UnitID": 140301,
+  "AwakeLevel": 3,
+  "AwakeCondition": 20001,
+  "AwakeItemID": 215,
+  "AwakeItemNum": 3,
+  "AwakeSkill": 160101100,
+  "AwakeFx": 3
+ },
+ {
+  "AwakeID": 14030104,
+  "UnitID": 140301,
+  "AwakeLevel": 4,
+  "AwakeCondition": 20001,
+  "AwakeItemID": 215,
+  "AwakeItemNum": 4,
+  "AwakeSkill": 160101100,
+  "AwakeFx": 3
+ },
+ {
+  "AwakeID": 14030301,
+  "UnitID": 140303,
+  "AwakeLevel": 1,
+  "AwakeCondition": 30001,
+  "AwakeItemID": 215,
+  "AwakeItemNum": 2,
+  "AwakeSkill": 160101100,
+  "AwakeFx": 1
+ },
+ {
+  "AwakeID": 14030302,
+  "UnitID": 140303,
+  "AwakeLevel": 2,
+  "AwakeCondition": 30001,
+  "AwakeItemID": 215,
+  "AwakeItemNum": 2,
+  "AwakeSkill": 160101100,
+  "AwakeFx": 2
+ },
+ {
+  "AwakeID": 14030303,
+  "UnitID": 140303,
+  "AwakeLevel": 3,
+  "AwakeCondition": 30001,
+  "AwakeItemID": 215,
+  "AwakeItemNum": 3,
+  "AwakeSkill": 160101100,
+  "AwakeFx": 3
+ },
+ {
+  "AwakeID": 14030304,
+  "UnitID": 140303,
+  "AwakeLevel": 4,
+  "AwakeCondition": 30001,
+  "AwakeItemID": 215,
+  "AwakeItemNum": 4,
+  "AwakeSkill": 160101100,
+  "AwakeFx": 3
+ },
+ {
+  "AwakeID": 14030401,
+  "UnitID": 140304,
+  "AwakeLevel": 1,
+  "AwakeCondition": 30001,
+  "AwakeItemID": 215,
+  "AwakeItemNum": 2,
+  "AwakeSkill": 160101100,
+  "AwakeFx": 1
+ },
+ {
+  "AwakeID": 14030402,
+  "UnitID": 140304,
+  "AwakeLevel": 2,
+  "AwakeCondition": 30001,
+  "AwakeItemID": 215,
+  "AwakeItemNum": 2,
+  "AwakeSkill": 160101100,
+  "AwakeFx": 2
+ },
+ {
+  "AwakeID": 14030403,
+  "UnitID": 140304,
+  "AwakeLevel": 3,
+  "AwakeCondition": 30001,
+  "AwakeItemID": 215,
+  "AwakeItemNum": 3,
+  "AwakeSkill": 160101100,
+  "AwakeFx": 3
+ },
+ {
+  "AwakeID": 14030404,
+  "UnitID": 140304,
+  "AwakeLevel": 4,
+  "AwakeCondition": 30001,
+  "AwakeItemID": 215,
+  "AwakeItemNum": 4,
+  "AwakeSkill": 160101100,
+  "AwakeFx": 3
+ },
+ {
+  "AwakeID": 14040101,
+  "UnitID": 140401,
+  "AwakeLevel": 1,
+  "AwakeCondition": 20001,
+  "AwakeItemID": 215,
+  "AwakeItemNum": 2,
+  "AwakeSkill": 160101100,
+  "AwakeFx": 1
+ },
+ {
+  "AwakeID": 14040102,
+  "UnitID": 140401,
+  "AwakeLevel": 2,
+  "AwakeCondition": 20001,
+  "AwakeItemID": 215,
+  "AwakeItemNum": 2,
+  "AwakeSkill": 160101100,
+  "AwakeFx": 2
+ },
+ {
+  "AwakeID": 14040103,
+  "UnitID": 140401,
+  "AwakeLevel": 3,
+  "AwakeCondition": 20001,
+  "AwakeItemID": 215,
+  "AwakeItemNum": 3,
+  "AwakeSkill": 160101100,
+  "AwakeFx": 3
+ },
+ {
+  "AwakeID": 14040104,
+  "UnitID": 140401,
+  "AwakeLevel": 4,
+  "AwakeCondition": 20001,
+  "AwakeItemID": 215,
+  "AwakeItemNum": 4,
+  "AwakeSkill": 160101100,
+  "AwakeFx": 3
+ },
+ {
+  "AwakeID": 11060201,
+  "UnitID": 110602,
+  "AwakeLevel": 1,
+  "AwakeCondition": 40001,
+  "AwakeItemID": 215,
+  "AwakeItemNum": 2,
+  "AwakeSkill": 160101200,
+  "AwakeFx": 1
+ },
+ {
+  "AwakeID": 11060202,
+  "UnitID": 110602,
+  "AwakeLevel": 2,
+  "AwakeCondition": 40001,
+  "AwakeItemID": 215,
+  "AwakeItemNum": 2,
+  "AwakeSkill": 160101200,
+  "AwakeFx": 2
+ },
+ {
+  "AwakeID": 11060203,
+  "UnitID": 110602,
+  "AwakeLevel": 3,
+  "AwakeCondition": 40001,
+  "AwakeItemID": 215,
+  "AwakeItemNum": 3,
+  "AwakeSkill": 160101200,
+  "AwakeFx": 3
+ },
+ {
+  "AwakeID": 11060204,
+  "UnitID": 110602,
+  "AwakeLevel": 4,
+  "AwakeCondition": 40001,
+  "AwakeItemID": 215,
+  "AwakeItemNum": 4,
+  "AwakeSkill": 160101200,
+  "AwakeFx": 3
+ },
+ {
+  "AwakeID": 11060205,
+  "UnitID": 110602,
+  "AwakeLevel": 5,
+  "AwakeCondition": 40001,
+  "AwakeItemID": 215,
+  "AwakeItemNum": 5,
+  "AwakeSkill": 160101200,
+  "AwakeFx": 3
+ },
+ {
+  "AwakeID": 11060301,
+  "UnitID": 110603,
+  "AwakeLevel": 1,
+  "AwakeCondition": 40001,
+  "AwakeItemID": 215,
+  "AwakeItemNum": 2,
+  "AwakeSkill": 160101200,
+  "AwakeFx": 1
+ },
+ {
+  "AwakeID": 11060302,
+  "UnitID": 110603,
+  "AwakeLevel": 2,
+  "AwakeCondition": 40001,
+  "AwakeItemID": 215,
+  "AwakeItemNum": 2,
+  "AwakeSkill": 160101200,
+  "AwakeFx": 2
+ },
+ {
+  "AwakeID": 11060303,
+  "UnitID": 110603,
+  "AwakeLevel": 3,
+  "AwakeCondition": 40001,
+  "AwakeItemID": 215,
+  "AwakeItemNum": 3,
+  "AwakeSkill": 160101200,
+  "AwakeFx": 3
+ },
+ {
+  "AwakeID": 11060304,
+  "UnitID": 110603,
+  "AwakeLevel": 4,
+  "AwakeCondition": 40001,
+  "AwakeItemID": 215,
+  "AwakeItemNum": 4,
+  "AwakeSkill": 160101200,
+  "AwakeFx": 3
+ },
+ {
+  "AwakeID": 11060305,
+  "UnitID": 110603,
+  "AwakeLevel": 5,
+  "AwakeCondition": 40001,
+  "AwakeItemID": 215,
+  "AwakeItemNum": 5,
+  "AwakeSkill": 160101200,
+  "AwakeFx": 3
+ },
+ {
+  "AwakeID": 11060401,
+  "UnitID": 110604,
+  "AwakeLevel": 1,
+  "AwakeCondition": 50001,
+  "AwakeItemID": 215,
+  "AwakeItemNum": 2,
+  "AwakeSkill": 160101200,
+  "AwakeFx": 1
+ },
+ {
+  "AwakeID": 11060402,
+  "UnitID": 110604,
+  "AwakeLevel": 2,
+  "AwakeCondition": 50001,
+  "AwakeItemID": 215,
+  "AwakeItemNum": 2,
+  "AwakeSkill": 160101200,
+  "AwakeFx": 2
+ },
+ {
+  "AwakeID": 11060403,
+  "UnitID": 110604,
+  "AwakeLevel": 3,
+  "AwakeCondition": 50001,
+  "AwakeItemID": 215,
+  "AwakeItemNum": 3,
+  "AwakeSkill": 160101200,
+  "AwakeFx": 3
+ },
+ {
+  "AwakeID": 11060404,
+  "UnitID": 110604,
+  "AwakeLevel": 4,
+  "AwakeCondition": 50001,
+  "AwakeItemID": 215,
+  "AwakeItemNum": 4,
+  "AwakeSkill": 160101200,
+  "AwakeFx": 3
+ },
+ {
+  "AwakeID": 11060405,
+  "UnitID": 110604,
+  "AwakeLevel": 5,
+  "AwakeCondition": 50001,
+  "AwakeItemID": 215,
+  "AwakeItemNum": 5,
+  "AwakeSkill": 160101200,
+  "AwakeFx": 3
+ },
+ {
+  "AwakeID": 12060201,
+  "UnitID": 120602,
+  "AwakeLevel": 1,
+  "AwakeCondition": 30001,
+  "AwakeItemID": 215,
+  "AwakeItemNum": 2,
+  "AwakeSkill": 160101200,
+  "AwakeFx": 1
+ },
+ {
+  "AwakeID": 12060202,
+  "UnitID": 120602,
+  "AwakeLevel": 2,
+  "AwakeCondition": 30001,
+  "AwakeItemID": 215,
+  "AwakeItemNum": 2,
+  "AwakeSkill": 160101200,
+  "AwakeFx": 2
+ },
+ {
+  "AwakeID": 12060203,
+  "UnitID": 120602,
+  "AwakeLevel": 3,
+  "AwakeCondition": 30001,
+  "AwakeItemID": 215,
+  "AwakeItemNum": 3,
+  "AwakeSkill": 160101200,
+  "AwakeFx": 3
+ },
+ {
+  "AwakeID": 12060204,
+  "UnitID": 120602,
+  "AwakeLevel": 4,
+  "AwakeCondition": 30001,
+  "AwakeItemID": 215,
+  "AwakeItemNum": 4,
+  "AwakeSkill": 160101200,
+  "AwakeFx": 3
+ },
+ {
+  "AwakeID": 12060205,
+  "UnitID": 120602,
+  "AwakeLevel": 5,
+  "AwakeCondition": 30001,
+  "AwakeItemID": 215,
+  "AwakeItemNum": 5,
+  "AwakeSkill": 160101200,
+  "AwakeFx": 3
+ },
+ {
+  "AwakeID": 12060301,
+  "UnitID": 120603,
+  "AwakeLevel": 1,
+  "AwakeCondition": 50001,
+  "AwakeItemID": 215,
+  "AwakeItemNum": 2,
+  "AwakeSkill": 160101200,
+  "AwakeFx": 1
+ },
+ {
+  "AwakeID": 12060302,
+  "UnitID": 120603,
+  "AwakeLevel": 2,
+  "AwakeCondition": 50001,
+  "AwakeItemID": 215,
+  "AwakeItemNum": 2,
+  "AwakeSkill": 160101200,
+  "AwakeFx": 2
+ },
+ {
+  "AwakeID": 12060303,
+  "UnitID": 120603,
+  "AwakeLevel": 3,
+  "AwakeCondition": 50001,
+  "AwakeItemID": 215,
+  "AwakeItemNum": 3,
+  "AwakeSkill": 160101200,
+  "AwakeFx": 3
+ },
+ {
+  "AwakeID": 12060304,
+  "UnitID": 120603,
+  "AwakeLevel": 4,
+  "AwakeCondition": 50001,
+  "AwakeItemID": 215,
+  "AwakeItemNum": 4,
+  "AwakeSkill": 160101200,
+  "AwakeFx": 3
+ },
+ {
+  "AwakeID": 12060305,
+  "UnitID": 120603,
+  "AwakeLevel": 5,
+  "AwakeCondition": 50001,
+  "AwakeItemID": 215,
+  "AwakeItemNum": 5,
+  "AwakeSkill": 160101200,
+  "AwakeFx": 3
+ },
+ {
+  "AwakeID": 13060101,
+  "UnitID": 130601,
+  "AwakeLevel": 1,
+  "AwakeCondition": 40001,
+  "AwakeItemID": 215,
+  "AwakeItemNum": 2,
+  "AwakeSkill": 160101200,
+  "AwakeFx": 1
+ },
+ {
+  "AwakeID": 13060102,
+  "UnitID": 130601,
+  "AwakeLevel": 2,
+  "AwakeCondition": 40001,
+  "AwakeItemID": 215,
+  "AwakeItemNum": 2,
+  "AwakeSkill": 160101200,
+  "AwakeFx": 2
+ },
+ {
+  "AwakeID": 13060103,
+  "UnitID": 130601,
+  "AwakeLevel": 3,
+  "AwakeCondition": 40001,
+  "AwakeItemID": 215,
+  "AwakeItemNum": 3,
+  "AwakeSkill": 160101200,
+  "AwakeFx": 3
+ },
+ {
+  "AwakeID": 13060104,
+  "UnitID": 130601,
+  "AwakeLevel": 4,
+  "AwakeCondition": 40001,
+  "AwakeItemID": 215,
+  "AwakeItemNum": 4,
+  "AwakeSkill": 160101200,
+  "AwakeFx": 3
+ },
+ {
+  "AwakeID": 13060105,
+  "UnitID": 130601,
+  "AwakeLevel": 5,
+  "AwakeCondition": 40001,
+  "AwakeItemID": 215,
+  "AwakeItemNum": 5,
+  "AwakeSkill": 160101200,
+  "AwakeFx": 3
+ },
+ {
+  "AwakeID": 13060301,
+  "UnitID": 130603,
+  "AwakeLevel": 1,
+  "AwakeCondition": 50001,
+  "AwakeItemID": 215,
+  "AwakeItemNum": 2,
+  "AwakeSkill": 160101200,
+  "AwakeFx": 1
+ },
+ {
+  "AwakeID": 13060302,
+  "UnitID": 130603,
+  "AwakeLevel": 2,
+  "AwakeCondition": 50001,
+  "AwakeItemID": 215,
+  "AwakeItemNum": 2,
+  "AwakeSkill": 160101200,
+  "AwakeFx": 2
+ },
+ {
+  "AwakeID": 13060303,
+  "UnitID": 130603,
+  "AwakeLevel": 3,
+  "AwakeCondition": 50001,
+  "AwakeItemID": 215,
+  "AwakeItemNum": 3,
+  "AwakeSkill": 160101200,
+  "AwakeFx": 3
+ },
+ {
+  "AwakeID": 13060304,
+  "UnitID": 130603,
+  "AwakeLevel": 4,
+  "AwakeCondition": 50001,
+  "AwakeItemID": 215,
+  "AwakeItemNum": 4,
+  "AwakeSkill": 160101200,
+  "AwakeFx": 3
+ },
+ {
+  "AwakeID": 13060305,
+  "UnitID": 130603,
+  "AwakeLevel": 5,
+  "AwakeCondition": 50001,
+  "AwakeItemID": 215,
+  "AwakeItemNum": 5,
+  "AwakeSkill": 160101200,
+  "AwakeFx": 3
+ },
+ {
+  "AwakeID": 14040201,
+  "UnitID": 140402,
+  "AwakeLevel": 1,
+  "AwakeCondition": 40001,
+  "AwakeItemID": 215,
+  "AwakeItemNum": 2,
+  "AwakeSkill": 160101200,
+  "AwakeFx": 1
+ },
+ {
+  "AwakeID": 14040202,
+  "UnitID": 140402,
+  "AwakeLevel": 2,
+  "AwakeCondition": 40001,
+  "AwakeItemID": 215,
+  "AwakeItemNum": 2,
+  "AwakeSkill": 160101200,
+  "AwakeFx": 2
+ },
+ {
+  "AwakeID": 14040203,
+  "UnitID": 140402,
+  "AwakeLevel": 3,
+  "AwakeCondition": 40001,
+  "AwakeItemID": 215,
+  "AwakeItemNum": 3,
+  "AwakeSkill": 160101200,
+  "AwakeFx": 3
+ },
+ {
+  "AwakeID": 14040204,
+  "UnitID": 140402,
+  "AwakeLevel": 4,
+  "AwakeCondition": 40001,
+  "AwakeItemID": 215,
+  "AwakeItemNum": 4,
+  "AwakeSkill": 160101200,
+  "AwakeFx": 3
+ },
+ {
+  "AwakeID": 14040205,
+  "UnitID": 140402,
+  "AwakeLevel": 5,
+  "AwakeCondition": 40001,
+  "AwakeItemID": 215,
+  "AwakeItemNum": 5,
+  "AwakeSkill": 160101200,
+  "AwakeFx": 3
+ },
+ {
+  "AwakeID": 14040301,
+  "UnitID": 140403,
+  "AwakeLevel": 1,
+  "AwakeCondition": 40001,
+  "AwakeItemID": 215,
+  "AwakeItemNum": 2,
+  "AwakeSkill": 160101200,
+  "AwakeFx": 1
+ },
+ {
+  "AwakeID": 14040302,
+  "UnitID": 140403,
+  "AwakeLevel": 2,
+  "AwakeCondition": 40001,
+  "AwakeItemID": 215,
+  "AwakeItemNum": 2,
+  "AwakeSkill": 160101200,
+  "AwakeFx": 2
+ },
+ {
+  "AwakeID": 14040303,
+  "UnitID": 140403,
+  "AwakeLevel": 3,
+  "AwakeCondition": 40001,
+  "AwakeItemID": 215,
+  "AwakeItemNum": 3,
+  "AwakeSkill": 160101200,
+  "AwakeFx": 3
+ },
+ {
+  "AwakeID": 14040304,
+  "UnitID": 140403,
+  "AwakeLevel": 4,
+  "AwakeCondition": 40001,
+  "AwakeItemID": 215,
+  "AwakeItemNum": 4,
+  "AwakeSkill": 160101200,
+  "AwakeFx": 3
+ },
+ {
+  "AwakeID": 14040305,
+  "UnitID": 140403,
+  "AwakeLevel": 5,
+  "AwakeCondition": 40001,
+  "AwakeItemID": 215,
+  "AwakeItemNum": 5,
+  "AwakeSkill": 160101200,
+  "AwakeFx": 3
+ },
+ {
+  "AwakeID": 14040401,
+  "UnitID": 140404,
+  "AwakeLevel": 1,
+  "AwakeCondition": 40001,
+  "AwakeItemID": 215,
+  "AwakeItemNum": 2,
+  "AwakeSkill": 160101200,
+  "AwakeFx": 1
+ },
+ {
+  "AwakeID": 14040402,
+  "UnitID": 140404,
+  "AwakeLevel": 2,
+  "AwakeCondition": 40001,
+  "AwakeItemID": 215,
+  "AwakeItemNum": 2,
+  "AwakeSkill": 160101200,
+  "AwakeFx": 2
+ },
+ {
+  "AwakeID": 14040403,
+  "UnitID": 140404,
+  "AwakeLevel": 3,
+  "AwakeCondition": 40001,
+  "AwakeItemID": 215,
+  "AwakeItemNum": 3,
+  "AwakeSkill": 160101200,
+  "AwakeFx": 3
+ },
+ {
+  "AwakeID": 14040404,
+  "UnitID": 140404,
+  "AwakeLevel": 4,
+  "AwakeCondition": 40001,
+  "AwakeItemID": 215,
+  "AwakeItemNum": 4,
+  "AwakeSkill": 160101200,
+  "AwakeFx": 3
+ },
+ {
+  "AwakeID": 14040405,
+  "UnitID": 140404,
+  "AwakeLevel": 5,
+  "AwakeCondition": 40001,
+  "AwakeItemID": 215,
+  "AwakeItemNum": 5,
+  "AwakeSkill": 160101200,
+  "AwakeFx": 3
+ },
+ {
+  "AwakeID": 41010101,
+  "UnitID": 410101,
+  "AwakeLevel": 1,
+  "AwakeCondition": 50001,
+  "AwakeItemID": 215,
+  "AwakeItemNum": 2,
+  "AwakeSkill": 160101200,
+  "AwakeFx": 1
+ },
+ {
+  "AwakeID": 41010102,
+  "UnitID": 410101,
+  "AwakeLevel": 2,
+  "AwakeCondition": 50001,
+  "AwakeItemID": 215,
+  "AwakeItemNum": 2,
+  "AwakeSkill": 160101200,
+  "AwakeFx": 2
+ },
+ {
+  "AwakeID": 41010103,
+  "UnitID": 410101,
+  "AwakeLevel": 3,
+  "AwakeCondition": 50001,
+  "AwakeItemID": 215,
+  "AwakeItemNum": 3,
+  "AwakeSkill": 160101200,
+  "AwakeFx": 3
+ },
+ {
+  "AwakeID": 41010104,
+  "UnitID": 410101,
+  "AwakeLevel": 4,
+  "AwakeCondition": 50001,
+  "AwakeItemID": 215,
+  "AwakeItemNum": 4,
+  "AwakeSkill": 160101200,
+  "AwakeFx": 3
+ },
+ {
+  "AwakeID": 41010105,
+  "UnitID": 410101,
+  "AwakeLevel": 5,
+  "AwakeCondition": 50001,
+  "AwakeItemID": 215,
+  "AwakeItemNum": 5,
+  "AwakeSkill": 160101200,
+  "AwakeFx": 3
+ },
+ {
+  "AwakeID": 41030101,
+  "UnitID": 410301,
+  "AwakeLevel": 1,
+  "AwakeCondition": 40001,
+  "AwakeItemID": 215,
+  "AwakeItemNum": 2,
+  "AwakeSkill": 160101200,
+  "AwakeFx": 1
+ },
+ {
+  "AwakeID": 41030102,
+  "UnitID": 410301,
+  "AwakeLevel": 2,
+  "AwakeCondition": 40001,
+  "AwakeItemID": 215,
+  "AwakeItemNum": 2,
+  "AwakeSkill": 160101200,
+  "AwakeFx": 2
+ },
+ {
+  "AwakeID": 41030103,
+  "UnitID": 410301,
+  "AwakeLevel": 3,
+  "AwakeCondition": 40001,
+  "AwakeItemID": 215,
+  "AwakeItemNum": 3,
+  "AwakeSkill": 160101200,
+  "AwakeFx": 3
+ },
+ {
+  "AwakeID": 41030104,
+  "UnitID": 410301,
+  "AwakeLevel": 4,
+  "AwakeCondition": 40001,
+  "AwakeItemID": 215,
+  "AwakeItemNum": 4,
+  "AwakeSkill": 160101200,
+  "AwakeFx": 3
+ },
+ {
+  "AwakeID": 41030105,
+  "UnitID": 410301,
+  "AwakeLevel": 5,
+  "AwakeCondition": 40001,
+  "AwakeItemID": 215,
+  "AwakeItemNum": 5,
+  "AwakeSkill": 160101200,
+  "AwakeFx": 3
+ },
+ {
+  "AwakeID": 42010101,
+  "UnitID": 420101,
+  "AwakeLevel": 1,
+  "AwakeCondition": 40001,
+  "AwakeItemID": 215,
+  "AwakeItemNum": 2,
+  "AwakeSkill": 160101200,
+  "AwakeFx": 1
+ },
+ {
+  "AwakeID": 42010102,
+  "UnitID": 420101,
+  "AwakeLevel": 2,
+  "AwakeCondition": 40001,
+  "AwakeItemID": 215,
+  "AwakeItemNum": 2,
+  "AwakeSkill": 160101200,
+  "AwakeFx": 2
+ },
+ {
+  "AwakeID": 42010103,
+  "UnitID": 420101,
+  "AwakeLevel": 3,
+  "AwakeCondition": 40001,
+  "AwakeItemID": 215,
+  "AwakeItemNum": 3,
+  "AwakeSkill": 160101200,
+  "AwakeFx": 3
+ },
+ {
+  "AwakeID": 42010104,
+  "UnitID": 420101,
+  "AwakeLevel": 4,
+  "AwakeCondition": 40001,
+  "AwakeItemID": 215,
+  "AwakeItemNum": 4,
+  "AwakeSkill": 160101200,
+  "AwakeFx": 3
+ },
+ {
+  "AwakeID": 42010105,
+  "UnitID": 420101,
+  "AwakeLevel": 5,
+  "AwakeCondition": 40001,
+  "AwakeItemID": 215,
+  "AwakeItemNum": 5,
+  "AwakeSkill": 160101200,
+  "AwakeFx": 3
+ },
+ {
+  "AwakeID": 43030101,
+  "UnitID": 430301,
+  "AwakeLevel": 1,
+  "AwakeCondition": 50001,
+  "AwakeItemID": 215,
+  "AwakeItemNum": 2,
+  "AwakeSkill": 160101200,
+  "AwakeFx": 1
+ },
+ {
+  "AwakeID": 43030102,
+  "UnitID": 430301,
+  "AwakeLevel": 2,
+  "AwakeCondition": 50001,
+  "AwakeItemID": 215,
+  "AwakeItemNum": 2,
+  "AwakeSkill": 160101200,
+  "AwakeFx": 2
+ },
+ {
+  "AwakeID": 43030103,
+  "UnitID": 430301,
+  "AwakeLevel": 3,
+  "AwakeCondition": 50001,
+  "AwakeItemID": 215,
+  "AwakeItemNum": 3,
+  "AwakeSkill": 160101200,
+  "AwakeFx": 3
+ },
+ {
+  "AwakeID": 43030104,
+  "UnitID": 430301,
+  "AwakeLevel": 4,
+  "AwakeCondition": 50001,
+  "AwakeItemID": 215,
+  "AwakeItemNum": 4,
+  "AwakeSkill": 160101200,
+  "AwakeFx": 3
+ },
+ {
+  "AwakeID": 43030105,
+  "UnitID": 430301,
+  "AwakeLevel": 5,
+  "AwakeCondition": 50001,
+  "AwakeItemID": 215,
+  "AwakeItemNum": 5,
+  "AwakeSkill": 160101200,
+  "AwakeFx": 3
+ },
+ {
+  "AwakeID": 44020101,
+  "UnitID": 440201,
+  "AwakeLevel": 1,
+  "AwakeCondition": 50001,
+  "AwakeItemID": 215,
+  "AwakeItemNum": 2,
+  "AwakeSkill": 160101200,
+  "AwakeFx": 1
+ },
+ {
+  "AwakeID": 44020102,
+  "UnitID": 440201,
+  "AwakeLevel": 2,
+  "AwakeCondition": 50001,
+  "AwakeItemID": 215,
+  "AwakeItemNum": 2,
+  "AwakeSkill": 160101200,
+  "AwakeFx": 2
+ },
+ {
+  "AwakeID": 44020103,
+  "UnitID": 440201,
+  "AwakeLevel": 3,
+  "AwakeCondition": 50001,
+  "AwakeItemID": 215,
+  "AwakeItemNum": 3,
+  "AwakeSkill": 160101200,
+  "AwakeFx": 3
+ },
+ {
+  "AwakeID": 44020104,
+  "UnitID": 440201,
+  "AwakeLevel": 4,
+  "AwakeCondition": 50001,
+  "AwakeItemID": 215,
+  "AwakeItemNum": 4,
+  "AwakeSkill": 160101200,
+  "AwakeFx": 3
+ },
+ {
+  "AwakeID": 44020105,
+  "UnitID": 440201,
+  "AwakeLevel": 5,
+  "AwakeCondition": 50001,
+  "AwakeItemID": 215,
+  "AwakeItemNum": 5,
+  "AwakeSkill": 160101200,
+  "AwakeFx": 3
+ },
+ {
+  "AwakeID": 44040101,
+  "UnitID": 440401,
+  "AwakeLevel": 1,
+  "AwakeCondition": 50001,
+  "AwakeItemID": 215,
+  "AwakeItemNum": 2,
+  "AwakeSkill": 160101200,
+  "AwakeFx": 1
+ },
+ {
+  "AwakeID": 44040102,
+  "UnitID": 440401,
+  "AwakeLevel": 2,
+  "AwakeCondition": 50001,
+  "AwakeItemID": 215,
+  "AwakeItemNum": 2,
+  "AwakeSkill": 160101200,
+  "AwakeFx": 2
+ },
+ {
+  "AwakeID": 44040103,
+  "UnitID": 440401,
+  "AwakeLevel": 3,
+  "AwakeCondition": 50001,
+  "AwakeItemID": 215,
+  "AwakeItemNum": 3,
+  "AwakeSkill": 160101200,
+  "AwakeFx": 3
+ },
+ {
+  "AwakeID": 44040104,
+  "UnitID": 440401,
+  "AwakeLevel": 4,
+  "AwakeCondition": 50001,
+  "AwakeItemID": 215,
+  "AwakeItemNum": 4,
+  "AwakeSkill": 160101200,
+  "AwakeFx": 3
+ },
+ {
+  "AwakeID": 44040105,
+  "UnitID": 440401,
+  "AwakeLevel": 5,
+  "AwakeCondition": 50001,
+  "AwakeItemID": 215,
+  "AwakeItemNum": 5,
+  "AwakeSkill": 160101200,
+  "AwakeFx": 3
+ },
+ {
+  "AwakeID": 45010101,
+  "UnitID": 450101,
+  "AwakeLevel": 1,
+  "AwakeCondition": 50001,
+  "AwakeItemID": 215,
+  "AwakeItemNum": 2,
+  "AwakeSkill": 160101200,
+  "AwakeFx": 1
+ },
+ {
+  "AwakeID": 45010102,
+  "UnitID": 450101,
+  "AwakeLevel": 2,
+  "AwakeCondition": 50001,
+  "AwakeItemID": 215,
+  "AwakeItemNum": 2,
+  "AwakeSkill": 160101200,
+  "AwakeFx": 2
+ },
+ {
+  "AwakeID": 45010103,
+  "UnitID": 450101,
+  "AwakeLevel": 3,
+  "AwakeCondition": 50001,
+  "AwakeItemID": 215,
+  "AwakeItemNum": 3,
+  "AwakeSkill": 160101200,
+  "AwakeFx": 3
+ },
+ {
+  "AwakeID": 45010104,
+  "UnitID": 450101,
+  "AwakeLevel": 4,
+  "AwakeCondition": 50001,
+  "AwakeItemID": 215,
+  "AwakeItemNum": 4,
+  "AwakeSkill": 160101200,
+  "AwakeFx": 3
+ },
+ {
+  "AwakeID": 45010105,
+  "UnitID": 450101,
+  "AwakeLevel": 5,
+  "AwakeCondition": 50001,
+  "AwakeItemID": 215,
+  "AwakeItemNum": 5,
+  "AwakeSkill": 160101200,
+  "AwakeFx": 3
+ },
+ {
+  "AwakeID": 15050101,
+  "UnitID": 150501,
+  "AwakeLevel": 1,
+  "AwakeCondition": 50001,
+  "AwakeItemID": 215,
+  "AwakeItemNum": 2,
+  "AwakeSkill": 160101300,
+  "AwakeFx": 1
+ },
+ {
+  "AwakeID": 15050102,
+  "UnitID": 150501,
+  "AwakeLevel": 2,
+  "AwakeCondition": 50001,
+  "AwakeItemID": 215,
+  "AwakeItemNum": 2,
+  "AwakeSkill": 160101300,
+  "AwakeFx": 2
+ },
+ {
+  "AwakeID": 15050103,
+  "UnitID": 150501,
+  "AwakeLevel": 3,
+  "AwakeCondition": 50001,
+  "AwakeItemID": 215,
+  "AwakeItemNum": 3,
+  "AwakeSkill": 160101300,
+  "AwakeFx": 3
+ },
+ {
+  "AwakeID": 15050104,
+  "UnitID": 150501,
+  "AwakeLevel": 4,
+  "AwakeCondition": 50001,
+  "AwakeItemID": 215,
+  "AwakeItemNum": 4,
+  "AwakeSkill": 160101300,
+  "AwakeFx": 3
+ },
+ {
+  "AwakeID": 15050105,
+  "UnitID": 150501,
+  "AwakeLevel": 5,
+  "AwakeCondition": 50001,
+  "AwakeItemID": 215,
+  "AwakeItemNum": 5,
+  "AwakeSkill": 160101300,
+  "AwakeFx": 3
+ },
+ {
+  "AwakeID": 14050101,
+  "UnitID": 140501,
+  "AwakeLevel": 1,
+  "AwakeCondition": 50001,
+  "AwakeItemID": 215,
+  "AwakeItemNum": 2,
+  "AwakeSkill": 160101300,
+  "AwakeFx": 1
+ },
+ {
+  "AwakeID": 14050102,
+  "UnitID": 140501,
+  "AwakeLevel": 2,
+  "AwakeCondition": 50001,
+  "AwakeItemID": 215,
+  "AwakeItemNum": 2,
+  "AwakeSkill": 160101300,
+  "AwakeFx": 2
+ },
+ {
+  "AwakeID": 14050103,
+  "UnitID": 140501,
+  "AwakeLevel": 3,
+  "AwakeCondition": 50001,
+  "AwakeItemID": 215,
+  "AwakeItemNum": 3,
+  "AwakeSkill": 160101300,
+  "AwakeFx": 3
+ },
+ {
+  "AwakeID": 14050104,
+  "UnitID": 140501,
+  "AwakeLevel": 4,
+  "AwakeCondition": 50001,
+  "AwakeItemID": 215,
+  "AwakeItemNum": 4,
+  "AwakeSkill": 160101300,
+  "AwakeFx": 3
+ },
+ {
+  "AwakeID": 14050105,
+  "UnitID": 140501,
+  "AwakeLevel": 5,
+  "AwakeCondition": 50001,
+  "AwakeItemID": 215,
+  "AwakeItemNum": 5,
+  "AwakeSkill": 160101300,
+  "AwakeFx": 3
+ },
+ {
+  "AwakeID": 14050201,
+  "UnitID": 140502,
+  "AwakeLevel": 1,
+  "AwakeCondition": 50001,
+  "AwakeItemID": 215,
+  "AwakeItemNum": 2,
+  "AwakeSkill": 160101300,
+  "AwakeFx": 1
+ },
+ {
+  "AwakeID": 14050202,
+  "UnitID": 140502,
+  "AwakeLevel": 2,
+  "AwakeCondition": 50001,
+  "AwakeItemID": 215,
+  "AwakeItemNum": 2,
+  "AwakeSkill": 160101300,
+  "AwakeFx": 2
+ },
+ {
+  "AwakeID": 14050203,
+  "UnitID": 140502,
+  "AwakeLevel": 3,
+  "AwakeCondition": 50001,
+  "AwakeItemID": 215,
+  "AwakeItemNum": 3,
+  "AwakeSkill": 160101300,
+  "AwakeFx": 3
+ },
+ {
+  "AwakeID": 14050204,
+  "UnitID": 140502,
+  "AwakeLevel": 4,
+  "AwakeCondition": 50001,
+  "AwakeItemID": 215,
+  "AwakeItemNum": 4,
+  "AwakeSkill": 160101300,
+  "AwakeFx": 3
+ },
+ {
+  "AwakeID": 14050205,
+  "UnitID": 140502,
+  "AwakeLevel": 5,
+  "AwakeCondition": 50001,
+  "AwakeItemID": 215,
+  "AwakeItemNum": 5,
+  "AwakeSkill": 160101300,
+  "AwakeFx": 3
+ },
+ {
+  "AwakeID": 41050101,
+  "UnitID": 410501,
+  "AwakeLevel": 1,
+  "AwakeCondition": 50001,
+  "AwakeItemID": 215,
+  "AwakeItemNum": 2,
+  "AwakeSkill": 160101300,
+  "AwakeFx": 1
+ },
+ {
+  "AwakeID": 41050102,
+  "UnitID": 410501,
+  "AwakeLevel": 2,
+  "AwakeCondition": 50001,
+  "AwakeItemID": 215,
+  "AwakeItemNum": 2,
+  "AwakeSkill": 160101300,
+  "AwakeFx": 2
+ },
+ {
+  "AwakeID": 41050103,
+  "UnitID": 410501,
+  "AwakeLevel": 3,
+  "AwakeCondition": 50001,
+  "AwakeItemID": 215,
+  "AwakeItemNum": 3,
+  "AwakeSkill": 160101300,
+  "AwakeFx": 3
+ },
+ {
+  "AwakeID": 41050104,
+  "UnitID": 410501,
+  "AwakeLevel": 4,
+  "AwakeCondition": 50001,
+  "AwakeItemID": 215,
+  "AwakeItemNum": 4,
+  "AwakeSkill": 160101300,
+  "AwakeFx": 3
+ },
+ {
+  "AwakeID": 41050105,
+  "UnitID": 410501,
+  "AwakeLevel": 5,
+  "AwakeCondition": 50001,
+  "AwakeItemID": 215,
+  "AwakeItemNum": 5,
+  "AwakeSkill": 160101300,
+  "AwakeFx": 3
+ }
+]

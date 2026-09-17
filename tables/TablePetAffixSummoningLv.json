@@ -1,0 +1,232 @@
+[
+ {
+  "id": 1,
+  "ExpRequired": 3000,
+  "AffixWeight": [
+   5000,
+   3000,
+   2000,
+   0,
+   0,
+   0,
+   0
+  ],
+  "ProbabilityDisplay": [
+   5000,
+   3000,
+   2000,
+   0,
+   0,
+   0,
+   0
+  ],
+  "MaxAffixNum": 1
+ },
+ {
+  "id": 2,
+  "ExpRequired": 6000,
+  "AffixWeight": [
+   1500,
+   4000,
+   3000,
+   1500,
+   0,
+   0,
+   0
+  ],
+  "ProbabilityDisplay": [
+   1500,
+   4000,
+   3000,
+   1500,
+   0,
+   0,
+   0
+  ],
+  "MaxAffixNum": 2
+ },
+ {
+  "id": 3,
+  "ExpRequired": 24000,
+  "AffixWeight": [
+   0,
+   3000,
+   4000,
+   2000,
+   1000,
+   0,
+   0
+  ],
+  "ProbabilityDisplay": [
+   0,
+   3000,
+   4000,
+   2000,
+   1000,
+   0,
+   0
+  ],
+  "MaxAffixNum": 3
+ },
+ {
+  "id": 4,
+  "ExpRequired": 120000,
+  "AffixWeight": [
+   0,
+   0,
+   3800,
+   4000,
+   2000,
+   200,
+   0
+  ],
+  "ProbabilityDisplay": [
+   0,
+   0,
+   3800,
+   4000,
+   2000,
+   200,
+   0
+  ],
+  "MaxAffixNum": 4
+ },
+ {
+  "id": 5,
+  "ExpRequired": 180000,
+  "AffixWeight": [
+   0,
+   0,
+   0,
+   5000,
+   4500,
+   500,
+   0
+  ],
+  "ProbabilityDisplay": [
+   0,
+   0,
+   0,
+   5000,
+   4500,
+   500,
+   0
+  ],
+  "MaxAffixNum": 5
+ },
+ {
+  "id": 6,
+  "ExpRequired": 240000,
+  "AffixWeight": [
+   0,
+   0,
+   0,
+   4300,
+   3500,
+   1000,
+   200
+  ],
+  "ProbabilityDisplay": [
+   0,
+   0,
+   0,
+   4300,
+   3500,
+   1000,
+   200
+  ],
+  "MaxAffixNum": 5
+ },
+ {
+  "id": 7,
+  "ExpRequired": 360000,
+  "AffixWeight": [
+   0,
+   0,
+   0,
+   3000,
+   4000,
+   2000,
+   1000
+  ],
+  "ProbabilityDisplay": [
+   0,
+   0,
+   0,
+   3000,
+   4000,
+   2000,
+   1000
+  ],
+  "MaxAffixNum": 5
+ },
+ {
+  "id": 8,
+  "ExpRequired": 480000,
+  "AffixWeight": [
+   0,
+   0,
+   0,
+   2000,
+   4000,
+   2500,
+   1500
+  ],
+  "ProbabilityDisplay": [
+   0,
+   0,
+   0,
+   2000,
+   4000,
+   2500,
+   1500
+  ],
+  "MaxAffixNum": 5
+ },
+ {
+  "id": 9,
+  "ExpRequired": 720000,
+  "AffixWeight": [
+   0,
+   0,
+   0,
+   0,
+   5000,
+   3000,
+   2000
+  ],
+  "ProbabilityDisplay": [
+   0,
+   0,
+   0,
+   0,
+   5000,
+   3000,
+   2000
+  ],
+  "MaxAffixNum": 5
+ },
+ {
+  "id": 10,
+  "ExpRequired": 0,
+  "AffixWeight": [
+   0,
+   0,
+   0,
+   0,
+   3000,
+   4000,
+   3000
+  ],
+  "ProbabilityDisplay": [
+   0,
+   0,
+   0,
+   0,
+   3000,
+   4000,
+   3000
+  ],
+  "MaxAffixNum": 5
+ }
+]

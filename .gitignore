@@ -1,0 +1,17 @@
+# sumber mentah 1.1 GB (apk, bundle, persistentDataPath) — regenerasi via adb, lihat README
+raw/
+
+# 244 MB / 3.646 PNG — regenerasi: python scripts/extract_icons.py
+icons/
+
+# python
+.venv/
+__pycache__/
+*.pyc
+
+# file sementara hasil dekripsi bundle
+*_decrypted.bundle
+_icons.bundle
+
+# macOS
+.DS_Store

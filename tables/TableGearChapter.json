@@ -1,0 +1,802 @@
+[
+ {
+  "PlayerLevel": 1,
+  "MainEquipmentLevel": 10
+ },
+ {
+  "PlayerLevel": 2,
+  "MainEquipmentLevel": 10
+ },
+ {
+  "PlayerLevel": 3,
+  "MainEquipmentLevel": 10
+ },
+ {
+  "PlayerLevel": 4,
+  "MainEquipmentLevel": 10
+ },
+ {
+  "PlayerLevel": 5,
+  "MainEquipmentLevel": 10
+ },
+ {
+  "PlayerLevel": 6,
+  "MainEquipmentLevel": 10
+ },
+ {
+  "PlayerLevel": 7,
+  "MainEquipmentLevel": 10
+ },
+ {
+  "PlayerLevel": 8,
+  "MainEquipmentLevel": 10
+ },
+ {
+  "PlayerLevel": 9,
+  "MainEquipmentLevel": 10
+ },
+ {
+  "PlayerLevel": 10,
+  "MainEquipmentLevel": 10
+ },
+ {
+  "PlayerLevel": 11,
+  "MainEquipmentLevel": 10
+ },
+ {
+  "PlayerLevel": 12,
+  "MainEquipmentLevel": 10
+ },
+ {
+  "PlayerLevel": 13,
+  "MainEquipmentLevel": 10
+ },
+ {
+  "PlayerLevel": 14,
+  "MainEquipmentLevel": 10
+ },
+ {
+  "PlayerLevel": 15,
+  "MainEquipmentLevel": 10
+ },
+ {
+  "PlayerLevel": 16,
+  "MainEquipmentLevel": 10
+ },
+ {
+  "PlayerLevel": 17,
+  "MainEquipmentLevel": 10
+ },
+ {
+  "PlayerLevel": 18,
+  "MainEquipmentLevel": 10
+ },
+ {
+  "PlayerLevel": 19,
+  "MainEquipmentLevel": 10
+ },
+ {
+  "PlayerLevel": 20,
+  "MainEquipmentLevel": 20
+ },
+ {
+  "PlayerLevel": 21,
+  "MainEquipmentLevel": 20
+ },
+ {
+  "PlayerLevel": 22,
+  "MainEquipmentLevel": 20
+ },
+ {
+  "PlayerLevel": 23,
+  "MainEquipmentLevel": 20
+ },
+ {
+  "PlayerLevel": 24,
+  "MainEquipmentLevel": 20
+ },
+ {
+  "PlayerLevel": 25,
+  "MainEquipmentLevel": 20
+ },
+ {
+  "PlayerLevel": 26,
+  "MainEquipmentLevel": 20
+ },
+ {
+  "PlayerLevel": 27,
+  "MainEquipmentLevel": 20
+ },
+ {
+  "PlayerLevel": 28,
+  "MainEquipmentLevel": 20
+ },
+ {
+  "PlayerLevel": 29,
+  "MainEquipmentLevel": 20
+ },
+ {
+  "PlayerLevel": 30,
+  "MainEquipmentLevel": 30
+ },
+ {
+  "PlayerLevel": 31,
+  "MainEquipmentLevel": 30
+ },
+ {
+  "PlayerLevel": 32,
+  "MainEquipmentLevel": 30
+ },
+ {
+  "PlayerLevel": 33,
+  "MainEquipmentLevel": 30
+ },
+ {
+  "PlayerLevel": 34,
+  "MainEquipmentLevel": 30
+ },
+ {
+  "PlayerLevel": 35,
+  "MainEquipmentLevel": 30
+ },
+ {
+  "PlayerLevel": 36,
+  "MainEquipmentLevel": 30
+ },
+ {
+  "PlayerLevel": 37,
+  "MainEquipmentLevel": 30
+ },
+ {
+  "PlayerLevel": 38,
+  "MainEquipmentLevel": 30
+ },
+ {
+  "PlayerLevel": 39,
+  "MainEquipmentLevel": 30
+ },
+ {
+  "PlayerLevel": 40,
+  "MainEquipmentLevel": 40
+ },
+ {
+  "PlayerLevel": 41,
+  "MainEquipmentLevel": 40
+ },
+ {
+  "PlayerLevel": 42,
+  "MainEquipmentLevel": 40
+ },
+ {
+  "PlayerLevel": 43,
+  "MainEquipmentLevel": 40
+ },
+ {
+  "PlayerLevel": 44,
+  "MainEquipmentLevel": 40
+ },
+ {
+  "PlayerLevel": 45,
+  "MainEquipmentLevel": 40
+ },
+ {
+  "PlayerLevel": 46,
+  "MainEquipmentLevel": 40
+ },
+ {
+  "PlayerLevel": 47,
+  "MainEquipmentLevel": 40
+ },
+ {
+  "PlayerLevel": 48,
+  "MainEquipmentLevel": 40
+ },
+ {
+  "PlayerLevel": 49,
+  "MainEquipmentLevel": 40
+ },
+ {
+  "PlayerLevel": 50,
+  "MainEquipmentLevel": 50
+ },
+ {
+  "PlayerLevel": 51,
+  "MainEquipmentLevel": 50
+ },
+ {
+  "PlayerLevel": 52,
+  "MainEquipmentLevel": 50
+ },
+ {
+  "PlayerLevel": 53,
+  "MainEquipmentLevel": 50
+ },
+ {
+  "PlayerLevel": 54,
+  "MainEquipmentLevel": 50
+ },
+ {
+  "PlayerLevel": 55,
+  "MainEquipmentLevel": 50
+ },
+ {
+  "PlayerLevel": 56,
+  "MainEquipmentLevel": 50
+ },
+ {
+  "PlayerLevel": 57,
+  "MainEquipmentLevel": 50
+ },
+ {
+  "PlayerLevel": 58,
+  "MainEquipmentLevel": 50
+ },
+ {
+  "PlayerLevel": 59,
+  "MainEquipmentLevel": 50
+ },
+ {
+  "PlayerLevel": 60,
+  "MainEquipmentLevel": 60
+ },
+ {
+  "PlayerLevel": 61,
+  "MainEquipmentLevel": 60
+ },
+ {
+  "PlayerLevel": 62,
+  "MainEquipmentLevel": 60
+ },
+ {
+  "PlayerLevel": 63,
+  "MainEquipmentLevel": 60
+ },
+ {
+  "PlayerLevel": 64,
+  "MainEquipmentLevel": 60
+ },
+ {
+  "PlayerLevel": 65,
+  "MainEquipmentLevel": 60
+ },
+ {
+  "PlayerLevel": 66,
+  "MainEquipmentLevel": 60
+ },
+ {
+  "PlayerLevel": 67,
+  "MainEquipmentLevel": 60
+ },
+ {
+  "PlayerLevel": 68,
+  "MainEquipmentLevel": 60
+ },
+ {
+  "PlayerLevel": 69,
+  "MainEquipmentLevel": 60
+ },
+ {
+  "PlayerLevel": 70,
+  "MainEquipmentLevel": 70
+ },
+ {
+  "PlayerLevel": 71,
+  "MainEquipmentLevel": 70
+ },
+ {
+  "PlayerLevel": 72,
+  "MainEquipmentLevel": 70
+ },
+ {
+  "PlayerLevel": 73,
+  "MainEquipmentLevel": 70
+ },
+ {
+  "PlayerLevel": 74,
+  "MainEquipmentLevel": 70
+ },
+ {
+  "PlayerLevel": 75,
+  "MainEquipmentLevel": 70
+ },
+ {
+  "PlayerLevel": 76,
+  "MainEquipmentLevel": 70
+ },
+ {
+  "PlayerLevel": 77,
+  "MainEquipmentLevel": 70
+ },
+ {
+  "PlayerLevel": 78,
+  "MainEquipmentLevel": 70
+ },
+ {
+  "PlayerLevel": 79,
+  "MainEquipmentLevel": 70
+ },
+ {
+  "PlayerLevel": 80,
+  "MainEquipmentLevel": 80
+ },
+ {
+  "PlayerLevel": 81,
+  "MainEquipmentLevel": 80
+ },
+ {
+  "PlayerLevel": 82,
+  "MainEquipmentLevel": 80
+ },
+ {
+  "PlayerLevel": 83,
+  "MainEquipmentLevel": 80
+ },
+ {
+  "PlayerLevel": 84,
+  "MainEquipmentLevel": 80
+ },
+ {
+  "PlayerLevel": 85,
+  "MainEquipmentLevel": 80
+ },
+ {
+  "PlayerLevel": 86,
+  "MainEquipmentLevel": 80
+ },
+ {
+  "PlayerLevel": 87,
+  "MainEquipmentLevel": 80
+ },
+ {
+  "PlayerLevel": 88,
+  "MainEquipmentLevel": 80
+ },
+ {
+  "PlayerLevel": 89,
+  "MainEquipmentLevel": 80
+ },
+ {
+  "PlayerLevel": 90,
+  "MainEquipmentLevel": 90
+ },
+ {
+  "PlayerLevel": 91,
+  "MainEquipmentLevel": 90
+ },
+ {
+  "PlayerLevel": 92,
+  "MainEquipmentLevel": 90
+ },
+ {
+  "PlayerLevel": 93,
+  "MainEquipmentLevel": 90
+ },
+ {
+  "PlayerLevel": 94,
+  "MainEquipmentLevel": 90
+ },
+ {
+  "PlayerLevel": 95,
+  "MainEquipmentLevel": 90
+ },
+ {
+  "PlayerLevel": 96,
+  "MainEquipmentLevel": 90
+ },
+ {
+  "PlayerLevel": 97,
+  "MainEquipmentLevel": 90
+ },
+ {
+  "PlayerLevel": 98,
+  "MainEquipmentLevel": 90
+ },
+ {
+  "PlayerLevel": 99,
+  "MainEquipmentLevel": 90
+ },
+ {
+  "PlayerLevel": 100,
+  "MainEquipmentLevel": 100
+ },
+ {
+  "PlayerLevel": 101,
+  "MainEquipmentLevel": 100
+ },
+ {
+  "PlayerLevel": 102,
+  "MainEquipmentLevel": 100
+ },
+ {
+  "PlayerLevel": 103,
+  "MainEquipmentLevel": 100
+ },
+ {
+  "PlayerLevel": 104,
+  "MainEquipmentLevel": 100
+ },
+ {
+  "PlayerLevel": 105,
+  "MainEquipmentLevel": 100
+ },
+ {
+  "PlayerLevel": 106,
+  "MainEquipmentLevel": 100
+ },
+ {
+  "PlayerLevel": 107,
+  "MainEquipmentLevel": 100
+ },
+ {
+  "PlayerLevel": 108,
+  "MainEquipmentLevel": 100
+ },
+ {
+  "PlayerLevel": 109,
+  "MainEquipmentLevel": 100
+ },
+ {
+  "PlayerLevel": 110,
+  "MainEquipmentLevel": 110
+ },
+ {
+  "PlayerLevel": 111,
+  "MainEquipmentLevel": 110
+ },
+ {
+  "PlayerLevel": 112,
+  "MainEquipmentLevel": 110
+ },
+ {
+  "PlayerLevel": 113,
+  "MainEquipmentLevel": 110
+ },
+ {
+  "PlayerLevel": 114,
+  "MainEquipmentLevel": 110
+ },
+ {
+  "PlayerLevel": 115,
+  "MainEquipmentLevel": 110
+ },
+ {
+  "PlayerLevel": 116,
+  "MainEquipmentLevel": 110
+ },
+ {
+  "PlayerLevel": 117,
+  "MainEquipmentLevel": 110
+ },
+ {
+  "PlayerLevel": 118,
+  "MainEquipmentLevel": 110
+ },
+ {
+  "PlayerLevel": 119,
+  "MainEquipmentLevel": 110
+ },
+ {
+  "PlayerLevel": 120,
+  "MainEquipmentLevel": 120
+ },
+ {
+  "PlayerLevel": 121,
+  "MainEquipmentLevel": 120
+ },
+ {
+  "PlayerLevel": 122,
+  "MainEquipmentLevel": 120
+ },
+ {
+  "PlayerLevel": 123,
+  "MainEquipmentLevel": 120
+ },
+ {
+  "PlayerLevel": 124,
+  "MainEquipmentLevel": 120
+ },
+ {
+  "PlayerLevel": 125,
+  "MainEquipmentLevel": 120
+ },
+ {
+  "PlayerLevel": 126,
+  "MainEquipmentLevel": 120
+ },
+ {
+  "PlayerLevel": 127,
+  "MainEquipmentLevel": 120
+ },
+ {
+  "PlayerLevel": 128,
+  "MainEquipmentLevel": 120
+ },
+ {
+  "PlayerLevel": 129,
+  "MainEquipmentLevel": 120
+ },
+ {
+  "PlayerLevel": 130,
+  "MainEquipmentLevel": 130
+ },
+ {
+  "PlayerLevel": 131,
+  "MainEquipmentLevel": 130
+ },
+ {
+  "PlayerLevel": 132,
+  "MainEquipmentLevel": 130
+ },
+ {
+  "PlayerLevel": 133,
+  "MainEquipmentLevel": 130
+ },
+ {
+  "PlayerLevel": 134,
+  "MainEquipmentLevel": 130
+ },
+ {
+  "PlayerLevel": 135,
+  "MainEquipmentLevel": 130
+ },
+ {
+  "PlayerLevel": 136,
+  "MainEquipmentLevel": 130
+ },
+ {
+  "PlayerLevel": 137,
+  "MainEquipmentLevel": 130
+ },
+ {
+  "PlayerLevel": 138,
+  "MainEquipmentLevel": 130
+ },
+ {
+  "PlayerLevel": 139,
+  "MainEquipmentLevel": 130
+ },
+ {
+  "PlayerLevel": 140,
+  "MainEquipmentLevel": 140
+ },
+ {
+  "PlayerLevel": 141,
+  "MainEquipmentLevel": 140
+ },
+ {
+  "PlayerLevel": 142,
+  "MainEquipmentLevel": 140
+ },
+ {
+  "PlayerLevel": 143,
+  "MainEquipmentLevel": 140
+ },
+ {
+  "PlayerLevel": 144,
+  "MainEquipmentLevel": 140
+ },
+ {
+  "PlayerLevel": 145,
+  "MainEquipmentLevel": 140
+ },
+ {
+  "PlayerLevel": 146,
+  "MainEquipmentLevel": 140
+ },
+ {
+  "PlayerLevel": 147,
+  "MainEquipmentLevel": 140
+ },
+ {
+  "PlayerLevel": 148,
+  "MainEquipmentLevel": 140
+ },
+ {
+  "PlayerLevel": 149,
+  "MainEquipmentLevel": 140
+ },
+ {
+  "PlayerLevel": 150,
+  "MainEquipmentLevel": 150
+ },
+ {
+  "PlayerLevel": 151,
+  "MainEquipmentLevel": 150
+ },
+ {
+  "PlayerLevel": 152,
+  "MainEquipmentLevel": 150
+ },
+ {
+  "PlayerLevel": 153,
+  "MainEquipmentLevel": 150
+ },
+ {
+  "PlayerLevel": 154,
+  "MainEquipmentLevel": 150
+ },
+ {
+  "PlayerLevel": 155,
+  "MainEquipmentLevel": 150
+ },
+ {
+  "PlayerLevel": 156,
+  "MainEquipmentLevel": 150
+ },
+ {
+  "PlayerLevel": 157,
+  "MainEquipmentLevel": 150
+ },
+ {
+  "PlayerLevel": 158,
+  "MainEquipmentLevel": 150
+ },
+ {
+  "PlayerLevel": 159,
+  "MainEquipmentLevel": 150
+ },
+ {
+  "PlayerLevel": 160,
+  "MainEquipmentLevel": 160
+ },
+ {
+  "PlayerLevel": 161,
+  "MainEquipmentLevel": 160
+ },
+ {
+  "PlayerLevel": 162,
+  "MainEquipmentLevel": 160
+ },
+ {
+  "PlayerLevel": 163,
+  "MainEquipmentLevel": 160
+ },
+ {
+  "PlayerLevel": 164,
+  "MainEquipmentLevel": 160
+ },
+ {
+  "PlayerLevel": 165,
+  "MainEquipmentLevel": 160
+ },
+ {
+  "PlayerLevel": 166,
+  "MainEquipmentLevel": 160
+ },
+ {
+  "PlayerLevel": 167,
+  "MainEquipmentLevel": 160
+ },
+ {
+  "PlayerLevel": 168,
+  "MainEquipmentLevel": 160
+ },
+ {
+  "PlayerLevel": 169,
+  "MainEquipmentLevel": 160
+ },
+ {
+  "PlayerLevel": 170,
+  "MainEquipmentLevel": 170
+ },
+ {
+  "PlayerLevel": 171,
+  "MainEquipmentLevel": 170
+ },
+ {
+  "PlayerLevel": 172,
+  "MainEquipmentLevel": 170
+ },
+ {
+  "PlayerLevel": 173,
+  "MainEquipmentLevel": 170
+ },
+ {
+  "PlayerLevel": 174,
+  "MainEquipmentLevel": 170
+ },
+ {
+  "PlayerLevel": 175,
+  "MainEquipmentLevel": 170
+ },
+ {
+  "PlayerLevel": 176,
+  "MainEquipmentLevel": 170
+ },
+ {
+  "PlayerLevel": 177,
+  "MainEquipmentLevel": 170
+ },
+ {
+  "PlayerLevel": 178,
+  "MainEquipmentLevel": 170
+ },
+ {
+  "PlayerLevel": 179,
+  "MainEquipmentLevel": 170
+ },
+ {
+  "PlayerLevel": 180,
+  "MainEquipmentLevel": 180
+ },
+ {
+  "PlayerLevel": 181,
+  "MainEquipmentLevel": 180
+ },
+ {
+  "PlayerLevel": 182,
+  "MainEquipmentLevel": 180
+ },
+ {
+  "PlayerLevel": 183,
+  "MainEquipmentLevel": 180
+ },
+ {
+  "PlayerLevel": 184,
+  "MainEquipmentLevel": 180
+ },
+ {
+  "PlayerLevel": 185,
+  "MainEquipmentLevel": 180
+ },
+ {
+  "PlayerLevel": 186,
+  "MainEquipmentLevel": 180
+ },
+ {
+  "PlayerLevel": 187,
+  "MainEquipmentLevel": 180
+ },
+ {
+  "PlayerLevel": 188,
+  "MainEquipmentLevel": 180
+ },
+ {
+  "PlayerLevel": 189,
+  "MainEquipmentLevel": 180
+ },
+ {
+  "PlayerLevel": 190,
+  "MainEquipmentLevel": 190
+ },
+ {
+  "PlayerLevel": 191,
+  "MainEquipmentLevel": 190
+ },
+ {
+  "PlayerLevel": 192,
+  "MainEquipmentLevel": 190
+ },
+ {
+  "PlayerLevel": 193,
+  "MainEquipmentLevel": 190
+ },
+ {
+  "PlayerLevel": 194,
+  "MainEquipmentLevel": 190
+ },
+ {
+  "PlayerLevel": 195,
+  "MainEquipmentLevel": 190
+ },
+ {
+  "PlayerLevel": 196,
+  "MainEquipmentLevel": 190
+ },
+ {
+  "PlayerLevel": 197,
+  "MainEquipmentLevel": 190
+ },
+ {
+  "PlayerLevel": 198,
+  "MainEquipmentLevel": 190
+ },
+ {
+  "PlayerLevel": 199,
+  "MainEquipmentLevel": 190
+ },
+ {
+  "PlayerLevel": 200,
+  "MainEquipmentLevel": 200
+ }
+]

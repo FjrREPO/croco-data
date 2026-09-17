@@ -1,0 +1,3312 @@
+[
+ {
+  "LevelEventID": 10001,
+  "SpeakerID": 140202,
+  "SpeakerPos": [
+   1.0,
+   -157.1999969482422,
+   346.6000061035156
+  ],
+  "EventIcon": "Event_001",
+  "IconPos": [
+   0.800000011920929,
+   0.7799999713897705,
+   -1.3700000047683716
+  ],
+  "GroupID": 1,
+  "EEIDs": [
+   3003,
+   3026
+  ],
+  "ShowDetail": 1,
+  "EventWeight": 100,
+  "UnlockType": 2,
+  "UnlockParamList": [
+   20
+  ]
+ },
+ {
+  "LevelEventID": 10002,
+  "SpeakerID": 140202,
+  "SpeakerPos": [
+   1.0,
+   -157.1999969482422,
+   346.6000061035156
+  ],
+  "EventIcon": "Event_001",
+  "IconPos": [
+   0.800000011920929,
+   0.7799999713897705,
+   -1.3700000047683716
+  ],
+  "GroupID": 1,
+  "EEIDs": [
+   3004,
+   3026
+  ],
+  "ShowDetail": 1,
+  "EventWeight": 100,
+  "UnlockType": 2,
+  "UnlockParamList": [
+   20
+  ]
+ },
+ {
+  "LevelEventID": 10003,
+  "SpeakerID": 140202,
+  "SpeakerPos": [
+   1.0,
+   -157.1999969482422,
+   346.6000061035156
+  ],
+  "EventIcon": "Event_001",
+  "IconPos": [
+   0.800000011920929,
+   0.7799999713897705,
+   -1.3700000047683716
+  ],
+  "GroupID": 1,
+  "EEIDs": [
+   3005,
+   3026
+  ],
+  "ShowDetail": 1,
+  "EventWeight": 100,
+  "UnlockType": 2,
+  "UnlockParamList": [
+   20
+  ]
+ },
+ {
+  "LevelEventID": 10004,
+  "SpeakerID": 140202,
+  "SpeakerPos": [
+   1.0,
+   -157.1999969482422,
+   346.6000061035156
+  ],
+  "EventIcon": "Event_001",
+  "IconPos": [
+   0.800000011920929,
+   0.7799999713897705,
+   -1.3700000047683716
+  ],
+  "GroupID": 1,
+  "EEIDs": [
+   3026
+  ],
+  "ShowDetail": 1,
+  "EventWeight": 100,
+  "UnlockType": 2,
+  "UnlockParamList": [
+   20
+  ]
+ },
+ {
+  "LevelEventID": 10005,
+  "SpeakerID": 140202,
+  "SpeakerPos": [
+   1.0,
+   -157.1999969482422,
+   346.6000061035156
+  ],
+  "EventIcon": "Event_001",
+  "IconPos": [
+   0.800000011920929,
+   0.7799999713897705,
+   -1.3700000047683716
+  ],
+  "GroupID": 1,
+  "EEIDs": [
+   3026
+  ],
+  "ShowDetail": 1,
+  "EventWeight": 100,
+  "UnlockType": 2,
+  "UnlockParamList": [
+   20
+  ]
+ },
+ {
+  "LevelEventID": 10006,
+  "SpeakerID": 140202,
+  "SpeakerPos": [
+   1.0,
+   -157.1999969482422,
+   346.6000061035156
+  ],
+  "EventIcon": "Event_001",
+  "IconPos": [
+   0.800000011920929,
+   0.7799999713897705,
+   -1.3700000047683716
+  ],
+  "GroupID": 1,
+  "EEIDs": [
+   3026
+  ],
+  "ShowDetail": 1,
+  "EventWeight": 100,
+  "UnlockType": 2,
+  "UnlockParamList": [
+   20
+  ]
+ },
+ {
+  "LevelEventID": 10007,
+  "SpeakerID": 130201,
+  "SpeakerPos": [
+   1.0,
+   -84.0,
+   380.0
+  ],
+  "EventIcon": "Event_006",
+  "IconPos": [
+   0.8999999761581421,
+   0.6000000238418579,
+   1.0
+  ],
+  "GroupID": 3,
+  "EEIDs": [
+   3000,
+   3003
+  ],
+  "ShowDetail": 1,
+  "EventWeight": 100,
+  "UnlockType": 0,
+  "UnlockParamList": []
+ },
+ {
+  "LevelEventID": 10008,
+  "SpeakerID": 130201,
+  "SpeakerPos": [
+   1.0,
+   -84.0,
+   380.0
+  ],
+  "EventIcon": "Event_006",
+  "IconPos": [
+   0.8999999761581421,
+   0.6000000238418579,
+   1.0
+  ],
+  "GroupID": 3,
+  "EEIDs": [
+   3007,
+   3010
+  ],
+  "ShowDetail": 1,
+  "EventWeight": 100,
+  "UnlockType": 0,
+  "UnlockParamList": []
+ },
+ {
+  "LevelEventID": 10009,
+  "SpeakerID": 110301,
+  "SpeakerPos": [
+   1.0,
+   -137.0,
+   434.0
+  ],
+  "EventIcon": "Event_005",
+  "IconPos": [
+   1.0,
+   0.0,
+   -0.10000000149011612
+  ],
+  "GroupID": 3,
+  "EEIDs": [
+   3013,
+   3016
+  ],
+  "ShowDetail": 1,
+  "EventWeight": 100,
+  "UnlockType": 0,
+  "UnlockParamList": []
+ },
+ {
+  "LevelEventID": 10010,
+  "SpeakerID": 110301,
+  "SpeakerPos": [
+   1.0,
+   -137.0,
+   434.0
+  ],
+  "EventIcon": "Event_005",
+  "IconPos": [
+   1.0,
+   0.0,
+   -0.10000000149011612
+  ],
+  "GroupID": 3,
+  "EEIDs": [
+   3002,
+   3008
+  ],
+  "ShowDetail": 1,
+  "EventWeight": 100,
+  "UnlockType": 0,
+  "UnlockParamList": []
+ },
+ {
+  "LevelEventID": 10011,
+  "SpeakerID": 120501,
+  "SpeakerPos": [
+   1.0,
+   14.529999732971191,
+   395.20001220703125
+  ],
+  "EventIcon": "Event_007",
+  "IconPos": [
+   1.0,
+   0.0,
+   3.25
+  ],
+  "GroupID": 3,
+  "EEIDs": [
+   3009,
+   3000
+  ],
+  "ShowDetail": 1,
+  "EventWeight": 100,
+  "UnlockType": 0,
+  "UnlockParamList": []
+ },
+ {
+  "LevelEventID": 10012,
+  "SpeakerID": 120501,
+  "SpeakerPos": [
+   1.0,
+   14.529999732971191,
+   395.20001220703125
+  ],
+  "EventIcon": "Event_007",
+  "IconPos": [
+   1.0,
+   0.0,
+   3.25
+  ],
+  "GroupID": 3,
+  "EEIDs": [
+   3002,
+   3005
+  ],
+  "ShowDetail": 1,
+  "EventWeight": 100,
+  "UnlockType": 0,
+  "UnlockParamList": []
+ },
+ {
+  "LevelEventID": 10013,
+  "SpeakerID": 130201,
+  "SpeakerPos": [
+   1.0,
+   -84.0,
+   380.0
+  ],
+  "EventIcon": "Event_006",
+  "IconPos": [
+   0.8999999761581421,
+   0.6000000238418579,
+   1.0
+  ],
+  "GroupID": 4,
+  "EEIDs": [
+   3008,
+   3016
+  ],
+  "ShowDetail": 1,
+  "EventWeight": 100,
+  "UnlockType": 0,
+  "UnlockParamList": []
+ },
+ {
+  "LevelEventID": 10014,
+  "SpeakerID": 130201,
+  "SpeakerPos": [
+   1.0,
+   -84.0,
+   380.0
+  ],
+  "EventIcon": "Event_006",
+  "IconPos": [
+   0.8999999761581421,
+   0.6000000238418579,
+   1.0
+  ],
+  "GroupID": 4,
+  "EEIDs": [
+   3021,
+   3012
+  ],
+  "ShowDetail": 1,
+  "EventWeight": 100,
+  "UnlockType": 0,
+  "UnlockParamList": []
+ },
+ {
+  "LevelEventID": 10015,
+  "SpeakerID": 110301,
+  "SpeakerPos": [
+   1.0,
+   -137.0,
+   434.0
+  ],
+  "EventIcon": "Event_005",
+  "IconPos": [
+   1.0,
+   0.0,
+   -0.10000000149011612
+  ],
+  "GroupID": 4,
+  "EEIDs": [
+   3011,
+   3012
+  ],
+  "ShowDetail": 1,
+  "EventWeight": 100,
+  "UnlockType": 0,
+  "UnlockParamList": []
+ },
+ {
+  "LevelEventID": 10016,
+  "SpeakerID": 110301,
+  "SpeakerPos": [
+   1.0,
+   -137.0,
+   434.0
+  ],
+  "EventIcon": "Event_005",
+  "IconPos": [
+   1.0,
+   0.0,
+   -0.10000000149011612
+  ],
+  "GroupID": 4,
+  "EEIDs": [
+   3023,
+   3008
+  ],
+  "ShowDetail": 1,
+  "EventWeight": 100,
+  "UnlockType": 0,
+  "UnlockParamList": []
+ },
+ {
+  "LevelEventID": 10017,
+  "SpeakerID": 120501,
+  "SpeakerPos": [
+   1.0,
+   14.529999732971191,
+   395.20001220703125
+  ],
+  "EventIcon": "Event_007",
+  "IconPos": [
+   1.0,
+   0.0,
+   3.25
+  ],
+  "GroupID": 4,
+  "EEIDs": [
+   3019,
+   3005
+  ],
+  "ShowDetail": 1,
+  "EventWeight": 100,
+  "UnlockType": 0,
+  "UnlockParamList": []
+ },
+ {
+  "LevelEventID": 10018,
+  "SpeakerID": 120501,
+  "SpeakerPos": [
+   1.0,
+   14.529999732971191,
+   395.20001220703125
+  ],
+  "EventIcon": "Event_007",
+  "IconPos": [
+   1.0,
+   0.0,
+   3.25
+  ],
+  "GroupID": 4,
+  "EEIDs": [
+   3026,
+   3016
+  ],
+  "ShowDetail": 1,
+  "EventWeight": 100,
+  "UnlockType": 0,
+  "UnlockParamList": []
+ },
+ {
+  "LevelEventID": 10019,
+  "SpeakerID": 110301,
+  "SpeakerPos": [
+   1.0,
+   -137.0,
+   434.0
+  ],
+  "EventIcon": "Event_005",
+  "IconPos": [
+   1.0,
+   0.0,
+   -0.10000000149011612
+  ],
+  "GroupID": 4,
+  "EEIDs": [
+   3002,
+   3012
+  ],
+  "ShowDetail": 1,
+  "EventWeight": 100,
+  "UnlockType": 0,
+  "UnlockParamList": []
+ },
+ {
+  "LevelEventID": 10020,
+  "SpeakerID": 110402,
+  "SpeakerPos": [
+   1.0,
+   -159.5,
+   375.6499938964844
+  ],
+  "EventIcon": "Event_004",
+  "IconPos": [
+   0.800000011920929,
+   0.0,
+   2.6600000858306885
+  ],
+  "GroupID": 5,
+  "EEIDs": [
+   1000,
+   1001
+  ],
+  "ShowDetail": 0,
+  "EventWeight": 0,
+  "UnlockType": 0,
+  "UnlockParamList": []
+ },
+ {
+  "LevelEventID": 10021,
+  "SpeakerID": 120201,
+  "SpeakerPos": [
+   1.0,
+   72.69999694824219,
+   424.6000061035156
+  ],
+  "EventIcon": "Event_008",
+  "IconPos": [
+   0.800000011920929,
+   -3.2100000381469727,
+   1.7000000476837158
+  ],
+  "GroupID": 5,
+  "EEIDs": [
+   1000,
+   1002
+  ],
+  "ShowDetail": 0,
+  "EventWeight": 100,
+  "UnlockType": 0,
+  "UnlockParamList": []
+ },
+ {
+  "LevelEventID": 10022,
+  "SpeakerID": 120302,
+  "SpeakerPos": [
+   1.0,
+   -175.1999969482422,
+   413.29998779296875
+  ],
+  "EventIcon": "Event_003",
+  "IconPos": [
+   0.75,
+   3.200000047683716,
+   -0.8999999761581421
+  ],
+  "GroupID": 0,
+  "EEIDs": [
+   1000,
+   1003
+  ],
+  "ShowDetail": 0,
+  "EventWeight": 100,
+  "UnlockType": 0,
+  "UnlockParamList": []
+ },
+ {
+  "LevelEventID": 10023,
+  "SpeakerID": 110301,
+  "SpeakerPos": [
+   1.0,
+   -137.0,
+   434.0
+  ],
+  "EventIcon": "Event_005",
+  "IconPos": [
+   1.0,
+   0.0,
+   -0.10000000149011612
+  ],
+  "GroupID": 6,
+  "EEIDs": [
+   1000,
+   3016
+  ],
+  "ShowDetail": 0,
+  "EventWeight": 100,
+  "UnlockType": 0,
+  "UnlockParamList": []
+ },
+ {
+  "LevelEventID": 10024,
+  "SpeakerID": 130201,
+  "SpeakerPos": [
+   1.0,
+   -84.0,
+   380.0
+  ],
+  "EventIcon": "Event_006",
+  "IconPos": [
+   0.8999999761581421,
+   0.6000000238418579,
+   1.0
+  ],
+  "GroupID": 6,
+  "EEIDs": [
+   1000,
+   3012
+  ],
+  "ShowDetail": 0,
+  "EventWeight": 100,
+  "UnlockType": 0,
+  "UnlockParamList": []
+ },
+ {
+  "LevelEventID": 10025,
+  "SpeakerID": 120501,
+  "SpeakerPos": [
+   1.0,
+   14.529999732971191,
+   395.20001220703125
+  ],
+  "EventIcon": "Event_007",
+  "IconPos": [
+   1.0,
+   0.0,
+   3.25
+  ],
+  "GroupID": 6,
+  "EEIDs": [
+   1000,
+   3002
+  ],
+  "ShowDetail": 0,
+  "EventWeight": 100,
+  "UnlockType": 0,
+  "UnlockParamList": []
+ },
+ {
+  "LevelEventID": 10026,
+  "SpeakerID": 130201,
+  "SpeakerPos": [
+   1.0,
+   -84.0,
+   380.0
+  ],
+  "EventIcon": "Event_006",
+  "IconPos": [
+   0.8999999761581421,
+   0.6000000238418579,
+   1.0
+  ],
+  "GroupID": 7,
+  "EEIDs": [
+   1000,
+   3010
+  ],
+  "ShowDetail": 0,
+  "EventWeight": 100,
+  "UnlockType": 0,
+  "UnlockParamList": []
+ },
+ {
+  "LevelEventID": 10027,
+  "SpeakerID": 130202,
+  "SpeakerPos": [
+   1.0,
+   0.0,
+   418.1000061035156
+  ],
+  "EventIcon": "Event_002",
+  "IconPos": [
+   1.0,
+   0.0,
+   -0.30000001192092896
+  ],
+  "GroupID": 7,
+  "EEIDs": [
+   1000,
+   4007
+  ],
+  "ShowDetail": 0,
+  "EventWeight": 100,
+  "UnlockType": 0,
+  "UnlockParamList": []
+ },
+ {
+  "LevelEventID": 10028,
+  "SpeakerID": 140202,
+  "SpeakerPos": [
+   1.0,
+   -157.1999969482422,
+   346.6000061035156
+  ],
+  "EventIcon": "Event_001",
+  "IconPos": [
+   0.800000011920929,
+   0.7799999713897705,
+   -1.3700000047683716
+  ],
+  "GroupID": 1,
+  "EEIDs": [
+   3003,
+   3026
+  ],
+  "ShowDetail": 1,
+  "EventWeight": 100,
+  "UnlockType": 2,
+  "UnlockParamList": [
+   20
+  ]
+ },
+ {
+  "LevelEventID": 10029,
+  "SpeakerID": 140202,
+  "SpeakerPos": [
+   1.0,
+   -157.1999969482422,
+   346.6000061035156
+  ],
+  "EventIcon": "Event_001",
+  "IconPos": [
+   0.800000011920929,
+   0.7799999713897705,
+   -1.3700000047683716
+  ],
+  "GroupID": 1,
+  "EEIDs": [
+   3004,
+   3026
+  ],
+  "ShowDetail": 1,
+  "EventWeight": 100,
+  "UnlockType": 2,
+  "UnlockParamList": [
+   20
+  ]
+ },
+ {
+  "LevelEventID": 10030,
+  "SpeakerID": 140202,
+  "SpeakerPos": [
+   1.0,
+   -157.1999969482422,
+   346.6000061035156
+  ],
+  "EventIcon": "Event_001",
+  "IconPos": [
+   0.800000011920929,
+   0.7799999713897705,
+   -1.3700000047683716
+  ],
+  "GroupID": 1,
+  "EEIDs": [
+   3005,
+   3026
+  ],
+  "ShowDetail": 1,
+  "EventWeight": 100,
+  "UnlockType": 2,
+  "UnlockParamList": [
+   20
+  ]
+ },
+ {
+  "LevelEventID": 10031,
+  "SpeakerID": 140202,
+  "SpeakerPos": [
+   1.0,
+   -157.1999969482422,
+   346.6000061035156
+  ],
+  "EventIcon": "Event_001",
+  "IconPos": [
+   0.800000011920929,
+   0.7799999713897705,
+   -1.3700000047683716
+  ],
+  "GroupID": 1,
+  "EEIDs": [
+   3026
+  ],
+  "ShowDetail": 1,
+  "EventWeight": 100,
+  "UnlockType": 2,
+  "UnlockParamList": [
+   20
+  ]
+ },
+ {
+  "LevelEventID": 10032,
+  "SpeakerID": 140202,
+  "SpeakerPos": [
+   1.0,
+   -157.1999969482422,
+   346.6000061035156
+  ],
+  "EventIcon": "Event_001",
+  "IconPos": [
+   0.800000011920929,
+   0.7799999713897705,
+   -1.3700000047683716
+  ],
+  "GroupID": 1,
+  "EEIDs": [
+   3026
+  ],
+  "ShowDetail": 1,
+  "EventWeight": 100,
+  "UnlockType": 2,
+  "UnlockParamList": [
+   20
+  ]
+ },
+ {
+  "LevelEventID": 10033,
+  "SpeakerID": 140202,
+  "SpeakerPos": [
+   1.0,
+   -157.1999969482422,
+   346.6000061035156
+  ],
+  "EventIcon": "Event_001",
+  "IconPos": [
+   0.800000011920929,
+   0.7799999713897705,
+   -1.3700000047683716
+  ],
+  "GroupID": 1,
+  "EEIDs": [
+   3026
+  ],
+  "ShowDetail": 1,
+  "EventWeight": 100,
+  "UnlockType": 2,
+  "UnlockParamList": [
+   20
+  ]
+ },
+ {
+  "LevelEventID": 10034,
+  "SpeakerID": 130201,
+  "SpeakerPos": [
+   1.0,
+   -84.0,
+   380.0
+  ],
+  "EventIcon": "Event_006",
+  "IconPos": [
+   0.8999999761581421,
+   0.6000000238418579,
+   1.0
+  ],
+  "GroupID": 3,
+  "EEIDs": [
+   3000,
+   3003
+  ],
+  "ShowDetail": 1,
+  "EventWeight": 100,
+  "UnlockType": 0,
+  "UnlockParamList": []
+ },
+ {
+  "LevelEventID": 10035,
+  "SpeakerID": 130201,
+  "SpeakerPos": [
+   1.0,
+   -84.0,
+   380.0
+  ],
+  "EventIcon": "Event_006",
+  "IconPos": [
+   0.8999999761581421,
+   0.6000000238418579,
+   1.0
+  ],
+  "GroupID": 3,
+  "EEIDs": [
+   3007,
+   3010
+  ],
+  "ShowDetail": 1,
+  "EventWeight": 100,
+  "UnlockType": 0,
+  "UnlockParamList": []
+ },
+ {
+  "LevelEventID": 10036,
+  "SpeakerID": 120501,
+  "SpeakerPos": [
+   1.0,
+   14.529999732971191,
+   395.20001220703125
+  ],
+  "EventIcon": "Event_007",
+  "IconPos": [
+   1.0,
+   0.0,
+   3.25
+  ],
+  "GroupID": 3,
+  "EEIDs": [
+   3013,
+   3016
+  ],
+  "ShowDetail": 1,
+  "EventWeight": 100,
+  "UnlockType": 0,
+  "UnlockParamList": []
+ },
+ {
+  "LevelEventID": 10037,
+  "SpeakerID": 120501,
+  "SpeakerPos": [
+   1.0,
+   14.529999732971191,
+   395.20001220703125
+  ],
+  "EventIcon": "Event_007",
+  "IconPos": [
+   1.0,
+   0.0,
+   3.25
+  ],
+  "GroupID": 3,
+  "EEIDs": [
+   3002,
+   3008
+  ],
+  "ShowDetail": 1,
+  "EventWeight": 100,
+  "UnlockType": 0,
+  "UnlockParamList": []
+ },
+ {
+  "LevelEventID": 10038,
+  "SpeakerID": 110301,
+  "SpeakerPos": [
+   1.0,
+   -137.0,
+   434.0
+  ],
+  "EventIcon": "Event_005",
+  "IconPos": [
+   1.0,
+   0.0,
+   -0.10000000149011612
+  ],
+  "GroupID": 3,
+  "EEIDs": [
+   3009,
+   3000
+  ],
+  "ShowDetail": 1,
+  "EventWeight": 100,
+  "UnlockType": 0,
+  "UnlockParamList": []
+ },
+ {
+  "LevelEventID": 10039,
+  "SpeakerID": 110301,
+  "SpeakerPos": [
+   1.0,
+   -137.0,
+   434.0
+  ],
+  "EventIcon": "Event_005",
+  "IconPos": [
+   1.0,
+   0.0,
+   -0.10000000149011612
+  ],
+  "GroupID": 3,
+  "EEIDs": [
+   3002,
+   3005
+  ],
+  "ShowDetail": 1,
+  "EventWeight": 100,
+  "UnlockType": 0,
+  "UnlockParamList": []
+ },
+ {
+  "LevelEventID": 10040,
+  "SpeakerID": 130201,
+  "SpeakerPos": [
+   1.0,
+   -84.0,
+   380.0
+  ],
+  "EventIcon": "Event_006",
+  "IconPos": [
+   0.8999999761581421,
+   0.6000000238418579,
+   1.0
+  ],
+  "GroupID": 4,
+  "EEIDs": [
+   3008,
+   3016
+  ],
+  "ShowDetail": 1,
+  "EventWeight": 100,
+  "UnlockType": 0,
+  "UnlockParamList": []
+ },
+ {
+  "LevelEventID": 10041,
+  "SpeakerID": 130201,
+  "SpeakerPos": [
+   1.0,
+   -84.0,
+   380.0
+  ],
+  "EventIcon": "Event_006",
+  "IconPos": [
+   0.8999999761581421,
+   0.6000000238418579,
+   1.0
+  ],
+  "GroupID": 4,
+  "EEIDs": [
+   3021,
+   3012
+  ],
+  "ShowDetail": 1,
+  "EventWeight": 100,
+  "UnlockType": 0,
+  "UnlockParamList": []
+ },
+ {
+  "LevelEventID": 10042,
+  "SpeakerID": 120501,
+  "SpeakerPos": [
+   1.0,
+   14.529999732971191,
+   395.20001220703125
+  ],
+  "EventIcon": "Event_007",
+  "IconPos": [
+   1.0,
+   0.0,
+   3.25
+  ],
+  "GroupID": 4,
+  "EEIDs": [
+   3011,
+   3012
+  ],
+  "ShowDetail": 1,
+  "EventWeight": 100,
+  "UnlockType": 0,
+  "UnlockParamList": []
+ },
+ {
+  "LevelEventID": 10043,
+  "SpeakerID": 120501,
+  "SpeakerPos": [
+   1.0,
+   14.529999732971191,
+   395.20001220703125
+  ],
+  "EventIcon": "Event_007",
+  "IconPos": [
+   1.0,
+   0.0,
+   3.25
+  ],
+  "GroupID": 4,
+  "EEIDs": [
+   3023,
+   3008
+  ],
+  "ShowDetail": 1,
+  "EventWeight": 100,
+  "UnlockType": 0,
+  "UnlockParamList": []
+ },
+ {
+  "LevelEventID": 10044,
+  "SpeakerID": 110301,
+  "SpeakerPos": [
+   1.0,
+   -137.0,
+   434.0
+  ],
+  "EventIcon": "Event_005",
+  "IconPos": [
+   1.0,
+   0.0,
+   -0.10000000149011612
+  ],
+  "GroupID": 4,
+  "EEIDs": [
+   3019,
+   3005
+  ],
+  "ShowDetail": 1,
+  "EventWeight": 100,
+  "UnlockType": 0,
+  "UnlockParamList": []
+ },
+ {
+  "LevelEventID": 10045,
+  "SpeakerID": 110301,
+  "SpeakerPos": [
+   1.0,
+   -137.0,
+   434.0
+  ],
+  "EventIcon": "Event_005",
+  "IconPos": [
+   1.0,
+   0.0,
+   -0.10000000149011612
+  ],
+  "GroupID": 4,
+  "EEIDs": [
+   3026,
+   3016
+  ],
+  "ShowDetail": 1,
+  "EventWeight": 100,
+  "UnlockType": 0,
+  "UnlockParamList": []
+ },
+ {
+  "LevelEventID": 10046,
+  "SpeakerID": 120501,
+  "SpeakerPos": [
+   1.0,
+   14.529999732971191,
+   395.20001220703125
+  ],
+  "EventIcon": "Event_007",
+  "IconPos": [
+   1.0,
+   0.0,
+   3.25
+  ],
+  "GroupID": 4,
+  "EEIDs": [
+   3002,
+   3012
+  ],
+  "ShowDetail": 1,
+  "EventWeight": 100,
+  "UnlockType": 0,
+  "UnlockParamList": []
+ },
+ {
+  "LevelEventID": 10047,
+  "SpeakerID": 110402,
+  "SpeakerPos": [
+   1.0,
+   -159.5,
+   375.6499938964844
+  ],
+  "EventIcon": "Event_004",
+  "IconPos": [
+   0.800000011920929,
+   0.0,
+   2.6600000858306885
+  ],
+  "GroupID": 8,
+  "EEIDs": [
+   1000,
+   1001
+  ],
+  "ShowDetail": 0,
+  "EventWeight": 0,
+  "UnlockType": 0,
+  "UnlockParamList": []
+ },
+ {
+  "LevelEventID": 10048,
+  "SpeakerID": 120201,
+  "SpeakerPos": [
+   1.0,
+   72.69999694824219,
+   424.6000061035156
+  ],
+  "EventIcon": "Event_008",
+  "IconPos": [
+   0.800000011920929,
+   -3.2100000381469727,
+   1.7000000476837158
+  ],
+  "GroupID": 8,
+  "EEIDs": [
+   1000,
+   1002
+  ],
+  "ShowDetail": 0,
+  "EventWeight": 100,
+  "UnlockType": 0,
+  "UnlockParamList": []
+ },
+ {
+  "LevelEventID": 10049,
+  "SpeakerID": 120302,
+  "SpeakerPos": [
+   1.0,
+   -175.1999969482422,
+   413.29998779296875
+  ],
+  "EventIcon": "Event_003",
+  "IconPos": [
+   0.75,
+   3.200000047683716,
+   -0.8999999761581421
+  ],
+  "GroupID": 0,
+  "EEIDs": [
+   1000,
+   1003
+  ],
+  "ShowDetail": 0,
+  "EventWeight": 100,
+  "UnlockType": 0,
+  "UnlockParamList": []
+ },
+ {
+  "LevelEventID": 10050,
+  "SpeakerID": 110301,
+  "SpeakerPos": [
+   1.0,
+   -137.0,
+   434.0
+  ],
+  "EventIcon": "Event_005",
+  "IconPos": [
+   1.0,
+   0.0,
+   -0.10000000149011612
+  ],
+  "GroupID": 6,
+  "EEIDs": [
+   1000,
+   3019
+  ],
+  "ShowDetail": 0,
+  "EventWeight": 100,
+  "UnlockType": 0,
+  "UnlockParamList": []
+ },
+ {
+  "LevelEventID": 10051,
+  "SpeakerID": 130201,
+  "SpeakerPos": [
+   1.0,
+   -84.0,
+   380.0
+  ],
+  "EventIcon": "Event_006",
+  "IconPos": [
+   0.8999999761581421,
+   0.6000000238418579,
+   1.0
+  ],
+  "GroupID": 6,
+  "EEIDs": [
+   1000,
+   3010
+  ],
+  "ShowDetail": 0,
+  "EventWeight": 100,
+  "UnlockType": 0,
+  "UnlockParamList": []
+ },
+ {
+  "LevelEventID": 10052,
+  "SpeakerID": 120501,
+  "SpeakerPos": [
+   1.0,
+   14.529999732971191,
+   395.20001220703125
+  ],
+  "EventIcon": "Event_007",
+  "IconPos": [
+   1.0,
+   0.0,
+   3.25
+  ],
+  "GroupID": 7,
+  "EEIDs": [
+   1000,
+   3004
+  ],
+  "ShowDetail": 0,
+  "EventWeight": 100,
+  "UnlockType": 0,
+  "UnlockParamList": []
+ },
+ {
+  "LevelEventID": 10053,
+  "SpeakerID": 110301,
+  "SpeakerPos": [
+   1.0,
+   -137.0,
+   434.0
+  ],
+  "EventIcon": "Event_005",
+  "IconPos": [
+   1.0,
+   0.0,
+   -0.10000000149011612
+  ],
+  "GroupID": 7,
+  "EEIDs": [
+   1000,
+   3016
+  ],
+  "ShowDetail": 0,
+  "EventWeight": 100,
+  "UnlockType": 0,
+  "UnlockParamList": []
+ },
+ {
+  "LevelEventID": 10054,
+  "SpeakerID": 130202,
+  "SpeakerPos": [
+   1.0,
+   0.0,
+   418.1000061035156
+  ],
+  "EventIcon": "Event_002",
+  "IconPos": [
+   1.0,
+   0.0,
+   -0.30000001192092896
+  ],
+  "GroupID": 7,
+  "EEIDs": [
+   1000,
+   4009
+  ],
+  "ShowDetail": 0,
+  "EventWeight": 100,
+  "UnlockType": 0,
+  "UnlockParamList": []
+ },
+ {
+  "LevelEventID": 10055,
+  "SpeakerID": 140202,
+  "SpeakerPos": [
+   1.0,
+   -157.1999969482422,
+   346.6000061035156
+  ],
+  "EventIcon": "Event_001",
+  "IconPos": [
+   0.800000011920929,
+   0.7799999713897705,
+   -1.3700000047683716
+  ],
+  "GroupID": 1,
+  "EEIDs": [
+   3003,
+   3026
+  ],
+  "ShowDetail": 1,
+  "EventWeight": 100,
+  "UnlockType": 2,
+  "UnlockParamList": [
+   20
+  ]
+ },
+ {
+  "LevelEventID": 10056,
+  "SpeakerID": 140202,
+  "SpeakerPos": [
+   1.0,
+   -157.1999969482422,
+   346.6000061035156
+  ],
+  "EventIcon": "Event_001",
+  "IconPos": [
+   0.800000011920929,
+   0.7799999713897705,
+   -1.3700000047683716
+  ],
+  "GroupID": 1,
+  "EEIDs": [
+   3004,
+   3026
+  ],
+  "ShowDetail": 1,
+  "EventWeight": 100,
+  "UnlockType": 2,
+  "UnlockParamList": [
+   20
+  ]
+ },
+ {
+  "LevelEventID": 10057,
+  "SpeakerID": 140202,
+  "SpeakerPos": [
+   1.0,
+   -157.1999969482422,
+   346.6000061035156
+  ],
+  "EventIcon": "Event_001",
+  "IconPos": [
+   0.800000011920929,
+   0.7799999713897705,
+   -1.3700000047683716
+  ],
+  "GroupID": 1,
+  "EEIDs": [
+   3005,
+   3026
+  ],
+  "ShowDetail": 1,
+  "EventWeight": 100,
+  "UnlockType": 2,
+  "UnlockParamList": [
+   20
+  ]
+ },
+ {
+  "LevelEventID": 10058,
+  "SpeakerID": 140202,
+  "SpeakerPos": [
+   1.0,
+   -157.1999969482422,
+   346.6000061035156
+  ],
+  "EventIcon": "Event_001",
+  "IconPos": [
+   0.800000011920929,
+   0.7799999713897705,
+   -1.3700000047683716
+  ],
+  "GroupID": 1,
+  "EEIDs": [
+   3026
+  ],
+  "ShowDetail": 1,
+  "EventWeight": 100,
+  "UnlockType": 2,
+  "UnlockParamList": [
+   20
+  ]
+ },
+ {
+  "LevelEventID": 10059,
+  "SpeakerID": 140202,
+  "SpeakerPos": [
+   1.0,
+   -157.1999969482422,
+   346.6000061035156
+  ],
+  "EventIcon": "Event_001",
+  "IconPos": [
+   0.800000011920929,
+   0.7799999713897705,
+   -1.3700000047683716
+  ],
+  "GroupID": 1,
+  "EEIDs": [
+   3026
+  ],
+  "ShowDetail": 1,
+  "EventWeight": 100,
+  "UnlockType": 2,
+  "UnlockParamList": [
+   20
+  ]
+ },
+ {
+  "LevelEventID": 10060,
+  "SpeakerID": 140202,
+  "SpeakerPos": [
+   1.0,
+   -157.1999969482422,
+   346.6000061035156
+  ],
+  "EventIcon": "Event_001",
+  "IconPos": [
+   0.800000011920929,
+   0.7799999713897705,
+   -1.3700000047683716
+  ],
+  "GroupID": 1,
+  "EEIDs": [
+   3026
+  ],
+  "ShowDetail": 1,
+  "EventWeight": 100,
+  "UnlockType": 2,
+  "UnlockParamList": [
+   20
+  ]
+ },
+ {
+  "LevelEventID": 10061,
+  "SpeakerID": 130201,
+  "SpeakerPos": [
+   1.0,
+   -84.0,
+   380.0
+  ],
+  "EventIcon": "Event_006",
+  "IconPos": [
+   0.8999999761581421,
+   0.6000000238418579,
+   1.0
+  ],
+  "GroupID": 3,
+  "EEIDs": [
+   3000,
+   3003
+  ],
+  "ShowDetail": 1,
+  "EventWeight": 100,
+  "UnlockType": 0,
+  "UnlockParamList": []
+ },
+ {
+  "LevelEventID": 10062,
+  "SpeakerID": 130201,
+  "SpeakerPos": [
+   1.0,
+   -84.0,
+   380.0
+  ],
+  "EventIcon": "Event_006",
+  "IconPos": [
+   0.8999999761581421,
+   0.6000000238418579,
+   1.0
+  ],
+  "GroupID": 3,
+  "EEIDs": [
+   3007,
+   3010
+  ],
+  "ShowDetail": 1,
+  "EventWeight": 100,
+  "UnlockType": 0,
+  "UnlockParamList": []
+ },
+ {
+  "LevelEventID": 10063,
+  "SpeakerID": 110301,
+  "SpeakerPos": [
+   1.0,
+   -137.0,
+   434.0
+  ],
+  "EventIcon": "Event_005",
+  "IconPos": [
+   1.0,
+   0.0,
+   -0.10000000149011612
+  ],
+  "GroupID": 3,
+  "EEIDs": [
+   3013,
+   3016
+  ],
+  "ShowDetail": 1,
+  "EventWeight": 100,
+  "UnlockType": 0,
+  "UnlockParamList": []
+ },
+ {
+  "LevelEventID": 10064,
+  "SpeakerID": 110301,
+  "SpeakerPos": [
+   1.0,
+   -137.0,
+   434.0
+  ],
+  "EventIcon": "Event_005",
+  "IconPos": [
+   1.0,
+   0.0,
+   -0.10000000149011612
+  ],
+  "GroupID": 3,
+  "EEIDs": [
+   3002,
+   3008
+  ],
+  "ShowDetail": 1,
+  "EventWeight": 100,
+  "UnlockType": 0,
+  "UnlockParamList": []
+ },
+ {
+  "LevelEventID": 10065,
+  "SpeakerID": 120501,
+  "SpeakerPos": [
+   1.0,
+   14.529999732971191,
+   395.20001220703125
+  ],
+  "EventIcon": "Event_007",
+  "IconPos": [
+   1.0,
+   0.0,
+   3.25
+  ],
+  "GroupID": 3,
+  "EEIDs": [
+   3009,
+   3000
+  ],
+  "ShowDetail": 1,
+  "EventWeight": 100,
+  "UnlockType": 0,
+  "UnlockParamList": []
+ },
+ {
+  "LevelEventID": 10066,
+  "SpeakerID": 120501,
+  "SpeakerPos": [
+   1.0,
+   14.529999732971191,
+   395.20001220703125
+  ],
+  "EventIcon": "Event_007",
+  "IconPos": [
+   1.0,
+   0.0,
+   3.25
+  ],
+  "GroupID": 3,
+  "EEIDs": [
+   3002,
+   3005
+  ],
+  "ShowDetail": 1,
+  "EventWeight": 100,
+  "UnlockType": 0,
+  "UnlockParamList": []
+ },
+ {
+  "LevelEventID": 10067,
+  "SpeakerID": 110301,
+  "SpeakerPos": [
+   1.0,
+   -137.0,
+   434.0
+  ],
+  "EventIcon": "Event_005",
+  "IconPos": [
+   1.0,
+   0.0,
+   -0.10000000149011612
+  ],
+  "GroupID": 4,
+  "EEIDs": [
+   3008,
+   3016
+  ],
+  "ShowDetail": 1,
+  "EventWeight": 100,
+  "UnlockType": 0,
+  "UnlockParamList": []
+ },
+ {
+  "LevelEventID": 10068,
+  "SpeakerID": 110301,
+  "SpeakerPos": [
+   1.0,
+   -137.0,
+   434.0
+  ],
+  "EventIcon": "Event_005",
+  "IconPos": [
+   1.0,
+   0.0,
+   -0.10000000149011612
+  ],
+  "GroupID": 4,
+  "EEIDs": [
+   3021,
+   3012
+  ],
+  "ShowDetail": 1,
+  "EventWeight": 100,
+  "UnlockType": 0,
+  "UnlockParamList": []
+ },
+ {
+  "LevelEventID": 10069,
+  "SpeakerID": 130201,
+  "SpeakerPos": [
+   1.0,
+   -84.0,
+   380.0
+  ],
+  "EventIcon": "Event_006",
+  "IconPos": [
+   0.8999999761581421,
+   0.6000000238418579,
+   1.0
+  ],
+  "GroupID": 4,
+  "EEIDs": [
+   3011,
+   3012
+  ],
+  "ShowDetail": 1,
+  "EventWeight": 100,
+  "UnlockType": 0,
+  "UnlockParamList": []
+ },
+ {
+  "LevelEventID": 10070,
+  "SpeakerID": 130201,
+  "SpeakerPos": [
+   1.0,
+   -84.0,
+   380.0
+  ],
+  "EventIcon": "Event_006",
+  "IconPos": [
+   0.8999999761581421,
+   0.6000000238418579,
+   1.0
+  ],
+  "GroupID": 4,
+  "EEIDs": [
+   3023,
+   3008
+  ],
+  "ShowDetail": 1,
+  "EventWeight": 100,
+  "UnlockType": 0,
+  "UnlockParamList": []
+ },
+ {
+  "LevelEventID": 10071,
+  "SpeakerID": 120501,
+  "SpeakerPos": [
+   1.0,
+   14.529999732971191,
+   395.20001220703125
+  ],
+  "EventIcon": "Event_007",
+  "IconPos": [
+   1.0,
+   0.0,
+   3.25
+  ],
+  "GroupID": 4,
+  "EEIDs": [
+   3019,
+   3005
+  ],
+  "ShowDetail": 1,
+  "EventWeight": 100,
+  "UnlockType": 0,
+  "UnlockParamList": []
+ },
+ {
+  "LevelEventID": 10072,
+  "SpeakerID": 120501,
+  "SpeakerPos": [
+   1.0,
+   14.529999732971191,
+   395.20001220703125
+  ],
+  "EventIcon": "Event_007",
+  "IconPos": [
+   1.0,
+   0.0,
+   3.25
+  ],
+  "GroupID": 4,
+  "EEIDs": [
+   3026,
+   3016
+  ],
+  "ShowDetail": 1,
+  "EventWeight": 100,
+  "UnlockType": 0,
+  "UnlockParamList": []
+ },
+ {
+  "LevelEventID": 10073,
+  "SpeakerID": 130201,
+  "SpeakerPos": [
+   1.0,
+   -84.0,
+   380.0
+  ],
+  "EventIcon": "Event_006",
+  "IconPos": [
+   0.8999999761581421,
+   0.6000000238418579,
+   1.0
+  ],
+  "GroupID": 4,
+  "EEIDs": [
+   3002,
+   3012
+  ],
+  "ShowDetail": 1,
+  "EventWeight": 100,
+  "UnlockType": 0,
+  "UnlockParamList": []
+ },
+ {
+  "LevelEventID": 10074,
+  "SpeakerID": 110402,
+  "SpeakerPos": [
+   1.0,
+   -159.5,
+   375.6499938964844
+  ],
+  "EventIcon": "Event_004",
+  "IconPos": [
+   0.800000011920929,
+   0.0,
+   2.6600000858306885
+  ],
+  "GroupID": 5,
+  "EEIDs": [
+   1000,
+   1001
+  ],
+  "ShowDetail": 0,
+  "EventWeight": 0,
+  "UnlockType": 0,
+  "UnlockParamList": []
+ },
+ {
+  "LevelEventID": 10075,
+  "SpeakerID": 120201,
+  "SpeakerPos": [
+   1.0,
+   72.69999694824219,
+   424.6000061035156
+  ],
+  "EventIcon": "Event_008",
+  "IconPos": [
+   0.800000011920929,
+   -3.2100000381469727,
+   1.7000000476837158
+  ],
+  "GroupID": 5,
+  "EEIDs": [
+   1000,
+   1002
+  ],
+  "ShowDetail": 0,
+  "EventWeight": 100,
+  "UnlockType": 0,
+  "UnlockParamList": []
+ },
+ {
+  "LevelEventID": 10076,
+  "SpeakerID": 120302,
+  "SpeakerPos": [
+   1.0,
+   -175.1999969482422,
+   413.29998779296875
+  ],
+  "EventIcon": "Event_003",
+  "IconPos": [
+   0.75,
+   3.200000047683716,
+   -0.8999999761581421
+  ],
+  "GroupID": 0,
+  "EEIDs": [
+   1000,
+   1003
+  ],
+  "ShowDetail": 0,
+  "EventWeight": 100,
+  "UnlockType": 0,
+  "UnlockParamList": []
+ },
+ {
+  "LevelEventID": 10077,
+  "SpeakerID": 120501,
+  "SpeakerPos": [
+   1.0,
+   14.529999732971191,
+   395.20001220703125
+  ],
+  "EventIcon": "Event_007",
+  "IconPos": [
+   1.0,
+   0.0,
+   3.25
+  ],
+  "GroupID": 6,
+  "EEIDs": [
+   1000,
+   3019
+  ],
+  "ShowDetail": 0,
+  "EventWeight": 100,
+  "UnlockType": 0,
+  "UnlockParamList": []
+ },
+ {
+  "LevelEventID": 10078,
+  "SpeakerID": 120501,
+  "SpeakerPos": [
+   1.0,
+   14.529999732971191,
+   395.20001220703125
+  ],
+  "EventIcon": "Event_007",
+  "IconPos": [
+   1.0,
+   0.0,
+   3.25
+  ],
+  "GroupID": 6,
+  "EEIDs": [
+   1000,
+   3010
+  ],
+  "ShowDetail": 0,
+  "EventWeight": 100,
+  "UnlockType": 0,
+  "UnlockParamList": []
+ },
+ {
+  "LevelEventID": 10079,
+  "SpeakerID": 120501,
+  "SpeakerPos": [
+   1.0,
+   14.529999732971191,
+   395.20001220703125
+  ],
+  "EventIcon": "Event_007",
+  "IconPos": [
+   1.0,
+   0.0,
+   3.25
+  ],
+  "GroupID": 7,
+  "EEIDs": [
+   1000,
+   3004
+  ],
+  "ShowDetail": 0,
+  "EventWeight": 100,
+  "UnlockType": 0,
+  "UnlockParamList": []
+ },
+ {
+  "LevelEventID": 10080,
+  "SpeakerID": 130201,
+  "SpeakerPos": [
+   1.0,
+   -84.0,
+   380.0
+  ],
+  "EventIcon": "Event_006",
+  "IconPos": [
+   0.8999999761581421,
+   0.6000000238418579,
+   1.0
+  ],
+  "GroupID": 7,
+  "EEIDs": [
+   1000,
+   3016
+  ],
+  "ShowDetail": 0,
+  "EventWeight": 100,
+  "UnlockType": 0,
+  "UnlockParamList": []
+ },
+ {
+  "LevelEventID": 10081,
+  "SpeakerID": 130202,
+  "SpeakerPos": [
+   1.0,
+   0.0,
+   418.1000061035156
+  ],
+  "EventIcon": "Event_002",
+  "IconPos": [
+   1.0,
+   0.0,
+   -0.30000001192092896
+  ],
+  "GroupID": 7,
+  "EEIDs": [
+   1000,
+   4009
+  ],
+  "ShowDetail": 0,
+  "EventWeight": 100,
+  "UnlockType": 0,
+  "UnlockParamList": []
+ },
+ {
+  "LevelEventID": 10082,
+  "SpeakerID": 140202,
+  "SpeakerPos": [
+   1.0,
+   -157.1999969482422,
+   346.6000061035156
+  ],
+  "EventIcon": "Event_001",
+  "IconPos": [
+   0.800000011920929,
+   0.7799999713897705,
+   -1.3700000047683716
+  ],
+  "GroupID": 1,
+  "EEIDs": [
+   3003,
+   3026
+  ],
+  "ShowDetail": 1,
+  "EventWeight": 100,
+  "UnlockType": 2,
+  "UnlockParamList": [
+   20
+  ]
+ },
+ {
+  "LevelEventID": 10083,
+  "SpeakerID": 140202,
+  "SpeakerPos": [
+   1.0,
+   -157.1999969482422,
+   346.6000061035156
+  ],
+  "EventIcon": "Event_001",
+  "IconPos": [
+   0.800000011920929,
+   0.7799999713897705,
+   -1.3700000047683716
+  ],
+  "GroupID": 1,
+  "EEIDs": [
+   3004,
+   3026
+  ],
+  "ShowDetail": 1,
+  "EventWeight": 100,
+  "UnlockType": 2,
+  "UnlockParamList": [
+   20
+  ]
+ },
+ {
+  "LevelEventID": 10084,
+  "SpeakerID": 140202,
+  "SpeakerPos": [
+   1.0,
+   -157.1999969482422,
+   346.6000061035156
+  ],
+  "EventIcon": "Event_001",
+  "IconPos": [
+   0.800000011920929,
+   0.7799999713897705,
+   -1.3700000047683716
+  ],
+  "GroupID": 1,
+  "EEIDs": [
+   3005,
+   3026
+  ],
+  "ShowDetail": 1,
+  "EventWeight": 100,
+  "UnlockType": 2,
+  "UnlockParamList": [
+   20
+  ]
+ },
+ {
+  "LevelEventID": 10085,
+  "SpeakerID": 140202,
+  "SpeakerPos": [
+   1.0,
+   -157.1999969482422,
+   346.6000061035156
+  ],
+  "EventIcon": "Event_001",
+  "IconPos": [
+   0.800000011920929,
+   0.7799999713897705,
+   -1.3700000047683716
+  ],
+  "GroupID": 1,
+  "EEIDs": [
+   3026
+  ],
+  "ShowDetail": 1,
+  "EventWeight": 100,
+  "UnlockType": 2,
+  "UnlockParamList": [
+   20
+  ]
+ },
+ {
+  "LevelEventID": 10086,
+  "SpeakerID": 140202,
+  "SpeakerPos": [
+   1.0,
+   -157.1999969482422,
+   346.6000061035156
+  ],
+  "EventIcon": "Event_001",
+  "IconPos": [
+   0.800000011920929,
+   0.7799999713897705,
+   -1.3700000047683716
+  ],
+  "GroupID": 1,
+  "EEIDs": [
+   3026
+  ],
+  "ShowDetail": 1,
+  "EventWeight": 100,
+  "UnlockType": 2,
+  "UnlockParamList": [
+   20
+  ]
+ },
+ {
+  "LevelEventID": 10087,
+  "SpeakerID": 140202,
+  "SpeakerPos": [
+   1.0,
+   -157.1999969482422,
+   346.6000061035156
+  ],
+  "EventIcon": "Event_001",
+  "IconPos": [
+   0.800000011920929,
+   0.7799999713897705,
+   -1.3700000047683716
+  ],
+  "GroupID": 1,
+  "EEIDs": [
+   3026
+  ],
+  "ShowDetail": 1,
+  "EventWeight": 100,
+  "UnlockType": 2,
+  "UnlockParamList": [
+   20
+  ]
+ },
+ {
+  "LevelEventID": 10088,
+  "SpeakerID": 130201,
+  "SpeakerPos": [
+   1.0,
+   -84.0,
+   380.0
+  ],
+  "EventIcon": "Event_006",
+  "IconPos": [
+   0.8999999761581421,
+   0.6000000238418579,
+   1.0
+  ],
+  "GroupID": 3,
+  "EEIDs": [
+   3000,
+   3003
+  ],
+  "ShowDetail": 1,
+  "EventWeight": 100,
+  "UnlockType": 0,
+  "UnlockParamList": []
+ },
+ {
+  "LevelEventID": 10089,
+  "SpeakerID": 130201,
+  "SpeakerPos": [
+   1.0,
+   -84.0,
+   380.0
+  ],
+  "EventIcon": "Event_006",
+  "IconPos": [
+   0.8999999761581421,
+   0.6000000238418579,
+   1.0
+  ],
+  "GroupID": 3,
+  "EEIDs": [
+   3007,
+   3010
+  ],
+  "ShowDetail": 1,
+  "EventWeight": 100,
+  "UnlockType": 0,
+  "UnlockParamList": []
+ },
+ {
+  "LevelEventID": 10090,
+  "SpeakerID": 120501,
+  "SpeakerPos": [
+   1.0,
+   14.529999732971191,
+   395.20001220703125
+  ],
+  "EventIcon": "Event_007",
+  "IconPos": [
+   1.0,
+   0.0,
+   3.25
+  ],
+  "GroupID": 3,
+  "EEIDs": [
+   3013,
+   3016
+  ],
+  "ShowDetail": 1,
+  "EventWeight": 100,
+  "UnlockType": 0,
+  "UnlockParamList": []
+ },
+ {
+  "LevelEventID": 10091,
+  "SpeakerID": 120501,
+  "SpeakerPos": [
+   1.0,
+   14.529999732971191,
+   395.20001220703125
+  ],
+  "EventIcon": "Event_007",
+  "IconPos": [
+   1.0,
+   0.0,
+   3.25
+  ],
+  "GroupID": 3,
+  "EEIDs": [
+   3002,
+   3008
+  ],
+  "ShowDetail": 1,
+  "EventWeight": 100,
+  "UnlockType": 0,
+  "UnlockParamList": []
+ },
+ {
+  "LevelEventID": 10092,
+  "SpeakerID": 110301,
+  "SpeakerPos": [
+   1.0,
+   -137.0,
+   434.0
+  ],
+  "EventIcon": "Event_005",
+  "IconPos": [
+   1.0,
+   0.0,
+   -0.10000000149011612
+  ],
+  "GroupID": 3,
+  "EEIDs": [
+   3009,
+   3000
+  ],
+  "ShowDetail": 1,
+  "EventWeight": 100,
+  "UnlockType": 0,
+  "UnlockParamList": []
+ },
+ {
+  "LevelEventID": 10093,
+  "SpeakerID": 110301,
+  "SpeakerPos": [
+   1.0,
+   -137.0,
+   434.0
+  ],
+  "EventIcon": "Event_005",
+  "IconPos": [
+   1.0,
+   0.0,
+   -0.10000000149011612
+  ],
+  "GroupID": 3,
+  "EEIDs": [
+   3002,
+   3005
+  ],
+  "ShowDetail": 1,
+  "EventWeight": 100,
+  "UnlockType": 0,
+  "UnlockParamList": []
+ },
+ {
+  "LevelEventID": 10094,
+  "SpeakerID": 130201,
+  "SpeakerPos": [
+   1.0,
+   -84.0,
+   380.0
+  ],
+  "EventIcon": "Event_006",
+  "IconPos": [
+   0.8999999761581421,
+   0.6000000238418579,
+   1.0
+  ],
+  "GroupID": 4,
+  "EEIDs": [
+   3008,
+   3016
+  ],
+  "ShowDetail": 1,
+  "EventWeight": 100,
+  "UnlockType": 0,
+  "UnlockParamList": []
+ },
+ {
+  "LevelEventID": 10095,
+  "SpeakerID": 130201,
+  "SpeakerPos": [
+   1.0,
+   -84.0,
+   380.0
+  ],
+  "EventIcon": "Event_006",
+  "IconPos": [
+   0.8999999761581421,
+   0.6000000238418579,
+   1.0
+  ],
+  "GroupID": 4,
+  "EEIDs": [
+   3021,
+   3012
+  ],
+  "ShowDetail": 1,
+  "EventWeight": 100,
+  "UnlockType": 0,
+  "UnlockParamList": []
+ },
+ {
+  "LevelEventID": 10096,
+  "SpeakerID": 120501,
+  "SpeakerPos": [
+   1.0,
+   14.529999732971191,
+   395.20001220703125
+  ],
+  "EventIcon": "Event_007",
+  "IconPos": [
+   1.0,
+   0.0,
+   3.25
+  ],
+  "GroupID": 4,
+  "EEIDs": [
+   3011,
+   3012
+  ],
+  "ShowDetail": 1,
+  "EventWeight": 100,
+  "UnlockType": 0,
+  "UnlockParamList": []
+ },
+ {
+  "LevelEventID": 10097,
+  "SpeakerID": 120501,
+  "SpeakerPos": [
+   1.0,
+   14.529999732971191,
+   395.20001220703125
+  ],
+  "EventIcon": "Event_007",
+  "IconPos": [
+   1.0,
+   0.0,
+   3.25
+  ],
+  "GroupID": 4,
+  "EEIDs": [
+   3023,
+   3008
+  ],
+  "ShowDetail": 1,
+  "EventWeight": 100,
+  "UnlockType": 0,
+  "UnlockParamList": []
+ },
+ {
+  "LevelEventID": 10098,
+  "SpeakerID": 110301,
+  "SpeakerPos": [
+   1.0,
+   -137.0,
+   434.0
+  ],
+  "EventIcon": "Event_005",
+  "IconPos": [
+   1.0,
+   0.0,
+   -0.10000000149011612
+  ],
+  "GroupID": 4,
+  "EEIDs": [
+   3019,
+   3005
+  ],
+  "ShowDetail": 1,
+  "EventWeight": 100,
+  "UnlockType": 0,
+  "UnlockParamList": []
+ },
+ {
+  "LevelEventID": 10099,
+  "SpeakerID": 110301,
+  "SpeakerPos": [
+   1.0,
+   -137.0,
+   434.0
+  ],
+  "EventIcon": "Event_005",
+  "IconPos": [
+   1.0,
+   0.0,
+   -0.10000000149011612
+  ],
+  "GroupID": 4,
+  "EEIDs": [
+   3026,
+   3016
+  ],
+  "ShowDetail": 1,
+  "EventWeight": 100,
+  "UnlockType": 0,
+  "UnlockParamList": []
+ },
+ {
+  "LevelEventID": 10100,
+  "SpeakerID": 110301,
+  "SpeakerPos": [
+   1.0,
+   -137.0,
+   434.0
+  ],
+  "EventIcon": "Event_005",
+  "IconPos": [
+   1.0,
+   0.0,
+   -0.10000000149011612
+  ],
+  "GroupID": 4,
+  "EEIDs": [
+   3002,
+   3012
+  ],
+  "ShowDetail": 1,
+  "EventWeight": 100,
+  "UnlockType": 0,
+  "UnlockParamList": []
+ },
+ {
+  "LevelEventID": 10101,
+  "SpeakerID": 110402,
+  "SpeakerPos": [
+   1.0,
+   -159.5,
+   375.6499938964844
+  ],
+  "EventIcon": "Event_004",
+  "IconPos": [
+   0.800000011920929,
+   0.0,
+   2.6600000858306885
+  ],
+  "GroupID": 8,
+  "EEIDs": [
+   1000,
+   1001
+  ],
+  "ShowDetail": 0,
+  "EventWeight": 0,
+  "UnlockType": 0,
+  "UnlockParamList": []
+ },
+ {
+  "LevelEventID": 10102,
+  "SpeakerID": 120201,
+  "SpeakerPos": [
+   1.0,
+   72.69999694824219,
+   424.6000061035156
+  ],
+  "EventIcon": "Event_008",
+  "IconPos": [
+   0.800000011920929,
+   -3.2100000381469727,
+   1.7000000476837158
+  ],
+  "GroupID": 8,
+  "EEIDs": [
+   1000,
+   1002
+  ],
+  "ShowDetail": 0,
+  "EventWeight": 100,
+  "UnlockType": 0,
+  "UnlockParamList": []
+ },
+ {
+  "LevelEventID": 10103,
+  "SpeakerID": 120302,
+  "SpeakerPos": [
+   1.0,
+   -175.1999969482422,
+   413.29998779296875
+  ],
+  "EventIcon": "Event_003",
+  "IconPos": [
+   0.75,
+   3.200000047683716,
+   -0.8999999761581421
+  ],
+  "GroupID": 0,
+  "EEIDs": [
+   1000,
+   1003
+  ],
+  "ShowDetail": 0,
+  "EventWeight": 100,
+  "UnlockType": 0,
+  "UnlockParamList": []
+ },
+ {
+  "LevelEventID": 10104,
+  "SpeakerID": 110301,
+  "SpeakerPos": [
+   1.0,
+   -137.0,
+   434.0
+  ],
+  "EventIcon": "Event_005",
+  "IconPos": [
+   1.0,
+   0.0,
+   -0.10000000149011612
+  ],
+  "GroupID": 6,
+  "EEIDs": [
+   1000,
+   3016
+  ],
+  "ShowDetail": 0,
+  "EventWeight": 100,
+  "UnlockType": 0,
+  "UnlockParamList": []
+ },
+ {
+  "LevelEventID": 10105,
+  "SpeakerID": 120501,
+  "SpeakerPos": [
+   1.0,
+   14.529999732971191,
+   395.20001220703125
+  ],
+  "EventIcon": "Event_007",
+  "IconPos": [
+   1.0,
+   0.0,
+   3.25
+  ],
+  "GroupID": 6,
+  "EEIDs": [
+   1000,
+   3012
+  ],
+  "ShowDetail": 0,
+  "EventWeight": 100,
+  "UnlockType": 0,
+  "UnlockParamList": []
+ },
+ {
+  "LevelEventID": 10106,
+  "SpeakerID": 130201,
+  "SpeakerPos": [
+   1.0,
+   -84.0,
+   380.0
+  ],
+  "EventIcon": "Event_006",
+  "IconPos": [
+   0.8999999761581421,
+   0.6000000238418579,
+   1.0
+  ],
+  "GroupID": 7,
+  "EEIDs": [
+   1000,
+   3002
+  ],
+  "ShowDetail": 0,
+  "EventWeight": 100,
+  "UnlockType": 0,
+  "UnlockParamList": []
+ },
+ {
+  "LevelEventID": 10107,
+  "SpeakerID": 110301,
+  "SpeakerPos": [
+   1.0,
+   -137.0,
+   434.0
+  ],
+  "EventIcon": "Event_005",
+  "IconPos": [
+   1.0,
+   0.0,
+   -0.10000000149011612
+  ],
+  "GroupID": 7,
+  "EEIDs": [
+   1000,
+   3010
+  ],
+  "ShowDetail": 0,
+  "EventWeight": 100,
+  "UnlockType": 0,
+  "UnlockParamList": []
+ },
+ {
+  "LevelEventID": 10108,
+  "SpeakerID": 130202,
+  "SpeakerPos": [
+   1.0,
+   0.0,
+   418.1000061035156
+  ],
+  "EventIcon": "Event_002",
+  "IconPos": [
+   1.0,
+   0.0,
+   -0.30000001192092896
+  ],
+  "GroupID": 7,
+  "EEIDs": [
+   1000,
+   4007
+  ],
+  "ShowDetail": 0,
+  "EventWeight": 100,
+  "UnlockType": 0,
+  "UnlockParamList": []
+ },
+ {
+  "LevelEventID": 10109,
+  "SpeakerID": 140202,
+  "SpeakerPos": [
+   1.0,
+   -157.1999969482422,
+   346.6000061035156
+  ],
+  "EventIcon": "Event_001",
+  "IconPos": [
+   0.800000011920929,
+   0.7799999713897705,
+   -1.3700000047683716
+  ],
+  "GroupID": 1,
+  "EEIDs": [
+   3003,
+   3026
+  ],
+  "ShowDetail": 1,
+  "EventWeight": 100,
+  "UnlockType": 2,
+  "UnlockParamList": [
+   20
+  ]
+ },
+ {
+  "LevelEventID": 10110,
+  "SpeakerID": 140202,
+  "SpeakerPos": [
+   1.0,
+   -157.1999969482422,
+   346.6000061035156
+  ],
+  "EventIcon": "Event_001",
+  "IconPos": [
+   0.800000011920929,
+   0.7799999713897705,
+   -1.3700000047683716
+  ],
+  "GroupID": 1,
+  "EEIDs": [
+   3004,
+   3026
+  ],
+  "ShowDetail": 1,
+  "EventWeight": 100,
+  "UnlockType": 2,
+  "UnlockParamList": [
+   20
+  ]
+ },
+ {
+  "LevelEventID": 10111,
+  "SpeakerID": 140202,
+  "SpeakerPos": [
+   1.0,
+   -157.1999969482422,
+   346.6000061035156
+  ],
+  "EventIcon": "Event_001",
+  "IconPos": [
+   0.800000011920929,
+   0.7799999713897705,
+   -1.3700000047683716
+  ],
+  "GroupID": 1,
+  "EEIDs": [
+   3005,
+   3026
+  ],
+  "ShowDetail": 1,
+  "EventWeight": 100,
+  "UnlockType": 2,
+  "UnlockParamList": [
+   20
+  ]
+ },
+ {
+  "LevelEventID": 10112,
+  "SpeakerID": 140202,
+  "SpeakerPos": [
+   1.0,
+   -157.1999969482422,
+   346.6000061035156
+  ],
+  "EventIcon": "Event_001",
+  "IconPos": [
+   0.800000011920929,
+   0.7799999713897705,
+   -1.3700000047683716
+  ],
+  "GroupID": 1,
+  "EEIDs": [
+   3026
+  ],
+  "ShowDetail": 1,
+  "EventWeight": 100,
+  "UnlockType": 2,
+  "UnlockParamList": [
+   20
+  ]
+ },
+ {
+  "LevelEventID": 10113,
+  "SpeakerID": 140202,
+  "SpeakerPos": [
+   1.0,
+   -157.1999969482422,
+   346.6000061035156
+  ],
+  "EventIcon": "Event_001",
+  "IconPos": [
+   0.800000011920929,
+   0.7799999713897705,
+   -1.3700000047683716
+  ],
+  "GroupID": 1,
+  "EEIDs": [
+   3026
+  ],
+  "ShowDetail": 1,
+  "EventWeight": 100,
+  "UnlockType": 2,
+  "UnlockParamList": [
+   20
+  ]
+ },
+ {
+  "LevelEventID": 10114,
+  "SpeakerID": 140202,
+  "SpeakerPos": [
+   1.0,
+   -157.1999969482422,
+   346.6000061035156
+  ],
+  "EventIcon": "Event_001",
+  "IconPos": [
+   0.800000011920929,
+   0.7799999713897705,
+   -1.3700000047683716
+  ],
+  "GroupID": 1,
+  "EEIDs": [
+   3026
+  ],
+  "ShowDetail": 1,
+  "EventWeight": 100,
+  "UnlockType": 2,
+  "UnlockParamList": [
+   20
+  ]
+ },
+ {
+  "LevelEventID": 10115,
+  "SpeakerID": 120501,
+  "SpeakerPos": [
+   1.0,
+   14.529999732971191,
+   395.20001220703125
+  ],
+  "EventIcon": "Event_007",
+  "IconPos": [
+   1.0,
+   0.0,
+   3.25
+  ],
+  "GroupID": 3,
+  "EEIDs": [
+   3000,
+   3003
+  ],
+  "ShowDetail": 1,
+  "EventWeight": 100,
+  "UnlockType": 0,
+  "UnlockParamList": []
+ },
+ {
+  "LevelEventID": 10116,
+  "SpeakerID": 130201,
+  "SpeakerPos": [
+   1.0,
+   -84.0,
+   380.0
+  ],
+  "EventIcon": "Event_006",
+  "IconPos": [
+   0.8999999761581421,
+   0.6000000238418579,
+   1.0
+  ],
+  "GroupID": 3,
+  "EEIDs": [
+   3007,
+   3010
+  ],
+  "ShowDetail": 1,
+  "EventWeight": 100,
+  "UnlockType": 0,
+  "UnlockParamList": []
+ },
+ {
+  "LevelEventID": 10117,
+  "SpeakerID": 110301,
+  "SpeakerPos": [
+   1.0,
+   -137.0,
+   434.0
+  ],
+  "EventIcon": "Event_005",
+  "IconPos": [
+   1.0,
+   0.0,
+   -0.10000000149011612
+  ],
+  "GroupID": 3,
+  "EEIDs": [
+   3013,
+   3016
+  ],
+  "ShowDetail": 1,
+  "EventWeight": 100,
+  "UnlockType": 0,
+  "UnlockParamList": []
+ },
+ {
+  "LevelEventID": 10118,
+  "SpeakerID": 130201,
+  "SpeakerPos": [
+   1.0,
+   -84.0,
+   380.0
+  ],
+  "EventIcon": "Event_006",
+  "IconPos": [
+   0.8999999761581421,
+   0.6000000238418579,
+   1.0
+  ],
+  "GroupID": 3,
+  "EEIDs": [
+   3002,
+   3008
+  ],
+  "ShowDetail": 1,
+  "EventWeight": 100,
+  "UnlockType": 0,
+  "UnlockParamList": []
+ },
+ {
+  "LevelEventID": 10119,
+  "SpeakerID": 120501,
+  "SpeakerPos": [
+   1.0,
+   14.529999732971191,
+   395.20001220703125
+  ],
+  "EventIcon": "Event_007",
+  "IconPos": [
+   1.0,
+   0.0,
+   3.25
+  ],
+  "GroupID": 3,
+  "EEIDs": [
+   3009,
+   3000
+  ],
+  "ShowDetail": 1,
+  "EventWeight": 100,
+  "UnlockType": 0,
+  "UnlockParamList": []
+ },
+ {
+  "LevelEventID": 10120,
+  "SpeakerID": 110301,
+  "SpeakerPos": [
+   1.0,
+   -137.0,
+   434.0
+  ],
+  "EventIcon": "Event_005",
+  "IconPos": [
+   1.0,
+   0.0,
+   -0.10000000149011612
+  ],
+  "GroupID": 3,
+  "EEIDs": [
+   3002,
+   3005
+  ],
+  "ShowDetail": 1,
+  "EventWeight": 100,
+  "UnlockType": 0,
+  "UnlockParamList": []
+ },
+ {
+  "LevelEventID": 10121,
+  "SpeakerID": 130201,
+  "SpeakerPos": [
+   1.0,
+   -84.0,
+   380.0
+  ],
+  "EventIcon": "Event_006",
+  "IconPos": [
+   0.8999999761581421,
+   0.6000000238418579,
+   1.0
+  ],
+  "GroupID": 4,
+  "EEIDs": [
+   3008,
+   3016
+  ],
+  "ShowDetail": 1,
+  "EventWeight": 100,
+  "UnlockType": 0,
+  "UnlockParamList": []
+ },
+ {
+  "LevelEventID": 10122,
+  "SpeakerID": 120501,
+  "SpeakerPos": [
+   1.0,
+   14.529999732971191,
+   395.20001220703125
+  ],
+  "EventIcon": "Event_007",
+  "IconPos": [
+   1.0,
+   0.0,
+   3.25
+  ],
+  "GroupID": 4,
+  "EEIDs": [
+   3021,
+   3012
+  ],
+  "ShowDetail": 1,
+  "EventWeight": 100,
+  "UnlockType": 0,
+  "UnlockParamList": []
+ },
+ {
+  "LevelEventID": 10123,
+  "SpeakerID": 110301,
+  "SpeakerPos": [
+   1.0,
+   -137.0,
+   434.0
+  ],
+  "EventIcon": "Event_005",
+  "IconPos": [
+   1.0,
+   0.0,
+   -0.10000000149011612
+  ],
+  "GroupID": 4,
+  "EEIDs": [
+   3011,
+   3012
+  ],
+  "ShowDetail": 1,
+  "EventWeight": 100,
+  "UnlockType": 0,
+  "UnlockParamList": []
+ },
+ {
+  "LevelEventID": 10124,
+  "SpeakerID": 130201,
+  "SpeakerPos": [
+   1.0,
+   -84.0,
+   380.0
+  ],
+  "EventIcon": "Event_006",
+  "IconPos": [
+   0.8999999761581421,
+   0.6000000238418579,
+   1.0
+  ],
+  "GroupID": 4,
+  "EEIDs": [
+   3023,
+   3008
+  ],
+  "ShowDetail": 1,
+  "EventWeight": 100,
+  "UnlockType": 0,
+  "UnlockParamList": []
+ },
+ {
+  "LevelEventID": 10125,
+  "SpeakerID": 120501,
+  "SpeakerPos": [
+   1.0,
+   14.529999732971191,
+   395.20001220703125
+  ],
+  "EventIcon": "Event_007",
+  "IconPos": [
+   1.0,
+   0.0,
+   3.25
+  ],
+  "GroupID": 4,
+  "EEIDs": [
+   3019,
+   3005
+  ],
+  "ShowDetail": 1,
+  "EventWeight": 100,
+  "UnlockType": 0,
+  "UnlockParamList": []
+ },
+ {
+  "LevelEventID": 10126,
+  "SpeakerID": 130201,
+  "SpeakerPos": [
+   1.0,
+   -84.0,
+   380.0
+  ],
+  "EventIcon": "Event_006",
+  "IconPos": [
+   0.8999999761581421,
+   0.6000000238418579,
+   1.0
+  ],
+  "GroupID": 4,
+  "EEIDs": [
+   3026,
+   3016
+  ],
+  "ShowDetail": 1,
+  "EventWeight": 100,
+  "UnlockType": 0,
+  "UnlockParamList": []
+ },
+ {
+  "LevelEventID": 10127,
+  "SpeakerID": 110301,
+  "SpeakerPos": [
+   1.0,
+   -137.0,
+   434.0
+  ],
+  "EventIcon": "Event_005",
+  "IconPos": [
+   1.0,
+   0.0,
+   -0.10000000149011612
+  ],
+  "GroupID": 4,
+  "EEIDs": [
+   3002,
+   3012
+  ],
+  "ShowDetail": 1,
+  "EventWeight": 100,
+  "UnlockType": 0,
+  "UnlockParamList": []
+ },
+ {
+  "LevelEventID": 10128,
+  "SpeakerID": 110402,
+  "SpeakerPos": [
+   1.0,
+   -159.5,
+   375.6499938964844
+  ],
+  "EventIcon": "Event_004",
+  "IconPos": [
+   0.800000011920929,
+   0.0,
+   2.6600000858306885
+  ],
+  "GroupID": 5,
+  "EEIDs": [
+   1000,
+   1001
+  ],
+  "ShowDetail": 0,
+  "EventWeight": 0,
+  "UnlockType": 0,
+  "UnlockParamList": []
+ },
+ {
+  "LevelEventID": 10129,
+  "SpeakerID": 120201,
+  "SpeakerPos": [
+   1.0,
+   72.69999694824219,
+   424.6000061035156
+  ],
+  "EventIcon": "Event_008",
+  "IconPos": [
+   0.800000011920929,
+   -3.2100000381469727,
+   1.7000000476837158
+  ],
+  "GroupID": 5,
+  "EEIDs": [
+   1000,
+   1002
+  ],
+  "ShowDetail": 0,
+  "EventWeight": 100,
+  "UnlockType": 0,
+  "UnlockParamList": []
+ },
+ {
+  "LevelEventID": 10130,
+  "SpeakerID": 120302,
+  "SpeakerPos": [
+   1.0,
+   -175.1999969482422,
+   413.29998779296875
+  ],
+  "EventIcon": "Event_003",
+  "IconPos": [
+   0.75,
+   3.200000047683716,
+   -0.8999999761581421
+  ],
+  "GroupID": 0,
+  "EEIDs": [
+   1000,
+   1003
+  ],
+  "ShowDetail": 0,
+  "EventWeight": 100,
+  "UnlockType": 0,
+  "UnlockParamList": []
+ },
+ {
+  "LevelEventID": 10131,
+  "SpeakerID": 110301,
+  "SpeakerPos": [
+   1.0,
+   -137.0,
+   434.0
+  ],
+  "EventIcon": "Event_005",
+  "IconPos": [
+   1.0,
+   0.0,
+   -0.10000000149011612
+  ],
+  "GroupID": 6,
+  "EEIDs": [
+   1000,
+   3014
+  ],
+  "ShowDetail": 0,
+  "EventWeight": 100,
+  "UnlockType": 0,
+  "UnlockParamList": []
+ },
+ {
+  "LevelEventID": 10132,
+  "SpeakerID": 120501,
+  "SpeakerPos": [
+   1.0,
+   14.529999732971191,
+   395.20001220703125
+  ],
+  "EventIcon": "Event_007",
+  "IconPos": [
+   1.0,
+   0.0,
+   3.25
+  ],
+  "GroupID": 6,
+  "EEIDs": [
+   1000,
+   3002
+  ],
+  "ShowDetail": 0,
+  "EventWeight": 100,
+  "UnlockType": 0,
+  "UnlockParamList": []
+ },
+ {
+  "LevelEventID": 10133,
+  "SpeakerID": 130201,
+  "SpeakerPos": [
+   1.0,
+   -84.0,
+   380.0
+  ],
+  "EventIcon": "Event_006",
+  "IconPos": [
+   0.8999999761581421,
+   0.6000000238418579,
+   1.0
+  ],
+  "GroupID": 7,
+  "EEIDs": [
+   1000,
+   3007
+  ],
+  "ShowDetail": 0,
+  "EventWeight": 100,
+  "UnlockType": 0,
+  "UnlockParamList": []
+ },
+ {
+  "LevelEventID": 10134,
+  "SpeakerID": 110301,
+  "SpeakerPos": [
+   1.0,
+   -137.0,
+   434.0
+  ],
+  "EventIcon": "Event_005",
+  "IconPos": [
+   1.0,
+   0.0,
+   -0.10000000149011612
+  ],
+  "GroupID": 7,
+  "EEIDs": [
+   1000,
+   3010
+  ],
+  "ShowDetail": 0,
+  "EventWeight": 100,
+  "UnlockType": 0,
+  "UnlockParamList": []
+ },
+ {
+  "LevelEventID": 10135,
+  "SpeakerID": 130202,
+  "SpeakerPos": [
+   1.0,
+   0.0,
+   418.1000061035156
+  ],
+  "EventIcon": "Event_002",
+  "IconPos": [
+   1.0,
+   0.0,
+   -0.30000001192092896
+  ],
+  "GroupID": 7,
+  "EEIDs": [
+   1000,
+   4016
+  ],
+  "ShowDetail": 0,
+  "EventWeight": 100,
+  "UnlockType": 0,
+  "UnlockParamList": []
+ },
+ {
+  "LevelEventID": 10136,
+  "SpeakerID": 110301,
+  "SpeakerPos": [
+   1.0,
+   -137.0,
+   434.0
+  ],
+  "EventIcon": "Event_009",
+  "IconPos": [
+   1.0,
+   0.0,
+   -0.10000000149011612
+  ],
+  "GroupID": 8,
+  "EEIDs": [
+   6001
+  ],
+  "ShowDetail": 1,
+  "EventWeight": 100,
+  "UnlockType": 2,
+  "UnlockParamList": [
+   2
+  ]
+ }
+]

@@ -1,0 +1,52 @@
+[
+ {
+  "GuildLevel": 1,
+  "ExpRequired": 50000,
+  "Population": 22
+ },
+ {
+  "GuildLevel": 2,
+  "ExpRequired": 150000,
+  "Population": 23
+ },
+ {
+  "GuildLevel": 3,
+  "ExpRequired": 300000,
+  "Population": 24
+ },
+ {
+  "GuildLevel": 4,
+  "ExpRequired": 500000,
+  "Population": 25
+ },
+ {
+  "GuildLevel": 5,
+  "ExpRequired": 750000,
+  "Population": 26
+ },
+ {
+  "GuildLevel": 6,
+  "ExpRequired": 1050000,
+  "Population": 28
+ },
+ {
+  "GuildLevel": 7,
+  "ExpRequired": 1400000,
+  "Population": 30
+ },
+ {
+  "GuildLevel": 8,
+  "ExpRequired": 1800000,
+  "Population": 32
+ },
+ {
+  "GuildLevel": 9,
+  "ExpRequired": 2300000,
+  "Population": 34
+ },
+ {
+  "GuildLevel": 10,
+  "ExpRequired": 0,
+  "Population": 36
+ }
+]

@@ -1,0 +1,1226 @@
+[
+ {
+  "LevelID": 11001,
+  "LevelMonsters": [
+   {
+    "MonsterPos": 17,
+    "MonsterID": 910203,
+    "Level": 2,
+    "Star": 1,
+    "EquipmentIDs": []
+   },
+   {
+    "MonsterPos": 19,
+    "MonsterID": 910203,
+    "Level": 2,
+    "Star": 1,
+    "EquipmentIDs": []
+   },
+   {
+    "MonsterPos": 13,
+    "MonsterID": 910207,
+    "Level": 2,
+    "Star": 1,
+    "EquipmentIDs": []
+   },
+   {
+    "MonsterPos": 7,
+    "MonsterID": 190102,
+    "Level": 2,
+    "Star": 1,
+    "EquipmentIDs": []
+   },
+   {
+    "MonsterPos": 8,
+    "MonsterID": 190102,
+    "Level": 2,
+    "Star": 1,
+    "EquipmentIDs": []
+   },
+   {
+    "MonsterPos": 9,
+    "MonsterID": 190102,
+    "Level": 2,
+    "Star": 1,
+    "EquipmentIDs": []
+   }
+  ],
+  "BlessCardCount": 2,
+  "DoDAttrIDs": [
+   100,
+   4,
+   102
+  ],
+  "DoDAttrVals": [
+   8000,
+   3000,
+   10000
+  ]
+ },
+ {
+  "LevelID": 11002,
+  "LevelMonsters": [
+   {
+    "MonsterPos": 17,
+    "MonsterID": 190103,
+    "Level": 2,
+    "Star": 1,
+    "EquipmentIDs": []
+   },
+   {
+    "MonsterPos": 18,
+    "MonsterID": 910207,
+    "Level": 2,
+    "Star": 1,
+    "EquipmentIDs": []
+   },
+   {
+    "MonsterPos": 19,
+    "MonsterID": 190103,
+    "Level": 2,
+    "Star": 1,
+    "EquipmentIDs": []
+   },
+   {
+    "MonsterPos": 13,
+    "MonsterID": 190103,
+    "Level": 2,
+    "Star": 1,
+    "EquipmentIDs": []
+   },
+   {
+    "MonsterPos": 7,
+    "MonsterID": 910102,
+    "Level": 2,
+    "Star": 1,
+    "EquipmentIDs": []
+   },
+   {
+    "MonsterPos": 9,
+    "MonsterID": 910102,
+    "Level": 2,
+    "Star": 1,
+    "EquipmentIDs": []
+   },
+   {
+    "MonsterPos": 2,
+    "MonsterID": 810202,
+    "Level": 2,
+    "Star": 1,
+    "EquipmentIDs": []
+   },
+   {
+    "MonsterPos": 4,
+    "MonsterID": 910201,
+    "Level": 2,
+    "Star": 1,
+    "EquipmentIDs": []
+   }
+  ],
+  "BlessCardCount": 2,
+  "DoDAttrIDs": [
+   100,
+   4,
+   102
+  ],
+  "DoDAttrVals": [
+   9000,
+   6000,
+   10000
+  ]
+ },
+ {
+  "LevelID": 11003,
+  "LevelMonsters": [
+   {
+    "MonsterPos": 13,
+    "MonsterID": 190101,
+    "Level": 2,
+    "Star": 1,
+    "EquipmentIDs": []
+   }
+  ],
+  "BlessCardCount": 2,
+  "DoDAttrIDs": [
+   100,
+   4,
+   102
+  ],
+  "DoDAttrVals": [
+   10000,
+   10000,
+   10000
+  ]
+ },
+ {
+  "LevelID": 12001,
+  "LevelMonsters": [
+   {
+    "MonsterPos": 17,
+    "MonsterID": 910203,
+    "Level": 2,
+    "Star": 1,
+    "EquipmentIDs": []
+   },
+   {
+    "MonsterPos": 19,
+    "MonsterID": 910203,
+    "Level": 2,
+    "Star": 1,
+    "EquipmentIDs": []
+   },
+   {
+    "MonsterPos": 13,
+    "MonsterID": 910207,
+    "Level": 2,
+    "Star": 1,
+    "EquipmentIDs": []
+   },
+   {
+    "MonsterPos": 7,
+    "MonsterID": 190102,
+    "Level": 2,
+    "Star": 1,
+    "EquipmentIDs": []
+   },
+   {
+    "MonsterPos": 8,
+    "MonsterID": 190102,
+    "Level": 2,
+    "Star": 1,
+    "EquipmentIDs": []
+   },
+   {
+    "MonsterPos": 9,
+    "MonsterID": 190102,
+    "Level": 2,
+    "Star": 1,
+    "EquipmentIDs": []
+   }
+  ],
+  "BlessCardCount": 2,
+  "DoDAttrIDs": [
+   100,
+   4,
+   102
+  ],
+  "DoDAttrVals": [
+   8000,
+   3000,
+   10000
+  ]
+ },
+ {
+  "LevelID": 12002,
+  "LevelMonsters": [
+   {
+    "MonsterPos": 17,
+    "MonsterID": 190103,
+    "Level": 2,
+    "Star": 1,
+    "EquipmentIDs": []
+   },
+   {
+    "MonsterPos": 18,
+    "MonsterID": 910207,
+    "Level": 2,
+    "Star": 1,
+    "EquipmentIDs": []
+   },
+   {
+    "MonsterPos": 19,
+    "MonsterID": 190103,
+    "Level": 2,
+    "Star": 1,
+    "EquipmentIDs": []
+   },
+   {
+    "MonsterPos": 13,
+    "MonsterID": 190103,
+    "Level": 2,
+    "Star": 1,
+    "EquipmentIDs": []
+   },
+   {
+    "MonsterPos": 7,
+    "MonsterID": 910102,
+    "Level": 2,
+    "Star": 1,
+    "EquipmentIDs": []
+   },
+   {
+    "MonsterPos": 9,
+    "MonsterID": 910102,
+    "Level": 2,
+    "Star": 1,
+    "EquipmentIDs": []
+   },
+   {
+    "MonsterPos": 2,
+    "MonsterID": 810202,
+    "Level": 2,
+    "Star": 1,
+    "EquipmentIDs": []
+   },
+   {
+    "MonsterPos": 4,
+    "MonsterID": 910201,
+    "Level": 2,
+    "Star": 1,
+    "EquipmentIDs": []
+   }
+  ],
+  "BlessCardCount": 2,
+  "DoDAttrIDs": [
+   100,
+   4,
+   102
+  ],
+  "DoDAttrVals": [
+   9000,
+   6000,
+   10000
+  ]
+ },
+ {
+  "LevelID": 12003,
+  "LevelMonsters": [
+   {
+    "MonsterPos": 13,
+    "MonsterID": 190101,
+    "Level": 2,
+    "Star": 1,
+    "EquipmentIDs": []
+   }
+  ],
+  "BlessCardCount": 2,
+  "DoDAttrIDs": [
+   100,
+   4,
+   102
+  ],
+  "DoDAttrVals": [
+   10000,
+   10000,
+   10000
+  ]
+ },
+ {
+  "LevelID": 13001,
+  "LevelMonsters": [
+   {
+    "MonsterPos": 17,
+    "MonsterID": 190103,
+    "Level": 2,
+    "Star": 1,
+    "EquipmentIDs": []
+   },
+   {
+    "MonsterPos": 18,
+    "MonsterID": 910102,
+    "Level": 2,
+    "Star": 1,
+    "EquipmentIDs": []
+   },
+   {
+    "MonsterPos": 19,
+    "MonsterID": 190103,
+    "Level": 2,
+    "Star": 1,
+    "EquipmentIDs": []
+   },
+   {
+    "MonsterPos": 13,
+    "MonsterID": 910107,
+    "Level": 2,
+    "Star": 1,
+    "EquipmentIDs": []
+   },
+   {
+    "MonsterPos": 7,
+    "MonsterID": 190102,
+    "Level": 2,
+    "Star": 1,
+    "EquipmentIDs": []
+   },
+   {
+    "MonsterPos": 9,
+    "MonsterID": 190102,
+    "Level": 2,
+    "Star": 1,
+    "EquipmentIDs": []
+   }
+  ],
+  "BlessCardCount": 2,
+  "DoDAttrIDs": [
+   100,
+   4,
+   102
+  ],
+  "DoDAttrVals": [
+   8000,
+   3000,
+   10000
+  ]
+ },
+ {
+  "LevelID": 13002,
+  "LevelMonsters": [
+   {
+    "MonsterPos": 17,
+    "MonsterID": 910102,
+    "Level": 2,
+    "Star": 1,
+    "EquipmentIDs": []
+   },
+   {
+    "MonsterPos": 18,
+    "MonsterID": 830202,
+    "Level": 2,
+    "Star": 1,
+    "EquipmentIDs": []
+   },
+   {
+    "MonsterPos": 19,
+    "MonsterID": 910102,
+    "Level": 2,
+    "Star": 1,
+    "EquipmentIDs": []
+   },
+   {
+    "MonsterPos": 13,
+    "MonsterID": 190103,
+    "Level": 2,
+    "Star": 1,
+    "EquipmentIDs": []
+   },
+   {
+    "MonsterPos": 7,
+    "MonsterID": 190102,
+    "Level": 2,
+    "Star": 1,
+    "EquipmentIDs": []
+   },
+   {
+    "MonsterPos": 8,
+    "MonsterID": 910102,
+    "Level": 2,
+    "Star": 1,
+    "EquipmentIDs": []
+   },
+   {
+    "MonsterPos": 9,
+    "MonsterID": 190102,
+    "Level": 2,
+    "Star": 1,
+    "EquipmentIDs": []
+   },
+   {
+    "MonsterPos": 3,
+    "MonsterID": 910301,
+    "Level": 2,
+    "Star": 1,
+    "EquipmentIDs": []
+   }
+  ],
+  "BlessCardCount": 2,
+  "DoDAttrIDs": [
+   100,
+   4,
+   102
+  ],
+  "DoDAttrVals": [
+   9000,
+   6000,
+   10000
+  ]
+ },
+ {
+  "LevelID": 13003,
+  "LevelMonsters": [
+   {
+    "MonsterPos": 13,
+    "MonsterID": 190101,
+    "Level": 2,
+    "Star": 1,
+    "EquipmentIDs": []
+   }
+  ],
+  "BlessCardCount": 2,
+  "DoDAttrIDs": [
+   100,
+   4,
+   102
+  ],
+  "DoDAttrVals": [
+   10000,
+   10000,
+   10000
+  ]
+ },
+ {
+  "LevelID": 14001,
+  "LevelMonsters": [
+   {
+    "MonsterPos": 17,
+    "MonsterID": 190103,
+    "Level": 2,
+    "Star": 1,
+    "EquipmentIDs": []
+   },
+   {
+    "MonsterPos": 18,
+    "MonsterID": 910102,
+    "Level": 2,
+    "Star": 1,
+    "EquipmentIDs": []
+   },
+   {
+    "MonsterPos": 19,
+    "MonsterID": 190103,
+    "Level": 2,
+    "Star": 1,
+    "EquipmentIDs": []
+   },
+   {
+    "MonsterPos": 13,
+    "MonsterID": 910103,
+    "Level": 2,
+    "Star": 1,
+    "EquipmentIDs": []
+   },
+   {
+    "MonsterPos": 7,
+    "MonsterID": 190102,
+    "Level": 2,
+    "Star": 1,
+    "EquipmentIDs": []
+   },
+   {
+    "MonsterPos": 9,
+    "MonsterID": 190102,
+    "Level": 2,
+    "Star": 1,
+    "EquipmentIDs": []
+   }
+  ],
+  "BlessCardCount": 2,
+  "DoDAttrIDs": [
+   100,
+   4,
+   102
+  ],
+  "DoDAttrVals": [
+   8000,
+   3000,
+   10000
+  ]
+ },
+ {
+  "LevelID": 14002,
+  "LevelMonsters": [
+   {
+    "MonsterPos": 17,
+    "MonsterID": 190103,
+    "Level": 2,
+    "Star": 1,
+    "EquipmentIDs": []
+   },
+   {
+    "MonsterPos": 18,
+    "MonsterID": 910207,
+    "Level": 2,
+    "Star": 1,
+    "EquipmentIDs": []
+   },
+   {
+    "MonsterPos": 19,
+    "MonsterID": 190103,
+    "Level": 2,
+    "Star": 1,
+    "EquipmentIDs": []
+   },
+   {
+    "MonsterPos": 13,
+    "MonsterID": 190103,
+    "Level": 2,
+    "Star": 1,
+    "EquipmentIDs": []
+   },
+   {
+    "MonsterPos": 7,
+    "MonsterID": 910102,
+    "Level": 2,
+    "Star": 1,
+    "EquipmentIDs": []
+   },
+   {
+    "MonsterPos": 9,
+    "MonsterID": 910102,
+    "Level": 2,
+    "Star": 1,
+    "EquipmentIDs": []
+   },
+   {
+    "MonsterPos": 2,
+    "MonsterID": 810202,
+    "Level": 2,
+    "Star": 1,
+    "EquipmentIDs": []
+   },
+   {
+    "MonsterPos": 4,
+    "MonsterID": 910201,
+    "Level": 2,
+    "Star": 1,
+    "EquipmentIDs": []
+   }
+  ],
+  "BlessCardCount": 2,
+  "DoDAttrIDs": [
+   100,
+   4,
+   102
+  ],
+  "DoDAttrVals": [
+   9000,
+   6000,
+   10000
+  ]
+ },
+ {
+  "LevelID": 14003,
+  "LevelMonsters": [
+   {
+    "MonsterPos": 13,
+    "MonsterID": 190101,
+    "Level": 2,
+    "Star": 1,
+    "EquipmentIDs": []
+   }
+  ],
+  "BlessCardCount": 2,
+  "DoDAttrIDs": [
+   100,
+   4,
+   102
+  ],
+  "DoDAttrVals": [
+   10000,
+   10000,
+   10000
+  ]
+ },
+ {
+  "LevelID": 21001,
+  "LevelMonsters": [
+   {
+    "MonsterPos": 17,
+    "MonsterID": 910204,
+    "Level": 2,
+    "Star": 1,
+    "EquipmentIDs": []
+   },
+   {
+    "MonsterPos": 18,
+    "MonsterID": 910206,
+    "Level": 2,
+    "Star": 1,
+    "EquipmentIDs": []
+   },
+   {
+    "MonsterPos": 19,
+    "MonsterID": 910307,
+    "Level": 2,
+    "Star": 1,
+    "EquipmentIDs": []
+   },
+   {
+    "MonsterPos": 13,
+    "MonsterID": 910102,
+    "Level": 2,
+    "Star": 1,
+    "EquipmentIDs": []
+   },
+   {
+    "MonsterPos": 7,
+    "MonsterID": 910301,
+    "Level": 2,
+    "Star": 1,
+    "EquipmentIDs": []
+   },
+   {
+    "MonsterPos": 9,
+    "MonsterID": 910301,
+    "Level": 2,
+    "Star": 1,
+    "EquipmentIDs": []
+   }
+  ],
+  "BlessCardCount": 2,
+  "DoDAttrIDs": [
+   100,
+   4,
+   102
+  ],
+  "DoDAttrVals": [
+   8000,
+   3000,
+   10000
+  ]
+ },
+ {
+  "LevelID": 21002,
+  "LevelMonsters": [
+   {
+    "MonsterPos": 17,
+    "MonsterID": 910206,
+    "Level": 2,
+    "Star": 1,
+    "EquipmentIDs": []
+   },
+   {
+    "MonsterPos": 18,
+    "MonsterID": 910206,
+    "Level": 2,
+    "Star": 1,
+    "EquipmentIDs": []
+   },
+   {
+    "MonsterPos": 19,
+    "MonsterID": 910206,
+    "Level": 2,
+    "Star": 1,
+    "EquipmentIDs": []
+   },
+   {
+    "MonsterPos": 13,
+    "MonsterID": 910307,
+    "Level": 2,
+    "Star": 1,
+    "EquipmentIDs": []
+   },
+   {
+    "MonsterPos": 7,
+    "MonsterID": 910301,
+    "Level": 2,
+    "Star": 1,
+    "EquipmentIDs": []
+   },
+   {
+    "MonsterPos": 8,
+    "MonsterID": 910302,
+    "Level": 2,
+    "Star": 1,
+    "EquipmentIDs": []
+   },
+   {
+    "MonsterPos": 9,
+    "MonsterID": 910301,
+    "Level": 2,
+    "Star": 1,
+    "EquipmentIDs": []
+   },
+   {
+    "MonsterPos": 3,
+    "MonsterID": 810202,
+    "Level": 2,
+    "Star": 1,
+    "EquipmentIDs": []
+   }
+  ],
+  "BlessCardCount": 2,
+  "DoDAttrIDs": [
+   100,
+   4,
+   102
+  ],
+  "DoDAttrVals": [
+   9000,
+   6000,
+   10000
+  ]
+ },
+ {
+  "LevelID": 21003,
+  "LevelMonsters": [
+   {
+    "MonsterPos": 13,
+    "MonsterID": 190201,
+    "Level": 3,
+    "Star": 1,
+    "EquipmentIDs": []
+   }
+  ],
+  "BlessCardCount": 2,
+  "DoDAttrIDs": [
+   100,
+   4,
+   102
+  ],
+  "DoDAttrVals": [
+   10000,
+   10000,
+   10000
+  ]
+ },
+ {
+  "LevelID": 22001,
+  "LevelMonsters": [
+   {
+    "MonsterPos": 17,
+    "MonsterID": 910204,
+    "Level": 2,
+    "Star": 1,
+    "EquipmentIDs": []
+   },
+   {
+    "MonsterPos": 18,
+    "MonsterID": 910206,
+    "Level": 2,
+    "Star": 1,
+    "EquipmentIDs": []
+   },
+   {
+    "MonsterPos": 19,
+    "MonsterID": 910307,
+    "Level": 2,
+    "Star": 1,
+    "EquipmentIDs": []
+   },
+   {
+    "MonsterPos": 13,
+    "MonsterID": 910102,
+    "Level": 2,
+    "Star": 1,
+    "EquipmentIDs": []
+   },
+   {
+    "MonsterPos": 7,
+    "MonsterID": 910301,
+    "Level": 2,
+    "Star": 1,
+    "EquipmentIDs": []
+   },
+   {
+    "MonsterPos": 9,
+    "MonsterID": 910301,
+    "Level": 2,
+    "Star": 1,
+    "EquipmentIDs": []
+   }
+  ],
+  "BlessCardCount": 2,
+  "DoDAttrIDs": [
+   100,
+   4,
+   102
+  ],
+  "DoDAttrVals": [
+   8000,
+   3000,
+   10000
+  ]
+ },
+ {
+  "LevelID": 22002,
+  "LevelMonsters": [
+   {
+    "MonsterPos": 17,
+    "MonsterID": 910206,
+    "Level": 2,
+    "Star": 1,
+    "EquipmentIDs": []
+   },
+   {
+    "MonsterPos": 18,
+    "MonsterID": 910206,
+    "Level": 2,
+    "Star": 1,
+    "EquipmentIDs": []
+   },
+   {
+    "MonsterPos": 19,
+    "MonsterID": 910206,
+    "Level": 2,
+    "Star": 1,
+    "EquipmentIDs": []
+   },
+   {
+    "MonsterPos": 13,
+    "MonsterID": 910307,
+    "Level": 2,
+    "Star": 1,
+    "EquipmentIDs": []
+   },
+   {
+    "MonsterPos": 7,
+    "MonsterID": 910301,
+    "Level": 2,
+    "Star": 1,
+    "EquipmentIDs": []
+   },
+   {
+    "MonsterPos": 8,
+    "MonsterID": 910302,
+    "Level": 2,
+    "Star": 1,
+    "EquipmentIDs": []
+   },
+   {
+    "MonsterPos": 9,
+    "MonsterID": 910301,
+    "Level": 2,
+    "Star": 1,
+    "EquipmentIDs": []
+   },
+   {
+    "MonsterPos": 3,
+    "MonsterID": 810202,
+    "Level": 2,
+    "Star": 1,
+    "EquipmentIDs": []
+   }
+  ],
+  "BlessCardCount": 2,
+  "DoDAttrIDs": [
+   100,
+   4,
+   102
+  ],
+  "DoDAttrVals": [
+   9000,
+   6000,
+   10000
+  ]
+ },
+ {
+  "LevelID": 22003,
+  "LevelMonsters": [
+   {
+    "MonsterPos": 13,
+    "MonsterID": 190201,
+    "Level": 3,
+    "Star": 1,
+    "EquipmentIDs": []
+   }
+  ],
+  "BlessCardCount": 2,
+  "DoDAttrIDs": [
+   100,
+   4,
+   102
+  ],
+  "DoDAttrVals": [
+   10000,
+   10000,
+   10000
+  ]
+ },
+ {
+  "LevelID": 23001,
+  "LevelMonsters": [
+   {
+    "MonsterPos": 17,
+    "MonsterID": 910204,
+    "Level": 2,
+    "Star": 1,
+    "EquipmentIDs": []
+   },
+   {
+    "MonsterPos": 18,
+    "MonsterID": 910206,
+    "Level": 2,
+    "Star": 1,
+    "EquipmentIDs": []
+   },
+   {
+    "MonsterPos": 19,
+    "MonsterID": 910307,
+    "Level": 2,
+    "Star": 1,
+    "EquipmentIDs": []
+   },
+   {
+    "MonsterPos": 13,
+    "MonsterID": 910102,
+    "Level": 2,
+    "Star": 1,
+    "EquipmentIDs": []
+   },
+   {
+    "MonsterPos": 7,
+    "MonsterID": 910301,
+    "Level": 2,
+    "Star": 1,
+    "EquipmentIDs": []
+   },
+   {
+    "MonsterPos": 9,
+    "MonsterID": 910301,
+    "Level": 2,
+    "Star": 1,
+    "EquipmentIDs": []
+   }
+  ],
+  "BlessCardCount": 2,
+  "DoDAttrIDs": [
+   100,
+   4,
+   102
+  ],
+  "DoDAttrVals": [
+   8000,
+   3000,
+   10000
+  ]
+ },
+ {
+  "LevelID": 23002,
+  "LevelMonsters": [
+   {
+    "MonsterPos": 17,
+    "MonsterID": 910206,
+    "Level": 2,
+    "Star": 1,
+    "EquipmentIDs": []
+   },
+   {
+    "MonsterPos": 18,
+    "MonsterID": 910206,
+    "Level": 2,
+    "Star": 1,
+    "EquipmentIDs": []
+   },
+   {
+    "MonsterPos": 19,
+    "MonsterID": 910206,
+    "Level": 2,
+    "Star": 1,
+    "EquipmentIDs": []
+   },
+   {
+    "MonsterPos": 13,
+    "MonsterID": 910307,
+    "Level": 2,
+    "Star": 1,
+    "EquipmentIDs": []
+   },
+   {
+    "MonsterPos": 7,
+    "MonsterID": 910301,
+    "Level": 2,
+    "Star": 1,
+    "EquipmentIDs": []
+   },
+   {
+    "MonsterPos": 8,
+    "MonsterID": 910302,
+    "Level": 2,
+    "Star": 1,
+    "EquipmentIDs": []
+   },
+   {
+    "MonsterPos": 9,
+    "MonsterID": 910301,
+    "Level": 2,
+    "Star": 1,
+    "EquipmentIDs": []
+   },
+   {
+    "MonsterPos": 3,
+    "MonsterID": 810202,
+    "Level": 2,
+    "Star": 1,
+    "EquipmentIDs": []
+   }
+  ],
+  "BlessCardCount": 2,
+  "DoDAttrIDs": [
+   100,
+   4,
+   102
+  ],
+  "DoDAttrVals": [
+   9000,
+   6000,
+   10000
+  ]
+ },
+ {
+  "LevelID": 23003,
+  "LevelMonsters": [
+   {
+    "MonsterPos": 13,
+    "MonsterID": 190201,
+    "Level": 3,
+    "Star": 1,
+    "EquipmentIDs": []
+   }
+  ],
+  "BlessCardCount": 2,
+  "DoDAttrIDs": [
+   100,
+   4,
+   102
+  ],
+  "DoDAttrVals": [
+   10000,
+   10000,
+   10000
+  ]
+ },
+ {
+  "LevelID": 24001,
+  "LevelMonsters": [
+   {
+    "MonsterPos": 17,
+    "MonsterID": 910204,
+    "Level": 2,
+    "Star": 1,
+    "EquipmentIDs": []
+   },
+   {
+    "MonsterPos": 18,
+    "MonsterID": 910206,
+    "Level": 2,
+    "Star": 1,
+    "EquipmentIDs": []
+   },
+   {
+    "MonsterPos": 19,
+    "MonsterID": 910307,
+    "Level": 2,
+    "Star": 1,
+    "EquipmentIDs": []
+   },
+   {
+    "MonsterPos": 13,
+    "MonsterID": 910102,
+    "Level": 2,
+    "Star": 1,
+    "EquipmentIDs": []
+   },
+   {
+    "MonsterPos": 7,
+    "MonsterID": 910301,
+    "Level": 2,
+    "Star": 1,
+    "EquipmentIDs": []
+   },
+   {
+    "MonsterPos": 9,
+    "MonsterID": 910301,
+    "Level": 2,
+    "Star": 1,
+    "EquipmentIDs": []
+   }
+  ],
+  "BlessCardCount": 2,
+  "DoDAttrIDs": [
+   100,
+   4,
+   102
+  ],
+  "DoDAttrVals": [
+   8000,
+   3000,
+   10000
+  ]
+ },
+ {
+  "LevelID": 24002,
+  "LevelMonsters": [
+   {
+    "MonsterPos": 17,
+    "MonsterID": 910206,
+    "Level": 2,
+    "Star": 1,
+    "EquipmentIDs": []
+   },
+   {
+    "MonsterPos": 18,
+    "MonsterID": 910206,
+    "Level": 2,
+    "Star": 1,
+    "EquipmentIDs": []
+   },
+   {
+    "MonsterPos": 19,
+    "MonsterID": 910206,
+    "Level": 2,
+    "Star": 1,
+    "EquipmentIDs": []
+   },
+   {
+    "MonsterPos": 13,
+    "MonsterID": 910307,
+    "Level": 2,
+    "Star": 1,
+    "EquipmentIDs": []
+   },
+   {
+    "MonsterPos": 7,
+    "MonsterID": 910301,
+    "Level": 2,
+    "Star": 1,
+    "EquipmentIDs": []
+   },
+   {
+    "MonsterPos": 8,
+    "MonsterID": 910302,
+    "Level": 2,
+    "Star": 1,
+    "EquipmentIDs": []
+   },
+   {
+    "MonsterPos": 9,
+    "MonsterID": 910301,
+    "Level": 2,
+    "Star": 1,
+    "EquipmentIDs": []
+   },
+   {
+    "MonsterPos": 3,
+    "MonsterID": 810202,
+    "Level": 2,
+    "Star": 1,
+    "EquipmentIDs": []
+   }
+  ],
+  "BlessCardCount": 2,
+  "DoDAttrIDs": [
+   100,
+   4,
+   102
+  ],
+  "DoDAttrVals": [
+   9000,
+   6000,
+   10000
+  ]
+ },
+ {
+  "LevelID": 24003,
+  "LevelMonsters": [
+   {
+    "MonsterPos": 13,
+    "MonsterID": 190201,
+    "Level": 3,
+    "Star": 1,
+    "EquipmentIDs": []
+   }
+  ],
+  "BlessCardCount": 2,
+  "DoDAttrIDs": [
+   100,
+   4,
+   102
+  ],
+  "DoDAttrVals": [
+   10000,
+   10000,
+   10000
+  ]
+ }
+]

@@ -1,0 +1,5350 @@
+[
+ {
+  "id": 1,
+  "Quality": 0,
+  "PetLevel": 1,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 2,
+  "Quality": 0,
+  "PetLevel": 2,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 3,
+  "Quality": 0,
+  "PetLevel": 3,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 4,
+  "Quality": 0,
+  "PetLevel": 4,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 5,
+  "Quality": 0,
+  "PetLevel": 5,
+  "AttrIDs": [
+   4
+  ],
+  "AttrVals": [
+   300
+  ]
+ },
+ {
+  "id": 6,
+  "Quality": 0,
+  "PetLevel": 6,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 7,
+  "Quality": 0,
+  "PetLevel": 7,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 8,
+  "Quality": 0,
+  "PetLevel": 8,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 9,
+  "Quality": 0,
+  "PetLevel": 9,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 10,
+  "Quality": 0,
+  "PetLevel": 10,
+  "AttrIDs": [
+   102
+  ],
+  "AttrVals": [
+   300
+  ]
+ },
+ {
+  "id": 11,
+  "Quality": 0,
+  "PetLevel": 11,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 12,
+  "Quality": 0,
+  "PetLevel": 12,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 13,
+  "Quality": 0,
+  "PetLevel": 13,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 14,
+  "Quality": 0,
+  "PetLevel": 14,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 15,
+  "Quality": 0,
+  "PetLevel": 15,
+  "AttrIDs": [
+   100
+  ],
+  "AttrVals": [
+   300
+  ]
+ },
+ {
+  "id": 16,
+  "Quality": 0,
+  "PetLevel": 16,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 17,
+  "Quality": 0,
+  "PetLevel": 17,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 18,
+  "Quality": 0,
+  "PetLevel": 18,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 19,
+  "Quality": 0,
+  "PetLevel": 19,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 20,
+  "Quality": 0,
+  "PetLevel": 20,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 21,
+  "Quality": 0,
+  "PetLevel": 21,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 22,
+  "Quality": 0,
+  "PetLevel": 22,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 23,
+  "Quality": 0,
+  "PetLevel": 23,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 24,
+  "Quality": 0,
+  "PetLevel": 24,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 25,
+  "Quality": 0,
+  "PetLevel": 25,
+  "AttrIDs": [
+   4
+  ],
+  "AttrVals": [
+   300
+  ]
+ },
+ {
+  "id": 26,
+  "Quality": 0,
+  "PetLevel": 26,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 27,
+  "Quality": 0,
+  "PetLevel": 27,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 28,
+  "Quality": 0,
+  "PetLevel": 28,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 29,
+  "Quality": 0,
+  "PetLevel": 29,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 30,
+  "Quality": 0,
+  "PetLevel": 30,
+  "AttrIDs": [
+   102
+  ],
+  "AttrVals": [
+   300
+  ]
+ },
+ {
+  "id": 31,
+  "Quality": 0,
+  "PetLevel": 31,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 32,
+  "Quality": 0,
+  "PetLevel": 32,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 33,
+  "Quality": 0,
+  "PetLevel": 33,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 34,
+  "Quality": 0,
+  "PetLevel": 34,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 35,
+  "Quality": 0,
+  "PetLevel": 35,
+  "AttrIDs": [
+   100
+  ],
+  "AttrVals": [
+   300
+  ]
+ },
+ {
+  "id": 36,
+  "Quality": 0,
+  "PetLevel": 36,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 37,
+  "Quality": 0,
+  "PetLevel": 37,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 38,
+  "Quality": 0,
+  "PetLevel": 38,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 39,
+  "Quality": 0,
+  "PetLevel": 39,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 40,
+  "Quality": 0,
+  "PetLevel": 40,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 41,
+  "Quality": 0,
+  "PetLevel": 41,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 42,
+  "Quality": 0,
+  "PetLevel": 42,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 43,
+  "Quality": 0,
+  "PetLevel": 43,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 44,
+  "Quality": 0,
+  "PetLevel": 44,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 45,
+  "Quality": 0,
+  "PetLevel": 45,
+  "AttrIDs": [
+   4
+  ],
+  "AttrVals": [
+   300
+  ]
+ },
+ {
+  "id": 46,
+  "Quality": 0,
+  "PetLevel": 46,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 47,
+  "Quality": 0,
+  "PetLevel": 47,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 48,
+  "Quality": 0,
+  "PetLevel": 48,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 49,
+  "Quality": 0,
+  "PetLevel": 49,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 50,
+  "Quality": 0,
+  "PetLevel": 50,
+  "AttrIDs": [
+   102
+  ],
+  "AttrVals": [
+   300
+  ]
+ },
+ {
+  "id": 51,
+  "Quality": 0,
+  "PetLevel": 51,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 52,
+  "Quality": 0,
+  "PetLevel": 52,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 53,
+  "Quality": 0,
+  "PetLevel": 53,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 54,
+  "Quality": 0,
+  "PetLevel": 54,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 55,
+  "Quality": 0,
+  "PetLevel": 55,
+  "AttrIDs": [
+   100
+  ],
+  "AttrVals": [
+   300
+  ]
+ },
+ {
+  "id": 56,
+  "Quality": 0,
+  "PetLevel": 56,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 57,
+  "Quality": 0,
+  "PetLevel": 57,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 58,
+  "Quality": 0,
+  "PetLevel": 58,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 59,
+  "Quality": 0,
+  "PetLevel": 59,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 60,
+  "Quality": 0,
+  "PetLevel": 60,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 61,
+  "Quality": 0,
+  "PetLevel": 61,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 62,
+  "Quality": 0,
+  "PetLevel": 62,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 63,
+  "Quality": 0,
+  "PetLevel": 63,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 64,
+  "Quality": 0,
+  "PetLevel": 64,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 65,
+  "Quality": 0,
+  "PetLevel": 65,
+  "AttrIDs": [
+   4
+  ],
+  "AttrVals": [
+   300
+  ]
+ },
+ {
+  "id": 66,
+  "Quality": 0,
+  "PetLevel": 66,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 67,
+  "Quality": 0,
+  "PetLevel": 67,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 68,
+  "Quality": 0,
+  "PetLevel": 68,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 69,
+  "Quality": 0,
+  "PetLevel": 69,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 70,
+  "Quality": 0,
+  "PetLevel": 70,
+  "AttrIDs": [
+   102
+  ],
+  "AttrVals": [
+   300
+  ]
+ },
+ {
+  "id": 71,
+  "Quality": 0,
+  "PetLevel": 71,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 72,
+  "Quality": 0,
+  "PetLevel": 72,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 73,
+  "Quality": 0,
+  "PetLevel": 73,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 74,
+  "Quality": 0,
+  "PetLevel": 74,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 75,
+  "Quality": 0,
+  "PetLevel": 75,
+  "AttrIDs": [
+   100
+  ],
+  "AttrVals": [
+   300
+  ]
+ },
+ {
+  "id": 76,
+  "Quality": 0,
+  "PetLevel": 76,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 77,
+  "Quality": 0,
+  "PetLevel": 77,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 78,
+  "Quality": 0,
+  "PetLevel": 78,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 79,
+  "Quality": 0,
+  "PetLevel": 79,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 80,
+  "Quality": 0,
+  "PetLevel": 80,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 81,
+  "Quality": 0,
+  "PetLevel": 81,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 82,
+  "Quality": 0,
+  "PetLevel": 82,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 83,
+  "Quality": 0,
+  "PetLevel": 83,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 84,
+  "Quality": 0,
+  "PetLevel": 84,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 85,
+  "Quality": 0,
+  "PetLevel": 85,
+  "AttrIDs": [
+   4
+  ],
+  "AttrVals": [
+   300
+  ]
+ },
+ {
+  "id": 86,
+  "Quality": 0,
+  "PetLevel": 86,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 87,
+  "Quality": 0,
+  "PetLevel": 87,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 88,
+  "Quality": 0,
+  "PetLevel": 88,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 89,
+  "Quality": 0,
+  "PetLevel": 89,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 90,
+  "Quality": 0,
+  "PetLevel": 90,
+  "AttrIDs": [
+   102
+  ],
+  "AttrVals": [
+   300
+  ]
+ },
+ {
+  "id": 91,
+  "Quality": 0,
+  "PetLevel": 91,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 92,
+  "Quality": 0,
+  "PetLevel": 92,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 93,
+  "Quality": 0,
+  "PetLevel": 93,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 94,
+  "Quality": 0,
+  "PetLevel": 94,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 95,
+  "Quality": 0,
+  "PetLevel": 95,
+  "AttrIDs": [
+   100
+  ],
+  "AttrVals": [
+   300
+  ]
+ },
+ {
+  "id": 96,
+  "Quality": 0,
+  "PetLevel": 96,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 97,
+  "Quality": 0,
+  "PetLevel": 97,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 98,
+  "Quality": 0,
+  "PetLevel": 98,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 99,
+  "Quality": 0,
+  "PetLevel": 99,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 100,
+  "Quality": 0,
+  "PetLevel": 100,
+  "AttrIDs": [
+   4
+  ],
+  "AttrVals": [
+   300
+  ]
+ },
+ {
+  "id": 101,
+  "Quality": 1,
+  "PetLevel": 1,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 102,
+  "Quality": 1,
+  "PetLevel": 2,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 103,
+  "Quality": 1,
+  "PetLevel": 3,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 104,
+  "Quality": 1,
+  "PetLevel": 4,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 105,
+  "Quality": 1,
+  "PetLevel": 5,
+  "AttrIDs": [
+   4
+  ],
+  "AttrVals": [
+   400
+  ]
+ },
+ {
+  "id": 106,
+  "Quality": 1,
+  "PetLevel": 6,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 107,
+  "Quality": 1,
+  "PetLevel": 7,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 108,
+  "Quality": 1,
+  "PetLevel": 8,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 109,
+  "Quality": 1,
+  "PetLevel": 9,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 110,
+  "Quality": 1,
+  "PetLevel": 10,
+  "AttrIDs": [
+   102
+  ],
+  "AttrVals": [
+   400
+  ]
+ },
+ {
+  "id": 111,
+  "Quality": 1,
+  "PetLevel": 11,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 112,
+  "Quality": 1,
+  "PetLevel": 12,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 113,
+  "Quality": 1,
+  "PetLevel": 13,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 114,
+  "Quality": 1,
+  "PetLevel": 14,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 115,
+  "Quality": 1,
+  "PetLevel": 15,
+  "AttrIDs": [
+   100
+  ],
+  "AttrVals": [
+   400
+  ]
+ },
+ {
+  "id": 116,
+  "Quality": 1,
+  "PetLevel": 16,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 117,
+  "Quality": 1,
+  "PetLevel": 17,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 118,
+  "Quality": 1,
+  "PetLevel": 18,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 119,
+  "Quality": 1,
+  "PetLevel": 19,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 120,
+  "Quality": 1,
+  "PetLevel": 20,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 121,
+  "Quality": 1,
+  "PetLevel": 21,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 122,
+  "Quality": 1,
+  "PetLevel": 22,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 123,
+  "Quality": 1,
+  "PetLevel": 23,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 124,
+  "Quality": 1,
+  "PetLevel": 24,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 125,
+  "Quality": 1,
+  "PetLevel": 25,
+  "AttrIDs": [
+   4
+  ],
+  "AttrVals": [
+   400
+  ]
+ },
+ {
+  "id": 126,
+  "Quality": 1,
+  "PetLevel": 26,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 127,
+  "Quality": 1,
+  "PetLevel": 27,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 128,
+  "Quality": 1,
+  "PetLevel": 28,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 129,
+  "Quality": 1,
+  "PetLevel": 29,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 130,
+  "Quality": 1,
+  "PetLevel": 30,
+  "AttrIDs": [
+   102
+  ],
+  "AttrVals": [
+   400
+  ]
+ },
+ {
+  "id": 131,
+  "Quality": 1,
+  "PetLevel": 31,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 132,
+  "Quality": 1,
+  "PetLevel": 32,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 133,
+  "Quality": 1,
+  "PetLevel": 33,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 134,
+  "Quality": 1,
+  "PetLevel": 34,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 135,
+  "Quality": 1,
+  "PetLevel": 35,
+  "AttrIDs": [
+   100
+  ],
+  "AttrVals": [
+   400
+  ]
+ },
+ {
+  "id": 136,
+  "Quality": 1,
+  "PetLevel": 36,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 137,
+  "Quality": 1,
+  "PetLevel": 37,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 138,
+  "Quality": 1,
+  "PetLevel": 38,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 139,
+  "Quality": 1,
+  "PetLevel": 39,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 140,
+  "Quality": 1,
+  "PetLevel": 40,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 141,
+  "Quality": 1,
+  "PetLevel": 41,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 142,
+  "Quality": 1,
+  "PetLevel": 42,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 143,
+  "Quality": 1,
+  "PetLevel": 43,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 144,
+  "Quality": 1,
+  "PetLevel": 44,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 145,
+  "Quality": 1,
+  "PetLevel": 45,
+  "AttrIDs": [
+   4
+  ],
+  "AttrVals": [
+   400
+  ]
+ },
+ {
+  "id": 146,
+  "Quality": 1,
+  "PetLevel": 46,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 147,
+  "Quality": 1,
+  "PetLevel": 47,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 148,
+  "Quality": 1,
+  "PetLevel": 48,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 149,
+  "Quality": 1,
+  "PetLevel": 49,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 150,
+  "Quality": 1,
+  "PetLevel": 50,
+  "AttrIDs": [
+   102
+  ],
+  "AttrVals": [
+   400
+  ]
+ },
+ {
+  "id": 151,
+  "Quality": 1,
+  "PetLevel": 51,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 152,
+  "Quality": 1,
+  "PetLevel": 52,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 153,
+  "Quality": 1,
+  "PetLevel": 53,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 154,
+  "Quality": 1,
+  "PetLevel": 54,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 155,
+  "Quality": 1,
+  "PetLevel": 55,
+  "AttrIDs": [
+   100
+  ],
+  "AttrVals": [
+   400
+  ]
+ },
+ {
+  "id": 156,
+  "Quality": 1,
+  "PetLevel": 56,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 157,
+  "Quality": 1,
+  "PetLevel": 57,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 158,
+  "Quality": 1,
+  "PetLevel": 58,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 159,
+  "Quality": 1,
+  "PetLevel": 59,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 160,
+  "Quality": 1,
+  "PetLevel": 60,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 161,
+  "Quality": 1,
+  "PetLevel": 61,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 162,
+  "Quality": 1,
+  "PetLevel": 62,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 163,
+  "Quality": 1,
+  "PetLevel": 63,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 164,
+  "Quality": 1,
+  "PetLevel": 64,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 165,
+  "Quality": 1,
+  "PetLevel": 65,
+  "AttrIDs": [
+   4
+  ],
+  "AttrVals": [
+   400
+  ]
+ },
+ {
+  "id": 166,
+  "Quality": 1,
+  "PetLevel": 66,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 167,
+  "Quality": 1,
+  "PetLevel": 67,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 168,
+  "Quality": 1,
+  "PetLevel": 68,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 169,
+  "Quality": 1,
+  "PetLevel": 69,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 170,
+  "Quality": 1,
+  "PetLevel": 70,
+  "AttrIDs": [
+   102
+  ],
+  "AttrVals": [
+   400
+  ]
+ },
+ {
+  "id": 171,
+  "Quality": 1,
+  "PetLevel": 71,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 172,
+  "Quality": 1,
+  "PetLevel": 72,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 173,
+  "Quality": 1,
+  "PetLevel": 73,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 174,
+  "Quality": 1,
+  "PetLevel": 74,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 175,
+  "Quality": 1,
+  "PetLevel": 75,
+  "AttrIDs": [
+   100
+  ],
+  "AttrVals": [
+   400
+  ]
+ },
+ {
+  "id": 176,
+  "Quality": 1,
+  "PetLevel": 76,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 177,
+  "Quality": 1,
+  "PetLevel": 77,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 178,
+  "Quality": 1,
+  "PetLevel": 78,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 179,
+  "Quality": 1,
+  "PetLevel": 79,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 180,
+  "Quality": 1,
+  "PetLevel": 80,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 181,
+  "Quality": 1,
+  "PetLevel": 81,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 182,
+  "Quality": 1,
+  "PetLevel": 82,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 183,
+  "Quality": 1,
+  "PetLevel": 83,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 184,
+  "Quality": 1,
+  "PetLevel": 84,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 185,
+  "Quality": 1,
+  "PetLevel": 85,
+  "AttrIDs": [
+   4
+  ],
+  "AttrVals": [
+   400
+  ]
+ },
+ {
+  "id": 186,
+  "Quality": 1,
+  "PetLevel": 86,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 187,
+  "Quality": 1,
+  "PetLevel": 87,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 188,
+  "Quality": 1,
+  "PetLevel": 88,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 189,
+  "Quality": 1,
+  "PetLevel": 89,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 190,
+  "Quality": 1,
+  "PetLevel": 90,
+  "AttrIDs": [
+   102
+  ],
+  "AttrVals": [
+   400
+  ]
+ },
+ {
+  "id": 191,
+  "Quality": 1,
+  "PetLevel": 91,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 192,
+  "Quality": 1,
+  "PetLevel": 92,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 193,
+  "Quality": 1,
+  "PetLevel": 93,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 194,
+  "Quality": 1,
+  "PetLevel": 94,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 195,
+  "Quality": 1,
+  "PetLevel": 95,
+  "AttrIDs": [
+   100
+  ],
+  "AttrVals": [
+   400
+  ]
+ },
+ {
+  "id": 196,
+  "Quality": 1,
+  "PetLevel": 96,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 197,
+  "Quality": 1,
+  "PetLevel": 97,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 198,
+  "Quality": 1,
+  "PetLevel": 98,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 199,
+  "Quality": 1,
+  "PetLevel": 99,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 200,
+  "Quality": 1,
+  "PetLevel": 100,
+  "AttrIDs": [
+   4
+  ],
+  "AttrVals": [
+   400
+  ]
+ },
+ {
+  "id": 201,
+  "Quality": 2,
+  "PetLevel": 1,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 202,
+  "Quality": 2,
+  "PetLevel": 2,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 203,
+  "Quality": 2,
+  "PetLevel": 3,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 204,
+  "Quality": 2,
+  "PetLevel": 4,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 205,
+  "Quality": 2,
+  "PetLevel": 5,
+  "AttrIDs": [
+   4
+  ],
+  "AttrVals": [
+   500
+  ]
+ },
+ {
+  "id": 206,
+  "Quality": 2,
+  "PetLevel": 6,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 207,
+  "Quality": 2,
+  "PetLevel": 7,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 208,
+  "Quality": 2,
+  "PetLevel": 8,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 209,
+  "Quality": 2,
+  "PetLevel": 9,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 210,
+  "Quality": 2,
+  "PetLevel": 10,
+  "AttrIDs": [
+   102
+  ],
+  "AttrVals": [
+   500
+  ]
+ },
+ {
+  "id": 211,
+  "Quality": 2,
+  "PetLevel": 11,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 212,
+  "Quality": 2,
+  "PetLevel": 12,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 213,
+  "Quality": 2,
+  "PetLevel": 13,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 214,
+  "Quality": 2,
+  "PetLevel": 14,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 215,
+  "Quality": 2,
+  "PetLevel": 15,
+  "AttrIDs": [
+   100
+  ],
+  "AttrVals": [
+   500
+  ]
+ },
+ {
+  "id": 216,
+  "Quality": 2,
+  "PetLevel": 16,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 217,
+  "Quality": 2,
+  "PetLevel": 17,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 218,
+  "Quality": 2,
+  "PetLevel": 18,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 219,
+  "Quality": 2,
+  "PetLevel": 19,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 220,
+  "Quality": 2,
+  "PetLevel": 20,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 221,
+  "Quality": 2,
+  "PetLevel": 21,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 222,
+  "Quality": 2,
+  "PetLevel": 22,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 223,
+  "Quality": 2,
+  "PetLevel": 23,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 224,
+  "Quality": 2,
+  "PetLevel": 24,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 225,
+  "Quality": 2,
+  "PetLevel": 25,
+  "AttrIDs": [
+   4
+  ],
+  "AttrVals": [
+   500
+  ]
+ },
+ {
+  "id": 226,
+  "Quality": 2,
+  "PetLevel": 26,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 227,
+  "Quality": 2,
+  "PetLevel": 27,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 228,
+  "Quality": 2,
+  "PetLevel": 28,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 229,
+  "Quality": 2,
+  "PetLevel": 29,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 230,
+  "Quality": 2,
+  "PetLevel": 30,
+  "AttrIDs": [
+   102
+  ],
+  "AttrVals": [
+   500
+  ]
+ },
+ {
+  "id": 231,
+  "Quality": 2,
+  "PetLevel": 31,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 232,
+  "Quality": 2,
+  "PetLevel": 32,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 233,
+  "Quality": 2,
+  "PetLevel": 33,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 234,
+  "Quality": 2,
+  "PetLevel": 34,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 235,
+  "Quality": 2,
+  "PetLevel": 35,
+  "AttrIDs": [
+   100
+  ],
+  "AttrVals": [
+   500
+  ]
+ },
+ {
+  "id": 236,
+  "Quality": 2,
+  "PetLevel": 36,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 237,
+  "Quality": 2,
+  "PetLevel": 37,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 238,
+  "Quality": 2,
+  "PetLevel": 38,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 239,
+  "Quality": 2,
+  "PetLevel": 39,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 240,
+  "Quality": 2,
+  "PetLevel": 40,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 241,
+  "Quality": 2,
+  "PetLevel": 41,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 242,
+  "Quality": 2,
+  "PetLevel": 42,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 243,
+  "Quality": 2,
+  "PetLevel": 43,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 244,
+  "Quality": 2,
+  "PetLevel": 44,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 245,
+  "Quality": 2,
+  "PetLevel": 45,
+  "AttrIDs": [
+   4
+  ],
+  "AttrVals": [
+   500
+  ]
+ },
+ {
+  "id": 246,
+  "Quality": 2,
+  "PetLevel": 46,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 247,
+  "Quality": 2,
+  "PetLevel": 47,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 248,
+  "Quality": 2,
+  "PetLevel": 48,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 249,
+  "Quality": 2,
+  "PetLevel": 49,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 250,
+  "Quality": 2,
+  "PetLevel": 50,
+  "AttrIDs": [
+   102
+  ],
+  "AttrVals": [
+   500
+  ]
+ },
+ {
+  "id": 251,
+  "Quality": 2,
+  "PetLevel": 51,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 252,
+  "Quality": 2,
+  "PetLevel": 52,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 253,
+  "Quality": 2,
+  "PetLevel": 53,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 254,
+  "Quality": 2,
+  "PetLevel": 54,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 255,
+  "Quality": 2,
+  "PetLevel": 55,
+  "AttrIDs": [
+   100
+  ],
+  "AttrVals": [
+   500
+  ]
+ },
+ {
+  "id": 256,
+  "Quality": 2,
+  "PetLevel": 56,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 257,
+  "Quality": 2,
+  "PetLevel": 57,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 258,
+  "Quality": 2,
+  "PetLevel": 58,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 259,
+  "Quality": 2,
+  "PetLevel": 59,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 260,
+  "Quality": 2,
+  "PetLevel": 60,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 261,
+  "Quality": 2,
+  "PetLevel": 61,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 262,
+  "Quality": 2,
+  "PetLevel": 62,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 263,
+  "Quality": 2,
+  "PetLevel": 63,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 264,
+  "Quality": 2,
+  "PetLevel": 64,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 265,
+  "Quality": 2,
+  "PetLevel": 65,
+  "AttrIDs": [
+   4
+  ],
+  "AttrVals": [
+   500
+  ]
+ },
+ {
+  "id": 266,
+  "Quality": 2,
+  "PetLevel": 66,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 267,
+  "Quality": 2,
+  "PetLevel": 67,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 268,
+  "Quality": 2,
+  "PetLevel": 68,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 269,
+  "Quality": 2,
+  "PetLevel": 69,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 270,
+  "Quality": 2,
+  "PetLevel": 70,
+  "AttrIDs": [
+   102
+  ],
+  "AttrVals": [
+   500
+  ]
+ },
+ {
+  "id": 271,
+  "Quality": 2,
+  "PetLevel": 71,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 272,
+  "Quality": 2,
+  "PetLevel": 72,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 273,
+  "Quality": 2,
+  "PetLevel": 73,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 274,
+  "Quality": 2,
+  "PetLevel": 74,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 275,
+  "Quality": 2,
+  "PetLevel": 75,
+  "AttrIDs": [
+   100
+  ],
+  "AttrVals": [
+   500
+  ]
+ },
+ {
+  "id": 276,
+  "Quality": 2,
+  "PetLevel": 76,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 277,
+  "Quality": 2,
+  "PetLevel": 77,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 278,
+  "Quality": 2,
+  "PetLevel": 78,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 279,
+  "Quality": 2,
+  "PetLevel": 79,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 280,
+  "Quality": 2,
+  "PetLevel": 80,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 281,
+  "Quality": 2,
+  "PetLevel": 81,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 282,
+  "Quality": 2,
+  "PetLevel": 82,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 283,
+  "Quality": 2,
+  "PetLevel": 83,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 284,
+  "Quality": 2,
+  "PetLevel": 84,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 285,
+  "Quality": 2,
+  "PetLevel": 85,
+  "AttrIDs": [
+   4
+  ],
+  "AttrVals": [
+   500
+  ]
+ },
+ {
+  "id": 286,
+  "Quality": 2,
+  "PetLevel": 86,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 287,
+  "Quality": 2,
+  "PetLevel": 87,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 288,
+  "Quality": 2,
+  "PetLevel": 88,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 289,
+  "Quality": 2,
+  "PetLevel": 89,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 290,
+  "Quality": 2,
+  "PetLevel": 90,
+  "AttrIDs": [
+   102
+  ],
+  "AttrVals": [
+   500
+  ]
+ },
+ {
+  "id": 291,
+  "Quality": 2,
+  "PetLevel": 91,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 292,
+  "Quality": 2,
+  "PetLevel": 92,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 293,
+  "Quality": 2,
+  "PetLevel": 93,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 294,
+  "Quality": 2,
+  "PetLevel": 94,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 295,
+  "Quality": 2,
+  "PetLevel": 95,
+  "AttrIDs": [
+   100
+  ],
+  "AttrVals": [
+   500
+  ]
+ },
+ {
+  "id": 296,
+  "Quality": 2,
+  "PetLevel": 96,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 297,
+  "Quality": 2,
+  "PetLevel": 97,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 298,
+  "Quality": 2,
+  "PetLevel": 98,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 299,
+  "Quality": 2,
+  "PetLevel": 99,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 300,
+  "Quality": 2,
+  "PetLevel": 100,
+  "AttrIDs": [
+   4
+  ],
+  "AttrVals": [
+   500
+  ]
+ },
+ {
+  "id": 301,
+  "Quality": 3,
+  "PetLevel": 1,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 302,
+  "Quality": 3,
+  "PetLevel": 2,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 303,
+  "Quality": 3,
+  "PetLevel": 3,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 304,
+  "Quality": 3,
+  "PetLevel": 4,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 305,
+  "Quality": 3,
+  "PetLevel": 5,
+  "AttrIDs": [
+   4
+  ],
+  "AttrVals": [
+   600
+  ]
+ },
+ {
+  "id": 306,
+  "Quality": 3,
+  "PetLevel": 6,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 307,
+  "Quality": 3,
+  "PetLevel": 7,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 308,
+  "Quality": 3,
+  "PetLevel": 8,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 309,
+  "Quality": 3,
+  "PetLevel": 9,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 310,
+  "Quality": 3,
+  "PetLevel": 10,
+  "AttrIDs": [
+   102
+  ],
+  "AttrVals": [
+   600
+  ]
+ },
+ {
+  "id": 311,
+  "Quality": 3,
+  "PetLevel": 11,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 312,
+  "Quality": 3,
+  "PetLevel": 12,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 313,
+  "Quality": 3,
+  "PetLevel": 13,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 314,
+  "Quality": 3,
+  "PetLevel": 14,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 315,
+  "Quality": 3,
+  "PetLevel": 15,
+  "AttrIDs": [
+   100
+  ],
+  "AttrVals": [
+   600
+  ]
+ },
+ {
+  "id": 316,
+  "Quality": 3,
+  "PetLevel": 16,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 317,
+  "Quality": 3,
+  "PetLevel": 17,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 318,
+  "Quality": 3,
+  "PetLevel": 18,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 319,
+  "Quality": 3,
+  "PetLevel": 19,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 320,
+  "Quality": 3,
+  "PetLevel": 20,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 321,
+  "Quality": 3,
+  "PetLevel": 21,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 322,
+  "Quality": 3,
+  "PetLevel": 22,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 323,
+  "Quality": 3,
+  "PetLevel": 23,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 324,
+  "Quality": 3,
+  "PetLevel": 24,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 325,
+  "Quality": 3,
+  "PetLevel": 25,
+  "AttrIDs": [
+   4
+  ],
+  "AttrVals": [
+   600
+  ]
+ },
+ {
+  "id": 326,
+  "Quality": 3,
+  "PetLevel": 26,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 327,
+  "Quality": 3,
+  "PetLevel": 27,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 328,
+  "Quality": 3,
+  "PetLevel": 28,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 329,
+  "Quality": 3,
+  "PetLevel": 29,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 330,
+  "Quality": 3,
+  "PetLevel": 30,
+  "AttrIDs": [
+   102
+  ],
+  "AttrVals": [
+   600
+  ]
+ },
+ {
+  "id": 331,
+  "Quality": 3,
+  "PetLevel": 31,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 332,
+  "Quality": 3,
+  "PetLevel": 32,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 333,
+  "Quality": 3,
+  "PetLevel": 33,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 334,
+  "Quality": 3,
+  "PetLevel": 34,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 335,
+  "Quality": 3,
+  "PetLevel": 35,
+  "AttrIDs": [
+   100
+  ],
+  "AttrVals": [
+   600
+  ]
+ },
+ {
+  "id": 336,
+  "Quality": 3,
+  "PetLevel": 36,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 337,
+  "Quality": 3,
+  "PetLevel": 37,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 338,
+  "Quality": 3,
+  "PetLevel": 38,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 339,
+  "Quality": 3,
+  "PetLevel": 39,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 340,
+  "Quality": 3,
+  "PetLevel": 40,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 341,
+  "Quality": 3,
+  "PetLevel": 41,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 342,
+  "Quality": 3,
+  "PetLevel": 42,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 343,
+  "Quality": 3,
+  "PetLevel": 43,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 344,
+  "Quality": 3,
+  "PetLevel": 44,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 345,
+  "Quality": 3,
+  "PetLevel": 45,
+  "AttrIDs": [
+   4
+  ],
+  "AttrVals": [
+   600
+  ]
+ },
+ {
+  "id": 346,
+  "Quality": 3,
+  "PetLevel": 46,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 347,
+  "Quality": 3,
+  "PetLevel": 47,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 348,
+  "Quality": 3,
+  "PetLevel": 48,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 349,
+  "Quality": 3,
+  "PetLevel": 49,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 350,
+  "Quality": 3,
+  "PetLevel": 50,
+  "AttrIDs": [
+   102
+  ],
+  "AttrVals": [
+   600
+  ]
+ },
+ {
+  "id": 351,
+  "Quality": 3,
+  "PetLevel": 51,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 352,
+  "Quality": 3,
+  "PetLevel": 52,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 353,
+  "Quality": 3,
+  "PetLevel": 53,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 354,
+  "Quality": 3,
+  "PetLevel": 54,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 355,
+  "Quality": 3,
+  "PetLevel": 55,
+  "AttrIDs": [
+   100
+  ],
+  "AttrVals": [
+   600
+  ]
+ },
+ {
+  "id": 356,
+  "Quality": 3,
+  "PetLevel": 56,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 357,
+  "Quality": 3,
+  "PetLevel": 57,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 358,
+  "Quality": 3,
+  "PetLevel": 58,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 359,
+  "Quality": 3,
+  "PetLevel": 59,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 360,
+  "Quality": 3,
+  "PetLevel": 60,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 361,
+  "Quality": 3,
+  "PetLevel": 61,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 362,
+  "Quality": 3,
+  "PetLevel": 62,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 363,
+  "Quality": 3,
+  "PetLevel": 63,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 364,
+  "Quality": 3,
+  "PetLevel": 64,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 365,
+  "Quality": 3,
+  "PetLevel": 65,
+  "AttrIDs": [
+   4
+  ],
+  "AttrVals": [
+   600
+  ]
+ },
+ {
+  "id": 366,
+  "Quality": 3,
+  "PetLevel": 66,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 367,
+  "Quality": 3,
+  "PetLevel": 67,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 368,
+  "Quality": 3,
+  "PetLevel": 68,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 369,
+  "Quality": 3,
+  "PetLevel": 69,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 370,
+  "Quality": 3,
+  "PetLevel": 70,
+  "AttrIDs": [
+   102
+  ],
+  "AttrVals": [
+   600
+  ]
+ },
+ {
+  "id": 371,
+  "Quality": 3,
+  "PetLevel": 71,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 372,
+  "Quality": 3,
+  "PetLevel": 72,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 373,
+  "Quality": 3,
+  "PetLevel": 73,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 374,
+  "Quality": 3,
+  "PetLevel": 74,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 375,
+  "Quality": 3,
+  "PetLevel": 75,
+  "AttrIDs": [
+   100
+  ],
+  "AttrVals": [
+   600
+  ]
+ },
+ {
+  "id": 376,
+  "Quality": 3,
+  "PetLevel": 76,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 377,
+  "Quality": 3,
+  "PetLevel": 77,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 378,
+  "Quality": 3,
+  "PetLevel": 78,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 379,
+  "Quality": 3,
+  "PetLevel": 79,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 380,
+  "Quality": 3,
+  "PetLevel": 80,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 381,
+  "Quality": 3,
+  "PetLevel": 81,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 382,
+  "Quality": 3,
+  "PetLevel": 82,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 383,
+  "Quality": 3,
+  "PetLevel": 83,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 384,
+  "Quality": 3,
+  "PetLevel": 84,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 385,
+  "Quality": 3,
+  "PetLevel": 85,
+  "AttrIDs": [
+   4
+  ],
+  "AttrVals": [
+   600
+  ]
+ },
+ {
+  "id": 386,
+  "Quality": 3,
+  "PetLevel": 86,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 387,
+  "Quality": 3,
+  "PetLevel": 87,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 388,
+  "Quality": 3,
+  "PetLevel": 88,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 389,
+  "Quality": 3,
+  "PetLevel": 89,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 390,
+  "Quality": 3,
+  "PetLevel": 90,
+  "AttrIDs": [
+   102
+  ],
+  "AttrVals": [
+   600
+  ]
+ },
+ {
+  "id": 391,
+  "Quality": 3,
+  "PetLevel": 91,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 392,
+  "Quality": 3,
+  "PetLevel": 92,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 393,
+  "Quality": 3,
+  "PetLevel": 93,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 394,
+  "Quality": 3,
+  "PetLevel": 94,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 395,
+  "Quality": 3,
+  "PetLevel": 95,
+  "AttrIDs": [
+   100
+  ],
+  "AttrVals": [
+   600
+  ]
+ },
+ {
+  "id": 396,
+  "Quality": 3,
+  "PetLevel": 96,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 397,
+  "Quality": 3,
+  "PetLevel": 97,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 398,
+  "Quality": 3,
+  "PetLevel": 98,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 399,
+  "Quality": 3,
+  "PetLevel": 99,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 400,
+  "Quality": 3,
+  "PetLevel": 100,
+  "AttrIDs": [
+   4
+  ],
+  "AttrVals": [
+   600
+  ]
+ },
+ {
+  "id": 401,
+  "Quality": 4,
+  "PetLevel": 1,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 402,
+  "Quality": 4,
+  "PetLevel": 2,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 403,
+  "Quality": 4,
+  "PetLevel": 3,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 404,
+  "Quality": 4,
+  "PetLevel": 4,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 405,
+  "Quality": 4,
+  "PetLevel": 5,
+  "AttrIDs": [
+   4
+  ],
+  "AttrVals": [
+   700
+  ]
+ },
+ {
+  "id": 406,
+  "Quality": 4,
+  "PetLevel": 6,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 407,
+  "Quality": 4,
+  "PetLevel": 7,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 408,
+  "Quality": 4,
+  "PetLevel": 8,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 409,
+  "Quality": 4,
+  "PetLevel": 9,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 410,
+  "Quality": 4,
+  "PetLevel": 10,
+  "AttrIDs": [
+   102
+  ],
+  "AttrVals": [
+   700
+  ]
+ },
+ {
+  "id": 411,
+  "Quality": 4,
+  "PetLevel": 11,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 412,
+  "Quality": 4,
+  "PetLevel": 12,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 413,
+  "Quality": 4,
+  "PetLevel": 13,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 414,
+  "Quality": 4,
+  "PetLevel": 14,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 415,
+  "Quality": 4,
+  "PetLevel": 15,
+  "AttrIDs": [
+   100
+  ],
+  "AttrVals": [
+   700
+  ]
+ },
+ {
+  "id": 416,
+  "Quality": 4,
+  "PetLevel": 16,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 417,
+  "Quality": 4,
+  "PetLevel": 17,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 418,
+  "Quality": 4,
+  "PetLevel": 18,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 419,
+  "Quality": 4,
+  "PetLevel": 19,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 420,
+  "Quality": 4,
+  "PetLevel": 20,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 421,
+  "Quality": 4,
+  "PetLevel": 21,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 422,
+  "Quality": 4,
+  "PetLevel": 22,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 423,
+  "Quality": 4,
+  "PetLevel": 23,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 424,
+  "Quality": 4,
+  "PetLevel": 24,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 425,
+  "Quality": 4,
+  "PetLevel": 25,
+  "AttrIDs": [
+   4
+  ],
+  "AttrVals": [
+   700
+  ]
+ },
+ {
+  "id": 426,
+  "Quality": 4,
+  "PetLevel": 26,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 427,
+  "Quality": 4,
+  "PetLevel": 27,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 428,
+  "Quality": 4,
+  "PetLevel": 28,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 429,
+  "Quality": 4,
+  "PetLevel": 29,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 430,
+  "Quality": 4,
+  "PetLevel": 30,
+  "AttrIDs": [
+   102
+  ],
+  "AttrVals": [
+   700
+  ]
+ },
+ {
+  "id": 431,
+  "Quality": 4,
+  "PetLevel": 31,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 432,
+  "Quality": 4,
+  "PetLevel": 32,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 433,
+  "Quality": 4,
+  "PetLevel": 33,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 434,
+  "Quality": 4,
+  "PetLevel": 34,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 435,
+  "Quality": 4,
+  "PetLevel": 35,
+  "AttrIDs": [
+   100
+  ],
+  "AttrVals": [
+   700
+  ]
+ },
+ {
+  "id": 436,
+  "Quality": 4,
+  "PetLevel": 36,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 437,
+  "Quality": 4,
+  "PetLevel": 37,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 438,
+  "Quality": 4,
+  "PetLevel": 38,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 439,
+  "Quality": 4,
+  "PetLevel": 39,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 440,
+  "Quality": 4,
+  "PetLevel": 40,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 441,
+  "Quality": 4,
+  "PetLevel": 41,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 442,
+  "Quality": 4,
+  "PetLevel": 42,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 443,
+  "Quality": 4,
+  "PetLevel": 43,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 444,
+  "Quality": 4,
+  "PetLevel": 44,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 445,
+  "Quality": 4,
+  "PetLevel": 45,
+  "AttrIDs": [
+   4
+  ],
+  "AttrVals": [
+   700
+  ]
+ },
+ {
+  "id": 446,
+  "Quality": 4,
+  "PetLevel": 46,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 447,
+  "Quality": 4,
+  "PetLevel": 47,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 448,
+  "Quality": 4,
+  "PetLevel": 48,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 449,
+  "Quality": 4,
+  "PetLevel": 49,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 450,
+  "Quality": 4,
+  "PetLevel": 50,
+  "AttrIDs": [
+   102
+  ],
+  "AttrVals": [
+   700
+  ]
+ },
+ {
+  "id": 451,
+  "Quality": 4,
+  "PetLevel": 51,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 452,
+  "Quality": 4,
+  "PetLevel": 52,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 453,
+  "Quality": 4,
+  "PetLevel": 53,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 454,
+  "Quality": 4,
+  "PetLevel": 54,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 455,
+  "Quality": 4,
+  "PetLevel": 55,
+  "AttrIDs": [
+   100
+  ],
+  "AttrVals": [
+   700
+  ]
+ },
+ {
+  "id": 456,
+  "Quality": 4,
+  "PetLevel": 56,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 457,
+  "Quality": 4,
+  "PetLevel": 57,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 458,
+  "Quality": 4,
+  "PetLevel": 58,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 459,
+  "Quality": 4,
+  "PetLevel": 59,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 460,
+  "Quality": 4,
+  "PetLevel": 60,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 461,
+  "Quality": 4,
+  "PetLevel": 61,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 462,
+  "Quality": 4,
+  "PetLevel": 62,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 463,
+  "Quality": 4,
+  "PetLevel": 63,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 464,
+  "Quality": 4,
+  "PetLevel": 64,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 465,
+  "Quality": 4,
+  "PetLevel": 65,
+  "AttrIDs": [
+   4
+  ],
+  "AttrVals": [
+   700
+  ]
+ },
+ {
+  "id": 466,
+  "Quality": 4,
+  "PetLevel": 66,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 467,
+  "Quality": 4,
+  "PetLevel": 67,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 468,
+  "Quality": 4,
+  "PetLevel": 68,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 469,
+  "Quality": 4,
+  "PetLevel": 69,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 470,
+  "Quality": 4,
+  "PetLevel": 70,
+  "AttrIDs": [
+   102
+  ],
+  "AttrVals": [
+   700
+  ]
+ },
+ {
+  "id": 471,
+  "Quality": 4,
+  "PetLevel": 71,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 472,
+  "Quality": 4,
+  "PetLevel": 72,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 473,
+  "Quality": 4,
+  "PetLevel": 73,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 474,
+  "Quality": 4,
+  "PetLevel": 74,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 475,
+  "Quality": 4,
+  "PetLevel": 75,
+  "AttrIDs": [
+   100
+  ],
+  "AttrVals": [
+   700
+  ]
+ },
+ {
+  "id": 476,
+  "Quality": 4,
+  "PetLevel": 76,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 477,
+  "Quality": 4,
+  "PetLevel": 77,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 478,
+  "Quality": 4,
+  "PetLevel": 78,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 479,
+  "Quality": 4,
+  "PetLevel": 79,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 480,
+  "Quality": 4,
+  "PetLevel": 80,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 481,
+  "Quality": 4,
+  "PetLevel": 81,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 482,
+  "Quality": 4,
+  "PetLevel": 82,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 483,
+  "Quality": 4,
+  "PetLevel": 83,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 484,
+  "Quality": 4,
+  "PetLevel": 84,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 485,
+  "Quality": 4,
+  "PetLevel": 85,
+  "AttrIDs": [
+   4
+  ],
+  "AttrVals": [
+   700
+  ]
+ },
+ {
+  "id": 486,
+  "Quality": 4,
+  "PetLevel": 86,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 487,
+  "Quality": 4,
+  "PetLevel": 87,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 488,
+  "Quality": 4,
+  "PetLevel": 88,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 489,
+  "Quality": 4,
+  "PetLevel": 89,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 490,
+  "Quality": 4,
+  "PetLevel": 90,
+  "AttrIDs": [
+   102
+  ],
+  "AttrVals": [
+   700
+  ]
+ },
+ {
+  "id": 491,
+  "Quality": 4,
+  "PetLevel": 91,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 492,
+  "Quality": 4,
+  "PetLevel": 92,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 493,
+  "Quality": 4,
+  "PetLevel": 93,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 494,
+  "Quality": 4,
+  "PetLevel": 94,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 495,
+  "Quality": 4,
+  "PetLevel": 95,
+  "AttrIDs": [
+   100
+  ],
+  "AttrVals": [
+   700
+  ]
+ },
+ {
+  "id": 496,
+  "Quality": 4,
+  "PetLevel": 96,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 497,
+  "Quality": 4,
+  "PetLevel": 97,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 498,
+  "Quality": 4,
+  "PetLevel": 98,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 499,
+  "Quality": 4,
+  "PetLevel": 99,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 500,
+  "Quality": 4,
+  "PetLevel": 100,
+  "AttrIDs": [
+   4
+  ],
+  "AttrVals": [
+   700
+  ]
+ },
+ {
+  "id": 501,
+  "Quality": 5,
+  "PetLevel": 1,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 502,
+  "Quality": 5,
+  "PetLevel": 2,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 503,
+  "Quality": 5,
+  "PetLevel": 3,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 504,
+  "Quality": 5,
+  "PetLevel": 4,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 505,
+  "Quality": 5,
+  "PetLevel": 5,
+  "AttrIDs": [
+   4
+  ],
+  "AttrVals": [
+   800
+  ]
+ },
+ {
+  "id": 506,
+  "Quality": 5,
+  "PetLevel": 6,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 507,
+  "Quality": 5,
+  "PetLevel": 7,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 508,
+  "Quality": 5,
+  "PetLevel": 8,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 509,
+  "Quality": 5,
+  "PetLevel": 9,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 510,
+  "Quality": 5,
+  "PetLevel": 10,
+  "AttrIDs": [
+   102
+  ],
+  "AttrVals": [
+   800
+  ]
+ },
+ {
+  "id": 511,
+  "Quality": 5,
+  "PetLevel": 11,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 512,
+  "Quality": 5,
+  "PetLevel": 12,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 513,
+  "Quality": 5,
+  "PetLevel": 13,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 514,
+  "Quality": 5,
+  "PetLevel": 14,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 515,
+  "Quality": 5,
+  "PetLevel": 15,
+  "AttrIDs": [
+   100
+  ],
+  "AttrVals": [
+   800
+  ]
+ },
+ {
+  "id": 516,
+  "Quality": 5,
+  "PetLevel": 16,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 517,
+  "Quality": 5,
+  "PetLevel": 17,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 518,
+  "Quality": 5,
+  "PetLevel": 18,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 519,
+  "Quality": 5,
+  "PetLevel": 19,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 520,
+  "Quality": 5,
+  "PetLevel": 20,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 521,
+  "Quality": 5,
+  "PetLevel": 21,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 522,
+  "Quality": 5,
+  "PetLevel": 22,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 523,
+  "Quality": 5,
+  "PetLevel": 23,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 524,
+  "Quality": 5,
+  "PetLevel": 24,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 525,
+  "Quality": 5,
+  "PetLevel": 25,
+  "AttrIDs": [
+   4
+  ],
+  "AttrVals": [
+   800
+  ]
+ },
+ {
+  "id": 526,
+  "Quality": 5,
+  "PetLevel": 26,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 527,
+  "Quality": 5,
+  "PetLevel": 27,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 528,
+  "Quality": 5,
+  "PetLevel": 28,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 529,
+  "Quality": 5,
+  "PetLevel": 29,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 530,
+  "Quality": 5,
+  "PetLevel": 30,
+  "AttrIDs": [
+   102
+  ],
+  "AttrVals": [
+   800
+  ]
+ },
+ {
+  "id": 531,
+  "Quality": 5,
+  "PetLevel": 31,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 532,
+  "Quality": 5,
+  "PetLevel": 32,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 533,
+  "Quality": 5,
+  "PetLevel": 33,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 534,
+  "Quality": 5,
+  "PetLevel": 34,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 535,
+  "Quality": 5,
+  "PetLevel": 35,
+  "AttrIDs": [
+   100
+  ],
+  "AttrVals": [
+   800
+  ]
+ },
+ {
+  "id": 536,
+  "Quality": 5,
+  "PetLevel": 36,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 537,
+  "Quality": 5,
+  "PetLevel": 37,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 538,
+  "Quality": 5,
+  "PetLevel": 38,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 539,
+  "Quality": 5,
+  "PetLevel": 39,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 540,
+  "Quality": 5,
+  "PetLevel": 40,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 541,
+  "Quality": 5,
+  "PetLevel": 41,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 542,
+  "Quality": 5,
+  "PetLevel": 42,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 543,
+  "Quality": 5,
+  "PetLevel": 43,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 544,
+  "Quality": 5,
+  "PetLevel": 44,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 545,
+  "Quality": 5,
+  "PetLevel": 45,
+  "AttrIDs": [
+   4
+  ],
+  "AttrVals": [
+   800
+  ]
+ },
+ {
+  "id": 546,
+  "Quality": 5,
+  "PetLevel": 46,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 547,
+  "Quality": 5,
+  "PetLevel": 47,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 548,
+  "Quality": 5,
+  "PetLevel": 48,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 549,
+  "Quality": 5,
+  "PetLevel": 49,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 550,
+  "Quality": 5,
+  "PetLevel": 50,
+  "AttrIDs": [
+   102
+  ],
+  "AttrVals": [
+   800
+  ]
+ },
+ {
+  "id": 551,
+  "Quality": 5,
+  "PetLevel": 51,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 552,
+  "Quality": 5,
+  "PetLevel": 52,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 553,
+  "Quality": 5,
+  "PetLevel": 53,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 554,
+  "Quality": 5,
+  "PetLevel": 54,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 555,
+  "Quality": 5,
+  "PetLevel": 55,
+  "AttrIDs": [
+   100
+  ],
+  "AttrVals": [
+   800
+  ]
+ },
+ {
+  "id": 556,
+  "Quality": 5,
+  "PetLevel": 56,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 557,
+  "Quality": 5,
+  "PetLevel": 57,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 558,
+  "Quality": 5,
+  "PetLevel": 58,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 559,
+  "Quality": 5,
+  "PetLevel": 59,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 560,
+  "Quality": 5,
+  "PetLevel": 60,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 561,
+  "Quality": 5,
+  "PetLevel": 61,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 562,
+  "Quality": 5,
+  "PetLevel": 62,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 563,
+  "Quality": 5,
+  "PetLevel": 63,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 564,
+  "Quality": 5,
+  "PetLevel": 64,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 565,
+  "Quality": 5,
+  "PetLevel": 65,
+  "AttrIDs": [
+   4
+  ],
+  "AttrVals": [
+   800
+  ]
+ },
+ {
+  "id": 566,
+  "Quality": 5,
+  "PetLevel": 66,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 567,
+  "Quality": 5,
+  "PetLevel": 67,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 568,
+  "Quality": 5,
+  "PetLevel": 68,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 569,
+  "Quality": 5,
+  "PetLevel": 69,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 570,
+  "Quality": 5,
+  "PetLevel": 70,
+  "AttrIDs": [
+   102
+  ],
+  "AttrVals": [
+   800
+  ]
+ },
+ {
+  "id": 571,
+  "Quality": 5,
+  "PetLevel": 71,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 572,
+  "Quality": 5,
+  "PetLevel": 72,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 573,
+  "Quality": 5,
+  "PetLevel": 73,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 574,
+  "Quality": 5,
+  "PetLevel": 74,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 575,
+  "Quality": 5,
+  "PetLevel": 75,
+  "AttrIDs": [
+   100
+  ],
+  "AttrVals": [
+   800
+  ]
+ },
+ {
+  "id": 576,
+  "Quality": 5,
+  "PetLevel": 76,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 577,
+  "Quality": 5,
+  "PetLevel": 77,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 578,
+  "Quality": 5,
+  "PetLevel": 78,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 579,
+  "Quality": 5,
+  "PetLevel": 79,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 580,
+  "Quality": 5,
+  "PetLevel": 80,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 581,
+  "Quality": 5,
+  "PetLevel": 81,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 582,
+  "Quality": 5,
+  "PetLevel": 82,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 583,
+  "Quality": 5,
+  "PetLevel": 83,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 584,
+  "Quality": 5,
+  "PetLevel": 84,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 585,
+  "Quality": 5,
+  "PetLevel": 85,
+  "AttrIDs": [
+   4
+  ],
+  "AttrVals": [
+   800
+  ]
+ },
+ {
+  "id": 586,
+  "Quality": 5,
+  "PetLevel": 86,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 587,
+  "Quality": 5,
+  "PetLevel": 87,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 588,
+  "Quality": 5,
+  "PetLevel": 88,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 589,
+  "Quality": 5,
+  "PetLevel": 89,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 590,
+  "Quality": 5,
+  "PetLevel": 90,
+  "AttrIDs": [
+   102
+  ],
+  "AttrVals": [
+   800
+  ]
+ },
+ {
+  "id": 591,
+  "Quality": 5,
+  "PetLevel": 91,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 592,
+  "Quality": 5,
+  "PetLevel": 92,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 593,
+  "Quality": 5,
+  "PetLevel": 93,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 594,
+  "Quality": 5,
+  "PetLevel": 94,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 595,
+  "Quality": 5,
+  "PetLevel": 95,
+  "AttrIDs": [
+   100
+  ],
+  "AttrVals": [
+   800
+  ]
+ },
+ {
+  "id": 596,
+  "Quality": 5,
+  "PetLevel": 96,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 597,
+  "Quality": 5,
+  "PetLevel": 97,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 598,
+  "Quality": 5,
+  "PetLevel": 98,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 599,
+  "Quality": 5,
+  "PetLevel": 99,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 600,
+  "Quality": 5,
+  "PetLevel": 100,
+  "AttrIDs": [
+   4
+  ],
+  "AttrVals": [
+   800
+  ]
+ },
+ {
+  "id": 601,
+  "Quality": 6,
+  "PetLevel": 1,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 602,
+  "Quality": 6,
+  "PetLevel": 2,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 603,
+  "Quality": 6,
+  "PetLevel": 3,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 604,
+  "Quality": 6,
+  "PetLevel": 4,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 605,
+  "Quality": 6,
+  "PetLevel": 5,
+  "AttrIDs": [
+   4
+  ],
+  "AttrVals": [
+   1000
+  ]
+ },
+ {
+  "id": 606,
+  "Quality": 6,
+  "PetLevel": 6,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 607,
+  "Quality": 6,
+  "PetLevel": 7,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 608,
+  "Quality": 6,
+  "PetLevel": 8,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 609,
+  "Quality": 6,
+  "PetLevel": 9,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 610,
+  "Quality": 6,
+  "PetLevel": 10,
+  "AttrIDs": [
+   102
+  ],
+  "AttrVals": [
+   1000
+  ]
+ },
+ {
+  "id": 611,
+  "Quality": 6,
+  "PetLevel": 11,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 612,
+  "Quality": 6,
+  "PetLevel": 12,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 613,
+  "Quality": 6,
+  "PetLevel": 13,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 614,
+  "Quality": 6,
+  "PetLevel": 14,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 615,
+  "Quality": 6,
+  "PetLevel": 15,
+  "AttrIDs": [
+   100
+  ],
+  "AttrVals": [
+   1000
+  ]
+ },
+ {
+  "id": 616,
+  "Quality": 6,
+  "PetLevel": 16,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 617,
+  "Quality": 6,
+  "PetLevel": 17,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 618,
+  "Quality": 6,
+  "PetLevel": 18,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 619,
+  "Quality": 6,
+  "PetLevel": 19,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 620,
+  "Quality": 6,
+  "PetLevel": 20,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 621,
+  "Quality": 6,
+  "PetLevel": 21,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 622,
+  "Quality": 6,
+  "PetLevel": 22,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 623,
+  "Quality": 6,
+  "PetLevel": 23,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 624,
+  "Quality": 6,
+  "PetLevel": 24,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 625,
+  "Quality": 6,
+  "PetLevel": 25,
+  "AttrIDs": [
+   4
+  ],
+  "AttrVals": [
+   1000
+  ]
+ },
+ {
+  "id": 626,
+  "Quality": 6,
+  "PetLevel": 26,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 627,
+  "Quality": 6,
+  "PetLevel": 27,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 628,
+  "Quality": 6,
+  "PetLevel": 28,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 629,
+  "Quality": 6,
+  "PetLevel": 29,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 630,
+  "Quality": 6,
+  "PetLevel": 30,
+  "AttrIDs": [
+   102
+  ],
+  "AttrVals": [
+   1000
+  ]
+ },
+ {
+  "id": 631,
+  "Quality": 6,
+  "PetLevel": 31,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 632,
+  "Quality": 6,
+  "PetLevel": 32,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 633,
+  "Quality": 6,
+  "PetLevel": 33,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 634,
+  "Quality": 6,
+  "PetLevel": 34,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 635,
+  "Quality": 6,
+  "PetLevel": 35,
+  "AttrIDs": [
+   100
+  ],
+  "AttrVals": [
+   1000
+  ]
+ },
+ {
+  "id": 636,
+  "Quality": 6,
+  "PetLevel": 36,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 637,
+  "Quality": 6,
+  "PetLevel": 37,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 638,
+  "Quality": 6,
+  "PetLevel": 38,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 639,
+  "Quality": 6,
+  "PetLevel": 39,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 640,
+  "Quality": 6,
+  "PetLevel": 40,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 641,
+  "Quality": 6,
+  "PetLevel": 41,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 642,
+  "Quality": 6,
+  "PetLevel": 42,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 643,
+  "Quality": 6,
+  "PetLevel": 43,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 644,
+  "Quality": 6,
+  "PetLevel": 44,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 645,
+  "Quality": 6,
+  "PetLevel": 45,
+  "AttrIDs": [
+   4
+  ],
+  "AttrVals": [
+   1000
+  ]
+ },
+ {
+  "id": 646,
+  "Quality": 6,
+  "PetLevel": 46,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 647,
+  "Quality": 6,
+  "PetLevel": 47,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 648,
+  "Quality": 6,
+  "PetLevel": 48,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 649,
+  "Quality": 6,
+  "PetLevel": 49,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 650,
+  "Quality": 6,
+  "PetLevel": 50,
+  "AttrIDs": [
+   102
+  ],
+  "AttrVals": [
+   1000
+  ]
+ },
+ {
+  "id": 651,
+  "Quality": 6,
+  "PetLevel": 51,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 652,
+  "Quality": 6,
+  "PetLevel": 52,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 653,
+  "Quality": 6,
+  "PetLevel": 53,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 654,
+  "Quality": 6,
+  "PetLevel": 54,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 655,
+  "Quality": 6,
+  "PetLevel": 55,
+  "AttrIDs": [
+   100
+  ],
+  "AttrVals": [
+   1000
+  ]
+ },
+ {
+  "id": 656,
+  "Quality": 6,
+  "PetLevel": 56,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 657,
+  "Quality": 6,
+  "PetLevel": 57,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 658,
+  "Quality": 6,
+  "PetLevel": 58,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 659,
+  "Quality": 6,
+  "PetLevel": 59,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 660,
+  "Quality": 6,
+  "PetLevel": 60,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 661,
+  "Quality": 6,
+  "PetLevel": 61,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 662,
+  "Quality": 6,
+  "PetLevel": 62,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 663,
+  "Quality": 6,
+  "PetLevel": 63,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 664,
+  "Quality": 6,
+  "PetLevel": 64,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 665,
+  "Quality": 6,
+  "PetLevel": 65,
+  "AttrIDs": [
+   4
+  ],
+  "AttrVals": [
+   1000
+  ]
+ },
+ {
+  "id": 666,
+  "Quality": 6,
+  "PetLevel": 66,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 667,
+  "Quality": 6,
+  "PetLevel": 67,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 668,
+  "Quality": 6,
+  "PetLevel": 68,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 669,
+  "Quality": 6,
+  "PetLevel": 69,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 670,
+  "Quality": 6,
+  "PetLevel": 70,
+  "AttrIDs": [
+   102
+  ],
+  "AttrVals": [
+   1000
+  ]
+ },
+ {
+  "id": 671,
+  "Quality": 6,
+  "PetLevel": 71,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 672,
+  "Quality": 6,
+  "PetLevel": 72,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 673,
+  "Quality": 6,
+  "PetLevel": 73,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 674,
+  "Quality": 6,
+  "PetLevel": 74,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 675,
+  "Quality": 6,
+  "PetLevel": 75,
+  "AttrIDs": [
+   100
+  ],
+  "AttrVals": [
+   1000
+  ]
+ },
+ {
+  "id": 676,
+  "Quality": 6,
+  "PetLevel": 76,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 677,
+  "Quality": 6,
+  "PetLevel": 77,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 678,
+  "Quality": 6,
+  "PetLevel": 78,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 679,
+  "Quality": 6,
+  "PetLevel": 79,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 680,
+  "Quality": 6,
+  "PetLevel": 80,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 681,
+  "Quality": 6,
+  "PetLevel": 81,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 682,
+  "Quality": 6,
+  "PetLevel": 82,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 683,
+  "Quality": 6,
+  "PetLevel": 83,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 684,
+  "Quality": 6,
+  "PetLevel": 84,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 685,
+  "Quality": 6,
+  "PetLevel": 85,
+  "AttrIDs": [
+   4
+  ],
+  "AttrVals": [
+   1000
+  ]
+ },
+ {
+  "id": 686,
+  "Quality": 6,
+  "PetLevel": 86,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 687,
+  "Quality": 6,
+  "PetLevel": 87,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 688,
+  "Quality": 6,
+  "PetLevel": 88,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 689,
+  "Quality": 6,
+  "PetLevel": 89,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 690,
+  "Quality": 6,
+  "PetLevel": 90,
+  "AttrIDs": [
+   102
+  ],
+  "AttrVals": [
+   1000
+  ]
+ },
+ {
+  "id": 691,
+  "Quality": 6,
+  "PetLevel": 91,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 692,
+  "Quality": 6,
+  "PetLevel": 92,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 693,
+  "Quality": 6,
+  "PetLevel": 93,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 694,
+  "Quality": 6,
+  "PetLevel": 94,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 695,
+  "Quality": 6,
+  "PetLevel": 95,
+  "AttrIDs": [
+   100
+  ],
+  "AttrVals": [
+   1000
+  ]
+ },
+ {
+  "id": 696,
+  "Quality": 6,
+  "PetLevel": 96,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 697,
+  "Quality": 6,
+  "PetLevel": 97,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 698,
+  "Quality": 6,
+  "PetLevel": 98,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 699,
+  "Quality": 6,
+  "PetLevel": 99,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "id": 700,
+  "Quality": 6,
+  "PetLevel": 100,
+  "AttrIDs": [
+   4
+  ],
+  "AttrVals": [
+   1000
+  ]
+ }
+]

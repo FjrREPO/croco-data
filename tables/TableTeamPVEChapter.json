@@ -1,0 +1,658 @@
+[
+ {
+  "ChapterID": 10001,
+  "MainLevelIDs": 9011,
+  "MainTeamPveIDs": 0,
+  "ChapterBossID": 840101,
+  "ChapterBGM": "",
+  "EnvironmentBGM": "",
+  "LevelCount": 10,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   2,
+   2,
+   2
+  ],
+  "AttrVals": [
+   -2600,
+   -7000,
+   6300
+  ],
+  "TeamPVEBuff1ID": [
+   1001,
+   1002,
+   1003,
+   1004,
+   1005,
+   1006
+  ],
+  "TeamPVEBuff2ID": [
+   1001,
+   1002,
+   1003,
+   1004,
+   1005,
+   1006
+  ],
+  "RefPower": 0
+ },
+ {
+  "ChapterID": 10002,
+  "MainLevelIDs": 9021,
+  "MainTeamPveIDs": 10001,
+  "ChapterBossID": 840106,
+  "ChapterBGM": "",
+  "EnvironmentBGM": "",
+  "LevelCount": 10,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   2,
+   2,
+   2
+  ],
+  "AttrVals": [
+   7300,
+   -3101,
+   59500
+  ],
+  "TeamPVEBuff1ID": [
+   1001,
+   1002,
+   1003,
+   1004,
+   1005,
+   1006
+  ],
+  "TeamPVEBuff2ID": [
+   1001,
+   1002,
+   1003,
+   1004,
+   1005,
+   1006
+  ],
+  "RefPower": 0
+ },
+ {
+  "ChapterID": 10003,
+  "MainLevelIDs": 9031,
+  "MainTeamPveIDs": 10002,
+  "ChapterBossID": 840105,
+  "ChapterBGM": "",
+  "EnvironmentBGM": "",
+  "LevelCount": 10,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   2,
+   2,
+   2
+  ],
+  "AttrVals": [
+   22400,
+   3000,
+   310400
+  ],
+  "TeamPVEBuff1ID": [
+   1001,
+   1002,
+   1003,
+   1004,
+   1005,
+   1006
+  ],
+  "TeamPVEBuff2ID": [
+   1001,
+   1002,
+   1003,
+   1004,
+   1005,
+   1006
+  ],
+  "RefPower": 0
+ },
+ {
+  "ChapterID": 10004,
+  "MainLevelIDs": 9041,
+  "MainTeamPveIDs": 10003,
+  "ChapterBossID": 840101,
+  "ChapterBGM": "",
+  "EnvironmentBGM": "",
+  "LevelCount": 10,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   2,
+   2,
+   2
+  ],
+  "AttrVals": [
+   56800,
+   16800,
+   1748000
+  ],
+  "TeamPVEBuff1ID": [
+   1001,
+   1002,
+   1003,
+   1004,
+   1005,
+   1006
+  ],
+  "TeamPVEBuff2ID": [
+   1001,
+   1002,
+   1003,
+   1004,
+   1005,
+   1006
+  ],
+  "RefPower": 0
+ },
+ {
+  "ChapterID": 10005,
+  "MainLevelIDs": 9051,
+  "MainTeamPveIDs": 10004,
+  "ChapterBossID": 820202,
+  "ChapterBGM": "",
+  "EnvironmentBGM": "",
+  "LevelCount": 10,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   2,
+   2,
+   2
+  ],
+  "AttrVals": [
+   76000,
+   24400,
+   2515200
+  ],
+  "TeamPVEBuff1ID": [
+   1001,
+   1002,
+   1003,
+   1004,
+   1005,
+   1006
+  ],
+  "TeamPVEBuff2ID": [
+   1001,
+   1002,
+   1003,
+   1004,
+   1005,
+   1006
+  ],
+  "RefPower": 0
+ },
+ {
+  "ChapterID": 10006,
+  "MainLevelIDs": 9061,
+  "MainTeamPveIDs": 10005,
+  "ChapterBossID": 840103,
+  "ChapterBGM": "",
+  "EnvironmentBGM": "",
+  "LevelCount": 10,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   2,
+   2,
+   2
+  ],
+  "AttrVals": [
+   113600,
+   39500,
+   4635900
+  ],
+  "TeamPVEBuff1ID": [
+   1001,
+   1002,
+   1003,
+   1004,
+   1005,
+   1006
+  ],
+  "TeamPVEBuff2ID": [
+   1001,
+   1002,
+   1003,
+   1004,
+   1005,
+   1006
+  ],
+  "RefPower": 0
+ },
+ {
+  "ChapterID": 10007,
+  "MainLevelIDs": 9071,
+  "MainTeamPveIDs": 10006,
+  "ChapterBossID": 840104,
+  "ChapterBGM": "",
+  "EnvironmentBGM": "",
+  "LevelCount": 10,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   2,
+   2,
+   2
+  ],
+  "AttrVals": [
+   168799,
+   61500,
+   8103600
+  ],
+  "TeamPVEBuff1ID": [
+   1001,
+   1002,
+   1003,
+   1004,
+   1005,
+   1006
+  ],
+  "TeamPVEBuff2ID": [
+   1001,
+   1002,
+   1003,
+   1004,
+   1005,
+   1006
+  ],
+  "RefPower": 0
+ },
+ {
+  "ChapterID": 10008,
+  "MainLevelIDs": 9081,
+  "MainTeamPveIDs": 10007,
+  "ChapterBossID": 840108,
+  "ChapterBGM": "",
+  "EnvironmentBGM": "",
+  "LevelCount": 10,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   2,
+   2,
+   2
+  ],
+  "AttrVals": [
+   307000,
+   116800,
+   21194400
+  ],
+  "TeamPVEBuff1ID": [
+   1001,
+   1002,
+   1003,
+   1004,
+   1005,
+   1006
+  ],
+  "TeamPVEBuff2ID": [
+   1001,
+   1002,
+   1003,
+   1004,
+   1005,
+   1006
+  ],
+  "RefPower": 0
+ },
+ {
+  "ChapterID": 10009,
+  "MainLevelIDs": 9091,
+  "MainTeamPveIDs": 10008,
+  "ChapterBossID": 840105,
+  "ChapterBGM": "",
+  "EnvironmentBGM": "",
+  "LevelCount": 10,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   2,
+   2,
+   2
+  ],
+  "AttrVals": [
+   581000,
+   226400,
+   59896600
+  ],
+  "TeamPVEBuff1ID": [
+   1001,
+   1002,
+   1003,
+   1004,
+   1005,
+   1006
+  ],
+  "TeamPVEBuff2ID": [
+   1001,
+   1002,
+   1003,
+   1004,
+   1005,
+   1006
+  ],
+  "RefPower": 0
+ },
+ {
+  "ChapterID": 10010,
+  "MainLevelIDs": 9101,
+  "MainTeamPveIDs": 10009,
+  "ChapterBossID": 840106,
+  "ChapterBGM": "",
+  "EnvironmentBGM": "",
+  "LevelCount": 10,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   2,
+   2,
+   2
+  ],
+  "AttrVals": [
+   747900,
+   293200,
+   96230700
+  ],
+  "TeamPVEBuff1ID": [
+   1001,
+   1002,
+   1003,
+   1004,
+   1005,
+   1006
+  ],
+  "TeamPVEBuff2ID": [
+   1001,
+   1002,
+   1003,
+   1004,
+   1005,
+   1006
+  ],
+  "RefPower": 0
+ },
+ {
+  "ChapterID": 10011,
+  "MainLevelIDs": 9111,
+  "MainTeamPveIDs": 10010,
+  "ChapterBossID": 840105,
+  "ChapterBGM": "",
+  "EnvironmentBGM": "",
+  "LevelCount": 10,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   2,
+   2,
+   2
+  ],
+  "AttrVals": [
+   1015500,
+   400099,
+   157092200
+  ],
+  "TeamPVEBuff1ID": [
+   1001,
+   1002,
+   1003,
+   1004,
+   1005,
+   1006
+  ],
+  "TeamPVEBuff2ID": [
+   1001,
+   1002,
+   1003,
+   1004,
+   1005,
+   1006
+  ],
+  "RefPower": 0
+ },
+ {
+  "ChapterID": 10012,
+  "MainLevelIDs": 9121,
+  "MainTeamPveIDs": 10011,
+  "ChapterBossID": 840101,
+  "ChapterBGM": "",
+  "EnvironmentBGM": "",
+  "LevelCount": 10,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   2,
+   2,
+   2
+  ],
+  "AttrVals": [
+   1339900,
+   530000,
+   242721300
+  ],
+  "TeamPVEBuff1ID": [
+   1001,
+   1002,
+   1003,
+   1004,
+   1005,
+   1006
+  ],
+  "TeamPVEBuff2ID": [
+   1001,
+   1002,
+   1003,
+   1004,
+   1005,
+   1006
+  ],
+  "RefPower": 0
+ },
+ {
+  "ChapterID": 10013,
+  "MainLevelIDs": 9131,
+  "MainTeamPveIDs": 10012,
+  "ChapterBossID": 820202,
+  "ChapterBGM": "",
+  "EnvironmentBGM": "",
+  "LevelCount": 10,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   2,
+   2,
+   2
+  ],
+  "AttrVals": [
+   1547800,
+   613300,
+   293772100
+  ],
+  "TeamPVEBuff1ID": [
+   1001,
+   1002,
+   1003,
+   1004,
+   1005,
+   1006
+  ],
+  "TeamPVEBuff2ID": [
+   1001,
+   1002,
+   1003,
+   1004,
+   1005,
+   1006
+  ],
+  "RefPower": 0
+ },
+ {
+  "ChapterID": 10014,
+  "MainLevelIDs": 9141,
+  "MainTeamPveIDs": 10013,
+  "ChapterBossID": 840103,
+  "ChapterBGM": "",
+  "EnvironmentBGM": "",
+  "LevelCount": 10,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   2,
+   2,
+   2
+  ],
+  "AttrVals": [
+   1992100,
+   791000,
+   449197799
+  ],
+  "TeamPVEBuff1ID": [
+   1001,
+   1002,
+   1003,
+   1004,
+   1005,
+   1006
+  ],
+  "TeamPVEBuff2ID": [
+   1001,
+   1002,
+   1003,
+   1004,
+   1005,
+   1006
+  ],
+  "RefPower": 0
+ },
+ {
+  "ChapterID": 10015,
+  "MainLevelIDs": 9151,
+  "MainTeamPveIDs": 10014,
+  "ChapterBossID": 840104,
+  "ChapterBGM": "",
+  "EnvironmentBGM": "",
+  "LevelCount": 10,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   2,
+   2,
+   2
+  ],
+  "AttrVals": [
+   2489500,
+   989800,
+   608382300
+  ],
+  "TeamPVEBuff1ID": [
+   1001,
+   1002,
+   1003,
+   1004,
+   1005,
+   1006
+  ],
+  "TeamPVEBuff2ID": [
+   1001,
+   1002,
+   1003,
+   1004,
+   1005,
+   1006
+  ],
+  "RefPower": 0
+ },
+ {
+  "ChapterID": 10016,
+  "MainLevelIDs": 9161,
+  "MainTeamPveIDs": 10015,
+  "ChapterBossID": 840108,
+  "ChapterBGM": "",
+  "EnvironmentBGM": "",
+  "LevelCount": 10,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   2,
+   2,
+   2
+  ],
+  "AttrVals": [
+   4801800,
+   1914900,
+   1701099800
+  ],
+  "TeamPVEBuff1ID": [
+   1001,
+   1002,
+   1003,
+   1004,
+   1005,
+   1006
+  ],
+  "TeamPVEBuff2ID": [
+   1001,
+   1002,
+   1003,
+   1004,
+   1005,
+   1006
+  ],
+  "RefPower": 0
+ }
+]

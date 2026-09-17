@@ -1,0 +1,687 @@
+[
+ {
+  "SkillID": 1105,
+  "ReleaseCondition": [],
+  "PickCamp": 2,
+  "EffectIDs": {
+   "Key": "",
+   "List": [
+    1105
+   ]
+  }
+ },
+ {
+  "SkillID": 3045,
+  "ReleaseCondition": [],
+  "PickCamp": 2,
+  "EffectIDs": {
+   "Key": "",
+   "List": [
+    3045
+   ]
+  }
+ },
+ {
+  "SkillID": 10021,
+  "ReleaseCondition": [],
+  "PickCamp": 2,
+  "EffectIDs": {
+   "Key": "",
+   "List": [
+    100210
+   ]
+  }
+ },
+ {
+  "SkillID": 10024,
+  "ReleaseCondition": [],
+  "PickCamp": 2,
+  "EffectIDs": {
+   "Key": "",
+   "List": [
+    570701
+   ]
+  }
+ },
+ {
+  "SkillID": 20003,
+  "ReleaseCondition": [
+   900200030
+  ],
+  "PickCamp": 2,
+  "EffectIDs": {
+   "Key": "",
+   "List": [
+    20003
+   ]
+  }
+ },
+ {
+  "SkillID": 90000610,
+  "ReleaseCondition": [],
+  "PickCamp": 2,
+  "EffectIDs": {
+   "Key": "",
+   "List": [
+    90000610
+   ]
+  }
+ },
+ {
+  "SkillID": 90000620,
+  "ReleaseCondition": [],
+  "PickCamp": 2,
+  "EffectIDs": {
+   "Key": "",
+   "List": [
+    90000620
+   ]
+  }
+ },
+ {
+  "SkillID": 90000630,
+  "ReleaseCondition": [],
+  "PickCamp": 2,
+  "EffectIDs": {
+   "Key": "",
+   "List": [
+    90000630
+   ]
+  }
+ },
+ {
+  "SkillID": 120202311,
+  "ReleaseCondition": [
+   2002
+  ],
+  "PickCamp": 2,
+  "EffectIDs": {
+   "Key": "",
+   "List": [
+    120202312
+   ]
+  }
+ },
+ {
+  "SkillID": 130604210,
+  "ReleaseCondition": [],
+  "PickCamp": 2,
+  "EffectIDs": {
+   "Key": "",
+   "List": [
+    130604210
+   ]
+  }
+ },
+ {
+  "SkillID": 130604220,
+  "ReleaseCondition": [],
+  "PickCamp": 2,
+  "EffectIDs": {
+   "Key": "",
+   "List": [
+    130604220
+   ]
+  }
+ },
+ {
+  "SkillID": 130604230,
+  "ReleaseCondition": [],
+  "PickCamp": 2,
+  "EffectIDs": {
+   "Key": "",
+   "List": [
+    130604230
+   ]
+  }
+ },
+ {
+  "SkillID": 130604310,
+  "ReleaseCondition": [],
+  "PickCamp": 2,
+  "EffectIDs": {
+   "Key": "",
+   "List": [
+    130604310
+   ]
+  }
+ },
+ {
+  "SkillID": 130604320,
+  "ReleaseCondition": [],
+  "PickCamp": 2,
+  "EffectIDs": {
+   "Key": "",
+   "List": [
+    130604320
+   ]
+  }
+ },
+ {
+  "SkillID": 130604330,
+  "ReleaseCondition": [],
+  "PickCamp": 2,
+  "EffectIDs": {
+   "Key": "",
+   "List": [
+    130604330
+   ]
+  }
+ },
+ {
+  "SkillID": 140202310,
+  "ReleaseCondition": [],
+  "PickCamp": 2,
+  "EffectIDs": {
+   "Key": "",
+   "List": [
+    140202310,
+    140202312
+   ]
+  }
+ },
+ {
+  "SkillID": 140202320,
+  "ReleaseCondition": [],
+  "PickCamp": 2,
+  "EffectIDs": {
+   "Key": "",
+   "List": [
+    140202320,
+    140202312
+   ]
+  }
+ },
+ {
+  "SkillID": 140202330,
+  "ReleaseCondition": [],
+  "PickCamp": 2,
+  "EffectIDs": {
+   "Key": "",
+   "List": [
+    140202330,
+    140202312
+   ]
+  }
+ },
+ {
+  "SkillID": 820204210,
+  "ReleaseCondition": [],
+  "PickCamp": 2,
+  "EffectIDs": {
+   "Key": "",
+   "List": [
+    820204210
+   ]
+  }
+ },
+ {
+  "SkillID": 910201110,
+  "ReleaseCondition": [],
+  "PickCamp": 2,
+  "EffectIDs": {
+   "Key": "",
+   "List": [
+    910201110
+   ]
+  }
+ },
+ {
+  "SkillID": 910301110,
+  "ReleaseCondition": [],
+  "PickCamp": 2,
+  "EffectIDs": {
+   "Key": "",
+   "List": [
+    910301110
+   ]
+  }
+ },
+ {
+  "SkillID": 120603211,
+  "ReleaseCondition": [],
+  "PickCamp": 2,
+  "EffectIDs": {
+   "Key": "",
+   "List": [
+    120603212
+   ]
+  }
+ },
+ {
+  "SkillID": 101061,
+  "ReleaseCondition": [
+   900101060
+  ],
+  "PickCamp": 2,
+  "EffectIDs": {
+   "Key": "",
+   "List": [
+    -1,
+    10104,
+    25,
+    101041,
+    25,
+    101042,
+    25,
+    101043,
+    25
+   ]
+  }
+ },
+ {
+  "SkillID": 110603710,
+  "ReleaseCondition": [
+   2001,
+   110603710
+  ],
+  "PickCamp": 2,
+  "EffectIDs": {
+   "Key": "",
+   "List": [
+    110603710
+   ]
+  }
+ },
+ {
+  "SkillID": 130603911,
+  "ReleaseCondition": [
+   20008,
+   130603911
+  ],
+  "PickCamp": 2,
+  "EffectIDs": {
+   "Key": "",
+   "List": [
+    130603111
+   ]
+  }
+ },
+ {
+  "SkillID": 120702610,
+  "ReleaseCondition": [
+   2001,
+   120702610
+  ],
+  "PickCamp": 2,
+  "EffectIDs": {
+   "Key": "",
+   "List": [
+    120702610
+   ]
+  }
+ },
+ {
+  "SkillID": 110202710,
+  "ReleaseCondition": [
+   110202710,
+   2002
+  ],
+  "PickCamp": 2,
+  "EffectIDs": {
+   "Key": "",
+   "List": [
+    110202710
+   ]
+  }
+ },
+ {
+  "SkillID": 1003452,
+  "ReleaseCondition": [
+   2001
+  ],
+  "PickCamp": 2,
+  "EffectIDs": {
+   "Key": "",
+   "List": [
+    1003452
+   ]
+  }
+ },
+ {
+  "SkillID": 1004452,
+  "ReleaseCondition": [
+   2010
+  ],
+  "PickCamp": 2,
+  "EffectIDs": {
+   "Key": "",
+   "List": [
+    1004452
+   ]
+  }
+ },
+ {
+  "SkillID": 1005452,
+  "ReleaseCondition": [
+   2002
+  ],
+  "PickCamp": 2,
+  "EffectIDs": {
+   "Key": "",
+   "List": [
+    1005452
+   ]
+  }
+ },
+ {
+  "SkillID": 1006452,
+  "ReleaseCondition": [
+   2011
+  ],
+  "PickCamp": 2,
+  "EffectIDs": {
+   "Key": "",
+   "List": [
+    1006452
+   ]
+  }
+ },
+ {
+  "SkillID": 505003210,
+  "ReleaseCondition": [
+   2006
+  ],
+  "PickCamp": 2,
+  "EffectIDs": {
+   "Key": "",
+   "List": [
+    505003210,
+    505003211
+   ]
+  }
+ },
+ {
+  "SkillID": 505003220,
+  "ReleaseCondition": [
+   2007
+  ],
+  "PickCamp": 2,
+  "EffectIDs": {
+   "Key": "",
+   "List": [
+    505003220,
+    505003211
+   ]
+  }
+ },
+ {
+  "SkillID": 505003230,
+  "ReleaseCondition": [
+   2008
+  ],
+  "PickCamp": 2,
+  "EffectIDs": {
+   "Key": "",
+   "List": [
+    505003230,
+    505003211
+   ]
+  }
+ },
+ {
+  "SkillID": 505003240,
+  "ReleaseCondition": [
+   2009
+  ],
+  "PickCamp": 2,
+  "EffectIDs": {
+   "Key": "",
+   "List": [
+    505003240,
+    505003211
+   ]
+  }
+ },
+ {
+  "SkillID": 505003250,
+  "ReleaseCondition": [],
+  "PickCamp": 2,
+  "EffectIDs": {
+   "Key": "",
+   "List": [
+    505003250,
+    505003211
+   ]
+  }
+ },
+ {
+  "SkillID": 505003410,
+  "ReleaseCondition": [
+   2006
+  ],
+  "PickCamp": 2,
+  "EffectIDs": {
+   "Key": "",
+   "List": [
+    505003210,
+    505003410
+   ]
+  }
+ },
+ {
+  "SkillID": 505003420,
+  "ReleaseCondition": [
+   2007
+  ],
+  "PickCamp": 2,
+  "EffectIDs": {
+   "Key": "",
+   "List": [
+    505003220,
+    505003410
+   ]
+  }
+ },
+ {
+  "SkillID": 505003430,
+  "ReleaseCondition": [
+   2008
+  ],
+  "PickCamp": 2,
+  "EffectIDs": {
+   "Key": "",
+   "List": [
+    505003230,
+    505003410
+   ]
+  }
+ },
+ {
+  "SkillID": 505003440,
+  "ReleaseCondition": [
+   2009
+  ],
+  "PickCamp": 2,
+  "EffectIDs": {
+   "Key": "",
+   "List": [
+    505003240,
+    505003410
+   ]
+  }
+ },
+ {
+  "SkillID": 505003450,
+  "ReleaseCondition": [],
+  "PickCamp": 2,
+  "EffectIDs": {
+   "Key": "",
+   "List": [
+    505003250,
+    505003410
+   ]
+  }
+ },
+ {
+  "SkillID": 2110402311,
+  "ReleaseCondition": [
+   2110402310
+  ],
+  "PickCamp": 2,
+  "EffectIDs": {
+   "Key": "",
+   "List": [
+    2110402311
+   ]
+  }
+ },
+ {
+  "SkillID": 2130202111,
+  "ReleaseCondition": [],
+  "PickCamp": 2,
+  "EffectIDs": {
+   "Key": "",
+   "List": [
+    2130202112
+   ]
+  }
+ },
+ {
+  "SkillID": 2130202210,
+  "ReleaseCondition": [
+   2130202210,
+   2002
+  ],
+  "PickCamp": 2,
+  "EffectIDs": {
+   "Key": "@2130202210",
+   "List": []
+  }
+ },
+ {
+  "SkillID": 2130601211,
+  "ReleaseCondition": [],
+  "PickCamp": 2,
+  "EffectIDs": {
+   "Key": "",
+   "List": [
+    2130601212
+   ]
+  }
+ },
+ {
+  "SkillID": 110202111,
+  "ReleaseCondition": [
+   110202111,
+   110202110
+  ],
+  "PickCamp": 2,
+  "EffectIDs": {
+   "Key": "@110202111",
+   "List": []
+  }
+ },
+ {
+  "SkillID": 1005349,
+  "ReleaseCondition": [
+   2002
+  ],
+  "PickCamp": 2,
+  "EffectIDs": {
+   "Key": "",
+   "List": [
+    1005349
+   ]
+  }
+ },
+ {
+  "SkillID": 1006349,
+  "ReleaseCondition": [
+   2012
+  ],
+  "PickCamp": 2,
+  "EffectIDs": {
+   "Key": "",
+   "List": [
+    1006349
+   ]
+  }
+ },
+ {
+  "SkillID": 840111211,
+  "ReleaseCondition": [],
+  "PickCamp": 2,
+  "EffectIDs": {
+   "Key": "",
+   "List": [
+    840111211
+   ]
+  }
+ },
+ {
+  "SkillID": 840101211,
+  "ReleaseCondition": [],
+  "PickCamp": 2,
+  "EffectIDs": {
+   "Key": "",
+   "List": [
+    840101211
+   ]
+  }
+ },
+ {
+  "SkillID": 1130603411,
+  "ReleaseCondition": [],
+  "PickCamp": 2,
+  "EffectIDs": {
+   "Key": "",
+   "List": [
+    1130603412
+   ]
+  }
+ },
+ {
+  "SkillID": 830204510,
+  "ReleaseCondition": [],
+  "PickCamp": 2,
+  "EffectIDs": {
+   "Key": "",
+   "List": [
+    830204510,
+    830204511,
+    830204512,
+    830204513
+   ]
+  }
+ },
+ {
+  "SkillID": 840114211,
+  "ReleaseCondition": [],
+  "PickCamp": 2,
+  "EffectIDs": {
+   "Key": "",
+   "List": [
+    840114210
+   ]
+  }
+ },
+ {
+  "SkillID": 1110502410,
+  "ReleaseCondition": [
+   1110502410,
+   110502114
+  ],
+  "PickCamp": 2,
+  "EffectIDs": {
+   "Key": "",
+   "List": [
+    1110502410,
+    1110502411
+   ]
+  }
+ },
+ {
+  "SkillID": 1006457,
+  "ReleaseCondition": [
+   2011
+  ],
+  "PickCamp": 2,
+  "EffectIDs": {
+   "Key": "",
+   "List": [
+    1006457
+   ]
+  }
+ }
+]

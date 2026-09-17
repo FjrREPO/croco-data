@@ -1,0 +1,4618 @@
+[
+ {
+  "ID": 1,
+  "GropID": 100007,
+  "RewardID": 110604,
+  "RewardNum": 1,
+  "LimitNum": 0,
+  "Drop": 10
+ },
+ {
+  "ID": 2,
+  "GropID": 100007,
+  "RewardID": 120603,
+  "RewardNum": 1,
+  "LimitNum": 0,
+  "Drop": 10
+ },
+ {
+  "ID": 3,
+  "GropID": 100007,
+  "RewardID": 130603,
+  "RewardNum": 1,
+  "LimitNum": 0,
+  "Drop": 10
+ },
+ {
+  "ID": 4,
+  "GropID": 100007,
+  "RewardID": 410101,
+  "RewardNum": 1,
+  "LimitNum": 0,
+  "Drop": 10
+ },
+ {
+  "ID": 5,
+  "GropID": 100007,
+  "RewardID": 430301,
+  "RewardNum": 1,
+  "LimitNum": 0,
+  "Drop": 10
+ },
+ {
+  "ID": 6,
+  "GropID": 100007,
+  "RewardID": 440201,
+  "RewardNum": 1,
+  "LimitNum": 0,
+  "Drop": 10
+ },
+ {
+  "ID": 7,
+  "GropID": 100007,
+  "RewardID": 440401,
+  "RewardNum": 1,
+  "LimitNum": 0,
+  "Drop": 10
+ },
+ {
+  "ID": 8,
+  "GropID": 100007,
+  "RewardID": 450101,
+  "RewardNum": 1,
+  "LimitNum": 0,
+  "Drop": 10
+ },
+ {
+  "ID": 9,
+  "GropID": 100006,
+  "RewardID": 110402,
+  "RewardNum": 2,
+  "LimitNum": 0,
+  "Drop": 10
+ },
+ {
+  "ID": 10,
+  "GropID": 100006,
+  "RewardID": 110602,
+  "RewardNum": 2,
+  "LimitNum": 0,
+  "Drop": 10
+ },
+ {
+  "ID": 11,
+  "GropID": 100006,
+  "RewardID": 110603,
+  "RewardNum": 2,
+  "LimitNum": 0,
+  "Drop": 10
+ },
+ {
+  "ID": 12,
+  "GropID": 100006,
+  "RewardID": 130601,
+  "RewardNum": 2,
+  "LimitNum": 0,
+  "Drop": 10
+ },
+ {
+  "ID": 13,
+  "GropID": 100006,
+  "RewardID": 140402,
+  "RewardNum": 2,
+  "LimitNum": 0,
+  "Drop": 10
+ },
+ {
+  "ID": 14,
+  "GropID": 100006,
+  "RewardID": 140403,
+  "RewardNum": 2,
+  "LimitNum": 0,
+  "Drop": 10
+ },
+ {
+  "ID": 15,
+  "GropID": 100006,
+  "RewardID": 140404,
+  "RewardNum": 2,
+  "LimitNum": 0,
+  "Drop": 10
+ },
+ {
+  "ID": 16,
+  "GropID": 100006,
+  "RewardID": 420101,
+  "RewardNum": 2,
+  "LimitNum": 0,
+  "Drop": 10
+ },
+ {
+  "ID": 17,
+  "GropID": 100005,
+  "RewardID": 140201,
+  "RewardNum": 1,
+  "LimitNum": 0,
+  "Drop": 10
+ },
+ {
+  "ID": 18,
+  "GropID": 100005,
+  "RewardID": 140202,
+  "RewardNum": 1,
+  "LimitNum": 0,
+  "Drop": 10
+ },
+ {
+  "ID": 19,
+  "GropID": 100005,
+  "RewardID": 110202,
+  "RewardNum": 1,
+  "LimitNum": 0,
+  "Drop": 10
+ },
+ {
+  "ID": 20,
+  "GropID": 100005,
+  "RewardID": 120602,
+  "RewardNum": 1,
+  "LimitNum": 0,
+  "Drop": 10
+ },
+ {
+  "ID": 21,
+  "GropID": 100005,
+  "RewardID": 120301,
+  "RewardNum": 1,
+  "LimitNum": 0,
+  "Drop": 10
+ },
+ {
+  "ID": 22,
+  "GropID": 100005,
+  "RewardID": 130401,
+  "RewardNum": 1,
+  "LimitNum": 0,
+  "Drop": 10
+ },
+ {
+  "ID": 23,
+  "GropID": 100005,
+  "RewardID": 120302,
+  "RewardNum": 1,
+  "LimitNum": 0,
+  "Drop": 10
+ },
+ {
+  "ID": 24,
+  "GropID": 100005,
+  "RewardID": 140304,
+  "RewardNum": 1,
+  "LimitNum": 0,
+  "Drop": 10
+ },
+ {
+  "ID": 25,
+  "GropID": 100004,
+  "RewardID": 110201,
+  "RewardNum": 1,
+  "LimitNum": 0,
+  "Drop": 10
+ },
+ {
+  "ID": 26,
+  "GropID": 100004,
+  "RewardID": 120202,
+  "RewardNum": 1,
+  "LimitNum": 0,
+  "Drop": 10
+ },
+ {
+  "ID": 27,
+  "GropID": 100004,
+  "RewardID": 130202,
+  "RewardNum": 1,
+  "LimitNum": 0,
+  "Drop": 10
+ },
+ {
+  "ID": 28,
+  "GropID": 100004,
+  "RewardID": 110302,
+  "RewardNum": 1,
+  "LimitNum": 0,
+  "Drop": 10
+ },
+ {
+  "ID": 29,
+  "GropID": 100004,
+  "RewardID": 140301,
+  "RewardNum": 1,
+  "LimitNum": 0,
+  "Drop": 10
+ },
+ {
+  "ID": 30,
+  "GropID": 100004,
+  "RewardID": 130402,
+  "RewardNum": 1,
+  "LimitNum": 0,
+  "Drop": 10
+ },
+ {
+  "ID": 31,
+  "GropID": 100004,
+  "RewardID": 130501,
+  "RewardNum": 1,
+  "LimitNum": 0,
+  "Drop": 10
+ },
+ {
+  "ID": 32,
+  "GropID": 100004,
+  "RewardID": 140401,
+  "RewardNum": 1,
+  "LimitNum": 0,
+  "Drop": 10
+ },
+ {
+  "ID": 33,
+  "GropID": 100003,
+  "RewardID": 2140201,
+  "RewardNum": 3,
+  "LimitNum": 0,
+  "Drop": 10
+ },
+ {
+  "ID": 34,
+  "GropID": 100003,
+  "RewardID": 2140202,
+  "RewardNum": 3,
+  "LimitNum": 0,
+  "Drop": 10
+ },
+ {
+  "ID": 35,
+  "GropID": 100003,
+  "RewardID": 2110202,
+  "RewardNum": 3,
+  "LimitNum": 0,
+  "Drop": 10
+ },
+ {
+  "ID": 36,
+  "GropID": 100003,
+  "RewardID": 2120602,
+  "RewardNum": 3,
+  "LimitNum": 0,
+  "Drop": 10
+ },
+ {
+  "ID": 37,
+  "GropID": 100003,
+  "RewardID": 2120301,
+  "RewardNum": 3,
+  "LimitNum": 0,
+  "Drop": 10
+ },
+ {
+  "ID": 38,
+  "GropID": 100003,
+  "RewardID": 2130401,
+  "RewardNum": 3,
+  "LimitNum": 0,
+  "Drop": 10
+ },
+ {
+  "ID": 39,
+  "GropID": 100003,
+  "RewardID": 2120302,
+  "RewardNum": 3,
+  "LimitNum": 0,
+  "Drop": 10
+ },
+ {
+  "ID": 40,
+  "GropID": 100003,
+  "RewardID": 2140304,
+  "RewardNum": 3,
+  "LimitNum": 0,
+  "Drop": 10
+ },
+ {
+  "ID": 41,
+  "GropID": 100002,
+  "RewardID": 2110201,
+  "RewardNum": 3,
+  "LimitNum": 0,
+  "Drop": 10
+ },
+ {
+  "ID": 42,
+  "GropID": 100002,
+  "RewardID": 2120202,
+  "RewardNum": 3,
+  "LimitNum": 0,
+  "Drop": 10
+ },
+ {
+  "ID": 43,
+  "GropID": 100002,
+  "RewardID": 2130202,
+  "RewardNum": 3,
+  "LimitNum": 0,
+  "Drop": 10
+ },
+ {
+  "ID": 44,
+  "GropID": 100002,
+  "RewardID": 2110302,
+  "RewardNum": 3,
+  "LimitNum": 0,
+  "Drop": 10
+ },
+ {
+  "ID": 45,
+  "GropID": 100002,
+  "RewardID": 2140301,
+  "RewardNum": 3,
+  "LimitNum": 0,
+  "Drop": 10
+ },
+ {
+  "ID": 46,
+  "GropID": 100002,
+  "RewardID": 2130402,
+  "RewardNum": 3,
+  "LimitNum": 0,
+  "Drop": 10
+ },
+ {
+  "ID": 47,
+  "GropID": 100002,
+  "RewardID": 2130501,
+  "RewardNum": 3,
+  "LimitNum": 0,
+  "Drop": 10
+ },
+ {
+  "ID": 48,
+  "GropID": 100002,
+  "RewardID": 2140401,
+  "RewardNum": 3,
+  "LimitNum": 0,
+  "Drop": 10
+ },
+ {
+  "ID": 49,
+  "GropID": 100001,
+  "RewardID": 141,
+  "RewardNum": 300,
+  "LimitNum": 0,
+  "Drop": 3846
+ },
+ {
+  "ID": 50,
+  "GropID": 100001,
+  "RewardID": 174,
+  "RewardNum": 1,
+  "LimitNum": 0,
+  "Drop": 577
+ },
+ {
+  "ID": 51,
+  "GropID": 100001,
+  "RewardID": 232,
+  "RewardNum": 60,
+  "LimitNum": 0,
+  "Drop": 84
+ },
+ {
+  "ID": 52,
+  "GropID": 100001,
+  "RewardID": 233,
+  "RewardNum": 60,
+  "LimitNum": 0,
+  "Drop": 84
+ },
+ {
+  "ID": 53,
+  "GropID": 100001,
+  "RewardID": 234,
+  "RewardNum": 60,
+  "LimitNum": 0,
+  "Drop": 84
+ },
+ {
+  "ID": 54,
+  "GropID": 100001,
+  "RewardID": 235,
+  "RewardNum": 60,
+  "LimitNum": 0,
+  "Drop": 84
+ },
+ {
+  "ID": 55,
+  "GropID": 100001,
+  "RewardID": 236,
+  "RewardNum": 60,
+  "LimitNum": 0,
+  "Drop": 84
+ },
+ {
+  "ID": 56,
+  "GropID": 100001,
+  "RewardID": 237,
+  "RewardNum": 60,
+  "LimitNum": 0,
+  "Drop": 84
+ },
+ {
+  "ID": 57,
+  "GropID": 100001,
+  "RewardID": 238,
+  "RewardNum": 60,
+  "LimitNum": 0,
+  "Drop": 84
+ },
+ {
+  "ID": 58,
+  "GropID": 100001,
+  "RewardID": 239,
+  "RewardNum": 60,
+  "LimitNum": 0,
+  "Drop": 84
+ },
+ {
+  "ID": 59,
+  "GropID": 100001,
+  "RewardID": 232,
+  "RewardNum": 30,
+  "LimitNum": 0,
+  "Drop": 240
+ },
+ {
+  "ID": 60,
+  "GropID": 100001,
+  "RewardID": 233,
+  "RewardNum": 30,
+  "LimitNum": 0,
+  "Drop": 240
+ },
+ {
+  "ID": 61,
+  "GropID": 100001,
+  "RewardID": 234,
+  "RewardNum": 30,
+  "LimitNum": 0,
+  "Drop": 240
+ },
+ {
+  "ID": 62,
+  "GropID": 100001,
+  "RewardID": 235,
+  "RewardNum": 30,
+  "LimitNum": 0,
+  "Drop": 240
+ },
+ {
+  "ID": 63,
+  "GropID": 100001,
+  "RewardID": 236,
+  "RewardNum": 30,
+  "LimitNum": 0,
+  "Drop": 240
+ },
+ {
+  "ID": 64,
+  "GropID": 100001,
+  "RewardID": 237,
+  "RewardNum": 30,
+  "LimitNum": 0,
+  "Drop": 240
+ },
+ {
+  "ID": 65,
+  "GropID": 100001,
+  "RewardID": 238,
+  "RewardNum": 30,
+  "LimitNum": 0,
+  "Drop": 240
+ },
+ {
+  "ID": 66,
+  "GropID": 100001,
+  "RewardID": 239,
+  "RewardNum": 30,
+  "LimitNum": 0,
+  "Drop": 240
+ },
+ {
+  "ID": 67,
+  "GropID": 100001,
+  "RewardID": 232,
+  "RewardNum": 10,
+  "LimitNum": 0,
+  "Drop": 373
+ },
+ {
+  "ID": 68,
+  "GropID": 100001,
+  "RewardID": 233,
+  "RewardNum": 10,
+  "LimitNum": 0,
+  "Drop": 373
+ },
+ {
+  "ID": 69,
+  "GropID": 100001,
+  "RewardID": 234,
+  "RewardNum": 10,
+  "LimitNum": 0,
+  "Drop": 373
+ },
+ {
+  "ID": 70,
+  "GropID": 100001,
+  "RewardID": 235,
+  "RewardNum": 10,
+  "LimitNum": 0,
+  "Drop": 373
+ },
+ {
+  "ID": 71,
+  "GropID": 100001,
+  "RewardID": 236,
+  "RewardNum": 10,
+  "LimitNum": 0,
+  "Drop": 373
+ },
+ {
+  "ID": 72,
+  "GropID": 100001,
+  "RewardID": 237,
+  "RewardNum": 10,
+  "LimitNum": 0,
+  "Drop": 373
+ },
+ {
+  "ID": 73,
+  "GropID": 100001,
+  "RewardID": 238,
+  "RewardNum": 10,
+  "LimitNum": 0,
+  "Drop": 373
+ },
+ {
+  "ID": 74,
+  "GropID": 100001,
+  "RewardID": 239,
+  "RewardNum": 10,
+  "LimitNum": 0,
+  "Drop": 373
+ },
+ {
+  "ID": 75,
+  "GropID": 300003,
+  "RewardID": 110402,
+  "RewardNum": 1,
+  "LimitNum": 0,
+  "Drop": 223
+ },
+ {
+  "ID": 76,
+  "GropID": 300003,
+  "RewardID": 110602,
+  "RewardNum": 1,
+  "LimitNum": 0,
+  "Drop": 223
+ },
+ {
+  "ID": 77,
+  "GropID": 300003,
+  "RewardID": 110603,
+  "RewardNum": 1,
+  "LimitNum": 0,
+  "Drop": 223
+ },
+ {
+  "ID": 78,
+  "GropID": 300003,
+  "RewardID": 130601,
+  "RewardNum": 1,
+  "LimitNum": 0,
+  "Drop": 223
+ },
+ {
+  "ID": 79,
+  "GropID": 300003,
+  "RewardID": 140402,
+  "RewardNum": 1,
+  "LimitNum": 0,
+  "Drop": 223
+ },
+ {
+  "ID": 80,
+  "GropID": 300003,
+  "RewardID": 140403,
+  "RewardNum": 1,
+  "LimitNum": 0,
+  "Drop": 223
+ },
+ {
+  "ID": 81,
+  "GropID": 300003,
+  "RewardID": 140404,
+  "RewardNum": 1,
+  "LimitNum": 0,
+  "Drop": 223
+ },
+ {
+  "ID": 82,
+  "GropID": 300003,
+  "RewardID": 420101,
+  "RewardNum": 1,
+  "LimitNum": 0,
+  "Drop": 223
+ },
+ {
+  "ID": 83,
+  "GropID": 300003,
+  "RewardID": 110604,
+  "RewardNum": 1,
+  "LimitNum": 0,
+  "Drop": 223
+ },
+ {
+  "ID": 84,
+  "GropID": 300004,
+  "RewardID": 120603,
+  "RewardNum": 1,
+  "LimitNum": 0,
+  "Drop": 20
+ },
+ {
+  "ID": 85,
+  "GropID": 300004,
+  "RewardID": 130603,
+  "RewardNum": 1,
+  "LimitNum": 0,
+  "Drop": 20
+ },
+ {
+  "ID": 86,
+  "GropID": 300004,
+  "RewardID": 410101,
+  "RewardNum": 1,
+  "LimitNum": 0,
+  "Drop": 20
+ },
+ {
+  "ID": 87,
+  "GropID": 300004,
+  "RewardID": 430301,
+  "RewardNum": 1,
+  "LimitNum": 0,
+  "Drop": 20
+ },
+ {
+  "ID": 88,
+  "GropID": 300004,
+  "RewardID": 440201,
+  "RewardNum": 1,
+  "LimitNum": 0,
+  "Drop": 20
+ },
+ {
+  "ID": 89,
+  "GropID": 300004,
+  "RewardID": 440401,
+  "RewardNum": 1,
+  "LimitNum": 0,
+  "Drop": 20
+ },
+ {
+  "ID": 90,
+  "GropID": 300004,
+  "RewardID": 450101,
+  "RewardNum": 1,
+  "LimitNum": 0,
+  "Drop": 20
+ },
+ {
+  "ID": 91,
+  "GropID": 300005,
+  "RewardID": 150501,
+  "RewardNum": 1,
+  "LimitNum": 0,
+  "Drop": 20
+ },
+ {
+  "ID": 92,
+  "GropID": 300005,
+  "RewardID": 140501,
+  "RewardNum": 1,
+  "LimitNum": 0,
+  "Drop": 10
+ },
+ {
+  "ID": 93,
+  "GropID": 500001,
+  "RewardID": 420101,
+  "RewardNum": 1,
+  "LimitNum": 0,
+  "Drop": 10
+ },
+ {
+  "ID": 94,
+  "GropID": 500001,
+  "RewardID": 120602,
+  "RewardNum": 1,
+  "LimitNum": 0,
+  "Drop": 10
+ },
+ {
+  "ID": 95,
+  "GropID": 500001,
+  "RewardID": 410301,
+  "RewardNum": 1,
+  "LimitNum": 0,
+  "Drop": 10
+ },
+ {
+  "ID": 96,
+  "GropID": 500001,
+  "RewardID": 110603,
+  "RewardNum": 1,
+  "LimitNum": 0,
+  "Drop": 10
+ },
+ {
+  "ID": 97,
+  "GropID": 500001,
+  "RewardID": 130601,
+  "RewardNum": 1,
+  "LimitNum": 0,
+  "Drop": 10
+ },
+ {
+  "ID": 98,
+  "GropID": 500001,
+  "RewardID": 440201,
+  "RewardNum": 1,
+  "LimitNum": 0,
+  "Drop": 10
+ },
+ {
+  "ID": 99,
+  "GropID": 500001,
+  "RewardID": 140402,
+  "RewardNum": 1,
+  "LimitNum": 0,
+  "Drop": 10
+ },
+ {
+  "ID": 100,
+  "GropID": 500001,
+  "RewardID": 450101,
+  "RewardNum": 1,
+  "LimitNum": 0,
+  "Drop": 10
+ },
+ {
+  "ID": 101,
+  "GropID": 500001,
+  "RewardID": 110602,
+  "RewardNum": 1,
+  "LimitNum": 0,
+  "Drop": 10
+ },
+ {
+  "ID": 102,
+  "GropID": 500001,
+  "RewardID": 120603,
+  "RewardNum": 1,
+  "LimitNum": 0,
+  "Drop": 10
+ },
+ {
+  "ID": 103,
+  "GropID": 500001,
+  "RewardID": 410101,
+  "RewardNum": 1,
+  "LimitNum": 0,
+  "Drop": 10
+ },
+ {
+  "ID": 104,
+  "GropID": 500001,
+  "RewardID": 110604,
+  "RewardNum": 1,
+  "LimitNum": 0,
+  "Drop": 10
+ },
+ {
+  "ID": 105,
+  "GropID": 500001,
+  "RewardID": 430301,
+  "RewardNum": 1,
+  "LimitNum": 0,
+  "Drop": 10
+ },
+ {
+  "ID": 106,
+  "GropID": 500001,
+  "RewardID": 140403,
+  "RewardNum": 1,
+  "LimitNum": 0,
+  "Drop": 10
+ },
+ {
+  "ID": 107,
+  "GropID": 500001,
+  "RewardID": 440401,
+  "RewardNum": 1,
+  "LimitNum": 0,
+  "Drop": 10
+ },
+ {
+  "ID": 108,
+  "GropID": 500001,
+  "RewardID": 130603,
+  "RewardNum": 1,
+  "LimitNum": 0,
+  "Drop": 10
+ },
+ {
+  "ID": 109,
+  "GropID": 500001,
+  "RewardID": 140404,
+  "RewardNum": 1,
+  "LimitNum": 0,
+  "Drop": 10
+ },
+ {
+  "ID": 110,
+  "GropID": 300011,
+  "RewardID": 110101,
+  "RewardNum": 1,
+  "LimitNum": 0,
+  "Drop": 1188
+ },
+ {
+  "ID": 111,
+  "GropID": 300011,
+  "RewardID": 120101,
+  "RewardNum": 1,
+  "LimitNum": 0,
+  "Drop": 1188
+ },
+ {
+  "ID": 112,
+  "GropID": 300011,
+  "RewardID": 130101,
+  "RewardNum": 1,
+  "LimitNum": 0,
+  "Drop": 1188
+ },
+ {
+  "ID": 113,
+  "GropID": 300011,
+  "RewardID": 140101,
+  "RewardNum": 1,
+  "LimitNum": 0,
+  "Drop": 1188
+ },
+ {
+  "ID": 114,
+  "GropID": 300012,
+  "RewardID": 110201,
+  "RewardNum": 1,
+  "LimitNum": 0,
+  "Drop": 1166
+ },
+ {
+  "ID": 115,
+  "GropID": 300012,
+  "RewardID": 110301,
+  "RewardNum": 1,
+  "LimitNum": 0,
+  "Drop": 1166
+ },
+ {
+  "ID": 116,
+  "GropID": 300012,
+  "RewardID": 120201,
+  "RewardNum": 1,
+  "LimitNum": 0,
+  "Drop": 1166
+ },
+ {
+  "ID": 117,
+  "GropID": 300012,
+  "RewardID": 120202,
+  "RewardNum": 1,
+  "LimitNum": 0,
+  "Drop": 1166
+ },
+ {
+  "ID": 118,
+  "GropID": 300012,
+  "RewardID": 130201,
+  "RewardNum": 1,
+  "LimitNum": 0,
+  "Drop": 1166
+ },
+ {
+  "ID": 119,
+  "GropID": 300012,
+  "RewardID": 130202,
+  "RewardNum": 1,
+  "LimitNum": 0,
+  "Drop": 1166
+ },
+ {
+  "ID": 120,
+  "GropID": 300012,
+  "RewardID": 140201,
+  "RewardNum": 1,
+  "LimitNum": 0,
+  "Drop": 1166
+ },
+ {
+  "ID": 121,
+  "GropID": 300012,
+  "RewardID": 140202,
+  "RewardNum": 1,
+  "LimitNum": 0,
+  "Drop": 1166
+ },
+ {
+  "ID": 122,
+  "GropID": 300013,
+  "RewardID": 110402,
+  "RewardNum": 1,
+  "LimitNum": 0,
+  "Drop": 223
+ },
+ {
+  "ID": 123,
+  "GropID": 300013,
+  "RewardID": 110202,
+  "RewardNum": 1,
+  "LimitNum": 0,
+  "Drop": 223
+ },
+ {
+  "ID": 124,
+  "GropID": 300013,
+  "RewardID": 110302,
+  "RewardNum": 1,
+  "LimitNum": 0,
+  "Drop": 223
+ },
+ {
+  "ID": 125,
+  "GropID": 300013,
+  "RewardID": 110501,
+  "RewardNum": 1,
+  "LimitNum": 0,
+  "Drop": 223
+ },
+ {
+  "ID": 126,
+  "GropID": 300013,
+  "RewardID": 120301,
+  "RewardNum": 1,
+  "LimitNum": 0,
+  "Drop": 223
+ },
+ {
+  "ID": 127,
+  "GropID": 300013,
+  "RewardID": 140301,
+  "RewardNum": 1,
+  "LimitNum": 0,
+  "Drop": 223
+ },
+ {
+  "ID": 128,
+  "GropID": 300013,
+  "RewardID": 120401,
+  "RewardNum": 1,
+  "LimitNum": 0,
+  "Drop": 223
+ },
+ {
+  "ID": 129,
+  "GropID": 300013,
+  "RewardID": 120501,
+  "RewardNum": 1,
+  "LimitNum": 0,
+  "Drop": 223
+ },
+ {
+  "ID": 130,
+  "GropID": 300013,
+  "RewardID": 130501,
+  "RewardNum": 1,
+  "LimitNum": 0,
+  "Drop": 223
+ },
+ {
+  "ID": 131,
+  "GropID": 300013,
+  "RewardID": 130402,
+  "RewardNum": 1,
+  "LimitNum": 0,
+  "Drop": 223
+ },
+ {
+  "ID": 132,
+  "GropID": 300013,
+  "RewardID": 130401,
+  "RewardNum": 1,
+  "LimitNum": 0,
+  "Drop": 223
+ },
+ {
+  "ID": 133,
+  "GropID": 300013,
+  "RewardID": 120302,
+  "RewardNum": 1,
+  "LimitNum": 0,
+  "Drop": 223
+ },
+ {
+  "ID": 134,
+  "GropID": 300013,
+  "RewardID": 140303,
+  "RewardNum": 1,
+  "LimitNum": 0,
+  "Drop": 223
+ },
+ {
+  "ID": 135,
+  "GropID": 300013,
+  "RewardID": 140304,
+  "RewardNum": 1,
+  "LimitNum": 0,
+  "Drop": 223
+ },
+ {
+  "ID": 136,
+  "GropID": 300013,
+  "RewardID": 140401,
+  "RewardNum": 1,
+  "LimitNum": 0,
+  "Drop": 223
+ },
+ {
+  "ID": 137,
+  "GropID": 300014,
+  "RewardID": 410101,
+  "RewardNum": 1,
+  "LimitNum": 0,
+  "Drop": 20
+ },
+ {
+  "ID": 138,
+  "GropID": 300014,
+  "RewardID": 410301,
+  "RewardNum": 1,
+  "LimitNum": 0,
+  "Drop": 20
+ },
+ {
+  "ID": 139,
+  "GropID": 300014,
+  "RewardID": 420101,
+  "RewardNum": 1,
+  "LimitNum": 0,
+  "Drop": 20
+ },
+ {
+  "ID": 140,
+  "GropID": 300014,
+  "RewardID": 430301,
+  "RewardNum": 1,
+  "LimitNum": 0,
+  "Drop": 20
+ },
+ {
+  "ID": 141,
+  "GropID": 300014,
+  "RewardID": 440201,
+  "RewardNum": 1,
+  "LimitNum": 0,
+  "Drop": 20
+ },
+ {
+  "ID": 142,
+  "GropID": 300014,
+  "RewardID": 440401,
+  "RewardNum": 1,
+  "LimitNum": 0,
+  "Drop": 20
+ },
+ {
+  "ID": 143,
+  "GropID": 300014,
+  "RewardID": 450101,
+  "RewardNum": 1,
+  "LimitNum": 0,
+  "Drop": 20
+ },
+ {
+  "ID": 144,
+  "GropID": 300014,
+  "RewardID": 110602,
+  "RewardNum": 1,
+  "LimitNum": 0,
+  "Drop": 20
+ },
+ {
+  "ID": 145,
+  "GropID": 300014,
+  "RewardID": 110603,
+  "RewardNum": 1,
+  "LimitNum": 0,
+  "Drop": 20
+ },
+ {
+  "ID": 146,
+  "GropID": 300014,
+  "RewardID": 110604,
+  "RewardNum": 1,
+  "LimitNum": 0,
+  "Drop": 20
+ },
+ {
+  "ID": 147,
+  "GropID": 300014,
+  "RewardID": 120602,
+  "RewardNum": 1,
+  "LimitNum": 0,
+  "Drop": 20
+ },
+ {
+  "ID": 148,
+  "GropID": 300014,
+  "RewardID": 120603,
+  "RewardNum": 1,
+  "LimitNum": 0,
+  "Drop": 20
+ },
+ {
+  "ID": 149,
+  "GropID": 300014,
+  "RewardID": 130601,
+  "RewardNum": 1,
+  "LimitNum": 0,
+  "Drop": 20
+ },
+ {
+  "ID": 150,
+  "GropID": 300014,
+  "RewardID": 130603,
+  "RewardNum": 1,
+  "LimitNum": 0,
+  "Drop": 20
+ },
+ {
+  "ID": 151,
+  "GropID": 300014,
+  "RewardID": 140402,
+  "RewardNum": 1,
+  "LimitNum": 0,
+  "Drop": 20
+ },
+ {
+  "ID": 152,
+  "GropID": 300014,
+  "RewardID": 140403,
+  "RewardNum": 1,
+  "LimitNum": 0,
+  "Drop": 20
+ },
+ {
+  "ID": 153,
+  "GropID": 300014,
+  "RewardID": 140404,
+  "RewardNum": 1,
+  "LimitNum": 0,
+  "Drop": 20
+ },
+ {
+  "ID": 154,
+  "GropID": 300015,
+  "RewardID": 410501,
+  "RewardNum": 1,
+  "LimitNum": 0,
+  "Drop": 20
+ },
+ {
+  "ID": 155,
+  "GropID": 300015,
+  "RewardID": 140502,
+  "RewardNum": 1,
+  "LimitNum": 0,
+  "Drop": 10
+ },
+ {
+  "ID": 156,
+  "GropID": 600001,
+  "RewardID": 219,
+  "RewardNum": 10,
+  "LimitNum": 0,
+  "Drop": 300000
+ },
+ {
+  "ID": 157,
+  "GropID": 600001,
+  "RewardID": 220,
+  "RewardNum": 10,
+  "LimitNum": 0,
+  "Drop": 300000
+ },
+ {
+  "ID": 158,
+  "GropID": 600001,
+  "RewardID": 221,
+  "RewardNum": 10,
+  "LimitNum": 0,
+  "Drop": 300000
+ },
+ {
+  "ID": 159,
+  "GropID": 600002,
+  "RewardID": 910018,
+  "RewardNum": 1,
+  "LimitNum": 0,
+  "Drop": 2291
+ },
+ {
+  "ID": 160,
+  "GropID": 600002,
+  "RewardID": 910019,
+  "RewardNum": 1,
+  "LimitNum": 0,
+  "Drop": 2291
+ },
+ {
+  "ID": 161,
+  "GropID": 600002,
+  "RewardID": 910020,
+  "RewardNum": 1,
+  "LimitNum": 0,
+  "Drop": 1145
+ },
+ {
+  "ID": 162,
+  "GropID": 600002,
+  "RewardID": 910021,
+  "RewardNum": 1,
+  "LimitNum": 0,
+  "Drop": 1145
+ },
+ {
+  "ID": 163,
+  "GropID": 600002,
+  "RewardID": 910022,
+  "RewardNum": 1,
+  "LimitNum": 0,
+  "Drop": 1145
+ },
+ {
+  "ID": 164,
+  "GropID": 600002,
+  "RewardID": 910023,
+  "RewardNum": 1,
+  "LimitNum": 0,
+  "Drop": 2291
+ },
+ {
+  "ID": 165,
+  "GropID": 600002,
+  "RewardID": 910024,
+  "RewardNum": 1,
+  "LimitNum": 0,
+  "Drop": 1145
+ },
+ {
+  "ID": 166,
+  "GropID": 600002,
+  "RewardID": 910025,
+  "RewardNum": 1,
+  "LimitNum": 0,
+  "Drop": 1145
+ },
+ {
+  "ID": 167,
+  "GropID": 600002,
+  "RewardID": 910026,
+  "RewardNum": 1,
+  "LimitNum": 0,
+  "Drop": 2291
+ },
+ {
+  "ID": 168,
+  "GropID": 600002,
+  "RewardID": 910027,
+  "RewardNum": 1,
+  "LimitNum": 0,
+  "Drop": 2291
+ },
+ {
+  "ID": 169,
+  "GropID": 600002,
+  "RewardID": 910028,
+  "RewardNum": 1,
+  "LimitNum": 0,
+  "Drop": 2291
+ },
+ {
+  "ID": 170,
+  "GropID": 600002,
+  "RewardID": 910029,
+  "RewardNum": 1,
+  "LimitNum": 0,
+  "Drop": 2291
+ },
+ {
+  "ID": 171,
+  "GropID": 600002,
+  "RewardID": 910030,
+  "RewardNum": 1,
+  "LimitNum": 0,
+  "Drop": 2291
+ },
+ {
+  "ID": 172,
+  "GropID": 600002,
+  "RewardID": 910031,
+  "RewardNum": 1,
+  "LimitNum": 0,
+  "Drop": 1145
+ },
+ {
+  "ID": 173,
+  "GropID": 600002,
+  "RewardID": 910032,
+  "RewardNum": 1,
+  "LimitNum": 0,
+  "Drop": 2291
+ },
+ {
+  "ID": 174,
+  "GropID": 600002,
+  "RewardID": 910033,
+  "RewardNum": 1,
+  "LimitNum": 0,
+  "Drop": 2291
+ },
+ {
+  "ID": 175,
+  "GropID": 600002,
+  "RewardID": 910034,
+  "RewardNum": 1,
+  "LimitNum": 0,
+  "Drop": 2291
+ },
+ {
+  "ID": 176,
+  "GropID": 600002,
+  "RewardID": 910035,
+  "RewardNum": 1,
+  "LimitNum": 0,
+  "Drop": 1145
+ },
+ {
+  "ID": 177,
+  "GropID": 600002,
+  "RewardID": 910036,
+  "RewardNum": 1,
+  "LimitNum": 0,
+  "Drop": 1145
+ },
+ {
+  "ID": 178,
+  "GropID": 600002,
+  "RewardID": 910037,
+  "RewardNum": 1,
+  "LimitNum": 0,
+  "Drop": 2291
+ },
+ {
+  "ID": 179,
+  "GropID": 600002,
+  "RewardID": 910038,
+  "RewardNum": 1,
+  "LimitNum": 0,
+  "Drop": 1145
+ },
+ {
+  "ID": 180,
+  "GropID": 600002,
+  "RewardID": 910039,
+  "RewardNum": 1,
+  "LimitNum": 0,
+  "Drop": 1145
+ },
+ {
+  "ID": 181,
+  "GropID": 600002,
+  "RewardID": 910040,
+  "RewardNum": 1,
+  "LimitNum": 0,
+  "Drop": 1145
+ },
+ {
+  "ID": 182,
+  "GropID": 600002,
+  "RewardID": 910041,
+  "RewardNum": 1,
+  "LimitNum": 0,
+  "Drop": 1145
+ },
+ {
+  "ID": 183,
+  "GropID": 600002,
+  "RewardID": 910042,
+  "RewardNum": 1,
+  "LimitNum": 0,
+  "Drop": 1145
+ },
+ {
+  "ID": 184,
+  "GropID": 600002,
+  "RewardID": 910043,
+  "RewardNum": 1,
+  "LimitNum": 0,
+  "Drop": 1145
+ },
+ {
+  "ID": 185,
+  "GropID": 600002,
+  "RewardID": 910044,
+  "RewardNum": 1,
+  "LimitNum": 0,
+  "Drop": 2291
+ },
+ {
+  "ID": 186,
+  "GropID": 600002,
+  "RewardID": 910045,
+  "RewardNum": 1,
+  "LimitNum": 0,
+  "Drop": 2291
+ },
+ {
+  "ID": 187,
+  "GropID": 600002,
+  "RewardID": 910046,
+  "RewardNum": 1,
+  "LimitNum": 0,
+  "Drop": 1145
+ },
+ {
+  "ID": 188,
+  "GropID": 600002,
+  "RewardID": 910050,
+  "RewardNum": 1,
+  "LimitNum": 0,
+  "Drop": 458
+ },
+ {
+  "ID": 189,
+  "GropID": 600002,
+  "RewardID": 910051,
+  "RewardNum": 1,
+  "LimitNum": 0,
+  "Drop": 458
+ },
+ {
+  "ID": 190,
+  "GropID": 600002,
+  "RewardID": 910052,
+  "RewardNum": 1,
+  "LimitNum": 0,
+  "Drop": 458
+ },
+ {
+  "ID": 191,
+  "GropID": 600002,
+  "RewardID": 910053,
+  "RewardNum": 1,
+  "LimitNum": 0,
+  "Drop": 458
+ },
+ {
+  "ID": 192,
+  "GropID": 600002,
+  "RewardID": 910054,
+  "RewardNum": 1,
+  "LimitNum": 0,
+  "Drop": 458
+ },
+ {
+  "ID": 193,
+  "GropID": 600002,
+  "RewardID": 910055,
+  "RewardNum": 1,
+  "LimitNum": 0,
+  "Drop": 458
+ },
+ {
+  "ID": 194,
+  "GropID": 600002,
+  "RewardID": 910056,
+  "RewardNum": 1,
+  "LimitNum": 0,
+  "Drop": 458
+ },
+ {
+  "ID": 195,
+  "GropID": 600002,
+  "RewardID": 910057,
+  "RewardNum": 1,
+  "LimitNum": 0,
+  "Drop": 458
+ },
+ {
+  "ID": 196,
+  "GropID": 600002,
+  "RewardID": 910058,
+  "RewardNum": 1,
+  "LimitNum": 0,
+  "Drop": 458
+ },
+ {
+  "ID": 197,
+  "GropID": 600002,
+  "RewardID": 910059,
+  "RewardNum": 1,
+  "LimitNum": 0,
+  "Drop": 458
+ },
+ {
+  "ID": 198,
+  "GropID": 600002,
+  "RewardID": 910060,
+  "RewardNum": 1,
+  "LimitNum": 0,
+  "Drop": 458
+ },
+ {
+  "ID": 199,
+  "GropID": 600002,
+  "RewardID": 910061,
+  "RewardNum": 1,
+  "LimitNum": 0,
+  "Drop": 458
+ },
+ {
+  "ID": 200,
+  "GropID": 600002,
+  "RewardID": 910062,
+  "RewardNum": 1,
+  "LimitNum": 0,
+  "Drop": 458
+ },
+ {
+  "ID": 201,
+  "GropID": 600002,
+  "RewardID": 910063,
+  "RewardNum": 1,
+  "LimitNum": 0,
+  "Drop": 458
+ },
+ {
+  "ID": 202,
+  "GropID": 600002,
+  "RewardID": 910064,
+  "RewardNum": 1,
+  "LimitNum": 0,
+  "Drop": 1145
+ },
+ {
+  "ID": 203,
+  "GropID": 600002,
+  "RewardID": 910065,
+  "RewardNum": 1,
+  "LimitNum": 0,
+  "Drop": 1145
+ },
+ {
+  "ID": 204,
+  "GropID": 600002,
+  "RewardID": 910066,
+  "RewardNum": 1,
+  "LimitNum": 0,
+  "Drop": 1145
+ },
+ {
+  "ID": 205,
+  "GropID": 600002,
+  "RewardID": 910067,
+  "RewardNum": 1,
+  "LimitNum": 0,
+  "Drop": 1145
+ },
+ {
+  "ID": 206,
+  "GropID": 600002,
+  "RewardID": 910068,
+  "RewardNum": 1,
+  "LimitNum": 0,
+  "Drop": 2291
+ },
+ {
+  "ID": 207,
+  "GropID": 600002,
+  "RewardID": 910069,
+  "RewardNum": 1,
+  "LimitNum": 0,
+  "Drop": 1145
+ },
+ {
+  "ID": 208,
+  "GropID": 600002,
+  "RewardID": 910070,
+  "RewardNum": 1,
+  "LimitNum": 0,
+  "Drop": 1145
+ },
+ {
+  "ID": 209,
+  "GropID": 600002,
+  "RewardID": 910071,
+  "RewardNum": 1,
+  "LimitNum": 0,
+  "Drop": 1145
+ },
+ {
+  "ID": 210,
+  "GropID": 600002,
+  "RewardID": 910072,
+  "RewardNum": 1,
+  "LimitNum": 0,
+  "Drop": 2291
+ },
+ {
+  "ID": 211,
+  "GropID": 600002,
+  "RewardID": 910073,
+  "RewardNum": 1,
+  "LimitNum": 0,
+  "Drop": 1145
+ },
+ {
+  "ID": 212,
+  "GropID": 600002,
+  "RewardID": 910074,
+  "RewardNum": 1,
+  "LimitNum": 0,
+  "Drop": 1145
+ },
+ {
+  "ID": 213,
+  "GropID": 600002,
+  "RewardID": 910075,
+  "RewardNum": 1,
+  "LimitNum": 0,
+  "Drop": 1145
+ },
+ {
+  "ID": 214,
+  "GropID": 600002,
+  "RewardID": 910076,
+  "RewardNum": 1,
+  "LimitNum": 0,
+  "Drop": 1145
+ },
+ {
+  "ID": 215,
+  "GropID": 600002,
+  "RewardID": 910077,
+  "RewardNum": 1,
+  "LimitNum": 0,
+  "Drop": 2291
+ },
+ {
+  "ID": 216,
+  "GropID": 600002,
+  "RewardID": 910078,
+  "RewardNum": 1,
+  "LimitNum": 0,
+  "Drop": 2291
+ },
+ {
+  "ID": 217,
+  "GropID": 600002,
+  "RewardID": 910079,
+  "RewardNum": 1,
+  "LimitNum": 0,
+  "Drop": 2291
+ },
+ {
+  "ID": 218,
+  "GropID": 600002,
+  "RewardID": 910080,
+  "RewardNum": 1,
+  "LimitNum": 0,
+  "Drop": 1145
+ },
+ {
+  "ID": 219,
+  "GropID": 600002,
+  "RewardID": 910081,
+  "RewardNum": 1,
+  "LimitNum": 0,
+  "Drop": 1145
+ },
+ {
+  "ID": 220,
+  "GropID": 600003,
+  "RewardID": 920001,
+  "RewardNum": 1,
+  "LimitNum": 0,
+  "Drop": 195
+ },
+ {
+  "ID": 221,
+  "GropID": 600003,
+  "RewardID": 920002,
+  "RewardNum": 1,
+  "LimitNum": 0,
+  "Drop": 195
+ },
+ {
+  "ID": 222,
+  "GropID": 600003,
+  "RewardID": 920003,
+  "RewardNum": 1,
+  "LimitNum": 0,
+  "Drop": 195
+ },
+ {
+  "ID": 223,
+  "GropID": 600003,
+  "RewardID": 920004,
+  "RewardNum": 1,
+  "LimitNum": 0,
+  "Drop": 195
+ },
+ {
+  "ID": 224,
+  "GropID": 600003,
+  "RewardID": 920005,
+  "RewardNum": 1,
+  "LimitNum": 0,
+  "Drop": 195
+ },
+ {
+  "ID": 225,
+  "GropID": 600003,
+  "RewardID": 920006,
+  "RewardNum": 1,
+  "LimitNum": 0,
+  "Drop": 195
+ },
+ {
+  "ID": 226,
+  "GropID": 600003,
+  "RewardID": 920007,
+  "RewardNum": 1,
+  "LimitNum": 0,
+  "Drop": 390
+ },
+ {
+  "ID": 227,
+  "GropID": 600003,
+  "RewardID": 920008,
+  "RewardNum": 1,
+  "LimitNum": 0,
+  "Drop": 195
+ },
+ {
+  "ID": 228,
+  "GropID": 600003,
+  "RewardID": 920009,
+  "RewardNum": 1,
+  "LimitNum": 0,
+  "Drop": 390
+ },
+ {
+  "ID": 229,
+  "GropID": 600003,
+  "RewardID": 920010,
+  "RewardNum": 1,
+  "LimitNum": 0,
+  "Drop": 584
+ },
+ {
+  "ID": 230,
+  "GropID": 600003,
+  "RewardID": 920011,
+  "RewardNum": 1,
+  "LimitNum": 0,
+  "Drop": 195
+ },
+ {
+  "ID": 231,
+  "GropID": 600003,
+  "RewardID": 920012,
+  "RewardNum": 1,
+  "LimitNum": 0,
+  "Drop": 195
+ },
+ {
+  "ID": 232,
+  "GropID": 600003,
+  "RewardID": 920013,
+  "RewardNum": 1,
+  "LimitNum": 0,
+  "Drop": 195
+ },
+ {
+  "ID": 233,
+  "GropID": 600003,
+  "RewardID": 920014,
+  "RewardNum": 1,
+  "LimitNum": 0,
+  "Drop": 195
+ },
+ {
+  "ID": 234,
+  "GropID": 600003,
+  "RewardID": 920015,
+  "RewardNum": 1,
+  "LimitNum": 0,
+  "Drop": 195
+ },
+ {
+  "ID": 235,
+  "GropID": 600003,
+  "RewardID": 920016,
+  "RewardNum": 1,
+  "LimitNum": 0,
+  "Drop": 390
+ },
+ {
+  "ID": 236,
+  "GropID": 600003,
+  "RewardID": 920017,
+  "RewardNum": 1,
+  "LimitNum": 0,
+  "Drop": 195
+ },
+ {
+  "ID": 237,
+  "GropID": 600003,
+  "RewardID": 920018,
+  "RewardNum": 1,
+  "LimitNum": 0,
+  "Drop": 195
+ },
+ {
+  "ID": 238,
+  "GropID": 600003,
+  "RewardID": 920019,
+  "RewardNum": 1,
+  "LimitNum": 0,
+  "Drop": 195
+ },
+ {
+  "ID": 239,
+  "GropID": 600003,
+  "RewardID": 920020,
+  "RewardNum": 1,
+  "LimitNum": 0,
+  "Drop": 195
+ },
+ {
+  "ID": 240,
+  "GropID": 600003,
+  "RewardID": 920021,
+  "RewardNum": 1,
+  "LimitNum": 0,
+  "Drop": 195
+ },
+ {
+  "ID": 241,
+  "GropID": 600003,
+  "RewardID": 920022,
+  "RewardNum": 1,
+  "LimitNum": 0,
+  "Drop": 195
+ },
+ {
+  "ID": 242,
+  "GropID": 600003,
+  "RewardID": 920023,
+  "RewardNum": 1,
+  "LimitNum": 0,
+  "Drop": 195
+ },
+ {
+  "ID": 243,
+  "GropID": 600003,
+  "RewardID": 920024,
+  "RewardNum": 1,
+  "LimitNum": 0,
+  "Drop": 195
+ },
+ {
+  "ID": 244,
+  "GropID": 600003,
+  "RewardID": 920025,
+  "RewardNum": 1,
+  "LimitNum": 0,
+  "Drop": 584
+ },
+ {
+  "ID": 245,
+  "GropID": 600003,
+  "RewardID": 920026,
+  "RewardNum": 1,
+  "LimitNum": 0,
+  "Drop": 390
+ },
+ {
+  "ID": 246,
+  "GropID": 600003,
+  "RewardID": 920027,
+  "RewardNum": 1,
+  "LimitNum": 0,
+  "Drop": 390
+ },
+ {
+  "ID": 247,
+  "GropID": 600003,
+  "RewardID": 920028,
+  "RewardNum": 1,
+  "LimitNum": 0,
+  "Drop": 195
+ },
+ {
+  "ID": 248,
+  "GropID": 600003,
+  "RewardID": 920029,
+  "RewardNum": 1,
+  "LimitNum": 0,
+  "Drop": 195
+ },
+ {
+  "ID": 249,
+  "GropID": 600003,
+  "RewardID": 920030,
+  "RewardNum": 1,
+  "LimitNum": 0,
+  "Drop": 195
+ },
+ {
+  "ID": 250,
+  "GropID": 600003,
+  "RewardID": 920031,
+  "RewardNum": 1,
+  "LimitNum": 0,
+  "Drop": 195
+ },
+ {
+  "ID": 251,
+  "GropID": 600003,
+  "RewardID": 920032,
+  "RewardNum": 1,
+  "LimitNum": 0,
+  "Drop": 390
+ },
+ {
+  "ID": 252,
+  "GropID": 600003,
+  "RewardID": 920033,
+  "RewardNum": 1,
+  "LimitNum": 0,
+  "Drop": 390
+ },
+ {
+  "ID": 253,
+  "GropID": 600003,
+  "RewardID": 920034,
+  "RewardNum": 1,
+  "LimitNum": 0,
+  "Drop": 195
+ },
+ {
+  "ID": 254,
+  "GropID": 600003,
+  "RewardID": 920035,
+  "RewardNum": 1,
+  "LimitNum": 0,
+  "Drop": 195
+ },
+ {
+  "ID": 255,
+  "GropID": 600003,
+  "RewardID": 920036,
+  "RewardNum": 1,
+  "LimitNum": 0,
+  "Drop": 195
+ },
+ {
+  "ID": 256,
+  "GropID": 600003,
+  "RewardID": 920037,
+  "RewardNum": 1,
+  "LimitNum": 0,
+  "Drop": 390
+ },
+ {
+  "ID": 257,
+  "GropID": 600003,
+  "RewardID": 920038,
+  "RewardNum": 1,
+  "LimitNum": 0,
+  "Drop": 195
+ },
+ {
+  "ID": 258,
+  "GropID": 600003,
+  "RewardID": 920039,
+  "RewardNum": 1,
+  "LimitNum": 0,
+  "Drop": 390
+ },
+ {
+  "ID": 259,
+  "GropID": 600003,
+  "RewardID": 920041,
+  "RewardNum": 1,
+  "LimitNum": 0,
+  "Drop": 390
+ },
+ {
+  "ID": 260,
+  "GropID": 600003,
+  "RewardID": 920042,
+  "RewardNum": 1,
+  "LimitNum": 0,
+  "Drop": 390
+ },
+ {
+  "ID": 261,
+  "GropID": 600003,
+  "RewardID": 920043,
+  "RewardNum": 1,
+  "LimitNum": 0,
+  "Drop": 390
+ },
+ {
+  "ID": 262,
+  "GropID": 600003,
+  "RewardID": 920045,
+  "RewardNum": 1,
+  "LimitNum": 0,
+  "Drop": 195
+ },
+ {
+  "ID": 263,
+  "GropID": 600003,
+  "RewardID": 920048,
+  "RewardNum": 1,
+  "LimitNum": 0,
+  "Drop": 390
+ },
+ {
+  "ID": 264,
+  "GropID": 600003,
+  "RewardID": 920049,
+  "RewardNum": 1,
+  "LimitNum": 0,
+  "Drop": 390
+ },
+ {
+  "ID": 265,
+  "GropID": 600003,
+  "RewardID": 920050,
+  "RewardNum": 1,
+  "LimitNum": 0,
+  "Drop": 195
+ },
+ {
+  "ID": 266,
+  "GropID": 600003,
+  "RewardID": 920052,
+  "RewardNum": 1,
+  "LimitNum": 0,
+  "Drop": 195
+ },
+ {
+  "ID": 267,
+  "GropID": 600003,
+  "RewardID": 920054,
+  "RewardNum": 1,
+  "LimitNum": 0,
+  "Drop": 195
+ },
+ {
+  "ID": 268,
+  "GropID": 600003,
+  "RewardID": 920055,
+  "RewardNum": 1,
+  "LimitNum": 0,
+  "Drop": 390
+ },
+ {
+  "ID": 269,
+  "GropID": 600003,
+  "RewardID": 920056,
+  "RewardNum": 1,
+  "LimitNum": 0,
+  "Drop": 195
+ },
+ {
+  "ID": 270,
+  "GropID": 600003,
+  "RewardID": 920057,
+  "RewardNum": 1,
+  "LimitNum": 0,
+  "Drop": 195
+ },
+ {
+  "ID": 271,
+  "GropID": 600003,
+  "RewardID": 920058,
+  "RewardNum": 1,
+  "LimitNum": 0,
+  "Drop": 195
+ },
+ {
+  "ID": 272,
+  "GropID": 600003,
+  "RewardID": 920059,
+  "RewardNum": 1,
+  "LimitNum": 0,
+  "Drop": 390
+ },
+ {
+  "ID": 273,
+  "GropID": 600003,
+  "RewardID": 920060,
+  "RewardNum": 1,
+  "LimitNum": 0,
+  "Drop": 195
+ },
+ {
+  "ID": 274,
+  "GropID": 600003,
+  "RewardID": 920061,
+  "RewardNum": 1,
+  "LimitNum": 0,
+  "Drop": 195
+ },
+ {
+  "ID": 275,
+  "GropID": 600003,
+  "RewardID": 920062,
+  "RewardNum": 1,
+  "LimitNum": 0,
+  "Drop": 195
+ },
+ {
+  "ID": 276,
+  "GropID": 600003,
+  "RewardID": 920064,
+  "RewardNum": 1,
+  "LimitNum": 0,
+  "Drop": 195
+ },
+ {
+  "ID": 277,
+  "GropID": 600004,
+  "RewardID": 930001,
+  "RewardNum": 1,
+  "LimitNum": 0,
+  "Drop": 77
+ },
+ {
+  "ID": 278,
+  "GropID": 600004,
+  "RewardID": 930002,
+  "RewardNum": 1,
+  "LimitNum": 0,
+  "Drop": 231
+ },
+ {
+  "ID": 279,
+  "GropID": 600004,
+  "RewardID": 930003,
+  "RewardNum": 1,
+  "LimitNum": 0,
+  "Drop": 77
+ },
+ {
+  "ID": 280,
+  "GropID": 600004,
+  "RewardID": 930004,
+  "RewardNum": 1,
+  "LimitNum": 0,
+  "Drop": 154
+ },
+ {
+  "ID": 281,
+  "GropID": 600004,
+  "RewardID": 930005,
+  "RewardNum": 1,
+  "LimitNum": 0,
+  "Drop": 154
+ },
+ {
+  "ID": 282,
+  "GropID": 600004,
+  "RewardID": 930006,
+  "RewardNum": 1,
+  "LimitNum": 0,
+  "Drop": 231
+ },
+ {
+  "ID": 283,
+  "GropID": 600004,
+  "RewardID": 930007,
+  "RewardNum": 1,
+  "LimitNum": 0,
+  "Drop": 154
+ },
+ {
+  "ID": 284,
+  "GropID": 600004,
+  "RewardID": 930008,
+  "RewardNum": 1,
+  "LimitNum": 0,
+  "Drop": 231
+ },
+ {
+  "ID": 285,
+  "GropID": 600004,
+  "RewardID": 930009,
+  "RewardNum": 1,
+  "LimitNum": 0,
+  "Drop": 154
+ },
+ {
+  "ID": 286,
+  "GropID": 600004,
+  "RewardID": 930010,
+  "RewardNum": 1,
+  "LimitNum": 0,
+  "Drop": 77
+ },
+ {
+  "ID": 287,
+  "GropID": 600004,
+  "RewardID": 930011,
+  "RewardNum": 1,
+  "LimitNum": 0,
+  "Drop": 77
+ },
+ {
+  "ID": 288,
+  "GropID": 600004,
+  "RewardID": 930012,
+  "RewardNum": 1,
+  "LimitNum": 0,
+  "Drop": 154
+ },
+ {
+  "ID": 289,
+  "GropID": 600004,
+  "RewardID": 930014,
+  "RewardNum": 1,
+  "LimitNum": 0,
+  "Drop": 154
+ },
+ {
+  "ID": 290,
+  "GropID": 600004,
+  "RewardID": 930015,
+  "RewardNum": 1,
+  "LimitNum": 0,
+  "Drop": 154
+ },
+ {
+  "ID": 291,
+  "GropID": 600004,
+  "RewardID": 930017,
+  "RewardNum": 1,
+  "LimitNum": 0,
+  "Drop": 77
+ },
+ {
+  "ID": 292,
+  "GropID": 600004,
+  "RewardID": 930018,
+  "RewardNum": 1,
+  "LimitNum": 0,
+  "Drop": 77
+ },
+ {
+  "ID": 293,
+  "GropID": 600004,
+  "RewardID": 930020,
+  "RewardNum": 1,
+  "LimitNum": 0,
+  "Drop": 77
+ },
+ {
+  "ID": 294,
+  "GropID": 600004,
+  "RewardID": 930025,
+  "RewardNum": 1,
+  "LimitNum": 0,
+  "Drop": 77
+ },
+ {
+  "ID": 295,
+  "GropID": 600004,
+  "RewardID": 930027,
+  "RewardNum": 1,
+  "LimitNum": 0,
+  "Drop": 77
+ },
+ {
+  "ID": 296,
+  "GropID": 600004,
+  "RewardID": 930028,
+  "RewardNum": 1,
+  "LimitNum": 0,
+  "Drop": 77
+ },
+ {
+  "ID": 297,
+  "GropID": 600004,
+  "RewardID": 930029,
+  "RewardNum": 1,
+  "LimitNum": 0,
+  "Drop": 154
+ },
+ {
+  "ID": 298,
+  "GropID": 600004,
+  "RewardID": 930030,
+  "RewardNum": 1,
+  "LimitNum": 0,
+  "Drop": 77
+ },
+ {
+  "ID": 299,
+  "GropID": 600004,
+  "RewardID": 930031,
+  "RewardNum": 1,
+  "LimitNum": 0,
+  "Drop": 231
+ },
+ {
+  "ID": 300,
+  "GropID": 700001,
+  "RewardID": 602008,
+  "RewardNum": 1,
+  "LimitNum": 0,
+  "Drop": 1
+ },
+ {
+  "ID": 301,
+  "GropID": 700002,
+  "RewardID": 321,
+  "RewardNum": 1,
+  "LimitNum": 0,
+  "Drop": 5
+ },
+ {
+  "ID": 302,
+  "GropID": 700003,
+  "RewardID": 44020102,
+  "RewardNum": 1,
+  "LimitNum": 0,
+  "Drop": 1
+ },
+ {
+  "ID": 303,
+  "GropID": 700004,
+  "RewardID": 14040202,
+  "RewardNum": 1,
+  "LimitNum": 0,
+  "Drop": 1
+ },
+ {
+  "ID": 304,
+  "GropID": 700005,
+  "RewardID": 124,
+  "RewardNum": 100,
+  "LimitNum": 0,
+  "Drop": 1500
+ },
+ {
+  "ID": 305,
+  "GropID": 700005,
+  "RewardID": 297,
+  "RewardNum": 10,
+  "LimitNum": 0,
+  "Drop": 1500
+ },
+ {
+  "ID": 306,
+  "GropID": 700005,
+  "RewardID": 116,
+  "RewardNum": 5,
+  "LimitNum": 0,
+  "Drop": 700
+ },
+ {
+  "ID": 307,
+  "GropID": 700005,
+  "RewardID": 141,
+  "RewardNum": 500,
+  "LimitNum": 0,
+  "Drop": 1200
+ },
+ {
+  "ID": 308,
+  "GropID": 700005,
+  "RewardID": 174,
+  "RewardNum": 1,
+  "LimitNum": 0,
+  "Drop": 600
+ },
+ {
+  "ID": 309,
+  "GropID": 700005,
+  "RewardID": 175,
+  "RewardNum": 1,
+  "LimitNum": 0,
+  "Drop": 100
+ },
+ {
+  "ID": 310,
+  "GropID": 700005,
+  "RewardID": 241,
+  "RewardNum": 20,
+  "LimitNum": 0,
+  "Drop": 1500
+ },
+ {
+  "ID": 311,
+  "GropID": 700005,
+  "RewardID": 241,
+  "RewardNum": 10,
+  "LimitNum": 0,
+  "Drop": 2892
+ },
+ {
+  "ID": 312,
+  "GropID": 80001,
+  "RewardID": 702010,
+  "RewardNum": 1,
+  "LimitNum": 5,
+  "Drop": 153708
+ },
+ {
+  "ID": 313,
+  "GropID": 80001,
+  "RewardID": 116,
+  "RewardNum": 50,
+  "LimitNum": 5,
+  "Drop": 153708
+ },
+ {
+  "ID": 314,
+  "GropID": 80002,
+  "RewardID": 602005,
+  "RewardNum": 1,
+  "LimitNum": 5,
+  "Drop": 384
+ },
+ {
+  "ID": 315,
+  "GropID": 80002,
+  "RewardID": 130,
+  "RewardNum": 30,
+  "LimitNum": 5,
+  "Drop": 384
+ },
+ {
+  "ID": 316,
+  "GropID": 80003,
+  "RewardID": 2028,
+  "RewardNum": 1,
+  "LimitNum": 10,
+  "Drop": 64
+ },
+ {
+  "ID": 317,
+  "GropID": 80003,
+  "RewardID": 145,
+  "RewardNum": 10,
+  "LimitNum": 5,
+  "Drop": 64
+ },
+ {
+  "ID": 318,
+  "GropID": 80004,
+  "RewardID": 14040403,
+  "RewardNum": 1,
+  "LimitNum": 5,
+  "Drop": 38427
+ },
+ {
+  "ID": 319,
+  "GropID": 80004,
+  "RewardID": 288,
+  "RewardNum": 1,
+  "LimitNum": 5,
+  "Drop": 38427
+ },
+ {
+  "ID": 320,
+  "GropID": 80005,
+  "RewardID": 227,
+  "RewardNum": 50,
+  "LimitNum": 5,
+  "Drop": 307416
+ },
+ {
+  "ID": 321,
+  "GropID": 80005,
+  "RewardID": 145,
+  "RewardNum": 10,
+  "LimitNum": 5,
+  "Drop": 307416
+ },
+ {
+  "ID": 322,
+  "GropID": 80006,
+  "RewardID": 116,
+  "RewardNum": 2,
+  "LimitNum": 10,
+  "Drop": 16700000
+ },
+ {
+  "ID": 323,
+  "GropID": 80006,
+  "RewardID": 285,
+  "RewardNum": 1,
+  "LimitNum": 15,
+  "Drop": 16700000
+ },
+ {
+  "ID": 324,
+  "GropID": 80006,
+  "RewardID": 145,
+  "RewardNum": 1,
+  "LimitNum": 15,
+  "Drop": 16700000
+ },
+ {
+  "ID": 325,
+  "GropID": 80006,
+  "RewardID": 240,
+  "RewardNum": 50,
+  "LimitNum": 15,
+  "Drop": 16700000
+ },
+ {
+  "ID": 326,
+  "GropID": 80006,
+  "RewardID": 116,
+  "RewardNum": 1,
+  "LimitNum": 15,
+  "Drop": 185640000
+ },
+ {
+  "ID": 327,
+  "GropID": 80006,
+  "RewardID": 284,
+  "RewardNum": 1,
+  "LimitNum": 20,
+  "Drop": 185640000
+ },
+ {
+  "ID": 328,
+  "GropID": 80006,
+  "RewardID": 141,
+  "RewardNum": 500,
+  "LimitNum": 20,
+  "Drop": 185640000
+ },
+ {
+  "ID": 329,
+  "GropID": 80006,
+  "RewardID": 297,
+  "RewardNum": 5,
+  "LimitNum": 20,
+  "Drop": 185640000
+ },
+ {
+  "ID": 330,
+  "GropID": 80006,
+  "RewardID": 241,
+  "RewardNum": 20,
+  "LimitNum": 20,
+  "Drop": 185640000
+ },
+ {
+  "ID": 331,
+  "GropID": 700011,
+  "RewardID": 602001,
+  "RewardNum": 1,
+  "LimitNum": 0,
+  "Drop": 5
+ },
+ {
+  "ID": 332,
+  "GropID": 700012,
+  "RewardID": 240201,
+  "RewardNum": 1,
+  "LimitNum": 0,
+  "Drop": 20
+ },
+ {
+  "ID": 333,
+  "GropID": 700013,
+  "RewardID": 4021,
+  "RewardNum": 1,
+  "LimitNum": 0,
+  "Drop": 10
+ },
+ {
+  "ID": 334,
+  "GropID": 700014,
+  "RewardID": 321,
+  "RewardNum": 1,
+  "LimitNum": 0,
+  "Drop": 50
+ },
+ {
+  "ID": 335,
+  "GropID": 700015,
+  "RewardID": 124,
+  "RewardNum": 100,
+  "LimitNum": 0,
+  "Drop": 15000
+ },
+ {
+  "ID": 336,
+  "GropID": 700015,
+  "RewardID": 297,
+  "RewardNum": 10,
+  "LimitNum": 0,
+  "Drop": 15000
+ },
+ {
+  "ID": 337,
+  "GropID": 700015,
+  "RewardID": 116,
+  "RewardNum": 5,
+  "LimitNum": 0,
+  "Drop": 7000
+ },
+ {
+  "ID": 338,
+  "GropID": 700015,
+  "RewardID": 141,
+  "RewardNum": 500,
+  "LimitNum": 0,
+  "Drop": 12000
+ },
+ {
+  "ID": 339,
+  "GropID": 700015,
+  "RewardID": 174,
+  "RewardNum": 1,
+  "LimitNum": 0,
+  "Drop": 6000
+ },
+ {
+  "ID": 340,
+  "GropID": 700015,
+  "RewardID": 145,
+  "RewardNum": 2,
+  "LimitNum": 0,
+  "Drop": 1000
+ },
+ {
+  "ID": 341,
+  "GropID": 700015,
+  "RewardID": 241,
+  "RewardNum": 20,
+  "LimitNum": 0,
+  "Drop": 15000
+ },
+ {
+  "ID": 342,
+  "GropID": 700015,
+  "RewardID": 241,
+  "RewardNum": 10,
+  "LimitNum": 0,
+  "Drop": 28915
+ },
+ {
+  "ID": 343,
+  "GropID": 1000010,
+  "RewardID": 240,
+  "RewardNum": 10,
+  "LimitNum": 0,
+  "Drop": 1000
+ },
+ {
+  "ID": 344,
+  "GropID": 1000011,
+  "RewardID": 240,
+  "RewardNum": 5,
+  "LimitNum": 0,
+  "Drop": 8820
+ },
+ {
+  "ID": 345,
+  "GropID": 1000012,
+  "RewardID": 110402,
+  "RewardNum": 1,
+  "LimitNum": 0,
+  "Drop": 1
+ },
+ {
+  "ID": 346,
+  "GropID": 1000012,
+  "RewardID": 110602,
+  "RewardNum": 1,
+  "LimitNum": 0,
+  "Drop": 1
+ },
+ {
+  "ID": 347,
+  "GropID": 1000012,
+  "RewardID": 110603,
+  "RewardNum": 1,
+  "LimitNum": 0,
+  "Drop": 1
+ },
+ {
+  "ID": 348,
+  "GropID": 1000012,
+  "RewardID": 130601,
+  "RewardNum": 1,
+  "LimitNum": 0,
+  "Drop": 1
+ },
+ {
+  "ID": 349,
+  "GropID": 1000012,
+  "RewardID": 140402,
+  "RewardNum": 1,
+  "LimitNum": 0,
+  "Drop": 1
+ },
+ {
+  "ID": 350,
+  "GropID": 1000012,
+  "RewardID": 140403,
+  "RewardNum": 1,
+  "LimitNum": 0,
+  "Drop": 1
+ },
+ {
+  "ID": 351,
+  "GropID": 1000012,
+  "RewardID": 140404,
+  "RewardNum": 1,
+  "LimitNum": 0,
+  "Drop": 1
+ },
+ {
+  "ID": 352,
+  "GropID": 1000012,
+  "RewardID": 420101,
+  "RewardNum": 1,
+  "LimitNum": 0,
+  "Drop": 1
+ },
+ {
+  "ID": 353,
+  "GropID": 1000013,
+  "RewardID": 120603,
+  "RewardNum": 1,
+  "LimitNum": 0,
+  "Drop": 1
+ },
+ {
+  "ID": 354,
+  "GropID": 1000013,
+  "RewardID": 130603,
+  "RewardNum": 1,
+  "LimitNum": 0,
+  "Drop": 1
+ },
+ {
+  "ID": 355,
+  "GropID": 1000013,
+  "RewardID": 410101,
+  "RewardNum": 1,
+  "LimitNum": 0,
+  "Drop": 1
+ },
+ {
+  "ID": 356,
+  "GropID": 1000013,
+  "RewardID": 430301,
+  "RewardNum": 1,
+  "LimitNum": 0,
+  "Drop": 1
+ },
+ {
+  "ID": 357,
+  "GropID": 1000013,
+  "RewardID": 440201,
+  "RewardNum": 1,
+  "LimitNum": 0,
+  "Drop": 1
+ },
+ {
+  "ID": 358,
+  "GropID": 1000013,
+  "RewardID": 440401,
+  "RewardNum": 1,
+  "LimitNum": 0,
+  "Drop": 1
+ },
+ {
+  "ID": 359,
+  "GropID": 1000013,
+  "RewardID": 450101,
+  "RewardNum": 1,
+  "LimitNum": 0,
+  "Drop": 1
+ },
+ {
+  "ID": 360,
+  "GropID": 1000013,
+  "RewardID": 110604,
+  "RewardNum": 1,
+  "LimitNum": 0,
+  "Drop": 1
+ },
+ {
+  "ID": 361,
+  "GropID": 900010,
+  "RewardID": 110402,
+  "RewardNum": 1,
+  "LimitNum": 0,
+  "Drop": 1
+ },
+ {
+  "ID": 362,
+  "GropID": 900010,
+  "RewardID": 110602,
+  "RewardNum": 1,
+  "LimitNum": 0,
+  "Drop": 1
+ },
+ {
+  "ID": 363,
+  "GropID": 900010,
+  "RewardID": 110603,
+  "RewardNum": 1,
+  "LimitNum": 0,
+  "Drop": 1
+ },
+ {
+  "ID": 364,
+  "GropID": 900010,
+  "RewardID": 130601,
+  "RewardNum": 1,
+  "LimitNum": 0,
+  "Drop": 1
+ },
+ {
+  "ID": 365,
+  "GropID": 900010,
+  "RewardID": 140402,
+  "RewardNum": 1,
+  "LimitNum": 0,
+  "Drop": 1
+ },
+ {
+  "ID": 366,
+  "GropID": 900010,
+  "RewardID": 140403,
+  "RewardNum": 1,
+  "LimitNum": 0,
+  "Drop": 1
+ },
+ {
+  "ID": 367,
+  "GropID": 900010,
+  "RewardID": 140404,
+  "RewardNum": 1,
+  "LimitNum": 0,
+  "Drop": 1
+ },
+ {
+  "ID": 368,
+  "GropID": 900010,
+  "RewardID": 420101,
+  "RewardNum": 1,
+  "LimitNum": 0,
+  "Drop": 1
+ },
+ {
+  "ID": 369,
+  "GropID": 900011,
+  "RewardID": 130,
+  "RewardNum": 1,
+  "LimitNum": 0,
+  "Drop": 1
+ },
+ {
+  "ID": 370,
+  "GropID": 900012,
+  "RewardID": 120302,
+  "RewardNum": 1,
+  "LimitNum": 0,
+  "Drop": 1
+ },
+ {
+  "ID": 371,
+  "GropID": 900012,
+  "RewardID": 140201,
+  "RewardNum": 1,
+  "LimitNum": 0,
+  "Drop": 1
+ },
+ {
+  "ID": 372,
+  "GropID": 900012,
+  "RewardID": 140202,
+  "RewardNum": 1,
+  "LimitNum": 0,
+  "Drop": 1
+ },
+ {
+  "ID": 373,
+  "GropID": 900012,
+  "RewardID": 110202,
+  "RewardNum": 1,
+  "LimitNum": 0,
+  "Drop": 1
+ },
+ {
+  "ID": 374,
+  "GropID": 900012,
+  "RewardID": 120602,
+  "RewardNum": 1,
+  "LimitNum": 0,
+  "Drop": 1
+ },
+ {
+  "ID": 375,
+  "GropID": 900012,
+  "RewardID": 120301,
+  "RewardNum": 1,
+  "LimitNum": 0,
+  "Drop": 1
+ },
+ {
+  "ID": 376,
+  "GropID": 900012,
+  "RewardID": 130401,
+  "RewardNum": 1,
+  "LimitNum": 0,
+  "Drop": 1
+ },
+ {
+  "ID": 377,
+  "GropID": 900012,
+  "RewardID": 140304,
+  "RewardNum": 1,
+  "LimitNum": 0,
+  "Drop": 1
+ },
+ {
+  "ID": 378,
+  "GropID": 900013,
+  "RewardID": 110201,
+  "RewardNum": 1,
+  "LimitNum": 0,
+  "Drop": 1
+ },
+ {
+  "ID": 379,
+  "GropID": 900013,
+  "RewardID": 120202,
+  "RewardNum": 1,
+  "LimitNum": 0,
+  "Drop": 1
+ },
+ {
+  "ID": 380,
+  "GropID": 900013,
+  "RewardID": 130202,
+  "RewardNum": 1,
+  "LimitNum": 0,
+  "Drop": 1
+ },
+ {
+  "ID": 381,
+  "GropID": 900013,
+  "RewardID": 110302,
+  "RewardNum": 1,
+  "LimitNum": 0,
+  "Drop": 1
+ },
+ {
+  "ID": 382,
+  "GropID": 900013,
+  "RewardID": 130402,
+  "RewardNum": 1,
+  "LimitNum": 0,
+  "Drop": 1
+ },
+ {
+  "ID": 383,
+  "GropID": 900013,
+  "RewardID": 130501,
+  "RewardNum": 1,
+  "LimitNum": 0,
+  "Drop": 1
+ },
+ {
+  "ID": 384,
+  "GropID": 900013,
+  "RewardID": 140401,
+  "RewardNum": 1,
+  "LimitNum": 0,
+  "Drop": 1
+ },
+ {
+  "ID": 385,
+  "GropID": 900013,
+  "RewardID": 140301,
+  "RewardNum": 1,
+  "LimitNum": 0,
+  "Drop": 1
+ },
+ {
+  "ID": 386,
+  "GropID": 900014,
+  "RewardID": 141,
+  "RewardNum": 100,
+  "LimitNum": 0,
+  "Drop": 2000
+ },
+ {
+  "ID": 387,
+  "GropID": 900015,
+  "RewardID": 174,
+  "RewardNum": 1,
+  "LimitNum": 0,
+  "Drop": 300
+ },
+ {
+  "ID": 388,
+  "GropID": 900016,
+  "RewardID": 241,
+  "RewardNum": 40,
+  "LimitNum": 0,
+  "Drop": 320
+ },
+ {
+  "ID": 389,
+  "GropID": 900017,
+  "RewardID": 241,
+  "RewardNum": 20,
+  "LimitNum": 0,
+  "Drop": 400
+ },
+ {
+  "ID": 390,
+  "GropID": 900018,
+  "RewardID": 241,
+  "RewardNum": 10,
+  "LimitNum": 0,
+  "Drop": 800
+ },
+ {
+  "ID": 391,
+  "GropID": 900019,
+  "RewardID": 241,
+  "RewardNum": 5,
+  "LimitNum": 0,
+  "Drop": 5159
+ },
+ {
+  "ID": 392,
+  "GropID": 900020,
+  "RewardID": 110402,
+  "RewardNum": 1,
+  "LimitNum": 0,
+  "Drop": 1
+ },
+ {
+  "ID": 393,
+  "GropID": 900020,
+  "RewardID": 110602,
+  "RewardNum": 1,
+  "LimitNum": 0,
+  "Drop": 1
+ },
+ {
+  "ID": 394,
+  "GropID": 900020,
+  "RewardID": 110603,
+  "RewardNum": 1,
+  "LimitNum": 0,
+  "Drop": 1
+ },
+ {
+  "ID": 395,
+  "GropID": 900020,
+  "RewardID": 130601,
+  "RewardNum": 1,
+  "LimitNum": 0,
+  "Drop": 1
+ },
+ {
+  "ID": 396,
+  "GropID": 900020,
+  "RewardID": 140402,
+  "RewardNum": 1,
+  "LimitNum": 0,
+  "Drop": 1
+ },
+ {
+  "ID": 397,
+  "GropID": 900020,
+  "RewardID": 140403,
+  "RewardNum": 1,
+  "LimitNum": 0,
+  "Drop": 1
+ },
+ {
+  "ID": 398,
+  "GropID": 900020,
+  "RewardID": 140404,
+  "RewardNum": 1,
+  "LimitNum": 0,
+  "Drop": 1
+ },
+ {
+  "ID": 399,
+  "GropID": 900020,
+  "RewardID": 420101,
+  "RewardNum": 1,
+  "LimitNum": 0,
+  "Drop": 1
+ },
+ {
+  "ID": 400,
+  "GropID": 900021,
+  "RewardID": 130,
+  "RewardNum": 1,
+  "LimitNum": 0,
+  "Drop": 1
+ },
+ {
+  "ID": 401,
+  "GropID": 900022,
+  "RewardID": 120302,
+  "RewardNum": 1,
+  "LimitNum": 0,
+  "Drop": 1
+ },
+ {
+  "ID": 402,
+  "GropID": 900022,
+  "RewardID": 140201,
+  "RewardNum": 1,
+  "LimitNum": 0,
+  "Drop": 1
+ },
+ {
+  "ID": 403,
+  "GropID": 900022,
+  "RewardID": 140202,
+  "RewardNum": 1,
+  "LimitNum": 0,
+  "Drop": 1
+ },
+ {
+  "ID": 404,
+  "GropID": 900022,
+  "RewardID": 110202,
+  "RewardNum": 1,
+  "LimitNum": 0,
+  "Drop": 1
+ },
+ {
+  "ID": 405,
+  "GropID": 900022,
+  "RewardID": 120602,
+  "RewardNum": 1,
+  "LimitNum": 0,
+  "Drop": 1
+ },
+ {
+  "ID": 406,
+  "GropID": 900022,
+  "RewardID": 120301,
+  "RewardNum": 1,
+  "LimitNum": 0,
+  "Drop": 1
+ },
+ {
+  "ID": 407,
+  "GropID": 900022,
+  "RewardID": 130401,
+  "RewardNum": 1,
+  "LimitNum": 0,
+  "Drop": 1
+ },
+ {
+  "ID": 408,
+  "GropID": 900022,
+  "RewardID": 140304,
+  "RewardNum": 1,
+  "LimitNum": 0,
+  "Drop": 1
+ },
+ {
+  "ID": 409,
+  "GropID": 900023,
+  "RewardID": 110201,
+  "RewardNum": 1,
+  "LimitNum": 0,
+  "Drop": 1
+ },
+ {
+  "ID": 410,
+  "GropID": 900023,
+  "RewardID": 120202,
+  "RewardNum": 1,
+  "LimitNum": 0,
+  "Drop": 1
+ },
+ {
+  "ID": 411,
+  "GropID": 900023,
+  "RewardID": 130202,
+  "RewardNum": 1,
+  "LimitNum": 0,
+  "Drop": 1
+ },
+ {
+  "ID": 412,
+  "GropID": 900023,
+  "RewardID": 110302,
+  "RewardNum": 1,
+  "LimitNum": 0,
+  "Drop": 1
+ },
+ {
+  "ID": 413,
+  "GropID": 900023,
+  "RewardID": 130402,
+  "RewardNum": 1,
+  "LimitNum": 0,
+  "Drop": 1
+ },
+ {
+  "ID": 414,
+  "GropID": 900023,
+  "RewardID": 130501,
+  "RewardNum": 1,
+  "LimitNum": 0,
+  "Drop": 1
+ },
+ {
+  "ID": 415,
+  "GropID": 900023,
+  "RewardID": 140401,
+  "RewardNum": 1,
+  "LimitNum": 0,
+  "Drop": 1
+ },
+ {
+  "ID": 416,
+  "GropID": 900023,
+  "RewardID": 140301,
+  "RewardNum": 1,
+  "LimitNum": 0,
+  "Drop": 1
+ },
+ {
+  "ID": 417,
+  "GropID": 900024,
+  "RewardID": 141,
+  "RewardNum": 100,
+  "LimitNum": 0,
+  "Drop": 2000
+ },
+ {
+  "ID": 418,
+  "GropID": 900025,
+  "RewardID": 174,
+  "RewardNum": 1,
+  "LimitNum": 0,
+  "Drop": 300
+ },
+ {
+  "ID": 419,
+  "GropID": 900026,
+  "RewardID": 241,
+  "RewardNum": 40,
+  "LimitNum": 0,
+  "Drop": 320
+ },
+ {
+  "ID": 420,
+  "GropID": 900027,
+  "RewardID": 241,
+  "RewardNum": 20,
+  "LimitNum": 0,
+  "Drop": 400
+ },
+ {
+  "ID": 421,
+  "GropID": 900028,
+  "RewardID": 241,
+  "RewardNum": 10,
+  "LimitNum": 0,
+  "Drop": 800
+ },
+ {
+  "ID": 422,
+  "GropID": 900029,
+  "RewardID": 241,
+  "RewardNum": 5,
+  "LimitNum": 0,
+  "Drop": 5159
+ },
+ {
+  "ID": 423,
+  "GropID": 900030,
+  "RewardID": 110402,
+  "RewardNum": 1,
+  "LimitNum": 0,
+  "Drop": 1
+ },
+ {
+  "ID": 424,
+  "GropID": 900030,
+  "RewardID": 110602,
+  "RewardNum": 1,
+  "LimitNum": 0,
+  "Drop": 1
+ },
+ {
+  "ID": 425,
+  "GropID": 900030,
+  "RewardID": 110603,
+  "RewardNum": 1,
+  "LimitNum": 0,
+  "Drop": 1
+ },
+ {
+  "ID": 426,
+  "GropID": 900030,
+  "RewardID": 130601,
+  "RewardNum": 1,
+  "LimitNum": 0,
+  "Drop": 1
+ },
+ {
+  "ID": 427,
+  "GropID": 900030,
+  "RewardID": 140402,
+  "RewardNum": 1,
+  "LimitNum": 0,
+  "Drop": 1
+ },
+ {
+  "ID": 428,
+  "GropID": 900030,
+  "RewardID": 140403,
+  "RewardNum": 1,
+  "LimitNum": 0,
+  "Drop": 1
+ },
+ {
+  "ID": 429,
+  "GropID": 900030,
+  "RewardID": 140404,
+  "RewardNum": 1,
+  "LimitNum": 0,
+  "Drop": 1
+ },
+ {
+  "ID": 430,
+  "GropID": 900030,
+  "RewardID": 420101,
+  "RewardNum": 1,
+  "LimitNum": 0,
+  "Drop": 1
+ },
+ {
+  "ID": 431,
+  "GropID": 900031,
+  "RewardID": 130,
+  "RewardNum": 1,
+  "LimitNum": 0,
+  "Drop": 1
+ },
+ {
+  "ID": 432,
+  "GropID": 900032,
+  "RewardID": 120302,
+  "RewardNum": 1,
+  "LimitNum": 0,
+  "Drop": 1
+ },
+ {
+  "ID": 433,
+  "GropID": 900032,
+  "RewardID": 140201,
+  "RewardNum": 1,
+  "LimitNum": 0,
+  "Drop": 1
+ },
+ {
+  "ID": 434,
+  "GropID": 900032,
+  "RewardID": 140202,
+  "RewardNum": 1,
+  "LimitNum": 0,
+  "Drop": 1
+ },
+ {
+  "ID": 435,
+  "GropID": 900032,
+  "RewardID": 110202,
+  "RewardNum": 1,
+  "LimitNum": 0,
+  "Drop": 1
+ },
+ {
+  "ID": 436,
+  "GropID": 900032,
+  "RewardID": 120602,
+  "RewardNum": 1,
+  "LimitNum": 0,
+  "Drop": 1
+ },
+ {
+  "ID": 437,
+  "GropID": 900032,
+  "RewardID": 120301,
+  "RewardNum": 1,
+  "LimitNum": 0,
+  "Drop": 1
+ },
+ {
+  "ID": 438,
+  "GropID": 900032,
+  "RewardID": 130401,
+  "RewardNum": 1,
+  "LimitNum": 0,
+  "Drop": 1
+ },
+ {
+  "ID": 439,
+  "GropID": 900032,
+  "RewardID": 140304,
+  "RewardNum": 1,
+  "LimitNum": 0,
+  "Drop": 1
+ },
+ {
+  "ID": 440,
+  "GropID": 900033,
+  "RewardID": 110201,
+  "RewardNum": 1,
+  "LimitNum": 0,
+  "Drop": 1
+ },
+ {
+  "ID": 441,
+  "GropID": 900033,
+  "RewardID": 120202,
+  "RewardNum": 1,
+  "LimitNum": 0,
+  "Drop": 1
+ },
+ {
+  "ID": 442,
+  "GropID": 900033,
+  "RewardID": 130202,
+  "RewardNum": 1,
+  "LimitNum": 0,
+  "Drop": 1
+ },
+ {
+  "ID": 443,
+  "GropID": 900033,
+  "RewardID": 110302,
+  "RewardNum": 1,
+  "LimitNum": 0,
+  "Drop": 1
+ },
+ {
+  "ID": 444,
+  "GropID": 900033,
+  "RewardID": 130402,
+  "RewardNum": 1,
+  "LimitNum": 0,
+  "Drop": 1
+ },
+ {
+  "ID": 445,
+  "GropID": 900033,
+  "RewardID": 130501,
+  "RewardNum": 1,
+  "LimitNum": 0,
+  "Drop": 1
+ },
+ {
+  "ID": 446,
+  "GropID": 900033,
+  "RewardID": 140401,
+  "RewardNum": 1,
+  "LimitNum": 0,
+  "Drop": 1
+ },
+ {
+  "ID": 447,
+  "GropID": 900033,
+  "RewardID": 140301,
+  "RewardNum": 1,
+  "LimitNum": 0,
+  "Drop": 1
+ },
+ {
+  "ID": 448,
+  "GropID": 900034,
+  "RewardID": 141,
+  "RewardNum": 100,
+  "LimitNum": 0,
+  "Drop": 2000
+ },
+ {
+  "ID": 449,
+  "GropID": 900035,
+  "RewardID": 174,
+  "RewardNum": 1,
+  "LimitNum": 0,
+  "Drop": 300
+ },
+ {
+  "ID": 450,
+  "GropID": 900036,
+  "RewardID": 241,
+  "RewardNum": 40,
+  "LimitNum": 0,
+  "Drop": 320
+ },
+ {
+  "ID": 451,
+  "GropID": 900037,
+  "RewardID": 241,
+  "RewardNum": 20,
+  "LimitNum": 0,
+  "Drop": 400
+ },
+ {
+  "ID": 452,
+  "GropID": 900038,
+  "RewardID": 241,
+  "RewardNum": 10,
+  "LimitNum": 0,
+  "Drop": 800
+ },
+ {
+  "ID": 453,
+  "GropID": 900039,
+  "RewardID": 241,
+  "RewardNum": 5,
+  "LimitNum": 0,
+  "Drop": 5159
+ },
+ {
+  "ID": 454,
+  "GropID": 900040,
+  "RewardID": 110402,
+  "RewardNum": 1,
+  "LimitNum": 0,
+  "Drop": 1
+ },
+ {
+  "ID": 455,
+  "GropID": 900040,
+  "RewardID": 110602,
+  "RewardNum": 1,
+  "LimitNum": 0,
+  "Drop": 1
+ },
+ {
+  "ID": 456,
+  "GropID": 900040,
+  "RewardID": 110603,
+  "RewardNum": 1,
+  "LimitNum": 0,
+  "Drop": 1
+ },
+ {
+  "ID": 457,
+  "GropID": 900040,
+  "RewardID": 130601,
+  "RewardNum": 1,
+  "LimitNum": 0,
+  "Drop": 1
+ },
+ {
+  "ID": 458,
+  "GropID": 900040,
+  "RewardID": 140402,
+  "RewardNum": 1,
+  "LimitNum": 0,
+  "Drop": 1
+ },
+ {
+  "ID": 459,
+  "GropID": 900040,
+  "RewardID": 140403,
+  "RewardNum": 1,
+  "LimitNum": 0,
+  "Drop": 1
+ },
+ {
+  "ID": 460,
+  "GropID": 900040,
+  "RewardID": 140404,
+  "RewardNum": 1,
+  "LimitNum": 0,
+  "Drop": 1
+ },
+ {
+  "ID": 461,
+  "GropID": 900040,
+  "RewardID": 420101,
+  "RewardNum": 1,
+  "LimitNum": 0,
+  "Drop": 1
+ },
+ {
+  "ID": 462,
+  "GropID": 900041,
+  "RewardID": 130,
+  "RewardNum": 1,
+  "LimitNum": 0,
+  "Drop": 1
+ },
+ {
+  "ID": 463,
+  "GropID": 900042,
+  "RewardID": 120302,
+  "RewardNum": 1,
+  "LimitNum": 0,
+  "Drop": 1
+ },
+ {
+  "ID": 464,
+  "GropID": 900042,
+  "RewardID": 140201,
+  "RewardNum": 1,
+  "LimitNum": 0,
+  "Drop": 1
+ },
+ {
+  "ID": 465,
+  "GropID": 900042,
+  "RewardID": 140202,
+  "RewardNum": 1,
+  "LimitNum": 0,
+  "Drop": 1
+ },
+ {
+  "ID": 466,
+  "GropID": 900042,
+  "RewardID": 110202,
+  "RewardNum": 1,
+  "LimitNum": 0,
+  "Drop": 1
+ },
+ {
+  "ID": 467,
+  "GropID": 900042,
+  "RewardID": 120602,
+  "RewardNum": 1,
+  "LimitNum": 0,
+  "Drop": 1
+ },
+ {
+  "ID": 468,
+  "GropID": 900042,
+  "RewardID": 120301,
+  "RewardNum": 1,
+  "LimitNum": 0,
+  "Drop": 1
+ },
+ {
+  "ID": 469,
+  "GropID": 900042,
+  "RewardID": 130401,
+  "RewardNum": 1,
+  "LimitNum": 0,
+  "Drop": 1
+ },
+ {
+  "ID": 470,
+  "GropID": 900042,
+  "RewardID": 140304,
+  "RewardNum": 1,
+  "LimitNum": 0,
+  "Drop": 1
+ },
+ {
+  "ID": 471,
+  "GropID": 900043,
+  "RewardID": 110201,
+  "RewardNum": 1,
+  "LimitNum": 0,
+  "Drop": 1
+ },
+ {
+  "ID": 472,
+  "GropID": 900043,
+  "RewardID": 120202,
+  "RewardNum": 1,
+  "LimitNum": 0,
+  "Drop": 1
+ },
+ {
+  "ID": 473,
+  "GropID": 900043,
+  "RewardID": 130202,
+  "RewardNum": 1,
+  "LimitNum": 0,
+  "Drop": 1
+ },
+ {
+  "ID": 474,
+  "GropID": 900043,
+  "RewardID": 110302,
+  "RewardNum": 1,
+  "LimitNum": 0,
+  "Drop": 1
+ },
+ {
+  "ID": 475,
+  "GropID": 900043,
+  "RewardID": 130402,
+  "RewardNum": 1,
+  "LimitNum": 0,
+  "Drop": 1
+ },
+ {
+  "ID": 476,
+  "GropID": 900043,
+  "RewardID": 130501,
+  "RewardNum": 1,
+  "LimitNum": 0,
+  "Drop": 1
+ },
+ {
+  "ID": 477,
+  "GropID": 900043,
+  "RewardID": 140401,
+  "RewardNum": 1,
+  "LimitNum": 0,
+  "Drop": 1
+ },
+ {
+  "ID": 478,
+  "GropID": 900043,
+  "RewardID": 140301,
+  "RewardNum": 1,
+  "LimitNum": 0,
+  "Drop": 1
+ },
+ {
+  "ID": 479,
+  "GropID": 900044,
+  "RewardID": 141,
+  "RewardNum": 100,
+  "LimitNum": 0,
+  "Drop": 2000
+ },
+ {
+  "ID": 480,
+  "GropID": 900045,
+  "RewardID": 174,
+  "RewardNum": 1,
+  "LimitNum": 0,
+  "Drop": 300
+ },
+ {
+  "ID": 481,
+  "GropID": 900046,
+  "RewardID": 241,
+  "RewardNum": 40,
+  "LimitNum": 0,
+  "Drop": 320
+ },
+ {
+  "ID": 482,
+  "GropID": 900047,
+  "RewardID": 241,
+  "RewardNum": 20,
+  "LimitNum": 0,
+  "Drop": 400
+ },
+ {
+  "ID": 483,
+  "GropID": 900048,
+  "RewardID": 241,
+  "RewardNum": 10,
+  "LimitNum": 0,
+  "Drop": 800
+ },
+ {
+  "ID": 484,
+  "GropID": 900049,
+  "RewardID": 241,
+  "RewardNum": 5,
+  "LimitNum": 0,
+  "Drop": 5159
+ },
+ {
+  "ID": 485,
+  "GropID": 900050,
+  "RewardID": 110402,
+  "RewardNum": 1,
+  "LimitNum": 0,
+  "Drop": 1
+ },
+ {
+  "ID": 486,
+  "GropID": 900050,
+  "RewardID": 110602,
+  "RewardNum": 1,
+  "LimitNum": 0,
+  "Drop": 1
+ },
+ {
+  "ID": 487,
+  "GropID": 900050,
+  "RewardID": 110603,
+  "RewardNum": 1,
+  "LimitNum": 0,
+  "Drop": 1
+ },
+ {
+  "ID": 488,
+  "GropID": 900050,
+  "RewardID": 130601,
+  "RewardNum": 1,
+  "LimitNum": 0,
+  "Drop": 1
+ },
+ {
+  "ID": 489,
+  "GropID": 900050,
+  "RewardID": 140402,
+  "RewardNum": 1,
+  "LimitNum": 0,
+  "Drop": 1
+ },
+ {
+  "ID": 490,
+  "GropID": 900050,
+  "RewardID": 140403,
+  "RewardNum": 1,
+  "LimitNum": 0,
+  "Drop": 1
+ },
+ {
+  "ID": 491,
+  "GropID": 900050,
+  "RewardID": 140404,
+  "RewardNum": 1,
+  "LimitNum": 0,
+  "Drop": 1
+ },
+ {
+  "ID": 492,
+  "GropID": 900050,
+  "RewardID": 420101,
+  "RewardNum": 1,
+  "LimitNum": 0,
+  "Drop": 1
+ },
+ {
+  "ID": 493,
+  "GropID": 900051,
+  "RewardID": 130,
+  "RewardNum": 1,
+  "LimitNum": 0,
+  "Drop": 1
+ },
+ {
+  "ID": 494,
+  "GropID": 900052,
+  "RewardID": 120302,
+  "RewardNum": 1,
+  "LimitNum": 0,
+  "Drop": 1
+ },
+ {
+  "ID": 495,
+  "GropID": 900052,
+  "RewardID": 140201,
+  "RewardNum": 1,
+  "LimitNum": 0,
+  "Drop": 1
+ },
+ {
+  "ID": 496,
+  "GropID": 900052,
+  "RewardID": 140202,
+  "RewardNum": 1,
+  "LimitNum": 0,
+  "Drop": 1
+ },
+ {
+  "ID": 497,
+  "GropID": 900052,
+  "RewardID": 110202,
+  "RewardNum": 1,
+  "LimitNum": 0,
+  "Drop": 1
+ },
+ {
+  "ID": 498,
+  "GropID": 900052,
+  "RewardID": 120602,
+  "RewardNum": 1,
+  "LimitNum": 0,
+  "Drop": 1
+ },
+ {
+  "ID": 499,
+  "GropID": 900052,
+  "RewardID": 120301,
+  "RewardNum": 1,
+  "LimitNum": 0,
+  "Drop": 1
+ },
+ {
+  "ID": 500,
+  "GropID": 900052,
+  "RewardID": 130401,
+  "RewardNum": 1,
+  "LimitNum": 0,
+  "Drop": 1
+ },
+ {
+  "ID": 501,
+  "GropID": 900052,
+  "RewardID": 140304,
+  "RewardNum": 1,
+  "LimitNum": 0,
+  "Drop": 1
+ },
+ {
+  "ID": 502,
+  "GropID": 900053,
+  "RewardID": 110201,
+  "RewardNum": 1,
+  "LimitNum": 0,
+  "Drop": 1
+ },
+ {
+  "ID": 503,
+  "GropID": 900053,
+  "RewardID": 120202,
+  "RewardNum": 1,
+  "LimitNum": 0,
+  "Drop": 1
+ },
+ {
+  "ID": 504,
+  "GropID": 900053,
+  "RewardID": 130202,
+  "RewardNum": 1,
+  "LimitNum": 0,
+  "Drop": 1
+ },
+ {
+  "ID": 505,
+  "GropID": 900053,
+  "RewardID": 110302,
+  "RewardNum": 1,
+  "LimitNum": 0,
+  "Drop": 1
+ },
+ {
+  "ID": 506,
+  "GropID": 900053,
+  "RewardID": 130402,
+  "RewardNum": 1,
+  "LimitNum": 0,
+  "Drop": 1
+ },
+ {
+  "ID": 507,
+  "GropID": 900053,
+  "RewardID": 130501,
+  "RewardNum": 1,
+  "LimitNum": 0,
+  "Drop": 1
+ },
+ {
+  "ID": 508,
+  "GropID": 900053,
+  "RewardID": 140401,
+  "RewardNum": 1,
+  "LimitNum": 0,
+  "Drop": 1
+ },
+ {
+  "ID": 509,
+  "GropID": 900053,
+  "RewardID": 140301,
+  "RewardNum": 1,
+  "LimitNum": 0,
+  "Drop": 1
+ },
+ {
+  "ID": 510,
+  "GropID": 900054,
+  "RewardID": 141,
+  "RewardNum": 100,
+  "LimitNum": 0,
+  "Drop": 2000
+ },
+ {
+  "ID": 511,
+  "GropID": 900055,
+  "RewardID": 174,
+  "RewardNum": 1,
+  "LimitNum": 0,
+  "Drop": 300
+ },
+ {
+  "ID": 512,
+  "GropID": 900056,
+  "RewardID": 241,
+  "RewardNum": 40,
+  "LimitNum": 0,
+  "Drop": 320
+ },
+ {
+  "ID": 513,
+  "GropID": 900057,
+  "RewardID": 241,
+  "RewardNum": 20,
+  "LimitNum": 0,
+  "Drop": 400
+ },
+ {
+  "ID": 514,
+  "GropID": 900058,
+  "RewardID": 241,
+  "RewardNum": 10,
+  "LimitNum": 0,
+  "Drop": 800
+ },
+ {
+  "ID": 515,
+  "GropID": 900059,
+  "RewardID": 241,
+  "RewardNum": 5,
+  "LimitNum": 0,
+  "Drop": 5159
+ },
+ {
+  "ID": 516,
+  "GropID": 700021,
+  "RewardID": 602001,
+  "RewardNum": 1,
+  "LimitNum": 0,
+  "Drop": 1
+ },
+ {
+  "ID": 517,
+  "GropID": 700022,
+  "RewardID": 321,
+  "RewardNum": 1,
+  "LimitNum": 0,
+  "Drop": 5
+ },
+ {
+  "ID": 518,
+  "GropID": 700023,
+  "RewardID": 4021,
+  "RewardNum": 1,
+  "LimitNum": 0,
+  "Drop": 1
+ },
+ {
+  "ID": 519,
+  "GropID": 700024,
+  "RewardID": 240201,
+  "RewardNum": 1,
+  "LimitNum": 0,
+  "Drop": 1
+ },
+ {
+  "ID": 520,
+  "GropID": 700025,
+  "RewardID": 124,
+  "RewardNum": 100,
+  "LimitNum": 0,
+  "Drop": 1500
+ },
+ {
+  "ID": 521,
+  "GropID": 700025,
+  "RewardID": 297,
+  "RewardNum": 10,
+  "LimitNum": 0,
+  "Drop": 1500
+ },
+ {
+  "ID": 522,
+  "GropID": 700025,
+  "RewardID": 116,
+  "RewardNum": 5,
+  "LimitNum": 0,
+  "Drop": 700
+ },
+ {
+  "ID": 523,
+  "GropID": 700025,
+  "RewardID": 141,
+  "RewardNum": 500,
+  "LimitNum": 0,
+  "Drop": 1200
+ },
+ {
+  "ID": 524,
+  "GropID": 700025,
+  "RewardID": 174,
+  "RewardNum": 1,
+  "LimitNum": 0,
+  "Drop": 600
+ },
+ {
+  "ID": 525,
+  "GropID": 700025,
+  "RewardID": 145,
+  "RewardNum": 2,
+  "LimitNum": 0,
+  "Drop": 100
+ },
+ {
+  "ID": 526,
+  "GropID": 700025,
+  "RewardID": 241,
+  "RewardNum": 20,
+  "LimitNum": 0,
+  "Drop": 1500
+ },
+ {
+  "ID": 527,
+  "GropID": 700025,
+  "RewardID": 241,
+  "RewardNum": 10,
+  "LimitNum": 0,
+  "Drop": 2892
+ },
+ {
+  "ID": 528,
+  "GropID": 700031,
+  "RewardID": 602008,
+  "RewardNum": 1,
+  "LimitNum": 0,
+  "Drop": 1
+ },
+ {
+  "ID": 529,
+  "GropID": 700032,
+  "RewardID": 321,
+  "RewardNum": 1,
+  "LimitNum": 0,
+  "Drop": 5
+ },
+ {
+  "ID": 530,
+  "GropID": 700033,
+  "RewardID": 4021,
+  "RewardNum": 1,
+  "LimitNum": 0,
+  "Drop": 1
+ },
+ {
+  "ID": 531,
+  "GropID": 700034,
+  "RewardID": 240201,
+  "RewardNum": 1,
+  "LimitNum": 0,
+  "Drop": 1
+ },
+ {
+  "ID": 532,
+  "GropID": 700035,
+  "RewardID": 124,
+  "RewardNum": 100,
+  "LimitNum": 0,
+  "Drop": 1500
+ },
+ {
+  "ID": 533,
+  "GropID": 700035,
+  "RewardID": 297,
+  "RewardNum": 10,
+  "LimitNum": 0,
+  "Drop": 1500
+ },
+ {
+  "ID": 534,
+  "GropID": 700035,
+  "RewardID": 116,
+  "RewardNum": 5,
+  "LimitNum": 0,
+  "Drop": 700
+ },
+ {
+  "ID": 535,
+  "GropID": 700035,
+  "RewardID": 141,
+  "RewardNum": 500,
+  "LimitNum": 0,
+  "Drop": 1200
+ },
+ {
+  "ID": 536,
+  "GropID": 700035,
+  "RewardID": 174,
+  "RewardNum": 1,
+  "LimitNum": 0,
+  "Drop": 600
+ },
+ {
+  "ID": 537,
+  "GropID": 700035,
+  "RewardID": 145,
+  "RewardNum": 2,
+  "LimitNum": 0,
+  "Drop": 100
+ },
+ {
+  "ID": 538,
+  "GropID": 700035,
+  "RewardID": 241,
+  "RewardNum": 20,
+  "LimitNum": 0,
+  "Drop": 1500
+ },
+ {
+  "ID": 539,
+  "GropID": 700035,
+  "RewardID": 241,
+  "RewardNum": 10,
+  "LimitNum": 0,
+  "Drop": 2892
+ },
+ {
+  "ID": 540,
+  "GropID": 80011,
+  "RewardID": 702010,
+  "RewardNum": 1,
+  "LimitNum": 5,
+  "Drop": 153708
+ },
+ {
+  "ID": 541,
+  "GropID": 80011,
+  "RewardID": 116,
+  "RewardNum": 50,
+  "LimitNum": 5,
+  "Drop": 153708
+ },
+ {
+  "ID": 542,
+  "GropID": 80012,
+  "RewardID": 602005,
+  "RewardNum": 1,
+  "LimitNum": 5,
+  "Drop": 384
+ },
+ {
+  "ID": 543,
+  "GropID": 80012,
+  "RewardID": 288,
+  "RewardNum": 1,
+  "LimitNum": 5,
+  "Drop": 384
+ },
+ {
+  "ID": 544,
+  "GropID": 80013,
+  "RewardID": 2028,
+  "RewardNum": 1,
+  "LimitNum": 5,
+  "Drop": 64
+ },
+ {
+  "ID": 545,
+  "GropID": 80013,
+  "RewardID": 602002,
+  "RewardNum": 1,
+  "LimitNum": 5,
+  "Drop": 64
+ },
+ {
+  "ID": 546,
+  "GropID": 80014,
+  "RewardID": 2022,
+  "RewardNum": 1,
+  "LimitNum": 5,
+  "Drop": 38427
+ },
+ {
+  "ID": 547,
+  "GropID": 80014,
+  "RewardID": 227,
+  "RewardNum": 60,
+  "LimitNum": 5,
+  "Drop": 38427
+ },
+ {
+  "ID": 548,
+  "GropID": 80015,
+  "RewardID": 227,
+  "RewardNum": 30,
+  "LimitNum": 5,
+  "Drop": 307416
+ },
+ {
+  "ID": 549,
+  "GropID": 80015,
+  "RewardID": 145,
+  "RewardNum": 10,
+  "LimitNum": 5,
+  "Drop": 307416
+ },
+ {
+  "ID": 550,
+  "GropID": 80016,
+  "RewardID": 116,
+  "RewardNum": 2,
+  "LimitNum": 10,
+  "Drop": 16700000
+ },
+ {
+  "ID": 551,
+  "GropID": 80016,
+  "RewardID": 285,
+  "RewardNum": 1,
+  "LimitNum": 15,
+  "Drop": 16700000
+ },
+ {
+  "ID": 552,
+  "GropID": 80016,
+  "RewardID": 145,
+  "RewardNum": 1,
+  "LimitNum": 15,
+  "Drop": 16700000
+ },
+ {
+  "ID": 553,
+  "GropID": 80016,
+  "RewardID": 240,
+  "RewardNum": 50,
+  "LimitNum": 15,
+  "Drop": 16700000
+ },
+ {
+  "ID": 554,
+  "GropID": 80016,
+  "RewardID": 116,
+  "RewardNum": 1,
+  "LimitNum": 15,
+  "Drop": 185640000
+ },
+ {
+  "ID": 555,
+  "GropID": 80016,
+  "RewardID": 284,
+  "RewardNum": 1,
+  "LimitNum": 20,
+  "Drop": 185640000
+ },
+ {
+  "ID": 556,
+  "GropID": 80016,
+  "RewardID": 141,
+  "RewardNum": 500,
+  "LimitNum": 20,
+  "Drop": 185640000
+ },
+ {
+  "ID": 557,
+  "GropID": 80016,
+  "RewardID": 297,
+  "RewardNum": 5,
+  "LimitNum": 20,
+  "Drop": 185640000
+ },
+ {
+  "ID": 558,
+  "GropID": 80016,
+  "RewardID": 241,
+  "RewardNum": 20,
+  "LimitNum": 20,
+  "Drop": 185640000
+ },
+ {
+  "ID": 559,
+  "GropID": 80021,
+  "RewardID": 702009,
+  "RewardNum": 1,
+  "LimitNum": 5,
+  "Drop": 153708
+ },
+ {
+  "ID": 560,
+  "GropID": 80021,
+  "RewardID": 116,
+  "RewardNum": 50,
+  "LimitNum": 5,
+  "Drop": 153708
+ },
+ {
+  "ID": 561,
+  "GropID": 80022,
+  "RewardID": 602005,
+  "RewardNum": 1,
+  "LimitNum": 5,
+  "Drop": 384
+ },
+ {
+  "ID": 562,
+  "GropID": 80022,
+  "RewardID": 288,
+  "RewardNum": 1,
+  "LimitNum": 5,
+  "Drop": 384
+ },
+ {
+  "ID": 563,
+  "GropID": 80023,
+  "RewardID": 2028,
+  "RewardNum": 1,
+  "LimitNum": 5,
+  "Drop": 64
+ },
+ {
+  "ID": 564,
+  "GropID": 80023,
+  "RewardID": 602007,
+  "RewardNum": 1,
+  "LimitNum": 5,
+  "Drop": 64
+ },
+ {
+  "ID": 565,
+  "GropID": 80024,
+  "RewardID": 2022,
+  "RewardNum": 1,
+  "LimitNum": 5,
+  "Drop": 38427
+ },
+ {
+  "ID": 566,
+  "GropID": 80024,
+  "RewardID": 227,
+  "RewardNum": 60,
+  "LimitNum": 5,
+  "Drop": 38427
+ },
+ {
+  "ID": 567,
+  "GropID": 80025,
+  "RewardID": 227,
+  "RewardNum": 30,
+  "LimitNum": 5,
+  "Drop": 307416
+ },
+ {
+  "ID": 568,
+  "GropID": 80025,
+  "RewardID": 145,
+  "RewardNum": 10,
+  "LimitNum": 5,
+  "Drop": 307416
+ },
+ {
+  "ID": 569,
+  "GropID": 80026,
+  "RewardID": 116,
+  "RewardNum": 2,
+  "LimitNum": 10,
+  "Drop": 16700000
+ },
+ {
+  "ID": 570,
+  "GropID": 80026,
+  "RewardID": 285,
+  "RewardNum": 1,
+  "LimitNum": 15,
+  "Drop": 16700000
+ },
+ {
+  "ID": 571,
+  "GropID": 80026,
+  "RewardID": 145,
+  "RewardNum": 1,
+  "LimitNum": 15,
+  "Drop": 16700000
+ },
+ {
+  "ID": 572,
+  "GropID": 80026,
+  "RewardID": 240,
+  "RewardNum": 50,
+  "LimitNum": 15,
+  "Drop": 16700000
+ },
+ {
+  "ID": 573,
+  "GropID": 80026,
+  "RewardID": 116,
+  "RewardNum": 1,
+  "LimitNum": 15,
+  "Drop": 185640000
+ },
+ {
+  "ID": 574,
+  "GropID": 80026,
+  "RewardID": 284,
+  "RewardNum": 1,
+  "LimitNum": 20,
+  "Drop": 185640000
+ },
+ {
+  "ID": 575,
+  "GropID": 80026,
+  "RewardID": 141,
+  "RewardNum": 500,
+  "LimitNum": 20,
+  "Drop": 185640000
+ },
+ {
+  "ID": 576,
+  "GropID": 80026,
+  "RewardID": 297,
+  "RewardNum": 5,
+  "LimitNum": 20,
+  "Drop": 185640000
+ },
+ {
+  "ID": 577,
+  "GropID": 80026,
+  "RewardID": 241,
+  "RewardNum": 20,
+  "LimitNum": 20,
+  "Drop": 185640000
+ }
+]

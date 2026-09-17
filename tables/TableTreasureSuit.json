@@ -1,0 +1,212 @@
+[
+ {
+  "SuitID": 1,
+  "TreasureIDs": [
+   302001,
+   302002,
+   302003,
+   302004
+  ],
+  "StarEffects": [
+   1,
+   3,
+   6,
+   10
+  ],
+  "SuitEffectId": [
+   1,
+   2,
+   3,
+   4
+  ]
+ },
+ {
+  "SuitID": 2,
+  "TreasureIDs": [
+   302005,
+   302006,
+   302007,
+   303001
+  ],
+  "StarEffects": [
+   1,
+   3,
+   6,
+   10
+  ],
+  "SuitEffectId": [
+   5,
+   6,
+   7,
+   8
+  ]
+ },
+ {
+  "SuitID": 3,
+  "TreasureIDs": [
+   302008,
+   303002,
+   303003,
+   303004
+  ],
+  "StarEffects": [
+   1,
+   3,
+   6,
+   10
+  ],
+  "SuitEffectId": [
+   9,
+   10,
+   11,
+   12
+  ]
+ },
+ {
+  "SuitID": 4,
+  "TreasureIDs": [
+   303005,
+   303006,
+   303007,
+   303008
+  ],
+  "StarEffects": [
+   1,
+   3,
+   6,
+   10
+  ],
+  "SuitEffectId": [
+   13,
+   14,
+   15,
+   16
+  ]
+ },
+ {
+  "SuitID": 5,
+  "TreasureIDs": [
+   302009,
+   303009,
+   304001,
+   304002
+  ],
+  "StarEffects": [
+   1,
+   3,
+   6,
+   10
+  ],
+  "SuitEffectId": [
+   17,
+   18,
+   19,
+   20
+  ]
+ },
+ {
+  "SuitID": 6,
+  "TreasureIDs": [
+   304003,
+   304004,
+   304005,
+   304006
+  ],
+  "StarEffects": [
+   1,
+   3,
+   6,
+   10
+  ],
+  "SuitEffectId": [
+   21,
+   22,
+   23,
+   24
+  ]
+ },
+ {
+  "SuitID": 7,
+  "TreasureIDs": [
+   302010,
+   303010,
+   304007,
+   305001
+  ],
+  "StarEffects": [
+   1,
+   3,
+   6,
+   10
+  ],
+  "SuitEffectId": [
+   25,
+   26,
+   27,
+   28
+  ]
+ },
+ {
+  "SuitID": 8,
+  "TreasureIDs": [
+   304008,
+   304009,
+   305002,
+   305003
+  ],
+  "StarEffects": [
+   1,
+   3,
+   6,
+   10
+  ],
+  "SuitEffectId": [
+   29,
+   30,
+   31,
+   32
+  ]
+ },
+ {
+  "SuitID": 9,
+  "TreasureIDs": [
+   304010,
+   305004,
+   305005,
+   305006
+  ],
+  "StarEffects": [
+   1,
+   3,
+   6,
+   10
+  ],
+  "SuitEffectId": [
+   33,
+   34,
+   35,
+   36
+  ]
+ },
+ {
+  "SuitID": 10,
+  "TreasureIDs": [
+   305007,
+   305008,
+   305009,
+   305010
+  ],
+  "StarEffects": [
+   1,
+   3,
+   6,
+   10
+  ],
+  "SuitEffectId": [
+   37,
+   38,
+   39,
+   40
+  ]
+ }
+]

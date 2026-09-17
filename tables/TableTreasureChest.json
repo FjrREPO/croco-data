@@ -1,0 +1,42 @@
+[
+ {
+  "id": 1,
+  "Rate": 5,
+  "GetPoints": 5,
+  "Reward": [
+   50001
+  ]
+ },
+ {
+  "id": 2,
+  "Rate": 10,
+  "GetPoints": 10,
+  "Reward": [
+   50002
+  ]
+ },
+ {
+  "id": 3,
+  "Rate": 20,
+  "GetPoints": 20,
+  "Reward": [
+   50003
+  ]
+ },
+ {
+  "id": 4,
+  "Rate": 40,
+  "GetPoints": 40,
+  "Reward": [
+   50004
+  ]
+ },
+ {
+  "id": 5,
+  "Rate": 0,
+  "GetPoints": 0,
+  "Reward": [
+   50005
+  ]
+ }
+]

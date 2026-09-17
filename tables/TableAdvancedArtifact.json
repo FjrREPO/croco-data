@@ -1,0 +1,462 @@
+[
+ {
+  "ArtifactID": 702001,
+  "ArtifactIcon": "Artifact_702001",
+  "ArtifactQuality": 4,
+  "AttrIDs": 100,
+  "AttrTypes": 1,
+  "AttrVals": [
+   50,
+   100,
+   150,
+   200,
+   250
+  ],
+  "AttrIDs2": 102,
+  "AttrTypes2": 1,
+  "AttrVals2": [
+   25,
+   50,
+   75,
+   100,
+   125
+  ],
+  "AttrIDs3": 4,
+  "AttrTypes3": 1,
+  "AttrVals3": [
+   750,
+   1500,
+   2250,
+   3000,
+   3750
+  ],
+  "ArtifactWeight": 200,
+  "MaxLevel": 5,
+  "PieceNeeded": 1,
+  "PieceNeededAdd": 0,
+  "AEIDs": [
+   702008100
+  ],
+  "UnlockLevels": [
+   1,
+   2,
+   3,
+   4,
+   5
+  ]
+ },
+ {
+  "ArtifactID": 702002,
+  "ArtifactIcon": "Artifact_702002",
+  "ArtifactQuality": 4,
+  "AttrIDs": 100,
+  "AttrTypes": 1,
+  "AttrVals": [
+   50,
+   100,
+   150,
+   200,
+   250
+  ],
+  "AttrIDs2": 102,
+  "AttrTypes2": 1,
+  "AttrVals2": [
+   25,
+   50,
+   75,
+   100,
+   125
+  ],
+  "AttrIDs3": 4,
+  "AttrTypes3": 1,
+  "AttrVals3": [
+   750,
+   1500,
+   2250,
+   3000,
+   3750
+  ],
+  "ArtifactWeight": 200,
+  "MaxLevel": 5,
+  "PieceNeeded": 1,
+  "PieceNeededAdd": 0,
+  "AEIDs": [
+   702002100
+  ],
+  "UnlockLevels": [
+   1,
+   2,
+   3,
+   4,
+   5
+  ]
+ },
+ {
+  "ArtifactID": 702003,
+  "ArtifactIcon": "Artifact_702003",
+  "ArtifactQuality": 4,
+  "AttrIDs": 100,
+  "AttrTypes": 1,
+  "AttrVals": [
+   50,
+   100,
+   150,
+   200,
+   250
+  ],
+  "AttrIDs2": 102,
+  "AttrTypes2": 1,
+  "AttrVals2": [
+   25,
+   50,
+   75,
+   100,
+   125
+  ],
+  "AttrIDs3": 4,
+  "AttrTypes3": 1,
+  "AttrVals3": [
+   750,
+   1500,
+   2250,
+   3000,
+   3750
+  ],
+  "ArtifactWeight": 200,
+  "MaxLevel": 5,
+  "PieceNeeded": 1,
+  "PieceNeededAdd": 0,
+  "AEIDs": [
+   702003100
+  ],
+  "UnlockLevels": [
+   1,
+   2,
+   3,
+   4,
+   5
+  ]
+ },
+ {
+  "ArtifactID": 702004,
+  "ArtifactIcon": "Artifact_702005",
+  "ArtifactQuality": 5,
+  "AttrIDs": 100,
+  "AttrTypes": 1,
+  "AttrVals": [
+   60,
+   120,
+   180,
+   240,
+   300
+  ],
+  "AttrIDs2": 102,
+  "AttrTypes2": 1,
+  "AttrVals2": [
+   30,
+   60,
+   90,
+   120,
+   150
+  ],
+  "AttrIDs3": 4,
+  "AttrTypes3": 1,
+  "AttrVals3": [
+   900,
+   1800,
+   2700,
+   3600,
+   4500
+  ],
+  "ArtifactWeight": 200,
+  "MaxLevel": 5,
+  "PieceNeeded": 1,
+  "PieceNeededAdd": 0,
+  "AEIDs": [
+   702004100
+  ],
+  "UnlockLevels": [
+   1,
+   2,
+   3,
+   4,
+   5
+  ]
+ },
+ {
+  "ArtifactID": 702005,
+  "ArtifactIcon": "Artifact_702004",
+  "ArtifactQuality": 5,
+  "AttrIDs": 100,
+  "AttrTypes": 1,
+  "AttrVals": [
+   60,
+   120,
+   180,
+   240,
+   300
+  ],
+  "AttrIDs2": 102,
+  "AttrTypes2": 1,
+  "AttrVals2": [
+   30,
+   60,
+   90,
+   120,
+   150
+  ],
+  "AttrIDs3": 4,
+  "AttrTypes3": 1,
+  "AttrVals3": [
+   900,
+   1800,
+   2700,
+   3600,
+   4500
+  ],
+  "ArtifactWeight": 200,
+  "MaxLevel": 5,
+  "PieceNeeded": 1,
+  "PieceNeededAdd": 0,
+  "AEIDs": [
+   702005100
+  ],
+  "UnlockLevels": [
+   1,
+   2,
+   3,
+   4,
+   5
+  ]
+ },
+ {
+  "ArtifactID": 702006,
+  "ArtifactIcon": "Artifact_702006",
+  "ArtifactQuality": 5,
+  "AttrIDs": 100,
+  "AttrTypes": 1,
+  "AttrVals": [
+   60,
+   120,
+   180,
+   240,
+   300
+  ],
+  "AttrIDs2": 102,
+  "AttrTypes2": 1,
+  "AttrVals2": [
+   30,
+   60,
+   90,
+   120,
+   150
+  ],
+  "AttrIDs3": 4,
+  "AttrTypes3": 1,
+  "AttrVals3": [
+   900,
+   1800,
+   2700,
+   3600,
+   4500
+  ],
+  "ArtifactWeight": 200,
+  "MaxLevel": 5,
+  "PieceNeeded": 1,
+  "PieceNeededAdd": 0,
+  "AEIDs": [
+   702006100
+  ],
+  "UnlockLevels": [
+   1,
+   2,
+   3,
+   4,
+   5
+  ]
+ },
+ {
+  "ArtifactID": 702007,
+  "ArtifactIcon": "Artifact_702007",
+  "ArtifactQuality": 5,
+  "AttrIDs": 100,
+  "AttrTypes": 1,
+  "AttrVals": [
+   60,
+   120,
+   180,
+   240,
+   300
+  ],
+  "AttrIDs2": 102,
+  "AttrTypes2": 1,
+  "AttrVals2": [
+   30,
+   60,
+   90,
+   120,
+   150
+  ],
+  "AttrIDs3": 4,
+  "AttrTypes3": 1,
+  "AttrVals3": [
+   900,
+   1800,
+   2700,
+   3600,
+   4500
+  ],
+  "ArtifactWeight": 200,
+  "MaxLevel": 5,
+  "PieceNeeded": 1,
+  "PieceNeededAdd": 0,
+  "AEIDs": [
+   702007100
+  ],
+  "UnlockLevels": [
+   1,
+   2,
+   3,
+   4,
+   5
+  ]
+ },
+ {
+  "ArtifactID": 702008,
+  "ArtifactIcon": "Artifact_702008",
+  "ArtifactQuality": 4,
+  "AttrIDs": 100,
+  "AttrTypes": 1,
+  "AttrVals": [
+   50,
+   100,
+   150,
+   200,
+   250
+  ],
+  "AttrIDs2": 102,
+  "AttrTypes2": 1,
+  "AttrVals2": [
+   25,
+   50,
+   75,
+   100,
+   125
+  ],
+  "AttrIDs3": 4,
+  "AttrTypes3": 1,
+  "AttrVals3": [
+   750,
+   1500,
+   2250,
+   3000,
+   3750
+  ],
+  "ArtifactWeight": 200,
+  "MaxLevel": 5,
+  "PieceNeeded": 1,
+  "PieceNeededAdd": 0,
+  "AEIDs": [
+   702001100
+  ],
+  "UnlockLevels": [
+   1,
+   2,
+   3,
+   4,
+   5
+  ]
+ },
+ {
+  "ArtifactID": 702009,
+  "ArtifactIcon": "Artifact_702009",
+  "ArtifactQuality": 4,
+  "AttrIDs": 100,
+  "AttrTypes": 1,
+  "AttrVals": [
+   50,
+   100,
+   150,
+   200,
+   250
+  ],
+  "AttrIDs2": 102,
+  "AttrTypes2": 1,
+  "AttrVals2": [
+   25,
+   50,
+   75,
+   100,
+   125
+  ],
+  "AttrIDs3": 4,
+  "AttrTypes3": 1,
+  "AttrVals3": [
+   750,
+   1500,
+   2250,
+   3000,
+   3750
+  ],
+  "ArtifactWeight": 200,
+  "MaxLevel": 5,
+  "PieceNeeded": 1,
+  "PieceNeededAdd": 0,
+  "AEIDs": [
+   702009100
+  ],
+  "UnlockLevels": [
+   1,
+   2,
+   3,
+   4,
+   5
+  ]
+ },
+ {
+  "ArtifactID": 702010,
+  "ArtifactIcon": "Artifact_702010",
+  "ArtifactQuality": 4,
+  "AttrIDs": 100,
+  "AttrTypes": 1,
+  "AttrVals": [
+   50,
+   100,
+   150,
+   200,
+   250
+  ],
+  "AttrIDs2": 102,
+  "AttrTypes2": 1,
+  "AttrVals2": [
+   25,
+   50,
+   75,
+   100,
+   125
+  ],
+  "AttrIDs3": 4,
+  "AttrTypes3": 1,
+  "AttrVals3": [
+   750,
+   1500,
+   2250,
+   3000,
+   3750
+  ],
+  "ArtifactWeight": 200,
+  "MaxLevel": 5,
+  "PieceNeeded": 1,
+  "PieceNeededAdd": 0,
+  "AEIDs": [
+   702010100
+  ],
+  "UnlockLevels": [
+   1,
+   2,
+   3,
+   4,
+   5
+  ]
+ }
+]

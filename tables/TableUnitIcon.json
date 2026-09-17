@@ -1,0 +1,932 @@
+[
+ {
+  "Path": "heroIcon_001",
+  "Size": 110.0,
+  "OffsetX": -10.0,
+  "OffsetY": 28.0
+ },
+ {
+  "Path": "heroIcon_006",
+  "Size": 105.0,
+  "OffsetX": -8.0,
+  "OffsetY": 65.73999786376953
+ },
+ {
+  "Path": "heroIcon_007",
+  "Size": 115.0,
+  "OffsetX": -18.899999618530273,
+  "OffsetY": 47.13999938964844
+ },
+ {
+  "Path": "heroIcon_008",
+  "Size": 110.0,
+  "OffsetX": 16.799999237060547,
+  "OffsetY": 35.29999923706055
+ },
+ {
+  "Path": "heroIcon_012",
+  "Size": 115.0,
+  "OffsetX": 1.7000000476837158,
+  "OffsetY": 40.400001525878906
+ },
+ {
+  "Path": "heroIcon_00101",
+  "Size": 110.0,
+  "OffsetX": -10.0,
+  "OffsetY": 28.0
+ },
+ {
+  "Path": "heroIcon_00601",
+  "Size": 105.0,
+  "OffsetX": -8.0,
+  "OffsetY": 65.73999786376953
+ },
+ {
+  "Path": "heroIcon_00602",
+  "Size": 105.0,
+  "OffsetX": -0.30000001192092896,
+  "OffsetY": 57.970001220703125
+ },
+ {
+  "Path": "heroIcon_00701",
+  "Size": 115.0,
+  "OffsetX": -18.899999618530273,
+  "OffsetY": 47.13999938964844
+ },
+ {
+  "Path": "heroIcon_00801",
+  "Size": 110.0,
+  "OffsetX": 16.799999237060547,
+  "OffsetY": 35.29999923706055
+ },
+ {
+  "Path": "heroIcon_01201",
+  "Size": 115.0,
+  "OffsetX": 1.7000000476837158,
+  "OffsetY": 40.400001525878906
+ },
+ {
+  "Path": "heroIcon_450101",
+  "Size": 110.0,
+  "OffsetX": 1.100000023841858,
+  "OffsetY": 33.20000076293945
+ },
+ {
+  "Path": "heroIcon_45010101",
+  "Size": 110.0,
+  "OffsetX": 1.100000023841858,
+  "OffsetY": 33.20000076293945
+ },
+ {
+  "Path": "Icon_Head_1002",
+  "Size": 110.0,
+  "OffsetX": -1.399999976158142,
+  "OffsetY": 33.400001525878906
+ },
+ {
+  "Path": "Icon_Head_1004",
+  "Size": 115.0,
+  "OffsetX": -5.199999809265137,
+  "OffsetY": 40.22999954223633
+ },
+ {
+  "Path": "Icon_Head_1005",
+  "Size": 110.0,
+  "OffsetX": -9.5,
+  "OffsetY": 29.399999618530273
+ },
+ {
+  "Path": "Icon_Head_1006",
+  "Size": 110.0,
+  "OffsetX": 2.4000000953674316,
+  "OffsetY": 53.0
+ },
+ {
+  "Path": "Icon_Head_1010",
+  "Size": 110.0,
+  "OffsetX": 4.699999809265137,
+  "OffsetY": 38.70000076293945
+ },
+ {
+  "Path": "Icon_Head_1011",
+  "Size": 110.0,
+  "OffsetX": 2.0,
+  "OffsetY": 4.900000095367432
+ },
+ {
+  "Path": "Icon_Head_1012",
+  "Size": 115.0,
+  "OffsetX": 0.0,
+  "OffsetY": 23.899999618530273
+ },
+ {
+  "Path": "Icon_Head_2003",
+  "Size": 115.0,
+  "OffsetX": -5.599999904632568,
+  "OffsetY": 50.099998474121094
+ },
+ {
+  "Path": "Icon_Head_2004",
+  "Size": 130.0,
+  "OffsetX": 33.0,
+  "OffsetY": -6.400000095367432
+ },
+ {
+  "Path": "Icon_Head_2005",
+  "Size": 115.0,
+  "OffsetX": 8.300000190734863,
+  "OffsetY": 29.299999237060547
+ },
+ {
+  "Path": "Icon_Head_2010",
+  "Size": 110.0,
+  "OffsetX": -23.899999618530273,
+  "OffsetY": 50.400001525878906
+ },
+ {
+  "Path": "Icon_Head_2011",
+  "Size": 110.0,
+  "OffsetX": -7.800000190734863,
+  "OffsetY": 31.399999618530273
+ },
+ {
+  "Path": "Icon_Head_3003",
+  "Size": 105.0,
+  "OffsetX": 13.300000190734863,
+  "OffsetY": 16.700000762939453
+ },
+ {
+  "Path": "Icon_Head_3006",
+  "Size": 110.0,
+  "OffsetX": -13.5,
+  "OffsetY": 25.260000228881836
+ },
+ {
+  "Path": "Icon_Head_3007",
+  "Size": 120.0,
+  "OffsetX": -7.300000190734863,
+  "OffsetY": 31.100000381469727
+ },
+ {
+  "Path": "Icon_Head_3008",
+  "Size": 110.0,
+  "OffsetX": 16.100000381469727,
+  "OffsetY": 4.099999904632568
+ },
+ {
+  "Path": "Icon_Head_3009",
+  "Size": 110.0,
+  "OffsetX": -3.9000000953674316,
+  "OffsetY": 42.5
+ },
+ {
+  "Path": "Icon_Head_3011",
+  "Size": 115.0,
+  "OffsetX": 8.399999618530273,
+  "OffsetY": 48.400001525878906
+ },
+ {
+  "Path": "Icon_Head_4002",
+  "Size": 115.0,
+  "OffsetX": -1.5,
+  "OffsetY": 33.29999923706055
+ },
+ {
+  "Path": "Icon_Head_4003",
+  "Size": 110.0,
+  "OffsetX": 5.699999809265137,
+  "OffsetY": 42.099998474121094
+ },
+ {
+  "Path": "Icon_Head_4004",
+  "Size": 110.0,
+  "OffsetX": 21.5,
+  "OffsetY": 7.699999809265137
+ },
+ {
+  "Path": "Icon_Head_4008",
+  "Size": 100.0,
+  "OffsetX": -12.300000190734863,
+  "OffsetY": 14.100000381469727
+ },
+ {
+  "Path": "Icon_Head_4009",
+  "Size": 120.0,
+  "OffsetX": -13.800000190734863,
+  "OffsetY": 59.099998474121094
+ },
+ {
+  "Path": "Icon_Head_4010",
+  "Size": 115.0,
+  "OffsetX": 3.200000047683716,
+  "OffsetY": 34.099998474121094
+ },
+ {
+  "Path": "Icon_Head_4011",
+  "Size": 115.0,
+  "OffsetX": 8.300000190734863,
+  "OffsetY": 57.29999923706055
+ },
+ {
+  "Path": "Icon_Head_4012",
+  "Size": 115.0,
+  "OffsetX": 5.010000228881836,
+  "OffsetY": 23.8700008392334
+ },
+ {
+  "Path": "Icon_Head_100201",
+  "Size": 110.0,
+  "OffsetX": -1.399999976158142,
+  "OffsetY": 33.400001525878906
+ },
+ {
+  "Path": "Icon_Head_100301",
+  "Size": 110.0,
+  "OffsetX": -8.600000381469727,
+  "OffsetY": 42.599998474121094
+ },
+ {
+  "Path": "Icon_Head_100401",
+  "Size": 115.0,
+  "OffsetX": -5.199999809265137,
+  "OffsetY": 40.22999954223633
+ },
+ {
+  "Path": "Icon_Head_100501",
+  "Size": 110.0,
+  "OffsetX": -9.5,
+  "OffsetY": 29.399999618530273
+ },
+ {
+  "Path": "Icon_Head_100601",
+  "Size": 110.0,
+  "OffsetX": 2.4000000953674316,
+  "OffsetY": 53.0
+ },
+ {
+  "Path": "Icon_Head_101001",
+  "Size": 110.0,
+  "OffsetX": 4.699999809265137,
+  "OffsetY": 38.70000076293945
+ },
+ {
+  "Path": "Icon_Head_101101",
+  "Size": 110.0,
+  "OffsetX": 2.0,
+  "OffsetY": 4.900000095367432
+ },
+ {
+  "Path": "Icon_Head_101201",
+  "Size": 115.0,
+  "OffsetX": 0.0,
+  "OffsetY": 23.899999618530273
+ },
+ {
+  "Path": "Icon_Head_140501",
+  "Size": 105.0,
+  "OffsetX": -7.5,
+  "OffsetY": 64.0
+ },
+ {
+  "Path": "Icon_Head_140502",
+  "Size": 110.0,
+  "OffsetX": -14.800000190734863,
+  "OffsetY": 61.599998474121094
+ },
+ {
+  "Path": "Icon_Head_150501",
+  "Size": 110.0,
+  "OffsetX": 9.100000381469727,
+  "OffsetY": 38.20000076293945
+ },
+ {
+  "Path": "Icon_Head_200301",
+  "Size": 115.0,
+  "OffsetX": -5.599999904632568,
+  "OffsetY": 50.099998474121094
+ },
+ {
+  "Path": "Icon_Head_200401",
+  "Size": 130.0,
+  "OffsetX": 33.0,
+  "OffsetY": -6.400000095367432
+ },
+ {
+  "Path": "Icon_Head_200501",
+  "Size": 115.0,
+  "OffsetX": 8.300000190734863,
+  "OffsetY": 29.299999237060547
+ },
+ {
+  "Path": "Icon_Head_201001",
+  "Size": 110.0,
+  "OffsetX": -23.899999618530273,
+  "OffsetY": 50.400001525878906
+ },
+ {
+  "Path": "Icon_Head_201101",
+  "Size": 110.0,
+  "OffsetX": -7.800000190734863,
+  "OffsetY": 31.399999618530273
+ },
+ {
+  "Path": "Icon_Head_201102",
+  "Size": 110.0,
+  "OffsetX": -7.800000190734863,
+  "OffsetY": 31.399999618530273
+ },
+ {
+  "Path": "Icon_Head_210101",
+  "Size": 120.0,
+  "OffsetX": 15.100000381469727,
+  "OffsetY": 22.100000381469727
+ },
+ {
+  "Path": "Icon_Head_210201",
+  "Size": 120.0,
+  "OffsetX": 15.100000381469727,
+  "OffsetY": 22.100000381469727
+ },
+ {
+  "Path": "Icon_Head_210301",
+  "Size": 120.0,
+  "OffsetX": -7.599999904632568,
+  "OffsetY": 11.699999809265137
+ },
+ {
+  "Path": "Icon_Head_210401",
+  "Size": 120.0,
+  "OffsetX": -5.5,
+  "OffsetY": 13.800000190734863
+ },
+ {
+  "Path": "Icon_Head_210501",
+  "Size": 120.0,
+  "OffsetX": 12.100000381469727,
+  "OffsetY": -4.400000095367432
+ },
+ {
+  "Path": "Icon_Head_300301",
+  "Size": 105.0,
+  "OffsetX": 13.300000190734863,
+  "OffsetY": 16.700000762939453
+ },
+ {
+  "Path": "Icon_Head_300601",
+  "Size": 110.0,
+  "OffsetX": -13.5,
+  "OffsetY": 25.260000228881836
+ },
+ {
+  "Path": "Icon_Head_300701",
+  "Size": 120.0,
+  "OffsetX": -7.300000190734863,
+  "OffsetY": 31.100000381469727
+ },
+ {
+  "Path": "Icon_Head_300801",
+  "Size": 110.0,
+  "OffsetX": 16.100000381469727,
+  "OffsetY": 4.099999904632568
+ },
+ {
+  "Path": "Icon_Head_300901",
+  "Size": 110.0,
+  "OffsetX": -3.9000000953674316,
+  "OffsetY": 42.5
+ },
+ {
+  "Path": "Icon_Head_301101",
+  "Size": 115.0,
+  "OffsetX": 8.399999618530273,
+  "OffsetY": 48.400001525878906
+ },
+ {
+  "Path": "Icon_Head_400201",
+  "Size": 115.0,
+  "OffsetX": -1.5,
+  "OffsetY": 33.29999923706055
+ },
+ {
+  "Path": "Icon_Head_400301",
+  "Size": 110.0,
+  "OffsetX": 5.699999809265137,
+  "OffsetY": 42.099998474121094
+ },
+ {
+  "Path": "Icon_Head_400401",
+  "Size": 110.0,
+  "OffsetX": 21.5,
+  "OffsetY": 7.699999809265137
+ },
+ {
+  "Path": "Icon_Head_400801",
+  "Size": 100.0,
+  "OffsetX": -12.300000190734863,
+  "OffsetY": 14.100000381469727
+ },
+ {
+  "Path": "Icon_Head_400901",
+  "Size": 120.0,
+  "OffsetX": -13.800000190734863,
+  "OffsetY": 59.099998474121094
+ },
+ {
+  "Path": "Icon_Head_401001",
+  "Size": 115.0,
+  "OffsetX": 3.200000047683716,
+  "OffsetY": 34.099998474121094
+ },
+ {
+  "Path": "Icon_Head_401101",
+  "Size": 115.0,
+  "OffsetX": 8.300000190734863,
+  "OffsetY": 57.29999923706055
+ },
+ {
+  "Path": "Icon_Head_401201",
+  "Size": 115.0,
+  "OffsetX": 5.010000228881836,
+  "OffsetY": 23.8700008392334
+ },
+ {
+  "Path": "Icon_Head_410501",
+  "Size": 105.0,
+  "OffsetX": 1.2000000476837158,
+  "OffsetY": 46.099998474121094
+ },
+ {
+  "Path": "Icon_Head_14050101",
+  "Size": 105.0,
+  "OffsetX": -7.5,
+  "OffsetY": 64.0
+ },
+ {
+  "Path": "Icon_Head_14050201",
+  "Size": 110.0,
+  "OffsetX": -14.800000190734863,
+  "OffsetY": 61.599998474121094
+ },
+ {
+  "Path": "Icon_Head_41050101",
+  "Size": 105.0,
+  "OffsetX": 1.2000000476837158,
+  "OffsetY": 46.099998474121094
+ },
+ {
+  "Path": "Icon_Head_30006",
+  "Size": 110.0,
+  "OffsetX": 23.0,
+  "OffsetY": 22.0
+ },
+ {
+  "Path": "Icon_Head_30021",
+  "Size": 110.0,
+  "OffsetX": -3.4000000953674316,
+  "OffsetY": 10.619999885559082
+ },
+ {
+  "Path": "Icon_Head_30026",
+  "Size": 110.0,
+  "OffsetX": -13.789999961853027,
+  "OffsetY": 33.11000061035156
+ },
+ {
+  "Path": "Icon_Head_110001",
+  "Size": 110.0,
+  "OffsetX": 23.700000762939453,
+  "OffsetY": 8.0
+ },
+ {
+  "Path": "Icon_Head_120001",
+  "Size": 110.0,
+  "OffsetX": 29.030000686645508,
+  "OffsetY": -2.9000000953674316
+ },
+ {
+  "Path": "Icon_Head_130001",
+  "Size": 120.0,
+  "OffsetX": -10.1899995803833,
+  "OffsetY": 13.600000381469727
+ },
+ {
+  "Path": "Icon_Head_130003",
+  "Size": 120.0,
+  "OffsetX": -7.630000114440918,
+  "OffsetY": 10.40999984741211
+ },
+ {
+  "Path": "Icon_Head_130004",
+  "Size": 120.0,
+  "OffsetX": -14.4399995803833,
+  "OffsetY": 13.779999732971191
+ },
+ {
+  "Path": "Icon_Head_130005",
+  "Size": 120.0,
+  "OffsetX": -14.4399995803833,
+  "OffsetY": 13.779999732971191
+ },
+ {
+  "Path": "Icon_Head_130006",
+  "Size": 120.0,
+  "OffsetX": -14.4399995803833,
+  "OffsetY": 13.779999732971191
+ },
+ {
+  "Path": "Icon_Head_130007",
+  "Size": 120.0,
+  "OffsetX": -10.1899995803833,
+  "OffsetY": 13.600000381469727
+ },
+ {
+  "Path": "Icon_Head_190101",
+  "Size": 120.0,
+  "OffsetX": 6.5,
+  "OffsetY": -3.180000066757202
+ },
+ {
+  "Path": "Icon_Head_190103",
+  "Size": 110.0,
+  "OffsetX": -6.889999866485596,
+  "OffsetY": -6.829999923706055
+ },
+ {
+  "Path": "Icon_Head_190201",
+  "Size": 120.0,
+  "OffsetX": -3.7300000190734863,
+  "OffsetY": -17.739999771118164
+ },
+ {
+  "Path": "Icon_Head_190301",
+  "Size": 120.0,
+  "OffsetX": 3.5,
+  "OffsetY": -2.3299999237060547
+ },
+ {
+  "Path": "Icon_Head_191101",
+  "Size": 120.0,
+  "OffsetX": 0.0,
+  "OffsetY": 4.269999980926514
+ },
+ {
+  "Path": "Icon_Head_810201",
+  "Size": 130.0,
+  "OffsetX": 10.0,
+  "OffsetY": -15.0
+ },
+ {
+  "Path": "Icon_Head_810202",
+  "Size": 130.0,
+  "OffsetX": 32.5,
+  "OffsetY": -24.700000762939453
+ },
+ {
+  "Path": "Icon_Head_810203",
+  "Size": 130.0,
+  "OffsetX": -13.5,
+  "OffsetY": -9.800000190734863
+ },
+ {
+  "Path": "Icon_Head_810204",
+  "Size": 130.0,
+  "OffsetX": 13.859999656677246,
+  "OffsetY": -17.610000610351562
+ },
+ {
+  "Path": "Icon_Head_820201",
+  "Size": 130.0,
+  "OffsetX": 17.5,
+  "OffsetY": -12.300000190734863
+ },
+ {
+  "Path": "Icon_Head_820202",
+  "Size": 130.0,
+  "OffsetX": 10.800000190734863,
+  "OffsetY": -10.5
+ },
+ {
+  "Path": "Icon_Head_820203",
+  "Size": 130.0,
+  "OffsetX": 4.199999809265137,
+  "OffsetY": -4.980000019073486
+ },
+ {
+  "Path": "Icon_Head_820204",
+  "Size": 130.0,
+  "OffsetX": 9.0,
+  "OffsetY": -13.010000228881836
+ },
+ {
+  "Path": "Icon_Head_830201",
+  "Size": 130.0,
+  "OffsetX": 22.399999618530273,
+  "OffsetY": -29.200000762939453
+ },
+ {
+  "Path": "Icon_Head_830202",
+  "Size": 130.0,
+  "OffsetX": 1.899999976158142,
+  "OffsetY": 18.700000762939453
+ },
+ {
+  "Path": "Icon_Head_830203",
+  "Size": 130.0,
+  "OffsetX": 32.77000045776367,
+  "OffsetY": -5.199999809265137
+ },
+ {
+  "Path": "Icon_Head_830204",
+  "Size": 130.0,
+  "OffsetX": 7.71999979019165,
+  "OffsetY": -29.299999237060547
+ },
+ {
+  "Path": "Icon_Head_910101",
+  "Size": 140.0,
+  "OffsetX": 5.300000190734863,
+  "OffsetY": -10.699999809265137
+ },
+ {
+  "Path": "Icon_Head_910102",
+  "Size": 140.0,
+  "OffsetX": 3.619999885559082,
+  "OffsetY": 4.409999847412109
+ },
+ {
+  "Path": "Icon_Head_910103",
+  "Size": 140.0,
+  "OffsetX": 25.770000457763672,
+  "OffsetY": -23.049999237060547
+ },
+ {
+  "Path": "Icon_Head_910104",
+  "Size": 160.0,
+  "OffsetX": -4.440000057220459,
+  "OffsetY": 9.5
+ },
+ {
+  "Path": "Icon_Head_910105",
+  "Size": 140.0,
+  "OffsetX": 3.2200000286102295,
+  "OffsetY": -17.059999465942383
+ },
+ {
+  "Path": "Icon_Head_910106",
+  "Size": 175.0,
+  "OffsetX": -0.5,
+  "OffsetY": -33.0
+ },
+ {
+  "Path": "Icon_Head_910107",
+  "Size": 160.0,
+  "OffsetX": -3.9000000953674316,
+  "OffsetY": 18.940000534057617
+ },
+ {
+  "Path": "Icon_Head_910108",
+  "Size": 140.0,
+  "OffsetX": 16.100000381469727,
+  "OffsetY": -14.020000457763672
+ },
+ {
+  "Path": "Icon_Head_910301",
+  "Size": 130.0,
+  "OffsetX": 3.299999952316284,
+  "OffsetY": -10.140000343322754
+ },
+ {
+  "Path": "Icon_Head_910302",
+  "Size": 130.0,
+  "OffsetX": 4.5,
+  "OffsetY": -12.050000190734863
+ },
+ {
+  "Path": "Icon_Head_910303",
+  "Size": 130.0,
+  "OffsetX": -1.5,
+  "OffsetY": -10.640000343322754
+ },
+ {
+  "Path": "Icon_Head_910304",
+  "Size": 130.0,
+  "OffsetX": -1.0800000429153442,
+  "OffsetY": 20.65999984741211
+ },
+ {
+  "Path": "Icon_Head_910305",
+  "Size": 130.0,
+  "OffsetX": 2.299999952316284,
+  "OffsetY": -8.3100004196167
+ },
+ {
+  "Path": "Icon_Head_910306",
+  "Size": 130.0,
+  "OffsetX": 6.420000076293945,
+  "OffsetY": -10.8100004196167
+ },
+ {
+  "Path": "Icon_Head_910307",
+  "Size": 130.0,
+  "OffsetX": 4.659999847412109,
+  "OffsetY": -9.850000381469727
+ },
+ {
+  "Path": "Icon_Head_910308",
+  "Size": 130.0,
+  "OffsetX": 5.889999866485596,
+  "OffsetY": -2.190000057220459
+ },
+ {
+  "Path": "Icon_Head_920201",
+  "Size": 130.0,
+  "OffsetX": 2.440000057220459,
+  "OffsetY": 11.260000228881836
+ },
+ {
+  "Path": "Icon_Head_920202",
+  "Size": 130.0,
+  "OffsetX": 1.899999976158142,
+  "OffsetY": -6.699999809265137
+ },
+ {
+  "Path": "Icon_Head_920203",
+  "Size": 130.0,
+  "OffsetX": 14.100000381469727,
+  "OffsetY": -6.960000038146973
+ },
+ {
+  "Path": "Icon_Head_920204",
+  "Size": 130.0,
+  "OffsetX": 0.20000000298023224,
+  "OffsetY": -15.300000190734863
+ },
+ {
+  "Path": "Icon_Head_920205",
+  "Size": 140.0,
+  "OffsetX": 20.600000381469727,
+  "OffsetY": -16.100000381469727
+ },
+ {
+  "Path": "Icon_Head_920206",
+  "Size": 140.0,
+  "OffsetX": -3.9000000953674316,
+  "OffsetY": -20.700000762939453
+ },
+ {
+  "Path": "Icon_Head_920207",
+  "Size": 140.0,
+  "OffsetX": -17.0,
+  "OffsetY": -20.299999237060547
+ },
+ {
+  "Path": "Icon_Head_920208",
+  "Size": 140.0,
+  "OffsetX": 5.5,
+  "OffsetY": -6.5
+ },
+ {
+  "Path": "Icon_Head_1090102",
+  "Size": 110.0,
+  "OffsetX": -6.889999866485596,
+  "OffsetY": -6.829999923706055
+ },
+ {
+  "Path": "Icon_Head_8302041",
+  "Size": 140.0,
+  "OffsetX": 8.65999984741211,
+  "OffsetY": 1.2000000476837158
+ },
+ {
+  "Path": "Icon_Head_14030110",
+  "Size": 140.0,
+  "OffsetX": 23.43000030517578,
+  "OffsetY": -7.880000114440918
+ },
+ {
+  "Path": "Icon_Head_14030111",
+  "Size": 140.0,
+  "OffsetX": 23.43000030517578,
+  "OffsetY": -7.880000114440918
+ },
+ {
+  "Path": "Icon_Head_14020102",
+  "Size": 115.0,
+  "OffsetX": -1.5,
+  "OffsetY": 33.29999923706055
+ },
+ {
+  "Path": "Icon_Head_14040202",
+  "Size": 115.0,
+  "OffsetX": 3.200000047683716,
+  "OffsetY": 34.099998474121094
+ },
+ {
+  "Path": "Icon_Head_44020102",
+  "Size": 115.0,
+  "OffsetX": 1.7000000476837158,
+  "OffsetY": 40.400001525878906
+ },
+ {
+  "Path": "Icon_Head_14030403",
+  "Size": 140.0,
+  "OffsetX": -12.300000190734863,
+  "OffsetY": 14.100000381469727
+ },
+ {
+  "Path": "Icon_Head_14040403",
+  "Size": 115.0,
+  "OffsetX": 5.010000228881836,
+  "OffsetY": 23.8700008392334
+ },
+ {
+  "Path": "Icon_Head_45010103",
+  "Size": 110.0,
+  "OffsetX": 1.100000023841858,
+  "OffsetY": 33.20000076293945
+ },
+ {
+  "Path": "Icon_Head_820213",
+  "Size": 140.0,
+  "OffsetX": 4.199999809265137,
+  "OffsetY": -4.980000019073486
+ },
+ {
+  "Path": "Icon_Head_910111",
+  "Size": 160.0,
+  "OffsetX": 0.0,
+  "OffsetY": 0.0
+ },
+ {
+  "Path": "Icon_Head_910115",
+  "Size": 170.0,
+  "OffsetX": 0.0,
+  "OffsetY": 0.0
+ },
+ {
+  "Path": "Icon_Head_910116",
+  "Size": 195.0,
+  "OffsetX": 0.0,
+  "OffsetY": 0.0
+ },
+ {
+  "Path": "Icon_Head_910118",
+  "Size": 180.0,
+  "OffsetX": 19.0,
+  "OffsetY": -12.0
+ },
+ {
+  "Path": "Icon_Head_910313",
+  "Size": 160.0,
+  "OffsetX": 0.0,
+  "OffsetY": 0.0
+ },
+ {
+  "Path": "Icon_Head_910314",
+  "Size": 170.0,
+  "OffsetX": 0.0,
+  "OffsetY": 0.0
+ },
+ {
+  "Path": "Icon_Head_910318",
+  "Size": 180.0,
+  "OffsetX": 0.0,
+  "OffsetY": 0.0
+ },
+ {
+  "Path": "Icon_Head_920218",
+  "Size": 160.0,
+  "OffsetX": 0.0,
+  "OffsetY": 0.0
+ },
+ {
+  "Path": "Icon_Head_150401",
+  "Size": 110.0,
+  "OffsetX": 1.899999976158142,
+  "OffsetY": 44.970001220703125
+ },
+ {
+  "Path": "Icon_Head_15040101",
+  "Size": 110.0,
+  "OffsetX": 1.899999976158142,
+  "OffsetY": 44.970001220703125
+ },
+ {
+  "Path": "Icon_Head_15040102",
+  "Size": 110.0,
+  "OffsetX": 1.899999976158142,
+  "OffsetY": 44.970001220703125
+ },
+ {
+  "Path": "Icon_Head_15050101",
+  "Size": 105.0,
+  "OffsetX": 6.900000095367432,
+  "OffsetY": 26.899999618530273
+ },
+ {
+  "Path": "Icon_Head_15050102",
+  "Size": 105.0,
+  "OffsetX": 6.900000095367432,
+  "OffsetY": 26.899999618530273
+ }
+]

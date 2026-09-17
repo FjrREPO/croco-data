@@ -1,0 +1,18 @@
+[
+ {
+  "EventID": 1,
+  "GiftTimeType": 2,
+  "GiftTimeType01": "5",
+  "GiftTimeType02": "3",
+  "SelectorCardQuality": 5,
+  "GiftType": 1000
+ },
+ {
+  "EventID": 2,
+  "GiftTimeType": 2,
+  "GiftTimeType01": "12",
+  "GiftTimeType02": "3",
+  "SelectorCardQuality": 5,
+  "GiftType": 1001
+ }
+]

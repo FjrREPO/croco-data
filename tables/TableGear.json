@@ -1,0 +1,3674 @@
+[
+ {
+  "EquipmentID": 153,
+  "FamilyID": 0,
+  "EquipmentIcon": "",
+  "EquipmentType": 1,
+  "EquipmentQuality": 3,
+  "IsS": 0,
+  "ENHGrowths": [],
+  "SkillIDs": [],
+  "GearAffixList": [],
+  "OpenAffixQuality": []
+ },
+ {
+  "EquipmentID": 157,
+  "FamilyID": 0,
+  "EquipmentIcon": "",
+  "EquipmentType": 1,
+  "EquipmentQuality": 4,
+  "IsS": 0,
+  "ENHGrowths": [],
+  "SkillIDs": [],
+  "GearAffixList": [],
+  "OpenAffixQuality": []
+ },
+ {
+  "EquipmentID": 161,
+  "FamilyID": 0,
+  "EquipmentIcon": "",
+  "EquipmentType": 1,
+  "EquipmentQuality": 5,
+  "IsS": 0,
+  "ENHGrowths": [],
+  "SkillIDs": [],
+  "GearAffixList": [],
+  "OpenAffixQuality": []
+ },
+ {
+  "EquipmentID": 154,
+  "FamilyID": 0,
+  "EquipmentIcon": "",
+  "EquipmentType": 2,
+  "EquipmentQuality": 3,
+  "IsS": 0,
+  "ENHGrowths": [],
+  "SkillIDs": [],
+  "GearAffixList": [],
+  "OpenAffixQuality": []
+ },
+ {
+  "EquipmentID": 158,
+  "FamilyID": 0,
+  "EquipmentIcon": "",
+  "EquipmentType": 2,
+  "EquipmentQuality": 4,
+  "IsS": 0,
+  "ENHGrowths": [],
+  "SkillIDs": [],
+  "GearAffixList": [],
+  "OpenAffixQuality": []
+ },
+ {
+  "EquipmentID": 162,
+  "FamilyID": 0,
+  "EquipmentIcon": "",
+  "EquipmentType": 2,
+  "EquipmentQuality": 5,
+  "IsS": 0,
+  "ENHGrowths": [],
+  "SkillIDs": [],
+  "GearAffixList": [],
+  "OpenAffixQuality": []
+ },
+ {
+  "EquipmentID": 155,
+  "FamilyID": 0,
+  "EquipmentIcon": "",
+  "EquipmentType": 3,
+  "EquipmentQuality": 3,
+  "IsS": 0,
+  "ENHGrowths": [],
+  "SkillIDs": [],
+  "GearAffixList": [],
+  "OpenAffixQuality": []
+ },
+ {
+  "EquipmentID": 159,
+  "FamilyID": 0,
+  "EquipmentIcon": "",
+  "EquipmentType": 3,
+  "EquipmentQuality": 4,
+  "IsS": 0,
+  "ENHGrowths": [],
+  "SkillIDs": [],
+  "GearAffixList": [],
+  "OpenAffixQuality": []
+ },
+ {
+  "EquipmentID": 163,
+  "FamilyID": 0,
+  "EquipmentIcon": "",
+  "EquipmentType": 3,
+  "EquipmentQuality": 5,
+  "IsS": 0,
+  "ENHGrowths": [],
+  "SkillIDs": [],
+  "GearAffixList": [],
+  "OpenAffixQuality": []
+ },
+ {
+  "EquipmentID": 156,
+  "FamilyID": 0,
+  "EquipmentIcon": "",
+  "EquipmentType": 4,
+  "EquipmentQuality": 3,
+  "IsS": 0,
+  "ENHGrowths": [],
+  "SkillIDs": [],
+  "GearAffixList": [],
+  "OpenAffixQuality": []
+ },
+ {
+  "EquipmentID": 160,
+  "FamilyID": 0,
+  "EquipmentIcon": "",
+  "EquipmentType": 4,
+  "EquipmentQuality": 4,
+  "IsS": 0,
+  "ENHGrowths": [],
+  "SkillIDs": [],
+  "GearAffixList": [],
+  "OpenAffixQuality": []
+ },
+ {
+  "EquipmentID": 164,
+  "FamilyID": 0,
+  "EquipmentIcon": "",
+  "EquipmentType": 4,
+  "EquipmentQuality": 5,
+  "IsS": 0,
+  "ENHGrowths": [],
+  "SkillIDs": [],
+  "GearAffixList": [],
+  "OpenAffixQuality": []
+ },
+ {
+  "EquipmentID": 800101,
+  "FamilyID": 1001,
+  "EquipmentIcon": "",
+  "EquipmentType": 1,
+  "EquipmentQuality": 0,
+  "IsS": 0,
+  "ENHGrowths": [
+   0
+  ],
+  "SkillIDs": [],
+  "GearAffixList": [
+   1001,
+   1002,
+   1003,
+   1004
+  ],
+  "OpenAffixQuality": [
+   2,
+   3,
+   4,
+   5
+  ]
+ },
+ {
+  "EquipmentID": 800102,
+  "FamilyID": 1002,
+  "EquipmentIcon": "",
+  "EquipmentType": 1,
+  "EquipmentQuality": 0,
+  "IsS": 0,
+  "ENHGrowths": [
+   0
+  ],
+  "SkillIDs": [],
+  "GearAffixList": [
+   1011,
+   1012,
+   1013,
+   1014
+  ],
+  "OpenAffixQuality": [
+   2,
+   3,
+   4,
+   5
+  ]
+ },
+ {
+  "EquipmentID": 800103,
+  "FamilyID": 1003,
+  "EquipmentIcon": "",
+  "EquipmentType": 1,
+  "EquipmentQuality": 0,
+  "IsS": 0,
+  "ENHGrowths": [
+   0
+  ],
+  "SkillIDs": [],
+  "GearAffixList": [
+   1021,
+   1022,
+   1023,
+   1024
+  ],
+  "OpenAffixQuality": [
+   2,
+   3,
+   4,
+   5
+  ]
+ },
+ {
+  "EquipmentID": 800104,
+  "FamilyID": 1004,
+  "EquipmentIcon": "",
+  "EquipmentType": 1,
+  "EquipmentQuality": 0,
+  "IsS": 0,
+  "ENHGrowths": [
+   0
+  ],
+  "SkillIDs": [],
+  "GearAffixList": [
+   1031,
+   1032,
+   1033,
+   1034
+  ],
+  "OpenAffixQuality": [
+   2,
+   3,
+   4,
+   5
+  ]
+ },
+ {
+  "EquipmentID": 800105,
+  "FamilyID": 1005,
+  "EquipmentIcon": "",
+  "EquipmentType": 1,
+  "EquipmentQuality": 0,
+  "IsS": 0,
+  "ENHGrowths": [
+   0
+  ],
+  "SkillIDs": [],
+  "GearAffixList": [
+   1041,
+   1042,
+   1043,
+   1044
+  ],
+  "OpenAffixQuality": [
+   2,
+   3,
+   4,
+   5
+  ]
+ },
+ {
+  "EquipmentID": 800112,
+  "FamilyID": 1012,
+  "EquipmentIcon": "",
+  "EquipmentType": 1,
+  "EquipmentQuality": 0,
+  "IsS": 0,
+  "ENHGrowths": [
+   0
+  ],
+  "SkillIDs": [],
+  "GearAffixList": [
+   1111,
+   1112,
+   1113,
+   1114
+  ],
+  "OpenAffixQuality": [
+   2,
+   3,
+   4,
+   5
+  ]
+ },
+ {
+  "EquipmentID": 800113,
+  "FamilyID": 1013,
+  "EquipmentIcon": "",
+  "EquipmentType": 1,
+  "EquipmentQuality": 0,
+  "IsS": 0,
+  "ENHGrowths": [
+   0
+  ],
+  "SkillIDs": [],
+  "GearAffixList": [
+   1121,
+   1122,
+   1123,
+   1124
+  ],
+  "OpenAffixQuality": [
+   2,
+   3,
+   4,
+   5
+  ]
+ },
+ {
+  "EquipmentID": 801101,
+  "FamilyID": 1001,
+  "EquipmentIcon": "",
+  "EquipmentType": 1,
+  "EquipmentQuality": 1,
+  "IsS": 0,
+  "ENHGrowths": [
+   0
+  ],
+  "SkillIDs": [],
+  "GearAffixList": [
+   1001,
+   1002,
+   1003,
+   1004
+  ],
+  "OpenAffixQuality": [
+   2,
+   3,
+   4,
+   5
+  ]
+ },
+ {
+  "EquipmentID": 801102,
+  "FamilyID": 1002,
+  "EquipmentIcon": "",
+  "EquipmentType": 1,
+  "EquipmentQuality": 1,
+  "IsS": 0,
+  "ENHGrowths": [
+   0
+  ],
+  "SkillIDs": [],
+  "GearAffixList": [
+   1011,
+   1012,
+   1013,
+   1014
+  ],
+  "OpenAffixQuality": [
+   2,
+   3,
+   4,
+   5
+  ]
+ },
+ {
+  "EquipmentID": 801103,
+  "FamilyID": 1003,
+  "EquipmentIcon": "",
+  "EquipmentType": 1,
+  "EquipmentQuality": 1,
+  "IsS": 0,
+  "ENHGrowths": [
+   0
+  ],
+  "SkillIDs": [],
+  "GearAffixList": [
+   1021,
+   1022,
+   1023,
+   1024
+  ],
+  "OpenAffixQuality": [
+   2,
+   3,
+   4,
+   5
+  ]
+ },
+ {
+  "EquipmentID": 801104,
+  "FamilyID": 1004,
+  "EquipmentIcon": "",
+  "EquipmentType": 1,
+  "EquipmentQuality": 1,
+  "IsS": 0,
+  "ENHGrowths": [
+   0
+  ],
+  "SkillIDs": [],
+  "GearAffixList": [
+   1031,
+   1032,
+   1033,
+   1034
+  ],
+  "OpenAffixQuality": [
+   2,
+   3,
+   4,
+   5
+  ]
+ },
+ {
+  "EquipmentID": 801105,
+  "FamilyID": 1005,
+  "EquipmentIcon": "",
+  "EquipmentType": 1,
+  "EquipmentQuality": 1,
+  "IsS": 0,
+  "ENHGrowths": [
+   0
+  ],
+  "SkillIDs": [],
+  "GearAffixList": [
+   1041,
+   1042,
+   1043,
+   1044
+  ],
+  "OpenAffixQuality": [
+   2,
+   3,
+   4,
+   5
+  ]
+ },
+ {
+  "EquipmentID": 801112,
+  "FamilyID": 1012,
+  "EquipmentIcon": "",
+  "EquipmentType": 1,
+  "EquipmentQuality": 1,
+  "IsS": 0,
+  "ENHGrowths": [
+   0
+  ],
+  "SkillIDs": [],
+  "GearAffixList": [
+   1111,
+   1112,
+   1113,
+   1114
+  ],
+  "OpenAffixQuality": [
+   2,
+   3,
+   4,
+   5
+  ]
+ },
+ {
+  "EquipmentID": 801113,
+  "FamilyID": 1013,
+  "EquipmentIcon": "",
+  "EquipmentType": 1,
+  "EquipmentQuality": 1,
+  "IsS": 0,
+  "ENHGrowths": [
+   0
+  ],
+  "SkillIDs": [],
+  "GearAffixList": [
+   1121,
+   1122,
+   1123,
+   1124
+  ],
+  "OpenAffixQuality": [
+   2,
+   3,
+   4,
+   5
+  ]
+ },
+ {
+  "EquipmentID": 802101,
+  "FamilyID": 1001,
+  "EquipmentIcon": "",
+  "EquipmentType": 1,
+  "EquipmentQuality": 2,
+  "IsS": 0,
+  "ENHGrowths": [
+   0
+  ],
+  "SkillIDs": [],
+  "GearAffixList": [
+   1001,
+   1002,
+   1003,
+   1004
+  ],
+  "OpenAffixQuality": [
+   2,
+   3,
+   4,
+   5
+  ]
+ },
+ {
+  "EquipmentID": 802102,
+  "FamilyID": 1002,
+  "EquipmentIcon": "",
+  "EquipmentType": 1,
+  "EquipmentQuality": 2,
+  "IsS": 0,
+  "ENHGrowths": [
+   0
+  ],
+  "SkillIDs": [],
+  "GearAffixList": [
+   1011,
+   1012,
+   1013,
+   1014
+  ],
+  "OpenAffixQuality": [
+   2,
+   3,
+   4,
+   5
+  ]
+ },
+ {
+  "EquipmentID": 802103,
+  "FamilyID": 1003,
+  "EquipmentIcon": "",
+  "EquipmentType": 1,
+  "EquipmentQuality": 2,
+  "IsS": 0,
+  "ENHGrowths": [
+   0
+  ],
+  "SkillIDs": [],
+  "GearAffixList": [
+   1021,
+   1022,
+   1023,
+   1024
+  ],
+  "OpenAffixQuality": [
+   2,
+   3,
+   4,
+   5
+  ]
+ },
+ {
+  "EquipmentID": 802104,
+  "FamilyID": 1004,
+  "EquipmentIcon": "",
+  "EquipmentType": 1,
+  "EquipmentQuality": 2,
+  "IsS": 0,
+  "ENHGrowths": [
+   0
+  ],
+  "SkillIDs": [],
+  "GearAffixList": [
+   1031,
+   1032,
+   1033,
+   1034
+  ],
+  "OpenAffixQuality": [
+   2,
+   3,
+   4,
+   5
+  ]
+ },
+ {
+  "EquipmentID": 802105,
+  "FamilyID": 1005,
+  "EquipmentIcon": "",
+  "EquipmentType": 1,
+  "EquipmentQuality": 2,
+  "IsS": 0,
+  "ENHGrowths": [
+   0
+  ],
+  "SkillIDs": [],
+  "GearAffixList": [
+   1041,
+   1042,
+   1043,
+   1044
+  ],
+  "OpenAffixQuality": [
+   2,
+   3,
+   4,
+   5
+  ]
+ },
+ {
+  "EquipmentID": 802112,
+  "FamilyID": 1012,
+  "EquipmentIcon": "",
+  "EquipmentType": 1,
+  "EquipmentQuality": 2,
+  "IsS": 0,
+  "ENHGrowths": [
+   0
+  ],
+  "SkillIDs": [],
+  "GearAffixList": [
+   1111,
+   1112,
+   1113,
+   1114
+  ],
+  "OpenAffixQuality": [
+   2,
+   3,
+   4,
+   5
+  ]
+ },
+ {
+  "EquipmentID": 802113,
+  "FamilyID": 1013,
+  "EquipmentIcon": "",
+  "EquipmentType": 1,
+  "EquipmentQuality": 2,
+  "IsS": 0,
+  "ENHGrowths": [
+   0
+  ],
+  "SkillIDs": [],
+  "GearAffixList": [
+   1121,
+   1122,
+   1123,
+   1124
+  ],
+  "OpenAffixQuality": [
+   2,
+   3,
+   4,
+   5
+  ]
+ },
+ {
+  "EquipmentID": 803101,
+  "FamilyID": 1001,
+  "EquipmentIcon": "",
+  "EquipmentType": 1,
+  "EquipmentQuality": 3,
+  "IsS": 0,
+  "ENHGrowths": [
+   0
+  ],
+  "SkillIDs": [],
+  "GearAffixList": [
+   1001,
+   1002,
+   1003,
+   1004
+  ],
+  "OpenAffixQuality": [
+   2,
+   3,
+   4,
+   5
+  ]
+ },
+ {
+  "EquipmentID": 803102,
+  "FamilyID": 1002,
+  "EquipmentIcon": "",
+  "EquipmentType": 1,
+  "EquipmentQuality": 3,
+  "IsS": 0,
+  "ENHGrowths": [
+   0
+  ],
+  "SkillIDs": [],
+  "GearAffixList": [
+   1011,
+   1012,
+   1013,
+   1014
+  ],
+  "OpenAffixQuality": [
+   2,
+   3,
+   4,
+   5
+  ]
+ },
+ {
+  "EquipmentID": 803103,
+  "FamilyID": 1003,
+  "EquipmentIcon": "",
+  "EquipmentType": 1,
+  "EquipmentQuality": 3,
+  "IsS": 0,
+  "ENHGrowths": [
+   0
+  ],
+  "SkillIDs": [],
+  "GearAffixList": [
+   1021,
+   1022,
+   1023,
+   1024
+  ],
+  "OpenAffixQuality": [
+   2,
+   3,
+   4,
+   5
+  ]
+ },
+ {
+  "EquipmentID": 803104,
+  "FamilyID": 1004,
+  "EquipmentIcon": "",
+  "EquipmentType": 1,
+  "EquipmentQuality": 3,
+  "IsS": 0,
+  "ENHGrowths": [
+   0
+  ],
+  "SkillIDs": [],
+  "GearAffixList": [
+   1031,
+   1032,
+   1033,
+   1034
+  ],
+  "OpenAffixQuality": [
+   2,
+   3,
+   4,
+   5
+  ]
+ },
+ {
+  "EquipmentID": 803105,
+  "FamilyID": 1005,
+  "EquipmentIcon": "",
+  "EquipmentType": 1,
+  "EquipmentQuality": 3,
+  "IsS": 0,
+  "ENHGrowths": [
+   0
+  ],
+  "SkillIDs": [],
+  "GearAffixList": [
+   1041,
+   1042,
+   1043,
+   1044
+  ],
+  "OpenAffixQuality": [
+   2,
+   3,
+   4,
+   5
+  ]
+ },
+ {
+  "EquipmentID": 803106,
+  "FamilyID": 1006,
+  "EquipmentIcon": "",
+  "EquipmentType": 1,
+  "EquipmentQuality": 3,
+  "IsS": 1,
+  "ENHGrowths": [
+   0
+  ],
+  "SkillIDs": [],
+  "GearAffixList": [
+   1051,
+   1052,
+   1053,
+   1054,
+   1055
+  ],
+  "OpenAffixQuality": [
+   1,
+   2,
+   3,
+   4,
+   5
+  ]
+ },
+ {
+  "EquipmentID": 803107,
+  "FamilyID": 1007,
+  "EquipmentIcon": "",
+  "EquipmentType": 1,
+  "EquipmentQuality": 3,
+  "IsS": 1,
+  "ENHGrowths": [
+   0
+  ],
+  "SkillIDs": [],
+  "GearAffixList": [
+   1061,
+   1062,
+   1063,
+   1064,
+   1065
+  ],
+  "OpenAffixQuality": [
+   1,
+   2,
+   3,
+   4,
+   5
+  ]
+ },
+ {
+  "EquipmentID": 803108,
+  "FamilyID": 1008,
+  "EquipmentIcon": "",
+  "EquipmentType": 1,
+  "EquipmentQuality": 3,
+  "IsS": 1,
+  "ENHGrowths": [
+   0
+  ],
+  "SkillIDs": [],
+  "GearAffixList": [
+   1071,
+   1072,
+   1073,
+   1074,
+   1075
+  ],
+  "OpenAffixQuality": [
+   1,
+   2,
+   3,
+   4,
+   5
+  ]
+ },
+ {
+  "EquipmentID": 803109,
+  "FamilyID": 1009,
+  "EquipmentIcon": "",
+  "EquipmentType": 1,
+  "EquipmentQuality": 3,
+  "IsS": 1,
+  "ENHGrowths": [
+   0
+  ],
+  "SkillIDs": [],
+  "GearAffixList": [
+   1081,
+   1082,
+   1083,
+   1084,
+   1085
+  ],
+  "OpenAffixQuality": [
+   1,
+   2,
+   3,
+   4,
+   5
+  ]
+ },
+ {
+  "EquipmentID": 803110,
+  "FamilyID": 1010,
+  "EquipmentIcon": "",
+  "EquipmentType": 1,
+  "EquipmentQuality": 3,
+  "IsS": 1,
+  "ENHGrowths": [
+   0
+  ],
+  "SkillIDs": [],
+  "GearAffixList": [
+   1091,
+   1092,
+   1093,
+   1094,
+   1095
+  ],
+  "OpenAffixQuality": [
+   1,
+   2,
+   3,
+   4,
+   5
+  ]
+ },
+ {
+  "EquipmentID": 803111,
+  "FamilyID": 1011,
+  "EquipmentIcon": "",
+  "EquipmentType": 1,
+  "EquipmentQuality": 3,
+  "IsS": 1,
+  "ENHGrowths": [
+   0
+  ],
+  "SkillIDs": [],
+  "GearAffixList": [
+   1101,
+   1102,
+   1103,
+   1104,
+   1105
+  ],
+  "OpenAffixQuality": [
+   1,
+   2,
+   3,
+   4,
+   5
+  ]
+ },
+ {
+  "EquipmentID": 803112,
+  "FamilyID": 1012,
+  "EquipmentIcon": "",
+  "EquipmentType": 1,
+  "EquipmentQuality": 3,
+  "IsS": 0,
+  "ENHGrowths": [
+   0
+  ],
+  "SkillIDs": [],
+  "GearAffixList": [
+   1111,
+   1112,
+   1113,
+   1114
+  ],
+  "OpenAffixQuality": [
+   2,
+   3,
+   4,
+   5
+  ]
+ },
+ {
+  "EquipmentID": 803113,
+  "FamilyID": 1013,
+  "EquipmentIcon": "",
+  "EquipmentType": 1,
+  "EquipmentQuality": 3,
+  "IsS": 0,
+  "ENHGrowths": [
+   0
+  ],
+  "SkillIDs": [],
+  "GearAffixList": [
+   1121,
+   1122,
+   1123,
+   1124
+  ],
+  "OpenAffixQuality": [
+   2,
+   3,
+   4,
+   5
+  ]
+ },
+ {
+  "EquipmentID": 804101,
+  "FamilyID": 1001,
+  "EquipmentIcon": "",
+  "EquipmentType": 1,
+  "EquipmentQuality": 4,
+  "IsS": 0,
+  "ENHGrowths": [
+   0
+  ],
+  "SkillIDs": [],
+  "GearAffixList": [
+   1001,
+   1002,
+   1003,
+   1004
+  ],
+  "OpenAffixQuality": [
+   2,
+   3,
+   4,
+   5
+  ]
+ },
+ {
+  "EquipmentID": 804102,
+  "FamilyID": 1002,
+  "EquipmentIcon": "",
+  "EquipmentType": 1,
+  "EquipmentQuality": 4,
+  "IsS": 0,
+  "ENHGrowths": [
+   0
+  ],
+  "SkillIDs": [],
+  "GearAffixList": [
+   1011,
+   1012,
+   1013,
+   1014
+  ],
+  "OpenAffixQuality": [
+   2,
+   3,
+   4,
+   5
+  ]
+ },
+ {
+  "EquipmentID": 804103,
+  "FamilyID": 1003,
+  "EquipmentIcon": "",
+  "EquipmentType": 1,
+  "EquipmentQuality": 4,
+  "IsS": 0,
+  "ENHGrowths": [
+   0
+  ],
+  "SkillIDs": [],
+  "GearAffixList": [
+   1021,
+   1022,
+   1023,
+   1024
+  ],
+  "OpenAffixQuality": [
+   2,
+   3,
+   4,
+   5
+  ]
+ },
+ {
+  "EquipmentID": 804104,
+  "FamilyID": 1004,
+  "EquipmentIcon": "",
+  "EquipmentType": 1,
+  "EquipmentQuality": 4,
+  "IsS": 0,
+  "ENHGrowths": [
+   0
+  ],
+  "SkillIDs": [],
+  "GearAffixList": [
+   1031,
+   1032,
+   1033,
+   1034
+  ],
+  "OpenAffixQuality": [
+   2,
+   3,
+   4,
+   5
+  ]
+ },
+ {
+  "EquipmentID": 804105,
+  "FamilyID": 1005,
+  "EquipmentIcon": "",
+  "EquipmentType": 1,
+  "EquipmentQuality": 4,
+  "IsS": 0,
+  "ENHGrowths": [
+   0
+  ],
+  "SkillIDs": [],
+  "GearAffixList": [
+   1041,
+   1042,
+   1043,
+   1044
+  ],
+  "OpenAffixQuality": [
+   2,
+   3,
+   4,
+   5
+  ]
+ },
+ {
+  "EquipmentID": 804106,
+  "FamilyID": 1006,
+  "EquipmentIcon": "",
+  "EquipmentType": 1,
+  "EquipmentQuality": 4,
+  "IsS": 1,
+  "ENHGrowths": [
+   0
+  ],
+  "SkillIDs": [],
+  "GearAffixList": [
+   1051,
+   1052,
+   1053,
+   1054,
+   1055
+  ],
+  "OpenAffixQuality": [
+   1,
+   2,
+   3,
+   4,
+   5
+  ]
+ },
+ {
+  "EquipmentID": 804107,
+  "FamilyID": 1007,
+  "EquipmentIcon": "",
+  "EquipmentType": 1,
+  "EquipmentQuality": 4,
+  "IsS": 1,
+  "ENHGrowths": [
+   0
+  ],
+  "SkillIDs": [],
+  "GearAffixList": [
+   1061,
+   1062,
+   1063,
+   1064,
+   1065
+  ],
+  "OpenAffixQuality": [
+   1,
+   2,
+   3,
+   4,
+   5
+  ]
+ },
+ {
+  "EquipmentID": 804108,
+  "FamilyID": 1008,
+  "EquipmentIcon": "",
+  "EquipmentType": 1,
+  "EquipmentQuality": 4,
+  "IsS": 1,
+  "ENHGrowths": [
+   0
+  ],
+  "SkillIDs": [],
+  "GearAffixList": [
+   1071,
+   1072,
+   1073,
+   1074,
+   1075
+  ],
+  "OpenAffixQuality": [
+   1,
+   2,
+   3,
+   4,
+   5
+  ]
+ },
+ {
+  "EquipmentID": 804109,
+  "FamilyID": 1009,
+  "EquipmentIcon": "",
+  "EquipmentType": 1,
+  "EquipmentQuality": 4,
+  "IsS": 1,
+  "ENHGrowths": [
+   0
+  ],
+  "SkillIDs": [],
+  "GearAffixList": [
+   1081,
+   1082,
+   1083,
+   1084,
+   1085
+  ],
+  "OpenAffixQuality": [
+   1,
+   2,
+   3,
+   4,
+   5
+  ]
+ },
+ {
+  "EquipmentID": 804110,
+  "FamilyID": 1010,
+  "EquipmentIcon": "",
+  "EquipmentType": 1,
+  "EquipmentQuality": 4,
+  "IsS": 1,
+  "ENHGrowths": [
+   0
+  ],
+  "SkillIDs": [],
+  "GearAffixList": [
+   1091,
+   1092,
+   1093,
+   1094,
+   1095
+  ],
+  "OpenAffixQuality": [
+   1,
+   2,
+   3,
+   4,
+   5
+  ]
+ },
+ {
+  "EquipmentID": 804111,
+  "FamilyID": 1011,
+  "EquipmentIcon": "",
+  "EquipmentType": 1,
+  "EquipmentQuality": 4,
+  "IsS": 1,
+  "ENHGrowths": [
+   0
+  ],
+  "SkillIDs": [],
+  "GearAffixList": [
+   1101,
+   1102,
+   1103,
+   1104,
+   1105
+  ],
+  "OpenAffixQuality": [
+   1,
+   2,
+   3,
+   4,
+   5
+  ]
+ },
+ {
+  "EquipmentID": 804112,
+  "FamilyID": 1012,
+  "EquipmentIcon": "",
+  "EquipmentType": 1,
+  "EquipmentQuality": 4,
+  "IsS": 0,
+  "ENHGrowths": [
+   0
+  ],
+  "SkillIDs": [],
+  "GearAffixList": [
+   1111,
+   1112,
+   1113,
+   1114
+  ],
+  "OpenAffixQuality": [
+   2,
+   3,
+   4,
+   5
+  ]
+ },
+ {
+  "EquipmentID": 804113,
+  "FamilyID": 1013,
+  "EquipmentIcon": "",
+  "EquipmentType": 1,
+  "EquipmentQuality": 4,
+  "IsS": 0,
+  "ENHGrowths": [
+   0
+  ],
+  "SkillIDs": [],
+  "GearAffixList": [
+   1121,
+   1122,
+   1123,
+   1124
+  ],
+  "OpenAffixQuality": [
+   2,
+   3,
+   4,
+   5
+  ]
+ },
+ {
+  "EquipmentID": 805101,
+  "FamilyID": 1001,
+  "EquipmentIcon": "",
+  "EquipmentType": 1,
+  "EquipmentQuality": 5,
+  "IsS": 0,
+  "ENHGrowths": [
+   0
+  ],
+  "SkillIDs": [],
+  "GearAffixList": [
+   1001,
+   1002,
+   1003,
+   1004
+  ],
+  "OpenAffixQuality": [
+   2,
+   3,
+   4,
+   5
+  ]
+ },
+ {
+  "EquipmentID": 805102,
+  "FamilyID": 1002,
+  "EquipmentIcon": "",
+  "EquipmentType": 1,
+  "EquipmentQuality": 5,
+  "IsS": 0,
+  "ENHGrowths": [
+   0
+  ],
+  "SkillIDs": [],
+  "GearAffixList": [
+   1011,
+   1012,
+   1013,
+   1014
+  ],
+  "OpenAffixQuality": [
+   2,
+   3,
+   4,
+   5
+  ]
+ },
+ {
+  "EquipmentID": 805103,
+  "FamilyID": 1003,
+  "EquipmentIcon": "",
+  "EquipmentType": 1,
+  "EquipmentQuality": 5,
+  "IsS": 0,
+  "ENHGrowths": [
+   0
+  ],
+  "SkillIDs": [],
+  "GearAffixList": [
+   1021,
+   1022,
+   1023,
+   1024
+  ],
+  "OpenAffixQuality": [
+   2,
+   3,
+   4,
+   5
+  ]
+ },
+ {
+  "EquipmentID": 805104,
+  "FamilyID": 1004,
+  "EquipmentIcon": "",
+  "EquipmentType": 1,
+  "EquipmentQuality": 5,
+  "IsS": 0,
+  "ENHGrowths": [
+   0
+  ],
+  "SkillIDs": [],
+  "GearAffixList": [
+   1031,
+   1032,
+   1033,
+   1034
+  ],
+  "OpenAffixQuality": [
+   2,
+   3,
+   4,
+   5
+  ]
+ },
+ {
+  "EquipmentID": 805105,
+  "FamilyID": 1005,
+  "EquipmentIcon": "",
+  "EquipmentType": 1,
+  "EquipmentQuality": 5,
+  "IsS": 0,
+  "ENHGrowths": [
+   0
+  ],
+  "SkillIDs": [],
+  "GearAffixList": [
+   1041,
+   1042,
+   1043,
+   1044
+  ],
+  "OpenAffixQuality": [
+   2,
+   3,
+   4,
+   5
+  ]
+ },
+ {
+  "EquipmentID": 805106,
+  "FamilyID": 1006,
+  "EquipmentIcon": "",
+  "EquipmentType": 1,
+  "EquipmentQuality": 5,
+  "IsS": 1,
+  "ENHGrowths": [
+   0
+  ],
+  "SkillIDs": [],
+  "GearAffixList": [
+   1051,
+   1052,
+   1053,
+   1054,
+   1055
+  ],
+  "OpenAffixQuality": [
+   1,
+   2,
+   3,
+   4,
+   5
+  ]
+ },
+ {
+  "EquipmentID": 805107,
+  "FamilyID": 1007,
+  "EquipmentIcon": "",
+  "EquipmentType": 1,
+  "EquipmentQuality": 5,
+  "IsS": 1,
+  "ENHGrowths": [
+   0
+  ],
+  "SkillIDs": [],
+  "GearAffixList": [
+   1061,
+   1062,
+   1063,
+   1064,
+   1065
+  ],
+  "OpenAffixQuality": [
+   1,
+   2,
+   3,
+   4,
+   5
+  ]
+ },
+ {
+  "EquipmentID": 805108,
+  "FamilyID": 1008,
+  "EquipmentIcon": "",
+  "EquipmentType": 1,
+  "EquipmentQuality": 5,
+  "IsS": 1,
+  "ENHGrowths": [
+   0
+  ],
+  "SkillIDs": [],
+  "GearAffixList": [
+   1071,
+   1072,
+   1073,
+   1074,
+   1075
+  ],
+  "OpenAffixQuality": [
+   1,
+   2,
+   3,
+   4,
+   5
+  ]
+ },
+ {
+  "EquipmentID": 805109,
+  "FamilyID": 1009,
+  "EquipmentIcon": "",
+  "EquipmentType": 1,
+  "EquipmentQuality": 5,
+  "IsS": 1,
+  "ENHGrowths": [
+   0
+  ],
+  "SkillIDs": [],
+  "GearAffixList": [
+   1081,
+   1082,
+   1083,
+   1084,
+   1085
+  ],
+  "OpenAffixQuality": [
+   1,
+   2,
+   3,
+   4,
+   5
+  ]
+ },
+ {
+  "EquipmentID": 805110,
+  "FamilyID": 1010,
+  "EquipmentIcon": "",
+  "EquipmentType": 1,
+  "EquipmentQuality": 5,
+  "IsS": 1,
+  "ENHGrowths": [
+   0
+  ],
+  "SkillIDs": [],
+  "GearAffixList": [
+   1091,
+   1092,
+   1093,
+   1094,
+   1095
+  ],
+  "OpenAffixQuality": [
+   1,
+   2,
+   3,
+   4,
+   5
+  ]
+ },
+ {
+  "EquipmentID": 805111,
+  "FamilyID": 1011,
+  "EquipmentIcon": "",
+  "EquipmentType": 1,
+  "EquipmentQuality": 5,
+  "IsS": 1,
+  "ENHGrowths": [
+   0
+  ],
+  "SkillIDs": [],
+  "GearAffixList": [
+   1101,
+   1102,
+   1103,
+   1104,
+   1105
+  ],
+  "OpenAffixQuality": [
+   1,
+   2,
+   3,
+   4,
+   5
+  ]
+ },
+ {
+  "EquipmentID": 805112,
+  "FamilyID": 1012,
+  "EquipmentIcon": "",
+  "EquipmentType": 1,
+  "EquipmentQuality": 5,
+  "IsS": 0,
+  "ENHGrowths": [
+   0
+  ],
+  "SkillIDs": [],
+  "GearAffixList": [
+   1111,
+   1112,
+   1113,
+   1114
+  ],
+  "OpenAffixQuality": [
+   2,
+   3,
+   4,
+   5
+  ]
+ },
+ {
+  "EquipmentID": 805113,
+  "FamilyID": 1013,
+  "EquipmentIcon": "",
+  "EquipmentType": 1,
+  "EquipmentQuality": 5,
+  "IsS": 0,
+  "ENHGrowths": [
+   0
+  ],
+  "SkillIDs": [],
+  "GearAffixList": [
+   1121,
+   1122,
+   1123,
+   1124
+  ],
+  "OpenAffixQuality": [
+   2,
+   3,
+   4,
+   5
+  ]
+ },
+ {
+  "EquipmentID": 800201,
+  "FamilyID": 2001,
+  "EquipmentIcon": "",
+  "EquipmentType": 2,
+  "EquipmentQuality": 0,
+  "IsS": 0,
+  "ENHGrowths": [
+   0
+  ],
+  "SkillIDs": [],
+  "GearAffixList": [
+   2001,
+   2002,
+   2003,
+   2004
+  ],
+  "OpenAffixQuality": [
+   2,
+   3,
+   4,
+   5
+  ]
+ },
+ {
+  "EquipmentID": 800205,
+  "FamilyID": 2005,
+  "EquipmentIcon": "",
+  "EquipmentType": 2,
+  "EquipmentQuality": 0,
+  "IsS": 0,
+  "ENHGrowths": [
+   0
+  ],
+  "SkillIDs": [],
+  "GearAffixList": [
+   2011,
+   2012,
+   2013,
+   2014
+  ],
+  "OpenAffixQuality": [
+   2,
+   3,
+   4,
+   5
+  ]
+ },
+ {
+  "EquipmentID": 800206,
+  "FamilyID": 2006,
+  "EquipmentIcon": "",
+  "EquipmentType": 2,
+  "EquipmentQuality": 0,
+  "IsS": 0,
+  "ENHGrowths": [
+   0
+  ],
+  "SkillIDs": [],
+  "GearAffixList": [
+   2021,
+   2022,
+   2023,
+   2024
+  ],
+  "OpenAffixQuality": [
+   2,
+   3,
+   4,
+   5
+  ]
+ },
+ {
+  "EquipmentID": 801201,
+  "FamilyID": 2001,
+  "EquipmentIcon": "",
+  "EquipmentType": 2,
+  "EquipmentQuality": 1,
+  "IsS": 0,
+  "ENHGrowths": [
+   0
+  ],
+  "SkillIDs": [],
+  "GearAffixList": [
+   2001,
+   2002,
+   2003,
+   2004
+  ],
+  "OpenAffixQuality": [
+   2,
+   3,
+   4,
+   5
+  ]
+ },
+ {
+  "EquipmentID": 801205,
+  "FamilyID": 2005,
+  "EquipmentIcon": "",
+  "EquipmentType": 2,
+  "EquipmentQuality": 1,
+  "IsS": 0,
+  "ENHGrowths": [
+   0
+  ],
+  "SkillIDs": [],
+  "GearAffixList": [
+   2011,
+   2012,
+   2013,
+   2014
+  ],
+  "OpenAffixQuality": [
+   2,
+   3,
+   4,
+   5
+  ]
+ },
+ {
+  "EquipmentID": 801206,
+  "FamilyID": 2006,
+  "EquipmentIcon": "",
+  "EquipmentType": 2,
+  "EquipmentQuality": 1,
+  "IsS": 0,
+  "ENHGrowths": [
+   0
+  ],
+  "SkillIDs": [],
+  "GearAffixList": [
+   2021,
+   2022,
+   2023,
+   2024
+  ],
+  "OpenAffixQuality": [
+   2,
+   3,
+   4,
+   5
+  ]
+ },
+ {
+  "EquipmentID": 802201,
+  "FamilyID": 2001,
+  "EquipmentIcon": "",
+  "EquipmentType": 2,
+  "EquipmentQuality": 2,
+  "IsS": 0,
+  "ENHGrowths": [
+   0
+  ],
+  "SkillIDs": [],
+  "GearAffixList": [
+   2001,
+   2002,
+   2003,
+   2004
+  ],
+  "OpenAffixQuality": [
+   2,
+   3,
+   4,
+   5
+  ]
+ },
+ {
+  "EquipmentID": 802205,
+  "FamilyID": 2005,
+  "EquipmentIcon": "",
+  "EquipmentType": 2,
+  "EquipmentQuality": 2,
+  "IsS": 0,
+  "ENHGrowths": [
+   0
+  ],
+  "SkillIDs": [],
+  "GearAffixList": [
+   2011,
+   2012,
+   2013,
+   2014
+  ],
+  "OpenAffixQuality": [
+   2,
+   3,
+   4,
+   5
+  ]
+ },
+ {
+  "EquipmentID": 802206,
+  "FamilyID": 2006,
+  "EquipmentIcon": "",
+  "EquipmentType": 2,
+  "EquipmentQuality": 2,
+  "IsS": 0,
+  "ENHGrowths": [
+   0
+  ],
+  "SkillIDs": [],
+  "GearAffixList": [
+   2021,
+   2022,
+   2023,
+   2024
+  ],
+  "OpenAffixQuality": [
+   2,
+   3,
+   4,
+   5
+  ]
+ },
+ {
+  "EquipmentID": 803201,
+  "FamilyID": 2001,
+  "EquipmentIcon": "",
+  "EquipmentType": 2,
+  "EquipmentQuality": 3,
+  "IsS": 0,
+  "ENHGrowths": [
+   0
+  ],
+  "SkillIDs": [],
+  "GearAffixList": [
+   2001,
+   2002,
+   2003,
+   2004
+  ],
+  "OpenAffixQuality": [
+   2,
+   3,
+   4,
+   5
+  ]
+ },
+ {
+  "EquipmentID": 803202,
+  "FamilyID": 2002,
+  "EquipmentIcon": "",
+  "EquipmentType": 2,
+  "EquipmentQuality": 3,
+  "IsS": 1,
+  "ENHGrowths": [
+   0
+  ],
+  "SkillIDs": [],
+  "GearAffixList": [
+   2041,
+   2042,
+   2043,
+   2044,
+   2045
+  ],
+  "OpenAffixQuality": [
+   1,
+   2,
+   3,
+   4,
+   5
+  ]
+ },
+ {
+  "EquipmentID": 803203,
+  "FamilyID": 2003,
+  "EquipmentIcon": "",
+  "EquipmentType": 2,
+  "EquipmentQuality": 3,
+  "IsS": 1,
+  "ENHGrowths": [
+   0
+  ],
+  "SkillIDs": [],
+  "GearAffixList": [
+   2051,
+   2052,
+   2053,
+   2054,
+   2055
+  ],
+  "OpenAffixQuality": [
+   1,
+   2,
+   3,
+   4,
+   5
+  ]
+ },
+ {
+  "EquipmentID": 803204,
+  "FamilyID": 2004,
+  "EquipmentIcon": "",
+  "EquipmentType": 2,
+  "EquipmentQuality": 3,
+  "IsS": 1,
+  "ENHGrowths": [
+   0
+  ],
+  "SkillIDs": [],
+  "GearAffixList": [
+   2031,
+   2032,
+   2033,
+   2034,
+   2035
+  ],
+  "OpenAffixQuality": [
+   1,
+   2,
+   3,
+   4,
+   5
+  ]
+ },
+ {
+  "EquipmentID": 803205,
+  "FamilyID": 2005,
+  "EquipmentIcon": "",
+  "EquipmentType": 2,
+  "EquipmentQuality": 3,
+  "IsS": 0,
+  "ENHGrowths": [
+   0
+  ],
+  "SkillIDs": [],
+  "GearAffixList": [
+   2011,
+   2012,
+   2013,
+   2014
+  ],
+  "OpenAffixQuality": [
+   2,
+   3,
+   4,
+   5
+  ]
+ },
+ {
+  "EquipmentID": 803206,
+  "FamilyID": 2006,
+  "EquipmentIcon": "",
+  "EquipmentType": 2,
+  "EquipmentQuality": 3,
+  "IsS": 0,
+  "ENHGrowths": [
+   0
+  ],
+  "SkillIDs": [],
+  "GearAffixList": [
+   2021,
+   2022,
+   2023,
+   2024
+  ],
+  "OpenAffixQuality": [
+   2,
+   3,
+   4,
+   5
+  ]
+ },
+ {
+  "EquipmentID": 804201,
+  "FamilyID": 2001,
+  "EquipmentIcon": "",
+  "EquipmentType": 2,
+  "EquipmentQuality": 4,
+  "IsS": 0,
+  "ENHGrowths": [
+   0
+  ],
+  "SkillIDs": [],
+  "GearAffixList": [
+   2001,
+   2002,
+   2003,
+   2004
+  ],
+  "OpenAffixQuality": [
+   2,
+   3,
+   4,
+   5
+  ]
+ },
+ {
+  "EquipmentID": 804202,
+  "FamilyID": 2002,
+  "EquipmentIcon": "",
+  "EquipmentType": 2,
+  "EquipmentQuality": 4,
+  "IsS": 1,
+  "ENHGrowths": [
+   0
+  ],
+  "SkillIDs": [],
+  "GearAffixList": [
+   2041,
+   2042,
+   2043,
+   2044,
+   2045
+  ],
+  "OpenAffixQuality": [
+   1,
+   2,
+   3,
+   4,
+   5
+  ]
+ },
+ {
+  "EquipmentID": 804203,
+  "FamilyID": 2003,
+  "EquipmentIcon": "",
+  "EquipmentType": 2,
+  "EquipmentQuality": 4,
+  "IsS": 1,
+  "ENHGrowths": [
+   0
+  ],
+  "SkillIDs": [],
+  "GearAffixList": [
+   2051,
+   2052,
+   2053,
+   2054,
+   2055
+  ],
+  "OpenAffixQuality": [
+   1,
+   2,
+   3,
+   4,
+   5
+  ]
+ },
+ {
+  "EquipmentID": 804204,
+  "FamilyID": 2004,
+  "EquipmentIcon": "",
+  "EquipmentType": 2,
+  "EquipmentQuality": 4,
+  "IsS": 1,
+  "ENHGrowths": [
+   0
+  ],
+  "SkillIDs": [],
+  "GearAffixList": [
+   2031,
+   2032,
+   2033,
+   2034,
+   2035
+  ],
+  "OpenAffixQuality": [
+   1,
+   2,
+   3,
+   4,
+   5
+  ]
+ },
+ {
+  "EquipmentID": 804205,
+  "FamilyID": 2005,
+  "EquipmentIcon": "",
+  "EquipmentType": 2,
+  "EquipmentQuality": 4,
+  "IsS": 0,
+  "ENHGrowths": [
+   0
+  ],
+  "SkillIDs": [],
+  "GearAffixList": [
+   2011,
+   2012,
+   2013,
+   2014
+  ],
+  "OpenAffixQuality": [
+   2,
+   3,
+   4,
+   5
+  ]
+ },
+ {
+  "EquipmentID": 804206,
+  "FamilyID": 2006,
+  "EquipmentIcon": "",
+  "EquipmentType": 2,
+  "EquipmentQuality": 4,
+  "IsS": 0,
+  "ENHGrowths": [
+   0
+  ],
+  "SkillIDs": [],
+  "GearAffixList": [
+   2021,
+   2022,
+   2023,
+   2024
+  ],
+  "OpenAffixQuality": [
+   2,
+   3,
+   4,
+   5
+  ]
+ },
+ {
+  "EquipmentID": 805201,
+  "FamilyID": 2001,
+  "EquipmentIcon": "",
+  "EquipmentType": 2,
+  "EquipmentQuality": 5,
+  "IsS": 0,
+  "ENHGrowths": [
+   0
+  ],
+  "SkillIDs": [],
+  "GearAffixList": [
+   2001,
+   2002,
+   2003,
+   2004
+  ],
+  "OpenAffixQuality": [
+   2,
+   3,
+   4,
+   5
+  ]
+ },
+ {
+  "EquipmentID": 805202,
+  "FamilyID": 2002,
+  "EquipmentIcon": "",
+  "EquipmentType": 2,
+  "EquipmentQuality": 5,
+  "IsS": 1,
+  "ENHGrowths": [
+   0
+  ],
+  "SkillIDs": [],
+  "GearAffixList": [
+   2041,
+   2042,
+   2043,
+   2044,
+   2045
+  ],
+  "OpenAffixQuality": [
+   1,
+   2,
+   3,
+   4,
+   5
+  ]
+ },
+ {
+  "EquipmentID": 805203,
+  "FamilyID": 2003,
+  "EquipmentIcon": "",
+  "EquipmentType": 2,
+  "EquipmentQuality": 5,
+  "IsS": 1,
+  "ENHGrowths": [
+   0
+  ],
+  "SkillIDs": [],
+  "GearAffixList": [
+   2051,
+   2052,
+   2053,
+   2054,
+   2055
+  ],
+  "OpenAffixQuality": [
+   1,
+   2,
+   3,
+   4,
+   5
+  ]
+ },
+ {
+  "EquipmentID": 805204,
+  "FamilyID": 2004,
+  "EquipmentIcon": "",
+  "EquipmentType": 2,
+  "EquipmentQuality": 5,
+  "IsS": 1,
+  "ENHGrowths": [
+   0
+  ],
+  "SkillIDs": [],
+  "GearAffixList": [
+   2031,
+   2032,
+   2033,
+   2034,
+   2035
+  ],
+  "OpenAffixQuality": [
+   1,
+   2,
+   3,
+   4,
+   5
+  ]
+ },
+ {
+  "EquipmentID": 805205,
+  "FamilyID": 2005,
+  "EquipmentIcon": "",
+  "EquipmentType": 2,
+  "EquipmentQuality": 5,
+  "IsS": 0,
+  "ENHGrowths": [
+   0
+  ],
+  "SkillIDs": [],
+  "GearAffixList": [
+   2011,
+   2012,
+   2013,
+   2014
+  ],
+  "OpenAffixQuality": [
+   2,
+   3,
+   4,
+   5
+  ]
+ },
+ {
+  "EquipmentID": 805206,
+  "FamilyID": 2006,
+  "EquipmentIcon": "",
+  "EquipmentType": 2,
+  "EquipmentQuality": 5,
+  "IsS": 0,
+  "ENHGrowths": [
+   0
+  ],
+  "SkillIDs": [],
+  "GearAffixList": [
+   2021,
+   2022,
+   2023,
+   2024
+  ],
+  "OpenAffixQuality": [
+   2,
+   3,
+   4,
+   5
+  ]
+ },
+ {
+  "EquipmentID": 800301,
+  "FamilyID": 3001,
+  "EquipmentIcon": "",
+  "EquipmentType": 3,
+  "EquipmentQuality": 0,
+  "IsS": 0,
+  "ENHGrowths": [
+   0,
+   0
+  ],
+  "SkillIDs": [],
+  "GearAffixList": [
+   3001,
+   3002,
+   3003,
+   3004
+  ],
+  "OpenAffixQuality": [
+   2,
+   3,
+   4,
+   5
+  ]
+ },
+ {
+  "EquipmentID": 800302,
+  "FamilyID": 3002,
+  "EquipmentIcon": "",
+  "EquipmentType": 3,
+  "EquipmentQuality": 0,
+  "IsS": 0,
+  "ENHGrowths": [
+   0,
+   0
+  ],
+  "SkillIDs": [],
+  "GearAffixList": [
+   3011,
+   3012,
+   3013,
+   3014
+  ],
+  "OpenAffixQuality": [
+   2,
+   3,
+   4,
+   5
+  ]
+ },
+ {
+  "EquipmentID": 800303,
+  "FamilyID": 3003,
+  "EquipmentIcon": "",
+  "EquipmentType": 3,
+  "EquipmentQuality": 0,
+  "IsS": 0,
+  "ENHGrowths": [
+   0,
+   0
+  ],
+  "SkillIDs": [],
+  "GearAffixList": [
+   3021,
+   3022,
+   3023,
+   3024
+  ],
+  "OpenAffixQuality": [
+   2,
+   3,
+   4,
+   5
+  ]
+ },
+ {
+  "EquipmentID": 801301,
+  "FamilyID": 3001,
+  "EquipmentIcon": "",
+  "EquipmentType": 3,
+  "EquipmentQuality": 1,
+  "IsS": 0,
+  "ENHGrowths": [
+   0,
+   0
+  ],
+  "SkillIDs": [],
+  "GearAffixList": [
+   3001,
+   3002,
+   3003,
+   3004
+  ],
+  "OpenAffixQuality": [
+   2,
+   3,
+   4,
+   5
+  ]
+ },
+ {
+  "EquipmentID": 801302,
+  "FamilyID": 3002,
+  "EquipmentIcon": "",
+  "EquipmentType": 3,
+  "EquipmentQuality": 1,
+  "IsS": 0,
+  "ENHGrowths": [
+   0,
+   0
+  ],
+  "SkillIDs": [],
+  "GearAffixList": [
+   3011,
+   3012,
+   3013,
+   3014
+  ],
+  "OpenAffixQuality": [
+   2,
+   3,
+   4,
+   5
+  ]
+ },
+ {
+  "EquipmentID": 801303,
+  "FamilyID": 3003,
+  "EquipmentIcon": "",
+  "EquipmentType": 3,
+  "EquipmentQuality": 1,
+  "IsS": 0,
+  "ENHGrowths": [
+   0,
+   0
+  ],
+  "SkillIDs": [],
+  "GearAffixList": [
+   3021,
+   3022,
+   3023,
+   3024
+  ],
+  "OpenAffixQuality": [
+   2,
+   3,
+   4,
+   5
+  ]
+ },
+ {
+  "EquipmentID": 802301,
+  "FamilyID": 3001,
+  "EquipmentIcon": "",
+  "EquipmentType": 3,
+  "EquipmentQuality": 2,
+  "IsS": 0,
+  "ENHGrowths": [
+   0,
+   0
+  ],
+  "SkillIDs": [],
+  "GearAffixList": [
+   3001,
+   3002,
+   3003,
+   3004
+  ],
+  "OpenAffixQuality": [
+   2,
+   3,
+   4,
+   5
+  ]
+ },
+ {
+  "EquipmentID": 802302,
+  "FamilyID": 3002,
+  "EquipmentIcon": "",
+  "EquipmentType": 3,
+  "EquipmentQuality": 2,
+  "IsS": 0,
+  "ENHGrowths": [
+   0,
+   0
+  ],
+  "SkillIDs": [],
+  "GearAffixList": [
+   3011,
+   3012,
+   3013,
+   3014
+  ],
+  "OpenAffixQuality": [
+   2,
+   3,
+   4,
+   5
+  ]
+ },
+ {
+  "EquipmentID": 802303,
+  "FamilyID": 3003,
+  "EquipmentIcon": "",
+  "EquipmentType": 3,
+  "EquipmentQuality": 2,
+  "IsS": 0,
+  "ENHGrowths": [
+   0,
+   0
+  ],
+  "SkillIDs": [],
+  "GearAffixList": [
+   3021,
+   3022,
+   3023,
+   3024
+  ],
+  "OpenAffixQuality": [
+   2,
+   3,
+   4,
+   5
+  ]
+ },
+ {
+  "EquipmentID": 803301,
+  "FamilyID": 3001,
+  "EquipmentIcon": "",
+  "EquipmentType": 3,
+  "EquipmentQuality": 3,
+  "IsS": 0,
+  "ENHGrowths": [
+   0,
+   0
+  ],
+  "SkillIDs": [],
+  "GearAffixList": [
+   3001,
+   3002,
+   3003,
+   3004
+  ],
+  "OpenAffixQuality": [
+   2,
+   3,
+   4,
+   5
+  ]
+ },
+ {
+  "EquipmentID": 803302,
+  "FamilyID": 3002,
+  "EquipmentIcon": "",
+  "EquipmentType": 3,
+  "EquipmentQuality": 3,
+  "IsS": 0,
+  "ENHGrowths": [
+   0,
+   0
+  ],
+  "SkillIDs": [],
+  "GearAffixList": [
+   3011,
+   3012,
+   3013,
+   3014
+  ],
+  "OpenAffixQuality": [
+   2,
+   3,
+   4,
+   5
+  ]
+ },
+ {
+  "EquipmentID": 803303,
+  "FamilyID": 3003,
+  "EquipmentIcon": "",
+  "EquipmentType": 3,
+  "EquipmentQuality": 3,
+  "IsS": 0,
+  "ENHGrowths": [
+   0,
+   0
+  ],
+  "SkillIDs": [],
+  "GearAffixList": [
+   3021,
+   3022,
+   3023,
+   3024
+  ],
+  "OpenAffixQuality": [
+   2,
+   3,
+   4,
+   5
+  ]
+ },
+ {
+  "EquipmentID": 803304,
+  "FamilyID": 3004,
+  "EquipmentIcon": "",
+  "EquipmentType": 3,
+  "EquipmentQuality": 3,
+  "IsS": 1,
+  "ENHGrowths": [
+   0,
+   0
+  ],
+  "SkillIDs": [],
+  "GearAffixList": [
+   3031,
+   3032,
+   3033,
+   3034,
+   3035
+  ],
+  "OpenAffixQuality": [
+   1,
+   2,
+   3,
+   4,
+   5
+  ]
+ },
+ {
+  "EquipmentID": 803305,
+  "FamilyID": 3005,
+  "EquipmentIcon": "",
+  "EquipmentType": 3,
+  "EquipmentQuality": 3,
+  "IsS": 1,
+  "ENHGrowths": [
+   0,
+   0
+  ],
+  "SkillIDs": [],
+  "GearAffixList": [
+   3041,
+   3042,
+   3043,
+   3044,
+   3045
+  ],
+  "OpenAffixQuality": [
+   1,
+   2,
+   3,
+   4,
+   5
+  ]
+ },
+ {
+  "EquipmentID": 803306,
+  "FamilyID": 3006,
+  "EquipmentIcon": "",
+  "EquipmentType": 3,
+  "EquipmentQuality": 3,
+  "IsS": 1,
+  "ENHGrowths": [
+   0,
+   0
+  ],
+  "SkillIDs": [],
+  "GearAffixList": [
+   3051,
+   3052,
+   3053,
+   3054,
+   3055
+  ],
+  "OpenAffixQuality": [
+   1,
+   2,
+   3,
+   4,
+   5
+  ]
+ },
+ {
+  "EquipmentID": 804301,
+  "FamilyID": 3001,
+  "EquipmentIcon": "",
+  "EquipmentType": 3,
+  "EquipmentQuality": 4,
+  "IsS": 0,
+  "ENHGrowths": [
+   0,
+   0
+  ],
+  "SkillIDs": [],
+  "GearAffixList": [
+   3001,
+   3002,
+   3003,
+   3004
+  ],
+  "OpenAffixQuality": [
+   2,
+   3,
+   4,
+   5
+  ]
+ },
+ {
+  "EquipmentID": 804302,
+  "FamilyID": 3002,
+  "EquipmentIcon": "",
+  "EquipmentType": 3,
+  "EquipmentQuality": 4,
+  "IsS": 0,
+  "ENHGrowths": [
+   0,
+   0
+  ],
+  "SkillIDs": [],
+  "GearAffixList": [
+   3011,
+   3012,
+   3013,
+   3014
+  ],
+  "OpenAffixQuality": [
+   2,
+   3,
+   4,
+   5
+  ]
+ },
+ {
+  "EquipmentID": 804303,
+  "FamilyID": 3003,
+  "EquipmentIcon": "",
+  "EquipmentType": 3,
+  "EquipmentQuality": 4,
+  "IsS": 0,
+  "ENHGrowths": [
+   0,
+   0
+  ],
+  "SkillIDs": [],
+  "GearAffixList": [
+   3021,
+   3022,
+   3023,
+   3024
+  ],
+  "OpenAffixQuality": [
+   2,
+   3,
+   4,
+   5
+  ]
+ },
+ {
+  "EquipmentID": 804304,
+  "FamilyID": 3004,
+  "EquipmentIcon": "",
+  "EquipmentType": 3,
+  "EquipmentQuality": 4,
+  "IsS": 1,
+  "ENHGrowths": [
+   0,
+   0
+  ],
+  "SkillIDs": [],
+  "GearAffixList": [
+   3031,
+   3032,
+   3033,
+   3034,
+   3035
+  ],
+  "OpenAffixQuality": [
+   1,
+   2,
+   3,
+   4,
+   5
+  ]
+ },
+ {
+  "EquipmentID": 804305,
+  "FamilyID": 3005,
+  "EquipmentIcon": "",
+  "EquipmentType": 3,
+  "EquipmentQuality": 4,
+  "IsS": 1,
+  "ENHGrowths": [
+   0,
+   0
+  ],
+  "SkillIDs": [],
+  "GearAffixList": [
+   3041,
+   3042,
+   3043,
+   3044,
+   3045
+  ],
+  "OpenAffixQuality": [
+   1,
+   2,
+   3,
+   4,
+   5
+  ]
+ },
+ {
+  "EquipmentID": 804306,
+  "FamilyID": 3006,
+  "EquipmentIcon": "",
+  "EquipmentType": 3,
+  "EquipmentQuality": 4,
+  "IsS": 1,
+  "ENHGrowths": [
+   0,
+   0
+  ],
+  "SkillIDs": [],
+  "GearAffixList": [
+   3051,
+   3052,
+   3053,
+   3054,
+   3055
+  ],
+  "OpenAffixQuality": [
+   1,
+   2,
+   3,
+   4,
+   5
+  ]
+ },
+ {
+  "EquipmentID": 805301,
+  "FamilyID": 3001,
+  "EquipmentIcon": "",
+  "EquipmentType": 3,
+  "EquipmentQuality": 5,
+  "IsS": 0,
+  "ENHGrowths": [
+   0,
+   0
+  ],
+  "SkillIDs": [],
+  "GearAffixList": [
+   3001,
+   3002,
+   3003,
+   3004
+  ],
+  "OpenAffixQuality": [
+   2,
+   3,
+   4,
+   5
+  ]
+ },
+ {
+  "EquipmentID": 805302,
+  "FamilyID": 3002,
+  "EquipmentIcon": "",
+  "EquipmentType": 3,
+  "EquipmentQuality": 5,
+  "IsS": 0,
+  "ENHGrowths": [
+   0,
+   0
+  ],
+  "SkillIDs": [],
+  "GearAffixList": [
+   3011,
+   3012,
+   3013,
+   3014
+  ],
+  "OpenAffixQuality": [
+   2,
+   3,
+   4,
+   5
+  ]
+ },
+ {
+  "EquipmentID": 805303,
+  "FamilyID": 3003,
+  "EquipmentIcon": "",
+  "EquipmentType": 3,
+  "EquipmentQuality": 5,
+  "IsS": 0,
+  "ENHGrowths": [
+   0,
+   0
+  ],
+  "SkillIDs": [],
+  "GearAffixList": [
+   3021,
+   3022,
+   3023,
+   3024
+  ],
+  "OpenAffixQuality": [
+   2,
+   3,
+   4,
+   5
+  ]
+ },
+ {
+  "EquipmentID": 805304,
+  "FamilyID": 3004,
+  "EquipmentIcon": "",
+  "EquipmentType": 3,
+  "EquipmentQuality": 5,
+  "IsS": 1,
+  "ENHGrowths": [
+   0,
+   0
+  ],
+  "SkillIDs": [],
+  "GearAffixList": [
+   3031,
+   3032,
+   3033,
+   3034,
+   3035
+  ],
+  "OpenAffixQuality": [
+   1,
+   2,
+   3,
+   4,
+   5
+  ]
+ },
+ {
+  "EquipmentID": 805305,
+  "FamilyID": 3005,
+  "EquipmentIcon": "",
+  "EquipmentType": 3,
+  "EquipmentQuality": 5,
+  "IsS": 1,
+  "ENHGrowths": [
+   0,
+   0
+  ],
+  "SkillIDs": [],
+  "GearAffixList": [
+   3041,
+   3042,
+   3043,
+   3044,
+   3045
+  ],
+  "OpenAffixQuality": [
+   1,
+   2,
+   3,
+   4,
+   5
+  ]
+ },
+ {
+  "EquipmentID": 805306,
+  "FamilyID": 3006,
+  "EquipmentIcon": "",
+  "EquipmentType": 3,
+  "EquipmentQuality": 5,
+  "IsS": 1,
+  "ENHGrowths": [
+   0,
+   0
+  ],
+  "SkillIDs": [],
+  "GearAffixList": [
+   3051,
+   3052,
+   3053,
+   3054,
+   3055
+  ],
+  "OpenAffixQuality": [
+   1,
+   2,
+   3,
+   4,
+   5
+  ]
+ },
+ {
+  "EquipmentID": 800401,
+  "FamilyID": 4001,
+  "EquipmentIcon": "",
+  "EquipmentType": 4,
+  "EquipmentQuality": 0,
+  "IsS": 0,
+  "ENHGrowths": [
+   0,
+   0
+  ],
+  "SkillIDs": [],
+  "GearAffixList": [
+   4001,
+   4002,
+   4003,
+   4004
+  ],
+  "OpenAffixQuality": [
+   2,
+   3,
+   4,
+   5
+  ]
+ },
+ {
+  "EquipmentID": 800405,
+  "FamilyID": 4005,
+  "EquipmentIcon": "",
+  "EquipmentType": 4,
+  "EquipmentQuality": 0,
+  "IsS": 0,
+  "ENHGrowths": [
+   0,
+   0
+  ],
+  "SkillIDs": [],
+  "GearAffixList": [
+   4011,
+   4012,
+   4013,
+   4014
+  ],
+  "OpenAffixQuality": [
+   2,
+   3,
+   4,
+   5
+  ]
+ },
+ {
+  "EquipmentID": 800406,
+  "FamilyID": 4006,
+  "EquipmentIcon": "",
+  "EquipmentType": 4,
+  "EquipmentQuality": 0,
+  "IsS": 0,
+  "ENHGrowths": [
+   0,
+   0
+  ],
+  "SkillIDs": [],
+  "GearAffixList": [
+   4021,
+   4022,
+   4023,
+   4024
+  ],
+  "OpenAffixQuality": [
+   2,
+   3,
+   4,
+   5
+  ]
+ },
+ {
+  "EquipmentID": 801401,
+  "FamilyID": 4001,
+  "EquipmentIcon": "",
+  "EquipmentType": 4,
+  "EquipmentQuality": 1,
+  "IsS": 0,
+  "ENHGrowths": [
+   0,
+   0
+  ],
+  "SkillIDs": [],
+  "GearAffixList": [
+   4001,
+   4002,
+   4003,
+   4004
+  ],
+  "OpenAffixQuality": [
+   2,
+   3,
+   4,
+   5
+  ]
+ },
+ {
+  "EquipmentID": 801405,
+  "FamilyID": 4005,
+  "EquipmentIcon": "",
+  "EquipmentType": 4,
+  "EquipmentQuality": 1,
+  "IsS": 0,
+  "ENHGrowths": [
+   0,
+   0
+  ],
+  "SkillIDs": [],
+  "GearAffixList": [
+   4011,
+   4012,
+   4013,
+   4014
+  ],
+  "OpenAffixQuality": [
+   2,
+   3,
+   4,
+   5
+  ]
+ },
+ {
+  "EquipmentID": 801406,
+  "FamilyID": 4006,
+  "EquipmentIcon": "",
+  "EquipmentType": 4,
+  "EquipmentQuality": 1,
+  "IsS": 0,
+  "ENHGrowths": [
+   0,
+   0
+  ],
+  "SkillIDs": [],
+  "GearAffixList": [
+   4021,
+   4022,
+   4023,
+   4024
+  ],
+  "OpenAffixQuality": [
+   2,
+   3,
+   4,
+   5
+  ]
+ },
+ {
+  "EquipmentID": 802401,
+  "FamilyID": 4001,
+  "EquipmentIcon": "",
+  "EquipmentType": 4,
+  "EquipmentQuality": 2,
+  "IsS": 0,
+  "ENHGrowths": [
+   0,
+   0
+  ],
+  "SkillIDs": [],
+  "GearAffixList": [
+   4001,
+   4002,
+   4003,
+   4004
+  ],
+  "OpenAffixQuality": [
+   2,
+   3,
+   4,
+   5
+  ]
+ },
+ {
+  "EquipmentID": 802405,
+  "FamilyID": 4005,
+  "EquipmentIcon": "",
+  "EquipmentType": 4,
+  "EquipmentQuality": 2,
+  "IsS": 0,
+  "ENHGrowths": [
+   0,
+   0
+  ],
+  "SkillIDs": [],
+  "GearAffixList": [
+   4011,
+   4012,
+   4013,
+   4014
+  ],
+  "OpenAffixQuality": [
+   2,
+   3,
+   4,
+   5
+  ]
+ },
+ {
+  "EquipmentID": 802406,
+  "FamilyID": 4006,
+  "EquipmentIcon": "",
+  "EquipmentType": 4,
+  "EquipmentQuality": 2,
+  "IsS": 0,
+  "ENHGrowths": [
+   0,
+   0
+  ],
+  "SkillIDs": [],
+  "GearAffixList": [
+   4021,
+   4022,
+   4023,
+   4024
+  ],
+  "OpenAffixQuality": [
+   2,
+   3,
+   4,
+   5
+  ]
+ },
+ {
+  "EquipmentID": 803401,
+  "FamilyID": 4001,
+  "EquipmentIcon": "",
+  "EquipmentType": 4,
+  "EquipmentQuality": 3,
+  "IsS": 0,
+  "ENHGrowths": [
+   0,
+   0
+  ],
+  "SkillIDs": [],
+  "GearAffixList": [
+   4001,
+   4002,
+   4003,
+   4004
+  ],
+  "OpenAffixQuality": [
+   2,
+   3,
+   4,
+   5
+  ]
+ },
+ {
+  "EquipmentID": 803402,
+  "FamilyID": 4002,
+  "EquipmentIcon": "",
+  "EquipmentType": 4,
+  "EquipmentQuality": 3,
+  "IsS": 1,
+  "ENHGrowths": [
+   0,
+   0
+  ],
+  "SkillIDs": [],
+  "GearAffixList": [
+   4041,
+   4042,
+   4043,
+   4044,
+   4045
+  ],
+  "OpenAffixQuality": [
+   1,
+   2,
+   3,
+   4,
+   5
+  ]
+ },
+ {
+  "EquipmentID": 803403,
+  "FamilyID": 4003,
+  "EquipmentIcon": "",
+  "EquipmentType": 4,
+  "EquipmentQuality": 3,
+  "IsS": 1,
+  "ENHGrowths": [
+   0,
+   0
+  ],
+  "SkillIDs": [],
+  "GearAffixList": [
+   4051,
+   4052,
+   4053,
+   4054,
+   4055
+  ],
+  "OpenAffixQuality": [
+   1,
+   2,
+   3,
+   4,
+   5
+  ]
+ },
+ {
+  "EquipmentID": 803404,
+  "FamilyID": 4004,
+  "EquipmentIcon": "",
+  "EquipmentType": 4,
+  "EquipmentQuality": 3,
+  "IsS": 1,
+  "ENHGrowths": [
+   0,
+   0
+  ],
+  "SkillIDs": [],
+  "GearAffixList": [
+   4031,
+   4032,
+   4033,
+   4034,
+   4035
+  ],
+  "OpenAffixQuality": [
+   1,
+   2,
+   3,
+   4,
+   5
+  ]
+ },
+ {
+  "EquipmentID": 803405,
+  "FamilyID": 4005,
+  "EquipmentIcon": "",
+  "EquipmentType": 4,
+  "EquipmentQuality": 3,
+  "IsS": 0,
+  "ENHGrowths": [
+   0,
+   0
+  ],
+  "SkillIDs": [],
+  "GearAffixList": [
+   4011,
+   4012,
+   4013,
+   4014
+  ],
+  "OpenAffixQuality": [
+   2,
+   3,
+   4,
+   5
+  ]
+ },
+ {
+  "EquipmentID": 803406,
+  "FamilyID": 4006,
+  "EquipmentIcon": "",
+  "EquipmentType": 4,
+  "EquipmentQuality": 3,
+  "IsS": 0,
+  "ENHGrowths": [
+   0,
+   0
+  ],
+  "SkillIDs": [],
+  "GearAffixList": [
+   4021,
+   4022,
+   4023,
+   4024
+  ],
+  "OpenAffixQuality": [
+   2,
+   3,
+   4,
+   5
+  ]
+ },
+ {
+  "EquipmentID": 804401,
+  "FamilyID": 4001,
+  "EquipmentIcon": "",
+  "EquipmentType": 4,
+  "EquipmentQuality": 4,
+  "IsS": 0,
+  "ENHGrowths": [
+   0,
+   0
+  ],
+  "SkillIDs": [],
+  "GearAffixList": [
+   4001,
+   4002,
+   4003,
+   4004
+  ],
+  "OpenAffixQuality": [
+   2,
+   3,
+   4,
+   5
+  ]
+ },
+ {
+  "EquipmentID": 804402,
+  "FamilyID": 4002,
+  "EquipmentIcon": "",
+  "EquipmentType": 4,
+  "EquipmentQuality": 4,
+  "IsS": 1,
+  "ENHGrowths": [
+   0,
+   0
+  ],
+  "SkillIDs": [],
+  "GearAffixList": [
+   4041,
+   4042,
+   4043,
+   4044,
+   4045
+  ],
+  "OpenAffixQuality": [
+   1,
+   2,
+   3,
+   4,
+   5
+  ]
+ },
+ {
+  "EquipmentID": 804403,
+  "FamilyID": 4003,
+  "EquipmentIcon": "",
+  "EquipmentType": 4,
+  "EquipmentQuality": 4,
+  "IsS": 1,
+  "ENHGrowths": [
+   0,
+   0
+  ],
+  "SkillIDs": [],
+  "GearAffixList": [
+   4051,
+   4052,
+   4053,
+   4054,
+   4055
+  ],
+  "OpenAffixQuality": [
+   1,
+   2,
+   3,
+   4,
+   5
+  ]
+ },
+ {
+  "EquipmentID": 804404,
+  "FamilyID": 4004,
+  "EquipmentIcon": "",
+  "EquipmentType": 4,
+  "EquipmentQuality": 4,
+  "IsS": 1,
+  "ENHGrowths": [
+   0,
+   0
+  ],
+  "SkillIDs": [],
+  "GearAffixList": [
+   4031,
+   4032,
+   4033,
+   4034,
+   4035
+  ],
+  "OpenAffixQuality": [
+   1,
+   2,
+   3,
+   4,
+   5
+  ]
+ },
+ {
+  "EquipmentID": 804405,
+  "FamilyID": 4005,
+  "EquipmentIcon": "",
+  "EquipmentType": 4,
+  "EquipmentQuality": 4,
+  "IsS": 0,
+  "ENHGrowths": [
+   0,
+   0
+  ],
+  "SkillIDs": [],
+  "GearAffixList": [
+   4011,
+   4012,
+   4013,
+   4014
+  ],
+  "OpenAffixQuality": [
+   2,
+   3,
+   4,
+   5
+  ]
+ },
+ {
+  "EquipmentID": 804406,
+  "FamilyID": 4006,
+  "EquipmentIcon": "",
+  "EquipmentType": 4,
+  "EquipmentQuality": 4,
+  "IsS": 0,
+  "ENHGrowths": [
+   0,
+   0
+  ],
+  "SkillIDs": [],
+  "GearAffixList": [
+   4021,
+   4022,
+   4023,
+   4024
+  ],
+  "OpenAffixQuality": [
+   2,
+   3,
+   4,
+   5
+  ]
+ },
+ {
+  "EquipmentID": 805401,
+  "FamilyID": 4001,
+  "EquipmentIcon": "",
+  "EquipmentType": 4,
+  "EquipmentQuality": 5,
+  "IsS": 0,
+  "ENHGrowths": [
+   0,
+   0
+  ],
+  "SkillIDs": [],
+  "GearAffixList": [
+   4001,
+   4002,
+   4003,
+   4004
+  ],
+  "OpenAffixQuality": [
+   2,
+   3,
+   4,
+   5
+  ]
+ },
+ {
+  "EquipmentID": 805402,
+  "FamilyID": 4002,
+  "EquipmentIcon": "",
+  "EquipmentType": 4,
+  "EquipmentQuality": 5,
+  "IsS": 1,
+  "ENHGrowths": [
+   0,
+   0
+  ],
+  "SkillIDs": [],
+  "GearAffixList": [
+   4041,
+   4042,
+   4043,
+   4044,
+   4045
+  ],
+  "OpenAffixQuality": [
+   1,
+   2,
+   3,
+   4,
+   5
+  ]
+ },
+ {
+  "EquipmentID": 805403,
+  "FamilyID": 4003,
+  "EquipmentIcon": "",
+  "EquipmentType": 4,
+  "EquipmentQuality": 5,
+  "IsS": 1,
+  "ENHGrowths": [
+   0,
+   0
+  ],
+  "SkillIDs": [],
+  "GearAffixList": [
+   4051,
+   4052,
+   4053,
+   4054,
+   4055
+  ],
+  "OpenAffixQuality": [
+   1,
+   2,
+   3,
+   4,
+   5
+  ]
+ },
+ {
+  "EquipmentID": 805404,
+  "FamilyID": 4004,
+  "EquipmentIcon": "",
+  "EquipmentType": 4,
+  "EquipmentQuality": 5,
+  "IsS": 1,
+  "ENHGrowths": [
+   0,
+   0
+  ],
+  "SkillIDs": [],
+  "GearAffixList": [
+   4031,
+   4032,
+   4033,
+   4034,
+   4035
+  ],
+  "OpenAffixQuality": [
+   1,
+   2,
+   3,
+   4,
+   5
+  ]
+ },
+ {
+  "EquipmentID": 805405,
+  "FamilyID": 4005,
+  "EquipmentIcon": "",
+  "EquipmentType": 4,
+  "EquipmentQuality": 5,
+  "IsS": 0,
+  "ENHGrowths": [
+   0,
+   0
+  ],
+  "SkillIDs": [],
+  "GearAffixList": [
+   4011,
+   4012,
+   4013,
+   4014
+  ],
+  "OpenAffixQuality": [
+   2,
+   3,
+   4,
+   5
+  ]
+ },
+ {
+  "EquipmentID": 805406,
+  "FamilyID": 4006,
+  "EquipmentIcon": "",
+  "EquipmentType": 4,
+  "EquipmentQuality": 5,
+  "IsS": 0,
+  "ENHGrowths": [
+   0,
+   0
+  ],
+  "SkillIDs": [],
+  "GearAffixList": [
+   4021,
+   4022,
+   4023,
+   4024
+  ],
+  "OpenAffixQuality": [
+   2,
+   3,
+   4,
+   5
+  ]
+ }
+]

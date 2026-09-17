@@ -1,0 +1,525 @@
+[
+ {
+  "TaskID": 1,
+  "TaskName": "",
+  "Type": 1,
+  "Condition": 21,
+  "ConditionID": 9006,
+  "ConditionVal": 9006,
+  "TaskRewardId": [
+   305,
+   112
+  ],
+  "TaskRewardItem": [],
+  "TaskRewardNum": [],
+  "ShowItem": 0,
+  "ShowItemNum": 0
+ },
+ {
+  "TaskID": 2,
+  "TaskName": "",
+  "Type": 1,
+  "Condition": 21,
+  "ConditionID": 9011,
+  "ConditionVal": 9011,
+  "TaskRewardId": [
+   101003,
+   112
+  ],
+  "TaskRewardItem": [],
+  "TaskRewardNum": [],
+  "ShowItem": 0,
+  "ShowItemNum": 0
+ },
+ {
+  "TaskID": 3,
+  "TaskName": "",
+  "Type": 1,
+  "Condition": 21,
+  "ConditionID": 9016,
+  "ConditionVal": 9016,
+  "TaskRewardId": [
+   305,
+   112
+  ],
+  "TaskRewardItem": [],
+  "TaskRewardNum": [],
+  "ShowItem": 0,
+  "ShowItemNum": 0
+ },
+ {
+  "TaskID": 4,
+  "TaskName": "",
+  "Type": 1,
+  "Condition": 21,
+  "ConditionID": 9021,
+  "ConditionVal": 9021,
+  "TaskRewardId": [
+   305,
+   112
+  ],
+  "TaskRewardItem": [],
+  "TaskRewardNum": [],
+  "ShowItem": 0,
+  "ShowItemNum": 0
+ },
+ {
+  "TaskID": 5,
+  "TaskName": "",
+  "Type": 1,
+  "Condition": 21,
+  "ConditionID": 9026,
+  "ConditionVal": 9026,
+  "TaskRewardId": [
+   305,
+   112
+  ],
+  "TaskRewardItem": [],
+  "TaskRewardNum": [],
+  "ShowItem": 0,
+  "ShowItemNum": 0
+ },
+ {
+  "TaskID": 6,
+  "TaskName": "",
+  "Type": 1,
+  "Condition": 21,
+  "ConditionID": 9031,
+  "ConditionVal": 9031,
+  "TaskRewardId": [
+   101001,
+   112
+  ],
+  "TaskRewardItem": [],
+  "TaskRewardNum": [],
+  "ShowItem": 0,
+  "ShowItemNum": 0
+ },
+ {
+  "TaskID": 7,
+  "TaskName": "",
+  "Type": 1,
+  "Condition": 21,
+  "ConditionID": 9036,
+  "ConditionVal": 9036,
+  "TaskRewardId": [
+   305,
+   112
+  ],
+  "TaskRewardItem": [],
+  "TaskRewardNum": [],
+  "ShowItem": 0,
+  "ShowItemNum": 0
+ },
+ {
+  "TaskID": 8,
+  "TaskName": "",
+  "Type": 1,
+  "Condition": 21,
+  "ConditionID": 9041,
+  "ConditionVal": 9041,
+  "TaskRewardId": [
+   305,
+   112
+  ],
+  "TaskRewardItem": [],
+  "TaskRewardNum": [],
+  "ShowItem": 0,
+  "ShowItemNum": 0
+ },
+ {
+  "TaskID": 9,
+  "TaskName": "",
+  "Type": 1,
+  "Condition": 21,
+  "ConditionID": 9046,
+  "ConditionVal": 9046,
+  "TaskRewardId": [
+   305,
+   112
+  ],
+  "TaskRewardItem": [],
+  "TaskRewardNum": [],
+  "ShowItem": 0,
+  "ShowItemNum": 0
+ },
+ {
+  "TaskID": 10,
+  "TaskName": "",
+  "Type": 1,
+  "Condition": 21,
+  "ConditionID": 9051,
+  "ConditionVal": 9051,
+  "TaskRewardId": [
+   305,
+   112
+  ],
+  "TaskRewardItem": [],
+  "TaskRewardNum": [],
+  "ShowItem": 0,
+  "ShowItemNum": 0
+ },
+ {
+  "TaskID": 11,
+  "TaskName": "",
+  "Type": 1,
+  "Condition": 21,
+  "ConditionID": 9056,
+  "ConditionVal": 9056,
+  "TaskRewardId": [
+   305,
+   112
+  ],
+  "TaskRewardItem": [],
+  "TaskRewardNum": [],
+  "ShowItem": 0,
+  "ShowItemNum": 0
+ },
+ {
+  "TaskID": 12,
+  "TaskName": "",
+  "Type": 1,
+  "Condition": 21,
+  "ConditionID": 9061,
+  "ConditionVal": 9061,
+  "TaskRewardId": [
+   305,
+   112
+  ],
+  "TaskRewardItem": [],
+  "TaskRewardNum": [],
+  "ShowItem": 0,
+  "ShowItemNum": 0
+ },
+ {
+  "TaskID": 13,
+  "TaskName": "",
+  "Type": 1,
+  "Condition": 21,
+  "ConditionID": 9066,
+  "ConditionVal": 9066,
+  "TaskRewardId": [
+   305,
+   112
+  ],
+  "TaskRewardItem": [],
+  "TaskRewardNum": [],
+  "ShowItem": 0,
+  "ShowItemNum": 0
+ },
+ {
+  "TaskID": 14,
+  "TaskName": "",
+  "Type": 1,
+  "Condition": 21,
+  "ConditionID": 9071,
+  "ConditionVal": 9071,
+  "TaskRewardId": [
+   101002
+  ],
+  "TaskRewardItem": [],
+  "TaskRewardNum": [],
+  "ShowItem": 0,
+  "ShowItemNum": 0
+ },
+ {
+  "TaskID": 20,
+  "TaskName": "",
+  "Type": 7,
+  "Condition": 19,
+  "ConditionID": 0,
+  "ConditionVal": 10,
+  "TaskRewardId": [
+   201001
+  ],
+  "TaskRewardItem": [],
+  "TaskRewardNum": [],
+  "ShowItem": 0,
+  "ShowItemNum": 0
+ },
+ {
+  "TaskID": 21,
+  "TaskName": "",
+  "Type": 7,
+  "Condition": 19,
+  "ConditionID": 0,
+  "ConditionVal": 20,
+  "TaskRewardId": [
+   201002
+  ],
+  "TaskRewardItem": [],
+  "TaskRewardNum": [],
+  "ShowItem": 0,
+  "ShowItemNum": 0
+ },
+ {
+  "TaskID": 22,
+  "TaskName": "",
+  "Type": 7,
+  "Condition": 19,
+  "ConditionID": 0,
+  "ConditionVal": 30,
+  "TaskRewardId": [
+   201003
+  ],
+  "TaskRewardItem": [],
+  "TaskRewardNum": [],
+  "ShowItem": 0,
+  "ShowItemNum": 0
+ },
+ {
+  "TaskID": 23,
+  "TaskName": "",
+  "Type": 7,
+  "Condition": 19,
+  "ConditionID": 0,
+  "ConditionVal": 40,
+  "TaskRewardId": [
+   201004
+  ],
+  "TaskRewardItem": [],
+  "TaskRewardNum": [],
+  "ShowItem": 0,
+  "ShowItemNum": 0
+ },
+ {
+  "TaskID": 24,
+  "TaskName": "",
+  "Type": 7,
+  "Condition": 19,
+  "ConditionID": 0,
+  "ConditionVal": 50,
+  "TaskRewardId": [
+   201005
+  ],
+  "TaskRewardItem": [],
+  "TaskRewardNum": [],
+  "ShowItem": 0,
+  "ShowItemNum": 0
+ },
+ {
+  "TaskID": 25,
+  "TaskName": "",
+  "Type": 7,
+  "Condition": 19,
+  "ConditionID": 0,
+  "ConditionVal": 60,
+  "TaskRewardId": [
+   201006
+  ],
+  "TaskRewardItem": [],
+  "TaskRewardNum": [],
+  "ShowItem": 0,
+  "ShowItemNum": 0
+ },
+ {
+  "TaskID": 26,
+  "TaskName": "",
+  "Type": 2,
+  "Condition": 22,
+  "ConditionID": 0,
+  "ConditionVal": 90,
+  "TaskRewardId": [
+   301001
+  ],
+  "TaskRewardItem": [],
+  "TaskRewardNum": [],
+  "ShowItem": 0,
+  "ShowItemNum": 0
+ },
+ {
+  "TaskID": 27,
+  "TaskName": "",
+  "Type": 2,
+  "Condition": 22,
+  "ConditionID": 0,
+  "ConditionVal": 180,
+  "TaskRewardId": [
+   301002
+  ],
+  "TaskRewardItem": [],
+  "TaskRewardNum": [],
+  "ShowItem": 0,
+  "ShowItemNum": 0
+ },
+ {
+  "TaskID": 28,
+  "TaskName": "",
+  "Type": 2,
+  "Condition": 22,
+  "ConditionID": 0,
+  "ConditionVal": 270,
+  "TaskRewardId": [
+   301003
+  ],
+  "TaskRewardItem": [],
+  "TaskRewardNum": [],
+  "ShowItem": 0,
+  "ShowItemNum": 0
+ },
+ {
+  "TaskID": 29,
+  "TaskName": "",
+  "Type": 2,
+  "Condition": 22,
+  "ConditionID": 0,
+  "ConditionVal": 360,
+  "TaskRewardId": [
+   301004
+  ],
+  "TaskRewardItem": [],
+  "TaskRewardNum": [],
+  "ShowItem": 0,
+  "ShowItemNum": 0
+ },
+ {
+  "TaskID": 30,
+  "TaskName": "",
+  "Type": 2,
+  "Condition": 22,
+  "ConditionID": 0,
+  "ConditionVal": 450,
+  "TaskRewardId": [
+   301005
+  ],
+  "TaskRewardItem": [],
+  "TaskRewardNum": [],
+  "ShowItem": 0,
+  "ShowItemNum": 0
+ },
+ {
+  "TaskID": 31,
+  "TaskName": "",
+  "Type": 2,
+  "Condition": 22,
+  "ConditionID": 0,
+  "ConditionVal": 540,
+  "TaskRewardId": [
+   301006
+  ],
+  "TaskRewardItem": [],
+  "TaskRewardNum": [],
+  "ShowItem": 0,
+  "ShowItemNum": 0
+ },
+ {
+  "TaskID": 32,
+  "TaskName": "",
+  "Type": 6,
+  "Condition": 42,
+  "ConditionID": 0,
+  "ConditionVal": 5,
+  "TaskRewardId": [
+   115
+  ],
+  "TaskRewardItem": [],
+  "TaskRewardNum": [],
+  "ShowItem": 0,
+  "ShowItemNum": 0
+ },
+ {
+  "TaskID": 33,
+  "TaskName": "",
+  "Type": 6,
+  "Condition": 42,
+  "ConditionID": 0,
+  "ConditionVal": 10,
+  "TaskRewardId": [
+   115
+  ],
+  "TaskRewardItem": [],
+  "TaskRewardNum": [],
+  "ShowItem": 0,
+  "ShowItemNum": 0
+ },
+ {
+  "TaskID": 34,
+  "TaskName": "",
+  "Type": 6,
+  "Condition": 42,
+  "ConditionID": 0,
+  "ConditionVal": 15,
+  "TaskRewardId": [
+   115
+  ],
+  "TaskRewardItem": [],
+  "TaskRewardNum": [],
+  "ShowItem": 0,
+  "ShowItemNum": 0
+ },
+ {
+  "TaskID": 35,
+  "TaskName": "",
+  "Type": 6,
+  "Condition": 42,
+  "ConditionID": 0,
+  "ConditionVal": 20,
+  "TaskRewardId": [
+   115
+  ],
+  "TaskRewardItem": [],
+  "TaskRewardNum": [],
+  "ShowItem": 0,
+  "ShowItemNum": 0
+ },
+ {
+  "TaskID": 36,
+  "TaskName": "",
+  "Type": 6,
+  "Condition": 42,
+  "ConditionID": 0,
+  "ConditionVal": 30,
+  "TaskRewardId": [
+   115
+  ],
+  "TaskRewardItem": [],
+  "TaskRewardNum": [],
+  "ShowItem": 0,
+  "ShowItemNum": 0
+ },
+ {
+  "TaskID": 37,
+  "TaskName": "",
+  "Type": 6,
+  "Condition": 42,
+  "ConditionID": 0,
+  "ConditionVal": 40,
+  "TaskRewardId": [
+   115
+  ],
+  "TaskRewardItem": [],
+  "TaskRewardNum": [],
+  "ShowItem": 0,
+  "ShowItemNum": 0
+ },
+ {
+  "TaskID": 38,
+  "TaskName": "",
+  "Type": 6,
+  "Condition": 42,
+  "ConditionID": 0,
+  "ConditionVal": 50,
+  "TaskRewardId": [
+   115
+  ],
+  "TaskRewardItem": [],
+  "TaskRewardNum": [],
+  "ShowItem": 0,
+  "ShowItemNum": 0
+ },
+ {
+  "TaskID": 39,
+  "TaskName": "",
+  "Type": 6,
+  "Condition": 42,
+  "ConditionID": 0,
+  "ConditionVal": 60,
+  "TaskRewardId": [
+   115
+  ],
+  "TaskRewardItem": [],
+  "TaskRewardNum": [],
+  "ShowItem": 0,
+  "ShowItemNum": 0
+ }
+]

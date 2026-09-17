@@ -1,0 +1,758 @@
+[
+ {
+  "GemId": 10001,
+  "Type": 1,
+  "Quality": 0,
+  "GemItemId": 242,
+  "TitleAttrIDs": [
+   100
+  ],
+  "TitleAttrTypes": [
+   2
+  ],
+  "TitleAttrVals": [
+   100
+  ],
+  "GemAffixList": [
+   10001
+  ]
+ },
+ {
+  "GemId": 10002,
+  "Type": 2,
+  "Quality": 0,
+  "GemItemId": 243,
+  "TitleAttrIDs": [
+   100
+  ],
+  "TitleAttrTypes": [
+   2
+  ],
+  "TitleAttrVals": [
+   100
+  ],
+  "GemAffixList": [
+   10002
+  ]
+ },
+ {
+  "GemId": 10003,
+  "Type": 3,
+  "Quality": 0,
+  "GemItemId": 244,
+  "TitleAttrIDs": [
+   102
+  ],
+  "TitleAttrTypes": [
+   2
+  ],
+  "TitleAttrVals": [
+   100
+  ],
+  "GemAffixList": [
+   10003
+  ]
+ },
+ {
+  "GemId": 10004,
+  "Type": 4,
+  "Quality": 0,
+  "GemItemId": 245,
+  "TitleAttrIDs": [
+   102
+  ],
+  "TitleAttrTypes": [
+   2
+  ],
+  "TitleAttrVals": [
+   100
+  ],
+  "GemAffixList": [
+   10004
+  ]
+ },
+ {
+  "GemId": 10005,
+  "Type": 5,
+  "Quality": 0,
+  "GemItemId": 246,
+  "TitleAttrIDs": [
+   4
+  ],
+  "TitleAttrTypes": [
+   2
+  ],
+  "TitleAttrVals": [
+   100
+  ],
+  "GemAffixList": [
+   10005
+  ]
+ },
+ {
+  "GemId": 10006,
+  "Type": 6,
+  "Quality": 0,
+  "GemItemId": 247,
+  "TitleAttrIDs": [
+   4
+  ],
+  "TitleAttrTypes": [
+   2
+  ],
+  "TitleAttrVals": [
+   100
+  ],
+  "GemAffixList": [
+   10006
+  ]
+ },
+ {
+  "GemId": 10011,
+  "Type": 1,
+  "Quality": 1,
+  "GemItemId": 248,
+  "TitleAttrIDs": [
+   100
+  ],
+  "TitleAttrTypes": [
+   2
+  ],
+  "TitleAttrVals": [
+   200
+  ],
+  "GemAffixList": [
+   10011
+  ]
+ },
+ {
+  "GemId": 10012,
+  "Type": 2,
+  "Quality": 1,
+  "GemItemId": 249,
+  "TitleAttrIDs": [
+   100
+  ],
+  "TitleAttrTypes": [
+   2
+  ],
+  "TitleAttrVals": [
+   200
+  ],
+  "GemAffixList": [
+   10012
+  ]
+ },
+ {
+  "GemId": 10013,
+  "Type": 3,
+  "Quality": 1,
+  "GemItemId": 250,
+  "TitleAttrIDs": [
+   102
+  ],
+  "TitleAttrTypes": [
+   2
+  ],
+  "TitleAttrVals": [
+   200
+  ],
+  "GemAffixList": [
+   10013
+  ]
+ },
+ {
+  "GemId": 10014,
+  "Type": 4,
+  "Quality": 1,
+  "GemItemId": 251,
+  "TitleAttrIDs": [
+   102
+  ],
+  "TitleAttrTypes": [
+   2
+  ],
+  "TitleAttrVals": [
+   200
+  ],
+  "GemAffixList": [
+   10014
+  ]
+ },
+ {
+  "GemId": 10015,
+  "Type": 5,
+  "Quality": 1,
+  "GemItemId": 252,
+  "TitleAttrIDs": [
+   4
+  ],
+  "TitleAttrTypes": [
+   2
+  ],
+  "TitleAttrVals": [
+   200
+  ],
+  "GemAffixList": [
+   10015
+  ]
+ },
+ {
+  "GemId": 10016,
+  "Type": 6,
+  "Quality": 1,
+  "GemItemId": 253,
+  "TitleAttrIDs": [
+   4
+  ],
+  "TitleAttrTypes": [
+   2
+  ],
+  "TitleAttrVals": [
+   200
+  ],
+  "GemAffixList": [
+   10016
+  ]
+ },
+ {
+  "GemId": 10021,
+  "Type": 1,
+  "Quality": 2,
+  "GemItemId": 254,
+  "TitleAttrIDs": [
+   100
+  ],
+  "TitleAttrTypes": [
+   2
+  ],
+  "TitleAttrVals": [
+   300
+  ],
+  "GemAffixList": [
+   10021
+  ]
+ },
+ {
+  "GemId": 10022,
+  "Type": 2,
+  "Quality": 2,
+  "GemItemId": 255,
+  "TitleAttrIDs": [
+   100
+  ],
+  "TitleAttrTypes": [
+   2
+  ],
+  "TitleAttrVals": [
+   300
+  ],
+  "GemAffixList": [
+   10022
+  ]
+ },
+ {
+  "GemId": 10023,
+  "Type": 3,
+  "Quality": 2,
+  "GemItemId": 256,
+  "TitleAttrIDs": [
+   102
+  ],
+  "TitleAttrTypes": [
+   2
+  ],
+  "TitleAttrVals": [
+   300
+  ],
+  "GemAffixList": [
+   10023
+  ]
+ },
+ {
+  "GemId": 10024,
+  "Type": 4,
+  "Quality": 2,
+  "GemItemId": 257,
+  "TitleAttrIDs": [
+   102
+  ],
+  "TitleAttrTypes": [
+   2
+  ],
+  "TitleAttrVals": [
+   300
+  ],
+  "GemAffixList": [
+   10024
+  ]
+ },
+ {
+  "GemId": 10025,
+  "Type": 5,
+  "Quality": 2,
+  "GemItemId": 258,
+  "TitleAttrIDs": [
+   4
+  ],
+  "TitleAttrTypes": [
+   2
+  ],
+  "TitleAttrVals": [
+   300
+  ],
+  "GemAffixList": [
+   10025
+  ]
+ },
+ {
+  "GemId": 10026,
+  "Type": 6,
+  "Quality": 2,
+  "GemItemId": 259,
+  "TitleAttrIDs": [
+   4
+  ],
+  "TitleAttrTypes": [
+   2
+  ],
+  "TitleAttrVals": [
+   300
+  ],
+  "GemAffixList": [
+   10026
+  ]
+ },
+ {
+  "GemId": 10031,
+  "Type": 1,
+  "Quality": 3,
+  "GemItemId": 260,
+  "TitleAttrIDs": [
+   100
+  ],
+  "TitleAttrTypes": [
+   2
+  ],
+  "TitleAttrVals": [
+   400
+  ],
+  "GemAffixList": [
+   10031
+  ]
+ },
+ {
+  "GemId": 10032,
+  "Type": 2,
+  "Quality": 3,
+  "GemItemId": 261,
+  "TitleAttrIDs": [
+   100
+  ],
+  "TitleAttrTypes": [
+   2
+  ],
+  "TitleAttrVals": [
+   400
+  ],
+  "GemAffixList": [
+   10032
+  ]
+ },
+ {
+  "GemId": 10033,
+  "Type": 3,
+  "Quality": 3,
+  "GemItemId": 262,
+  "TitleAttrIDs": [
+   102
+  ],
+  "TitleAttrTypes": [
+   2
+  ],
+  "TitleAttrVals": [
+   400
+  ],
+  "GemAffixList": [
+   10033
+  ]
+ },
+ {
+  "GemId": 10034,
+  "Type": 4,
+  "Quality": 3,
+  "GemItemId": 263,
+  "TitleAttrIDs": [
+   102
+  ],
+  "TitleAttrTypes": [
+   2
+  ],
+  "TitleAttrVals": [
+   400
+  ],
+  "GemAffixList": [
+   10034
+  ]
+ },
+ {
+  "GemId": 10035,
+  "Type": 5,
+  "Quality": 3,
+  "GemItemId": 264,
+  "TitleAttrIDs": [
+   4
+  ],
+  "TitleAttrTypes": [
+   2
+  ],
+  "TitleAttrVals": [
+   400
+  ],
+  "GemAffixList": [
+   10035
+  ]
+ },
+ {
+  "GemId": 10036,
+  "Type": 6,
+  "Quality": 3,
+  "GemItemId": 265,
+  "TitleAttrIDs": [
+   4
+  ],
+  "TitleAttrTypes": [
+   2
+  ],
+  "TitleAttrVals": [
+   400
+  ],
+  "GemAffixList": [
+   10036
+  ]
+ },
+ {
+  "GemId": 10041,
+  "Type": 1,
+  "Quality": 4,
+  "GemItemId": 266,
+  "TitleAttrIDs": [
+   100
+  ],
+  "TitleAttrTypes": [
+   2
+  ],
+  "TitleAttrVals": [
+   600
+  ],
+  "GemAffixList": [
+   10041
+  ]
+ },
+ {
+  "GemId": 10042,
+  "Type": 2,
+  "Quality": 4,
+  "GemItemId": 267,
+  "TitleAttrIDs": [
+   100
+  ],
+  "TitleAttrTypes": [
+   2
+  ],
+  "TitleAttrVals": [
+   600
+  ],
+  "GemAffixList": [
+   10042
+  ]
+ },
+ {
+  "GemId": 10043,
+  "Type": 3,
+  "Quality": 4,
+  "GemItemId": 268,
+  "TitleAttrIDs": [
+   102
+  ],
+  "TitleAttrTypes": [
+   2
+  ],
+  "TitleAttrVals": [
+   600
+  ],
+  "GemAffixList": [
+   10043
+  ]
+ },
+ {
+  "GemId": 10044,
+  "Type": 4,
+  "Quality": 4,
+  "GemItemId": 269,
+  "TitleAttrIDs": [
+   102
+  ],
+  "TitleAttrTypes": [
+   2
+  ],
+  "TitleAttrVals": [
+   600
+  ],
+  "GemAffixList": [
+   10044
+  ]
+ },
+ {
+  "GemId": 10045,
+  "Type": 5,
+  "Quality": 4,
+  "GemItemId": 270,
+  "TitleAttrIDs": [
+   4
+  ],
+  "TitleAttrTypes": [
+   2
+  ],
+  "TitleAttrVals": [
+   600
+  ],
+  "GemAffixList": [
+   10045
+  ]
+ },
+ {
+  "GemId": 10046,
+  "Type": 6,
+  "Quality": 4,
+  "GemItemId": 271,
+  "TitleAttrIDs": [
+   4
+  ],
+  "TitleAttrTypes": [
+   2
+  ],
+  "TitleAttrVals": [
+   600
+  ],
+  "GemAffixList": [
+   10046
+  ]
+ },
+ {
+  "GemId": 10051,
+  "Type": 1,
+  "Quality": 5,
+  "GemItemId": 272,
+  "TitleAttrIDs": [
+   100
+  ],
+  "TitleAttrTypes": [
+   2
+  ],
+  "TitleAttrVals": [
+   800
+  ],
+  "GemAffixList": [
+   10051
+  ]
+ },
+ {
+  "GemId": 10052,
+  "Type": 2,
+  "Quality": 5,
+  "GemItemId": 273,
+  "TitleAttrIDs": [
+   100
+  ],
+  "TitleAttrTypes": [
+   2
+  ],
+  "TitleAttrVals": [
+   800
+  ],
+  "GemAffixList": [
+   10052
+  ]
+ },
+ {
+  "GemId": 10053,
+  "Type": 3,
+  "Quality": 5,
+  "GemItemId": 274,
+  "TitleAttrIDs": [
+   102
+  ],
+  "TitleAttrTypes": [
+   2
+  ],
+  "TitleAttrVals": [
+   800
+  ],
+  "GemAffixList": [
+   10053
+  ]
+ },
+ {
+  "GemId": 10054,
+  "Type": 4,
+  "Quality": 5,
+  "GemItemId": 275,
+  "TitleAttrIDs": [
+   102
+  ],
+  "TitleAttrTypes": [
+   2
+  ],
+  "TitleAttrVals": [
+   800
+  ],
+  "GemAffixList": [
+   10054
+  ]
+ },
+ {
+  "GemId": 10055,
+  "Type": 5,
+  "Quality": 5,
+  "GemItemId": 276,
+  "TitleAttrIDs": [
+   4
+  ],
+  "TitleAttrTypes": [
+   2
+  ],
+  "TitleAttrVals": [
+   800
+  ],
+  "GemAffixList": [
+   10055
+  ]
+ },
+ {
+  "GemId": 10056,
+  "Type": 6,
+  "Quality": 5,
+  "GemItemId": 277,
+  "TitleAttrIDs": [
+   4
+  ],
+  "TitleAttrTypes": [
+   2
+  ],
+  "TitleAttrVals": [
+   800
+  ],
+  "GemAffixList": [
+   10056
+  ]
+ },
+ {
+  "GemId": 10061,
+  "Type": 1,
+  "Quality": 6,
+  "GemItemId": 278,
+  "TitleAttrIDs": [
+   100
+  ],
+  "TitleAttrTypes": [
+   2
+  ],
+  "TitleAttrVals": [
+   1100
+  ],
+  "GemAffixList": [
+   10061
+  ]
+ },
+ {
+  "GemId": 10062,
+  "Type": 2,
+  "Quality": 6,
+  "GemItemId": 279,
+  "TitleAttrIDs": [
+   100
+  ],
+  "TitleAttrTypes": [
+   2
+  ],
+  "TitleAttrVals": [
+   1100
+  ],
+  "GemAffixList": [
+   10062
+  ]
+ },
+ {
+  "GemId": 10063,
+  "Type": 3,
+  "Quality": 6,
+  "GemItemId": 280,
+  "TitleAttrIDs": [
+   102
+  ],
+  "TitleAttrTypes": [
+   2
+  ],
+  "TitleAttrVals": [
+   1100
+  ],
+  "GemAffixList": [
+   10063
+  ]
+ },
+ {
+  "GemId": 10064,
+  "Type": 4,
+  "Quality": 6,
+  "GemItemId": 281,
+  "TitleAttrIDs": [
+   102
+  ],
+  "TitleAttrTypes": [
+   2
+  ],
+  "TitleAttrVals": [
+   1100
+  ],
+  "GemAffixList": [
+   10064
+  ]
+ },
+ {
+  "GemId": 10065,
+  "Type": 5,
+  "Quality": 6,
+  "GemItemId": 282,
+  "TitleAttrIDs": [
+   4
+  ],
+  "TitleAttrTypes": [
+   2
+  ],
+  "TitleAttrVals": [
+   1100
+  ],
+  "GemAffixList": [
+   10065
+  ]
+ },
+ {
+  "GemId": 10066,
+  "Type": 6,
+  "Quality": 6,
+  "GemItemId": 283,
+  "TitleAttrIDs": [
+   4
+  ],
+  "TitleAttrTypes": [
+   2
+  ],
+  "TitleAttrVals": [
+   1100
+  ],
+  "GemAffixList": [
+   10066
+  ]
+ }
+]

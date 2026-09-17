@@ -1,0 +1,112 @@
+[
+ {
+  "id": 101,
+  "Gradeid": 1,
+  "ActivationCondition": 3,
+  "Reward": [
+   175,
+   3,
+   141,
+   100
+  ]
+ },
+ {
+  "id": 102,
+  "Gradeid": 2,
+  "ActivationCondition": 6,
+  "Reward": [
+   116,
+   20,
+   141,
+   100
+  ]
+ },
+ {
+  "id": 103,
+  "Gradeid": 3,
+  "ActivationCondition": 9,
+  "Reward": [
+   175,
+   5,
+   141,
+   100
+  ]
+ },
+ {
+  "id": 104,
+  "Gradeid": 4,
+  "ActivationCondition": 15,
+  "Reward": [
+   116,
+   40,
+   141,
+   100
+  ]
+ },
+ {
+  "id": 105,
+  "Gradeid": 5,
+  "ActivationCondition": 21,
+  "Reward": [
+   175,
+   8,
+   141,
+   100
+  ]
+ },
+ {
+  "id": 106,
+  "Gradeid": 6,
+  "ActivationCondition": 27,
+  "Reward": [
+   116,
+   60,
+   141,
+   100
+  ]
+ },
+ {
+  "id": 107,
+  "Gradeid": 7,
+  "ActivationCondition": 36,
+  "Reward": [
+   175,
+   10,
+   141,
+   100
+  ]
+ },
+ {
+  "id": 108,
+  "Gradeid": 8,
+  "ActivationCondition": 45,
+  "Reward": [
+   116,
+   75,
+   141,
+   100
+  ]
+ },
+ {
+  "id": 109,
+  "Gradeid": 9,
+  "ActivationCondition": 54,
+  "Reward": [
+   175,
+   10,
+   141,
+   100
+  ]
+ },
+ {
+  "id": 110,
+  "Gradeid": 10,
+  "ActivationCondition": 63,
+  "Reward": [
+   116,
+   75,
+   141,
+   100
+  ]
+ }
+]

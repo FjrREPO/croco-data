@@ -1,0 +1,308 @@
+[
+ {
+  "ID": 1,
+  "idOld": 210101,
+  "lvl": 1,
+  "TransferLvl": 1
+ },
+ {
+  "ID": 2,
+  "idOld": 210101,
+  "lvl": 2,
+  "TransferLvl": 1
+ },
+ {
+  "ID": 3,
+  "idOld": 210101,
+  "lvl": 3,
+  "TransferLvl": 2
+ },
+ {
+  "ID": 4,
+  "idOld": 210101,
+  "lvl": 4,
+  "TransferLvl": 2
+ },
+ {
+  "ID": 5,
+  "idOld": 210101,
+  "lvl": 5,
+  "TransferLvl": 2
+ },
+ {
+  "ID": 6,
+  "idOld": 210101,
+  "lvl": 6,
+  "TransferLvl": 3
+ },
+ {
+  "ID": 7,
+  "idOld": 210101,
+  "lvl": 7,
+  "TransferLvl": 3
+ },
+ {
+  "ID": 8,
+  "idOld": 210101,
+  "lvl": 8,
+  "TransferLvl": 3
+ },
+ {
+  "ID": 9,
+  "idOld": 210101,
+  "lvl": 9,
+  "TransferLvl": 3
+ },
+ {
+  "ID": 10,
+  "idOld": 210101,
+  "lvl": 10,
+  "TransferLvl": 4
+ },
+ {
+  "ID": 11,
+  "idOld": 210101,
+  "lvl": 11,
+  "TransferLvl": 4
+ },
+ {
+  "ID": 12,
+  "idOld": 210101,
+  "lvl": 12,
+  "TransferLvl": 4
+ },
+ {
+  "ID": 13,
+  "idOld": 210101,
+  "lvl": 13,
+  "TransferLvl": 4
+ },
+ {
+  "ID": 14,
+  "idOld": 210101,
+  "lvl": 14,
+  "TransferLvl": 5
+ },
+ {
+  "ID": 15,
+  "idOld": 210401,
+  "lvl": 1,
+  "TransferLvl": 1
+ },
+ {
+  "ID": 16,
+  "idOld": 210401,
+  "lvl": 2,
+  "TransferLvl": 1
+ },
+ {
+  "ID": 17,
+  "idOld": 210401,
+  "lvl": 3,
+  "TransferLvl": 1
+ },
+ {
+  "ID": 18,
+  "idOld": 210401,
+  "lvl": 4,
+  "TransferLvl": 1
+ },
+ {
+  "ID": 19,
+  "idOld": 210401,
+  "lvl": 5,
+  "TransferLvl": 1
+ },
+ {
+  "ID": 20,
+  "idOld": 210401,
+  "lvl": 6,
+  "TransferLvl": 1
+ },
+ {
+  "ID": 21,
+  "idOld": 210401,
+  "lvl": 7,
+  "TransferLvl": 1
+ },
+ {
+  "ID": 22,
+  "idOld": 210401,
+  "lvl": 8,
+  "TransferLvl": 2
+ },
+ {
+  "ID": 23,
+  "idOld": 210401,
+  "lvl": 9,
+  "TransferLvl": 2
+ },
+ {
+  "ID": 24,
+  "idOld": 210401,
+  "lvl": 10,
+  "TransferLvl": 2
+ },
+ {
+  "ID": 25,
+  "idOld": 210401,
+  "lvl": 11,
+  "TransferLvl": 2
+ },
+ {
+  "ID": 26,
+  "idOld": 210401,
+  "lvl": 12,
+  "TransferLvl": 3
+ },
+ {
+  "ID": 27,
+  "idOld": 210401,
+  "lvl": 13,
+  "TransferLvl": 3
+ },
+ {
+  "ID": 28,
+  "idOld": 210401,
+  "lvl": 14,
+  "TransferLvl": 3
+ },
+ {
+  "ID": 29,
+  "idOld": 210401,
+  "lvl": 15,
+  "TransferLvl": 3
+ },
+ {
+  "ID": 30,
+  "idOld": 210301,
+  "lvl": 1,
+  "TransferLvl": 1
+ },
+ {
+  "ID": 31,
+  "idOld": 210301,
+  "lvl": 2,
+  "TransferLvl": 1
+ },
+ {
+  "ID": 32,
+  "idOld": 210301,
+  "lvl": 3,
+  "TransferLvl": 1
+ },
+ {
+  "ID": 33,
+  "idOld": 210301,
+  "lvl": 4,
+  "TransferLvl": 1
+ },
+ {
+  "ID": 34,
+  "idOld": 210301,
+  "lvl": 5,
+  "TransferLvl": 2
+ },
+ {
+  "ID": 35,
+  "idOld": 210301,
+  "lvl": 6,
+  "TransferLvl": 2
+ },
+ {
+  "ID": 36,
+  "idOld": 210301,
+  "lvl": 7,
+  "TransferLvl": 2
+ },
+ {
+  "ID": 37,
+  "idOld": 210301,
+  "lvl": 8,
+  "TransferLvl": 2
+ },
+ {
+  "ID": 38,
+  "idOld": 210301,
+  "lvl": 9,
+  "TransferLvl": 3
+ },
+ {
+  "ID": 39,
+  "idOld": 210301,
+  "lvl": 10,
+  "TransferLvl": 3
+ },
+ {
+  "ID": 40,
+  "idOld": 210301,
+  "lvl": 11,
+  "TransferLvl": 3
+ },
+ {
+  "ID": 41,
+  "idOld": 210301,
+  "lvl": 12,
+  "TransferLvl": 3
+ },
+ {
+  "ID": 42,
+  "idOld": 210301,
+  "lvl": 13,
+  "TransferLvl": 3
+ },
+ {
+  "ID": 43,
+  "idOld": 210501,
+  "lvl": 1,
+  "TransferLvl": 1
+ },
+ {
+  "ID": 44,
+  "idOld": 210501,
+  "lvl": 2,
+  "TransferLvl": 1
+ },
+ {
+  "ID": 45,
+  "idOld": 210501,
+  "lvl": 3,
+  "TransferLvl": 1
+ },
+ {
+  "ID": 46,
+  "idOld": 210501,
+  "lvl": 4,
+  "TransferLvl": 1
+ },
+ {
+  "ID": 47,
+  "idOld": 210501,
+  "lvl": 5,
+  "TransferLvl": 2
+ },
+ {
+  "ID": 48,
+  "idOld": 210501,
+  "lvl": 6,
+  "TransferLvl": 2
+ },
+ {
+  "ID": 49,
+  "idOld": 210501,
+  "lvl": 7,
+  "TransferLvl": 2
+ },
+ {
+  "ID": 50,
+  "idOld": 210501,
+  "lvl": 8,
+  "TransferLvl": 2
+ },
+ {
+  "ID": 51,
+  "idOld": 210501,
+  "lvl": 9,
+  "TransferLvl": 2
+ }
+]

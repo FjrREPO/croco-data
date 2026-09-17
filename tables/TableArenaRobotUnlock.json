@@ -1,0 +1,44 @@
+[
+ {
+  "id": 1,
+  "Day": 1,
+  "Minpoint": 1000,
+  "Maxpoint": 1100
+ },
+ {
+  "id": 2,
+  "Day": 2,
+  "Minpoint": 1101,
+  "Maxpoint": 1200
+ },
+ {
+  "id": 3,
+  "Day": 3,
+  "Minpoint": 1201,
+  "Maxpoint": 1300
+ },
+ {
+  "id": 4,
+  "Day": 4,
+  "Minpoint": 1301,
+  "Maxpoint": 1400
+ },
+ {
+  "id": 5,
+  "Day": 5,
+  "Minpoint": 1401,
+  "Maxpoint": 1500
+ },
+ {
+  "id": 6,
+  "Day": 6,
+  "Minpoint": 1501,
+  "Maxpoint": 1600
+ },
+ {
+  "id": 7,
+  "Day": 7,
+  "Minpoint": 1601,
+  "Maxpoint": 1700
+ }
+]

@@ -1,0 +1,1862 @@
+[
+ {
+  "AbyssID": 101001,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   2,
+   2,
+   2
+  ],
+  "AttrVals": [
+   -6000,
+   -6000,
+   -5300
+  ],
+  "FirstReward": [
+   401001
+  ],
+  "Reward": [
+   411005
+  ],
+  "BoxReward": [
+   411030,
+   2
+  ],
+  "RewardName": "Treasur_200024",
+  "KeyItemNum": [
+   1002751,
+   4
+  ],
+  "BossId": 840101
+ },
+ {
+  "AbyssID": 101002,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   2,
+   2,
+   2
+  ],
+  "AttrVals": [
+   -3700,
+   -3700,
+   1300
+  ],
+  "FirstReward": [
+   401002
+  ],
+  "Reward": [
+   411005
+  ],
+  "BoxReward": [
+   411030,
+   2
+  ],
+  "RewardName": "Treasur_200024",
+  "KeyItemNum": [
+   1002751,
+   4
+  ],
+  "BossId": 840106
+ },
+ {
+  "AbyssID": 101003,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   2,
+   2,
+   2
+  ],
+  "AttrVals": [
+   -1500,
+   -1500,
+   11900
+  ],
+  "FirstReward": [
+   401003
+  ],
+  "Reward": [
+   411005
+  ],
+  "BoxReward": [
+   411031,
+   3
+  ],
+  "RewardName": "Treasur_200024",
+  "KeyItemNum": [
+   1002751,
+   6
+  ],
+  "BossId": 840101
+ },
+ {
+  "AbyssID": 101004,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   2,
+   2,
+   2
+  ],
+  "AttrVals": [
+   6363,
+   6363,
+   28038
+  ],
+  "FirstReward": [
+   401004
+  ],
+  "Reward": [
+   411005
+  ],
+  "BoxReward": [
+   411031,
+   3
+  ],
+  "RewardName": "Treasur_200024",
+  "KeyItemNum": [
+   1002751,
+   6
+  ],
+  "BossId": 840106
+ },
+ {
+  "AbyssID": 101005,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   2,
+   2,
+   2
+  ],
+  "AttrVals": [
+   13125,
+   13125,
+   56750
+  ],
+  "FirstReward": [
+   401005
+  ],
+  "Reward": [
+   411005
+  ],
+  "BoxReward": [
+   411032,
+   4
+  ],
+  "RewardName": "Treasur_200024",
+  "KeyItemNum": [
+   1002751,
+   8
+  ],
+  "BossId": 840101
+ },
+ {
+  "AbyssID": 101006,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   2,
+   2,
+   2
+  ],
+  "AttrVals": [
+   23894,
+   23894,
+   119900
+  ],
+  "FirstReward": [
+   401006
+  ],
+  "Reward": [
+   411005
+  ],
+  "BoxReward": [
+   411031,
+   3
+  ],
+  "RewardName": "Treasur_200024",
+  "KeyItemNum": [
+   1002751,
+   6
+  ],
+  "BossId": 840106
+ },
+ {
+  "AbyssID": 101007,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   2,
+   2,
+   2
+  ],
+  "AttrVals": [
+   36906,
+   36906,
+   258313
+  ],
+  "FirstReward": [
+   401007
+  ],
+  "Reward": [
+   411005
+  ],
+  "BoxReward": [
+   411031,
+   3
+  ],
+  "RewardName": "Treasur_200024",
+  "KeyItemNum": [
+   1002751,
+   6
+  ],
+  "BossId": 840101
+ },
+ {
+  "AbyssID": 101008,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   2,
+   2,
+   2
+  ],
+  "AttrVals": [
+   51875,
+   51875,
+   421625
+  ],
+  "FirstReward": [
+   401008
+  ],
+  "Reward": [
+   411005
+  ],
+  "BoxReward": [
+   411031,
+   3
+  ],
+  "RewardName": "Treasur_200024",
+  "KeyItemNum": [
+   1002751,
+   6
+  ],
+  "BossId": 840106
+ },
+ {
+  "AbyssID": 101009,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   2,
+   2,
+   2
+  ],
+  "AttrVals": [
+   65750,
+   65750,
+   756125
+  ],
+  "FirstReward": [
+   401009
+  ],
+  "Reward": [
+   411005
+  ],
+  "BoxReward": [
+   411031,
+   3
+  ],
+  "RewardName": "Treasur_200024",
+  "KeyItemNum": [
+   1002751,
+   6
+  ],
+  "BossId": 840101
+ },
+ {
+  "AbyssID": 101010,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   2,
+   2,
+   2
+  ],
+  "AttrVals": [
+   79625,
+   79625,
+   1161500
+  ],
+  "FirstReward": [
+   401010
+  ],
+  "Reward": [
+   411005
+  ],
+  "BoxReward": [
+   411032,
+   4
+  ],
+  "RewardName": "Treasur_200024",
+  "KeyItemNum": [
+   1002751,
+   8
+  ],
+  "BossId": 840106
+ },
+ {
+  "AbyssID": 101011,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   2,
+   2,
+   2
+  ],
+  "AttrVals": [
+   119000,
+   119000,
+   1883746
+  ],
+  "FirstReward": [
+   401011
+  ],
+  "Reward": [
+   411005
+  ],
+  "BoxReward": [],
+  "RewardName": "",
+  "KeyItemNum": [],
+  "BossId": 840101
+ },
+ {
+  "AbyssID": 101012,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   2,
+   2,
+   2
+  ],
+  "AttrVals": [
+   175250,
+   175625,
+   3474500
+  ],
+  "FirstReward": [
+   401012
+  ],
+  "Reward": [
+   411005
+  ],
+  "BoxReward": [],
+  "RewardName": "",
+  "KeyItemNum": [],
+  "BossId": 840106
+ },
+ {
+  "AbyssID": 101013,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   2,
+   2,
+   2
+  ],
+  "AttrVals": [
+   231125,
+   231125,
+   5099750
+  ],
+  "FirstReward": [
+   401013
+  ],
+  "Reward": [
+   411005
+  ],
+  "BoxReward": [],
+  "RewardName": "",
+  "KeyItemNum": [],
+  "BossId": 840101
+ },
+ {
+  "AbyssID": 101014,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   2,
+   2,
+   2
+  ],
+  "AttrVals": [
+   291496,
+   291496,
+   7296500
+  ],
+  "FirstReward": [
+   401014
+  ],
+  "Reward": [
+   411005
+  ],
+  "BoxReward": [],
+  "RewardName": "",
+  "KeyItemNum": [],
+  "BossId": 840106
+ },
+ {
+  "AbyssID": 101015,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   2,
+   2,
+   2
+  ],
+  "AttrVals": [
+   356938,
+   356938,
+   11517125
+  ],
+  "FirstReward": [
+   401015
+  ],
+  "Reward": [
+   411005
+  ],
+  "BoxReward": [],
+  "RewardName": "",
+  "KeyItemNum": [],
+  "BossId": 840106
+ },
+ {
+  "AbyssID": 101016,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   2,
+   2,
+   2
+  ],
+  "AttrVals": [
+   414500,
+   414500,
+   13803125
+  ],
+  "FirstReward": [
+   401016
+  ],
+  "Reward": [
+   411005
+  ],
+  "BoxReward": [],
+  "RewardName": "",
+  "KeyItemNum": [],
+  "BossId": 840101
+ },
+ {
+  "AbyssID": 101017,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   2,
+   2,
+   2
+  ],
+  "AttrVals": [
+   477125,
+   476934,
+   16474625
+  ],
+  "FirstReward": [
+   401017
+  ],
+  "Reward": [
+   411005
+  ],
+  "BoxReward": [],
+  "RewardName": "",
+  "KeyItemNum": [],
+  "BossId": 840106
+ },
+ {
+  "AbyssID": 101018,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   2,
+   2,
+   2
+  ],
+  "AttrVals": [
+   592625,
+   592625,
+   23995250
+  ],
+  "FirstReward": [
+   401018
+  ],
+  "Reward": [
+   411005
+  ],
+  "BoxReward": [],
+  "RewardName": "",
+  "KeyItemNum": [],
+  "BossId": 840101
+ },
+ {
+  "AbyssID": 101019,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   2,
+   2,
+   2
+  ],
+  "AttrVals": [
+   774500,
+   774500,
+   36800375
+  ],
+  "FirstReward": [
+   401019
+  ],
+  "Reward": [
+   411005
+  ],
+  "BoxReward": [],
+  "RewardName": "",
+  "KeyItemNum": [],
+  "BossId": 840106
+ },
+ {
+  "AbyssID": 101020,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   2,
+   2,
+   2
+  ],
+  "AttrVals": [
+   914375,
+   914750,
+   47354371
+  ],
+  "FirstReward": [
+   401020
+  ],
+  "Reward": [
+   411005
+  ],
+  "BoxReward": [],
+  "RewardName": "",
+  "KeyItemNum": [],
+  "BossId": 840106
+ },
+ {
+  "AbyssID": 201001,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   2,
+   2,
+   2
+  ],
+  "AttrVals": [
+   -6000,
+   -6000,
+   -5300
+  ],
+  "FirstReward": [
+   401001
+  ],
+  "Reward": [
+   411036
+  ],
+  "BoxReward": [
+   411001,
+   1
+  ],
+  "RewardName": "Treasur_411001",
+  "KeyItemNum": [
+   1002751,
+   2
+  ],
+  "BossId": 840106
+ },
+ {
+  "AbyssID": 201002,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   2,
+   2,
+   2
+  ],
+  "AttrVals": [
+   -3700,
+   -3700,
+   1300
+  ],
+  "FirstReward": [
+   401002
+  ],
+  "Reward": [
+   411036
+  ],
+  "BoxReward": [
+   411001,
+   1
+  ],
+  "RewardName": "Treasur_411001",
+  "KeyItemNum": [
+   1002751,
+   2
+  ],
+  "BossId": 840103
+ },
+ {
+  "AbyssID": 201003,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   2,
+   2,
+   2
+  ],
+  "AttrVals": [
+   -1500,
+   -1500,
+   11900
+  ],
+  "FirstReward": [
+   401003
+  ],
+  "Reward": [
+   411036
+  ],
+  "BoxReward": [
+   411033,
+   3
+  ],
+  "RewardName": "Treasur_411001",
+  "KeyItemNum": [
+   1002751,
+   5
+  ],
+  "BossId": 840106
+ },
+ {
+  "AbyssID": 201004,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   2,
+   2,
+   2
+  ],
+  "AttrVals": [
+   6363,
+   6363,
+   28038
+  ],
+  "FirstReward": [
+   401004
+  ],
+  "Reward": [
+   411036
+  ],
+  "BoxReward": [
+   411033,
+   3
+  ],
+  "RewardName": "Treasur_411001",
+  "KeyItemNum": [
+   1002751,
+   5
+  ],
+  "BossId": 840103
+ },
+ {
+  "AbyssID": 201005,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   2,
+   2,
+   2
+  ],
+  "AttrVals": [
+   13125,
+   13125,
+   56750
+  ],
+  "FirstReward": [
+   401005
+  ],
+  "Reward": [
+   411036
+  ],
+  "BoxReward": [
+   411002,
+   1
+  ],
+  "RewardName": "Treasur_411002",
+  "KeyItemNum": [
+   1002751,
+   20
+  ],
+  "BossId": 840106
+ },
+ {
+  "AbyssID": 201006,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   2,
+   2,
+   2
+  ],
+  "AttrVals": [
+   23894,
+   23894,
+   119900
+  ],
+  "FirstReward": [
+   401006
+  ],
+  "Reward": [
+   411036
+  ],
+  "BoxReward": [
+   411001,
+   1
+  ],
+  "RewardName": "Treasur_411001",
+  "KeyItemNum": [
+   1002751,
+   2
+  ],
+  "BossId": 840103
+ },
+ {
+  "AbyssID": 201007,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   2,
+   2,
+   2
+  ],
+  "AttrVals": [
+   36906,
+   36906,
+   258313
+  ],
+  "FirstReward": [
+   401007
+  ],
+  "Reward": [
+   411036
+  ],
+  "BoxReward": [
+   411033,
+   3
+  ],
+  "RewardName": "Treasur_411001",
+  "KeyItemNum": [
+   1002751,
+   5
+  ],
+  "BossId": 840106
+ },
+ {
+  "AbyssID": 201008,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   2,
+   2,
+   2
+  ],
+  "AttrVals": [
+   51875,
+   51875,
+   421625
+  ],
+  "FirstReward": [
+   401008
+  ],
+  "Reward": [
+   411036
+  ],
+  "BoxReward": [
+   411033,
+   3
+  ],
+  "RewardName": "Treasur_411001",
+  "KeyItemNum": [
+   1002751,
+   5
+  ],
+  "BossId": 840103
+ },
+ {
+  "AbyssID": 201009,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   2,
+   2,
+   2
+  ],
+  "AttrVals": [
+   65750,
+   65750,
+   756125
+  ],
+  "FirstReward": [
+   401009
+  ],
+  "Reward": [
+   411036
+  ],
+  "BoxReward": [
+   411001,
+   1
+  ],
+  "RewardName": "Treasur_411001",
+  "KeyItemNum": [
+   1002751,
+   2
+  ],
+  "BossId": 840106
+ },
+ {
+  "AbyssID": 201010,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   2,
+   2,
+   2
+  ],
+  "AttrVals": [
+   79625,
+   79625,
+   1161500
+  ],
+  "FirstReward": [
+   401010
+  ],
+  "Reward": [
+   411036
+  ],
+  "BoxReward": [
+   411002,
+   1
+  ],
+  "RewardName": "Treasur_411002",
+  "KeyItemNum": [
+   1002751,
+   20
+  ],
+  "BossId": 840103
+ },
+ {
+  "AbyssID": 201011,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   2,
+   2,
+   2
+  ],
+  "AttrVals": [
+   119000,
+   119000,
+   1883746
+  ],
+  "FirstReward": [
+   401011
+  ],
+  "Reward": [
+   411036
+  ],
+  "BoxReward": [],
+  "RewardName": "",
+  "KeyItemNum": [],
+  "BossId": 840106
+ },
+ {
+  "AbyssID": 201012,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   2,
+   2,
+   2
+  ],
+  "AttrVals": [
+   175250,
+   175625,
+   3474500
+  ],
+  "FirstReward": [
+   401012
+  ],
+  "Reward": [
+   411036
+  ],
+  "BoxReward": [],
+  "RewardName": "",
+  "KeyItemNum": [],
+  "BossId": 840103
+ },
+ {
+  "AbyssID": 201013,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   2,
+   2,
+   2
+  ],
+  "AttrVals": [
+   231125,
+   231125,
+   5099750
+  ],
+  "FirstReward": [
+   401013
+  ],
+  "Reward": [
+   411036
+  ],
+  "BoxReward": [],
+  "RewardName": "",
+  "KeyItemNum": [],
+  "BossId": 840106
+ },
+ {
+  "AbyssID": 201014,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   2,
+   2,
+   2
+  ],
+  "AttrVals": [
+   291496,
+   291496,
+   7296500
+  ],
+  "FirstReward": [
+   401014
+  ],
+  "Reward": [
+   411036
+  ],
+  "BoxReward": [],
+  "RewardName": "",
+  "KeyItemNum": [],
+  "BossId": 840103
+ },
+ {
+  "AbyssID": 201015,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   2,
+   2,
+   2
+  ],
+  "AttrVals": [
+   356938,
+   356938,
+   11517125
+  ],
+  "FirstReward": [
+   401015
+  ],
+  "Reward": [
+   411036
+  ],
+  "BoxReward": [],
+  "RewardName": "",
+  "KeyItemNum": [],
+  "BossId": 840103
+ },
+ {
+  "AbyssID": 201016,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   2,
+   2,
+   2
+  ],
+  "AttrVals": [
+   414500,
+   414500,
+   13803125
+  ],
+  "FirstReward": [
+   401016
+  ],
+  "Reward": [
+   411036
+  ],
+  "BoxReward": [],
+  "RewardName": "",
+  "KeyItemNum": [],
+  "BossId": 840106
+ },
+ {
+  "AbyssID": 201017,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   2,
+   2,
+   2
+  ],
+  "AttrVals": [
+   477125,
+   476934,
+   16474625
+  ],
+  "FirstReward": [
+   401017
+  ],
+  "Reward": [
+   411036
+  ],
+  "BoxReward": [],
+  "RewardName": "",
+  "KeyItemNum": [],
+  "BossId": 840103
+ },
+ {
+  "AbyssID": 201018,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   2,
+   2,
+   2
+  ],
+  "AttrVals": [
+   592625,
+   592625,
+   23995250
+  ],
+  "FirstReward": [
+   401018
+  ],
+  "Reward": [
+   411036
+  ],
+  "BoxReward": [],
+  "RewardName": "",
+  "KeyItemNum": [],
+  "BossId": 840106
+ },
+ {
+  "AbyssID": 201019,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   2,
+   2,
+   2
+  ],
+  "AttrVals": [
+   774500,
+   774500,
+   36800375
+  ],
+  "FirstReward": [
+   401019
+  ],
+  "Reward": [
+   411036
+  ],
+  "BoxReward": [],
+  "RewardName": "",
+  "KeyItemNum": [],
+  "BossId": 840103
+ },
+ {
+  "AbyssID": 201020,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   2,
+   2,
+   2
+  ],
+  "AttrVals": [
+   914375,
+   914750,
+   47354371
+  ],
+  "FirstReward": [
+   401020
+  ],
+  "Reward": [
+   411036
+  ],
+  "BoxReward": [],
+  "RewardName": "",
+  "KeyItemNum": [],
+  "BossId": 840103
+ },
+ {
+  "AbyssID": 301001,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   2,
+   2,
+   2
+  ],
+  "AttrVals": [
+   -6000,
+   -6000,
+   -5300
+  ],
+  "FirstReward": [
+   401001
+  ],
+  "Reward": [
+   411039
+  ],
+  "BoxReward": [
+   411001,
+   1
+  ],
+  "RewardName": "Treasur_411001",
+  "KeyItemNum": [
+   1002751,
+   2
+  ],
+  "BossId": 840103
+ },
+ {
+  "AbyssID": 301002,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   2,
+   2,
+   2
+  ],
+  "AttrVals": [
+   -3700,
+   -3700,
+   1300
+  ],
+  "FirstReward": [
+   401002
+  ],
+  "Reward": [
+   411039
+  ],
+  "BoxReward": [
+   411001,
+   1
+  ],
+  "RewardName": "Treasur_411001",
+  "KeyItemNum": [
+   1002751,
+   2
+  ],
+  "BossId": 840107
+ },
+ {
+  "AbyssID": 301003,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   2,
+   2,
+   2
+  ],
+  "AttrVals": [
+   -1500,
+   -1500,
+   11900
+  ],
+  "FirstReward": [
+   401003
+  ],
+  "Reward": [
+   411039
+  ],
+  "BoxReward": [
+   411033,
+   3
+  ],
+  "RewardName": "Treasur_411001",
+  "KeyItemNum": [
+   1002751,
+   5
+  ],
+  "BossId": 840103
+ },
+ {
+  "AbyssID": 301004,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   2,
+   2,
+   2
+  ],
+  "AttrVals": [
+   6363,
+   6363,
+   28038
+  ],
+  "FirstReward": [
+   401004
+  ],
+  "Reward": [
+   411039
+  ],
+  "BoxReward": [
+   411033,
+   3
+  ],
+  "RewardName": "Treasur_411001",
+  "KeyItemNum": [
+   1002751,
+   5
+  ],
+  "BossId": 840107
+ },
+ {
+  "AbyssID": 301005,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   2,
+   2,
+   2
+  ],
+  "AttrVals": [
+   13125,
+   13125,
+   56750
+  ],
+  "FirstReward": [
+   401005
+  ],
+  "Reward": [
+   411039
+  ],
+  "BoxReward": [
+   411002,
+   1
+  ],
+  "RewardName": "Treasur_411002",
+  "KeyItemNum": [
+   1002751,
+   20
+  ],
+  "BossId": 840103
+ },
+ {
+  "AbyssID": 301006,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   2,
+   2,
+   2
+  ],
+  "AttrVals": [
+   23894,
+   23894,
+   119900
+  ],
+  "FirstReward": [
+   401006
+  ],
+  "Reward": [
+   411039
+  ],
+  "BoxReward": [
+   411001,
+   1
+  ],
+  "RewardName": "Treasur_411001",
+  "KeyItemNum": [
+   1002751,
+   2
+  ],
+  "BossId": 840107
+ },
+ {
+  "AbyssID": 301007,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   2,
+   2,
+   2
+  ],
+  "AttrVals": [
+   36906,
+   36906,
+   258313
+  ],
+  "FirstReward": [
+   401007
+  ],
+  "Reward": [
+   411039
+  ],
+  "BoxReward": [
+   411033,
+   3
+  ],
+  "RewardName": "Treasur_411001",
+  "KeyItemNum": [
+   1002751,
+   5
+  ],
+  "BossId": 840103
+ },
+ {
+  "AbyssID": 301008,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   2,
+   2,
+   2
+  ],
+  "AttrVals": [
+   51875,
+   51875,
+   421625
+  ],
+  "FirstReward": [
+   401008
+  ],
+  "Reward": [
+   411039
+  ],
+  "BoxReward": [
+   411033,
+   3
+  ],
+  "RewardName": "Treasur_411001",
+  "KeyItemNum": [
+   1002751,
+   5
+  ],
+  "BossId": 840107
+ },
+ {
+  "AbyssID": 301009,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   2,
+   2,
+   2
+  ],
+  "AttrVals": [
+   65750,
+   65750,
+   756125
+  ],
+  "FirstReward": [
+   401009
+  ],
+  "Reward": [
+   411039
+  ],
+  "BoxReward": [
+   411001,
+   1
+  ],
+  "RewardName": "Treasur_411001",
+  "KeyItemNum": [
+   1002751,
+   2
+  ],
+  "BossId": 840103
+ },
+ {
+  "AbyssID": 301010,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   2,
+   2,
+   2
+  ],
+  "AttrVals": [
+   79625,
+   79625,
+   1161500
+  ],
+  "FirstReward": [
+   401010
+  ],
+  "Reward": [
+   411039
+  ],
+  "BoxReward": [
+   411002,
+   1
+  ],
+  "RewardName": "Treasur_411002",
+  "KeyItemNum": [
+   1002751,
+   20
+  ],
+  "BossId": 840107
+ },
+ {
+  "AbyssID": 301011,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   2,
+   2,
+   2
+  ],
+  "AttrVals": [
+   119000,
+   119000,
+   1883746
+  ],
+  "FirstReward": [
+   401011
+  ],
+  "Reward": [
+   411039
+  ],
+  "BoxReward": [],
+  "RewardName": "",
+  "KeyItemNum": [],
+  "BossId": 840103
+ },
+ {
+  "AbyssID": 301012,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   2,
+   2,
+   2
+  ],
+  "AttrVals": [
+   175250,
+   175625,
+   3474500
+  ],
+  "FirstReward": [
+   401012
+  ],
+  "Reward": [
+   411039
+  ],
+  "BoxReward": [],
+  "RewardName": "",
+  "KeyItemNum": [],
+  "BossId": 840107
+ },
+ {
+  "AbyssID": 301013,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   2,
+   2,
+   2
+  ],
+  "AttrVals": [
+   231125,
+   231125,
+   5099750
+  ],
+  "FirstReward": [
+   401013
+  ],
+  "Reward": [
+   411039
+  ],
+  "BoxReward": [],
+  "RewardName": "",
+  "KeyItemNum": [],
+  "BossId": 840103
+ },
+ {
+  "AbyssID": 301014,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   2,
+   2,
+   2
+  ],
+  "AttrVals": [
+   291496,
+   291496,
+   7296500
+  ],
+  "FirstReward": [
+   401014
+  ],
+  "Reward": [
+   411039
+  ],
+  "BoxReward": [],
+  "RewardName": "",
+  "KeyItemNum": [],
+  "BossId": 840107
+ },
+ {
+  "AbyssID": 301015,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   2,
+   2,
+   2
+  ],
+  "AttrVals": [
+   356938,
+   356938,
+   11517125
+  ],
+  "FirstReward": [
+   401015
+  ],
+  "Reward": [
+   411039
+  ],
+  "BoxReward": [],
+  "RewardName": "",
+  "KeyItemNum": [],
+  "BossId": 840107
+ },
+ {
+  "AbyssID": 301016,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   2,
+   2,
+   2
+  ],
+  "AttrVals": [
+   414500,
+   414500,
+   13803125
+  ],
+  "FirstReward": [
+   401016
+  ],
+  "Reward": [
+   411039
+  ],
+  "BoxReward": [],
+  "RewardName": "",
+  "KeyItemNum": [],
+  "BossId": 840103
+ },
+ {
+  "AbyssID": 301017,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   2,
+   2,
+   2
+  ],
+  "AttrVals": [
+   477125,
+   476934,
+   16474625
+  ],
+  "FirstReward": [
+   401017
+  ],
+  "Reward": [
+   411039
+  ],
+  "BoxReward": [],
+  "RewardName": "",
+  "KeyItemNum": [],
+  "BossId": 840107
+ },
+ {
+  "AbyssID": 301018,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   2,
+   2,
+   2
+  ],
+  "AttrVals": [
+   592625,
+   592625,
+   23995250
+  ],
+  "FirstReward": [
+   401018
+  ],
+  "Reward": [
+   411039
+  ],
+  "BoxReward": [],
+  "RewardName": "",
+  "KeyItemNum": [],
+  "BossId": 840103
+ },
+ {
+  "AbyssID": 301019,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   2,
+   2,
+   2
+  ],
+  "AttrVals": [
+   774500,
+   774500,
+   36800375
+  ],
+  "FirstReward": [
+   401019
+  ],
+  "Reward": [
+   411039
+  ],
+  "BoxReward": [],
+  "RewardName": "",
+  "KeyItemNum": [],
+  "BossId": 840107
+ },
+ {
+  "AbyssID": 301020,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   2,
+   2,
+   2
+  ],
+  "AttrVals": [
+   914375,
+   914750,
+   47354371
+  ],
+  "FirstReward": [
+   401020
+  ],
+  "Reward": [
+   411039
+  ],
+  "BoxReward": [],
+  "RewardName": "",
+  "KeyItemNum": [],
+  "BossId": 840107
+ }
+]

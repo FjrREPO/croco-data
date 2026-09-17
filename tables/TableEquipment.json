@@ -1,0 +1,922 @@
+[
+ {
+  "EquipmentID": 210101,
+  "EquipmentIcon": "Icon_Equipment_210101",
+  "EquipmentType": 1,
+  "EquipmentQuality": 2,
+  "RecommendPoses": [
+   1,
+   3
+  ],
+  "AttrIDs": [
+   100,
+   213
+  ],
+  "AttrTypes": [
+   2,
+   1
+  ],
+  "AttrVals": [
+   2000,
+   2000
+  ],
+  "SkillIDs": [],
+  "Price": 300,
+  "Rate": [
+   300,
+   750,
+   1875,
+   5625
+  ]
+ },
+ {
+  "EquipmentID": 210102,
+  "EquipmentIcon": "Icon_Equipment_210102",
+  "EquipmentType": 1,
+  "EquipmentQuality": 2,
+  "RecommendPoses": [
+   1,
+   3
+  ],
+  "AttrIDs": [
+   100,
+   3
+  ],
+  "AttrTypes": [
+   2,
+   2
+  ],
+  "AttrVals": [
+   2000,
+   1000
+  ],
+  "SkillIDs": [],
+  "Price": 300,
+  "Rate": [
+   300,
+   750,
+   1875,
+   5625
+  ]
+ },
+ {
+  "EquipmentID": 210103,
+  "EquipmentIcon": "Icon_Equipment_210103",
+  "EquipmentType": 1,
+  "EquipmentQuality": 2,
+  "RecommendPoses": [
+   1,
+   3
+  ],
+  "AttrIDs": [
+   100,
+   4
+  ],
+  "AttrTypes": [
+   2,
+   2
+  ],
+  "AttrVals": [
+   2000,
+   2000
+  ],
+  "SkillIDs": [],
+  "Price": 300,
+  "Rate": [
+   300,
+   750,
+   1875,
+   5625
+  ]
+ },
+ {
+  "EquipmentID": 210104,
+  "EquipmentIcon": "Icon_Equipment_210104",
+  "EquipmentType": 1,
+  "EquipmentQuality": 2,
+  "RecommendPoses": [
+   1,
+   3
+  ],
+  "AttrIDs": [
+   100,
+   102,
+   103
+  ],
+  "AttrTypes": [
+   2,
+   2,
+   2
+  ],
+  "AttrVals": [
+   2000,
+   1000,
+   1000
+  ],
+  "SkillIDs": [],
+  "Price": 300,
+  "Rate": [
+   300,
+   750,
+   1875,
+   5625
+  ]
+ },
+ {
+  "EquipmentID": 210105,
+  "EquipmentIcon": "Icon_Equipment_210105",
+  "EquipmentType": 1,
+  "EquipmentQuality": 2,
+  "RecommendPoses": [
+   1,
+   3
+  ],
+  "AttrIDs": [
+   100,
+   215
+  ],
+  "AttrTypes": [
+   2,
+   1
+  ],
+  "AttrVals": [
+   2000,
+   2000
+  ],
+  "SkillIDs": [],
+  "Price": 300,
+  "Rate": [
+   300,
+   750,
+   1875,
+   5625
+  ]
+ },
+ {
+  "EquipmentID": 210201,
+  "EquipmentIcon": "Icon_Equipment_210201",
+  "EquipmentType": 1,
+  "EquipmentQuality": 3,
+  "RecommendPoses": [
+   1,
+   3
+  ],
+  "AttrIDs": [
+   100,
+   213,
+   212
+  ],
+  "AttrTypes": [
+   2,
+   1,
+   1
+  ],
+  "AttrVals": [
+   4000,
+   2000,
+   2000
+  ],
+  "SkillIDs": [],
+  "Price": 1000,
+  "Rate": [
+   600,
+   1500,
+   3750,
+   11250
+  ]
+ },
+ {
+  "EquipmentID": 210202,
+  "EquipmentIcon": "Icon_Equipment_210202",
+  "EquipmentType": 1,
+  "EquipmentQuality": 3,
+  "RecommendPoses": [
+   1,
+   3
+  ],
+  "AttrIDs": [
+   100,
+   208
+  ],
+  "AttrTypes": [
+   2,
+   1
+  ],
+  "AttrVals": [
+   4000,
+   2000
+  ],
+  "SkillIDs": [],
+  "Price": 1000,
+  "Rate": [
+   600,
+   1500,
+   3750,
+   11250
+  ]
+ },
+ {
+  "EquipmentID": 210203,
+  "EquipmentIcon": "Icon_Equipment_210203",
+  "EquipmentType": 1,
+  "EquipmentQuality": 3,
+  "RecommendPoses": [
+   1,
+   3
+  ],
+  "AttrIDs": [
+   100,
+   216,
+   3
+  ],
+  "AttrTypes": [
+   2,
+   1,
+   1
+  ],
+  "AttrVals": [
+   4000,
+   2000,
+   2000
+  ],
+  "SkillIDs": [],
+  "Price": 1000,
+  "Rate": [
+   600,
+   1500,
+   3750,
+   11250
+  ]
+ },
+ {
+  "EquipmentID": 210204,
+  "EquipmentIcon": "Icon_Equipment_210204",
+  "EquipmentType": 1,
+  "EquipmentQuality": 3,
+  "RecommendPoses": [
+   1,
+   3
+  ],
+  "AttrIDs": [
+   100,
+   215
+  ],
+  "AttrTypes": [
+   2,
+   1
+  ],
+  "AttrVals": [
+   4000,
+   2000
+  ],
+  "SkillIDs": [],
+  "Price": 1000,
+  "Rate": [
+   600,
+   1500,
+   3750,
+   11250
+  ]
+ },
+ {
+  "EquipmentID": 210205,
+  "EquipmentIcon": "Icon_Equipment_210205",
+  "EquipmentType": 1,
+  "EquipmentQuality": 3,
+  "RecommendPoses": [
+   1,
+   3
+  ],
+  "AttrIDs": [
+   100
+  ],
+  "AttrTypes": [
+   2
+  ],
+  "AttrVals": [
+   5000
+  ],
+  "SkillIDs": [],
+  "Price": 1000,
+  "Rate": [
+   600,
+   1500,
+   3750,
+   11250
+  ]
+ },
+ {
+  "EquipmentID": 220101,
+  "EquipmentIcon": "Icon_Equipment_220101",
+  "EquipmentType": 2,
+  "EquipmentQuality": 2,
+  "RecommendPoses": [
+   2,
+   4
+  ],
+  "AttrIDs": [
+   101,
+   213
+  ],
+  "AttrTypes": [
+   2,
+   1
+  ],
+  "AttrVals": [
+   2000,
+   2000
+  ],
+  "SkillIDs": [],
+  "Price": 300,
+  "Rate": [
+   300,
+   750,
+   1875,
+   5625
+  ]
+ },
+ {
+  "EquipmentID": 220102,
+  "EquipmentIcon": "Icon_Equipment_220102",
+  "EquipmentType": 2,
+  "EquipmentQuality": 2,
+  "RecommendPoses": [
+   2,
+   4
+  ],
+  "AttrIDs": [
+   101,
+   8
+  ],
+  "AttrTypes": [
+   2,
+   1
+  ],
+  "AttrVals": [
+   2000,
+   2000
+  ],
+  "SkillIDs": [],
+  "Price": 300,
+  "Rate": [
+   300,
+   750,
+   1875,
+   5625
+  ]
+ },
+ {
+  "EquipmentID": 220103,
+  "EquipmentIcon": "Icon_Equipment_220103",
+  "EquipmentType": 2,
+  "EquipmentQuality": 2,
+  "RecommendPoses": [
+   2,
+   4
+  ],
+  "AttrIDs": [
+   101,
+   7
+  ],
+  "AttrTypes": [
+   2,
+   1
+  ],
+  "AttrVals": [
+   2000,
+   300
+  ],
+  "SkillIDs": [],
+  "Price": 300,
+  "Rate": [
+   300,
+   750,
+   1875,
+   5625
+  ]
+ },
+ {
+  "EquipmentID": 220104,
+  "EquipmentIcon": "Icon_Equipment_220104",
+  "EquipmentType": 2,
+  "EquipmentQuality": 2,
+  "RecommendPoses": [
+   2,
+   4
+  ],
+  "AttrIDs": [
+   101,
+   102,
+   103
+  ],
+  "AttrTypes": [
+   2,
+   2,
+   2
+  ],
+  "AttrVals": [
+   2000,
+   1000,
+   1000
+  ],
+  "SkillIDs": [],
+  "Price": 300,
+  "Rate": [
+   300,
+   750,
+   1875,
+   5625
+  ]
+ },
+ {
+  "EquipmentID": 220105,
+  "EquipmentIcon": "Icon_Equipment_220105",
+  "EquipmentType": 2,
+  "EquipmentQuality": 2,
+  "RecommendPoses": [
+   2,
+   4
+  ],
+  "AttrIDs": [
+   101,
+   4
+  ],
+  "AttrTypes": [
+   2,
+   2
+  ],
+  "AttrVals": [
+   2000,
+   2000
+  ],
+  "SkillIDs": [],
+  "Price": 300,
+  "Rate": [
+   300,
+   750,
+   1875,
+   5625
+  ]
+ },
+ {
+  "EquipmentID": 220201,
+  "EquipmentIcon": "Icon_Equipment_220201",
+  "EquipmentType": 2,
+  "EquipmentQuality": 3,
+  "RecommendPoses": [
+   2,
+   4
+  ],
+  "AttrIDs": [
+   101,
+   216,
+   218
+  ],
+  "AttrTypes": [
+   2,
+   1,
+   1
+  ],
+  "AttrVals": [
+   4000,
+   2000,
+   2000
+  ],
+  "SkillIDs": [],
+  "Price": 1000,
+  "Rate": [
+   600,
+   1500,
+   3750,
+   11250
+  ]
+ },
+ {
+  "EquipmentID": 220202,
+  "EquipmentIcon": "Icon_Equipment_220202",
+  "EquipmentType": 2,
+  "EquipmentQuality": 3,
+  "RecommendPoses": [
+   2,
+   4
+  ],
+  "AttrIDs": [
+   101,
+   213
+  ],
+  "AttrTypes": [
+   2,
+   1
+  ],
+  "AttrVals": [
+   4000,
+   2000
+  ],
+  "SkillIDs": [],
+  "Price": 1000,
+  "Rate": [
+   600,
+   1500,
+   3750,
+   11250
+  ]
+ },
+ {
+  "EquipmentID": 220203,
+  "EquipmentIcon": "Icon_Equipment_220203",
+  "EquipmentType": 2,
+  "EquipmentQuality": 3,
+  "RecommendPoses": [
+   2,
+   4
+  ],
+  "AttrIDs": [
+   101,
+   7
+  ],
+  "AttrTypes": [
+   2,
+   1
+  ],
+  "AttrVals": [
+   4000,
+   600
+  ],
+  "SkillIDs": [],
+  "Price": 1000,
+  "Rate": [
+   600,
+   1500,
+   3750,
+   11250
+  ]
+ },
+ {
+  "EquipmentID": 220204,
+  "EquipmentIcon": "Icon_Equipment_220204",
+  "EquipmentType": 2,
+  "EquipmentQuality": 3,
+  "RecommendPoses": [
+   2,
+   4
+  ],
+  "AttrIDs": [
+   101,
+   215
+  ],
+  "AttrTypes": [
+   2,
+   1
+  ],
+  "AttrVals": [
+   4000,
+   2000
+  ],
+  "SkillIDs": [],
+  "Price": 1000,
+  "Rate": [
+   600,
+   1500,
+   3750,
+   11250
+  ]
+ },
+ {
+  "EquipmentID": 220205,
+  "EquipmentIcon": "Icon_Equipment_220205",
+  "EquipmentType": 2,
+  "EquipmentQuality": 3,
+  "RecommendPoses": [
+   2,
+   4
+  ],
+  "AttrIDs": [
+   101
+  ],
+  "AttrTypes": [
+   2
+  ],
+  "AttrVals": [
+   5000
+  ],
+  "SkillIDs": [],
+  "Price": 1000,
+  "Rate": [
+   600,
+   1500,
+   3750,
+   11250
+  ]
+ },
+ {
+  "EquipmentID": 230101,
+  "EquipmentIcon": "Icon_Equipment_230101",
+  "EquipmentType": 3,
+  "EquipmentQuality": 2,
+  "RecommendPoses": [
+   3
+  ],
+  "AttrIDs": [
+   4,
+   102,
+   103
+  ],
+  "AttrTypes": [
+   2,
+   2,
+   2
+  ],
+  "AttrVals": [
+   2000,
+   1500,
+   1500
+  ],
+  "SkillIDs": [],
+  "Price": 300,
+  "Rate": [
+   300,
+   750,
+   1875,
+   5625
+  ]
+ },
+ {
+  "EquipmentID": 230102,
+  "EquipmentIcon": "Icon_Equipment_230102",
+  "EquipmentType": 3,
+  "EquipmentQuality": 2,
+  "RecommendPoses": [
+   3
+  ],
+  "AttrIDs": [
+   7,
+   102,
+   103
+  ],
+  "AttrTypes": [
+   1,
+   2,
+   2
+  ],
+  "AttrVals": [
+   300,
+   1500,
+   1500
+  ],
+  "SkillIDs": [],
+  "Price": 300,
+  "Rate": [
+   300,
+   750,
+   1875,
+   5625
+  ]
+ },
+ {
+  "EquipmentID": 230103,
+  "EquipmentIcon": "Icon_Equipment_230103",
+  "EquipmentType": 3,
+  "EquipmentQuality": 2,
+  "RecommendPoses": [
+   3,
+   4
+  ],
+  "AttrIDs": [
+   4,
+   218
+  ],
+  "AttrTypes": [
+   2,
+   1
+  ],
+  "AttrVals": [
+   2000,
+   1000
+  ],
+  "SkillIDs": [],
+  "Price": 300,
+  "Rate": [
+   300,
+   750,
+   1875,
+   5625
+  ]
+ },
+ {
+  "EquipmentID": 230104,
+  "EquipmentIcon": "Icon_Equipment_230104",
+  "EquipmentType": 3,
+  "EquipmentQuality": 2,
+  "RecommendPoses": [
+   3,
+   4
+  ],
+  "AttrIDs": [
+   8,
+   7
+  ],
+  "AttrTypes": [
+   1,
+   1
+  ],
+  "AttrVals": [
+   3000,
+   300
+  ],
+  "SkillIDs": [],
+  "Price": 300,
+  "Rate": [
+   300,
+   750,
+   1875,
+   5625
+  ]
+ },
+ {
+  "EquipmentID": 230105,
+  "EquipmentIcon": "Icon_Equipment_230105",
+  "EquipmentType": 3,
+  "EquipmentQuality": 2,
+  "RecommendPoses": [
+   3,
+   4
+  ],
+  "AttrIDs": [
+   4,
+   2,
+   3
+  ],
+  "AttrTypes": [
+   2,
+   2,
+   2
+  ],
+  "AttrVals": [
+   2000,
+   2000,
+   2000
+  ],
+  "SkillIDs": [],
+  "Price": 300,
+  "Rate": [
+   300,
+   750,
+   1875,
+   5625
+  ]
+ },
+ {
+  "EquipmentID": 230201,
+  "EquipmentIcon": "Icon_Equipment_230201",
+  "EquipmentType": 3,
+  "EquipmentQuality": 3,
+  "RecommendPoses": [
+   3
+  ],
+  "AttrIDs": [
+   4,
+   102,
+   103
+  ],
+  "AttrTypes": [
+   2,
+   2,
+   2
+  ],
+  "AttrVals": [
+   4000,
+   2000,
+   2000
+  ],
+  "SkillIDs": [],
+  "Price": 1000,
+  "Rate": [
+   600,
+   1500,
+   3750,
+   11250
+  ]
+ },
+ {
+  "EquipmentID": 230202,
+  "EquipmentIcon": "Icon_Equipment_230202",
+  "EquipmentType": 3,
+  "EquipmentQuality": 3,
+  "RecommendPoses": [
+   3
+  ],
+  "AttrIDs": [
+   4,
+   102,
+   103
+  ],
+  "AttrTypes": [
+   2,
+   2,
+   2
+  ],
+  "AttrVals": [
+   4000,
+   2000,
+   2000
+  ],
+  "SkillIDs": [],
+  "Price": 1000,
+  "Rate": [
+   600,
+   1500,
+   3750,
+   11250
+  ]
+ },
+ {
+  "EquipmentID": 230203,
+  "EquipmentIcon": "Icon_Equipment_230203",
+  "EquipmentType": 3,
+  "EquipmentQuality": 3,
+  "RecommendPoses": [
+   3
+  ],
+  "AttrIDs": [
+   4,
+   7,
+   103
+  ],
+  "AttrTypes": [
+   2,
+   1,
+   2
+  ],
+  "AttrVals": [
+   4000,
+   600,
+   3000
+  ],
+  "SkillIDs": [],
+  "Price": 1000,
+  "Rate": [
+   600,
+   1500,
+   3750,
+   11250
+  ]
+ },
+ {
+  "EquipmentID": 230204,
+  "EquipmentIcon": "Icon_Equipment_230204",
+  "EquipmentType": 3,
+  "EquipmentQuality": 3,
+  "RecommendPoses": [
+   3
+  ],
+  "AttrIDs": [
+   4,
+   3,
+   102
+  ],
+  "AttrTypes": [
+   2,
+   1,
+   2
+  ],
+  "AttrVals": [
+   4000,
+   3000,
+   3000
+  ],
+  "SkillIDs": [],
+  "Price": 1000,
+  "Rate": [
+   600,
+   1500,
+   3750,
+   11250
+  ]
+ },
+ {
+  "EquipmentID": 230205,
+  "EquipmentIcon": "Icon_Equipment_230205",
+  "EquipmentType": 3,
+  "EquipmentQuality": 3,
+  "RecommendPoses": [
+   3
+  ],
+  "AttrIDs": [
+   4
+  ],
+  "AttrTypes": [
+   2
+  ],
+  "AttrVals": [
+   5000
+  ],
+  "SkillIDs": [],
+  "Price": 1000,
+  "Rate": [
+   600,
+   1500,
+   3750,
+   11250
+  ]
+ }
+]

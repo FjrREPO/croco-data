@@ -1,0 +1,5186 @@
+[
+ {
+  "ID": 1,
+  "EquipmentType": 1,
+  "Type": 1,
+  "Quality": 0,
+  "AffixMultiplier": 2,
+  "AffixNumericalType": 1,
+  "AffixValueRange": [],
+  "Weight": 1000,
+  "AE": 8001,
+  "GearGamenum": "@8001"
+ },
+ {
+  "ID": 2,
+  "EquipmentType": 1,
+  "Type": 1,
+  "Quality": 0,
+  "AffixMultiplier": 2,
+  "AffixNumericalType": 1,
+  "AffixValueRange": [],
+  "Weight": 1000,
+  "AE": 8002,
+  "GearGamenum": "@8002"
+ },
+ {
+  "ID": 3,
+  "EquipmentType": 1,
+  "Type": 1,
+  "Quality": 0,
+  "AffixMultiplier": 2,
+  "AffixNumericalType": 1,
+  "AffixValueRange": [],
+  "Weight": 1000,
+  "AE": 8003,
+  "GearGamenum": "@8003"
+ },
+ {
+  "ID": 4,
+  "EquipmentType": 1,
+  "Type": 1,
+  "Quality": 0,
+  "AffixMultiplier": 2,
+  "AffixNumericalType": 1,
+  "AffixValueRange": [],
+  "Weight": 1000,
+  "AE": 8004,
+  "GearGamenum": "@8004"
+ },
+ {
+  "ID": 5,
+  "EquipmentType": 1,
+  "Type": 1,
+  "Quality": 0,
+  "AffixMultiplier": 2,
+  "AffixNumericalType": 1,
+  "AffixValueRange": [],
+  "Weight": 1000,
+  "AE": 8005,
+  "GearGamenum": "@8005"
+ },
+ {
+  "ID": 6,
+  "EquipmentType": 1,
+  "Type": 1,
+  "Quality": 0,
+  "AffixMultiplier": 2,
+  "AffixNumericalType": 1,
+  "AffixValueRange": [],
+  "Weight": 1000,
+  "AE": 8006,
+  "GearGamenum": "@8006"
+ },
+ {
+  "ID": 7,
+  "EquipmentType": 1,
+  "Type": 1,
+  "Quality": 0,
+  "AffixMultiplier": 2,
+  "AffixNumericalType": 1,
+  "AffixValueRange": [],
+  "Weight": 1000,
+  "AE": 8007,
+  "GearGamenum": "@8007"
+ },
+ {
+  "ID": 8,
+  "EquipmentType": 1,
+  "Type": 1,
+  "Quality": 0,
+  "AffixMultiplier": 2,
+  "AffixNumericalType": 1,
+  "AffixValueRange": [],
+  "Weight": 1000,
+  "AE": 8008,
+  "GearGamenum": "@8008"
+ },
+ {
+  "ID": 9,
+  "EquipmentType": 1,
+  "Type": 1,
+  "Quality": 0,
+  "AffixMultiplier": 1,
+  "AffixNumericalType": 1,
+  "AffixValueRange": [],
+  "Weight": 1000,
+  "AE": 8009,
+  "GearGamenum": "@8009"
+ },
+ {
+  "ID": 10,
+  "EquipmentType": 1,
+  "Type": 1,
+  "Quality": 0,
+  "AffixMultiplier": 1,
+  "AffixNumericalType": 1,
+  "AffixValueRange": [],
+  "Weight": 1000,
+  "AE": 8010,
+  "GearGamenum": "@8010"
+ },
+ {
+  "ID": 11,
+  "EquipmentType": 1,
+  "Type": 1,
+  "Quality": 0,
+  "AffixMultiplier": 1,
+  "AffixNumericalType": 1,
+  "AffixValueRange": [],
+  "Weight": 1000,
+  "AE": 8011,
+  "GearGamenum": "@8011"
+ },
+ {
+  "ID": 12,
+  "EquipmentType": 1,
+  "Type": 1,
+  "Quality": 0,
+  "AffixMultiplier": 1,
+  "AffixNumericalType": 1,
+  "AffixValueRange": [],
+  "Weight": 1000,
+  "AE": 8012,
+  "GearGamenum": "@8012"
+ },
+ {
+  "ID": 13,
+  "EquipmentType": 1,
+  "Type": 1,
+  "Quality": 0,
+  "AffixMultiplier": 1,
+  "AffixNumericalType": 1,
+  "AffixValueRange": [],
+  "Weight": 1000,
+  "AE": 8013,
+  "GearGamenum": "@8013"
+ },
+ {
+  "ID": 14,
+  "EquipmentType": 1,
+  "Type": 1,
+  "Quality": 0,
+  "AffixMultiplier": 1,
+  "AffixNumericalType": 1,
+  "AffixValueRange": [],
+  "Weight": 1000,
+  "AE": 8014,
+  "GearGamenum": "@8014"
+ },
+ {
+  "ID": 15,
+  "EquipmentType": 1,
+  "Type": 1,
+  "Quality": 0,
+  "AffixMultiplier": 1,
+  "AffixNumericalType": 1,
+  "AffixValueRange": [],
+  "Weight": 1000,
+  "AE": 8015,
+  "GearGamenum": "@8015"
+ },
+ {
+  "ID": 16,
+  "EquipmentType": 1,
+  "Type": 1,
+  "Quality": 0,
+  "AffixMultiplier": 1,
+  "AffixNumericalType": 1,
+  "AffixValueRange": [],
+  "Weight": 1000,
+  "AE": 8016,
+  "GearGamenum": "@8016"
+ },
+ {
+  "ID": 17,
+  "EquipmentType": 1,
+  "Type": 1,
+  "Quality": 0,
+  "AffixMultiplier": 1,
+  "AffixNumericalType": 1,
+  "AffixValueRange": [],
+  "Weight": 1000,
+  "AE": 8017,
+  "GearGamenum": "@8017"
+ },
+ {
+  "ID": 18,
+  "EquipmentType": 1,
+  "Type": 1,
+  "Quality": 0,
+  "AffixMultiplier": 1,
+  "AffixNumericalType": 1,
+  "AffixValueRange": [],
+  "Weight": 1000,
+  "AE": 8018,
+  "GearGamenum": "@8018"
+ },
+ {
+  "ID": 19,
+  "EquipmentType": 1,
+  "Type": 1,
+  "Quality": 0,
+  "AffixMultiplier": 1,
+  "AffixNumericalType": 1,
+  "AffixValueRange": [],
+  "Weight": 1000,
+  "AE": 8019,
+  "GearGamenum": "@8019"
+ },
+ {
+  "ID": 20,
+  "EquipmentType": 1,
+  "Type": 1,
+  "Quality": 0,
+  "AffixMultiplier": 1,
+  "AffixNumericalType": 1,
+  "AffixValueRange": [],
+  "Weight": 1000,
+  "AE": 8020,
+  "GearGamenum": "@8020"
+ },
+ {
+  "ID": 21,
+  "EquipmentType": 1,
+  "Type": 1,
+  "Quality": 0,
+  "AffixMultiplier": 1,
+  "AffixNumericalType": 1,
+  "AffixValueRange": [],
+  "Weight": 1000,
+  "AE": 8021,
+  "GearGamenum": "@8021"
+ },
+ {
+  "ID": 22,
+  "EquipmentType": 1,
+  "Type": 1,
+  "Quality": 0,
+  "AffixMultiplier": 1,
+  "AffixNumericalType": 1,
+  "AffixValueRange": [],
+  "Weight": 0,
+  "AE": 8022,
+  "GearGamenum": "@8022"
+ },
+ {
+  "ID": 23,
+  "EquipmentType": 2,
+  "Type": 1,
+  "Quality": 0,
+  "AffixMultiplier": 2,
+  "AffixNumericalType": 1,
+  "AffixValueRange": [],
+  "Weight": 1000,
+  "AE": 8023,
+  "GearGamenum": "@8023"
+ },
+ {
+  "ID": 24,
+  "EquipmentType": 2,
+  "Type": 1,
+  "Quality": 0,
+  "AffixMultiplier": 2,
+  "AffixNumericalType": 1,
+  "AffixValueRange": [],
+  "Weight": 1000,
+  "AE": 8024,
+  "GearGamenum": "@8024"
+ },
+ {
+  "ID": 25,
+  "EquipmentType": 2,
+  "Type": 1,
+  "Quality": 0,
+  "AffixMultiplier": 2,
+  "AffixNumericalType": 1,
+  "AffixValueRange": [],
+  "Weight": 1000,
+  "AE": 8025,
+  "GearGamenum": "@8025"
+ },
+ {
+  "ID": 26,
+  "EquipmentType": 2,
+  "Type": 1,
+  "Quality": 0,
+  "AffixMultiplier": 2,
+  "AffixNumericalType": 1,
+  "AffixValueRange": [],
+  "Weight": 1000,
+  "AE": 8026,
+  "GearGamenum": "@8026"
+ },
+ {
+  "ID": 27,
+  "EquipmentType": 2,
+  "Type": 1,
+  "Quality": 0,
+  "AffixMultiplier": 2,
+  "AffixNumericalType": 1,
+  "AffixValueRange": [],
+  "Weight": 1000,
+  "AE": 8027,
+  "GearGamenum": "@8027"
+ },
+ {
+  "ID": 28,
+  "EquipmentType": 2,
+  "Type": 1,
+  "Quality": 0,
+  "AffixMultiplier": 2,
+  "AffixNumericalType": 1,
+  "AffixValueRange": [],
+  "Weight": 1000,
+  "AE": 8028,
+  "GearGamenum": "@8028"
+ },
+ {
+  "ID": 29,
+  "EquipmentType": 2,
+  "Type": 1,
+  "Quality": 0,
+  "AffixMultiplier": 2,
+  "AffixNumericalType": 1,
+  "AffixValueRange": [],
+  "Weight": 1000,
+  "AE": 8029,
+  "GearGamenum": "@8029"
+ },
+ {
+  "ID": 30,
+  "EquipmentType": 2,
+  "Type": 1,
+  "Quality": 0,
+  "AffixMultiplier": 2,
+  "AffixNumericalType": 1,
+  "AffixValueRange": [],
+  "Weight": 1000,
+  "AE": 8030,
+  "GearGamenum": "@8030"
+ },
+ {
+  "ID": 31,
+  "EquipmentType": 2,
+  "Type": 1,
+  "Quality": 0,
+  "AffixMultiplier": 1,
+  "AffixNumericalType": 1,
+  "AffixValueRange": [],
+  "Weight": 1000,
+  "AE": 8031,
+  "GearGamenum": "@8031"
+ },
+ {
+  "ID": 32,
+  "EquipmentType": 2,
+  "Type": 1,
+  "Quality": 0,
+  "AffixMultiplier": 1,
+  "AffixNumericalType": 1,
+  "AffixValueRange": [],
+  "Weight": 1000,
+  "AE": 8032,
+  "GearGamenum": "@8032"
+ },
+ {
+  "ID": 33,
+  "EquipmentType": 2,
+  "Type": 1,
+  "Quality": 0,
+  "AffixMultiplier": 1,
+  "AffixNumericalType": 1,
+  "AffixValueRange": [],
+  "Weight": 1000,
+  "AE": 8033,
+  "GearGamenum": "@8033"
+ },
+ {
+  "ID": 34,
+  "EquipmentType": 2,
+  "Type": 1,
+  "Quality": 0,
+  "AffixMultiplier": 1,
+  "AffixNumericalType": 1,
+  "AffixValueRange": [],
+  "Weight": 1000,
+  "AE": 8034,
+  "GearGamenum": "@8034"
+ },
+ {
+  "ID": 35,
+  "EquipmentType": 2,
+  "Type": 1,
+  "Quality": 0,
+  "AffixMultiplier": 1,
+  "AffixNumericalType": 1,
+  "AffixValueRange": [],
+  "Weight": 1000,
+  "AE": 8035,
+  "GearGamenum": "@8035"
+ },
+ {
+  "ID": 36,
+  "EquipmentType": 2,
+  "Type": 1,
+  "Quality": 0,
+  "AffixMultiplier": 1,
+  "AffixNumericalType": 1,
+  "AffixValueRange": [],
+  "Weight": 1000,
+  "AE": 8036,
+  "GearGamenum": "@8036"
+ },
+ {
+  "ID": 37,
+  "EquipmentType": 2,
+  "Type": 1,
+  "Quality": 0,
+  "AffixMultiplier": 1,
+  "AffixNumericalType": 1,
+  "AffixValueRange": [],
+  "Weight": 1000,
+  "AE": 8037,
+  "GearGamenum": "@8037"
+ },
+ {
+  "ID": 38,
+  "EquipmentType": 2,
+  "Type": 1,
+  "Quality": 0,
+  "AffixMultiplier": 1,
+  "AffixNumericalType": 1,
+  "AffixValueRange": [],
+  "Weight": 1000,
+  "AE": 8038,
+  "GearGamenum": "@8038"
+ },
+ {
+  "ID": 39,
+  "EquipmentType": 2,
+  "Type": 1,
+  "Quality": 0,
+  "AffixMultiplier": 1,
+  "AffixNumericalType": 1,
+  "AffixValueRange": [],
+  "Weight": 1000,
+  "AE": 8039,
+  "GearGamenum": "@8039"
+ },
+ {
+  "ID": 40,
+  "EquipmentType": 2,
+  "Type": 1,
+  "Quality": 0,
+  "AffixMultiplier": 1,
+  "AffixNumericalType": 1,
+  "AffixValueRange": [],
+  "Weight": 1000,
+  "AE": 8040,
+  "GearGamenum": "@8040"
+ },
+ {
+  "ID": 41,
+  "EquipmentType": 2,
+  "Type": 1,
+  "Quality": 0,
+  "AffixMultiplier": 1,
+  "AffixNumericalType": 1,
+  "AffixValueRange": [],
+  "Weight": 1000,
+  "AE": 8041,
+  "GearGamenum": "@8041"
+ },
+ {
+  "ID": 42,
+  "EquipmentType": 2,
+  "Type": 1,
+  "Quality": 0,
+  "AffixMultiplier": 1,
+  "AffixNumericalType": 1,
+  "AffixValueRange": [],
+  "Weight": 1000,
+  "AE": 8042,
+  "GearGamenum": "@8042"
+ },
+ {
+  "ID": 43,
+  "EquipmentType": 2,
+  "Type": 1,
+  "Quality": 0,
+  "AffixMultiplier": 1,
+  "AffixNumericalType": 1,
+  "AffixValueRange": [],
+  "Weight": 1000,
+  "AE": 8043,
+  "GearGamenum": "@8043"
+ },
+ {
+  "ID": 44,
+  "EquipmentType": 2,
+  "Type": 1,
+  "Quality": 0,
+  "AffixMultiplier": 1,
+  "AffixNumericalType": 1,
+  "AffixValueRange": [],
+  "Weight": 0,
+  "AE": 8044,
+  "GearGamenum": "@8044"
+ },
+ {
+  "ID": 45,
+  "EquipmentType": 3,
+  "Type": 1,
+  "Quality": 0,
+  "AffixMultiplier": 2,
+  "AffixNumericalType": 1,
+  "AffixValueRange": [],
+  "Weight": 1000,
+  "AE": 8045,
+  "GearGamenum": "@8045"
+ },
+ {
+  "ID": 46,
+  "EquipmentType": 3,
+  "Type": 1,
+  "Quality": 0,
+  "AffixMultiplier": 2,
+  "AffixNumericalType": 1,
+  "AffixValueRange": [],
+  "Weight": 1000,
+  "AE": 8046,
+  "GearGamenum": "@8046"
+ },
+ {
+  "ID": 47,
+  "EquipmentType": 3,
+  "Type": 1,
+  "Quality": 0,
+  "AffixMultiplier": 2,
+  "AffixNumericalType": 1,
+  "AffixValueRange": [],
+  "Weight": 1000,
+  "AE": 8047,
+  "GearGamenum": "@8047"
+ },
+ {
+  "ID": 48,
+  "EquipmentType": 3,
+  "Type": 1,
+  "Quality": 0,
+  "AffixMultiplier": 2,
+  "AffixNumericalType": 1,
+  "AffixValueRange": [],
+  "Weight": 1000,
+  "AE": 8048,
+  "GearGamenum": "@8048"
+ },
+ {
+  "ID": 49,
+  "EquipmentType": 3,
+  "Type": 1,
+  "Quality": 0,
+  "AffixMultiplier": 2,
+  "AffixNumericalType": 1,
+  "AffixValueRange": [],
+  "Weight": 1000,
+  "AE": 8049,
+  "GearGamenum": "@8049"
+ },
+ {
+  "ID": 50,
+  "EquipmentType": 3,
+  "Type": 1,
+  "Quality": 0,
+  "AffixMultiplier": 2,
+  "AffixNumericalType": 1,
+  "AffixValueRange": [],
+  "Weight": 1000,
+  "AE": 8050,
+  "GearGamenum": "@8050"
+ },
+ {
+  "ID": 51,
+  "EquipmentType": 3,
+  "Type": 1,
+  "Quality": 0,
+  "AffixMultiplier": 2,
+  "AffixNumericalType": 1,
+  "AffixValueRange": [],
+  "Weight": 1000,
+  "AE": 8051,
+  "GearGamenum": "@8051"
+ },
+ {
+  "ID": 52,
+  "EquipmentType": 3,
+  "Type": 1,
+  "Quality": 0,
+  "AffixMultiplier": 2,
+  "AffixNumericalType": 1,
+  "AffixValueRange": [],
+  "Weight": 1000,
+  "AE": 8052,
+  "GearGamenum": "@8052"
+ },
+ {
+  "ID": 53,
+  "EquipmentType": 3,
+  "Type": 1,
+  "Quality": 0,
+  "AffixMultiplier": 1,
+  "AffixNumericalType": 1,
+  "AffixValueRange": [],
+  "Weight": 1000,
+  "AE": 8053,
+  "GearGamenum": "@8053"
+ },
+ {
+  "ID": 54,
+  "EquipmentType": 3,
+  "Type": 1,
+  "Quality": 0,
+  "AffixMultiplier": 1,
+  "AffixNumericalType": 1,
+  "AffixValueRange": [],
+  "Weight": 1000,
+  "AE": 8054,
+  "GearGamenum": "@8054"
+ },
+ {
+  "ID": 55,
+  "EquipmentType": 3,
+  "Type": 1,
+  "Quality": 0,
+  "AffixMultiplier": 1,
+  "AffixNumericalType": 1,
+  "AffixValueRange": [],
+  "Weight": 1000,
+  "AE": 8055,
+  "GearGamenum": "@8055"
+ },
+ {
+  "ID": 56,
+  "EquipmentType": 3,
+  "Type": 1,
+  "Quality": 0,
+  "AffixMultiplier": 1,
+  "AffixNumericalType": 1,
+  "AffixValueRange": [],
+  "Weight": 1000,
+  "AE": 8056,
+  "GearGamenum": "@8056"
+ },
+ {
+  "ID": 57,
+  "EquipmentType": 3,
+  "Type": 1,
+  "Quality": 0,
+  "AffixMultiplier": 1,
+  "AffixNumericalType": 1,
+  "AffixValueRange": [],
+  "Weight": 1000,
+  "AE": 8057,
+  "GearGamenum": "@8057"
+ },
+ {
+  "ID": 58,
+  "EquipmentType": 3,
+  "Type": 1,
+  "Quality": 0,
+  "AffixMultiplier": 1,
+  "AffixNumericalType": 1,
+  "AffixValueRange": [],
+  "Weight": 1000,
+  "AE": 8058,
+  "GearGamenum": "@8058"
+ },
+ {
+  "ID": 59,
+  "EquipmentType": 3,
+  "Type": 1,
+  "Quality": 0,
+  "AffixMultiplier": 1,
+  "AffixNumericalType": 1,
+  "AffixValueRange": [],
+  "Weight": 1000,
+  "AE": 8059,
+  "GearGamenum": "@8059"
+ },
+ {
+  "ID": 60,
+  "EquipmentType": 3,
+  "Type": 1,
+  "Quality": 0,
+  "AffixMultiplier": 1,
+  "AffixNumericalType": 1,
+  "AffixValueRange": [],
+  "Weight": 1000,
+  "AE": 8060,
+  "GearGamenum": "@8060"
+ },
+ {
+  "ID": 61,
+  "EquipmentType": 3,
+  "Type": 1,
+  "Quality": 0,
+  "AffixMultiplier": 1,
+  "AffixNumericalType": 1,
+  "AffixValueRange": [],
+  "Weight": 1000,
+  "AE": 8061,
+  "GearGamenum": "@8061"
+ },
+ {
+  "ID": 62,
+  "EquipmentType": 3,
+  "Type": 1,
+  "Quality": 0,
+  "AffixMultiplier": 1,
+  "AffixNumericalType": 1,
+  "AffixValueRange": [],
+  "Weight": 1000,
+  "AE": 8062,
+  "GearGamenum": "@8062"
+ },
+ {
+  "ID": 63,
+  "EquipmentType": 3,
+  "Type": 1,
+  "Quality": 0,
+  "AffixMultiplier": 1,
+  "AffixNumericalType": 1,
+  "AffixValueRange": [],
+  "Weight": 1000,
+  "AE": 8063,
+  "GearGamenum": "@8063"
+ },
+ {
+  "ID": 64,
+  "EquipmentType": 3,
+  "Type": 1,
+  "Quality": 0,
+  "AffixMultiplier": 1,
+  "AffixNumericalType": 1,
+  "AffixValueRange": [],
+  "Weight": 1000,
+  "AE": 8064,
+  "GearGamenum": "@8064"
+ },
+ {
+  "ID": 65,
+  "EquipmentType": 3,
+  "Type": 1,
+  "Quality": 0,
+  "AffixMultiplier": 1,
+  "AffixNumericalType": 1,
+  "AffixValueRange": [],
+  "Weight": 1000,
+  "AE": 8065,
+  "GearGamenum": "@8065"
+ },
+ {
+  "ID": 66,
+  "EquipmentType": 3,
+  "Type": 1,
+  "Quality": 0,
+  "AffixMultiplier": 1,
+  "AffixNumericalType": 1,
+  "AffixValueRange": [],
+  "Weight": 0,
+  "AE": 8066,
+  "GearGamenum": "@8066"
+ },
+ {
+  "ID": 67,
+  "EquipmentType": 4,
+  "Type": 1,
+  "Quality": 0,
+  "AffixMultiplier": 2,
+  "AffixNumericalType": 1,
+  "AffixValueRange": [],
+  "Weight": 1000,
+  "AE": 8067,
+  "GearGamenum": "@8067"
+ },
+ {
+  "ID": 68,
+  "EquipmentType": 4,
+  "Type": 1,
+  "Quality": 0,
+  "AffixMultiplier": 2,
+  "AffixNumericalType": 1,
+  "AffixValueRange": [],
+  "Weight": 1000,
+  "AE": 8068,
+  "GearGamenum": "@8068"
+ },
+ {
+  "ID": 69,
+  "EquipmentType": 4,
+  "Type": 1,
+  "Quality": 0,
+  "AffixMultiplier": 2,
+  "AffixNumericalType": 1,
+  "AffixValueRange": [],
+  "Weight": 1000,
+  "AE": 8069,
+  "GearGamenum": "@8069"
+ },
+ {
+  "ID": 70,
+  "EquipmentType": 4,
+  "Type": 1,
+  "Quality": 0,
+  "AffixMultiplier": 2,
+  "AffixNumericalType": 1,
+  "AffixValueRange": [],
+  "Weight": 1000,
+  "AE": 8070,
+  "GearGamenum": "@8070"
+ },
+ {
+  "ID": 71,
+  "EquipmentType": 4,
+  "Type": 1,
+  "Quality": 0,
+  "AffixMultiplier": 2,
+  "AffixNumericalType": 1,
+  "AffixValueRange": [],
+  "Weight": 1000,
+  "AE": 8071,
+  "GearGamenum": "@8071"
+ },
+ {
+  "ID": 72,
+  "EquipmentType": 4,
+  "Type": 1,
+  "Quality": 0,
+  "AffixMultiplier": 2,
+  "AffixNumericalType": 1,
+  "AffixValueRange": [],
+  "Weight": 1000,
+  "AE": 8072,
+  "GearGamenum": "@8072"
+ },
+ {
+  "ID": 73,
+  "EquipmentType": 4,
+  "Type": 1,
+  "Quality": 0,
+  "AffixMultiplier": 2,
+  "AffixNumericalType": 1,
+  "AffixValueRange": [],
+  "Weight": 1000,
+  "AE": 8073,
+  "GearGamenum": "@8073"
+ },
+ {
+  "ID": 74,
+  "EquipmentType": 4,
+  "Type": 1,
+  "Quality": 0,
+  "AffixMultiplier": 2,
+  "AffixNumericalType": 1,
+  "AffixValueRange": [],
+  "Weight": 1000,
+  "AE": 8074,
+  "GearGamenum": "@8074"
+ },
+ {
+  "ID": 75,
+  "EquipmentType": 4,
+  "Type": 1,
+  "Quality": 0,
+  "AffixMultiplier": 1,
+  "AffixNumericalType": 1,
+  "AffixValueRange": [],
+  "Weight": 1000,
+  "AE": 8075,
+  "GearGamenum": "@8075"
+ },
+ {
+  "ID": 76,
+  "EquipmentType": 4,
+  "Type": 1,
+  "Quality": 0,
+  "AffixMultiplier": 1,
+  "AffixNumericalType": 1,
+  "AffixValueRange": [],
+  "Weight": 1000,
+  "AE": 8076,
+  "GearGamenum": "@8076"
+ },
+ {
+  "ID": 77,
+  "EquipmentType": 4,
+  "Type": 1,
+  "Quality": 0,
+  "AffixMultiplier": 1,
+  "AffixNumericalType": 1,
+  "AffixValueRange": [],
+  "Weight": 1000,
+  "AE": 8077,
+  "GearGamenum": "@8077"
+ },
+ {
+  "ID": 78,
+  "EquipmentType": 4,
+  "Type": 1,
+  "Quality": 0,
+  "AffixMultiplier": 1,
+  "AffixNumericalType": 1,
+  "AffixValueRange": [],
+  "Weight": 1000,
+  "AE": 8078,
+  "GearGamenum": "@8078"
+ },
+ {
+  "ID": 79,
+  "EquipmentType": 4,
+  "Type": 1,
+  "Quality": 0,
+  "AffixMultiplier": 1,
+  "AffixNumericalType": 1,
+  "AffixValueRange": [],
+  "Weight": 1000,
+  "AE": 8079,
+  "GearGamenum": "@8079"
+ },
+ {
+  "ID": 80,
+  "EquipmentType": 4,
+  "Type": 1,
+  "Quality": 0,
+  "AffixMultiplier": 1,
+  "AffixNumericalType": 1,
+  "AffixValueRange": [],
+  "Weight": 1000,
+  "AE": 8080,
+  "GearGamenum": "@8080"
+ },
+ {
+  "ID": 81,
+  "EquipmentType": 4,
+  "Type": 1,
+  "Quality": 0,
+  "AffixMultiplier": 1,
+  "AffixNumericalType": 1,
+  "AffixValueRange": [],
+  "Weight": 1000,
+  "AE": 8081,
+  "GearGamenum": "@8081"
+ },
+ {
+  "ID": 82,
+  "EquipmentType": 4,
+  "Type": 1,
+  "Quality": 0,
+  "AffixMultiplier": 1,
+  "AffixNumericalType": 1,
+  "AffixValueRange": [],
+  "Weight": 1000,
+  "AE": 8082,
+  "GearGamenum": "@8082"
+ },
+ {
+  "ID": 83,
+  "EquipmentType": 4,
+  "Type": 1,
+  "Quality": 0,
+  "AffixMultiplier": 1,
+  "AffixNumericalType": 1,
+  "AffixValueRange": [],
+  "Weight": 1000,
+  "AE": 8083,
+  "GearGamenum": "@8083"
+ },
+ {
+  "ID": 84,
+  "EquipmentType": 4,
+  "Type": 1,
+  "Quality": 0,
+  "AffixMultiplier": 1,
+  "AffixNumericalType": 1,
+  "AffixValueRange": [],
+  "Weight": 1000,
+  "AE": 8084,
+  "GearGamenum": "@8084"
+ },
+ {
+  "ID": 85,
+  "EquipmentType": 4,
+  "Type": 1,
+  "Quality": 0,
+  "AffixMultiplier": 1,
+  "AffixNumericalType": 1,
+  "AffixValueRange": [],
+  "Weight": 1000,
+  "AE": 8085,
+  "GearGamenum": "@8085"
+ },
+ {
+  "ID": 86,
+  "EquipmentType": 4,
+  "Type": 1,
+  "Quality": 0,
+  "AffixMultiplier": 1,
+  "AffixNumericalType": 1,
+  "AffixValueRange": [],
+  "Weight": 1000,
+  "AE": 8086,
+  "GearGamenum": "@8086"
+ },
+ {
+  "ID": 87,
+  "EquipmentType": 4,
+  "Type": 1,
+  "Quality": 0,
+  "AffixMultiplier": 1,
+  "AffixNumericalType": 1,
+  "AffixValueRange": [],
+  "Weight": 1000,
+  "AE": 8087,
+  "GearGamenum": "@8087"
+ },
+ {
+  "ID": 88,
+  "EquipmentType": 4,
+  "Type": 1,
+  "Quality": 0,
+  "AffixMultiplier": 1,
+  "AffixNumericalType": 1,
+  "AffixValueRange": [],
+  "Weight": 0,
+  "AE": 8088,
+  "GearGamenum": "@8088"
+ },
+ {
+  "ID": 89,
+  "EquipmentType": 5,
+  "Type": 1,
+  "Quality": 0,
+  "AffixMultiplier": 2,
+  "AffixNumericalType": 1,
+  "AffixValueRange": [],
+  "Weight": 1000,
+  "AE": 8089,
+  "GearGamenum": "@8089"
+ },
+ {
+  "ID": 90,
+  "EquipmentType": 5,
+  "Type": 1,
+  "Quality": 0,
+  "AffixMultiplier": 2,
+  "AffixNumericalType": 1,
+  "AffixValueRange": [],
+  "Weight": 1000,
+  "AE": 8090,
+  "GearGamenum": "@8090"
+ },
+ {
+  "ID": 91,
+  "EquipmentType": 5,
+  "Type": 1,
+  "Quality": 0,
+  "AffixMultiplier": 2,
+  "AffixNumericalType": 1,
+  "AffixValueRange": [],
+  "Weight": 1000,
+  "AE": 8091,
+  "GearGamenum": "@8091"
+ },
+ {
+  "ID": 92,
+  "EquipmentType": 5,
+  "Type": 1,
+  "Quality": 0,
+  "AffixMultiplier": 2,
+  "AffixNumericalType": 1,
+  "AffixValueRange": [],
+  "Weight": 1000,
+  "AE": 8092,
+  "GearGamenum": "@8092"
+ },
+ {
+  "ID": 93,
+  "EquipmentType": 5,
+  "Type": 1,
+  "Quality": 0,
+  "AffixMultiplier": 2,
+  "AffixNumericalType": 1,
+  "AffixValueRange": [],
+  "Weight": 1000,
+  "AE": 8093,
+  "GearGamenum": "@8093"
+ },
+ {
+  "ID": 94,
+  "EquipmentType": 5,
+  "Type": 1,
+  "Quality": 0,
+  "AffixMultiplier": 2,
+  "AffixNumericalType": 1,
+  "AffixValueRange": [],
+  "Weight": 1000,
+  "AE": 8094,
+  "GearGamenum": "@8094"
+ },
+ {
+  "ID": 95,
+  "EquipmentType": 5,
+  "Type": 1,
+  "Quality": 0,
+  "AffixMultiplier": 2,
+  "AffixNumericalType": 1,
+  "AffixValueRange": [],
+  "Weight": 1000,
+  "AE": 8095,
+  "GearGamenum": "@8095"
+ },
+ {
+  "ID": 96,
+  "EquipmentType": 5,
+  "Type": 1,
+  "Quality": 0,
+  "AffixMultiplier": 2,
+  "AffixNumericalType": 1,
+  "AffixValueRange": [],
+  "Weight": 1000,
+  "AE": 8096,
+  "GearGamenum": "@8096"
+ },
+ {
+  "ID": 97,
+  "EquipmentType": 5,
+  "Type": 1,
+  "Quality": 0,
+  "AffixMultiplier": 1,
+  "AffixNumericalType": 1,
+  "AffixValueRange": [],
+  "Weight": 1000,
+  "AE": 8097,
+  "GearGamenum": "@8097"
+ },
+ {
+  "ID": 98,
+  "EquipmentType": 5,
+  "Type": 1,
+  "Quality": 0,
+  "AffixMultiplier": 1,
+  "AffixNumericalType": 1,
+  "AffixValueRange": [],
+  "Weight": 1000,
+  "AE": 8098,
+  "GearGamenum": "@8098"
+ },
+ {
+  "ID": 99,
+  "EquipmentType": 5,
+  "Type": 1,
+  "Quality": 0,
+  "AffixMultiplier": 1,
+  "AffixNumericalType": 1,
+  "AffixValueRange": [],
+  "Weight": 1000,
+  "AE": 8099,
+  "GearGamenum": "@8099"
+ },
+ {
+  "ID": 100,
+  "EquipmentType": 5,
+  "Type": 1,
+  "Quality": 0,
+  "AffixMultiplier": 1,
+  "AffixNumericalType": 1,
+  "AffixValueRange": [],
+  "Weight": 1000,
+  "AE": 8100,
+  "GearGamenum": "@8100"
+ },
+ {
+  "ID": 101,
+  "EquipmentType": 5,
+  "Type": 1,
+  "Quality": 0,
+  "AffixMultiplier": 1,
+  "AffixNumericalType": 1,
+  "AffixValueRange": [],
+  "Weight": 1000,
+  "AE": 8101,
+  "GearGamenum": "@8101"
+ },
+ {
+  "ID": 102,
+  "EquipmentType": 5,
+  "Type": 1,
+  "Quality": 0,
+  "AffixMultiplier": 1,
+  "AffixNumericalType": 1,
+  "AffixValueRange": [],
+  "Weight": 1000,
+  "AE": 8102,
+  "GearGamenum": "@8102"
+ },
+ {
+  "ID": 103,
+  "EquipmentType": 5,
+  "Type": 1,
+  "Quality": 0,
+  "AffixMultiplier": 1,
+  "AffixNumericalType": 1,
+  "AffixValueRange": [],
+  "Weight": 1000,
+  "AE": 8103,
+  "GearGamenum": "@8103"
+ },
+ {
+  "ID": 104,
+  "EquipmentType": 5,
+  "Type": 1,
+  "Quality": 0,
+  "AffixMultiplier": 1,
+  "AffixNumericalType": 1,
+  "AffixValueRange": [],
+  "Weight": 1000,
+  "AE": 8104,
+  "GearGamenum": "@8104"
+ },
+ {
+  "ID": 105,
+  "EquipmentType": 5,
+  "Type": 1,
+  "Quality": 0,
+  "AffixMultiplier": 1,
+  "AffixNumericalType": 1,
+  "AffixValueRange": [],
+  "Weight": 1000,
+  "AE": 8105,
+  "GearGamenum": "@8105"
+ },
+ {
+  "ID": 106,
+  "EquipmentType": 5,
+  "Type": 1,
+  "Quality": 0,
+  "AffixMultiplier": 1,
+  "AffixNumericalType": 1,
+  "AffixValueRange": [],
+  "Weight": 1000,
+  "AE": 8106,
+  "GearGamenum": "@8106"
+ },
+ {
+  "ID": 107,
+  "EquipmentType": 5,
+  "Type": 1,
+  "Quality": 0,
+  "AffixMultiplier": 1,
+  "AffixNumericalType": 1,
+  "AffixValueRange": [],
+  "Weight": 1000,
+  "AE": 8107,
+  "GearGamenum": "@8107"
+ },
+ {
+  "ID": 108,
+  "EquipmentType": 5,
+  "Type": 1,
+  "Quality": 0,
+  "AffixMultiplier": 1,
+  "AffixNumericalType": 1,
+  "AffixValueRange": [],
+  "Weight": 1000,
+  "AE": 8108,
+  "GearGamenum": "@8108"
+ },
+ {
+  "ID": 109,
+  "EquipmentType": 5,
+  "Type": 1,
+  "Quality": 0,
+  "AffixMultiplier": 1,
+  "AffixNumericalType": 1,
+  "AffixValueRange": [],
+  "Weight": 1000,
+  "AE": 8109,
+  "GearGamenum": "@8109"
+ },
+ {
+  "ID": 110,
+  "EquipmentType": 5,
+  "Type": 1,
+  "Quality": 0,
+  "AffixMultiplier": 1,
+  "AffixNumericalType": 1,
+  "AffixValueRange": [],
+  "Weight": 0,
+  "AE": 8110,
+  "GearGamenum": "@8110"
+ },
+ {
+  "ID": 111,
+  "EquipmentType": 6,
+  "Type": 1,
+  "Quality": 0,
+  "AffixMultiplier": 2,
+  "AffixNumericalType": 1,
+  "AffixValueRange": [],
+  "Weight": 1000,
+  "AE": 8111,
+  "GearGamenum": "@8111"
+ },
+ {
+  "ID": 112,
+  "EquipmentType": 6,
+  "Type": 1,
+  "Quality": 0,
+  "AffixMultiplier": 2,
+  "AffixNumericalType": 1,
+  "AffixValueRange": [],
+  "Weight": 1000,
+  "AE": 8112,
+  "GearGamenum": "@8112"
+ },
+ {
+  "ID": 113,
+  "EquipmentType": 6,
+  "Type": 1,
+  "Quality": 0,
+  "AffixMultiplier": 2,
+  "AffixNumericalType": 1,
+  "AffixValueRange": [],
+  "Weight": 1000,
+  "AE": 8113,
+  "GearGamenum": "@8113"
+ },
+ {
+  "ID": 114,
+  "EquipmentType": 6,
+  "Type": 1,
+  "Quality": 0,
+  "AffixMultiplier": 2,
+  "AffixNumericalType": 1,
+  "AffixValueRange": [],
+  "Weight": 1000,
+  "AE": 8114,
+  "GearGamenum": "@8114"
+ },
+ {
+  "ID": 115,
+  "EquipmentType": 6,
+  "Type": 1,
+  "Quality": 0,
+  "AffixMultiplier": 2,
+  "AffixNumericalType": 1,
+  "AffixValueRange": [],
+  "Weight": 1000,
+  "AE": 8115,
+  "GearGamenum": "@8115"
+ },
+ {
+  "ID": 116,
+  "EquipmentType": 6,
+  "Type": 1,
+  "Quality": 0,
+  "AffixMultiplier": 2,
+  "AffixNumericalType": 1,
+  "AffixValueRange": [],
+  "Weight": 1000,
+  "AE": 8116,
+  "GearGamenum": "@8116"
+ },
+ {
+  "ID": 117,
+  "EquipmentType": 6,
+  "Type": 1,
+  "Quality": 0,
+  "AffixMultiplier": 2,
+  "AffixNumericalType": 1,
+  "AffixValueRange": [],
+  "Weight": 1000,
+  "AE": 8117,
+  "GearGamenum": "@8117"
+ },
+ {
+  "ID": 118,
+  "EquipmentType": 6,
+  "Type": 1,
+  "Quality": 0,
+  "AffixMultiplier": 2,
+  "AffixNumericalType": 1,
+  "AffixValueRange": [],
+  "Weight": 1000,
+  "AE": 8118,
+  "GearGamenum": "@8118"
+ },
+ {
+  "ID": 119,
+  "EquipmentType": 6,
+  "Type": 1,
+  "Quality": 0,
+  "AffixMultiplier": 1,
+  "AffixNumericalType": 1,
+  "AffixValueRange": [],
+  "Weight": 1000,
+  "AE": 8119,
+  "GearGamenum": "@8119"
+ },
+ {
+  "ID": 120,
+  "EquipmentType": 6,
+  "Type": 1,
+  "Quality": 0,
+  "AffixMultiplier": 1,
+  "AffixNumericalType": 1,
+  "AffixValueRange": [],
+  "Weight": 1000,
+  "AE": 8120,
+  "GearGamenum": "@8120"
+ },
+ {
+  "ID": 121,
+  "EquipmentType": 6,
+  "Type": 1,
+  "Quality": 0,
+  "AffixMultiplier": 1,
+  "AffixNumericalType": 1,
+  "AffixValueRange": [],
+  "Weight": 1000,
+  "AE": 8121,
+  "GearGamenum": "@8121"
+ },
+ {
+  "ID": 122,
+  "EquipmentType": 6,
+  "Type": 1,
+  "Quality": 0,
+  "AffixMultiplier": 1,
+  "AffixNumericalType": 1,
+  "AffixValueRange": [],
+  "Weight": 1000,
+  "AE": 8122,
+  "GearGamenum": "@8122"
+ },
+ {
+  "ID": 123,
+  "EquipmentType": 6,
+  "Type": 1,
+  "Quality": 0,
+  "AffixMultiplier": 1,
+  "AffixNumericalType": 1,
+  "AffixValueRange": [],
+  "Weight": 1000,
+  "AE": 8123,
+  "GearGamenum": "@8123"
+ },
+ {
+  "ID": 124,
+  "EquipmentType": 6,
+  "Type": 1,
+  "Quality": 0,
+  "AffixMultiplier": 1,
+  "AffixNumericalType": 1,
+  "AffixValueRange": [],
+  "Weight": 1000,
+  "AE": 8124,
+  "GearGamenum": "@8124"
+ },
+ {
+  "ID": 125,
+  "EquipmentType": 6,
+  "Type": 1,
+  "Quality": 0,
+  "AffixMultiplier": 1,
+  "AffixNumericalType": 1,
+  "AffixValueRange": [],
+  "Weight": 1000,
+  "AE": 8125,
+  "GearGamenum": "@8125"
+ },
+ {
+  "ID": 126,
+  "EquipmentType": 6,
+  "Type": 1,
+  "Quality": 0,
+  "AffixMultiplier": 1,
+  "AffixNumericalType": 1,
+  "AffixValueRange": [],
+  "Weight": 1000,
+  "AE": 8126,
+  "GearGamenum": "@8126"
+ },
+ {
+  "ID": 127,
+  "EquipmentType": 6,
+  "Type": 1,
+  "Quality": 0,
+  "AffixMultiplier": 1,
+  "AffixNumericalType": 1,
+  "AffixValueRange": [],
+  "Weight": 1000,
+  "AE": 8127,
+  "GearGamenum": "@8127"
+ },
+ {
+  "ID": 128,
+  "EquipmentType": 6,
+  "Type": 1,
+  "Quality": 0,
+  "AffixMultiplier": 1,
+  "AffixNumericalType": 1,
+  "AffixValueRange": [],
+  "Weight": 1000,
+  "AE": 8128,
+  "GearGamenum": "@8128"
+ },
+ {
+  "ID": 129,
+  "EquipmentType": 6,
+  "Type": 1,
+  "Quality": 0,
+  "AffixMultiplier": 1,
+  "AffixNumericalType": 1,
+  "AffixValueRange": [],
+  "Weight": 1000,
+  "AE": 8129,
+  "GearGamenum": "@8129"
+ },
+ {
+  "ID": 130,
+  "EquipmentType": 6,
+  "Type": 1,
+  "Quality": 0,
+  "AffixMultiplier": 1,
+  "AffixNumericalType": 1,
+  "AffixValueRange": [],
+  "Weight": 1000,
+  "AE": 8130,
+  "GearGamenum": "@8130"
+ },
+ {
+  "ID": 131,
+  "EquipmentType": 6,
+  "Type": 1,
+  "Quality": 0,
+  "AffixMultiplier": 1,
+  "AffixNumericalType": 1,
+  "AffixValueRange": [],
+  "Weight": 1000,
+  "AE": 8131,
+  "GearGamenum": "@8131"
+ },
+ {
+  "ID": 132,
+  "EquipmentType": 6,
+  "Type": 1,
+  "Quality": 0,
+  "AffixMultiplier": 1,
+  "AffixNumericalType": 1,
+  "AffixValueRange": [],
+  "Weight": 0,
+  "AE": 8132,
+  "GearGamenum": "@8132"
+ },
+ {
+  "ID": 133,
+  "EquipmentType": 1,
+  "Type": 2,
+  "Quality": 2,
+  "AffixMultiplier": 0,
+  "AffixNumericalType": 2,
+  "AffixValueRange": [
+   150,
+   300
+  ],
+  "Weight": 1000,
+  "AE": 8133,
+  "GearGamenum": "@8133"
+ },
+ {
+  "ID": 134,
+  "EquipmentType": 1,
+  "Type": 2,
+  "Quality": 2,
+  "AffixMultiplier": 0,
+  "AffixNumericalType": 2,
+  "AffixValueRange": [
+   100,
+   200
+  ],
+  "Weight": 1000,
+  "AE": 8134,
+  "GearGamenum": "@8134"
+ },
+ {
+  "ID": 135,
+  "EquipmentType": 1,
+  "Type": 2,
+  "Quality": 2,
+  "AffixMultiplier": 0,
+  "AffixNumericalType": 2,
+  "AffixValueRange": [
+   300,
+   600
+  ],
+  "Weight": 1000,
+  "AE": 8135,
+  "GearGamenum": "@8135"
+ },
+ {
+  "ID": 136,
+  "EquipmentType": 1,
+  "Type": 2,
+  "Quality": 2,
+  "AffixMultiplier": 0,
+  "AffixNumericalType": 2,
+  "AffixValueRange": [
+   100,
+   250
+  ],
+  "Weight": 1000,
+  "AE": 8136,
+  "GearGamenum": "@8136"
+ },
+ {
+  "ID": 137,
+  "EquipmentType": 1,
+  "Type": 2,
+  "Quality": 2,
+  "AffixMultiplier": 0,
+  "AffixNumericalType": 2,
+  "AffixValueRange": [
+   200,
+   400
+  ],
+  "Weight": 1000,
+  "AE": 8137,
+  "GearGamenum": "@8137"
+ },
+ {
+  "ID": 138,
+  "EquipmentType": 1,
+  "Type": 2,
+  "Quality": 2,
+  "AffixMultiplier": 0,
+  "AffixNumericalType": 2,
+  "AffixValueRange": [
+   100,
+   300
+  ],
+  "Weight": 1000,
+  "AE": 8138,
+  "GearGamenum": "@8138"
+ },
+ {
+  "ID": 139,
+  "EquipmentType": 1,
+  "Type": 2,
+  "Quality": 2,
+  "AffixMultiplier": 0,
+  "AffixNumericalType": 2,
+  "AffixValueRange": [
+   100,
+   300
+  ],
+  "Weight": 1000,
+  "AE": 8139,
+  "GearGamenum": "@8139"
+ },
+ {
+  "ID": 140,
+  "EquipmentType": 1,
+  "Type": 2,
+  "Quality": 2,
+  "AffixMultiplier": 0,
+  "AffixNumericalType": 2,
+  "AffixValueRange": [
+   100,
+   300
+  ],
+  "Weight": 1000,
+  "AE": 8140,
+  "GearGamenum": "@8140"
+ },
+ {
+  "ID": 1133,
+  "EquipmentType": 1,
+  "Type": 2,
+  "Quality": 3,
+  "AffixMultiplier": 0,
+  "AffixNumericalType": 2,
+  "AffixValueRange": [
+   300,
+   600
+  ],
+  "Weight": 1000,
+  "AE": 18133,
+  "GearGamenum": "@18133"
+ },
+ {
+  "ID": 1134,
+  "EquipmentType": 1,
+  "Type": 2,
+  "Quality": 3,
+  "AffixMultiplier": 0,
+  "AffixNumericalType": 2,
+  "AffixValueRange": [
+   200,
+   400
+  ],
+  "Weight": 1000,
+  "AE": 18134,
+  "GearGamenum": "@18134"
+ },
+ {
+  "ID": 1135,
+  "EquipmentType": 1,
+  "Type": 2,
+  "Quality": 3,
+  "AffixMultiplier": 0,
+  "AffixNumericalType": 2,
+  "AffixValueRange": [
+   600,
+   1200
+  ],
+  "Weight": 1000,
+  "AE": 18135,
+  "GearGamenum": "@18135"
+ },
+ {
+  "ID": 1136,
+  "EquipmentType": 1,
+  "Type": 2,
+  "Quality": 3,
+  "AffixMultiplier": 0,
+  "AffixNumericalType": 2,
+  "AffixValueRange": [
+   250,
+   500
+  ],
+  "Weight": 1000,
+  "AE": 18136,
+  "GearGamenum": "@18136"
+ },
+ {
+  "ID": 1137,
+  "EquipmentType": 1,
+  "Type": 2,
+  "Quality": 3,
+  "AffixMultiplier": 0,
+  "AffixNumericalType": 2,
+  "AffixValueRange": [
+   400,
+   800
+  ],
+  "Weight": 1000,
+  "AE": 18137,
+  "GearGamenum": "@18137"
+ },
+ {
+  "ID": 1138,
+  "EquipmentType": 1,
+  "Type": 2,
+  "Quality": 3,
+  "AffixMultiplier": 0,
+  "AffixNumericalType": 2,
+  "AffixValueRange": [
+   300,
+   600
+  ],
+  "Weight": 1000,
+  "AE": 18138,
+  "GearGamenum": "@18138"
+ },
+ {
+  "ID": 1139,
+  "EquipmentType": 1,
+  "Type": 2,
+  "Quality": 3,
+  "AffixMultiplier": 0,
+  "AffixNumericalType": 2,
+  "AffixValueRange": [
+   300,
+   600
+  ],
+  "Weight": 1000,
+  "AE": 18139,
+  "GearGamenum": "@18139"
+ },
+ {
+  "ID": 1140,
+  "EquipmentType": 1,
+  "Type": 2,
+  "Quality": 3,
+  "AffixMultiplier": 0,
+  "AffixNumericalType": 2,
+  "AffixValueRange": [
+   300,
+   600
+  ],
+  "Weight": 1000,
+  "AE": 18140,
+  "GearGamenum": "@18140"
+ },
+ {
+  "ID": 2133,
+  "EquipmentType": 1,
+  "Type": 2,
+  "Quality": 4,
+  "AffixMultiplier": 0,
+  "AffixNumericalType": 2,
+  "AffixValueRange": [
+   600,
+   900
+  ],
+  "Weight": 1000,
+  "AE": 28133,
+  "GearGamenum": "@28133"
+ },
+ {
+  "ID": 2134,
+  "EquipmentType": 1,
+  "Type": 2,
+  "Quality": 4,
+  "AffixMultiplier": 0,
+  "AffixNumericalType": 2,
+  "AffixValueRange": [
+   400,
+   600
+  ],
+  "Weight": 1000,
+  "AE": 28134,
+  "GearGamenum": "@28134"
+ },
+ {
+  "ID": 2135,
+  "EquipmentType": 1,
+  "Type": 2,
+  "Quality": 4,
+  "AffixMultiplier": 0,
+  "AffixNumericalType": 2,
+  "AffixValueRange": [
+   1200,
+   1800
+  ],
+  "Weight": 1000,
+  "AE": 28135,
+  "GearGamenum": "@28135"
+ },
+ {
+  "ID": 2136,
+  "EquipmentType": 1,
+  "Type": 2,
+  "Quality": 4,
+  "AffixMultiplier": 0,
+  "AffixNumericalType": 2,
+  "AffixValueRange": [
+   500,
+   750
+  ],
+  "Weight": 1000,
+  "AE": 28136,
+  "GearGamenum": "@28136"
+ },
+ {
+  "ID": 2137,
+  "EquipmentType": 1,
+  "Type": 2,
+  "Quality": 4,
+  "AffixMultiplier": 0,
+  "AffixNumericalType": 2,
+  "AffixValueRange": [
+   800,
+   1200
+  ],
+  "Weight": 1000,
+  "AE": 28137,
+  "GearGamenum": "@28137"
+ },
+ {
+  "ID": 2138,
+  "EquipmentType": 1,
+  "Type": 2,
+  "Quality": 4,
+  "AffixMultiplier": 0,
+  "AffixNumericalType": 2,
+  "AffixValueRange": [
+   600,
+   900
+  ],
+  "Weight": 1000,
+  "AE": 28138,
+  "GearGamenum": "@28138"
+ },
+ {
+  "ID": 2139,
+  "EquipmentType": 1,
+  "Type": 2,
+  "Quality": 4,
+  "AffixMultiplier": 0,
+  "AffixNumericalType": 2,
+  "AffixValueRange": [
+   600,
+   900
+  ],
+  "Weight": 1000,
+  "AE": 28139,
+  "GearGamenum": "@28139"
+ },
+ {
+  "ID": 2140,
+  "EquipmentType": 1,
+  "Type": 2,
+  "Quality": 4,
+  "AffixMultiplier": 0,
+  "AffixNumericalType": 2,
+  "AffixValueRange": [
+   600,
+   900
+  ],
+  "Weight": 1000,
+  "AE": 28140,
+  "GearGamenum": "@28140"
+ },
+ {
+  "ID": 3133,
+  "EquipmentType": 1,
+  "Type": 2,
+  "Quality": 5,
+  "AffixMultiplier": 0,
+  "AffixNumericalType": 2,
+  "AffixValueRange": [
+   900,
+   1200
+  ],
+  "Weight": 1000,
+  "AE": 38133,
+  "GearGamenum": "@38133"
+ },
+ {
+  "ID": 3134,
+  "EquipmentType": 1,
+  "Type": 2,
+  "Quality": 5,
+  "AffixMultiplier": 0,
+  "AffixNumericalType": 2,
+  "AffixValueRange": [
+   600,
+   800
+  ],
+  "Weight": 1000,
+  "AE": 38134,
+  "GearGamenum": "@38134"
+ },
+ {
+  "ID": 3135,
+  "EquipmentType": 1,
+  "Type": 2,
+  "Quality": 5,
+  "AffixMultiplier": 0,
+  "AffixNumericalType": 2,
+  "AffixValueRange": [
+   1800,
+   2400
+  ],
+  "Weight": 1000,
+  "AE": 38135,
+  "GearGamenum": "@38135"
+ },
+ {
+  "ID": 3136,
+  "EquipmentType": 1,
+  "Type": 2,
+  "Quality": 5,
+  "AffixMultiplier": 0,
+  "AffixNumericalType": 2,
+  "AffixValueRange": [
+   750,
+   1000
+  ],
+  "Weight": 1000,
+  "AE": 38136,
+  "GearGamenum": "@38136"
+ },
+ {
+  "ID": 3137,
+  "EquipmentType": 1,
+  "Type": 2,
+  "Quality": 5,
+  "AffixMultiplier": 0,
+  "AffixNumericalType": 2,
+  "AffixValueRange": [
+   1200,
+   1600
+  ],
+  "Weight": 1000,
+  "AE": 38137,
+  "GearGamenum": "@38137"
+ },
+ {
+  "ID": 3138,
+  "EquipmentType": 1,
+  "Type": 2,
+  "Quality": 5,
+  "AffixMultiplier": 0,
+  "AffixNumericalType": 2,
+  "AffixValueRange": [
+   900,
+   1200
+  ],
+  "Weight": 1000,
+  "AE": 38138,
+  "GearGamenum": "@38138"
+ },
+ {
+  "ID": 3139,
+  "EquipmentType": 1,
+  "Type": 2,
+  "Quality": 5,
+  "AffixMultiplier": 0,
+  "AffixNumericalType": 2,
+  "AffixValueRange": [
+   900,
+   1200
+  ],
+  "Weight": 1000,
+  "AE": 38139,
+  "GearGamenum": "@38139"
+ },
+ {
+  "ID": 3140,
+  "EquipmentType": 1,
+  "Type": 2,
+  "Quality": 5,
+  "AffixMultiplier": 0,
+  "AffixNumericalType": 2,
+  "AffixValueRange": [
+   900,
+   1200
+  ],
+  "Weight": 1000,
+  "AE": 38140,
+  "GearGamenum": "@38140"
+ },
+ {
+  "ID": 4133,
+  "EquipmentType": 1,
+  "Type": 2,
+  "Quality": 6,
+  "AffixMultiplier": 0,
+  "AffixNumericalType": 2,
+  "AffixValueRange": [
+   1200,
+   1500
+  ],
+  "Weight": 1000,
+  "AE": 48133,
+  "GearGamenum": "@48133"
+ },
+ {
+  "ID": 4134,
+  "EquipmentType": 1,
+  "Type": 2,
+  "Quality": 6,
+  "AffixMultiplier": 0,
+  "AffixNumericalType": 2,
+  "AffixValueRange": [
+   800,
+   1000
+  ],
+  "Weight": 1000,
+  "AE": 48134,
+  "GearGamenum": "@48134"
+ },
+ {
+  "ID": 4135,
+  "EquipmentType": 1,
+  "Type": 2,
+  "Quality": 6,
+  "AffixMultiplier": 0,
+  "AffixNumericalType": 2,
+  "AffixValueRange": [
+   2400,
+   3000
+  ],
+  "Weight": 1000,
+  "AE": 48135,
+  "GearGamenum": "@48135"
+ },
+ {
+  "ID": 4136,
+  "EquipmentType": 1,
+  "Type": 2,
+  "Quality": 6,
+  "AffixMultiplier": 0,
+  "AffixNumericalType": 2,
+  "AffixValueRange": [
+   1000,
+   1250
+  ],
+  "Weight": 1000,
+  "AE": 48136,
+  "GearGamenum": "@48136"
+ },
+ {
+  "ID": 4137,
+  "EquipmentType": 1,
+  "Type": 2,
+  "Quality": 6,
+  "AffixMultiplier": 0,
+  "AffixNumericalType": 2,
+  "AffixValueRange": [
+   1600,
+   2000
+  ],
+  "Weight": 1000,
+  "AE": 48137,
+  "GearGamenum": "@48137"
+ },
+ {
+  "ID": 4138,
+  "EquipmentType": 1,
+  "Type": 2,
+  "Quality": 6,
+  "AffixMultiplier": 0,
+  "AffixNumericalType": 2,
+  "AffixValueRange": [
+   1200,
+   1500
+  ],
+  "Weight": 1000,
+  "AE": 48138,
+  "GearGamenum": "@48138"
+ },
+ {
+  "ID": 4139,
+  "EquipmentType": 1,
+  "Type": 2,
+  "Quality": 6,
+  "AffixMultiplier": 0,
+  "AffixNumericalType": 2,
+  "AffixValueRange": [
+   1200,
+   1500
+  ],
+  "Weight": 1000,
+  "AE": 48139,
+  "GearGamenum": "@48139"
+ },
+ {
+  "ID": 4140,
+  "EquipmentType": 1,
+  "Type": 2,
+  "Quality": 6,
+  "AffixMultiplier": 0,
+  "AffixNumericalType": 2,
+  "AffixValueRange": [
+   1200,
+   1500
+  ],
+  "Weight": 1000,
+  "AE": 48140,
+  "GearGamenum": "@48140"
+ },
+ {
+  "ID": 143,
+  "EquipmentType": 2,
+  "Type": 2,
+  "Quality": 2,
+  "AffixMultiplier": 0,
+  "AffixNumericalType": 2,
+  "AffixValueRange": [
+   150,
+   300
+  ],
+  "Weight": 1000,
+  "AE": 8143,
+  "GearGamenum": "@8143"
+ },
+ {
+  "ID": 144,
+  "EquipmentType": 2,
+  "Type": 2,
+  "Quality": 2,
+  "AffixMultiplier": 0,
+  "AffixNumericalType": 2,
+  "AffixValueRange": [
+   100,
+   1000
+  ],
+  "Weight": 1000,
+  "AE": 8144,
+  "GearGamenum": "@8144"
+ },
+ {
+  "ID": 145,
+  "EquipmentType": 2,
+  "Type": 2,
+  "Quality": 2,
+  "AffixMultiplier": 0,
+  "AffixNumericalType": 2,
+  "AffixValueRange": [
+   300,
+   600
+  ],
+  "Weight": 1000,
+  "AE": 8145,
+  "GearGamenum": "@8145"
+ },
+ {
+  "ID": 146,
+  "EquipmentType": 2,
+  "Type": 2,
+  "Quality": 2,
+  "AffixMultiplier": 0,
+  "AffixNumericalType": 2,
+  "AffixValueRange": [
+   100,
+   250
+  ],
+  "Weight": 1000,
+  "AE": 8146,
+  "GearGamenum": "@8146"
+ },
+ {
+  "ID": 147,
+  "EquipmentType": 2,
+  "Type": 2,
+  "Quality": 2,
+  "AffixMultiplier": 0,
+  "AffixNumericalType": 2,
+  "AffixValueRange": [
+   200,
+   400
+  ],
+  "Weight": 1000,
+  "AE": 8147,
+  "GearGamenum": "@8147"
+ },
+ {
+  "ID": 148,
+  "EquipmentType": 2,
+  "Type": 2,
+  "Quality": 2,
+  "AffixMultiplier": 0,
+  "AffixNumericalType": 2,
+  "AffixValueRange": [
+   100,
+   1500
+  ],
+  "Weight": 1000,
+  "AE": 8148,
+  "GearGamenum": "@8148"
+ },
+ {
+  "ID": 149,
+  "EquipmentType": 2,
+  "Type": 2,
+  "Quality": 2,
+  "AffixMultiplier": 0,
+  "AffixNumericalType": 2,
+  "AffixValueRange": [
+   100,
+   300
+  ],
+  "Weight": 1000,
+  "AE": 8149,
+  "GearGamenum": "@8149"
+ },
+ {
+  "ID": 150,
+  "EquipmentType": 2,
+  "Type": 2,
+  "Quality": 2,
+  "AffixMultiplier": 0,
+  "AffixNumericalType": 2,
+  "AffixValueRange": [
+   100,
+   300
+  ],
+  "Weight": 1000,
+  "AE": 8150,
+  "GearGamenum": "@8150"
+ },
+ {
+  "ID": 1143,
+  "EquipmentType": 2,
+  "Type": 2,
+  "Quality": 3,
+  "AffixMultiplier": 0,
+  "AffixNumericalType": 2,
+  "AffixValueRange": [
+   300,
+   600
+  ],
+  "Weight": 1000,
+  "AE": 18143,
+  "GearGamenum": "@18143"
+ },
+ {
+  "ID": 1144,
+  "EquipmentType": 2,
+  "Type": 2,
+  "Quality": 3,
+  "AffixMultiplier": 0,
+  "AffixNumericalType": 2,
+  "AffixValueRange": [
+   100,
+   1000
+  ],
+  "Weight": 1000,
+  "AE": 18144,
+  "GearGamenum": "@18144"
+ },
+ {
+  "ID": 1145,
+  "EquipmentType": 2,
+  "Type": 2,
+  "Quality": 3,
+  "AffixMultiplier": 0,
+  "AffixNumericalType": 2,
+  "AffixValueRange": [
+   600,
+   1200
+  ],
+  "Weight": 1000,
+  "AE": 18145,
+  "GearGamenum": "@18145"
+ },
+ {
+  "ID": 1146,
+  "EquipmentType": 2,
+  "Type": 2,
+  "Quality": 3,
+  "AffixMultiplier": 0,
+  "AffixNumericalType": 2,
+  "AffixValueRange": [
+   250,
+   500
+  ],
+  "Weight": 1000,
+  "AE": 18146,
+  "GearGamenum": "@18146"
+ },
+ {
+  "ID": 1147,
+  "EquipmentType": 2,
+  "Type": 2,
+  "Quality": 3,
+  "AffixMultiplier": 0,
+  "AffixNumericalType": 2,
+  "AffixValueRange": [
+   400,
+   800
+  ],
+  "Weight": 1000,
+  "AE": 18147,
+  "GearGamenum": "@18147"
+ },
+ {
+  "ID": 1148,
+  "EquipmentType": 2,
+  "Type": 2,
+  "Quality": 3,
+  "AffixMultiplier": 0,
+  "AffixNumericalType": 2,
+  "AffixValueRange": [
+   100,
+   1500
+  ],
+  "Weight": 1000,
+  "AE": 18148,
+  "GearGamenum": "@18148"
+ },
+ {
+  "ID": 1149,
+  "EquipmentType": 2,
+  "Type": 2,
+  "Quality": 3,
+  "AffixMultiplier": 0,
+  "AffixNumericalType": 2,
+  "AffixValueRange": [
+   300,
+   600
+  ],
+  "Weight": 1000,
+  "AE": 18149,
+  "GearGamenum": "@18149"
+ },
+ {
+  "ID": 1150,
+  "EquipmentType": 2,
+  "Type": 2,
+  "Quality": 3,
+  "AffixMultiplier": 0,
+  "AffixNumericalType": 2,
+  "AffixValueRange": [
+   300,
+   600
+  ],
+  "Weight": 1000,
+  "AE": 18150,
+  "GearGamenum": "@18150"
+ },
+ {
+  "ID": 2143,
+  "EquipmentType": 2,
+  "Type": 2,
+  "Quality": 4,
+  "AffixMultiplier": 0,
+  "AffixNumericalType": 2,
+  "AffixValueRange": [
+   600,
+   900
+  ],
+  "Weight": 1000,
+  "AE": 28143,
+  "GearGamenum": "@28143"
+ },
+ {
+  "ID": 2144,
+  "EquipmentType": 2,
+  "Type": 2,
+  "Quality": 4,
+  "AffixMultiplier": 0,
+  "AffixNumericalType": 2,
+  "AffixValueRange": [
+   100,
+   1000
+  ],
+  "Weight": 1000,
+  "AE": 28144,
+  "GearGamenum": "@28144"
+ },
+ {
+  "ID": 2145,
+  "EquipmentType": 2,
+  "Type": 2,
+  "Quality": 4,
+  "AffixMultiplier": 0,
+  "AffixNumericalType": 2,
+  "AffixValueRange": [
+   1200,
+   1800
+  ],
+  "Weight": 1000,
+  "AE": 28145,
+  "GearGamenum": "@28145"
+ },
+ {
+  "ID": 2146,
+  "EquipmentType": 2,
+  "Type": 2,
+  "Quality": 4,
+  "AffixMultiplier": 0,
+  "AffixNumericalType": 2,
+  "AffixValueRange": [
+   500,
+   750
+  ],
+  "Weight": 1000,
+  "AE": 28146,
+  "GearGamenum": "@28146"
+ },
+ {
+  "ID": 2147,
+  "EquipmentType": 2,
+  "Type": 2,
+  "Quality": 4,
+  "AffixMultiplier": 0,
+  "AffixNumericalType": 2,
+  "AffixValueRange": [
+   800,
+   1200
+  ],
+  "Weight": 1000,
+  "AE": 28147,
+  "GearGamenum": "@28147"
+ },
+ {
+  "ID": 2148,
+  "EquipmentType": 2,
+  "Type": 2,
+  "Quality": 4,
+  "AffixMultiplier": 0,
+  "AffixNumericalType": 2,
+  "AffixValueRange": [
+   100,
+   1500
+  ],
+  "Weight": 1000,
+  "AE": 28148,
+  "GearGamenum": "@28148"
+ },
+ {
+  "ID": 2149,
+  "EquipmentType": 2,
+  "Type": 2,
+  "Quality": 4,
+  "AffixMultiplier": 0,
+  "AffixNumericalType": 2,
+  "AffixValueRange": [
+   600,
+   900
+  ],
+  "Weight": 1000,
+  "AE": 28149,
+  "GearGamenum": "@28149"
+ },
+ {
+  "ID": 2150,
+  "EquipmentType": 2,
+  "Type": 2,
+  "Quality": 4,
+  "AffixMultiplier": 0,
+  "AffixNumericalType": 2,
+  "AffixValueRange": [
+   600,
+   900
+  ],
+  "Weight": 1000,
+  "AE": 28150,
+  "GearGamenum": "@28150"
+ },
+ {
+  "ID": 3143,
+  "EquipmentType": 2,
+  "Type": 2,
+  "Quality": 5,
+  "AffixMultiplier": 0,
+  "AffixNumericalType": 2,
+  "AffixValueRange": [
+   900,
+   1200
+  ],
+  "Weight": 1000,
+  "AE": 38143,
+  "GearGamenum": "@38143"
+ },
+ {
+  "ID": 3144,
+  "EquipmentType": 2,
+  "Type": 2,
+  "Quality": 5,
+  "AffixMultiplier": 0,
+  "AffixNumericalType": 2,
+  "AffixValueRange": [
+   100,
+   1000
+  ],
+  "Weight": 1000,
+  "AE": 38144,
+  "GearGamenum": "@38144"
+ },
+ {
+  "ID": 3145,
+  "EquipmentType": 2,
+  "Type": 2,
+  "Quality": 5,
+  "AffixMultiplier": 0,
+  "AffixNumericalType": 2,
+  "AffixValueRange": [
+   1800,
+   2400
+  ],
+  "Weight": 1000,
+  "AE": 38145,
+  "GearGamenum": "@38145"
+ },
+ {
+  "ID": 3146,
+  "EquipmentType": 2,
+  "Type": 2,
+  "Quality": 5,
+  "AffixMultiplier": 0,
+  "AffixNumericalType": 2,
+  "AffixValueRange": [
+   750,
+   1000
+  ],
+  "Weight": 1000,
+  "AE": 38146,
+  "GearGamenum": "@38146"
+ },
+ {
+  "ID": 3147,
+  "EquipmentType": 2,
+  "Type": 2,
+  "Quality": 5,
+  "AffixMultiplier": 0,
+  "AffixNumericalType": 2,
+  "AffixValueRange": [
+   1200,
+   1600
+  ],
+  "Weight": 1000,
+  "AE": 38147,
+  "GearGamenum": "@38147"
+ },
+ {
+  "ID": 3148,
+  "EquipmentType": 2,
+  "Type": 2,
+  "Quality": 5,
+  "AffixMultiplier": 0,
+  "AffixNumericalType": 2,
+  "AffixValueRange": [
+   100,
+   1500
+  ],
+  "Weight": 1000,
+  "AE": 38148,
+  "GearGamenum": "@38148"
+ },
+ {
+  "ID": 3149,
+  "EquipmentType": 2,
+  "Type": 2,
+  "Quality": 5,
+  "AffixMultiplier": 0,
+  "AffixNumericalType": 2,
+  "AffixValueRange": [
+   900,
+   1200
+  ],
+  "Weight": 1000,
+  "AE": 38149,
+  "GearGamenum": "@38149"
+ },
+ {
+  "ID": 3150,
+  "EquipmentType": 2,
+  "Type": 2,
+  "Quality": 5,
+  "AffixMultiplier": 0,
+  "AffixNumericalType": 2,
+  "AffixValueRange": [
+   900,
+   1200
+  ],
+  "Weight": 1000,
+  "AE": 38150,
+  "GearGamenum": "@38150"
+ },
+ {
+  "ID": 4143,
+  "EquipmentType": 2,
+  "Type": 2,
+  "Quality": 6,
+  "AffixMultiplier": 0,
+  "AffixNumericalType": 2,
+  "AffixValueRange": [
+   1200,
+   1500
+  ],
+  "Weight": 1000,
+  "AE": 48143,
+  "GearGamenum": "@48143"
+ },
+ {
+  "ID": 4144,
+  "EquipmentType": 2,
+  "Type": 2,
+  "Quality": 6,
+  "AffixMultiplier": 0,
+  "AffixNumericalType": 2,
+  "AffixValueRange": [
+   100,
+   1000
+  ],
+  "Weight": 1000,
+  "AE": 48144,
+  "GearGamenum": "@48144"
+ },
+ {
+  "ID": 4145,
+  "EquipmentType": 2,
+  "Type": 2,
+  "Quality": 6,
+  "AffixMultiplier": 0,
+  "AffixNumericalType": 2,
+  "AffixValueRange": [
+   2400,
+   3000
+  ],
+  "Weight": 1000,
+  "AE": 48145,
+  "GearGamenum": "@48145"
+ },
+ {
+  "ID": 4146,
+  "EquipmentType": 2,
+  "Type": 2,
+  "Quality": 6,
+  "AffixMultiplier": 0,
+  "AffixNumericalType": 2,
+  "AffixValueRange": [
+   1000,
+   1250
+  ],
+  "Weight": 1000,
+  "AE": 48146,
+  "GearGamenum": "@48146"
+ },
+ {
+  "ID": 4147,
+  "EquipmentType": 2,
+  "Type": 2,
+  "Quality": 6,
+  "AffixMultiplier": 0,
+  "AffixNumericalType": 2,
+  "AffixValueRange": [
+   1600,
+   2000
+  ],
+  "Weight": 1000,
+  "AE": 48147,
+  "GearGamenum": "@48147"
+ },
+ {
+  "ID": 4148,
+  "EquipmentType": 2,
+  "Type": 2,
+  "Quality": 6,
+  "AffixMultiplier": 0,
+  "AffixNumericalType": 2,
+  "AffixValueRange": [
+   100,
+   1500
+  ],
+  "Weight": 1000,
+  "AE": 48148,
+  "GearGamenum": "@48148"
+ },
+ {
+  "ID": 4149,
+  "EquipmentType": 2,
+  "Type": 2,
+  "Quality": 6,
+  "AffixMultiplier": 0,
+  "AffixNumericalType": 2,
+  "AffixValueRange": [
+   1200,
+   1500
+  ],
+  "Weight": 1000,
+  "AE": 48149,
+  "GearGamenum": "@48149"
+ },
+ {
+  "ID": 4150,
+  "EquipmentType": 2,
+  "Type": 2,
+  "Quality": 6,
+  "AffixMultiplier": 0,
+  "AffixNumericalType": 2,
+  "AffixValueRange": [
+   1200,
+   1500
+  ],
+  "Weight": 1000,
+  "AE": 48150,
+  "GearGamenum": "@48150"
+ },
+ {
+  "ID": 153,
+  "EquipmentType": 3,
+  "Type": 2,
+  "Quality": 2,
+  "AffixMultiplier": 0,
+  "AffixNumericalType": 2,
+  "AffixValueRange": [
+   150,
+   300
+  ],
+  "Weight": 1000,
+  "AE": 8153,
+  "GearGamenum": "@8153"
+ },
+ {
+  "ID": 154,
+  "EquipmentType": 3,
+  "Type": 2,
+  "Quality": 2,
+  "AffixMultiplier": 0,
+  "AffixNumericalType": 2,
+  "AffixValueRange": [
+   100,
+   200
+  ],
+  "Weight": 1000,
+  "AE": 8154,
+  "GearGamenum": "@8154"
+ },
+ {
+  "ID": 155,
+  "EquipmentType": 3,
+  "Type": 2,
+  "Quality": 2,
+  "AffixMultiplier": 0,
+  "AffixNumericalType": 2,
+  "AffixValueRange": [
+   300,
+   600
+  ],
+  "Weight": 1000,
+  "AE": 8155,
+  "GearGamenum": "@8155"
+ },
+ {
+  "ID": 156,
+  "EquipmentType": 3,
+  "Type": 2,
+  "Quality": 2,
+  "AffixMultiplier": 0,
+  "AffixNumericalType": 2,
+  "AffixValueRange": [
+   100,
+   250
+  ],
+  "Weight": 1000,
+  "AE": 8156,
+  "GearGamenum": "@8156"
+ },
+ {
+  "ID": 157,
+  "EquipmentType": 3,
+  "Type": 2,
+  "Quality": 2,
+  "AffixMultiplier": 0,
+  "AffixNumericalType": 2,
+  "AffixValueRange": [
+   200,
+   400
+  ],
+  "Weight": 1000,
+  "AE": 8157,
+  "GearGamenum": "@8157"
+ },
+ {
+  "ID": 158,
+  "EquipmentType": 3,
+  "Type": 2,
+  "Quality": 2,
+  "AffixMultiplier": 0,
+  "AffixNumericalType": 2,
+  "AffixValueRange": [
+   100,
+   300
+  ],
+  "Weight": 1000,
+  "AE": 8158,
+  "GearGamenum": "@8158"
+ },
+ {
+  "ID": 159,
+  "EquipmentType": 3,
+  "Type": 2,
+  "Quality": 2,
+  "AffixMultiplier": 0,
+  "AffixNumericalType": 2,
+  "AffixValueRange": [
+   100,
+   300
+  ],
+  "Weight": 1000,
+  "AE": 8159,
+  "GearGamenum": "@8159"
+ },
+ {
+  "ID": 160,
+  "EquipmentType": 3,
+  "Type": 2,
+  "Quality": 2,
+  "AffixMultiplier": 0,
+  "AffixNumericalType": 2,
+  "AffixValueRange": [
+   100,
+   300
+  ],
+  "Weight": 1000,
+  "AE": 8160,
+  "GearGamenum": "@8160"
+ },
+ {
+  "ID": 1153,
+  "EquipmentType": 3,
+  "Type": 2,
+  "Quality": 3,
+  "AffixMultiplier": 0,
+  "AffixNumericalType": 2,
+  "AffixValueRange": [
+   300,
+   600
+  ],
+  "Weight": 1000,
+  "AE": 18153,
+  "GearGamenum": "@18153"
+ },
+ {
+  "ID": 1154,
+  "EquipmentType": 3,
+  "Type": 2,
+  "Quality": 3,
+  "AffixMultiplier": 0,
+  "AffixNumericalType": 2,
+  "AffixValueRange": [
+   200,
+   400
+  ],
+  "Weight": 1000,
+  "AE": 18154,
+  "GearGamenum": "@18154"
+ },
+ {
+  "ID": 1155,
+  "EquipmentType": 3,
+  "Type": 2,
+  "Quality": 3,
+  "AffixMultiplier": 0,
+  "AffixNumericalType": 2,
+  "AffixValueRange": [
+   600,
+   1200
+  ],
+  "Weight": 1000,
+  "AE": 18155,
+  "GearGamenum": "@18155"
+ },
+ {
+  "ID": 1156,
+  "EquipmentType": 3,
+  "Type": 2,
+  "Quality": 3,
+  "AffixMultiplier": 0,
+  "AffixNumericalType": 2,
+  "AffixValueRange": [
+   250,
+   500
+  ],
+  "Weight": 1000,
+  "AE": 18156,
+  "GearGamenum": "@18156"
+ },
+ {
+  "ID": 1157,
+  "EquipmentType": 3,
+  "Type": 2,
+  "Quality": 3,
+  "AffixMultiplier": 0,
+  "AffixNumericalType": 2,
+  "AffixValueRange": [
+   400,
+   800
+  ],
+  "Weight": 1000,
+  "AE": 18157,
+  "GearGamenum": "@18157"
+ },
+ {
+  "ID": 1158,
+  "EquipmentType": 3,
+  "Type": 2,
+  "Quality": 3,
+  "AffixMultiplier": 0,
+  "AffixNumericalType": 2,
+  "AffixValueRange": [
+   300,
+   600
+  ],
+  "Weight": 1000,
+  "AE": 18158,
+  "GearGamenum": "@18158"
+ },
+ {
+  "ID": 1159,
+  "EquipmentType": 3,
+  "Type": 2,
+  "Quality": 3,
+  "AffixMultiplier": 0,
+  "AffixNumericalType": 2,
+  "AffixValueRange": [
+   300,
+   600
+  ],
+  "Weight": 1000,
+  "AE": 18159,
+  "GearGamenum": "@18159"
+ },
+ {
+  "ID": 1160,
+  "EquipmentType": 3,
+  "Type": 2,
+  "Quality": 3,
+  "AffixMultiplier": 0,
+  "AffixNumericalType": 2,
+  "AffixValueRange": [
+   300,
+   600
+  ],
+  "Weight": 1000,
+  "AE": 18160,
+  "GearGamenum": "@18160"
+ },
+ {
+  "ID": 2153,
+  "EquipmentType": 3,
+  "Type": 2,
+  "Quality": 4,
+  "AffixMultiplier": 0,
+  "AffixNumericalType": 2,
+  "AffixValueRange": [
+   600,
+   900
+  ],
+  "Weight": 1000,
+  "AE": 28153,
+  "GearGamenum": "@28153"
+ },
+ {
+  "ID": 2154,
+  "EquipmentType": 3,
+  "Type": 2,
+  "Quality": 4,
+  "AffixMultiplier": 0,
+  "AffixNumericalType": 2,
+  "AffixValueRange": [
+   400,
+   600
+  ],
+  "Weight": 1000,
+  "AE": 28154,
+  "GearGamenum": "@28154"
+ },
+ {
+  "ID": 2155,
+  "EquipmentType": 3,
+  "Type": 2,
+  "Quality": 4,
+  "AffixMultiplier": 0,
+  "AffixNumericalType": 2,
+  "AffixValueRange": [
+   1200,
+   1800
+  ],
+  "Weight": 1000,
+  "AE": 28155,
+  "GearGamenum": "@28155"
+ },
+ {
+  "ID": 2156,
+  "EquipmentType": 3,
+  "Type": 2,
+  "Quality": 4,
+  "AffixMultiplier": 0,
+  "AffixNumericalType": 2,
+  "AffixValueRange": [
+   500,
+   750
+  ],
+  "Weight": 1000,
+  "AE": 28156,
+  "GearGamenum": "@28156"
+ },
+ {
+  "ID": 2157,
+  "EquipmentType": 3,
+  "Type": 2,
+  "Quality": 4,
+  "AffixMultiplier": 0,
+  "AffixNumericalType": 2,
+  "AffixValueRange": [
+   800,
+   1200
+  ],
+  "Weight": 1000,
+  "AE": 28157,
+  "GearGamenum": "@28157"
+ },
+ {
+  "ID": 2158,
+  "EquipmentType": 3,
+  "Type": 2,
+  "Quality": 4,
+  "AffixMultiplier": 0,
+  "AffixNumericalType": 2,
+  "AffixValueRange": [
+   600,
+   900
+  ],
+  "Weight": 1000,
+  "AE": 28158,
+  "GearGamenum": "@28158"
+ },
+ {
+  "ID": 2159,
+  "EquipmentType": 3,
+  "Type": 2,
+  "Quality": 4,
+  "AffixMultiplier": 0,
+  "AffixNumericalType": 2,
+  "AffixValueRange": [
+   600,
+   900
+  ],
+  "Weight": 1000,
+  "AE": 28159,
+  "GearGamenum": "@28159"
+ },
+ {
+  "ID": 2160,
+  "EquipmentType": 3,
+  "Type": 2,
+  "Quality": 4,
+  "AffixMultiplier": 0,
+  "AffixNumericalType": 2,
+  "AffixValueRange": [
+   600,
+   900
+  ],
+  "Weight": 1000,
+  "AE": 28160,
+  "GearGamenum": "@28160"
+ },
+ {
+  "ID": 3153,
+  "EquipmentType": 3,
+  "Type": 2,
+  "Quality": 5,
+  "AffixMultiplier": 0,
+  "AffixNumericalType": 2,
+  "AffixValueRange": [
+   900,
+   1200
+  ],
+  "Weight": 1000,
+  "AE": 38153,
+  "GearGamenum": "@38153"
+ },
+ {
+  "ID": 3154,
+  "EquipmentType": 3,
+  "Type": 2,
+  "Quality": 5,
+  "AffixMultiplier": 0,
+  "AffixNumericalType": 2,
+  "AffixValueRange": [
+   600,
+   800
+  ],
+  "Weight": 1000,
+  "AE": 38154,
+  "GearGamenum": "@38154"
+ },
+ {
+  "ID": 3155,
+  "EquipmentType": 3,
+  "Type": 2,
+  "Quality": 5,
+  "AffixMultiplier": 0,
+  "AffixNumericalType": 2,
+  "AffixValueRange": [
+   1800,
+   2400
+  ],
+  "Weight": 1000,
+  "AE": 38155,
+  "GearGamenum": "@38155"
+ },
+ {
+  "ID": 3156,
+  "EquipmentType": 3,
+  "Type": 2,
+  "Quality": 5,
+  "AffixMultiplier": 0,
+  "AffixNumericalType": 2,
+  "AffixValueRange": [
+   750,
+   1000
+  ],
+  "Weight": 1000,
+  "AE": 38156,
+  "GearGamenum": "@38156"
+ },
+ {
+  "ID": 3157,
+  "EquipmentType": 3,
+  "Type": 2,
+  "Quality": 5,
+  "AffixMultiplier": 0,
+  "AffixNumericalType": 2,
+  "AffixValueRange": [
+   1200,
+   1600
+  ],
+  "Weight": 1000,
+  "AE": 38157,
+  "GearGamenum": "@38157"
+ },
+ {
+  "ID": 3158,
+  "EquipmentType": 3,
+  "Type": 2,
+  "Quality": 5,
+  "AffixMultiplier": 0,
+  "AffixNumericalType": 2,
+  "AffixValueRange": [
+   900,
+   1200
+  ],
+  "Weight": 1000,
+  "AE": 38158,
+  "GearGamenum": "@38158"
+ },
+ {
+  "ID": 3159,
+  "EquipmentType": 3,
+  "Type": 2,
+  "Quality": 5,
+  "AffixMultiplier": 0,
+  "AffixNumericalType": 2,
+  "AffixValueRange": [
+   900,
+   1200
+  ],
+  "Weight": 1000,
+  "AE": 38159,
+  "GearGamenum": "@38159"
+ },
+ {
+  "ID": 3160,
+  "EquipmentType": 3,
+  "Type": 2,
+  "Quality": 5,
+  "AffixMultiplier": 0,
+  "AffixNumericalType": 2,
+  "AffixValueRange": [
+   900,
+   1200
+  ],
+  "Weight": 1000,
+  "AE": 38160,
+  "GearGamenum": "@38160"
+ },
+ {
+  "ID": 4153,
+  "EquipmentType": 3,
+  "Type": 2,
+  "Quality": 6,
+  "AffixMultiplier": 0,
+  "AffixNumericalType": 2,
+  "AffixValueRange": [
+   1200,
+   1500
+  ],
+  "Weight": 1000,
+  "AE": 48153,
+  "GearGamenum": "@48153"
+ },
+ {
+  "ID": 4154,
+  "EquipmentType": 3,
+  "Type": 2,
+  "Quality": 6,
+  "AffixMultiplier": 0,
+  "AffixNumericalType": 2,
+  "AffixValueRange": [
+   800,
+   1000
+  ],
+  "Weight": 1000,
+  "AE": 48154,
+  "GearGamenum": "@48154"
+ },
+ {
+  "ID": 4155,
+  "EquipmentType": 3,
+  "Type": 2,
+  "Quality": 6,
+  "AffixMultiplier": 0,
+  "AffixNumericalType": 2,
+  "AffixValueRange": [
+   2400,
+   3000
+  ],
+  "Weight": 1000,
+  "AE": 48155,
+  "GearGamenum": "@48155"
+ },
+ {
+  "ID": 4156,
+  "EquipmentType": 3,
+  "Type": 2,
+  "Quality": 6,
+  "AffixMultiplier": 0,
+  "AffixNumericalType": 2,
+  "AffixValueRange": [
+   1000,
+   1250
+  ],
+  "Weight": 1000,
+  "AE": 48156,
+  "GearGamenum": "@48156"
+ },
+ {
+  "ID": 4157,
+  "EquipmentType": 3,
+  "Type": 2,
+  "Quality": 6,
+  "AffixMultiplier": 0,
+  "AffixNumericalType": 2,
+  "AffixValueRange": [
+   1600,
+   2000
+  ],
+  "Weight": 1000,
+  "AE": 48157,
+  "GearGamenum": "@48157"
+ },
+ {
+  "ID": 4158,
+  "EquipmentType": 3,
+  "Type": 2,
+  "Quality": 6,
+  "AffixMultiplier": 0,
+  "AffixNumericalType": 2,
+  "AffixValueRange": [
+   1200,
+   1500
+  ],
+  "Weight": 1000,
+  "AE": 48158,
+  "GearGamenum": "@48158"
+ },
+ {
+  "ID": 4159,
+  "EquipmentType": 3,
+  "Type": 2,
+  "Quality": 6,
+  "AffixMultiplier": 0,
+  "AffixNumericalType": 2,
+  "AffixValueRange": [
+   1200,
+   1500
+  ],
+  "Weight": 1000,
+  "AE": 48159,
+  "GearGamenum": "@48159"
+ },
+ {
+  "ID": 4160,
+  "EquipmentType": 3,
+  "Type": 2,
+  "Quality": 6,
+  "AffixMultiplier": 0,
+  "AffixNumericalType": 2,
+  "AffixValueRange": [
+   1200,
+   1500
+  ],
+  "Weight": 1000,
+  "AE": 48160,
+  "GearGamenum": "@48160"
+ },
+ {
+  "ID": 163,
+  "EquipmentType": 4,
+  "Type": 2,
+  "Quality": 2,
+  "AffixMultiplier": 0,
+  "AffixNumericalType": 2,
+  "AffixValueRange": [
+   150,
+   300
+  ],
+  "Weight": 1000,
+  "AE": 8163,
+  "GearGamenum": "@8163"
+ },
+ {
+  "ID": 164,
+  "EquipmentType": 4,
+  "Type": 2,
+  "Quality": 2,
+  "AffixMultiplier": 0,
+  "AffixNumericalType": 2,
+  "AffixValueRange": [
+   100,
+   200
+  ],
+  "Weight": 1000,
+  "AE": 8164,
+  "GearGamenum": "@8164"
+ },
+ {
+  "ID": 165,
+  "EquipmentType": 4,
+  "Type": 2,
+  "Quality": 2,
+  "AffixMultiplier": 0,
+  "AffixNumericalType": 2,
+  "AffixValueRange": [
+   300,
+   600
+  ],
+  "Weight": 1000,
+  "AE": 8165,
+  "GearGamenum": "@8165"
+ },
+ {
+  "ID": 166,
+  "EquipmentType": 4,
+  "Type": 2,
+  "Quality": 2,
+  "AffixMultiplier": 0,
+  "AffixNumericalType": 2,
+  "AffixValueRange": [
+   100,
+   250
+  ],
+  "Weight": 1000,
+  "AE": 8166,
+  "GearGamenum": "@8166"
+ },
+ {
+  "ID": 167,
+  "EquipmentType": 4,
+  "Type": 2,
+  "Quality": 2,
+  "AffixMultiplier": 0,
+  "AffixNumericalType": 2,
+  "AffixValueRange": [
+   200,
+   400
+  ],
+  "Weight": 1000,
+  "AE": 8167,
+  "GearGamenum": "@8167"
+ },
+ {
+  "ID": 168,
+  "EquipmentType": 4,
+  "Type": 2,
+  "Quality": 2,
+  "AffixMultiplier": 0,
+  "AffixNumericalType": 2,
+  "AffixValueRange": [
+   100,
+   300
+  ],
+  "Weight": 1000,
+  "AE": 8168,
+  "GearGamenum": "@8168"
+ },
+ {
+  "ID": 169,
+  "EquipmentType": 4,
+  "Type": 2,
+  "Quality": 2,
+  "AffixMultiplier": 0,
+  "AffixNumericalType": 2,
+  "AffixValueRange": [
+   100,
+   300
+  ],
+  "Weight": 1000,
+  "AE": 8169,
+  "GearGamenum": "@8169"
+ },
+ {
+  "ID": 170,
+  "EquipmentType": 4,
+  "Type": 2,
+  "Quality": 2,
+  "AffixMultiplier": 0,
+  "AffixNumericalType": 2,
+  "AffixValueRange": [
+   100,
+   300
+  ],
+  "Weight": 1000,
+  "AE": 8170,
+  "GearGamenum": "@8170"
+ },
+ {
+  "ID": 1163,
+  "EquipmentType": 4,
+  "Type": 2,
+  "Quality": 3,
+  "AffixMultiplier": 0,
+  "AffixNumericalType": 2,
+  "AffixValueRange": [
+   300,
+   600
+  ],
+  "Weight": 1000,
+  "AE": 18163,
+  "GearGamenum": "@18163"
+ },
+ {
+  "ID": 1164,
+  "EquipmentType": 4,
+  "Type": 2,
+  "Quality": 3,
+  "AffixMultiplier": 0,
+  "AffixNumericalType": 2,
+  "AffixValueRange": [
+   200,
+   400
+  ],
+  "Weight": 1000,
+  "AE": 18164,
+  "GearGamenum": "@18164"
+ },
+ {
+  "ID": 1165,
+  "EquipmentType": 4,
+  "Type": 2,
+  "Quality": 3,
+  "AffixMultiplier": 0,
+  "AffixNumericalType": 2,
+  "AffixValueRange": [
+   600,
+   1200
+  ],
+  "Weight": 1000,
+  "AE": 18165,
+  "GearGamenum": "@18165"
+ },
+ {
+  "ID": 1166,
+  "EquipmentType": 4,
+  "Type": 2,
+  "Quality": 3,
+  "AffixMultiplier": 0,
+  "AffixNumericalType": 2,
+  "AffixValueRange": [
+   250,
+   500
+  ],
+  "Weight": 1000,
+  "AE": 18166,
+  "GearGamenum": "@18166"
+ },
+ {
+  "ID": 1167,
+  "EquipmentType": 4,
+  "Type": 2,
+  "Quality": 3,
+  "AffixMultiplier": 0,
+  "AffixNumericalType": 2,
+  "AffixValueRange": [
+   400,
+   800
+  ],
+  "Weight": 1000,
+  "AE": 18167,
+  "GearGamenum": "@18167"
+ },
+ {
+  "ID": 1168,
+  "EquipmentType": 4,
+  "Type": 2,
+  "Quality": 3,
+  "AffixMultiplier": 0,
+  "AffixNumericalType": 2,
+  "AffixValueRange": [
+   300,
+   600
+  ],
+  "Weight": 1000,
+  "AE": 18168,
+  "GearGamenum": "@18168"
+ },
+ {
+  "ID": 1169,
+  "EquipmentType": 4,
+  "Type": 2,
+  "Quality": 3,
+  "AffixMultiplier": 0,
+  "AffixNumericalType": 2,
+  "AffixValueRange": [
+   300,
+   600
+  ],
+  "Weight": 1000,
+  "AE": 18169,
+  "GearGamenum": "@18169"
+ },
+ {
+  "ID": 1170,
+  "EquipmentType": 4,
+  "Type": 2,
+  "Quality": 3,
+  "AffixMultiplier": 0,
+  "AffixNumericalType": 2,
+  "AffixValueRange": [
+   300,
+   600
+  ],
+  "Weight": 1000,
+  "AE": 18170,
+  "GearGamenum": "@18170"
+ },
+ {
+  "ID": 2163,
+  "EquipmentType": 4,
+  "Type": 2,
+  "Quality": 4,
+  "AffixMultiplier": 0,
+  "AffixNumericalType": 2,
+  "AffixValueRange": [
+   600,
+   900
+  ],
+  "Weight": 1000,
+  "AE": 28163,
+  "GearGamenum": "@28163"
+ },
+ {
+  "ID": 2164,
+  "EquipmentType": 4,
+  "Type": 2,
+  "Quality": 4,
+  "AffixMultiplier": 0,
+  "AffixNumericalType": 2,
+  "AffixValueRange": [
+   400,
+   600
+  ],
+  "Weight": 1000,
+  "AE": 28164,
+  "GearGamenum": "@28164"
+ },
+ {
+  "ID": 2165,
+  "EquipmentType": 4,
+  "Type": 2,
+  "Quality": 4,
+  "AffixMultiplier": 0,
+  "AffixNumericalType": 2,
+  "AffixValueRange": [
+   1200,
+   1800
+  ],
+  "Weight": 1000,
+  "AE": 28165,
+  "GearGamenum": "@28165"
+ },
+ {
+  "ID": 2166,
+  "EquipmentType": 4,
+  "Type": 2,
+  "Quality": 4,
+  "AffixMultiplier": 0,
+  "AffixNumericalType": 2,
+  "AffixValueRange": [
+   500,
+   750
+  ],
+  "Weight": 1000,
+  "AE": 28166,
+  "GearGamenum": "@28166"
+ },
+ {
+  "ID": 2167,
+  "EquipmentType": 4,
+  "Type": 2,
+  "Quality": 4,
+  "AffixMultiplier": 0,
+  "AffixNumericalType": 2,
+  "AffixValueRange": [
+   800,
+   1200
+  ],
+  "Weight": 1000,
+  "AE": 28167,
+  "GearGamenum": "@28167"
+ },
+ {
+  "ID": 2168,
+  "EquipmentType": 4,
+  "Type": 2,
+  "Quality": 4,
+  "AffixMultiplier": 0,
+  "AffixNumericalType": 2,
+  "AffixValueRange": [
+   600,
+   900
+  ],
+  "Weight": 1000,
+  "AE": 28168,
+  "GearGamenum": "@28168"
+ },
+ {
+  "ID": 2169,
+  "EquipmentType": 4,
+  "Type": 2,
+  "Quality": 4,
+  "AffixMultiplier": 0,
+  "AffixNumericalType": 2,
+  "AffixValueRange": [
+   600,
+   900
+  ],
+  "Weight": 1000,
+  "AE": 28169,
+  "GearGamenum": "@28169"
+ },
+ {
+  "ID": 2170,
+  "EquipmentType": 4,
+  "Type": 2,
+  "Quality": 4,
+  "AffixMultiplier": 0,
+  "AffixNumericalType": 2,
+  "AffixValueRange": [
+   600,
+   900
+  ],
+  "Weight": 1000,
+  "AE": 28170,
+  "GearGamenum": "@28170"
+ },
+ {
+  "ID": 3163,
+  "EquipmentType": 4,
+  "Type": 2,
+  "Quality": 5,
+  "AffixMultiplier": 0,
+  "AffixNumericalType": 2,
+  "AffixValueRange": [
+   900,
+   1200
+  ],
+  "Weight": 1000,
+  "AE": 38163,
+  "GearGamenum": "@38163"
+ },
+ {
+  "ID": 3164,
+  "EquipmentType": 4,
+  "Type": 2,
+  "Quality": 5,
+  "AffixMultiplier": 0,
+  "AffixNumericalType": 2,
+  "AffixValueRange": [
+   600,
+   800
+  ],
+  "Weight": 1000,
+  "AE": 38164,
+  "GearGamenum": "@38164"
+ },
+ {
+  "ID": 3165,
+  "EquipmentType": 4,
+  "Type": 2,
+  "Quality": 5,
+  "AffixMultiplier": 0,
+  "AffixNumericalType": 2,
+  "AffixValueRange": [
+   1800,
+   2400
+  ],
+  "Weight": 1000,
+  "AE": 38165,
+  "GearGamenum": "@38165"
+ },
+ {
+  "ID": 3166,
+  "EquipmentType": 4,
+  "Type": 2,
+  "Quality": 5,
+  "AffixMultiplier": 0,
+  "AffixNumericalType": 2,
+  "AffixValueRange": [
+   750,
+   1000
+  ],
+  "Weight": 1000,
+  "AE": 38166,
+  "GearGamenum": "@38166"
+ },
+ {
+  "ID": 3167,
+  "EquipmentType": 4,
+  "Type": 2,
+  "Quality": 5,
+  "AffixMultiplier": 0,
+  "AffixNumericalType": 2,
+  "AffixValueRange": [
+   1200,
+   1600
+  ],
+  "Weight": 1000,
+  "AE": 38167,
+  "GearGamenum": "@38167"
+ },
+ {
+  "ID": 3168,
+  "EquipmentType": 4,
+  "Type": 2,
+  "Quality": 5,
+  "AffixMultiplier": 0,
+  "AffixNumericalType": 2,
+  "AffixValueRange": [
+   900,
+   1200
+  ],
+  "Weight": 1000,
+  "AE": 38168,
+  "GearGamenum": "@38168"
+ },
+ {
+  "ID": 3169,
+  "EquipmentType": 4,
+  "Type": 2,
+  "Quality": 5,
+  "AffixMultiplier": 0,
+  "AffixNumericalType": 2,
+  "AffixValueRange": [
+   900,
+   1200
+  ],
+  "Weight": 1000,
+  "AE": 38169,
+  "GearGamenum": "@38169"
+ },
+ {
+  "ID": 3170,
+  "EquipmentType": 4,
+  "Type": 2,
+  "Quality": 5,
+  "AffixMultiplier": 0,
+  "AffixNumericalType": 2,
+  "AffixValueRange": [
+   900,
+   1200
+  ],
+  "Weight": 1000,
+  "AE": 38170,
+  "GearGamenum": "@38170"
+ },
+ {
+  "ID": 4163,
+  "EquipmentType": 4,
+  "Type": 2,
+  "Quality": 6,
+  "AffixMultiplier": 0,
+  "AffixNumericalType": 2,
+  "AffixValueRange": [
+   1200,
+   1500
+  ],
+  "Weight": 1000,
+  "AE": 48163,
+  "GearGamenum": "@48163"
+ },
+ {
+  "ID": 4164,
+  "EquipmentType": 4,
+  "Type": 2,
+  "Quality": 6,
+  "AffixMultiplier": 0,
+  "AffixNumericalType": 2,
+  "AffixValueRange": [
+   800,
+   1000
+  ],
+  "Weight": 1000,
+  "AE": 48164,
+  "GearGamenum": "@48164"
+ },
+ {
+  "ID": 4165,
+  "EquipmentType": 4,
+  "Type": 2,
+  "Quality": 6,
+  "AffixMultiplier": 0,
+  "AffixNumericalType": 2,
+  "AffixValueRange": [
+   2400,
+   3000
+  ],
+  "Weight": 1000,
+  "AE": 48165,
+  "GearGamenum": "@48165"
+ },
+ {
+  "ID": 4166,
+  "EquipmentType": 4,
+  "Type": 2,
+  "Quality": 6,
+  "AffixMultiplier": 0,
+  "AffixNumericalType": 2,
+  "AffixValueRange": [
+   1000,
+   1250
+  ],
+  "Weight": 1000,
+  "AE": 48166,
+  "GearGamenum": "@48166"
+ },
+ {
+  "ID": 4167,
+  "EquipmentType": 4,
+  "Type": 2,
+  "Quality": 6,
+  "AffixMultiplier": 0,
+  "AffixNumericalType": 2,
+  "AffixValueRange": [
+   1600,
+   2000
+  ],
+  "Weight": 1000,
+  "AE": 48167,
+  "GearGamenum": "@48167"
+ },
+ {
+  "ID": 4168,
+  "EquipmentType": 4,
+  "Type": 2,
+  "Quality": 6,
+  "AffixMultiplier": 0,
+  "AffixNumericalType": 2,
+  "AffixValueRange": [
+   1200,
+   1500
+  ],
+  "Weight": 1000,
+  "AE": 48168,
+  "GearGamenum": "@48168"
+ },
+ {
+  "ID": 4169,
+  "EquipmentType": 4,
+  "Type": 2,
+  "Quality": 6,
+  "AffixMultiplier": 0,
+  "AffixNumericalType": 2,
+  "AffixValueRange": [
+   1200,
+   1500
+  ],
+  "Weight": 1000,
+  "AE": 48169,
+  "GearGamenum": "@48169"
+ },
+ {
+  "ID": 4170,
+  "EquipmentType": 4,
+  "Type": 2,
+  "Quality": 6,
+  "AffixMultiplier": 0,
+  "AffixNumericalType": 2,
+  "AffixValueRange": [
+   1200,
+   1500
+  ],
+  "Weight": 1000,
+  "AE": 48170,
+  "GearGamenum": "@48170"
+ },
+ {
+  "ID": 173,
+  "EquipmentType": 5,
+  "Type": 2,
+  "Quality": 2,
+  "AffixMultiplier": 0,
+  "AffixNumericalType": 2,
+  "AffixValueRange": [
+   150,
+   300
+  ],
+  "Weight": 1000,
+  "AE": 8173,
+  "GearGamenum": "@8173"
+ },
+ {
+  "ID": 174,
+  "EquipmentType": 5,
+  "Type": 2,
+  "Quality": 2,
+  "AffixMultiplier": 0,
+  "AffixNumericalType": 2,
+  "AffixValueRange": [
+   100,
+   200
+  ],
+  "Weight": 1000,
+  "AE": 8174,
+  "GearGamenum": "@8174"
+ },
+ {
+  "ID": 175,
+  "EquipmentType": 5,
+  "Type": 2,
+  "Quality": 2,
+  "AffixMultiplier": 0,
+  "AffixNumericalType": 2,
+  "AffixValueRange": [
+   300,
+   600
+  ],
+  "Weight": 1000,
+  "AE": 8175,
+  "GearGamenum": "@8175"
+ },
+ {
+  "ID": 176,
+  "EquipmentType": 5,
+  "Type": 2,
+  "Quality": 2,
+  "AffixMultiplier": 0,
+  "AffixNumericalType": 2,
+  "AffixValueRange": [
+   100,
+   250
+  ],
+  "Weight": 1000,
+  "AE": 8176,
+  "GearGamenum": "@8176"
+ },
+ {
+  "ID": 177,
+  "EquipmentType": 5,
+  "Type": 2,
+  "Quality": 2,
+  "AffixMultiplier": 0,
+  "AffixNumericalType": 2,
+  "AffixValueRange": [
+   200,
+   400
+  ],
+  "Weight": 1000,
+  "AE": 8177,
+  "GearGamenum": "@8177"
+ },
+ {
+  "ID": 178,
+  "EquipmentType": 5,
+  "Type": 2,
+  "Quality": 2,
+  "AffixMultiplier": 0,
+  "AffixNumericalType": 2,
+  "AffixValueRange": [
+   100,
+   300
+  ],
+  "Weight": 1000,
+  "AE": 8178,
+  "GearGamenum": "@8178"
+ },
+ {
+  "ID": 179,
+  "EquipmentType": 5,
+  "Type": 2,
+  "Quality": 2,
+  "AffixMultiplier": 0,
+  "AffixNumericalType": 2,
+  "AffixValueRange": [
+   100,
+   300
+  ],
+  "Weight": 1000,
+  "AE": 8179,
+  "GearGamenum": "@8179"
+ },
+ {
+  "ID": 180,
+  "EquipmentType": 5,
+  "Type": 2,
+  "Quality": 2,
+  "AffixMultiplier": 0,
+  "AffixNumericalType": 2,
+  "AffixValueRange": [
+   100,
+   300
+  ],
+  "Weight": 1000,
+  "AE": 8180,
+  "GearGamenum": "@8180"
+ },
+ {
+  "ID": 1173,
+  "EquipmentType": 5,
+  "Type": 2,
+  "Quality": 3,
+  "AffixMultiplier": 0,
+  "AffixNumericalType": 2,
+  "AffixValueRange": [
+   300,
+   600
+  ],
+  "Weight": 1000,
+  "AE": 18173,
+  "GearGamenum": "@18173"
+ },
+ {
+  "ID": 1174,
+  "EquipmentType": 5,
+  "Type": 2,
+  "Quality": 3,
+  "AffixMultiplier": 0,
+  "AffixNumericalType": 2,
+  "AffixValueRange": [
+   200,
+   400
+  ],
+  "Weight": 1000,
+  "AE": 18174,
+  "GearGamenum": "@18174"
+ },
+ {
+  "ID": 1175,
+  "EquipmentType": 5,
+  "Type": 2,
+  "Quality": 3,
+  "AffixMultiplier": 0,
+  "AffixNumericalType": 2,
+  "AffixValueRange": [
+   600,
+   1200
+  ],
+  "Weight": 1000,
+  "AE": 18175,
+  "GearGamenum": "@18175"
+ },
+ {
+  "ID": 1176,
+  "EquipmentType": 5,
+  "Type": 2,
+  "Quality": 3,
+  "AffixMultiplier": 0,
+  "AffixNumericalType": 2,
+  "AffixValueRange": [
+   250,
+   500
+  ],
+  "Weight": 1000,
+  "AE": 18176,
+  "GearGamenum": "@18176"
+ },
+ {
+  "ID": 1177,
+  "EquipmentType": 5,
+  "Type": 2,
+  "Quality": 3,
+  "AffixMultiplier": 0,
+  "AffixNumericalType": 2,
+  "AffixValueRange": [
+   400,
+   800
+  ],
+  "Weight": 1000,
+  "AE": 18177,
+  "GearGamenum": "@18177"
+ },
+ {
+  "ID": 1178,
+  "EquipmentType": 5,
+  "Type": 2,
+  "Quality": 3,
+  "AffixMultiplier": 0,
+  "AffixNumericalType": 2,
+  "AffixValueRange": [
+   300,
+   600
+  ],
+  "Weight": 1000,
+  "AE": 18178,
+  "GearGamenum": "@18178"
+ },
+ {
+  "ID": 1179,
+  "EquipmentType": 5,
+  "Type": 2,
+  "Quality": 3,
+  "AffixMultiplier": 0,
+  "AffixNumericalType": 2,
+  "AffixValueRange": [
+   300,
+   600
+  ],
+  "Weight": 1000,
+  "AE": 18179,
+  "GearGamenum": "@18179"
+ },
+ {
+  "ID": 1180,
+  "EquipmentType": 5,
+  "Type": 2,
+  "Quality": 3,
+  "AffixMultiplier": 0,
+  "AffixNumericalType": 2,
+  "AffixValueRange": [
+   300,
+   600
+  ],
+  "Weight": 1000,
+  "AE": 18180,
+  "GearGamenum": "@18180"
+ },
+ {
+  "ID": 2173,
+  "EquipmentType": 5,
+  "Type": 2,
+  "Quality": 4,
+  "AffixMultiplier": 0,
+  "AffixNumericalType": 2,
+  "AffixValueRange": [
+   600,
+   900
+  ],
+  "Weight": 1000,
+  "AE": 28173,
+  "GearGamenum": "@28173"
+ },
+ {
+  "ID": 2174,
+  "EquipmentType": 5,
+  "Type": 2,
+  "Quality": 4,
+  "AffixMultiplier": 0,
+  "AffixNumericalType": 2,
+  "AffixValueRange": [
+   400,
+   600
+  ],
+  "Weight": 1000,
+  "AE": 28174,
+  "GearGamenum": "@28174"
+ },
+ {
+  "ID": 2175,
+  "EquipmentType": 5,
+  "Type": 2,
+  "Quality": 4,
+  "AffixMultiplier": 0,
+  "AffixNumericalType": 2,
+  "AffixValueRange": [
+   1200,
+   1800
+  ],
+  "Weight": 1000,
+  "AE": 28175,
+  "GearGamenum": "@28175"
+ },
+ {
+  "ID": 2176,
+  "EquipmentType": 5,
+  "Type": 2,
+  "Quality": 4,
+  "AffixMultiplier": 0,
+  "AffixNumericalType": 2,
+  "AffixValueRange": [
+   500,
+   750
+  ],
+  "Weight": 1000,
+  "AE": 28176,
+  "GearGamenum": "@28176"
+ },
+ {
+  "ID": 2177,
+  "EquipmentType": 5,
+  "Type": 2,
+  "Quality": 4,
+  "AffixMultiplier": 0,
+  "AffixNumericalType": 2,
+  "AffixValueRange": [
+   800,
+   1200
+  ],
+  "Weight": 1000,
+  "AE": 28177,
+  "GearGamenum": "@28177"
+ },
+ {
+  "ID": 2178,
+  "EquipmentType": 5,
+  "Type": 2,
+  "Quality": 4,
+  "AffixMultiplier": 0,
+  "AffixNumericalType": 2,
+  "AffixValueRange": [
+   600,
+   900
+  ],
+  "Weight": 1000,
+  "AE": 28178,
+  "GearGamenum": "@28178"
+ },
+ {
+  "ID": 2179,
+  "EquipmentType": 5,
+  "Type": 2,
+  "Quality": 4,
+  "AffixMultiplier": 0,
+  "AffixNumericalType": 2,
+  "AffixValueRange": [
+   600,
+   900
+  ],
+  "Weight": 1000,
+  "AE": 28179,
+  "GearGamenum": "@28179"
+ },
+ {
+  "ID": 2180,
+  "EquipmentType": 5,
+  "Type": 2,
+  "Quality": 4,
+  "AffixMultiplier": 0,
+  "AffixNumericalType": 2,
+  "AffixValueRange": [
+   600,
+   900
+  ],
+  "Weight": 1000,
+  "AE": 28180,
+  "GearGamenum": "@28180"
+ },
+ {
+  "ID": 3173,
+  "EquipmentType": 5,
+  "Type": 2,
+  "Quality": 5,
+  "AffixMultiplier": 0,
+  "AffixNumericalType": 2,
+  "AffixValueRange": [
+   900,
+   1200
+  ],
+  "Weight": 1000,
+  "AE": 38173,
+  "GearGamenum": "@38173"
+ },
+ {
+  "ID": 3174,
+  "EquipmentType": 5,
+  "Type": 2,
+  "Quality": 5,
+  "AffixMultiplier": 0,
+  "AffixNumericalType": 2,
+  "AffixValueRange": [
+   600,
+   800
+  ],
+  "Weight": 1000,
+  "AE": 38174,
+  "GearGamenum": "@38174"
+ },
+ {
+  "ID": 3175,
+  "EquipmentType": 5,
+  "Type": 2,
+  "Quality": 5,
+  "AffixMultiplier": 0,
+  "AffixNumericalType": 2,
+  "AffixValueRange": [
+   1800,
+   2400
+  ],
+  "Weight": 1000,
+  "AE": 38175,
+  "GearGamenum": "@38175"
+ },
+ {
+  "ID": 3176,
+  "EquipmentType": 5,
+  "Type": 2,
+  "Quality": 5,
+  "AffixMultiplier": 0,
+  "AffixNumericalType": 2,
+  "AffixValueRange": [
+   750,
+   1000
+  ],
+  "Weight": 1000,
+  "AE": 38176,
+  "GearGamenum": "@38176"
+ },
+ {
+  "ID": 3177,
+  "EquipmentType": 5,
+  "Type": 2,
+  "Quality": 5,
+  "AffixMultiplier": 0,
+  "AffixNumericalType": 2,
+  "AffixValueRange": [
+   1200,
+   1600
+  ],
+  "Weight": 1000,
+  "AE": 38177,
+  "GearGamenum": "@38177"
+ },
+ {
+  "ID": 3178,
+  "EquipmentType": 5,
+  "Type": 2,
+  "Quality": 5,
+  "AffixMultiplier": 0,
+  "AffixNumericalType": 2,
+  "AffixValueRange": [
+   900,
+   1200
+  ],
+  "Weight": 1000,
+  "AE": 38178,
+  "GearGamenum": "@38178"
+ },
+ {
+  "ID": 3179,
+  "EquipmentType": 5,
+  "Type": 2,
+  "Quality": 5,
+  "AffixMultiplier": 0,
+  "AffixNumericalType": 2,
+  "AffixValueRange": [
+   900,
+   1200
+  ],
+  "Weight": 1000,
+  "AE": 38179,
+  "GearGamenum": "@38179"
+ },
+ {
+  "ID": 3180,
+  "EquipmentType": 5,
+  "Type": 2,
+  "Quality": 5,
+  "AffixMultiplier": 0,
+  "AffixNumericalType": 2,
+  "AffixValueRange": [
+   900,
+   1200
+  ],
+  "Weight": 1000,
+  "AE": 38180,
+  "GearGamenum": "@38180"
+ },
+ {
+  "ID": 4173,
+  "EquipmentType": 5,
+  "Type": 2,
+  "Quality": 6,
+  "AffixMultiplier": 0,
+  "AffixNumericalType": 2,
+  "AffixValueRange": [
+   1200,
+   1500
+  ],
+  "Weight": 1000,
+  "AE": 48173,
+  "GearGamenum": "@48173"
+ },
+ {
+  "ID": 4174,
+  "EquipmentType": 5,
+  "Type": 2,
+  "Quality": 6,
+  "AffixMultiplier": 0,
+  "AffixNumericalType": 2,
+  "AffixValueRange": [
+   800,
+   1000
+  ],
+  "Weight": 1000,
+  "AE": 48174,
+  "GearGamenum": "@48174"
+ },
+ {
+  "ID": 4175,
+  "EquipmentType": 5,
+  "Type": 2,
+  "Quality": 6,
+  "AffixMultiplier": 0,
+  "AffixNumericalType": 2,
+  "AffixValueRange": [
+   2400,
+   3000
+  ],
+  "Weight": 1000,
+  "AE": 48175,
+  "GearGamenum": "@48175"
+ },
+ {
+  "ID": 4176,
+  "EquipmentType": 5,
+  "Type": 2,
+  "Quality": 6,
+  "AffixMultiplier": 0,
+  "AffixNumericalType": 2,
+  "AffixValueRange": [
+   1000,
+   1250
+  ],
+  "Weight": 1000,
+  "AE": 48176,
+  "GearGamenum": "@48176"
+ },
+ {
+  "ID": 4177,
+  "EquipmentType": 5,
+  "Type": 2,
+  "Quality": 6,
+  "AffixMultiplier": 0,
+  "AffixNumericalType": 2,
+  "AffixValueRange": [
+   1600,
+   2000
+  ],
+  "Weight": 1000,
+  "AE": 48177,
+  "GearGamenum": "@48177"
+ },
+ {
+  "ID": 4178,
+  "EquipmentType": 5,
+  "Type": 2,
+  "Quality": 6,
+  "AffixMultiplier": 0,
+  "AffixNumericalType": 2,
+  "AffixValueRange": [
+   1200,
+   1500
+  ],
+  "Weight": 1000,
+  "AE": 48178,
+  "GearGamenum": "@48178"
+ },
+ {
+  "ID": 4179,
+  "EquipmentType": 5,
+  "Type": 2,
+  "Quality": 6,
+  "AffixMultiplier": 0,
+  "AffixNumericalType": 2,
+  "AffixValueRange": [
+   1200,
+   1500
+  ],
+  "Weight": 1000,
+  "AE": 48179,
+  "GearGamenum": "@48179"
+ },
+ {
+  "ID": 4180,
+  "EquipmentType": 5,
+  "Type": 2,
+  "Quality": 6,
+  "AffixMultiplier": 0,
+  "AffixNumericalType": 2,
+  "AffixValueRange": [
+   1200,
+   1500
+  ],
+  "Weight": 1000,
+  "AE": 48180,
+  "GearGamenum": "@48180"
+ },
+ {
+  "ID": 183,
+  "EquipmentType": 6,
+  "Type": 2,
+  "Quality": 2,
+  "AffixMultiplier": 0,
+  "AffixNumericalType": 2,
+  "AffixValueRange": [
+   150,
+   300
+  ],
+  "Weight": 1000,
+  "AE": 8183,
+  "GearGamenum": "@8183"
+ },
+ {
+  "ID": 184,
+  "EquipmentType": 6,
+  "Type": 2,
+  "Quality": 2,
+  "AffixMultiplier": 0,
+  "AffixNumericalType": 2,
+  "AffixValueRange": [
+   100,
+   200
+  ],
+  "Weight": 1000,
+  "AE": 8184,
+  "GearGamenum": "@8184"
+ },
+ {
+  "ID": 185,
+  "EquipmentType": 6,
+  "Type": 2,
+  "Quality": 2,
+  "AffixMultiplier": 0,
+  "AffixNumericalType": 2,
+  "AffixValueRange": [
+   300,
+   600
+  ],
+  "Weight": 1000,
+  "AE": 8185,
+  "GearGamenum": "@8185"
+ },
+ {
+  "ID": 186,
+  "EquipmentType": 6,
+  "Type": 2,
+  "Quality": 2,
+  "AffixMultiplier": 0,
+  "AffixNumericalType": 2,
+  "AffixValueRange": [
+   100,
+   250
+  ],
+  "Weight": 1000,
+  "AE": 8186,
+  "GearGamenum": "@8186"
+ },
+ {
+  "ID": 187,
+  "EquipmentType": 6,
+  "Type": 2,
+  "Quality": 2,
+  "AffixMultiplier": 0,
+  "AffixNumericalType": 2,
+  "AffixValueRange": [
+   200,
+   400
+  ],
+  "Weight": 1000,
+  "AE": 8187,
+  "GearGamenum": "@8187"
+ },
+ {
+  "ID": 188,
+  "EquipmentType": 6,
+  "Type": 2,
+  "Quality": 2,
+  "AffixMultiplier": 0,
+  "AffixNumericalType": 2,
+  "AffixValueRange": [
+   100,
+   300
+  ],
+  "Weight": 1000,
+  "AE": 8188,
+  "GearGamenum": "@8188"
+ },
+ {
+  "ID": 189,
+  "EquipmentType": 6,
+  "Type": 2,
+  "Quality": 2,
+  "AffixMultiplier": 0,
+  "AffixNumericalType": 2,
+  "AffixValueRange": [
+   100,
+   300
+  ],
+  "Weight": 1000,
+  "AE": 8189,
+  "GearGamenum": "@8189"
+ },
+ {
+  "ID": 190,
+  "EquipmentType": 6,
+  "Type": 2,
+  "Quality": 2,
+  "AffixMultiplier": 0,
+  "AffixNumericalType": 2,
+  "AffixValueRange": [
+   100,
+   300
+  ],
+  "Weight": 1000,
+  "AE": 8190,
+  "GearGamenum": "@8190"
+ },
+ {
+  "ID": 1183,
+  "EquipmentType": 6,
+  "Type": 2,
+  "Quality": 3,
+  "AffixMultiplier": 0,
+  "AffixNumericalType": 2,
+  "AffixValueRange": [
+   300,
+   600
+  ],
+  "Weight": 1000,
+  "AE": 18183,
+  "GearGamenum": "@18183"
+ },
+ {
+  "ID": 1184,
+  "EquipmentType": 6,
+  "Type": 2,
+  "Quality": 3,
+  "AffixMultiplier": 0,
+  "AffixNumericalType": 2,
+  "AffixValueRange": [
+   200,
+   400
+  ],
+  "Weight": 1000,
+  "AE": 18184,
+  "GearGamenum": "@18184"
+ },
+ {
+  "ID": 1185,
+  "EquipmentType": 6,
+  "Type": 2,
+  "Quality": 3,
+  "AffixMultiplier": 0,
+  "AffixNumericalType": 2,
+  "AffixValueRange": [
+   600,
+   1200
+  ],
+  "Weight": 1000,
+  "AE": 18185,
+  "GearGamenum": "@18185"
+ },
+ {
+  "ID": 1186,
+  "EquipmentType": 6,
+  "Type": 2,
+  "Quality": 3,
+  "AffixMultiplier": 0,
+  "AffixNumericalType": 2,
+  "AffixValueRange": [
+   250,
+   500
+  ],
+  "Weight": 1000,
+  "AE": 18186,
+  "GearGamenum": "@18186"
+ },
+ {
+  "ID": 1187,
+  "EquipmentType": 6,
+  "Type": 2,
+  "Quality": 3,
+  "AffixMultiplier": 0,
+  "AffixNumericalType": 2,
+  "AffixValueRange": [
+   400,
+   800
+  ],
+  "Weight": 1000,
+  "AE": 18187,
+  "GearGamenum": "@18187"
+ },
+ {
+  "ID": 1188,
+  "EquipmentType": 6,
+  "Type": 2,
+  "Quality": 3,
+  "AffixMultiplier": 0,
+  "AffixNumericalType": 2,
+  "AffixValueRange": [
+   300,
+   600
+  ],
+  "Weight": 1000,
+  "AE": 18188,
+  "GearGamenum": "@18188"
+ },
+ {
+  "ID": 1189,
+  "EquipmentType": 6,
+  "Type": 2,
+  "Quality": 3,
+  "AffixMultiplier": 0,
+  "AffixNumericalType": 2,
+  "AffixValueRange": [
+   300,
+   600
+  ],
+  "Weight": 1000,
+  "AE": 18189,
+  "GearGamenum": "@18189"
+ },
+ {
+  "ID": 1190,
+  "EquipmentType": 6,
+  "Type": 2,
+  "Quality": 3,
+  "AffixMultiplier": 0,
+  "AffixNumericalType": 2,
+  "AffixValueRange": [
+   300,
+   600
+  ],
+  "Weight": 1000,
+  "AE": 18190,
+  "GearGamenum": "@18190"
+ },
+ {
+  "ID": 2183,
+  "EquipmentType": 6,
+  "Type": 2,
+  "Quality": 4,
+  "AffixMultiplier": 0,
+  "AffixNumericalType": 2,
+  "AffixValueRange": [
+   600,
+   900
+  ],
+  "Weight": 1000,
+  "AE": 28183,
+  "GearGamenum": "@28183"
+ },
+ {
+  "ID": 2184,
+  "EquipmentType": 6,
+  "Type": 2,
+  "Quality": 4,
+  "AffixMultiplier": 0,
+  "AffixNumericalType": 2,
+  "AffixValueRange": [
+   400,
+   600
+  ],
+  "Weight": 1000,
+  "AE": 28184,
+  "GearGamenum": "@28184"
+ },
+ {
+  "ID": 2185,
+  "EquipmentType": 6,
+  "Type": 2,
+  "Quality": 4,
+  "AffixMultiplier": 0,
+  "AffixNumericalType": 2,
+  "AffixValueRange": [
+   1200,
+   1800
+  ],
+  "Weight": 1000,
+  "AE": 28185,
+  "GearGamenum": "@28185"
+ },
+ {
+  "ID": 2186,
+  "EquipmentType": 6,
+  "Type": 2,
+  "Quality": 4,
+  "AffixMultiplier": 0,
+  "AffixNumericalType": 2,
+  "AffixValueRange": [
+   500,
+   750
+  ],
+  "Weight": 1000,
+  "AE": 28186,
+  "GearGamenum": "@28186"
+ },
+ {
+  "ID": 2187,
+  "EquipmentType": 6,
+  "Type": 2,
+  "Quality": 4,
+  "AffixMultiplier": 0,
+  "AffixNumericalType": 2,
+  "AffixValueRange": [
+   800,
+   1200
+  ],
+  "Weight": 1000,
+  "AE": 28187,
+  "GearGamenum": "@28187"
+ },
+ {
+  "ID": 2188,
+  "EquipmentType": 6,
+  "Type": 2,
+  "Quality": 4,
+  "AffixMultiplier": 0,
+  "AffixNumericalType": 2,
+  "AffixValueRange": [
+   600,
+   900
+  ],
+  "Weight": 1000,
+  "AE": 28188,
+  "GearGamenum": "@28188"
+ },
+ {
+  "ID": 2189,
+  "EquipmentType": 6,
+  "Type": 2,
+  "Quality": 4,
+  "AffixMultiplier": 0,
+  "AffixNumericalType": 2,
+  "AffixValueRange": [
+   600,
+   900
+  ],
+  "Weight": 1000,
+  "AE": 28189,
+  "GearGamenum": "@28189"
+ },
+ {
+  "ID": 2190,
+  "EquipmentType": 6,
+  "Type": 2,
+  "Quality": 4,
+  "AffixMultiplier": 0,
+  "AffixNumericalType": 2,
+  "AffixValueRange": [
+   600,
+   900
+  ],
+  "Weight": 1000,
+  "AE": 28190,
+  "GearGamenum": "@28190"
+ },
+ {
+  "ID": 3183,
+  "EquipmentType": 6,
+  "Type": 2,
+  "Quality": 5,
+  "AffixMultiplier": 0,
+  "AffixNumericalType": 2,
+  "AffixValueRange": [
+   900,
+   1200
+  ],
+  "Weight": 1000,
+  "AE": 38183,
+  "GearGamenum": "@38183"
+ },
+ {
+  "ID": 3184,
+  "EquipmentType": 6,
+  "Type": 2,
+  "Quality": 5,
+  "AffixMultiplier": 0,
+  "AffixNumericalType": 2,
+  "AffixValueRange": [
+   600,
+   800
+  ],
+  "Weight": 1000,
+  "AE": 38184,
+  "GearGamenum": "@38184"
+ },
+ {
+  "ID": 3185,
+  "EquipmentType": 6,
+  "Type": 2,
+  "Quality": 5,
+  "AffixMultiplier": 0,
+  "AffixNumericalType": 2,
+  "AffixValueRange": [
+   1800,
+   2400
+  ],
+  "Weight": 1000,
+  "AE": 38185,
+  "GearGamenum": "@38185"
+ },
+ {
+  "ID": 3186,
+  "EquipmentType": 6,
+  "Type": 2,
+  "Quality": 5,
+  "AffixMultiplier": 0,
+  "AffixNumericalType": 2,
+  "AffixValueRange": [
+   750,
+   1000
+  ],
+  "Weight": 1000,
+  "AE": 38186,
+  "GearGamenum": "@38186"
+ },
+ {
+  "ID": 3187,
+  "EquipmentType": 6,
+  "Type": 2,
+  "Quality": 5,
+  "AffixMultiplier": 0,
+  "AffixNumericalType": 2,
+  "AffixValueRange": [
+   1200,
+   1600
+  ],
+  "Weight": 1000,
+  "AE": 38187,
+  "GearGamenum": "@38187"
+ },
+ {
+  "ID": 3188,
+  "EquipmentType": 6,
+  "Type": 2,
+  "Quality": 5,
+  "AffixMultiplier": 0,
+  "AffixNumericalType": 2,
+  "AffixValueRange": [
+   900,
+   1200
+  ],
+  "Weight": 1000,
+  "AE": 38188,
+  "GearGamenum": "@38188"
+ },
+ {
+  "ID": 3189,
+  "EquipmentType": 6,
+  "Type": 2,
+  "Quality": 5,
+  "AffixMultiplier": 0,
+  "AffixNumericalType": 2,
+  "AffixValueRange": [
+   900,
+   1200
+  ],
+  "Weight": 1000,
+  "AE": 38189,
+  "GearGamenum": "@38189"
+ },
+ {
+  "ID": 3190,
+  "EquipmentType": 6,
+  "Type": 2,
+  "Quality": 5,
+  "AffixMultiplier": 0,
+  "AffixNumericalType": 2,
+  "AffixValueRange": [
+   900,
+   1200
+  ],
+  "Weight": 1000,
+  "AE": 38190,
+  "GearGamenum": "@38190"
+ },
+ {
+  "ID": 4183,
+  "EquipmentType": 6,
+  "Type": 2,
+  "Quality": 6,
+  "AffixMultiplier": 0,
+  "AffixNumericalType": 2,
+  "AffixValueRange": [
+   1200,
+   1500
+  ],
+  "Weight": 1000,
+  "AE": 48183,
+  "GearGamenum": "@48183"
+ },
+ {
+  "ID": 4184,
+  "EquipmentType": 6,
+  "Type": 2,
+  "Quality": 6,
+  "AffixMultiplier": 0,
+  "AffixNumericalType": 2,
+  "AffixValueRange": [
+   800,
+   1000
+  ],
+  "Weight": 1000,
+  "AE": 48184,
+  "GearGamenum": "@48184"
+ },
+ {
+  "ID": 4185,
+  "EquipmentType": 6,
+  "Type": 2,
+  "Quality": 6,
+  "AffixMultiplier": 0,
+  "AffixNumericalType": 2,
+  "AffixValueRange": [
+   2400,
+   3000
+  ],
+  "Weight": 1000,
+  "AE": 48185,
+  "GearGamenum": "@48185"
+ },
+ {
+  "ID": 4186,
+  "EquipmentType": 6,
+  "Type": 2,
+  "Quality": 6,
+  "AffixMultiplier": 0,
+  "AffixNumericalType": 2,
+  "AffixValueRange": [
+   1000,
+   1250
+  ],
+  "Weight": 1000,
+  "AE": 48186,
+  "GearGamenum": "@48186"
+ },
+ {
+  "ID": 4187,
+  "EquipmentType": 6,
+  "Type": 2,
+  "Quality": 6,
+  "AffixMultiplier": 0,
+  "AffixNumericalType": 2,
+  "AffixValueRange": [
+   1600,
+   2000
+  ],
+  "Weight": 1000,
+  "AE": 48187,
+  "GearGamenum": "@48187"
+ },
+ {
+  "ID": 4188,
+  "EquipmentType": 6,
+  "Type": 2,
+  "Quality": 6,
+  "AffixMultiplier": 0,
+  "AffixNumericalType": 2,
+  "AffixValueRange": [
+   1200,
+   1500
+  ],
+  "Weight": 1000,
+  "AE": 48188,
+  "GearGamenum": "@48188"
+ },
+ {
+  "ID": 4189,
+  "EquipmentType": 6,
+  "Type": 2,
+  "Quality": 6,
+  "AffixMultiplier": 0,
+  "AffixNumericalType": 2,
+  "AffixValueRange": [
+   1200,
+   1500
+  ],
+  "Weight": 1000,
+  "AE": 48189,
+  "GearGamenum": "@48189"
+ },
+ {
+  "ID": 4190,
+  "EquipmentType": 6,
+  "Type": 2,
+  "Quality": 6,
+  "AffixMultiplier": 0,
+  "AffixNumericalType": 2,
+  "AffixValueRange": [
+   1200,
+   1500
+  ],
+  "Weight": 1000,
+  "AE": 48190,
+  "GearGamenum": "@48190"
+ }
+]

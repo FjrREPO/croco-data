@@ -1,0 +1,268 @@
+[
+ {
+  "HeadID": 1012,
+  "HeadIcon": "heroIcon_001",
+  "UnlockID": 410101,
+  "IsShow": 3,
+  "Sort": 1
+ },
+ {
+  "HeadID": 2012,
+  "HeadIcon": "heroIcon_007",
+  "UnlockID": 420101,
+  "IsShow": 3,
+  "Sort": 2
+ },
+ {
+  "HeadID": 3012,
+  "HeadIcon": "heroIcon_006",
+  "UnlockID": 430301,
+  "IsShow": 3,
+  "Sort": 3
+ },
+ {
+  "HeadID": 4012,
+  "HeadIcon": "heroIcon_012",
+  "UnlockID": 440201,
+  "IsShow": 3,
+  "Sort": 4
+ },
+ {
+  "HeadID": 4013,
+  "HeadIcon": "heroIcon_008",
+  "UnlockID": 440401,
+  "IsShow": 3,
+  "Sort": 5
+ },
+ {
+  "HeadID": 5012,
+  "HeadIcon": "heroIcon_450101",
+  "UnlockID": 450101,
+  "IsShow": 3,
+  "Sort": 6
+ },
+ {
+  "HeadID": 1002,
+  "HeadIcon": "Icon_Head_1002",
+  "UnlockID": 110201,
+  "IsShow": 3,
+  "Sort": 7
+ },
+ {
+  "HeadID": 1004,
+  "HeadIcon": "Icon_Head_1006",
+  "UnlockID": 110402,
+  "IsShow": 3,
+  "Sort": 8
+ },
+ {
+  "HeadID": 1005,
+  "HeadIcon": "Icon_Head_1004",
+  "UnlockID": 110202,
+  "IsShow": 3,
+  "Sort": 9
+ },
+ {
+  "HeadID": 1006,
+  "HeadIcon": "Icon_Head_1005",
+  "UnlockID": 110302,
+  "IsShow": 3,
+  "Sort": 10
+ },
+ {
+  "HeadID": 1009,
+  "HeadIcon": "Icon_Head_1011",
+  "UnlockID": 110602,
+  "IsShow": 3,
+  "Sort": 11
+ },
+ {
+  "HeadID": 1010,
+  "HeadIcon": "Icon_Head_1010",
+  "UnlockID": 110603,
+  "IsShow": 3,
+  "Sort": 12
+ },
+ {
+  "HeadID": 1011,
+  "HeadIcon": "Icon_Head_1012",
+  "UnlockID": 110604,
+  "IsShow": 3,
+  "Sort": 13
+ },
+ {
+  "HeadID": 2003,
+  "HeadIcon": "Icon_Head_2003",
+  "UnlockID": 120202,
+  "IsShow": 3,
+  "Sort": 14
+ },
+ {
+  "HeadID": 2004,
+  "HeadIcon": "Icon_Head_2004",
+  "UnlockID": 120301,
+  "IsShow": 3,
+  "Sort": 15
+ },
+ {
+  "HeadID": 2005,
+  "HeadIcon": "Icon_Head_2005",
+  "UnlockID": 120302,
+  "IsShow": 3,
+  "Sort": 16
+ },
+ {
+  "HeadID": 2009,
+  "HeadIcon": "Icon_Head_2010",
+  "UnlockID": 120602,
+  "IsShow": 3,
+  "Sort": 17
+ },
+ {
+  "HeadID": 2010,
+  "HeadIcon": "Icon_Head_2011",
+  "UnlockID": 120603,
+  "IsShow": 3,
+  "Sort": 18
+ },
+ {
+  "HeadID": 3003,
+  "HeadIcon": "Icon_Head_3003",
+  "UnlockID": 130202,
+  "IsShow": 3,
+  "Sort": 19
+ },
+ {
+  "HeadID": 3005,
+  "HeadIcon": "Icon_Head_3007",
+  "UnlockID": 130501,
+  "IsShow": 3,
+  "Sort": 20
+ },
+ {
+  "HeadID": 3006,
+  "HeadIcon": "Icon_Head_3006",
+  "UnlockID": 130402,
+  "IsShow": 3,
+  "Sort": 21
+ },
+ {
+  "HeadID": 3007,
+  "HeadIcon": "Icon_Head_3008",
+  "UnlockID": 130401,
+  "IsShow": 3,
+  "Sort": 22
+ },
+ {
+  "HeadID": 3008,
+  "HeadIcon": "Icon_Head_3009",
+  "UnlockID": 130601,
+  "IsShow": 3,
+  "Sort": 23
+ },
+ {
+  "HeadID": 3010,
+  "HeadIcon": "Icon_Head_3011",
+  "UnlockID": 130603,
+  "IsShow": 3,
+  "Sort": 24
+ },
+ {
+  "HeadID": 4002,
+  "HeadIcon": "Icon_Head_4002",
+  "UnlockID": 140201,
+  "IsShow": 3,
+  "Sort": 25
+ },
+ {
+  "HeadID": 4003,
+  "HeadIcon": "Icon_Head_4003",
+  "UnlockID": 140202,
+  "IsShow": 3,
+  "Sort": 26
+ },
+ {
+  "HeadID": 4004,
+  "HeadIcon": "Icon_Head_4004",
+  "UnlockID": 140301,
+  "IsShow": 3,
+  "Sort": 27
+ },
+ {
+  "HeadID": 4007,
+  "HeadIcon": "Icon_Head_4008",
+  "UnlockID": 140304,
+  "IsShow": 3,
+  "Sort": 28
+ },
+ {
+  "HeadID": 4008,
+  "HeadIcon": "Icon_Head_4009",
+  "UnlockID": 140401,
+  "IsShow": 3,
+  "Sort": 29
+ },
+ {
+  "HeadID": 4009,
+  "HeadIcon": "Icon_Head_4010",
+  "UnlockID": 140402,
+  "IsShow": 3,
+  "Sort": 30
+ },
+ {
+  "HeadID": 4010,
+  "HeadIcon": "Icon_Head_4011",
+  "UnlockID": 140403,
+  "IsShow": 3,
+  "Sort": 31
+ },
+ {
+  "HeadID": 4011,
+  "HeadIcon": "Icon_Head_4012",
+  "UnlockID": 140404,
+  "IsShow": 3,
+  "Sort": 32
+ },
+ {
+  "HeadID": 7001,
+  "HeadIcon": "Icon_Head_210101",
+  "UnlockID": 230101,
+  "IsShow": 3,
+  "Sort": 33
+ },
+ {
+  "HeadID": 7002,
+  "HeadIcon": "Icon_Head_210301",
+  "UnlockID": 240101,
+  "IsShow": 3,
+  "Sort": 34
+ },
+ {
+  "HeadID": 7003,
+  "HeadIcon": "Icon_Head_210401",
+  "UnlockID": 240201,
+  "IsShow": 3,
+  "Sort": 35
+ },
+ {
+  "HeadID": 7004,
+  "HeadIcon": "Icon_Head_210501",
+  "UnlockID": 250101,
+  "IsShow": 3,
+  "Sort": 36
+ },
+ {
+  "HeadID": 5001,
+  "HeadIcon": "Icon_Head_150501",
+  "UnlockID": 150501,
+  "IsShow": 3,
+  "Sort": 37
+ },
+ {
+  "HeadID": 5002,
+  "HeadIcon": "Icon_Head_150401",
+  "UnlockID": 150401,
+  "IsShow": 3,
+  "Sort": 38
+ }
+]

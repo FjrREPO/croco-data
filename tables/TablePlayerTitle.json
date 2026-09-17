@@ -1,0 +1,290 @@
+[
+ {
+  "TitleID": 1001,
+  "DisplayType": 0,
+  "AssetName": "title_infoBG1_01",
+  "Quality": 1,
+  "UnlockID": 1301001,
+  "IsShow": 3,
+  "Sort": 1
+ },
+ {
+  "TitleID": 1002,
+  "DisplayType": 0,
+  "AssetName": "title_infoBG1_02",
+  "Quality": 2,
+  "UnlockID": 1301002,
+  "IsShow": 3,
+  "Sort": 2
+ },
+ {
+  "TitleID": 1003,
+  "DisplayType": 0,
+  "AssetName": "title_infoBG1_03",
+  "Quality": 3,
+  "UnlockID": 1301003,
+  "IsShow": 3,
+  "Sort": 3
+ },
+ {
+  "TitleID": 1004,
+  "DisplayType": 0,
+  "AssetName": "title_infoBG1_arena01",
+  "Quality": 1,
+  "UnlockID": 1301004,
+  "IsShow": 3,
+  "Sort": 4
+ },
+ {
+  "TitleID": 1005,
+  "DisplayType": 0,
+  "AssetName": "title_infoBG1_arena02",
+  "Quality": 2,
+  "UnlockID": 1301005,
+  "IsShow": 3,
+  "Sort": 5
+ },
+ {
+  "TitleID": 1006,
+  "DisplayType": 0,
+  "AssetName": "title_infoBG1_arena03",
+  "Quality": 3,
+  "UnlockID": 1301006,
+  "IsShow": 3,
+  "Sort": 6
+ },
+ {
+  "TitleID": 1007,
+  "DisplayType": 0,
+  "AssetName": "title_infoTB1_Christmas",
+  "Quality": 3,
+  "UnlockID": 1301022,
+  "IsShow": 3,
+  "Sort": 7
+ },
+ {
+  "TitleID": 1301001,
+  "DisplayType": 0,
+  "AssetName": "title_infoBG1_01",
+  "Quality": 1,
+  "UnlockID": 0,
+  "IsShow": 3,
+  "Sort": 1
+ },
+ {
+  "TitleID": 1301002,
+  "DisplayType": 0,
+  "AssetName": "title_infoBG1_02",
+  "Quality": 2,
+  "UnlockID": 0,
+  "IsShow": 3,
+  "Sort": 2
+ },
+ {
+  "TitleID": 1301003,
+  "DisplayType": 0,
+  "AssetName": "title_infoBG1_03",
+  "Quality": 3,
+  "UnlockID": 0,
+  "IsShow": 3,
+  "Sort": 3
+ },
+ {
+  "TitleID": 1301004,
+  "DisplayType": 0,
+  "AssetName": "title_infoBG1_arena01",
+  "Quality": 1,
+  "UnlockID": 0,
+  "IsShow": 3,
+  "Sort": 4
+ },
+ {
+  "TitleID": 1301005,
+  "DisplayType": 0,
+  "AssetName": "title_infoBG1_arena02",
+  "Quality": 2,
+  "UnlockID": 0,
+  "IsShow": 3,
+  "Sort": 5
+ },
+ {
+  "TitleID": 1301006,
+  "DisplayType": 0,
+  "AssetName": "title_infoBG1_arena03",
+  "Quality": 3,
+  "UnlockID": 0,
+  "IsShow": 3,
+  "Sort": 6
+ },
+ {
+  "TitleID": 1301022,
+  "DisplayType": 0,
+  "AssetName": "title_infoTB1_Christmas",
+  "Quality": 3,
+  "UnlockID": 0,
+  "IsShow": 3,
+  "Sort": 7
+ },
+ {
+  "TitleID": 1301007,
+  "DisplayType": 0,
+  "AssetName": "",
+  "Quality": 3,
+  "UnlockID": 0,
+  "IsShow": 2,
+  "Sort": 8
+ },
+ {
+  "TitleID": 1301008,
+  "DisplayType": 0,
+  "AssetName": "",
+  "Quality": 3,
+  "UnlockID": 0,
+  "IsShow": 2,
+  "Sort": 9
+ },
+ {
+  "TitleID": 1301009,
+  "DisplayType": 0,
+  "AssetName": "",
+  "Quality": 3,
+  "UnlockID": 0,
+  "IsShow": 2,
+  "Sort": 10
+ },
+ {
+  "TitleID": 1301010,
+  "DisplayType": 0,
+  "AssetName": "",
+  "Quality": 3,
+  "UnlockID": 0,
+  "IsShow": 2,
+  "Sort": 11
+ },
+ {
+  "TitleID": 1301011,
+  "DisplayType": 0,
+  "AssetName": "",
+  "Quality": 3,
+  "UnlockID": 0,
+  "IsShow": 2,
+  "Sort": 12
+ },
+ {
+  "TitleID": 1301012,
+  "DisplayType": 0,
+  "AssetName": "",
+  "Quality": 3,
+  "UnlockID": 0,
+  "IsShow": 2,
+  "Sort": 13
+ },
+ {
+  "TitleID": 1301013,
+  "DisplayType": 0,
+  "AssetName": "",
+  "Quality": 3,
+  "UnlockID": 0,
+  "IsShow": 2,
+  "Sort": 14
+ },
+ {
+  "TitleID": 1301014,
+  "DisplayType": 0,
+  "AssetName": "",
+  "Quality": 3,
+  "UnlockID": 0,
+  "IsShow": 2,
+  "Sort": 15
+ },
+ {
+  "TitleID": 1301015,
+  "DisplayType": 0,
+  "AssetName": "",
+  "Quality": 3,
+  "UnlockID": 0,
+  "IsShow": 2,
+  "Sort": 16
+ },
+ {
+  "TitleID": 1301016,
+  "DisplayType": 0,
+  "AssetName": "title_infoBG1_arena04",
+  "Quality": 3,
+  "UnlockID": 0,
+  "IsShow": 3,
+  "Sort": 17
+ },
+ {
+  "TitleID": 1301017,
+  "DisplayType": 0,
+  "AssetName": "",
+  "Quality": 3,
+  "UnlockID": 0,
+  "IsShow": 2,
+  "Sort": 18
+ },
+ {
+  "TitleID": 1301018,
+  "DisplayType": 0,
+  "AssetName": "",
+  "Quality": 3,
+  "UnlockID": 0,
+  "IsShow": 2,
+  "Sort": 19
+ },
+ {
+  "TitleID": 1301019,
+  "DisplayType": 0,
+  "AssetName": "",
+  "Quality": 3,
+  "UnlockID": 0,
+  "IsShow": 2,
+  "Sort": 20
+ },
+ {
+  "TitleID": 1301020,
+  "DisplayType": 0,
+  "AssetName": "",
+  "Quality": 3,
+  "UnlockID": 0,
+  "IsShow": 2,
+  "Sort": 21
+ },
+ {
+  "TitleID": 1301021,
+  "DisplayType": 0,
+  "AssetName": "",
+  "Quality": 3,
+  "UnlockID": 0,
+  "IsShow": 2,
+  "Sort": 22
+ },
+ {
+  "TitleID": 1311001,
+  "DisplayType": 0,
+  "AssetName": "title_infoBG1_arena01",
+  "Quality": 3,
+  "UnlockID": 0,
+  "IsShow": 2,
+  "Sort": 23
+ },
+ {
+  "TitleID": 1311002,
+  "DisplayType": 0,
+  "AssetName": "title_infoBG1_arena02",
+  "Quality": 3,
+  "UnlockID": 0,
+  "IsShow": 2,
+  "Sort": 24
+ },
+ {
+  "TitleID": 1311003,
+  "DisplayType": 0,
+  "AssetName": "title_infoBG1_arena03",
+  "Quality": 3,
+  "UnlockID": 0,
+  "IsShow": 2,
+  "Sort": 25
+ }
+]

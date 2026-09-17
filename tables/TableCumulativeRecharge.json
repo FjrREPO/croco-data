@@ -1,0 +1,42 @@
+[
+ {
+  "Id": 1001,
+  "Group": 1,
+  "VIPpointcount": 60,
+  "Reward": [
+   51000001
+  ]
+ },
+ {
+  "Id": 1002,
+  "Group": 1,
+  "VIPpointcount": 300,
+  "Reward": [
+   51000002
+  ]
+ },
+ {
+  "Id": 1003,
+  "Group": 1,
+  "VIPpointcount": 680,
+  "Reward": [
+   51000003
+  ]
+ },
+ {
+  "Id": 1004,
+  "Group": 1,
+  "VIPpointcount": 1280,
+  "Reward": [
+   51000004
+  ]
+ },
+ {
+  "Id": 1005,
+  "Group": 1,
+  "VIPpointcount": 3280,
+  "Reward": [
+   51000005
+  ]
+ }
+]

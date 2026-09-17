@@ -1,0 +1,542 @@
+[
+ {
+  "ID": 1,
+  "Type": 1001,
+  "Reward": [
+   801001
+  ],
+  "Limitnumber": 1,
+  "Weights": 1
+ },
+ {
+  "ID": 2,
+  "Type": 1001,
+  "Reward": [
+   801002
+  ],
+  "Limitnumber": 0,
+  "Weights": 534
+ },
+ {
+  "ID": 3,
+  "Type": 1001,
+  "Reward": [
+   801003
+  ],
+  "Limitnumber": 0,
+  "Weights": 534
+ },
+ {
+  "ID": 4,
+  "Type": 1001,
+  "Reward": [
+   801004
+  ],
+  "Limitnumber": 0,
+  "Weights": 855
+ },
+ {
+  "ID": 5,
+  "Type": 1001,
+  "Reward": [
+   801005
+  ],
+  "Limitnumber": 0,
+  "Weights": 1055
+ },
+ {
+  "ID": 6,
+  "Type": 1001,
+  "Reward": [
+   801006
+  ],
+  "Limitnumber": 0,
+  "Weights": 534
+ },
+ {
+  "ID": 7,
+  "Type": 1001,
+  "Reward": [
+   801007
+  ],
+  "Limitnumber": 0,
+  "Weights": 534
+ },
+ {
+  "ID": 8,
+  "Type": 1001,
+  "Reward": [
+   801008
+  ],
+  "Limitnumber": 0,
+  "Weights": 534
+ },
+ {
+  "ID": 9,
+  "Type": 1001,
+  "Reward": [
+   801009
+  ],
+  "Limitnumber": 2,
+  "Weights": 53
+ },
+ {
+  "ID": 10,
+  "Type": 1001,
+  "Reward": [
+   801010
+  ],
+  "Limitnumber": 2,
+  "Weights": 11
+ },
+ {
+  "ID": 11,
+  "Type": 1001,
+  "Reward": [
+   801011
+  ],
+  "Limitnumber": 0,
+  "Weights": 334
+ },
+ {
+  "ID": 12,
+  "Type": 1001,
+  "Reward": [
+   801012
+  ],
+  "Limitnumber": 0,
+  "Weights": 534
+ },
+ {
+  "ID": 13,
+  "Type": 1001,
+  "Reward": [
+   801013
+  ],
+  "Limitnumber": 0,
+  "Weights": 214
+ },
+ {
+  "ID": 14,
+  "Type": 1001,
+  "Reward": [
+   801014
+  ],
+  "Limitnumber": 0,
+  "Weights": 534
+ },
+ {
+  "ID": 15,
+  "Type": 1001,
+  "Reward": [
+   801015
+  ],
+  "Limitnumber": 0,
+  "Weights": 3739
+ },
+ {
+  "ID": 16,
+  "Type": 1002,
+  "Reward": [
+   801016
+  ],
+  "Limitnumber": 1,
+  "Weights": 1
+ },
+ {
+  "ID": 17,
+  "Type": 1002,
+  "Reward": [
+   801017
+  ],
+  "Limitnumber": 0,
+  "Weights": 200
+ },
+ {
+  "ID": 18,
+  "Type": 1002,
+  "Reward": [
+   801018
+  ],
+  "Limitnumber": 0,
+  "Weights": 300
+ },
+ {
+  "ID": 19,
+  "Type": 1002,
+  "Reward": [
+   801019
+  ],
+  "Limitnumber": 0,
+  "Weights": 800
+ },
+ {
+  "ID": 20,
+  "Type": 1002,
+  "Reward": [
+   801020
+  ],
+  "Limitnumber": 0,
+  "Weights": 200
+ },
+ {
+  "ID": 21,
+  "Type": 1002,
+  "Reward": [
+   801021
+  ],
+  "Limitnumber": 0,
+  "Weights": 200
+ },
+ {
+  "ID": 22,
+  "Type": 1002,
+  "Reward": [
+   801022
+  ],
+  "Limitnumber": 0,
+  "Weights": 200
+ },
+ {
+  "ID": 23,
+  "Type": 1002,
+  "Reward": [
+   801023
+  ],
+  "Limitnumber": 0,
+  "Weights": 800
+ },
+ {
+  "ID": 24,
+  "Type": 1002,
+  "Reward": [
+   801024
+  ],
+  "Limitnumber": 0,
+  "Weights": 200
+ },
+ {
+  "ID": 25,
+  "Type": 1002,
+  "Reward": [
+   801025
+  ],
+  "Limitnumber": 0,
+  "Weights": 100
+ },
+ {
+  "ID": 26,
+  "Type": 1002,
+  "Reward": [
+   801026
+  ],
+  "Limitnumber": 2,
+  "Weights": 100
+ },
+ {
+  "ID": 27,
+  "Type": 1002,
+  "Reward": [
+   801027
+  ],
+  "Limitnumber": 2,
+  "Weights": 200
+ },
+ {
+  "ID": 28,
+  "Type": 1002,
+  "Reward": [
+   801028
+  ],
+  "Limitnumber": 0,
+  "Weights": 500
+ },
+ {
+  "ID": 29,
+  "Type": 1002,
+  "Reward": [
+   801029
+  ],
+  "Limitnumber": 0,
+  "Weights": 1000
+ },
+ {
+  "ID": 30,
+  "Type": 1002,
+  "Reward": [
+   801030
+  ],
+  "Limitnumber": 0,
+  "Weights": 5199
+ },
+ {
+  "ID": 31,
+  "Type": 1003,
+  "Reward": [
+   801031
+  ],
+  "Limitnumber": 1,
+  "Weights": 1
+ },
+ {
+  "ID": 32,
+  "Type": 1003,
+  "Reward": [
+   801032
+  ],
+  "Limitnumber": 0,
+  "Weights": 200
+ },
+ {
+  "ID": 33,
+  "Type": 1003,
+  "Reward": [
+   801033
+  ],
+  "Limitnumber": 0,
+  "Weights": 300
+ },
+ {
+  "ID": 34,
+  "Type": 1003,
+  "Reward": [
+   801034
+  ],
+  "Limitnumber": 0,
+  "Weights": 800
+ },
+ {
+  "ID": 35,
+  "Type": 1003,
+  "Reward": [
+   801035
+  ],
+  "Limitnumber": 0,
+  "Weights": 200
+ },
+ {
+  "ID": 36,
+  "Type": 1003,
+  "Reward": [
+   801036
+  ],
+  "Limitnumber": 0,
+  "Weights": 200
+ },
+ {
+  "ID": 37,
+  "Type": 1003,
+  "Reward": [
+   801037
+  ],
+  "Limitnumber": 0,
+  "Weights": 200
+ },
+ {
+  "ID": 38,
+  "Type": 1003,
+  "Reward": [
+   801038
+  ],
+  "Limitnumber": 0,
+  "Weights": 800
+ },
+ {
+  "ID": 39,
+  "Type": 1003,
+  "Reward": [
+   801039
+  ],
+  "Limitnumber": 0,
+  "Weights": 200
+ },
+ {
+  "ID": 40,
+  "Type": 1003,
+  "Reward": [
+   801040
+  ],
+  "Limitnumber": 0,
+  "Weights": 100
+ },
+ {
+  "ID": 41,
+  "Type": 1003,
+  "Reward": [
+   801041
+  ],
+  "Limitnumber": 2,
+  "Weights": 100
+ },
+ {
+  "ID": 42,
+  "Type": 1003,
+  "Reward": [
+   801042
+  ],
+  "Limitnumber": 2,
+  "Weights": 200
+ },
+ {
+  "ID": 43,
+  "Type": 1003,
+  "Reward": [
+   801043
+  ],
+  "Limitnumber": 0,
+  "Weights": 500
+ },
+ {
+  "ID": 44,
+  "Type": 1003,
+  "Reward": [
+   801044
+  ],
+  "Limitnumber": 0,
+  "Weights": 1000
+ },
+ {
+  "ID": 45,
+  "Type": 1003,
+  "Reward": [
+   801045
+  ],
+  "Limitnumber": 0,
+  "Weights": 5199
+ },
+ {
+  "ID": 46,
+  "Type": 1004,
+  "Reward": [
+   801046
+  ],
+  "Limitnumber": 1,
+  "Weights": 1
+ },
+ {
+  "ID": 47,
+  "Type": 1004,
+  "Reward": [
+   801047
+  ],
+  "Limitnumber": 0,
+  "Weights": 534
+ },
+ {
+  "ID": 48,
+  "Type": 1004,
+  "Reward": [
+   801048
+  ],
+  "Limitnumber": 0,
+  "Weights": 534
+ },
+ {
+  "ID": 49,
+  "Type": 1004,
+  "Reward": [
+   801049
+  ],
+  "Limitnumber": 0,
+  "Weights": 855
+ },
+ {
+  "ID": 50,
+  "Type": 1004,
+  "Reward": [
+   801050
+  ],
+  "Limitnumber": 0,
+  "Weights": 1055
+ },
+ {
+  "ID": 51,
+  "Type": 1004,
+  "Reward": [
+   801051
+  ],
+  "Limitnumber": 0,
+  "Weights": 534
+ },
+ {
+  "ID": 52,
+  "Type": 1004,
+  "Reward": [
+   801052
+  ],
+  "Limitnumber": 0,
+  "Weights": 534
+ },
+ {
+  "ID": 53,
+  "Type": 1004,
+  "Reward": [
+   801053
+  ],
+  "Limitnumber": 0,
+  "Weights": 534
+ },
+ {
+  "ID": 54,
+  "Type": 1004,
+  "Reward": [
+   801054
+  ],
+  "Limitnumber": 2,
+  "Weights": 53
+ },
+ {
+  "ID": 55,
+  "Type": 1004,
+  "Reward": [
+   801055
+  ],
+  "Limitnumber": 2,
+  "Weights": 11
+ },
+ {
+  "ID": 56,
+  "Type": 1004,
+  "Reward": [
+   801056
+  ],
+  "Limitnumber": 0,
+  "Weights": 334
+ },
+ {
+  "ID": 57,
+  "Type": 1004,
+  "Reward": [
+   801057
+  ],
+  "Limitnumber": 0,
+  "Weights": 534
+ },
+ {
+  "ID": 58,
+  "Type": 1004,
+  "Reward": [
+   801058
+  ],
+  "Limitnumber": 0,
+  "Weights": 214
+ },
+ {
+  "ID": 59,
+  "Type": 1004,
+  "Reward": [
+   801059
+  ],
+  "Limitnumber": 0,
+  "Weights": 534
+ },
+ {
+  "ID": 60,
+  "Type": 1004,
+  "Reward": [
+   801060
+  ],
+  "Limitnumber": 0,
+  "Weights": 3739
+ }
+]

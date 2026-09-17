@@ -1,0 +1,492 @@
+[
+ {
+  "CardLotteryID": 10000,
+  "Name": "Unit_HeroSummon",
+  "Instruct": [
+   "Unit_HeroSummon",
+   "Unit_HeroSummon_Instruct2",
+   "Unit_HeroSummon_Instruct3"
+  ],
+  "scene": "SunmmonBg_Troop",
+  "bannerButtonBD": "ck_pic_ChangZhu",
+  "shopBD": "Icon_Func_100",
+  "luckySummonBD": "ck_btn_icon2",
+  "luckySummonDesc": "Unit_LuckySummonTitle",
+  "bonusBD": "Icon_Func_4021",
+  "Rule": "Unit_HeroSummon_Instruct_Rule",
+  "UnlockText": "",
+  "CumulativeReward": "Unit_HeroUpSummon_JackpotText03",
+  "JackpotName": "Unit_HeroUpSummon_JackpotText03"
+ },
+ {
+  "CardLotteryID": 30000,
+  "Name": "Unit_HeroUpSummon",
+  "Instruct": [
+   "Unit_HeroUpSummon",
+   "Unit_HeroUpSummon_Instruct2",
+   "Unit_HeroUpSummon_Instruct3"
+  ],
+  "scene": "SunmmonBg_Troop02",
+  "bannerButtonBD": "ck_pic_UP",
+  "shopBD": "Icon_Func_100",
+  "luckySummonBD": "",
+  "luckySummonDesc": "",
+  "bonusBD": "",
+  "Rule": "Unit_HeroSummon_Instruct_Rule",
+  "UnlockText": "Unit_HeroUpSummon_UnlockText",
+  "CumulativeReward": "Unit_HeroUpSummon_JackpotText01",
+  "JackpotName": "Unit_HeroUpSummon_JackpotText02"
+ },
+ {
+  "CardLotteryID": 50000,
+  "Name": "",
+  "Instruct": [],
+  "scene": "SunmmonBg_Troop1001",
+  "bannerButtonBD": "",
+  "shopBD": "",
+  "luckySummonBD": "",
+  "luckySummonDesc": "",
+  "bonusBD": "",
+  "Rule": "",
+  "UnlockText": "",
+  "CumulativeReward": "",
+  "JackpotName": ""
+ },
+ {
+  "CardLotteryID": 30001,
+  "Name": "Unit_HeroUpSummon",
+  "Instruct": [
+   "Unit_HeroUpSummon",
+   "Unit_HeroUpSummon_Instruct2",
+   "Unit_HeroUpSummon_Instruct3"
+  ],
+  "scene": "SunmmonBg_Troop02",
+  "bannerButtonBD": "ck_pic_UP",
+  "shopBD": "Icon_Func_100",
+  "luckySummonBD": "",
+  "luckySummonDesc": "",
+  "bonusBD": "",
+  "Rule": "Unit_HeroSummon_Instruct_Rule",
+  "UnlockText": "Unit_HeroUpSummon_UnlockText",
+  "CumulativeReward": "Unit_HeroUpSummon_JackpotText01",
+  "JackpotName": "Unit_HeroUpSummon_JackpotText02"
+ },
+ {
+  "CardLotteryID": 60000,
+  "Name": "Unit_RuneSummon",
+  "Instruct": [
+   "Unit_RuneSummon",
+   "Unit_RuneSummon_Instruct2",
+   "Unit_RuneSummon_Instruct3"
+  ],
+  "scene": "SunmmonBg_Rune",
+  "bannerButtonBD": "ck_pic_Rune",
+  "shopBD": "Icon_Func_100",
+  "luckySummonBD": "",
+  "luckySummonDesc": "",
+  "bonusBD": "",
+  "Rule": "Unit_RuneSummon_Instruct_Rule",
+  "UnlockText": "",
+  "CumulativeReward": "Unit_RuneUpSummon_JackpotText03",
+  "JackpotName": "Unit_RuneUpSummon_JackpotText03"
+ },
+ {
+  "CardLotteryID": 70000,
+  "Name": "Unit_RuneSummon",
+  "Instruct": [
+   "Unit_RuneSummon",
+   "Unit_RuneSummon_Instruct2",
+   "Unit_RuneSummon_Instruct3"
+  ],
+  "scene": "SunmmonBg_Rune",
+  "bannerButtonBD": "ck_pic_Rune",
+  "shopBD": "Icon_Func_100",
+  "luckySummonBD": "",
+  "luckySummonDesc": "",
+  "bonusBD": "",
+  "Rule": "Unit_RuneSummon_Instruct_Rule",
+  "UnlockText": "",
+  "CumulativeReward": "Unit_RuneUpSummon_JackpotText03",
+  "JackpotName": "Unit_RuneUpSummon_JackpotText03"
+ },
+ {
+  "CardLotteryID": 70001,
+  "Name": "Unit_RuneSummon",
+  "Instruct": [
+   "Unit_RuneSummon",
+   "Unit_RuneSummon_Instruct2",
+   "Unit_RuneSummon_Instruct3"
+  ],
+  "scene": "SunmmonBg_Rune",
+  "bannerButtonBD": "ck_pic_Rune",
+  "shopBD": "Icon_Func_100",
+  "luckySummonBD": "",
+  "luckySummonDesc": "",
+  "bonusBD": "",
+  "Rule": "Unit_RuneSummon_Instruct_Rule",
+  "UnlockText": "",
+  "CumulativeReward": "Unit_RuneUpSummon_JackpotText03",
+  "JackpotName": "Unit_RuneUpSummon_JackpotText03"
+ },
+ {
+  "CardLotteryID": 80000,
+  "Name": "Unit_RuneSummon",
+  "Instruct": [
+   "Unit_RuneSummon",
+   "Unit_RuneSummon_Instruct2",
+   "Unit_RuneSummon_Instruct3"
+  ],
+  "scene": "SunmmonBg_Rune",
+  "bannerButtonBD": "ck_pic_Rune",
+  "shopBD": "Icon_Func_100",
+  "luckySummonBD": "",
+  "luckySummonDesc": "",
+  "bonusBD": "",
+  "Rule": "Unit_RuneSummon_Instruct_Rule",
+  "UnlockText": "",
+  "CumulativeReward": "Unit_RuneUpSummon_JackpotText03",
+  "JackpotName": "Unit_RuneUpSummon_JackpotText03"
+ },
+ {
+  "CardLotteryID": 90001,
+  "Name": "Unit_HeroSummon",
+  "Instruct": [
+   "Unit_HeroSummon",
+   "Unit_HeroSummon_Instruct2",
+   "Unit_HeroSummon_Instruct3"
+  ],
+  "scene": "SunmmonBg_Troop",
+  "bannerButtonBD": "ck_pic_ChangZhu",
+  "shopBD": "Icon_Func_100",
+  "luckySummonBD": "ck_btn_icon2",
+  "luckySummonDesc": "Unit_LuckySummonTitle",
+  "bonusBD": "Icon_Func_4021",
+  "Rule": "Unit_HeroSummon_Instruct_Rule",
+  "UnlockText": "",
+  "CumulativeReward": "Unit_HeroUpSummon_JackpotText03",
+  "JackpotName": "Unit_HeroUpSummon_JackpotText03"
+ },
+ {
+  "CardLotteryID": 90002,
+  "Name": "Unit_HeroSummon",
+  "Instruct": [
+   "Unit_HeroSummon",
+   "Unit_HeroSummon_Instruct2",
+   "Unit_HeroSummon_Instruct3"
+  ],
+  "scene": "SunmmonBg_Troop",
+  "bannerButtonBD": "ck_pic_ChangZhu",
+  "shopBD": "Icon_Func_100",
+  "luckySummonBD": "ck_btn_icon2",
+  "luckySummonDesc": "Unit_LuckySummonTitle",
+  "bonusBD": "Icon_Func_4021",
+  "Rule": "Unit_HeroSummon_Instruct_Rule",
+  "UnlockText": "",
+  "CumulativeReward": "Unit_HeroUpSummon_JackpotText03",
+  "JackpotName": "Unit_HeroUpSummon_JackpotText03"
+ },
+ {
+  "CardLotteryID": 90003,
+  "Name": "Unit_HeroSummon",
+  "Instruct": [
+   "Unit_HeroSummon",
+   "Unit_HeroSummon_Instruct2",
+   "Unit_HeroSummon_Instruct3"
+  ],
+  "scene": "SunmmonBg_Troop",
+  "bannerButtonBD": "ck_pic_ChangZhu",
+  "shopBD": "Icon_Func_100",
+  "luckySummonBD": "ck_btn_icon2",
+  "luckySummonDesc": "Unit_LuckySummonTitle",
+  "bonusBD": "Icon_Func_4021",
+  "Rule": "Unit_HeroSummon_Instruct_Rule",
+  "UnlockText": "",
+  "CumulativeReward": "Unit_HeroUpSummon_JackpotText03",
+  "JackpotName": "Unit_HeroUpSummon_JackpotText03"
+ },
+ {
+  "CardLotteryID": 90004,
+  "Name": "Unit_HeroSummon",
+  "Instruct": [
+   "Unit_HeroSummon",
+   "Unit_HeroSummon_Instruct2",
+   "Unit_HeroSummon_Instruct3"
+  ],
+  "scene": "SunmmonBg_Troop",
+  "bannerButtonBD": "ck_pic_ChangZhu",
+  "shopBD": "Icon_Func_100",
+  "luckySummonBD": "ck_btn_icon2",
+  "luckySummonDesc": "Unit_LuckySummonTitle",
+  "bonusBD": "Icon_Func_4021",
+  "Rule": "Unit_HeroSummon_Instruct_Rule",
+  "UnlockText": "",
+  "CumulativeReward": "Unit_HeroUpSummon_JackpotText03",
+  "JackpotName": "Unit_HeroUpSummon_JackpotText03"
+ },
+ {
+  "CardLotteryID": 90005,
+  "Name": "Unit_HeroSummon",
+  "Instruct": [
+   "Unit_HeroSummon",
+   "Unit_HeroSummon_Instruct2",
+   "Unit_HeroSummon_Instruct3"
+  ],
+  "scene": "SunmmonBg_Troop",
+  "bannerButtonBD": "ck_pic_ChangZhu",
+  "shopBD": "Icon_Func_100",
+  "luckySummonBD": "ck_btn_icon2",
+  "luckySummonDesc": "Unit_LuckySummonTitle",
+  "bonusBD": "Icon_Func_4021",
+  "Rule": "Unit_HeroSummon_Instruct_Rule",
+  "UnlockText": "",
+  "CumulativeReward": "Unit_HeroUpSummon_JackpotText03",
+  "JackpotName": "Unit_HeroUpSummon_JackpotText03"
+ },
+ {
+  "CardLotteryID": 100001,
+  "Name": "Unit_HeroUpSummon",
+  "Instruct": [
+   "Unit_HeroUpSummon",
+   "Unit_HeroUpSummon_Instruct2",
+   "Unit_HeroUpSummon_Instruct3"
+  ],
+  "scene": "SunmmonBg_Troop02",
+  "bannerButtonBD": "ck_pic_UP",
+  "shopBD": "Icon_Func_100",
+  "luckySummonBD": "",
+  "luckySummonDesc": "",
+  "bonusBD": "",
+  "Rule": "Unit_HeroSummon_Instruct_Rule",
+  "UnlockText": "Unit_HeroUpSummon_UnlockText",
+  "CumulativeReward": "Unit_HeroUpSummon_JackpotText01",
+  "JackpotName": "Unit_HeroUpSummon_JackpotText02"
+ },
+ {
+  "CardLotteryID": 110001,
+  "Name": "Unit_HeroUpSummon",
+  "Instruct": [
+   "Unit_HeroUpSummon",
+   "Unit_HeroUpSummon_Instruct2",
+   "Unit_HeroUpSummon_Instruct3"
+  ],
+  "scene": "SunmmonBg_Troop02",
+  "bannerButtonBD": "ck_pic_UP",
+  "shopBD": "Icon_Func_100",
+  "luckySummonBD": "",
+  "luckySummonDesc": "",
+  "bonusBD": "",
+  "Rule": "Unit_HeroSummon_Instruct_Rule",
+  "UnlockText": "Unit_HeroUpSummon_UnlockText",
+  "CumulativeReward": "Unit_HeroUpSummon_JackpotText01",
+  "JackpotName": "Unit_HeroUpSummon_JackpotText02"
+ },
+ {
+  "CardLotteryID": 110002,
+  "Name": "Unit_HeroUpSummon",
+  "Instruct": [
+   "Unit_HeroUpSummon",
+   "Unit_HeroUpSummon_Instruct2",
+   "Unit_HeroUpSummon_Instruct3"
+  ],
+  "scene": "SunmmonBg_Troop02",
+  "bannerButtonBD": "ck_pic_UP",
+  "shopBD": "Icon_Func_100",
+  "luckySummonBD": "",
+  "luckySummonDesc": "",
+  "bonusBD": "",
+  "Rule": "Unit_HeroSummon_Instruct_Rule",
+  "UnlockText": "Unit_HeroUpSummon_UnlockText",
+  "CumulativeReward": "Unit_HeroUpSummon_JackpotText01",
+  "JackpotName": "Unit_HeroUpSummon_JackpotText02"
+ },
+ {
+  "CardLotteryID": 110003,
+  "Name": "Unit_HeroUpSummon",
+  "Instruct": [
+   "Unit_HeroUpSummon",
+   "Unit_HeroUpSummon_Instruct2",
+   "Unit_HeroUpSummon_Instruct3"
+  ],
+  "scene": "SunmmonBg_Troop02",
+  "bannerButtonBD": "ck_pic_UP",
+  "shopBD": "Icon_Func_100",
+  "luckySummonBD": "",
+  "luckySummonDesc": "",
+  "bonusBD": "",
+  "Rule": "Unit_HeroSummon_Instruct_Rule",
+  "UnlockText": "Unit_HeroUpSummon_UnlockText",
+  "CumulativeReward": "Unit_HeroUpSummon_JackpotText01",
+  "JackpotName": "Unit_HeroUpSummon_JackpotText02"
+ },
+ {
+  "CardLotteryID": 110004,
+  "Name": "Unit_HeroUpSummon",
+  "Instruct": [
+   "Unit_HeroUpSummon",
+   "Unit_HeroUpSummon_Instruct2",
+   "Unit_HeroUpSummon_Instruct3"
+  ],
+  "scene": "SunmmonBg_Troop02",
+  "bannerButtonBD": "ck_pic_UP",
+  "shopBD": "Icon_Func_100",
+  "luckySummonBD": "",
+  "luckySummonDesc": "",
+  "bonusBD": "",
+  "Rule": "Unit_HeroSummon_Instruct_Rule",
+  "UnlockText": "Unit_HeroUpSummon_UnlockText",
+  "CumulativeReward": "Unit_HeroUpSummon_JackpotText01",
+  "JackpotName": "Unit_HeroUpSummon_JackpotText02"
+ },
+ {
+  "CardLotteryID": 110005,
+  "Name": "Unit_HeroUpSummon",
+  "Instruct": [
+   "Unit_HeroUpSummon",
+   "Unit_HeroUpSummon_Instruct2",
+   "Unit_HeroUpSummon_Instruct3"
+  ],
+  "scene": "SunmmonBg_Troop02",
+  "bannerButtonBD": "ck_pic_UP",
+  "shopBD": "Icon_Func_100",
+  "luckySummonBD": "",
+  "luckySummonDesc": "",
+  "bonusBD": "",
+  "Rule": "Unit_HeroSummon_Instruct_Rule",
+  "UnlockText": "Unit_HeroUpSummon_UnlockText",
+  "CumulativeReward": "Unit_HeroUpSummon_JackpotText01",
+  "JackpotName": "Unit_HeroUpSummon_JackpotText02"
+ },
+ {
+  "CardLotteryID": 110006,
+  "Name": "Unit_HeroUpSummon",
+  "Instruct": [
+   "Unit_HeroUpSummon",
+   "Unit_HeroUpSummon_Instruct2",
+   "Unit_HeroUpSummon_Instruct3"
+  ],
+  "scene": "SunmmonBg_Troop02",
+  "bannerButtonBD": "ck_pic_UP",
+  "shopBD": "Icon_Func_100",
+  "luckySummonBD": "",
+  "luckySummonDesc": "",
+  "bonusBD": "",
+  "Rule": "Unit_HeroSummon_Instruct_Rule",
+  "UnlockText": "Unit_HeroUpSummon_UnlockText",
+  "CumulativeReward": "Unit_HeroUpSummon_JackpotText01",
+  "JackpotName": "Unit_HeroUpSummon_JackpotText02"
+ },
+ {
+  "CardLotteryID": 110007,
+  "Name": "Unit_HeroUpSummon",
+  "Instruct": [
+   "Unit_HeroUpSummon",
+   "Unit_HeroUpSummon_Instruct2",
+   "Unit_HeroUpSummon_Instruct3"
+  ],
+  "scene": "SunmmonBg_Troop02",
+  "bannerButtonBD": "ck_pic_UP",
+  "shopBD": "Icon_Func_100",
+  "luckySummonBD": "",
+  "luckySummonDesc": "",
+  "bonusBD": "",
+  "Rule": "Unit_HeroSummon_Instruct_Rule",
+  "UnlockText": "Unit_HeroUpSummon_UnlockText",
+  "CumulativeReward": "Unit_HeroUpSummon_JackpotText01",
+  "JackpotName": "Unit_HeroUpSummon_JackpotText02"
+ },
+ {
+  "CardLotteryID": 110008,
+  "Name": "Unit_HeroUpSummon",
+  "Instruct": [
+   "Unit_HeroUpSummon",
+   "Unit_HeroUpSummon_Instruct2",
+   "Unit_HeroUpSummon_Instruct3"
+  ],
+  "scene": "SunmmonBg_Troop02",
+  "bannerButtonBD": "ck_pic_UP",
+  "shopBD": "Icon_Func_100",
+  "luckySummonBD": "",
+  "luckySummonDesc": "",
+  "bonusBD": "",
+  "Rule": "Unit_HeroSummon_Instruct_Rule",
+  "UnlockText": "Unit_HeroUpSummon_UnlockText",
+  "CumulativeReward": "Unit_HeroUpSummon_JackpotText01",
+  "JackpotName": "Unit_HeroUpSummon_JackpotText02"
+ },
+ {
+  "CardLotteryID": 80001,
+  "Name": "Unit_HeroUpSummon",
+  "Instruct": [
+   "Unit_HeroUpSummon",
+   "Unit_HeroUpSummon_Instruct2",
+   "Unit_HeroUpSummon_Instruct3"
+  ],
+  "scene": "SunmmonBg_Troop02",
+  "bannerButtonBD": "ck_pic_UP",
+  "shopBD": "Icon_Func_100",
+  "luckySummonBD": "",
+  "luckySummonDesc": "",
+  "bonusBD": "",
+  "Rule": "Unit_HeroSummon_Instruct_Rule",
+  "UnlockText": "Unit_HeroUpSummon_UnlockText",
+  "CumulativeReward": "Unit_HeroUpSummon_JackpotText01",
+  "JackpotName": "Unit_HeroUpSummon_JackpotText02"
+ },
+ {
+  "CardLotteryID": 80002,
+  "Name": "Unit_HeroUpSummon",
+  "Instruct": [
+   "Unit_HeroUpSummon",
+   "Unit_HeroUpSummon_Instruct2",
+   "Unit_HeroUpSummon_Instruct3"
+  ],
+  "scene": "SunmmonBg_Troop02",
+  "bannerButtonBD": "ck_pic_UP",
+  "shopBD": "Icon_Func_100",
+  "luckySummonBD": "",
+  "luckySummonDesc": "",
+  "bonusBD": "",
+  "Rule": "Unit_HeroSummon_Instruct_Rule",
+  "UnlockText": "Unit_HeroUpSummon_UnlockText",
+  "CumulativeReward": "Unit_HeroUpSummon_JackpotText01",
+  "JackpotName": "Unit_HeroUpSummon_JackpotText02"
+ },
+ {
+  "CardLotteryID": 70002,
+  "Name": "Unit_HeroUpSummon",
+  "Instruct": [
+   "Unit_HeroUpSummon",
+   "Unit_HeroUpSummon_Instruct2",
+   "Unit_HeroUpSummon_Instruct3"
+  ],
+  "scene": "SunmmonBg_Troop02",
+  "bannerButtonBD": "ck_pic_UP",
+  "shopBD": "Icon_Func_100",
+  "luckySummonBD": "",
+  "luckySummonDesc": "",
+  "bonusBD": "",
+  "Rule": "Unit_HeroSummon_Instruct_Rule",
+  "UnlockText": "Unit_HeroUpSummon_UnlockText",
+  "CumulativeReward": "Unit_HeroUpSummon_JackpotText01",
+  "JackpotName": "Unit_HeroUpSummon_JackpotText02"
+ },
+ {
+  "CardLotteryID": 70003,
+  "Name": "Unit_HeroUpSummon",
+  "Instruct": [
+   "Unit_HeroUpSummon",
+   "Unit_HeroUpSummon_Instruct2",
+   "Unit_HeroUpSummon_Instruct3"
+  ],
+  "scene": "SunmmonBg_Troop02",
+  "bannerButtonBD": "ck_pic_UP",
+  "shopBD": "Icon_Func_100",
+  "luckySummonBD": "",
+  "luckySummonDesc": "",
+  "bonusBD": "",
+  "Rule": "Unit_HeroSummon_Instruct_Rule",
+  "UnlockText": "Unit_HeroUpSummon_UnlockText",
+  "CumulativeReward": "Unit_HeroUpSummon_JackpotText01",
+  "JackpotName": "Unit_HeroUpSummon_JackpotText02"
+ }
+]

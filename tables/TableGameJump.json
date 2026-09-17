@@ -1,0 +1,310 @@
+[
+ {
+  "id": 1,
+  "ChapterLimit": 400,
+  "DayLimit": 1,
+  "ChapterReward": [
+   14030403,
+   1,
+   124,
+   20
+  ]
+ },
+ {
+  "id": 2,
+  "ChapterLimit": 420,
+  "DayLimit": 2,
+  "ChapterReward": [
+   124,
+   10,
+   124,
+   10
+  ]
+ },
+ {
+  "id": 3,
+  "ChapterLimit": 440,
+  "DayLimit": 3,
+  "ChapterReward": [
+   124,
+   10,
+   124,
+   10
+  ]
+ },
+ {
+  "id": 4,
+  "ChapterLimit": 460,
+  "DayLimit": 4,
+  "ChapterReward": [
+   124,
+   10,
+   124,
+   10
+  ]
+ },
+ {
+  "id": 5,
+  "ChapterLimit": 480,
+  "DayLimit": 5,
+  "ChapterReward": [
+   124,
+   10,
+   124,
+   10
+  ]
+ },
+ {
+  "id": 6,
+  "ChapterLimit": 500,
+  "DayLimit": 6,
+  "ChapterReward": [
+   124,
+   10,
+   124,
+   10
+  ]
+ },
+ {
+  "id": 7,
+  "ChapterLimit": 520,
+  "DayLimit": 7,
+  "ChapterReward": [
+   14030403,
+   1,
+   124,
+   20
+  ]
+ },
+ {
+  "id": 8,
+  "ChapterLimit": 540,
+  "DayLimit": 8,
+  "ChapterReward": [
+   124,
+   10,
+   124,
+   10
+  ]
+ },
+ {
+  "id": 9,
+  "ChapterLimit": 560,
+  "DayLimit": 9,
+  "ChapterReward": [
+   124,
+   10,
+   124,
+   10
+  ]
+ },
+ {
+  "id": 10,
+  "ChapterLimit": 580,
+  "DayLimit": 10,
+  "ChapterReward": [
+   124,
+   10,
+   124,
+   10
+  ]
+ },
+ {
+  "id": 11,
+  "ChapterLimit": 600,
+  "DayLimit": 11,
+  "ChapterReward": [
+   124,
+   10,
+   124,
+   10
+  ]
+ },
+ {
+  "id": 12,
+  "ChapterLimit": 620,
+  "DayLimit": 12,
+  "ChapterReward": [
+   124,
+   10,
+   124,
+   10
+  ]
+ },
+ {
+  "id": 13,
+  "ChapterLimit": 640,
+  "DayLimit": 13,
+  "ChapterReward": [
+   124,
+   10,
+   124,
+   10
+  ]
+ },
+ {
+  "id": 14,
+  "ChapterLimit": 660,
+  "DayLimit": 14,
+  "ChapterReward": [
+   14030403,
+   1,
+   124,
+   20
+  ]
+ },
+ {
+  "id": 15,
+  "ChapterLimit": 680,
+  "DayLimit": 15,
+  "ChapterReward": [
+   124,
+   10,
+   124,
+   10
+  ]
+ },
+ {
+  "id": 16,
+  "ChapterLimit": 700,
+  "DayLimit": 16,
+  "ChapterReward": [
+   124,
+   10,
+   124,
+   10
+  ]
+ },
+ {
+  "id": 17,
+  "ChapterLimit": 720,
+  "DayLimit": 17,
+  "ChapterReward": [
+   124,
+   10,
+   124,
+   10
+  ]
+ },
+ {
+  "id": 18,
+  "ChapterLimit": 740,
+  "DayLimit": 18,
+  "ChapterReward": [
+   124,
+   10,
+   124,
+   10
+  ]
+ },
+ {
+  "id": 19,
+  "ChapterLimit": 760,
+  "DayLimit": 19,
+  "ChapterReward": [
+   124,
+   10,
+   124,
+   10
+  ]
+ },
+ {
+  "id": 20,
+  "ChapterLimit": 780,
+  "DayLimit": 20,
+  "ChapterReward": [
+   124,
+   10,
+   124,
+   10
+  ]
+ },
+ {
+  "id": 21,
+  "ChapterLimit": 800,
+  "DayLimit": 21,
+  "ChapterReward": [
+   14030403,
+   1,
+   124,
+   20
+  ]
+ },
+ {
+  "id": 22,
+  "ChapterLimit": 820,
+  "DayLimit": 22,
+  "ChapterReward": [
+   124,
+   10,
+   124,
+   10
+  ]
+ },
+ {
+  "id": 23,
+  "ChapterLimit": 840,
+  "DayLimit": 23,
+  "ChapterReward": [
+   124,
+   10,
+   124,
+   10
+  ]
+ },
+ {
+  "id": 24,
+  "ChapterLimit": 860,
+  "DayLimit": 24,
+  "ChapterReward": [
+   124,
+   10,
+   124,
+   10
+  ]
+ },
+ {
+  "id": 25,
+  "ChapterLimit": 880,
+  "DayLimit": 25,
+  "ChapterReward": [
+   124,
+   10,
+   124,
+   10
+  ]
+ },
+ {
+  "id": 26,
+  "ChapterLimit": 900,
+  "DayLimit": 26,
+  "ChapterReward": [
+   124,
+   10,
+   124,
+   10
+  ]
+ },
+ {
+  "id": 27,
+  "ChapterLimit": 920,
+  "DayLimit": 27,
+  "ChapterReward": [
+   124,
+   10,
+   124,
+   10
+  ]
+ },
+ {
+  "id": 28,
+  "ChapterLimit": 1000,
+  "DayLimit": 28,
+  "ChapterReward": [
+   14030403,
+   1,
+   124,
+   20
+  ]
+ }
+]

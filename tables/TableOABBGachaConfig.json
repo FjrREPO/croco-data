@@ -1,0 +1,42 @@
+[
+ {
+  "ID": 1,
+  "Duration": 7,
+  "GachaReward": 1001,
+  "GachaExtraReward": 1001,
+  "TaskType": 12,
+  "Exchange": 47,
+  "gift": 51,
+  "IsUse": 0
+ },
+ {
+  "ID": 2,
+  "Duration": 7,
+  "GachaReward": 1002,
+  "GachaExtraReward": 1002,
+  "TaskType": 13,
+  "Exchange": 48,
+  "gift": 52,
+  "IsUse": 1
+ },
+ {
+  "ID": 3,
+  "Duration": 7,
+  "GachaReward": 1003,
+  "GachaExtraReward": 1003,
+  "TaskType": 14,
+  "Exchange": 49,
+  "gift": 53,
+  "IsUse": 1
+ },
+ {
+  "ID": 4,
+  "Duration": 7,
+  "GachaReward": 1004,
+  "GachaExtraReward": 1004,
+  "TaskType": 15,
+  "Exchange": 50,
+  "gift": 54,
+  "IsUse": 0
+ }
+]

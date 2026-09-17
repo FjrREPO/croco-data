@@ -1,0 +1,11638 @@
+[
+ {
+  "NumKey": "@100180",
+  "ShowType": 2,
+  "NumType": 1,
+  "DefaultVal": 2000,
+  "MinVal": 1000,
+  "MaxVal": 2000,
+  "LevelList": [],
+  "ScoreFactors": [
+   0,
+   1,
+   4
+  ]
+ },
+ {
+  "NumKey": "@100190",
+  "ShowType": 2,
+  "NumType": 1,
+  "DefaultVal": 5000,
+  "MinVal": 2500,
+  "MaxVal": 5000,
+  "LevelList": [],
+  "ScoreFactors": [
+   0,
+   1,
+   10
+  ]
+ },
+ {
+  "NumKey": "@100200",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 20,
+  "MinVal": 10,
+  "MaxVal": 20,
+  "LevelList": [],
+  "ScoreFactors": [
+   0,
+   50,
+   1
+  ]
+ },
+ {
+  "NumKey": "@100210",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 10,
+  "MinVal": 5,
+  "MaxVal": 10,
+  "LevelList": [],
+  "ScoreFactors": [
+   0,
+   100,
+   1
+  ]
+ },
+ {
+  "NumKey": "@100220",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 20,
+  "MinVal": 10,
+  "MaxVal": 20,
+  "LevelList": [],
+  "ScoreFactors": [
+   0,
+   50,
+   1
+  ]
+ },
+ {
+  "NumKey": "@100230",
+  "ShowType": 1,
+  "NumType": 2,
+  "DefaultVal": 5,
+  "MinVal": 0,
+  "MaxVal": 0,
+  "LevelList": [
+   5,
+   6,
+   7,
+   8,
+   9,
+   10
+  ],
+  "ScoreFactors": [
+   750,
+   -50,
+   1
+  ]
+ },
+ {
+  "NumKey": "@100240",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 10,
+  "MinVal": 5,
+  "MaxVal": 10,
+  "LevelList": [],
+  "ScoreFactors": [
+   0,
+   100,
+   1
+  ]
+ },
+ {
+  "NumKey": "@100250",
+  "ShowType": 1,
+  "NumType": 2,
+  "DefaultVal": 5,
+  "MinVal": 0,
+  "MaxVal": 0,
+  "LevelList": [
+   5,
+   6,
+   7,
+   8,
+   9,
+   10
+  ],
+  "ScoreFactors": [
+   1500,
+   -100,
+   1
+  ]
+ },
+ {
+  "NumKey": "@100260",
+  "ShowType": 1,
+  "NumType": 2,
+  "DefaultVal": 3,
+  "MinVal": 0,
+  "MaxVal": 0,
+  "LevelList": [
+   3,
+   4,
+   5,
+   6
+  ],
+  "ScoreFactors": [
+   800,
+   -100,
+   1
+  ]
+ },
+ {
+  "NumKey": "@100270",
+  "ShowType": 2,
+  "NumType": 1,
+  "DefaultVal": 600,
+  "MinVal": 300,
+  "MaxVal": 600,
+  "LevelList": [],
+  "ScoreFactors": [
+   0,
+   250,
+   1
+  ]
+ },
+ {
+  "NumKey": "@100280",
+  "ShowType": 1,
+  "NumType": 2,
+  "DefaultVal": 3,
+  "MinVal": 0,
+  "MaxVal": 0,
+  "LevelList": [
+   3,
+   4,
+   5,
+   6
+  ],
+  "ScoreFactors": [
+   800,
+   -100,
+   1
+  ]
+ },
+ {
+  "NumKey": "@100290",
+  "ShowType": 2,
+  "NumType": 1,
+  "DefaultVal": 100,
+  "MinVal": 50,
+  "MaxVal": 100,
+  "LevelList": [],
+  "ScoreFactors": [
+   0,
+   5,
+   1
+  ]
+ },
+ {
+  "NumKey": "@100300",
+  "ShowType": 2,
+  "NumType": 1,
+  "DefaultVal": 5000,
+  "MinVal": 2500,
+  "MaxVal": 5000,
+  "LevelList": [],
+  "ScoreFactors": [
+   0,
+   1,
+   10
+  ]
+ },
+ {
+  "NumKey": "@100310",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 20,
+  "MinVal": 10,
+  "MaxVal": 20,
+  "LevelList": [],
+  "ScoreFactors": [
+   0,
+   50,
+   1
+  ]
+ },
+ {
+  "NumKey": "@100320",
+  "ShowType": 2,
+  "NumType": 1,
+  "DefaultVal": 200,
+  "MinVal": 100,
+  "MaxVal": 200,
+  "LevelList": [],
+  "ScoreFactors": [
+   0,
+   5,
+   2
+  ]
+ },
+ {
+  "NumKey": "@100330",
+  "ShowType": 2,
+  "NumType": 1,
+  "DefaultVal": 300,
+  "MinVal": 100,
+  "MaxVal": 300,
+  "LevelList": [],
+  "ScoreFactors": [
+   500,
+   15,
+   10
+  ]
+ },
+ {
+  "NumKey": "@100340",
+  "ShowType": 2,
+  "NumType": 1,
+  "DefaultVal": 300,
+  "MinVal": 100,
+  "MaxVal": 300,
+  "LevelList": [],
+  "ScoreFactors": [
+   500,
+   15,
+   10
+  ]
+ },
+ {
+  "NumKey": "@100350",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 40,
+  "MinVal": 20,
+  "MaxVal": 40,
+  "LevelList": [],
+  "ScoreFactors": [
+   0,
+   25,
+   1
+  ]
+ },
+ {
+  "NumKey": "@100360",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 20,
+  "MinVal": 10,
+  "MaxVal": 20,
+  "LevelList": [],
+  "ScoreFactors": [
+   0,
+   50,
+   1
+  ]
+ },
+ {
+  "NumKey": "@100370",
+  "ShowType": 2,
+  "NumType": 1,
+  "DefaultVal": 4000,
+  "MinVal": 2000,
+  "MaxVal": 4000,
+  "LevelList": [],
+  "ScoreFactors": [
+   0,
+   1,
+   8
+  ]
+ },
+ {
+  "NumKey": "@100380",
+  "ShowType": 2,
+  "NumType": 1,
+  "DefaultVal": -10000,
+  "MinVal": -2500,
+  "MaxVal": -10000,
+  "LevelList": [],
+  "ScoreFactors": [
+   0,
+   1,
+   10
+  ]
+ },
+ {
+  "NumKey": "@100390",
+  "ShowType": 2,
+  "NumType": 1,
+  "DefaultVal": 500,
+  "MinVal": 250,
+  "MaxVal": 500,
+  "LevelList": [],
+  "ScoreFactors": [
+   0,
+   2,
+   1
+  ]
+ },
+ {
+  "NumKey": "@100400",
+  "ShowType": 2,
+  "NumType": 1,
+  "DefaultVal": 500,
+  "MinVal": 100,
+  "MaxVal": 500,
+  "LevelList": [],
+  "ScoreFactors": [
+   0,
+   2,
+   1
+  ]
+ },
+ {
+  "NumKey": "@100410",
+  "ShowType": 2,
+  "NumType": 1,
+  "DefaultVal": 25000,
+  "MinVal": 12500,
+  "MaxVal": 25000,
+  "LevelList": [],
+  "ScoreFactors": [
+   0,
+   1,
+   25
+  ]
+ },
+ {
+  "NumKey": "@100420",
+  "ShowType": 2,
+  "NumType": 1,
+  "DefaultVal": 500,
+  "MinVal": 250,
+  "MaxVal": 500,
+  "LevelList": [],
+  "ScoreFactors": [
+   0,
+   2,
+   1
+  ]
+ },
+ {
+  "NumKey": "@100430",
+  "ShowType": 2,
+  "NumType": 1,
+  "DefaultVal": 1000,
+  "MinVal": 1000,
+  "MaxVal": 1000,
+  "LevelList": [],
+  "ScoreFactors": [
+   0,
+   1,
+   1
+  ]
+ },
+ {
+  "NumKey": "@100440",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 40,
+  "MinVal": 20,
+  "MaxVal": 40,
+  "LevelList": [],
+  "ScoreFactors": [
+   0,
+   25,
+   2
+  ]
+ },
+ {
+  "NumKey": "@100450",
+  "ShowType": 1,
+  "NumType": 2,
+  "DefaultVal": 5,
+  "MinVal": 0,
+  "MaxVal": 0,
+  "LevelList": [
+   5,
+   6,
+   7,
+   8,
+   9,
+   10
+  ],
+  "ScoreFactors": [
+   750,
+   -50,
+   1
+  ]
+ },
+ {
+  "NumKey": "@100460",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 20,
+  "MinVal": 10,
+  "MaxVal": 20,
+  "LevelList": [],
+  "ScoreFactors": [
+   0,
+   50,
+   1
+  ]
+ },
+ {
+  "NumKey": "@100500",
+  "ShowType": 2,
+  "NumType": 1,
+  "DefaultVal": 4000,
+  "MinVal": 1000,
+  "MaxVal": 4000,
+  "LevelList": [],
+  "ScoreFactors": [
+   10,
+   33,
+   1
+  ]
+ },
+ {
+  "NumKey": "@100510",
+  "ShowType": 2,
+  "NumType": 1,
+  "DefaultVal": 4000,
+  "MinVal": 1000,
+  "MaxVal": 4000,
+  "LevelList": [],
+  "ScoreFactors": [
+   10,
+   33,
+   1
+  ]
+ },
+ {
+  "NumKey": "@100520",
+  "ShowType": 2,
+  "NumType": 1,
+  "DefaultVal": 4000,
+  "MinVal": 1000,
+  "MaxVal": 4000,
+  "LevelList": [],
+  "ScoreFactors": [
+   0,
+   1,
+   4
+  ]
+ },
+ {
+  "NumKey": "@100530",
+  "ShowType": 2,
+  "NumType": 1,
+  "DefaultVal": 4000,
+  "MinVal": 1000,
+  "MaxVal": 4000,
+  "LevelList": [],
+  "ScoreFactors": [
+   0,
+   1,
+   4
+  ]
+ },
+ {
+  "NumKey": "@100540",
+  "ShowType": 2,
+  "NumType": 1,
+  "DefaultVal": 3000,
+  "MinVal": 875,
+  "MaxVal": 3000,
+  "LevelList": [],
+  "ScoreFactors": [
+   10,
+   33,
+   1
+  ]
+ },
+ {
+  "NumKey": "@100550",
+  "ShowType": 2,
+  "NumType": 1,
+  "DefaultVal": 3000,
+  "MinVal": 875,
+  "MaxVal": 3000,
+  "LevelList": [],
+  "ScoreFactors": [
+   10,
+   33,
+   1
+  ]
+ },
+ {
+  "NumKey": "@100560",
+  "ShowType": 2,
+  "NumType": 1,
+  "DefaultVal": 3000,
+  "MinVal": 875,
+  "MaxVal": 3000,
+  "LevelList": [],
+  "ScoreFactors": [
+   10,
+   33,
+   1
+  ]
+ },
+ {
+  "NumKey": "@100570",
+  "ShowType": 2,
+  "NumType": 1,
+  "DefaultVal": 3000,
+  "MinVal": 875,
+  "MaxVal": 3000,
+  "LevelList": [],
+  "ScoreFactors": [
+   10,
+   33,
+   1
+  ]
+ },
+ {
+  "NumKey": "@100580",
+  "ShowType": 2,
+  "NumType": 1,
+  "DefaultVal": 3000,
+  "MinVal": 875,
+  "MaxVal": 3000,
+  "LevelList": [],
+  "ScoreFactors": [
+   10,
+   33,
+   1
+  ]
+ },
+ {
+  "NumKey": "@100590",
+  "ShowType": 2,
+  "NumType": 1,
+  "DefaultVal": 4000,
+  "MinVal": 1000,
+  "MaxVal": 4000,
+  "LevelList": [],
+  "ScoreFactors": [
+   10,
+   33,
+   1
+  ]
+ },
+ {
+  "NumKey": "@100600",
+  "ShowType": 2,
+  "NumType": 1,
+  "DefaultVal": 3000,
+  "MinVal": 875,
+  "MaxVal": 3000,
+  "LevelList": [],
+  "ScoreFactors": [
+   10,
+   33,
+   1
+  ]
+ },
+ {
+  "NumKey": "@100610",
+  "ShowType": 2,
+  "NumType": 1,
+  "DefaultVal": 4000,
+  "MinVal": 1000,
+  "MaxVal": 4000,
+  "LevelList": [],
+  "ScoreFactors": [
+   0,
+   1,
+   4
+  ]
+ },
+ {
+  "NumKey": "@100620",
+  "ShowType": 2,
+  "NumType": 1,
+  "DefaultVal": 4000,
+  "MinVal": 1000,
+  "MaxVal": 4000,
+  "LevelList": [],
+  "ScoreFactors": [
+   10,
+   33,
+   1
+  ]
+ },
+ {
+  "NumKey": "@100630",
+  "ShowType": 2,
+  "NumType": 1,
+  "DefaultVal": 3000,
+  "MinVal": 875,
+  "MaxVal": 3000,
+  "LevelList": [],
+  "ScoreFactors": [
+   10,
+   33,
+   1
+  ]
+ },
+ {
+  "NumKey": "@100640",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 2,
+  "MinVal": 1,
+  "MaxVal": 2,
+  "LevelList": [],
+  "ScoreFactors": [
+   0,
+   500,
+   1
+  ]
+ },
+ {
+  "NumKey": "@100650",
+  "ShowType": 3,
+  "NumType": 1,
+  "DefaultVal": 5000,
+  "MinVal": 1000,
+  "MaxVal": 5000,
+  "LevelList": [],
+  "ScoreFactors": [
+   0,
+   1,
+   5
+  ]
+ },
+ {
+  "NumKey": "@100660",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 3,
+  "MinVal": 1,
+  "MaxVal": 3,
+  "LevelList": [],
+  "ScoreFactors": [
+   0,
+   1000,
+   3
+  ]
+ },
+ {
+  "NumKey": "@100670",
+  "ShowType": 2,
+  "NumType": 1,
+  "DefaultVal": 100,
+  "MinVal": 50,
+  "MaxVal": 100,
+  "LevelList": [],
+  "ScoreFactors": [
+   0,
+   10,
+   1
+  ]
+ },
+ {
+  "NumKey": "@100680",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 20,
+  "MinVal": 10,
+  "MaxVal": 20,
+  "LevelList": [],
+  "ScoreFactors": [
+   0,
+   25,
+   1
+  ]
+ },
+ {
+  "NumKey": "@100690",
+  "ShowType": 2,
+  "NumType": 1,
+  "DefaultVal": 10000,
+  "MinVal": 5000,
+  "MaxVal": 10000,
+  "LevelList": [],
+  "ScoreFactors": [
+   0,
+   1,
+   10
+  ]
+ },
+ {
+  "NumKey": "@100700",
+  "ShowType": 2,
+  "NumType": 1,
+  "DefaultVal": 1000,
+  "MinVal": 500,
+  "MaxVal": 1000,
+  "LevelList": [],
+  "ScoreFactors": [
+   0,
+   1,
+   1
+  ]
+ },
+ {
+  "NumKey": "@100710",
+  "ShowType": 2,
+  "NumType": 1,
+  "DefaultVal": 100,
+  "MinVal": 50,
+  "MaxVal": 100,
+  "LevelList": [],
+  "ScoreFactors": [
+   0,
+   10,
+   1
+  ]
+ },
+ {
+  "NumKey": "@100720",
+  "ShowType": 1,
+  "NumType": 2,
+  "DefaultVal": 3,
+  "MinVal": 0,
+  "MaxVal": 0,
+  "LevelList": [
+   3,
+   4,
+   5,
+   6
+  ],
+  "ScoreFactors": [
+   800,
+   -100,
+   1
+  ]
+ },
+ {
+  "NumKey": "@100730",
+  "ShowType": 2,
+  "NumType": 1,
+  "DefaultVal": 1000,
+  "MinVal": 500,
+  "MaxVal": 1000,
+  "LevelList": [],
+  "ScoreFactors": [
+   0,
+   1,
+   1
+  ]
+ },
+ {
+  "NumKey": "@100740",
+  "ShowType": 2,
+  "NumType": 1,
+  "DefaultVal": 200,
+  "MinVal": 100,
+  "MaxVal": 200,
+  "LevelList": [],
+  "ScoreFactors": [
+   0,
+   5,
+   1
+  ]
+ },
+ {
+  "NumKey": "@100750",
+  "ShowType": 2,
+  "NumType": 1,
+  "DefaultVal": 1000,
+  "MinVal": 500,
+  "MaxVal": 1000,
+  "LevelList": [],
+  "ScoreFactors": [
+   0,
+   1,
+   1
+  ]
+ },
+ {
+  "NumKey": "@100760",
+  "ShowType": 2,
+  "NumType": 1,
+  "DefaultVal": 2500,
+  "MinVal": 1500,
+  "MaxVal": 2500,
+  "LevelList": [],
+  "ScoreFactors": [
+   -500,
+   1,
+   2
+  ]
+ },
+ {
+  "NumKey": "@100770",
+  "ShowType": 2,
+  "NumType": 1,
+  "DefaultVal": -800,
+  "MinVal": -200,
+  "MaxVal": -800,
+  "LevelList": [],
+  "ScoreFactors": [
+   -300,
+   -1,
+   1
+  ]
+ },
+ {
+  "NumKey": "@100780",
+  "ShowType": 2,
+  "NumType": 1,
+  "DefaultVal": -500,
+  "MinVal": -100,
+  "MaxVal": -500,
+  "LevelList": [],
+  "ScoreFactors": [
+   0,
+   -100,
+   1
+  ]
+ },
+ {
+  "NumKey": "@100790",
+  "ShowType": 2,
+  "NumType": 1,
+  "DefaultVal": 200,
+  "MinVal": 100,
+  "MaxVal": 200,
+  "LevelList": [],
+  "ScoreFactors": [
+   0,
+   250,
+   1
+  ]
+ },
+ {
+  "NumKey": "@100800",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 20,
+  "MinVal": 10,
+  "MaxVal": 20,
+  "LevelList": [],
+  "ScoreFactors": [
+   0,
+   50,
+   1
+  ]
+ },
+ {
+  "NumKey": "@100810",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 10,
+  "MinVal": 5,
+  "MaxVal": 10,
+  "LevelList": [],
+  "ScoreFactors": [
+   0,
+   100,
+   1
+  ]
+ },
+ {
+  "NumKey": "@100820",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 30,
+  "MinVal": 15,
+  "MaxVal": 30,
+  "LevelList": [],
+  "ScoreFactors": [
+   10,
+   33,
+   1
+  ]
+ },
+ {
+  "NumKey": "@100830",
+  "ShowType": 2,
+  "NumType": 1,
+  "DefaultVal": 3000,
+  "MinVal": 750,
+  "MaxVal": 3000,
+  "LevelList": [],
+  "ScoreFactors": [
+   0,
+   1,
+   3
+  ]
+ },
+ {
+  "NumKey": "@100840",
+  "ShowType": 2,
+  "NumType": 1,
+  "DefaultVal": 1000,
+  "MinVal": 250,
+  "MaxVal": 1000,
+  "LevelList": [],
+  "ScoreFactors": [
+   0,
+   1,
+   1
+  ]
+ },
+ {
+  "NumKey": "@100850",
+  "ShowType": 2,
+  "NumType": 1,
+  "DefaultVal": 1000,
+  "MinVal": 250,
+  "MaxVal": 1000,
+  "LevelList": [],
+  "ScoreFactors": [
+   0,
+   1,
+   1
+  ]
+ },
+ {
+  "NumKey": "@100860",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 40,
+  "MinVal": 30,
+  "MaxVal": 40,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@100880",
+  "ShowType": 2,
+  "NumType": 1,
+  "DefaultVal": 3500,
+  "MinVal": 875,
+  "MaxVal": 3500,
+  "LevelList": [],
+  "ScoreFactors": [
+   0,
+   2,
+   7
+  ]
+ },
+ {
+  "NumKey": "@100900",
+  "ShowType": 2,
+  "NumType": 1,
+  "DefaultVal": -500,
+  "MinVal": -500,
+  "MaxVal": -300,
+  "LevelList": [],
+  "ScoreFactors": [
+   0,
+   -2,
+   1
+  ]
+ },
+ {
+  "NumKey": "@100910",
+  "ShowType": 2,
+  "NumType": 1,
+  "DefaultVal": 800,
+  "MinVal": 500,
+  "MaxVal": 800,
+  "LevelList": [],
+  "ScoreFactors": [
+   200,
+   1,
+   1
+  ]
+ },
+ {
+  "NumKey": "@100920",
+  "ShowType": 2,
+  "NumType": 1,
+  "DefaultVal": 200,
+  "MinVal": 50,
+  "MaxVal": 200,
+  "LevelList": [],
+  "ScoreFactors": [
+   0,
+   5,
+   1
+  ]
+ },
+ {
+  "NumKey": "@100930",
+  "ShowType": 2,
+  "NumType": 1,
+  "DefaultVal": 400,
+  "MinVal": 100,
+  "MaxVal": 400,
+  "LevelList": [],
+  "ScoreFactors": [
+   200,
+   2,
+   1
+  ]
+ },
+ {
+  "NumKey": "@100940",
+  "ShowType": 2,
+  "NumType": 1,
+  "DefaultVal": 6000,
+  "MinVal": 1500,
+  "MaxVal": 6000,
+  "LevelList": [],
+  "ScoreFactors": [
+   0,
+   1,
+   6
+  ]
+ },
+ {
+  "NumKey": "@100950",
+  "ShowType": 2,
+  "NumType": 1,
+  "DefaultVal": 4000,
+  "MinVal": 1000,
+  "MaxVal": 4000,
+  "LevelList": [],
+  "ScoreFactors": [
+   0,
+   1,
+   4
+  ]
+ },
+ {
+  "NumKey": "@100960",
+  "ShowType": 2,
+  "NumType": 1,
+  "DefaultVal": 2000,
+  "MinVal": 500,
+  "MaxVal": 2000,
+  "LevelList": [],
+  "ScoreFactors": [
+   0,
+   1,
+   2
+  ]
+ },
+ {
+  "NumKey": "@100970",
+  "ShowType": 2,
+  "NumType": 1,
+  "DefaultVal": 1500,
+  "MinVal": 375,
+  "MaxVal": 1500,
+  "LevelList": [],
+  "ScoreFactors": [
+   0,
+   2,
+   3
+  ]
+ },
+ {
+  "NumKey": "@100980",
+  "ShowType": 2,
+  "NumType": 1,
+  "DefaultVal": 1200,
+  "MinVal": 300,
+  "MaxVal": 1200,
+  "LevelList": [],
+  "ScoreFactors": [
+   0,
+   5,
+   6
+  ]
+ },
+ {
+  "NumKey": "@100990",
+  "ShowType": 2,
+  "NumType": 1,
+  "DefaultVal": -4000,
+  "MinVal": -1000,
+  "MaxVal": -4000,
+  "LevelList": [],
+  "ScoreFactors": [
+   0,
+   -1,
+   4
+  ]
+ },
+ {
+  "NumKey": "@101000",
+  "ShowType": 2,
+  "NumType": 1,
+  "DefaultVal": -6000,
+  "MinVal": -1500,
+  "MaxVal": -6000,
+  "LevelList": [],
+  "ScoreFactors": [
+   0,
+   -1,
+   6
+  ]
+ },
+ {
+  "NumKey": "@101010",
+  "ShowType": 2,
+  "NumType": 1,
+  "DefaultVal": -3000,
+  "MinVal": -750,
+  "MaxVal": -3000,
+  "LevelList": [],
+  "ScoreFactors": [
+   0,
+   -1,
+   3
+  ]
+ },
+ {
+  "NumKey": "@101020",
+  "ShowType": 2,
+  "NumType": 1,
+  "DefaultVal": 2000,
+  "MinVal": 500,
+  "MaxVal": 2000,
+  "LevelList": [],
+  "ScoreFactors": [
+   0,
+   1,
+   2
+  ]
+ },
+ {
+  "NumKey": "@101030",
+  "ShowType": 2,
+  "NumType": 1,
+  "DefaultVal": 6000,
+  "MinVal": 1500,
+  "MaxVal": 6000,
+  "LevelList": [],
+  "ScoreFactors": [
+   0,
+   1,
+   6
+  ]
+ },
+ {
+  "NumKey": "@101040",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 15,
+  "MinVal": 4,
+  "MaxVal": 15,
+  "LevelList": [],
+  "ScoreFactors": [
+   100,
+   60,
+   1
+  ]
+ },
+ {
+  "NumKey": "@101050",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 5,
+  "MinVal": 3,
+  "MaxVal": 5,
+  "LevelList": [],
+  "ScoreFactors": [
+   0,
+   200,
+   1
+  ]
+ },
+ {
+  "NumKey": "@101060",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 15,
+  "MinVal": 4,
+  "MaxVal": 15,
+  "LevelList": [],
+  "ScoreFactors": [
+   100,
+   60,
+   1
+  ]
+ },
+ {
+  "NumKey": "@101070",
+  "ShowType": 2,
+  "NumType": 1,
+  "DefaultVal": -4500,
+  "MinVal": -1125,
+  "MaxVal": -4500,
+  "LevelList": [],
+  "ScoreFactors": [
+   -500,
+   -1,
+   4
+  ]
+ },
+ {
+  "NumKey": "@101080",
+  "ShowType": 2,
+  "NumType": 1,
+  "DefaultVal": -3000,
+  "MinVal": -1500,
+  "MaxVal": -3000,
+  "LevelList": [],
+  "ScoreFactors": [
+   0,
+   -1,
+   3
+  ]
+ },
+ {
+  "NumKey": "@200010",
+  "ShowType": 2,
+  "NumType": 1,
+  "DefaultVal": 1000,
+  "MinVal": 500,
+  "MaxVal": 1000,
+  "LevelList": [],
+  "ScoreFactors": [
+   0,
+   100,
+   1
+  ]
+ },
+ {
+  "NumKey": "@200020",
+  "ShowType": 2,
+  "NumType": 1,
+  "DefaultVal": 15000,
+  "MinVal": 7500,
+  "MaxVal": 15000,
+  "LevelList": [],
+  "ScoreFactors": [
+   0,
+   1,
+   15
+  ]
+ },
+ {
+  "NumKey": "@200030",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 40,
+  "MinVal": 20,
+  "MaxVal": 40,
+  "LevelList": [],
+  "ScoreFactors": [
+   0,
+   25,
+   1
+  ]
+ },
+ {
+  "NumKey": "@200040",
+  "ShowType": 2,
+  "NumType": 1,
+  "DefaultVal": 100,
+  "MinVal": 50,
+  "MaxVal": 100,
+  "LevelList": [],
+  "ScoreFactors": [
+   0,
+   10,
+   1
+  ]
+ },
+ {
+  "NumKey": "@200050",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 20,
+  "MinVal": 10,
+  "MaxVal": 20,
+  "LevelList": [],
+  "ScoreFactors": [
+   0,
+   50,
+   1
+  ]
+ },
+ {
+  "NumKey": "@200060",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 20,
+  "MinVal": 10,
+  "MaxVal": 20,
+  "LevelList": [],
+  "ScoreFactors": [
+   0,
+   50,
+   1
+  ]
+ },
+ {
+  "NumKey": "@200070",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 50,
+  "MinVal": 25,
+  "MaxVal": 50,
+  "LevelList": [],
+  "ScoreFactors": [
+   0,
+   10,
+   1
+  ]
+ },
+ {
+  "NumKey": "@200080",
+  "ShowType": 2,
+  "NumType": 1,
+  "DefaultVal": 200,
+  "MinVal": 100,
+  "MaxVal": 200,
+  "LevelList": [],
+  "ScoreFactors": [
+   0,
+   5,
+   2
+  ]
+ },
+ {
+  "NumKey": "@200090",
+  "ShowType": 2,
+  "NumType": 1,
+  "DefaultVal": 6000,
+  "MinVal": 1500,
+  "MaxVal": 6000,
+  "LevelList": [],
+  "ScoreFactors": [
+   0,
+   1,
+   6
+  ]
+ },
+ {
+  "NumKey": "@200100",
+  "ShowType": 2,
+  "NumType": 1,
+  "DefaultVal": 2000,
+  "MinVal": 500,
+  "MaxVal": 2000,
+  "LevelList": [],
+  "ScoreFactors": [
+   0,
+   1,
+   2
+  ]
+ },
+ {
+  "NumKey": "@200110",
+  "ShowType": 2,
+  "NumType": 1,
+  "DefaultVal": 600,
+  "MinVal": 150,
+  "MaxVal": 600,
+  "LevelList": [],
+  "ScoreFactors": [
+   0,
+   5,
+   3
+  ]
+ },
+ {
+  "NumKey": "@200120",
+  "ShowType": 2,
+  "NumType": 1,
+  "DefaultVal": 2000,
+  "MinVal": 500,
+  "MaxVal": 2000,
+  "LevelList": [],
+  "ScoreFactors": [
+   0,
+   1,
+   2
+  ]
+ },
+ {
+  "NumKey": "@200130",
+  "ShowType": 2,
+  "NumType": 1,
+  "DefaultVal": 30000,
+  "MinVal": 15000,
+  "MaxVal": 30000,
+  "LevelList": [],
+  "ScoreFactors": [
+   0,
+   1,
+   30
+  ]
+ },
+ {
+  "NumKey": "@200140",
+  "ShowType": 2,
+  "NumType": 1,
+  "DefaultVal": 1000,
+  "MinVal": 500,
+  "MaxVal": 1000,
+  "LevelList": [],
+  "ScoreFactors": [
+   0,
+   1,
+   1
+  ]
+ },
+ {
+  "NumKey": "@200150",
+  "ShowType": 2,
+  "NumType": 1,
+  "DefaultVal": 2000,
+  "MinVal": 1000,
+  "MaxVal": 2000,
+  "LevelList": [],
+  "ScoreFactors": [
+   0,
+   1,
+   2
+  ]
+ },
+ {
+  "NumKey": "@200160",
+  "ShowType": 2,
+  "NumType": 1,
+  "DefaultVal": -2000,
+  "MinVal": -1000,
+  "MaxVal": -2000,
+  "LevelList": [],
+  "ScoreFactors": [
+   0,
+   -1,
+   4
+  ]
+ },
+ {
+  "NumKey": "@200170",
+  "ShowType": 2,
+  "NumType": 1,
+  "DefaultVal": 100,
+  "MinVal": 100,
+  "MaxVal": 200,
+  "LevelList": [],
+  "ScoreFactors": [
+   0,
+   10,
+   1
+  ]
+ },
+ {
+  "NumKey": "@200180",
+  "ShowType": 2,
+  "NumType": 1,
+  "DefaultVal": 2000,
+  "MinVal": 1000,
+  "MaxVal": 2000,
+  "LevelList": [],
+  "ScoreFactors": [
+   0,
+   1,
+   2
+  ]
+ },
+ {
+  "NumKey": "@200190",
+  "ShowType": 2,
+  "NumType": 1,
+  "DefaultVal": 1500,
+  "MinVal": 375,
+  "MaxVal": 1500,
+  "LevelList": [],
+  "ScoreFactors": [
+   0,
+   2,
+   3
+  ]
+ },
+ {
+  "NumKey": "@200200",
+  "ShowType": 2,
+  "NumType": 1,
+  "DefaultVal": 5000,
+  "MinVal": 1250,
+  "MaxVal": 5000,
+  "LevelList": [],
+  "ScoreFactors": [
+   0,
+   1,
+   5
+  ]
+ },
+ {
+  "NumKey": "@200210",
+  "ShowType": 2,
+  "NumType": 1,
+  "DefaultVal": 6000,
+  "MinVal": 1500,
+  "MaxVal": 6000,
+  "LevelList": [],
+  "ScoreFactors": [
+   0,
+   1,
+   6
+  ]
+ },
+ {
+  "NumKey": "@200211",
+  "ShowType": 1,
+  "NumType": 2,
+  "DefaultVal": 10,
+  "MinVal": 0,
+  "MaxVal": 0,
+  "LevelList": [
+   6,
+   7,
+   8,
+   9,
+   10
+  ],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@200220",
+  "ShowType": 2,
+  "NumType": 1,
+  "DefaultVal": 2500,
+  "MinVal": 625,
+  "MaxVal": 2500,
+  "LevelList": [],
+  "ScoreFactors": [
+   0,
+   2,
+   5
+  ]
+ },
+ {
+  "NumKey": "@200230",
+  "ShowType": 2,
+  "NumType": 1,
+  "DefaultVal": 800,
+  "MinVal": 200,
+  "MaxVal": 800,
+  "LevelList": [],
+  "ScoreFactors": [
+   0,
+   5,
+   4
+  ]
+ },
+ {
+  "NumKey": "@200240",
+  "ShowType": 2,
+  "NumType": 1,
+  "DefaultVal": 2000,
+  "MinVal": 500,
+  "MaxVal": 2000,
+  "LevelList": [],
+  "ScoreFactors": [
+   0,
+   1,
+   2
+  ]
+ },
+ {
+  "NumKey": "@200250",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 40,
+  "MinVal": 20,
+  "MaxVal": 40,
+  "LevelList": [],
+  "ScoreFactors": [
+   0,
+   10,
+   1
+  ]
+ },
+ {
+  "NumKey": "@200260",
+  "ShowType": 1,
+  "NumType": 2,
+  "DefaultVal": 3,
+  "MinVal": 0,
+  "MaxVal": 0,
+  "LevelList": [
+   3,
+   4,
+   5,
+   6
+  ],
+  "ScoreFactors": [
+   800,
+   -100,
+   1
+  ]
+ },
+ {
+  "NumKey": "@200270",
+  "ShowType": 2,
+  "NumType": 1,
+  "DefaultVal": -1500,
+  "MinVal": -1500,
+  "MaxVal": -3000,
+  "LevelList": [],
+  "ScoreFactors": [
+   800,
+   20,
+   1
+  ]
+ },
+ {
+  "NumKey": "@200280",
+  "ShowType": 2,
+  "NumType": 1,
+  "DefaultVal": 100,
+  "MinVal": 50,
+  "MaxVal": 100,
+  "LevelList": [],
+  "ScoreFactors": [
+   0,
+   10,
+   1
+  ]
+ },
+ {
+  "NumKey": "@200290",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 20,
+  "MinVal": 10,
+  "MaxVal": 20,
+  "LevelList": [],
+  "ScoreFactors": [
+   0,
+   50,
+   1
+  ]
+ },
+ {
+  "NumKey": "@200300",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 20,
+  "MinVal": 10,
+  "MaxVal": 20,
+  "LevelList": [],
+  "ScoreFactors": [
+   0,
+   50,
+   1
+  ]
+ },
+ {
+  "NumKey": "@200310",
+  "ShowType": 2,
+  "NumType": 1,
+  "DefaultVal": 3000,
+  "MinVal": 1500,
+  "MaxVal": 3000,
+  "LevelList": [],
+  "ScoreFactors": [
+   100,
+   3,
+   1
+  ]
+ },
+ {
+  "NumKey": "@200320",
+  "ShowType": 2,
+  "NumType": 1,
+  "DefaultVal": 300,
+  "MinVal": 100,
+  "MaxVal": 300,
+  "LevelList": [],
+  "ScoreFactors": [
+   500,
+   15,
+   10
+  ]
+ },
+ {
+  "NumKey": "@200330",
+  "ShowType": 2,
+  "NumType": 1,
+  "DefaultVal": 300,
+  "MinVal": 150,
+  "MaxVal": 300,
+  "LevelList": [],
+  "ScoreFactors": [
+   500,
+   15,
+   10
+  ]
+ },
+ {
+  "NumKey": "@200340",
+  "ShowType": 2,
+  "NumType": 1,
+  "DefaultVal": 10000,
+  "MinVal": 5000,
+  "MaxVal": 10000,
+  "LevelList": [],
+  "ScoreFactors": [
+   0,
+   1,
+   10
+  ]
+ },
+ {
+  "NumKey": "@200350",
+  "ShowType": 2,
+  "NumType": 1,
+  "DefaultVal": 2000,
+  "MinVal": 1000,
+  "MaxVal": 2000,
+  "LevelList": [],
+  "ScoreFactors": [
+   0,
+   1,
+   2
+  ]
+ },
+ {
+  "NumKey": "@200360",
+  "ShowType": 1,
+  "NumType": 2,
+  "DefaultVal": 5,
+  "MinVal": 0,
+  "MaxVal": 0,
+  "LevelList": [
+   5,
+   6,
+   7,
+   8,
+   9,
+   10
+  ],
+  "ScoreFactors": [
+   1500,
+   -100,
+   1
+  ]
+ },
+ {
+  "NumKey": "@200361",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 1,
+  "MinVal": 1,
+  "MaxVal": 2,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@200370",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 20,
+  "MinVal": 10,
+  "MaxVal": 20,
+  "LevelList": [],
+  "ScoreFactors": [
+   0,
+   25,
+   1
+  ]
+ },
+ {
+  "NumKey": "@200380",
+  "ShowType": 2,
+  "NumType": 1,
+  "DefaultVal": 100,
+  "MinVal": 50,
+  "MaxVal": 100,
+  "LevelList": [],
+  "ScoreFactors": [
+   0,
+   10,
+   1
+  ]
+ },
+ {
+  "NumKey": "@200390",
+  "ShowType": 2,
+  "NumType": 1,
+  "DefaultVal": -2000,
+  "MinVal": -1000,
+  "MaxVal": -2000,
+  "LevelList": [],
+  "ScoreFactors": [
+   0,
+   -25,
+   1
+  ]
+ },
+ {
+  "NumKey": "@200400",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 10,
+  "MinVal": 5,
+  "MaxVal": 10,
+  "LevelList": [],
+  "ScoreFactors": [
+   0,
+   100,
+   1
+  ]
+ },
+ {
+  "NumKey": "@200410",
+  "ShowType": 2,
+  "NumType": 1,
+  "DefaultVal": 100,
+  "MinVal": 50,
+  "MaxVal": 100,
+  "LevelList": [],
+  "ScoreFactors": [
+   0,
+   5,
+   1
+  ]
+ },
+ {
+  "NumKey": "@200420",
+  "ShowType": 2,
+  "NumType": 1,
+  "DefaultVal": -2000,
+  "MinVal": -1000,
+  "MaxVal": -2000,
+  "LevelList": [],
+  "ScoreFactors": [
+   0,
+   -25,
+   1
+  ]
+ },
+ {
+  "NumKey": "@200430",
+  "ShowType": 2,
+  "NumType": 1,
+  "DefaultVal": 1000,
+  "MinVal": 500,
+  "MaxVal": 1000,
+  "LevelList": [],
+  "ScoreFactors": [
+   0,
+   1,
+   2
+  ]
+ },
+ {
+  "NumKey": "@200440",
+  "ShowType": 2,
+  "NumType": 1,
+  "DefaultVal": 2000,
+  "MinVal": 1000,
+  "MaxVal": 2000,
+  "LevelList": [],
+  "ScoreFactors": [
+   0,
+   1,
+   2
+  ]
+ },
+ {
+  "NumKey": "@200450",
+  "ShowType": 2,
+  "NumType": 1,
+  "DefaultVal": 100,
+  "MinVal": 50,
+  "MaxVal": 100,
+  "LevelList": [],
+  "ScoreFactors": [
+   0,
+   10,
+   1
+  ]
+ },
+ {
+  "NumKey": "@200460",
+  "ShowType": 2,
+  "NumType": 1,
+  "DefaultVal": 2000,
+  "MinVal": 1000,
+  "MaxVal": 2000,
+  "LevelList": [],
+  "ScoreFactors": [
+   0,
+   1,
+   2
+  ]
+ },
+ {
+  "NumKey": "@200470",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 20,
+  "MinVal": 10,
+  "MaxVal": 20,
+  "LevelList": [],
+  "ScoreFactors": [
+   0,
+   50,
+   1
+  ]
+ },
+ {
+  "NumKey": "@200480",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 40,
+  "MinVal": 20,
+  "MaxVal": 40,
+  "LevelList": [],
+  "ScoreFactors": [
+   0,
+   25,
+   2
+  ]
+ },
+ {
+  "NumKey": "@200490",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 40,
+  "MinVal": 20,
+  "MaxVal": 40,
+  "LevelList": [],
+  "ScoreFactors": [
+   0,
+   25,
+   2
+  ]
+ },
+ {
+  "NumKey": "@200500",
+  "ShowType": 2,
+  "NumType": 1,
+  "DefaultVal": 10000,
+  "MinVal": 2500,
+  "MaxVal": 10000,
+  "LevelList": [],
+  "ScoreFactors": [
+   0,
+   1,
+   10
+  ]
+ },
+ {
+  "NumKey": "@200510",
+  "ShowType": 2,
+  "NumType": 2,
+  "DefaultVal": 5000,
+  "MinVal": 0,
+  "MaxVal": 0,
+  "LevelList": [
+   1000,
+   2000,
+   3000,
+   4000,
+   5000
+  ],
+  "ScoreFactors": [
+   0,
+   1,
+   5
+  ]
+ },
+ {
+  "NumKey": "@200520",
+  "ShowType": 2,
+  "NumType": 1,
+  "DefaultVal": 30000,
+  "MinVal": 15000,
+  "MaxVal": 30000,
+  "LevelList": [],
+  "ScoreFactors": [
+   0,
+   1,
+   30
+  ]
+ },
+ {
+  "NumKey": "@200540",
+  "ShowType": 2,
+  "NumType": 1,
+  "DefaultVal": 60,
+  "MinVal": 30,
+  "MaxVal": 60,
+  "LevelList": [],
+  "ScoreFactors": [
+   40,
+   16,
+   1
+  ]
+ },
+ {
+  "NumKey": "@200550",
+  "ShowType": 2,
+  "NumType": 1,
+  "DefaultVal": 4000,
+  "MinVal": 2000,
+  "MaxVal": 4000,
+  "LevelList": [],
+  "ScoreFactors": [
+   0,
+   25,
+   2
+  ]
+ },
+ {
+  "NumKey": "@200560",
+  "ShowType": 2,
+  "NumType": 1,
+  "DefaultVal": 10000,
+  "MinVal": 5000,
+  "MaxVal": 10000,
+  "LevelList": [],
+  "ScoreFactors": [
+   0,
+   1,
+   10
+  ]
+ },
+ {
+  "NumKey": "@200570",
+  "ShowType": 2,
+  "NumType": 1,
+  "DefaultVal": -5000,
+  "MinVal": -2500,
+  "MaxVal": -5000,
+  "LevelList": [],
+  "ScoreFactors": [
+   0,
+   -20,
+   1
+  ]
+ },
+ {
+  "NumKey": "@200580",
+  "ShowType": 2,
+  "NumType": 1,
+  "DefaultVal": 1500,
+  "MinVal": 750,
+  "MaxVal": 1500,
+  "LevelList": [],
+  "ScoreFactors": [
+   500,
+   3,
+   5
+  ]
+ },
+ {
+  "NumKey": "@200590",
+  "ShowType": 2,
+  "NumType": 1,
+  "DefaultVal": -1000,
+  "MinVal": -1000,
+  "MaxVal": -2000,
+  "LevelList": [],
+  "ScoreFactors": [
+   0,
+   -1,
+   4
+  ]
+ },
+ {
+  "NumKey": "@200600",
+  "ShowType": 2,
+  "NumType": 1,
+  "DefaultVal": 2500,
+  "MinVal": 625,
+  "MaxVal": 2500,
+  "LevelList": [],
+  "ScoreFactors": [
+   0,
+   2,
+   5
+  ]
+ },
+ {
+  "NumKey": "@200610",
+  "ShowType": 1,
+  "NumType": 2,
+  "DefaultVal": 6,
+  "MinVal": 0,
+  "MaxVal": 0,
+  "LevelList": [
+   6,
+   7,
+   8,
+   9,
+   10,
+   11,
+   12
+  ],
+  "ScoreFactors": [
+   1600,
+   -100,
+   1
+  ]
+ },
+ {
+  "NumKey": "@200620",
+  "ShowType": 2,
+  "NumType": 1,
+  "DefaultVal": -2000,
+  "MinVal": -2000,
+  "MaxVal": -4000,
+  "LevelList": [],
+  "ScoreFactors": [
+   6000,
+   1,
+   4
+  ]
+ },
+ {
+  "NumKey": "@200640",
+  "ShowType": 2,
+  "NumType": 1,
+  "DefaultVal": 2000,
+  "MinVal": 1000,
+  "MaxVal": 2000,
+  "LevelList": [],
+  "ScoreFactors": [
+   0,
+   1,
+   2
+  ]
+ },
+ {
+  "NumKey": "@200650",
+  "ShowType": 2,
+  "NumType": 1,
+  "DefaultVal": 2000,
+  "MinVal": 1500,
+  "MaxVal": 2500,
+  "LevelList": [],
+  "ScoreFactors": [
+   0,
+   1,
+   2
+  ]
+ },
+ {
+  "NumKey": "@200660",
+  "ShowType": 2,
+  "NumType": 1,
+  "DefaultVal": 2000,
+  "MinVal": 1000,
+  "MaxVal": 2000,
+  "LevelList": [],
+  "ScoreFactors": [
+   0,
+   1,
+   2
+  ]
+ },
+ {
+  "NumKey": "@200670",
+  "ShowType": 2,
+  "NumType": 1,
+  "DefaultVal": 6000,
+  "MinVal": 1500,
+  "MaxVal": 6000,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@200680",
+  "ShowType": 2,
+  "NumType": 1,
+  "DefaultVal": 6000,
+  "MinVal": 1500,
+  "MaxVal": 6000,
+  "LevelList": [],
+  "ScoreFactors": [
+   0,
+   1,
+   6
+  ]
+ },
+ {
+  "NumKey": "@20069",
+  "ShowType": 2,
+  "NumType": 1,
+  "DefaultVal": 6000,
+  "MinVal": 1500,
+  "MaxVal": 6000,
+  "LevelList": [],
+  "ScoreFactors": [
+   0,
+   1,
+   6
+  ]
+ },
+ {
+  "NumKey": "@200710",
+  "ShowType": 2,
+  "NumType": 1,
+  "DefaultVal": 6000,
+  "MinVal": 1500,
+  "MaxVal": 6000,
+  "LevelList": [],
+  "ScoreFactors": [
+   0,
+   1,
+   6
+  ]
+ },
+ {
+  "NumKey": "@200750",
+  "ShowType": 2,
+  "NumType": 1,
+  "DefaultVal": 2000,
+  "MinVal": 500,
+  "MaxVal": 2000,
+  "LevelList": [],
+  "ScoreFactors": [
+   0,
+   1,
+   2
+  ]
+ },
+ {
+  "NumKey": "@200760",
+  "ShowType": 2,
+  "NumType": 1,
+  "DefaultVal": 300,
+  "MinVal": 75,
+  "MaxVal": 300,
+  "LevelList": [],
+  "ScoreFactors": [
+   0,
+   5,
+   3
+  ]
+ },
+ {
+  "NumKey": "@200761",
+  "ShowType": 3,
+  "NumType": 1,
+  "DefaultVal": 5000,
+  "MinVal": 1250,
+  "MaxVal": 5000,
+  "LevelList": [],
+  "ScoreFactors": [
+   0,
+   1,
+   10
+  ]
+ },
+ {
+  "NumKey": "@200770",
+  "ShowType": 2,
+  "NumType": 1,
+  "DefaultVal": 6000,
+  "MinVal": 1500,
+  "MaxVal": 6000,
+  "LevelList": [],
+  "ScoreFactors": [
+   0,
+   1,
+   6
+  ]
+ },
+ {
+  "NumKey": "@300010",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 20,
+  "MinVal": 10,
+  "MaxVal": 20,
+  "LevelList": [],
+  "ScoreFactors": [
+   0,
+   50,
+   1
+  ]
+ },
+ {
+  "NumKey": "@300020",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 20,
+  "MinVal": 5,
+  "MaxVal": 20,
+  "LevelList": [],
+  "ScoreFactors": [
+   0,
+   50,
+   1
+  ]
+ },
+ {
+  "NumKey": "@300030",
+  "ShowType": 2,
+  "NumType": 1,
+  "DefaultVal": 24000,
+  "MinVal": 12000,
+  "MaxVal": 24000,
+  "LevelList": [],
+  "ScoreFactors": [
+   0,
+   1,
+   24
+  ]
+ },
+ {
+  "NumKey": "@300040",
+  "ShowType": 2,
+  "NumType": 1,
+  "DefaultVal": 10000,
+  "MinVal": 5000,
+  "MaxVal": 10000,
+  "LevelList": [],
+  "ScoreFactors": [
+   0,
+   1,
+   20
+  ]
+ },
+ {
+  "NumKey": "@300050",
+  "ShowType": 1,
+  "NumType": 2,
+  "DefaultVal": 5,
+  "MinVal": 0,
+  "MaxVal": 0,
+  "LevelList": [
+   5,
+   6,
+   7,
+   8,
+   9,
+   10
+  ],
+  "ScoreFactors": [
+   0,
+   100,
+   1
+  ]
+ },
+ {
+  "NumKey": "@300060",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 50,
+  "MinVal": 25,
+  "MaxVal": 50,
+  "LevelList": [],
+  "ScoreFactors": [
+   0,
+   6,
+   1
+  ]
+ },
+ {
+  "NumKey": "@300070",
+  "ShowType": 2,
+  "NumType": 1,
+  "DefaultVal": 10000,
+  "MinVal": 5000,
+  "MaxVal": 10000,
+  "LevelList": [],
+  "ScoreFactors": [
+   0,
+   1,
+   20
+  ]
+ },
+ {
+  "NumKey": "@200730",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 60,
+  "MinVal": 50,
+  "MaxVal": 60,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@200740",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 60,
+  "MinVal": 50,
+  "MaxVal": 60,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@300080",
+  "ShowType": 2,
+  "NumType": 1,
+  "DefaultVal": 5000,
+  "MinVal": 1125,
+  "MaxVal": 5000,
+  "LevelList": [],
+  "ScoreFactors": [
+   0,
+   1,
+   10
+  ]
+ },
+ {
+  "NumKey": "@300090",
+  "ShowType": 2,
+  "NumType": 1,
+  "DefaultVal": 3000,
+  "MinVal": 1500,
+  "MaxVal": 3000,
+  "LevelList": [],
+  "ScoreFactors": [
+   0,
+   1,
+   3
+  ]
+ },
+ {
+  "NumKey": "@300100",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 15,
+  "MinVal": 3,
+  "MaxVal": 15,
+  "LevelList": [],
+  "ScoreFactors": [
+   0,
+   200,
+   3
+  ]
+ },
+ {
+  "NumKey": "@300110",
+  "ShowType": 2,
+  "NumType": 1,
+  "DefaultVal": -100,
+  "MinVal": -25,
+  "MaxVal": -100,
+  "LevelList": [],
+  "ScoreFactors": [
+   0,
+   -5,
+   1
+  ]
+ },
+ {
+  "NumKey": "@300111",
+  "ShowType": 1,
+  "NumType": 2,
+  "DefaultVal": 6,
+  "MinVal": 0,
+  "MaxVal": 0,
+  "LevelList": [
+   2,
+   3,
+   4,
+   5,
+   6
+  ],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@300120",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 20,
+  "MinVal": 10,
+  "MaxVal": 20,
+  "LevelList": [],
+  "ScoreFactors": [
+   0,
+   25,
+   1
+  ]
+ },
+ {
+  "NumKey": "@300130",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 2,
+  "MinVal": 1,
+  "MaxVal": 2,
+  "LevelList": [],
+  "ScoreFactors": [
+   0,
+   250,
+   1
+  ]
+ },
+ {
+  "NumKey": "@300140",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 30,
+  "MinVal": 15,
+  "MaxVal": 30,
+  "LevelList": [],
+  "ScoreFactors": [
+   100,
+   30,
+   1
+  ]
+ },
+ {
+  "NumKey": "@300150",
+  "ShowType": 2,
+  "NumType": 1,
+  "DefaultVal": 10000,
+  "MinVal": 5000,
+  "MaxVal": 10000,
+  "LevelList": [],
+  "ScoreFactors": [
+   0,
+   1,
+   20
+  ]
+ },
+ {
+  "NumKey": "@300160",
+  "ShowType": 2,
+  "NumType": 1,
+  "DefaultVal": 100,
+  "MinVal": 50,
+  "MaxVal": 100,
+  "LevelList": [],
+  "ScoreFactors": [
+   0,
+   10,
+   1
+  ]
+ },
+ {
+  "NumKey": "@300170",
+  "ShowType": 2,
+  "NumType": 1,
+  "DefaultVal": 17000,
+  "MinVal": 4250,
+  "MaxVal": 17000,
+  "LevelList": [],
+  "ScoreFactors": [
+   0,
+   1,
+   17
+  ]
+ },
+ {
+  "NumKey": "@300180",
+  "ShowType": 2,
+  "NumType": 1,
+  "DefaultVal": 2000,
+  "MinVal": 1000,
+  "MaxVal": 2000,
+  "LevelList": [],
+  "ScoreFactors": [
+   0,
+   1,
+   2
+  ]
+ },
+ {
+  "NumKey": "@300200",
+  "ShowType": 2,
+  "NumType": 1,
+  "DefaultVal": 14000,
+  "MinVal": 3500,
+  "MaxVal": 14000,
+  "LevelList": [],
+  "ScoreFactors": [
+   0,
+   1,
+   14
+  ]
+ },
+ {
+  "NumKey": "@300210",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 60,
+  "MinVal": 30,
+  "MaxVal": 60,
+  "LevelList": [],
+  "ScoreFactors": [
+   20,
+   8,
+   1
+  ]
+ },
+ {
+  "NumKey": "@300220",
+  "ShowType": 2,
+  "NumType": 1,
+  "DefaultVal": 1500,
+  "MinVal": 750,
+  "MaxVal": 1500,
+  "LevelList": [],
+  "ScoreFactors": [
+   500,
+   3,
+   5
+  ]
+ },
+ {
+  "NumKey": "@300230",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 10,
+  "MinVal": 10,
+  "MaxVal": 10,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@300240",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 1,
+  "MinVal": 3,
+  "MaxVal": 1,
+  "LevelList": [],
+  "ScoreFactors": [
+   650,
+   -150,
+   1
+  ]
+ },
+ {
+  "NumKey": "@300250",
+  "ShowType": 2,
+  "NumType": 1,
+  "DefaultVal": 500,
+  "MinVal": 125,
+  "MaxVal": 500,
+  "LevelList": [],
+  "ScoreFactors": [
+   0,
+   2,
+   1
+  ]
+ },
+ {
+  "NumKey": "@300260",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 60,
+  "MinVal": 30,
+  "MaxVal": 60,
+  "LevelList": [],
+  "ScoreFactors": [
+   20,
+   8,
+   1
+  ]
+ },
+ {
+  "NumKey": "@300270",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 10,
+  "MinVal": 5,
+  "MaxVal": 10,
+  "LevelList": [],
+  "ScoreFactors": [
+   0,
+   100,
+   1
+  ]
+ },
+ {
+  "NumKey": "@300280",
+  "ShowType": 2,
+  "NumType": 1,
+  "DefaultVal": 2000,
+  "MinVal": 1000,
+  "MaxVal": 2000,
+  "LevelList": [],
+  "ScoreFactors": [
+   0,
+   1,
+   2
+  ]
+ },
+ {
+  "NumKey": "@300290",
+  "ShowType": 2,
+  "NumType": 1,
+  "DefaultVal": -1000,
+  "MinVal": -1000,
+  "MaxVal": -1500,
+  "LevelList": [],
+  "ScoreFactors": [
+   2000,
+   1,
+   2
+  ]
+ },
+ {
+  "NumKey": "@300300",
+  "ShowType": 2,
+  "NumType": 1,
+  "DefaultVal": 16000,
+  "MinVal": 8000,
+  "MaxVal": 16000,
+  "LevelList": [],
+  "ScoreFactors": [
+   0,
+   1,
+   16
+  ]
+ },
+ {
+  "NumKey": "@300340",
+  "ShowType": 2,
+  "NumType": 1,
+  "DefaultVal": 100,
+  "MinVal": 25,
+  "MaxVal": 100,
+  "LevelList": [],
+  "ScoreFactors": [
+   0,
+   10,
+   1
+  ]
+ },
+ {
+  "NumKey": "@300310",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 5000,
+  "MinVal": 2500,
+  "MaxVal": 5000,
+  "LevelList": [],
+  "ScoreFactors": [
+   0,
+   6,
+   1
+  ]
+ },
+ {
+  "NumKey": "@300320",
+  "ShowType": 2,
+  "NumType": 1,
+  "DefaultVal": 20000,
+  "MinVal": 5000,
+  "MaxVal": 20000,
+  "LevelList": [],
+  "ScoreFactors": [
+   0,
+   1,
+   40
+  ]
+ },
+ {
+  "NumKey": "@300321",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 5,
+  "MinVal": 8,
+  "MaxVal": 5,
+  "LevelList": [],
+  "ScoreFactors": [
+   0,
+   100,
+   1
+  ]
+ },
+ {
+  "NumKey": "@300350",
+  "ShowType": 2,
+  "NumType": 1,
+  "DefaultVal": 1000,
+  "MinVal": 250,
+  "MaxVal": 1000,
+  "LevelList": [],
+  "ScoreFactors": [
+   0,
+   1,
+   2
+  ]
+ },
+ {
+  "NumKey": "@300360",
+  "ShowType": 2,
+  "NumType": 1,
+  "DefaultVal": 1000,
+  "MinVal": 250,
+  "MaxVal": 1000,
+  "LevelList": [],
+  "ScoreFactors": [
+   0,
+   1,
+   2
+  ]
+ },
+ {
+  "NumKey": "@300361",
+  "ShowType": 2,
+  "NumType": 1,
+  "DefaultVal": 500,
+  "MinVal": 125,
+  "MaxVal": 500,
+  "LevelList": [],
+  "ScoreFactors": [
+   0,
+   1,
+   1
+  ]
+ },
+ {
+  "NumKey": "@300370",
+  "ShowType": 2,
+  "NumType": 1,
+  "DefaultVal": 14000,
+  "MinVal": 3500,
+  "MaxVal": 14000,
+  "LevelList": [],
+  "ScoreFactors": [
+   0,
+   1,
+   14
+  ]
+ },
+ {
+  "NumKey": "@300380",
+  "ShowType": 2,
+  "NumType": 1,
+  "DefaultVal": 10000,
+  "MinVal": 2500,
+  "MaxVal": 10000,
+  "LevelList": [],
+  "ScoreFactors": [
+   0,
+   1,
+   20
+  ]
+ },
+ {
+  "NumKey": "@300381",
+  "ShowType": 3,
+  "NumType": 1,
+  "DefaultVal": 5000,
+  "MinVal": 1250,
+  "MaxVal": 5000,
+  "LevelList": [],
+  "ScoreFactors": [
+   0,
+   1,
+   10
+  ]
+ },
+ {
+  "NumKey": "@300390",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 20,
+  "MinVal": 5,
+  "MaxVal": 20,
+  "LevelList": [],
+  "ScoreFactors": [
+   0,
+   50,
+   1
+  ]
+ },
+ {
+  "NumKey": "@300351",
+  "ShowType": 2,
+  "NumType": 1,
+  "DefaultVal": 800,
+  "MinVal": 200,
+  "MaxVal": 800,
+  "LevelList": [],
+  "ScoreFactors": [
+   -300,
+   1,
+   1
+  ]
+ },
+ {
+  "NumKey": "@100181",
+  "ShowType": 2,
+  "NumType": 1,
+  "DefaultVal": 20,
+  "MinVal": 10,
+  "MaxVal": 20,
+  "LevelList": [],
+  "ScoreFactors": [
+   0,
+   25,
+   1
+  ]
+ },
+ {
+  "NumKey": "@100191",
+  "ShowType": 2,
+  "NumType": 1,
+  "DefaultVal": 50,
+  "MinVal": 25,
+  "MaxVal": 50,
+  "LevelList": [],
+  "ScoreFactors": [
+   0,
+   10,
+   1
+  ]
+ },
+ {
+  "NumKey": "@100231",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 3,
+  "MinVal": 1,
+  "MaxVal": 3,
+  "LevelList": [],
+  "ScoreFactors": [
+   50,
+   150,
+   1
+  ]
+ },
+ {
+  "NumKey": "@100261",
+  "ShowType": 2,
+  "NumType": 1,
+  "DefaultVal": 200,
+  "MinVal": 100,
+  "MaxVal": 200,
+  "LevelList": [],
+  "ScoreFactors": [
+   0,
+   5,
+   2
+  ]
+ },
+ {
+  "NumKey": "@100271",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 5,
+  "MinVal": 3,
+  "MaxVal": 5,
+  "LevelList": [],
+  "ScoreFactors": [
+   0,
+   100,
+   1
+  ]
+ },
+ {
+  "NumKey": "@100281",
+  "ShowType": 2,
+  "NumType": 1,
+  "DefaultVal": 500,
+  "MinVal": 250,
+  "MaxVal": 500,
+  "LevelList": [],
+  "ScoreFactors": [
+   0,
+   5,
+   2
+  ]
+ },
+ {
+  "NumKey": "@100291",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 3,
+  "MinVal": 1,
+  "MaxVal": 3,
+  "LevelList": [],
+  "ScoreFactors": [
+   50,
+   150,
+   1
+  ]
+ },
+ {
+  "NumKey": "@100301",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 66,
+  "MinVal": 33,
+  "MaxVal": 66,
+  "LevelList": [],
+  "ScoreFactors": [
+   38,
+   7,
+   1
+  ]
+ },
+ {
+  "NumKey": "@100321",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 66,
+  "MinVal": 33,
+  "MaxVal": 66,
+  "LevelList": [],
+  "ScoreFactors": [
+   38,
+   7,
+   1
+  ]
+ },
+ {
+  "NumKey": "@100331",
+  "ShowType": 2,
+  "NumType": 1,
+  "DefaultVal": 100,
+  "MinVal": 50,
+  "MaxVal": 100,
+  "LevelList": [],
+  "ScoreFactors": [
+   0,
+   5,
+   1
+  ]
+ },
+ {
+  "NumKey": "@100341",
+  "ShowType": 2,
+  "NumType": 1,
+  "DefaultVal": 100,
+  "MinVal": 50,
+  "MaxVal": 100,
+  "LevelList": [],
+  "ScoreFactors": [
+   0,
+   5,
+   1
+  ]
+ },
+ {
+  "NumKey": "@100371",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 40,
+  "MinVal": 20,
+  "MaxVal": 40,
+  "LevelList": [],
+  "ScoreFactors": [
+   0,
+   25,
+   2
+  ]
+ },
+ {
+  "NumKey": "@100441",
+  "ShowType": 2,
+  "NumType": 1,
+  "DefaultVal": 200,
+  "MinVal": 100,
+  "MaxVal": 200,
+  "LevelList": [],
+  "ScoreFactors": [
+   0,
+   5,
+   2
+  ]
+ },
+ {
+  "NumKey": "@100451",
+  "ShowType": 2,
+  "NumType": 1,
+  "DefaultVal": 500,
+  "MinVal": 500,
+  "MaxVal": 1000,
+  "LevelList": [],
+  "ScoreFactors": [
+   0,
+   1,
+   5
+  ]
+ },
+ {
+  "NumKey": "@100681",
+  "ShowType": 2,
+  "NumType": 1,
+  "DefaultVal": 2500,
+  "MinVal": 1500,
+  "MaxVal": 2500,
+  "LevelList": [],
+  "ScoreFactors": [
+   0,
+   1,
+   5
+  ]
+ },
+ {
+  "NumKey": "@100721",
+  "ShowType": 2,
+  "NumType": 1,
+  "DefaultVal": 100,
+  "MinVal": 50,
+  "MaxVal": 100,
+  "LevelList": [],
+  "ScoreFactors": [
+   0,
+   5,
+   1
+  ]
+ },
+ {
+  "NumKey": "@100771",
+  "ShowType": 2,
+  "NumType": 1,
+  "DefaultVal": -1500,
+  "MinVal": -450,
+  "MaxVal": -1500,
+  "LevelList": [],
+  "ScoreFactors": [
+   0,
+   -1,
+   3
+  ]
+ },
+ {
+  "NumKey": "@100781",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 5,
+  "MinVal": 1,
+  "MaxVal": 5,
+  "LevelList": [],
+  "ScoreFactors": [
+   0,
+   100,
+   1
+  ]
+ },
+ {
+  "NumKey": "@100791",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 20,
+  "MinVal": 10,
+  "MaxVal": 20,
+  "LevelList": [],
+  "ScoreFactors": [
+   0,
+   25,
+   1
+  ]
+ },
+ {
+  "NumKey": "@200071",
+  "ShowType": 2,
+  "NumType": 1,
+  "DefaultVal": 4000,
+  "MinVal": 2000,
+  "MaxVal": 4000,
+  "LevelList": [],
+  "ScoreFactors": [
+   0,
+   1,
+   8
+  ]
+ },
+ {
+  "NumKey": "@200081",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 66,
+  "MinVal": 33,
+  "MaxVal": 66,
+  "LevelList": [],
+  "ScoreFactors": [
+   38,
+   7,
+   1
+  ]
+ },
+ {
+  "NumKey": "@200091",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 10,
+  "MinVal": 3,
+  "MaxVal": 10,
+  "LevelList": [],
+  "ScoreFactors": [
+   0,
+   100,
+   1
+  ]
+ },
+ {
+  "NumKey": "@200101",
+  "ShowType": 2,
+  "NumType": 1,
+  "DefaultVal": 300,
+  "MinVal": 150,
+  "MaxVal": 300,
+  "LevelList": [],
+  "ScoreFactors": [
+   0,
+   1,
+   1
+  ]
+ },
+ {
+  "NumKey": "@200161",
+  "ShowType": 1,
+  "NumType": 2,
+  "DefaultVal": 10,
+  "MinVal": 0,
+  "MaxVal": 0,
+  "LevelList": [
+   5,
+   6,
+   7,
+   8,
+   9,
+   10
+  ],
+  "ScoreFactors": [
+   0,
+   50,
+   1
+  ]
+ },
+ {
+  "NumKey": "@200251",
+  "ShowType": 2,
+  "NumType": 1,
+  "DefaultVal": 200,
+  "MinVal": 100,
+  "MaxVal": 200,
+  "LevelList": [],
+  "ScoreFactors": [
+   0,
+   3,
+   1
+  ]
+ },
+ {
+  "NumKey": "@200261",
+  "ShowType": 2,
+  "NumType": 1,
+  "DefaultVal": 3000,
+  "MinVal": 1500,
+  "MaxVal": 3000,
+  "LevelList": [],
+  "ScoreFactors": [
+   0,
+   1,
+   6
+  ]
+ },
+ {
+  "NumKey": "@200271",
+  "ShowType": 2,
+  "NumType": 1,
+  "DefaultVal": 3000,
+  "MinVal": 1500,
+  "MaxVal": 3000,
+  "LevelList": [],
+  "ScoreFactors": [
+   0,
+   1,
+   6
+  ]
+ },
+ {
+  "NumKey": "@200321",
+  "ShowType": 2,
+  "NumType": 1,
+  "DefaultVal": 300,
+  "MinVal": 100,
+  "MaxVal": 300,
+  "LevelList": [],
+  "ScoreFactors": [
+   500,
+   15,
+   10
+  ]
+ },
+ {
+  "NumKey": "@200331",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 20,
+  "MinVal": 10,
+  "MaxVal": 20,
+  "LevelList": [],
+  "ScoreFactors": [
+   0,
+   25,
+   1
+  ]
+ },
+ {
+  "NumKey": "@200371",
+  "ShowType": 2,
+  "NumType": 1,
+  "DefaultVal": 30000,
+  "MinVal": 15000,
+  "MaxVal": 30000,
+  "LevelList": [],
+  "ScoreFactors": [
+   0,
+   1,
+   60
+  ]
+ },
+ {
+  "NumKey": "@200391",
+  "ShowType": 2,
+  "NumType": 1,
+  "DefaultVal": -2000,
+  "MinVal": -1000,
+  "MaxVal": -2000,
+  "LevelList": [],
+  "ScoreFactors": [
+   0,
+   -25,
+   1
+  ]
+ },
+ {
+  "NumKey": "@200411",
+  "ShowType": 2,
+  "NumType": 1,
+  "DefaultVal": 5000,
+  "MinVal": 2500,
+  "MaxVal": 5000,
+  "LevelList": [],
+  "ScoreFactors": [
+   0,
+   1,
+   10
+  ]
+ },
+ {
+  "NumKey": "@200421",
+  "ShowType": 2,
+  "NumType": 1,
+  "DefaultVal": 2000,
+  "MinVal": 1000,
+  "MaxVal": 2000,
+  "LevelList": [],
+  "ScoreFactors": [
+   0,
+   25,
+   1
+  ]
+ },
+ {
+  "NumKey": "@200431",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 5,
+  "MinVal": 3,
+  "MaxVal": 5,
+  "LevelList": [],
+  "ScoreFactors": [
+   0,
+   100,
+   1
+  ]
+ },
+ {
+  "NumKey": "@200481",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 50,
+  "MinVal": 25,
+  "MaxVal": 50,
+  "LevelList": [],
+  "ScoreFactors": [
+   0,
+   10,
+   1
+  ]
+ },
+ {
+  "NumKey": "@200491",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 5,
+  "MinVal": 3,
+  "MaxVal": 5,
+  "LevelList": [],
+  "ScoreFactors": [
+   0,
+   100,
+   1
+  ]
+ },
+ {
+  "NumKey": "@200551",
+  "ShowType": 2,
+  "NumType": 2,
+  "DefaultVal": 10000,
+  "MinVal": 0,
+  "MaxVal": 0,
+  "LevelList": [
+   5000,
+   6000,
+   7000,
+   8000,
+   9000,
+   10000
+  ],
+  "ScoreFactors": [
+   0,
+   1,
+   20
+  ]
+ },
+ {
+  "NumKey": "@200591",
+  "ShowType": 2,
+  "NumType": 1,
+  "DefaultVal": 2000,
+  "MinVal": 1000,
+  "MaxVal": 2000,
+  "LevelList": [],
+  "ScoreFactors": [
+   0,
+   25,
+   1
+  ]
+ },
+ {
+  "NumKey": "@200700",
+  "ShowType": 2,
+  "NumType": 1,
+  "DefaultVal": 4000,
+  "MinVal": 1000,
+  "MaxVal": 4000,
+  "LevelList": [],
+  "ScoreFactors": [
+   0,
+   1,
+   8
+  ]
+ },
+ {
+  "NumKey": "@200701",
+  "ShowType": 1,
+  "NumType": 2,
+  "DefaultVal": 3,
+  "MinVal": 0,
+  "MaxVal": 0,
+  "LevelList": [
+   3,
+   4,
+   5
+  ],
+  "ScoreFactors": [
+   200,
+   100,
+   1
+  ]
+ },
+ {
+  "NumKey": "@200720",
+  "ShowType": 2,
+  "NumType": 1,
+  "DefaultVal": 2000,
+  "MinVal": 500,
+  "MaxVal": 2000,
+  "LevelList": [],
+  "ScoreFactors": [
+   0,
+   1,
+   2
+  ]
+ },
+ {
+  "NumKey": "@300021",
+  "ShowType": 2,
+  "NumType": 1,
+  "DefaultVal": 42000,
+  "MinVal": 10500,
+  "MaxVal": 42000,
+  "LevelList": [],
+  "ScoreFactors": [
+   0,
+   1,
+   100
+  ]
+ },
+ {
+  "NumKey": "@300041",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 60,
+  "MinVal": 30,
+  "MaxVal": 60,
+  "LevelList": [],
+  "ScoreFactors": [
+   20,
+   8,
+   1
+  ]
+ },
+ {
+  "NumKey": "@300051",
+  "ShowType": 2,
+  "NumType": 1,
+  "DefaultVal": 4200,
+  "MinVal": 1000,
+  "MaxVal": 4200,
+  "LevelList": [],
+  "ScoreFactors": [
+   -200,
+   3,
+   4
+  ]
+ },
+ {
+  "NumKey": "@300061",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 100,
+  "MinVal": 50,
+  "MaxVal": 100,
+  "LevelList": [],
+  "ScoreFactors": [
+   0,
+   3,
+   1
+  ]
+ },
+ {
+  "NumKey": "@300071",
+  "ShowType": 2,
+  "NumType": 1,
+  "DefaultVal": 20000,
+  "MinVal": 10000,
+  "MaxVal": 20000,
+  "LevelList": [],
+  "ScoreFactors": [
+   0,
+   1,
+   40
+  ]
+ },
+ {
+  "NumKey": "@300081",
+  "ShowType": 2,
+  "NumType": 1,
+  "DefaultVal": 2000,
+  "MinVal": 500,
+  "MaxVal": 2000,
+  "LevelList": [],
+  "ScoreFactors": [
+   0,
+   1,
+   2
+  ]
+ },
+ {
+  "NumKey": "@300091",
+  "ShowType": 2,
+  "NumType": 1,
+  "DefaultVal": 4200,
+  "MinVal": 1050,
+  "MaxVal": 4200,
+  "LevelList": [],
+  "ScoreFactors": [
+   1000,
+   1,
+   10
+  ]
+ },
+ {
+  "NumKey": "@300121",
+  "ShowType": 2,
+  "NumType": 1,
+  "DefaultVal": 1000,
+  "MinVal": 500,
+  "MaxVal": 1000,
+  "LevelList": [],
+  "ScoreFactors": [
+   0,
+   1,
+   2
+  ]
+ },
+ {
+  "NumKey": "@300131",
+  "ShowType": 2,
+  "NumType": 1,
+  "DefaultVal": 6000,
+  "MinVal": 3000,
+  "MaxVal": 6000,
+  "LevelList": [],
+  "ScoreFactors": [
+   1000,
+   4,
+   5
+  ]
+ },
+ {
+  "NumKey": "@300141",
+  "ShowType": 1,
+  "NumType": 2,
+  "DefaultVal": 3,
+  "MinVal": 0,
+  "MaxVal": 0,
+  "LevelList": [
+   3,
+   4,
+   5,
+   6
+  ],
+  "ScoreFactors": [
+   800,
+   -1,
+   1
+  ]
+ },
+ {
+  "NumKey": "@300142",
+  "ShowType": 1,
+  "NumType": 2,
+  "DefaultVal": 3,
+  "MinVal": 0,
+  "MaxVal": 0,
+  "LevelList": [
+   3,
+   4,
+   5,
+   6
+  ],
+  "ScoreFactors": [
+   800,
+   -1,
+   1
+  ]
+ },
+ {
+  "NumKey": "@300151",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 20,
+  "MinVal": 10,
+  "MaxVal": 20,
+  "LevelList": [],
+  "ScoreFactors": [
+   0,
+   25,
+   1
+  ]
+ },
+ {
+  "NumKey": "@300211",
+  "ShowType": 2,
+  "NumType": 1,
+  "DefaultVal": 2000,
+  "MinVal": 1000,
+  "MaxVal": 2000,
+  "LevelList": [],
+  "ScoreFactors": [
+   0,
+   1,
+   4
+  ]
+ },
+ {
+  "NumKey": "@300241",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 3,
+  "MinVal": 1,
+  "MaxVal": 3,
+  "LevelList": [],
+  "ScoreFactors": [
+   50,
+   150,
+   1
+  ]
+ },
+ {
+  "NumKey": "@300261",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 50,
+  "MinVal": 25,
+  "MaxVal": 50,
+  "LevelList": [],
+  "ScoreFactors": [
+   0,
+   10,
+   1
+  ]
+ },
+ {
+  "NumKey": "@300291",
+  "ShowType": 2,
+  "NumType": 1,
+  "DefaultVal": 2000,
+  "MinVal": 1000,
+  "MaxVal": 2000,
+  "LevelList": [],
+  "ScoreFactors": [
+   0,
+   1,
+   4
+  ]
+ },
+ {
+  "NumKey": "@300311",
+  "ShowType": 2,
+  "NumType": 1,
+  "DefaultVal": 10000,
+  "MinVal": 5000,
+  "MaxVal": 10000,
+  "LevelList": [],
+  "ScoreFactors": [
+   0,
+   3,
+   1
+  ]
+ },
+ {
+  "NumKey": "@100772",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 5,
+  "MinVal": 1,
+  "MaxVal": 5,
+  "LevelList": [],
+  "ScoreFactors": [
+   0,
+   80,
+   1
+  ]
+ },
+ {
+  "NumKey": "@200102",
+  "ShowType": 2,
+  "NumType": 1,
+  "DefaultVal": 100,
+  "MinVal": 50,
+  "MaxVal": 100,
+  "LevelList": [],
+  "ScoreFactors": [
+   0,
+   3,
+   1
+  ]
+ },
+ {
+  "NumKey": "@200252",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 30,
+  "MinVal": 15,
+  "MaxVal": 30,
+  "LevelList": [],
+  "ScoreFactors": [
+   0,
+   10,
+   1
+  ]
+ },
+ {
+  "NumKey": "@300022",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 80,
+  "MinVal": 20,
+  "MaxVal": 80,
+  "LevelList": [],
+  "ScoreFactors": [
+   0,
+   5,
+   1
+  ]
+ },
+ {
+  "NumKey": "@300062",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 20,
+  "MinVal": 10,
+  "MaxVal": 20,
+  "LevelList": [],
+  "ScoreFactors": [
+   0,
+   20,
+   1
+  ]
+ },
+ {
+  "NumKey": "@300082",
+  "ShowType": 2,
+  "NumType": 1,
+  "DefaultVal": 2000,
+  "MinVal": 500,
+  "MaxVal": 2000,
+  "LevelList": [],
+  "ScoreFactors": [
+   0,
+   1,
+   2
+  ]
+ },
+ {
+  "NumKey": "@300092",
+  "ShowType": 2,
+  "NumType": 1,
+  "DefaultVal": 5000,
+  "MinVal": 1250,
+  "MaxVal": 5000,
+  "LevelList": [],
+  "ScoreFactors": [
+   0,
+   1,
+   5
+  ]
+ },
+ {
+  "NumKey": "@300312",
+  "ShowType": 2,
+  "NumType": 1,
+  "DefaultVal": 15000,
+  "MinVal": 7500,
+  "MaxVal": 15000,
+  "LevelList": [],
+  "ScoreFactors": [
+   100,
+   2,
+   1
+  ]
+ },
+ {
+  "NumKey": "@300330",
+  "ShowType": 2,
+  "NumType": 1,
+  "DefaultVal": 60000,
+  "MinVal": 15000,
+  "MaxVal": 60000,
+  "LevelList": [],
+  "ScoreFactors": [
+   0,
+   1,
+   120
+  ]
+ },
+ {
+  "NumKey": "@300331",
+  "ShowType": 2,
+  "NumType": 1,
+  "DefaultVal": 5000,
+  "MinVal": 1250,
+  "MaxVal": 5000,
+  "LevelList": [],
+  "ScoreFactors": [
+   0,
+   1,
+   10
+  ]
+ },
+ {
+  "NumKey": "@300332",
+  "ShowType": 2,
+  "NumType": 1,
+  "DefaultVal": 30000,
+  "MinVal": 30000,
+  "MaxVal": 30000,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@140502310",
+  "ShowType": 2,
+  "NumType": 1,
+  "DefaultVal": 4000,
+  "MinVal": 4000,
+  "MaxVal": 4000,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@140502320",
+  "ShowType": 2,
+  "NumType": 1,
+  "DefaultVal": 5300,
+  "MinVal": 5300,
+  "MaxVal": 5300,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@140502330",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 6600,
+  "MinVal": 6600,
+  "MaxVal": 6600,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@140201410",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 1,
+  "MinVal": 1,
+  "MaxVal": 1,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@140201610",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 2,
+  "MinVal": 2,
+  "MaxVal": 2,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@1140201610",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 4,
+  "MinVal": 4,
+  "MaxVal": 4,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@140402",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 1,
+  "MinVal": 1,
+  "MaxVal": 1,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@1404021",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 2,
+  "MinVal": 2,
+  "MaxVal": 2,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@130401111",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 1000,
+  "MinVal": 1000,
+  "MaxVal": 1000,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@130401112",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 1,
+  "MinVal": 1,
+  "MaxVal": 1,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@130401110",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 20,
+  "MinVal": 20,
+  "MaxVal": 20,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@110605110",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 110605110,
+  "MinVal": 110605110,
+  "MaxVal": 110605110,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@110605112",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 110605111,
+  "MinVal": 110605111,
+  "MaxVal": 110605111,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@110605113",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 0,
+  "MinVal": 0,
+  "MaxVal": 0,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@1110605110",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 1,
+  "MinVal": 1,
+  "MaxVal": 1,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@1110605210",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 2000,
+  "MinVal": 2000,
+  "MaxVal": 2000,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@1110605610",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 30,
+  "MinVal": 30,
+  "MaxVal": 30,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@2110605610",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 0,
+  "MinVal": 0,
+  "MaxVal": 0,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@130603111",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 2000,
+  "MinVal": 2000,
+  "MaxVal": 2000,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@130603112",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 3000,
+  "MinVal": 3000,
+  "MaxVal": 3000,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@130603113",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 1,
+  "MinVal": 1,
+  "MaxVal": 1,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@2130603110",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 1,
+  "MinVal": 1,
+  "MaxVal": 1,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@2130603610",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 12000,
+  "MinVal": 12000,
+  "MaxVal": 12000,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@2130603611",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 18000,
+  "MinVal": 18000,
+  "MaxVal": 18000,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@1130603710",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 50,
+  "MinVal": 50,
+  "MaxVal": 50,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@1130603612",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 4,
+  "MinVal": 4,
+  "MaxVal": 4,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@2130603612",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 7,
+  "MinVal": 7,
+  "MaxVal": 7,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@1130603810",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": -1,
+  "MinVal": -1,
+  "MaxVal": -1,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@140201110",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 5,
+  "MinVal": 5,
+  "MaxVal": 5,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@140201111",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 1,
+  "MinVal": 1,
+  "MaxVal": 1,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@140201112",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 0,
+  "MinVal": 0,
+  "MaxVal": 0,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@140201113",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 2000,
+  "MinVal": 2000,
+  "MaxVal": 2000,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@140201114",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 1000,
+  "MinVal": 1000,
+  "MaxVal": 1000,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@140201115",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": -1,
+  "MinVal": -1,
+  "MaxVal": -1,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@1140201512",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 2000,
+  "MinVal": 2000,
+  "MaxVal": 2000,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@140201913",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 2500,
+  "MinVal": 2500,
+  "MaxVal": 2500,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@110000410",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 5,
+  "MinVal": 5,
+  "MaxVal": 5,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@110000411",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 2000,
+  "MinVal": 2000,
+  "MaxVal": 2000,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@110000412",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 2500,
+  "MinVal": 2500,
+  "MaxVal": 2500,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@110000110",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 200,
+  "MinVal": 200,
+  "MaxVal": 200,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@110000111",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 200,
+  "MinVal": 200,
+  "MaxVal": 200,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@120202112",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 1000,
+  "MinVal": 1000,
+  "MaxVal": 1000,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@250",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 5,
+  "MinVal": 5,
+  "MaxVal": 5,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@120202610",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 15000,
+  "MinVal": 15000,
+  "MaxVal": 15000,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@120202710",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 400,
+  "MinVal": 400,
+  "MaxVal": 400,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@110202110",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 1,
+  "MinVal": 1,
+  "MaxVal": 1,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@110202610",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 500,
+  "MinVal": 500,
+  "MaxVal": 500,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@110202710",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 400,
+  "MinVal": 400,
+  "MaxVal": 400,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@100005110",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 100,
+  "MinVal": 100,
+  "MaxVal": 100,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@100005111",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 100,
+  "MinVal": 100,
+  "MaxVal": 100,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@100003111",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": -100,
+  "MinVal": -100,
+  "MaxVal": -100,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@100003113",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": -500,
+  "MinVal": -500,
+  "MaxVal": -500,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@100003114",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": -500,
+  "MinVal": -500,
+  "MaxVal": -500,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@100003115",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": -500,
+  "MinVal": -500,
+  "MaxVal": -500,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@101301",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 20,
+  "MinVal": 20,
+  "MaxVal": 20,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@101302",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 20,
+  "MinVal": 20,
+  "MaxVal": 20,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@101303",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 20,
+  "MinVal": 20,
+  "MaxVal": 20,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@101304",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 20,
+  "MinVal": 20,
+  "MaxVal": 20,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@1000041101",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 2500,
+  "MinVal": 2500,
+  "MaxVal": 2500,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@140202110",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 3000,
+  "MinVal": 3000,
+  "MaxVal": 3000,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@140202112",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 1,
+  "MinVal": 1,
+  "MaxVal": 1,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@1140202610",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 140202110,
+  "MinVal": 140202110,
+  "MaxVal": 140202110,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@100005112",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 100,
+  "MinVal": 100,
+  "MaxVal": 100,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@100005113",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 100,
+  "MinVal": 100,
+  "MaxVal": 100,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@100005114",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 100,
+  "MinVal": 100,
+  "MaxVal": 100,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@120602611",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 1,
+  "MinVal": 1,
+  "MaxVal": 1,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@100001111",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 200,
+  "MinVal": 200,
+  "MaxVal": 200,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@100001112",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 200,
+  "MinVal": 200,
+  "MaxVal": 200,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@100001113",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 200,
+  "MinVal": 200,
+  "MaxVal": 200,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@120702111",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 100,
+  "MinVal": 100,
+  "MaxVal": 100,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@120702210",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 200,
+  "MinVal": 200,
+  "MaxVal": 200,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@120702710",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 200,
+  "MinVal": 200,
+  "MaxVal": 200,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@140701210",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 500,
+  "MinVal": 500,
+  "MaxVal": 500,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@140701610",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 25,
+  "MinVal": 25,
+  "MaxVal": 25,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@140701611",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 100,
+  "MinVal": 100,
+  "MaxVal": 100,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@1000081111",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 10,
+  "MinVal": 10,
+  "MaxVal": 10,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@1000082111",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 10,
+  "MinVal": 10,
+  "MaxVal": 10,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@1000083111",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 10,
+  "MinVal": 10,
+  "MaxVal": 10,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@1000084111",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 10,
+  "MinVal": 10,
+  "MaxVal": 10,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@210501111",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 8000,
+  "MinVal": 8000,
+  "MaxVal": 8000,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@210501112",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 1,
+  "MinVal": 1,
+  "MaxVal": 1,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@210501232",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 3,
+  "MinVal": 3,
+  "MaxVal": 3,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@210501242",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 100,
+  "MinVal": 100,
+  "MaxVal": 100,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@130702115",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 1000,
+  "MinVal": 1000,
+  "MaxVal": 1000,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@130702116",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 5000,
+  "MinVal": 5000,
+  "MaxVal": 5000,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@130702117",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 30,
+  "MinVal": 30,
+  "MaxVal": 30,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@140702111",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 140702111,
+  "MinVal": 140702111,
+  "MaxVal": 140702111,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@140702112",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 3000,
+  "MinVal": 3000,
+  "MaxVal": 3000,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@140702113",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 2,
+  "MinVal": 2,
+  "MaxVal": 2,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@1140702610",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 28000,
+  "MinVal": 28000,
+  "MaxVal": 28000,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@1140702611",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": -1,
+  "MinVal": -1,
+  "MaxVal": -1,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@1140702612",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 28000,
+  "MinVal": 28000,
+  "MaxVal": 28000,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@13001",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 10,
+  "MinVal": 10,
+  "MaxVal": 10,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@507005010",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 1,
+  "MinVal": 1,
+  "MaxVal": 1,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@140401110",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 2100,
+  "MinVal": 2100,
+  "MaxVal": 2100,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@140401111",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 1400,
+  "MinVal": 1400,
+  "MaxVal": 1400,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@140401112",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 3500,
+  "MinVal": 3500,
+  "MaxVal": 3500,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@140401113",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 20,
+  "MinVal": 20,
+  "MaxVal": 20,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@140401114",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 50,
+  "MinVal": 50,
+  "MaxVal": 50,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@140401115",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 30,
+  "MinVal": 30,
+  "MaxVal": 30,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@2140404611",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 50,
+  "MinVal": 50,
+  "MaxVal": 50,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@120301110",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 1,
+  "MinVal": 1,
+  "MaxVal": 1,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@120301111",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 2,
+  "MinVal": 2,
+  "MaxVal": 2,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@120301112",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 3,
+  "MinVal": 3,
+  "MaxVal": 3,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@120301113",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 800,
+  "MinVal": 800,
+  "MaxVal": 800,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@120301114",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 6000,
+  "MinVal": 6000,
+  "MaxVal": 6000,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@120301115",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 1,
+  "MinVal": 1,
+  "MaxVal": 1,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@1120301610",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 6000,
+  "MinVal": 6000,
+  "MaxVal": 6000,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@2120301311",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 5000,
+  "MinVal": 5000,
+  "MaxVal": 5000,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@110201010",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 1,
+  "MinVal": 1,
+  "MaxVal": 1,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@110201111",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 2500,
+  "MinVal": 2500,
+  "MaxVal": 2500,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@110201112",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 1,
+  "MinVal": 1,
+  "MaxVal": 1,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@110201110",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 5,
+  "MinVal": 5,
+  "MaxVal": 5,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@110201113",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 60,
+  "MinVal": 60,
+  "MaxVal": 60,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@1110201413",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 500,
+  "MinVal": 500,
+  "MaxVal": 500,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@1110201511",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 5000,
+  "MinVal": 5000,
+  "MaxVal": 5000,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@1110201611",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 0,
+  "MinVal": 0,
+  "MaxVal": 0,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@1110201610",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 4000,
+  "MinVal": 4000,
+  "MaxVal": 4000,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@1110201614",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 10000,
+  "MinVal": 10000,
+  "MaxVal": 10000,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@2110201211",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 1500,
+  "MinVal": 1500,
+  "MaxVal": 1500,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@2110201212",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 50,
+  "MinVal": 50,
+  "MaxVal": 50,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@120202110",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 3000,
+  "MinVal": 3000,
+  "MaxVal": 3000,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@120202211",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 25,
+  "MinVal": 25,
+  "MaxVal": 25,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@120202310",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 3,
+  "MinVal": 3,
+  "MaxVal": 3,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@120202311",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 2,
+  "MinVal": 2,
+  "MaxVal": 2,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@120202312",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 3200,
+  "MinVal": 3200,
+  "MaxVal": 3200,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@130501100",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 1400,
+  "MinVal": 1400,
+  "MaxVal": 1400,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@130501110",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 2,
+  "MinVal": 2,
+  "MaxVal": 2,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@130501200",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 1,
+  "MinVal": 1,
+  "MaxVal": 1,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@130501210",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 50,
+  "MinVal": 50,
+  "MaxVal": 50,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@130501211",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 2800,
+  "MinVal": 2800,
+  "MaxVal": 2800,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@130501412",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 3000,
+  "MinVal": 3000,
+  "MaxVal": 3000,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@130501612",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 9000,
+  "MinVal": 9000,
+  "MaxVal": 9000,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@130501310",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 50,
+  "MinVal": 50,
+  "MaxVal": 50,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@2130501111",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 0,
+  "MinVal": 0,
+  "MaxVal": 0,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@140304110",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 2,
+  "MinVal": 2,
+  "MaxVal": 2,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@140304111",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 2000,
+  "MinVal": 2000,
+  "MaxVal": 2000,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@140304112",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 20,
+  "MinVal": 20,
+  "MaxVal": 20,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@140304210",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 2500,
+  "MinVal": 2500,
+  "MaxVal": 2500,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@140304211",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 3,
+  "MinVal": 3,
+  "MaxVal": 3,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@140304212",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 0,
+  "MinVal": 0,
+  "MaxVal": 0,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@140304412",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 30000,
+  "MinVal": 30000,
+  "MaxVal": 30000,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@140404111",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 2700,
+  "MinVal": 2700,
+  "MaxVal": 2700,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@140404125",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 1400,
+  "MinVal": 1400,
+  "MaxVal": 1400,
+  "LevelList": [
+   840
+  ],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@140404126",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 1800,
+  "MinVal": 1800,
+  "MaxVal": 1800,
+  "LevelList": [
+   1080
+  ],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@140404127",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 2400,
+  "MinVal": 2400,
+  "MaxVal": 2400,
+  "LevelList": [
+   1440
+  ],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@1140404112",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": -3000,
+  "MinVal": -3000,
+  "MaxVal": -3000,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@1140404212",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 3000,
+  "MinVal": 3000,
+  "MaxVal": 3000,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@1140404311",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 10800,
+  "MinVal": 10800,
+  "MaxVal": 10800,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@140404110",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 1,
+  "MinVal": 1,
+  "MaxVal": 1,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@1140404610",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 80000,
+  "MinVal": 80000,
+  "MaxVal": 80000,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@1140404611",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 45000,
+  "MinVal": 45000,
+  "MaxVal": 45000,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@1140404612",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 0,
+  "MinVal": 0,
+  "MaxVal": 0,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@2140404110",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 0,
+  "MinVal": 0,
+  "MaxVal": 0,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@2140404210",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 0,
+  "MinVal": 0,
+  "MaxVal": 0,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@2140404310",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 0,
+  "MinVal": 0,
+  "MaxVal": 0,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@2140404612",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 2000,
+  "MinVal": 2000,
+  "MaxVal": 2000,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@2140404613",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 5000,
+  "MinVal": 5000,
+  "MaxVal": 5000,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@2140404614",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 32000,
+  "MinVal": 32000,
+  "MaxVal": 32000,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@2140404615",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 32000,
+  "MinVal": 32000,
+  "MaxVal": 32000,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@140701112",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 1600,
+  "MinVal": 1600,
+  "MaxVal": 1600,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@140403110",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 25,
+  "MinVal": 25,
+  "MaxVal": 25,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@140403111",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 0,
+  "MinVal": 0,
+  "MaxVal": 0,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@140403112",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 0,
+  "MinVal": 0,
+  "MaxVal": 0,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@140403113",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 0,
+  "MinVal": 0,
+  "MaxVal": 0,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@140403114",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 500,
+  "MinVal": 500,
+  "MaxVal": 500,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@140403115",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 3000,
+  "MinVal": 3000,
+  "MaxVal": 3000,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@140403116",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 500,
+  "MinVal": 500,
+  "MaxVal": 500,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@140403117",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 2000,
+  "MinVal": 2000,
+  "MaxVal": 2000,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@140403118",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 10,
+  "MinVal": 10,
+  "MaxVal": 10,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@140403119",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 8,
+  "MinVal": 8,
+  "MaxVal": 8,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@140403210",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 0,
+  "MinVal": 0,
+  "MaxVal": 0,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@130702110",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 5,
+  "MinVal": 5,
+  "MaxVal": 5,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@130702111",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 4000,
+  "MinVal": 4000,
+  "MaxVal": 4000,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@130702112",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 20,
+  "MinVal": 20,
+  "MaxVal": 20,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@130702011",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 0,
+  "MinVal": 0,
+  "MaxVal": 0,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@130702113",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 945,
+  "MinVal": 945,
+  "MaxVal": 945,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@130702114",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 4400,
+  "MinVal": 4400,
+  "MaxVal": 4400,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@130702118",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 0,
+  "MinVal": 0,
+  "MaxVal": 0,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@1130702211",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 4000,
+  "MinVal": 4000,
+  "MaxVal": 4000,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@110302010",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 1,
+  "MinVal": 1,
+  "MaxVal": 1,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@110302111",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 2,
+  "MinVal": 2,
+  "MaxVal": 2,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@110302112",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 0,
+  "MinVal": 0,
+  "MaxVal": 0,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@110302110",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 2000,
+  "MinVal": 2000,
+  "MaxVal": 2000,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@1110302210",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 0,
+  "MinVal": 0,
+  "MaxVal": 0,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@1110302310",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 5000,
+  "MinVal": 5000,
+  "MaxVal": 5000,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@2110302111",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 8,
+  "MinVal": 8,
+  "MaxVal": 8,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@1130401111",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 50,
+  "MinVal": 50,
+  "MaxVal": 50,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@1130401311",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 50,
+  "MinVal": 50,
+  "MaxVal": 50,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@1130401710",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 5,
+  "MinVal": 5,
+  "MaxVal": 5,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@1130401711",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 50,
+  "MinVal": 50,
+  "MaxVal": 50,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@130202110",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 8000,
+  "MinVal": 8000,
+  "MaxVal": 8000,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@130202111",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 1,
+  "MinVal": 1,
+  "MaxVal": 1,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@130202112",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 500,
+  "MinVal": 500,
+  "MaxVal": 500,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@130202113",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 10,
+  "MinVal": 10,
+  "MaxVal": 10,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@130202114",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 130202110,
+  "MinVal": 130202110,
+  "MaxVal": 130202110,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@120602110",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 8000,
+  "MinVal": 8000,
+  "MaxVal": 8000,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@120602111",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 1,
+  "MinVal": 1,
+  "MaxVal": 1,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@120602112",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 10,
+  "MinVal": 10,
+  "MaxVal": 10,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@120602113",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 100,
+  "MinVal": 100,
+  "MaxVal": 100,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@120602114",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 200,
+  "MinVal": 200,
+  "MaxVal": 200,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@120602200",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 120602110,
+  "MinVal": 120602110,
+  "MaxVal": 120602110,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@120602300",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 120602100,
+  "MinVal": 120602100,
+  "MaxVal": 120602100,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@1120602210",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": -1000,
+  "MinVal": -1000,
+  "MaxVal": -1000,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@1120602310",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 6000,
+  "MinVal": 6000,
+  "MaxVal": 6000,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@1120602410",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 5000,
+  "MinVal": 5000,
+  "MaxVal": 5000,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@1120602411",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 5,
+  "MinVal": 5,
+  "MaxVal": 5,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@1120602412",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 1,
+  "MinVal": 1,
+  "MaxVal": 1,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@2120602111",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 1000,
+  "MinVal": 1000,
+  "MaxVal": 1000,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@2120602211",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 5000,
+  "MinVal": 5000,
+  "MaxVal": 5000,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@2120602312",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": -1000,
+  "MinVal": -1000,
+  "MaxVal": -1000,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@2120602411",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": -200,
+  "MinVal": -200,
+  "MaxVal": -200,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@120302100",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 120302110,
+  "MinVal": 120302110,
+  "MaxVal": 120302110,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@120302110",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 130001,
+  "MinVal": 130001,
+  "MaxVal": 130001,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@120302111",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 120302110,
+  "MinVal": 120302110,
+  "MaxVal": 120302110,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@120302112",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 8000,
+  "MinVal": 8000,
+  "MaxVal": 8000,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@120302113",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 1,
+  "MinVal": 1,
+  "MaxVal": 1,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@2120302211",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 10,
+  "MinVal": 20,
+  "MaxVal": 20,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@2120302212",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 100,
+  "MinVal": 100,
+  "MaxVal": 100,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@2120302213",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 20,
+  "MinVal": 30,
+  "MaxVal": 30,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@2120302214",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 100,
+  "MinVal": 100,
+  "MaxVal": 100,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@2120302215",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 30,
+  "MinVal": 40,
+  "MaxVal": 40,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@2120302216",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 100,
+  "MinVal": 100,
+  "MaxVal": 100,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@2120302217",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 10,
+  "MinVal": 30,
+  "MaxVal": 30,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@2120302218",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 100,
+  "MinVal": 100,
+  "MaxVal": 100,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@140301110",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 10000,
+  "MinVal": 10000,
+  "MaxVal": 10000,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@140301111",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 1,
+  "MinVal": 1,
+  "MaxVal": 1,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@1140301111",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 3000,
+  "MinVal": 3000,
+  "MaxVal": 3000,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@1140301311",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 5000,
+  "MinVal": 5000,
+  "MaxVal": 5000,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@1140301512",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": -2000,
+  "MinVal": -2000,
+  "MaxVal": -2000,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@1140301610",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": -1,
+  "MinVal": -1,
+  "MaxVal": -1,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@1140301611",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 3,
+  "MinVal": 3,
+  "MaxVal": 3,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@2140301110",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 3000,
+  "MinVal": 3000,
+  "MaxVal": 3000,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@2140301111",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 5000,
+  "MinVal": 5000,
+  "MaxVal": 5000,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@2140301211",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": -1300,
+  "MinVal": -1300,
+  "MaxVal": -1300,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@2140301310",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 10000,
+  "MinVal": 10000,
+  "MaxVal": 10000,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@2140301410",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 16,
+  "MinVal": 16,
+  "MaxVal": 16,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@2140301512",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 1000,
+  "MinVal": 1000,
+  "MaxVal": 1000,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@2140301513",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 1000,
+  "MinVal": 1000,
+  "MaxVal": 1000,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@110402110",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 1,
+  "MinVal": 1,
+  "MaxVal": 1,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@110402111",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 8000,
+  "MinVal": 8000,
+  "MaxVal": 8000,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@1110402510",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 3,
+  "MinVal": 3,
+  "MaxVal": 3,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@1110402611",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 7500,
+  "MinVal": 7500,
+  "MaxVal": 7500,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@1110402612",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 0,
+  "MinVal": 0,
+  "MaxVal": 0,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@1110402613",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 1110402610,
+  "MinVal": 1110402610,
+  "MaxVal": 1110402610,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@2110402611",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 50,
+  "MinVal": 50,
+  "MaxVal": 50,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@30026000",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 500,
+  "MinVal": 500,
+  "MaxVal": 500,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@110701110",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 1,
+  "MinVal": 1,
+  "MaxVal": 1,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@110701111",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 2000,
+  "MinVal": 2000,
+  "MaxVal": 2000,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@1110701111",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 5200,
+  "MinVal": 5200,
+  "MaxVal": 5200,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@1110701411",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 1500,
+  "MinVal": 1500,
+  "MaxVal": 1500,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@1110701510",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 20,
+  "MinVal": 20,
+  "MaxVal": 20,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@1110701511",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 100,
+  "MinVal": 100,
+  "MaxVal": 100,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@30026010",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 30026010,
+  "MinVal": 30026010,
+  "MaxVal": 30026010,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@1110701610",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 46000,
+  "MinVal": 46000,
+  "MaxVal": 46000,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@1110701611",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 15000,
+  "MinVal": 15000,
+  "MaxVal": 15000,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@1110701612",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 10,
+  "MinVal": 10,
+  "MaxVal": 10,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@2110701610",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": -1,
+  "MinVal": -1,
+  "MaxVal": -1,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@2110701611",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 400,
+  "MinVal": 400,
+  "MaxVal": 400,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@2110701612",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 4,
+  "MinVal": 4,
+  "MaxVal": 4,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@130601110",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 130601100,
+  "MinVal": 130601100,
+  "MaxVal": 130601100,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@130601120",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 130601110,
+  "MinVal": 130601110,
+  "MaxVal": 130601110,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@130601130",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 130601111,
+  "MinVal": 130601111,
+  "MaxVal": 130601111,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@130601111",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 5000,
+  "MinVal": 5000,
+  "MaxVal": 5000,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@130601112",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 500,
+  "MinVal": 500,
+  "MaxVal": 500,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@130601113",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 1,
+  "MinVal": 1,
+  "MaxVal": 1,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@130601114",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": -1,
+  "MinVal": -1,
+  "MaxVal": -1,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@130601115",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": -4000,
+  "MinVal": -4000,
+  "MaxVal": -4000,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@1130601611",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": -900,
+  "MinVal": -900,
+  "MaxVal": -900,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@2130601611",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 50,
+  "MinVal": 50,
+  "MaxVal": 50,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@120603110",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 700,
+  "MinVal": 700,
+  "MaxVal": 700,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@120603111",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 10000,
+  "MinVal": 10000,
+  "MaxVal": 10000,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@120603112",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 1,
+  "MinVal": 1,
+  "MaxVal": 1,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@120603113",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 900,
+  "MinVal": 900,
+  "MaxVal": 900,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@120603114",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 10,
+  "MinVal": 10,
+  "MaxVal": 10,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@120603115",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 500,
+  "MinVal": 500,
+  "MaxVal": 500,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@1120603610",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 8000,
+  "MinVal": 8000,
+  "MaxVal": 8000,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@1120603611",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 9,
+  "MinVal": 9,
+  "MaxVal": 9,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@2120603610",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 2120603610,
+  "MinVal": 2120603610,
+  "MaxVal": 2120603610,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@2120603611",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 4000,
+  "MinVal": 4000,
+  "MaxVal": 4000,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@110202111",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 80,
+  "MinVal": 80,
+  "MaxVal": 80,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@110202112",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 50,
+  "MinVal": 50,
+  "MaxVal": 50,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@110202113",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 2000,
+  "MinVal": 2000,
+  "MaxVal": 2000,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@110202114",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 3000,
+  "MinVal": 3000,
+  "MaxVal": 3000,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@110604110",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 800,
+  "MinVal": 800,
+  "MaxVal": 800,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@110604111",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 300,
+  "MinVal": 300,
+  "MaxVal": 300,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@110604112",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": -1900,
+  "MinVal": -1900,
+  "MaxVal": -1900,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@110604113",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 1,
+  "MinVal": 1,
+  "MaxVal": 1,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@110604114",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 6,
+  "MinVal": 6,
+  "MaxVal": 6,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@110604115",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": -1,
+  "MinVal": -1,
+  "MaxVal": -1,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@110604226",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 200,
+  "MinVal": 200,
+  "MaxVal": 200,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@110604421",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 50,
+  "MinVal": 50,
+  "MaxVal": 50,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@110604310",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 3,
+  "MinVal": 3,
+  "MaxVal": 3,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@110604410",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 4,
+  "MinVal": 4,
+  "MaxVal": 4,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@110604412",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 7000,
+  "MinVal": 7000,
+  "MaxVal": 7000,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@110604422",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 50,
+  "MinVal": 50,
+  "MaxVal": 50,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@110604415",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": -1,
+  "MinVal": -1,
+  "MaxVal": -1,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@110604430",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 20,
+  "MinVal": 20,
+  "MaxVal": 20,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@140402110",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 2,
+  "MinVal": 2,
+  "MaxVal": 2,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@140402111",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 1800,
+  "MinVal": 1800,
+  "MaxVal": 1800,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@140402210",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 3,
+  "MinVal": 3,
+  "MaxVal": 3,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@140402211",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 4000,
+  "MinVal": 4000,
+  "MaxVal": 4000,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@1140402110",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 3,
+  "MinVal": 3,
+  "MaxVal": 3,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@140402510",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 0,
+  "MinVal": 0,
+  "MaxVal": 0,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@140402511",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 0,
+  "MinVal": 0,
+  "MaxVal": 0,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@140402512",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 60,
+  "MinVal": 60,
+  "MaxVal": 60,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@140402610",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 50,
+  "MinVal": 50,
+  "MaxVal": 50,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@140402611",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 7500,
+  "MinVal": 7500,
+  "MaxVal": 7500,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@140402310",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 0,
+  "MinVal": 0,
+  "MaxVal": 0,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@450101110",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 5000,
+  "MinVal": 5000,
+  "MaxVal": 5000,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@450101211",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 3,
+  "MinVal": 3,
+  "MaxVal": 3,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@450101221",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 5000,
+  "MinVal": 5000,
+  "MaxVal": 5000,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@50101111",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 1,
+  "MinVal": 1,
+  "MaxVal": 1,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@50101112",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 2,
+  "MinVal": 2,
+  "MaxVal": 2,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@50101113",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 3,
+  "MinVal": 3,
+  "MaxVal": 3,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@420101210",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 1000,
+  "MinVal": 1000,
+  "MaxVal": 1000,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@420101310",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 1,
+  "MinVal": 1,
+  "MaxVal": 1,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@110602110",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 3000,
+  "MinVal": 3000,
+  "MaxVal": 3000,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@110602111",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 1200,
+  "MinVal": 1200,
+  "MaxVal": 1200,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@110602211",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 5,
+  "MinVal": 5,
+  "MaxVal": 5,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@110602212",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 300,
+  "MinVal": 300,
+  "MaxVal": 300,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@110602310",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": -1000,
+  "MinVal": -1000,
+  "MaxVal": -1000,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@100005710",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 3,
+  "MinVal": 3,
+  "MaxVal": 3,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@800001",
+  "ShowType": 1,
+  "NumType": 2,
+  "DefaultVal": 0,
+  "MinVal": 0,
+  "MaxVal": 0,
+  "LevelList": [
+   5000,
+   13000,
+   25000,
+   46000,
+   79000,
+   167000,
+   200000,
+   250000
+  ],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@800002",
+  "ShowType": 1,
+  "NumType": 2,
+  "DefaultVal": 0,
+  "MinVal": 0,
+  "MaxVal": 0,
+  "LevelList": [
+   5000,
+   13000,
+   25000,
+   46000,
+   79000,
+   167000,
+   200000,
+   250000
+  ],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@800003",
+  "ShowType": 1,
+  "NumType": 2,
+  "DefaultVal": 0,
+  "MinVal": 0,
+  "MaxVal": 0,
+  "LevelList": [
+   5000,
+   13000,
+   25000,
+   46000,
+   79000,
+   167000,
+   200000,
+   250000
+  ],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@800004",
+  "ShowType": 1,
+  "NumType": 2,
+  "DefaultVal": 0,
+  "MinVal": 0,
+  "MaxVal": 0,
+  "LevelList": [
+   5000,
+   13000,
+   25000,
+   46000,
+   79000,
+   167000,
+   200000,
+   250000
+  ],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@800005",
+  "ShowType": 1,
+  "NumType": 2,
+  "DefaultVal": 0,
+  "MinVal": 0,
+  "MaxVal": 0,
+  "LevelList": [
+   5000,
+   13000,
+   25000,
+   46000,
+   79000,
+   167000,
+   200000,
+   250000
+  ],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@800011",
+  "ShowType": 1,
+  "NumType": 2,
+  "DefaultVal": 0,
+  "MinVal": 0,
+  "MaxVal": 0,
+  "LevelList": [
+   6000,
+   15000,
+   30000,
+   55000,
+   95000,
+   200000,
+   240000,
+   300000
+  ],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@800012",
+  "ShowType": 1,
+  "NumType": 2,
+  "DefaultVal": 0,
+  "MinVal": 0,
+  "MaxVal": 0,
+  "LevelList": [
+   6000,
+   15000,
+   30000,
+   55000,
+   95000,
+   200000,
+   240000,
+   300000
+  ],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@800013",
+  "ShowType": 1,
+  "NumType": 2,
+  "DefaultVal": 0,
+  "MinVal": 0,
+  "MaxVal": 0,
+  "LevelList": [
+   6000,
+   15000,
+   30000,
+   55000,
+   95000,
+   200000,
+   240000,
+   300000
+  ],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@800014",
+  "ShowType": 1,
+  "NumType": 2,
+  "DefaultVal": 0,
+  "MinVal": 0,
+  "MaxVal": 0,
+  "LevelList": [
+   6000,
+   15000,
+   30000,
+   55000,
+   95000,
+   200000,
+   240000,
+   300000
+  ],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@800015",
+  "ShowType": 1,
+  "NumType": 2,
+  "DefaultVal": 0,
+  "MinVal": 0,
+  "MaxVal": 0,
+  "LevelList": [
+   6000,
+   15000,
+   30000,
+   55000,
+   95000,
+   200000,
+   240000,
+   300000
+  ],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@800021",
+  "ShowType": 1,
+  "NumType": 2,
+  "DefaultVal": 0,
+  "MinVal": 0,
+  "MaxVal": 0,
+  "LevelList": [
+   7000,
+   17000,
+   35000,
+   64000,
+   111000,
+   233000,
+   280000,
+   350000
+  ],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@800022",
+  "ShowType": 1,
+  "NumType": 2,
+  "DefaultVal": 0,
+  "MinVal": 0,
+  "MaxVal": 0,
+  "LevelList": [
+   7000,
+   17000,
+   35000,
+   64000,
+   111000,
+   233000,
+   280000,
+   350000
+  ],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@800023",
+  "ShowType": 1,
+  "NumType": 2,
+  "DefaultVal": 0,
+  "MinVal": 0,
+  "MaxVal": 0,
+  "LevelList": [
+   7000,
+   17000,
+   35000,
+   64000,
+   111000,
+   233000,
+   280000,
+   350000
+  ],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@800024",
+  "ShowType": 1,
+  "NumType": 2,
+  "DefaultVal": 0,
+  "MinVal": 0,
+  "MaxVal": 0,
+  "LevelList": [
+   7000,
+   17000,
+   35000,
+   64000,
+   111000,
+   233000,
+   280000,
+   350000
+  ],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@800025",
+  "ShowType": 1,
+  "NumType": 2,
+  "DefaultVal": 0,
+  "MinVal": 0,
+  "MaxVal": 0,
+  "LevelList": [
+   7000,
+   17000,
+   35000,
+   64000,
+   111000,
+   233000,
+   280000,
+   350000
+  ],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@1140701611",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 25,
+  "MinVal": 25,
+  "MaxVal": 25,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@2140701610",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 7000,
+  "MinVal": 7000,
+  "MaxVal": 7000,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@1140701716",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 480,
+  "MinVal": 480,
+  "MaxVal": 480,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@1130702611",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 6,
+  "MinVal": 6,
+  "MaxVal": 6,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@2130702611",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 4,
+  "MinVal": 4,
+  "MaxVal": 4,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@1130702612",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 4,
+  "MinVal": 4,
+  "MaxVal": 4,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@840104110",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 1,
+  "MinVal": 1,
+  "MaxVal": 1,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@840106110",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 42,
+  "MinVal": 42,
+  "MaxVal": 42,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@840106111",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 1,
+  "MinVal": 1,
+  "MaxVal": 1,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@8133",
+  "ShowType": 2,
+  "NumType": 1,
+  "DefaultVal": 300,
+  "MinVal": 150,
+  "MaxVal": 300,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@18133",
+  "ShowType": 2,
+  "NumType": 1,
+  "DefaultVal": 600,
+  "MinVal": 300,
+  "MaxVal": 600,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@28133",
+  "ShowType": 2,
+  "NumType": 1,
+  "DefaultVal": 900,
+  "MinVal": 600,
+  "MaxVal": 900,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@38133",
+  "ShowType": 2,
+  "NumType": 1,
+  "DefaultVal": 1200,
+  "MinVal": 900,
+  "MaxVal": 1200,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@48133",
+  "ShowType": 2,
+  "NumType": 1,
+  "DefaultVal": 1500,
+  "MinVal": 1200,
+  "MaxVal": 1500,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@8134",
+  "ShowType": 2,
+  "NumType": 1,
+  "DefaultVal": 200,
+  "MinVal": 100,
+  "MaxVal": 200,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@18134",
+  "ShowType": 2,
+  "NumType": 1,
+  "DefaultVal": 400,
+  "MinVal": 200,
+  "MaxVal": 400,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@28134",
+  "ShowType": 2,
+  "NumType": 1,
+  "DefaultVal": 600,
+  "MinVal": 400,
+  "MaxVal": 600,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@38134",
+  "ShowType": 2,
+  "NumType": 1,
+  "DefaultVal": 800,
+  "MinVal": 600,
+  "MaxVal": 800,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@48134",
+  "ShowType": 2,
+  "NumType": 1,
+  "DefaultVal": 1000,
+  "MinVal": 800,
+  "MaxVal": 1000,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@8135",
+  "ShowType": 2,
+  "NumType": 1,
+  "DefaultVal": 600,
+  "MinVal": 300,
+  "MaxVal": 600,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@18135",
+  "ShowType": 2,
+  "NumType": 1,
+  "DefaultVal": 1200,
+  "MinVal": 600,
+  "MaxVal": 1200,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@28135",
+  "ShowType": 2,
+  "NumType": 1,
+  "DefaultVal": 1800,
+  "MinVal": 1200,
+  "MaxVal": 1800,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@38135",
+  "ShowType": 2,
+  "NumType": 1,
+  "DefaultVal": 2400,
+  "MinVal": 1800,
+  "MaxVal": 2400,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@48135",
+  "ShowType": 2,
+  "NumType": 1,
+  "DefaultVal": 3000,
+  "MinVal": 2400,
+  "MaxVal": 3000,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@8136",
+  "ShowType": 2,
+  "NumType": 1,
+  "DefaultVal": 250,
+  "MinVal": 100,
+  "MaxVal": 250,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@18136",
+  "ShowType": 2,
+  "NumType": 1,
+  "DefaultVal": 500,
+  "MinVal": 250,
+  "MaxVal": 500,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@28136",
+  "ShowType": 2,
+  "NumType": 1,
+  "DefaultVal": 750,
+  "MinVal": 500,
+  "MaxVal": 750,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@38136",
+  "ShowType": 2,
+  "NumType": 1,
+  "DefaultVal": 1000,
+  "MinVal": 750,
+  "MaxVal": 1000,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@48136",
+  "ShowType": 2,
+  "NumType": 1,
+  "DefaultVal": 1250,
+  "MinVal": 1000,
+  "MaxVal": 1250,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@8137",
+  "ShowType": 2,
+  "NumType": 1,
+  "DefaultVal": 400,
+  "MinVal": 200,
+  "MaxVal": 400,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@18137",
+  "ShowType": 2,
+  "NumType": 1,
+  "DefaultVal": 800,
+  "MinVal": 400,
+  "MaxVal": 800,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@28137",
+  "ShowType": 2,
+  "NumType": 1,
+  "DefaultVal": 1200,
+  "MinVal": 800,
+  "MaxVal": 1200,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@38137",
+  "ShowType": 2,
+  "NumType": 1,
+  "DefaultVal": 1600,
+  "MinVal": 1200,
+  "MaxVal": 1600,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@48137",
+  "ShowType": 2,
+  "NumType": 1,
+  "DefaultVal": 2000,
+  "MinVal": 1600,
+  "MaxVal": 2000,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@8138",
+  "ShowType": 2,
+  "NumType": 1,
+  "DefaultVal": 300,
+  "MinVal": 100,
+  "MaxVal": 300,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@18138",
+  "ShowType": 2,
+  "NumType": 1,
+  "DefaultVal": 600,
+  "MinVal": 300,
+  "MaxVal": 600,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@28138",
+  "ShowType": 2,
+  "NumType": 1,
+  "DefaultVal": 900,
+  "MinVal": 600,
+  "MaxVal": 900,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@38138",
+  "ShowType": 2,
+  "NumType": 1,
+  "DefaultVal": 1200,
+  "MinVal": 900,
+  "MaxVal": 1200,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@48138",
+  "ShowType": 2,
+  "NumType": 1,
+  "DefaultVal": 1500,
+  "MinVal": 1200,
+  "MaxVal": 1500,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@8139",
+  "ShowType": 2,
+  "NumType": 1,
+  "DefaultVal": 300,
+  "MinVal": 100,
+  "MaxVal": 300,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@18139",
+  "ShowType": 2,
+  "NumType": 1,
+  "DefaultVal": 600,
+  "MinVal": 300,
+  "MaxVal": 600,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@28139",
+  "ShowType": 2,
+  "NumType": 1,
+  "DefaultVal": 900,
+  "MinVal": 600,
+  "MaxVal": 900,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@38139",
+  "ShowType": 2,
+  "NumType": 1,
+  "DefaultVal": 1200,
+  "MinVal": 900,
+  "MaxVal": 1200,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@48139",
+  "ShowType": 2,
+  "NumType": 1,
+  "DefaultVal": 1500,
+  "MinVal": 1200,
+  "MaxVal": 1500,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@8140",
+  "ShowType": 2,
+  "NumType": 1,
+  "DefaultVal": 300,
+  "MinVal": 100,
+  "MaxVal": 300,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@18140",
+  "ShowType": 2,
+  "NumType": 1,
+  "DefaultVal": 600,
+  "MinVal": 300,
+  "MaxVal": 600,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@28140",
+  "ShowType": 2,
+  "NumType": 1,
+  "DefaultVal": 900,
+  "MinVal": 600,
+  "MaxVal": 900,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@38140",
+  "ShowType": 2,
+  "NumType": 1,
+  "DefaultVal": 1200,
+  "MinVal": 900,
+  "MaxVal": 1200,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@48140",
+  "ShowType": 2,
+  "NumType": 1,
+  "DefaultVal": 1500,
+  "MinVal": 1200,
+  "MaxVal": 1500,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@8143",
+  "ShowType": 2,
+  "NumType": 1,
+  "DefaultVal": 300,
+  "MinVal": 150,
+  "MaxVal": 300,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@18143",
+  "ShowType": 2,
+  "NumType": 1,
+  "DefaultVal": 600,
+  "MinVal": 300,
+  "MaxVal": 600,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@28143",
+  "ShowType": 2,
+  "NumType": 1,
+  "DefaultVal": 900,
+  "MinVal": 600,
+  "MaxVal": 900,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@38143",
+  "ShowType": 2,
+  "NumType": 1,
+  "DefaultVal": 1200,
+  "MinVal": 900,
+  "MaxVal": 1200,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@48143",
+  "ShowType": 2,
+  "NumType": 1,
+  "DefaultVal": 1500,
+  "MinVal": 1200,
+  "MaxVal": 1500,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@8144",
+  "ShowType": 2,
+  "NumType": 1,
+  "DefaultVal": 200,
+  "MinVal": 100,
+  "MaxVal": 200,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@18144",
+  "ShowType": 2,
+  "NumType": 1,
+  "DefaultVal": 400,
+  "MinVal": 200,
+  "MaxVal": 400,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@28144",
+  "ShowType": 2,
+  "NumType": 1,
+  "DefaultVal": 600,
+  "MinVal": 400,
+  "MaxVal": 600,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@38144",
+  "ShowType": 2,
+  "NumType": 1,
+  "DefaultVal": 800,
+  "MinVal": 600,
+  "MaxVal": 800,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@48144",
+  "ShowType": 2,
+  "NumType": 1,
+  "DefaultVal": 1000,
+  "MinVal": 800,
+  "MaxVal": 1000,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@8145",
+  "ShowType": 2,
+  "NumType": 1,
+  "DefaultVal": 600,
+  "MinVal": 300,
+  "MaxVal": 600,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@18145",
+  "ShowType": 2,
+  "NumType": 1,
+  "DefaultVal": 1200,
+  "MinVal": 600,
+  "MaxVal": 1200,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@28145",
+  "ShowType": 2,
+  "NumType": 1,
+  "DefaultVal": 1800,
+  "MinVal": 1200,
+  "MaxVal": 1800,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@38145",
+  "ShowType": 2,
+  "NumType": 1,
+  "DefaultVal": 2400,
+  "MinVal": 1800,
+  "MaxVal": 2400,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@48145",
+  "ShowType": 2,
+  "NumType": 1,
+  "DefaultVal": 3000,
+  "MinVal": 2400,
+  "MaxVal": 3000,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@8146",
+  "ShowType": 2,
+  "NumType": 1,
+  "DefaultVal": 250,
+  "MinVal": 100,
+  "MaxVal": 250,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@18146",
+  "ShowType": 2,
+  "NumType": 1,
+  "DefaultVal": 500,
+  "MinVal": 250,
+  "MaxVal": 500,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@28146",
+  "ShowType": 2,
+  "NumType": 1,
+  "DefaultVal": 750,
+  "MinVal": 500,
+  "MaxVal": 750,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@38146",
+  "ShowType": 2,
+  "NumType": 1,
+  "DefaultVal": 1000,
+  "MinVal": 750,
+  "MaxVal": 1000,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@48146",
+  "ShowType": 2,
+  "NumType": 1,
+  "DefaultVal": 1250,
+  "MinVal": 1000,
+  "MaxVal": 1250,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@8147",
+  "ShowType": 2,
+  "NumType": 1,
+  "DefaultVal": 400,
+  "MinVal": 200,
+  "MaxVal": 400,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@18147",
+  "ShowType": 2,
+  "NumType": 1,
+  "DefaultVal": 800,
+  "MinVal": 400,
+  "MaxVal": 800,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@28147",
+  "ShowType": 2,
+  "NumType": 1,
+  "DefaultVal": 1200,
+  "MinVal": 800,
+  "MaxVal": 1200,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@38147",
+  "ShowType": 2,
+  "NumType": 1,
+  "DefaultVal": 1600,
+  "MinVal": 1200,
+  "MaxVal": 1600,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@48147",
+  "ShowType": 2,
+  "NumType": 1,
+  "DefaultVal": 2000,
+  "MinVal": 1600,
+  "MaxVal": 2000,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@8148",
+  "ShowType": 2,
+  "NumType": 1,
+  "DefaultVal": 300,
+  "MinVal": 100,
+  "MaxVal": 300,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@18148",
+  "ShowType": 2,
+  "NumType": 1,
+  "DefaultVal": 600,
+  "MinVal": 300,
+  "MaxVal": 600,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@28148",
+  "ShowType": 2,
+  "NumType": 1,
+  "DefaultVal": 900,
+  "MinVal": 600,
+  "MaxVal": 900,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@38148",
+  "ShowType": 2,
+  "NumType": 1,
+  "DefaultVal": 1200,
+  "MinVal": 900,
+  "MaxVal": 1200,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@48148",
+  "ShowType": 2,
+  "NumType": 1,
+  "DefaultVal": 1500,
+  "MinVal": 1200,
+  "MaxVal": 1500,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@8149",
+  "ShowType": 2,
+  "NumType": 1,
+  "DefaultVal": 300,
+  "MinVal": 100,
+  "MaxVal": 300,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@18149",
+  "ShowType": 2,
+  "NumType": 1,
+  "DefaultVal": 600,
+  "MinVal": 300,
+  "MaxVal": 600,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@28149",
+  "ShowType": 2,
+  "NumType": 1,
+  "DefaultVal": 900,
+  "MinVal": 600,
+  "MaxVal": 900,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@38149",
+  "ShowType": 2,
+  "NumType": 1,
+  "DefaultVal": 1200,
+  "MinVal": 900,
+  "MaxVal": 1200,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@48149",
+  "ShowType": 2,
+  "NumType": 1,
+  "DefaultVal": 1500,
+  "MinVal": 1200,
+  "MaxVal": 1500,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@8150",
+  "ShowType": 2,
+  "NumType": 1,
+  "DefaultVal": 300,
+  "MinVal": 100,
+  "MaxVal": 300,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@18150",
+  "ShowType": 2,
+  "NumType": 1,
+  "DefaultVal": 600,
+  "MinVal": 300,
+  "MaxVal": 600,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@28150",
+  "ShowType": 2,
+  "NumType": 1,
+  "DefaultVal": 900,
+  "MinVal": 600,
+  "MaxVal": 900,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@38150",
+  "ShowType": 2,
+  "NumType": 1,
+  "DefaultVal": 1200,
+  "MinVal": 900,
+  "MaxVal": 1200,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@48150",
+  "ShowType": 2,
+  "NumType": 1,
+  "DefaultVal": 1500,
+  "MinVal": 1200,
+  "MaxVal": 1500,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@8153",
+  "ShowType": 2,
+  "NumType": 1,
+  "DefaultVal": 300,
+  "MinVal": 150,
+  "MaxVal": 300,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@18153",
+  "ShowType": 2,
+  "NumType": 1,
+  "DefaultVal": 600,
+  "MinVal": 300,
+  "MaxVal": 600,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@28153",
+  "ShowType": 2,
+  "NumType": 1,
+  "DefaultVal": 900,
+  "MinVal": 600,
+  "MaxVal": 900,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@38153",
+  "ShowType": 2,
+  "NumType": 1,
+  "DefaultVal": 1200,
+  "MinVal": 900,
+  "MaxVal": 1200,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@48153",
+  "ShowType": 2,
+  "NumType": 1,
+  "DefaultVal": 1500,
+  "MinVal": 1200,
+  "MaxVal": 1500,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@8154",
+  "ShowType": 2,
+  "NumType": 1,
+  "DefaultVal": 200,
+  "MinVal": 100,
+  "MaxVal": 200,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@18154",
+  "ShowType": 2,
+  "NumType": 1,
+  "DefaultVal": 400,
+  "MinVal": 200,
+  "MaxVal": 400,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@28154",
+  "ShowType": 2,
+  "NumType": 1,
+  "DefaultVal": 600,
+  "MinVal": 400,
+  "MaxVal": 600,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@38154",
+  "ShowType": 2,
+  "NumType": 1,
+  "DefaultVal": 800,
+  "MinVal": 600,
+  "MaxVal": 800,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@48154",
+  "ShowType": 2,
+  "NumType": 1,
+  "DefaultVal": 1000,
+  "MinVal": 800,
+  "MaxVal": 1000,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@8155",
+  "ShowType": 2,
+  "NumType": 1,
+  "DefaultVal": 600,
+  "MinVal": 300,
+  "MaxVal": 600,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@18155",
+  "ShowType": 2,
+  "NumType": 1,
+  "DefaultVal": 1200,
+  "MinVal": 600,
+  "MaxVal": 1200,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@28155",
+  "ShowType": 2,
+  "NumType": 1,
+  "DefaultVal": 1800,
+  "MinVal": 1200,
+  "MaxVal": 1800,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@38155",
+  "ShowType": 2,
+  "NumType": 1,
+  "DefaultVal": 2400,
+  "MinVal": 1800,
+  "MaxVal": 2400,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@48155",
+  "ShowType": 2,
+  "NumType": 1,
+  "DefaultVal": 3000,
+  "MinVal": 2400,
+  "MaxVal": 3000,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@8156",
+  "ShowType": 2,
+  "NumType": 1,
+  "DefaultVal": 250,
+  "MinVal": 100,
+  "MaxVal": 250,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@18156",
+  "ShowType": 2,
+  "NumType": 1,
+  "DefaultVal": 500,
+  "MinVal": 250,
+  "MaxVal": 500,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@28156",
+  "ShowType": 2,
+  "NumType": 1,
+  "DefaultVal": 750,
+  "MinVal": 500,
+  "MaxVal": 750,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@38156",
+  "ShowType": 2,
+  "NumType": 1,
+  "DefaultVal": 1000,
+  "MinVal": 750,
+  "MaxVal": 1000,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@48156",
+  "ShowType": 2,
+  "NumType": 1,
+  "DefaultVal": 1250,
+  "MinVal": 1000,
+  "MaxVal": 1250,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@8157",
+  "ShowType": 2,
+  "NumType": 1,
+  "DefaultVal": 400,
+  "MinVal": 200,
+  "MaxVal": 400,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@18157",
+  "ShowType": 2,
+  "NumType": 1,
+  "DefaultVal": 800,
+  "MinVal": 400,
+  "MaxVal": 800,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@28157",
+  "ShowType": 2,
+  "NumType": 1,
+  "DefaultVal": 1200,
+  "MinVal": 800,
+  "MaxVal": 1200,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@38157",
+  "ShowType": 2,
+  "NumType": 1,
+  "DefaultVal": 1600,
+  "MinVal": 1200,
+  "MaxVal": 1600,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@48157",
+  "ShowType": 2,
+  "NumType": 1,
+  "DefaultVal": 2000,
+  "MinVal": 1600,
+  "MaxVal": 2000,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@8158",
+  "ShowType": 2,
+  "NumType": 1,
+  "DefaultVal": 300,
+  "MinVal": 100,
+  "MaxVal": 300,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@18158",
+  "ShowType": 2,
+  "NumType": 1,
+  "DefaultVal": 600,
+  "MinVal": 300,
+  "MaxVal": 600,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@28158",
+  "ShowType": 2,
+  "NumType": 1,
+  "DefaultVal": 900,
+  "MinVal": 600,
+  "MaxVal": 900,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@38158",
+  "ShowType": 2,
+  "NumType": 1,
+  "DefaultVal": 1200,
+  "MinVal": 900,
+  "MaxVal": 1200,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@48158",
+  "ShowType": 2,
+  "NumType": 1,
+  "DefaultVal": 1500,
+  "MinVal": 1200,
+  "MaxVal": 1500,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@8159",
+  "ShowType": 2,
+  "NumType": 1,
+  "DefaultVal": 300,
+  "MinVal": 100,
+  "MaxVal": 300,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@18159",
+  "ShowType": 2,
+  "NumType": 1,
+  "DefaultVal": 600,
+  "MinVal": 300,
+  "MaxVal": 600,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@28159",
+  "ShowType": 2,
+  "NumType": 1,
+  "DefaultVal": 900,
+  "MinVal": 600,
+  "MaxVal": 900,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@38159",
+  "ShowType": 2,
+  "NumType": 1,
+  "DefaultVal": 1200,
+  "MinVal": 900,
+  "MaxVal": 1200,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@48159",
+  "ShowType": 2,
+  "NumType": 1,
+  "DefaultVal": 1500,
+  "MinVal": 1200,
+  "MaxVal": 1500,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@8160",
+  "ShowType": 2,
+  "NumType": 1,
+  "DefaultVal": 300,
+  "MinVal": 100,
+  "MaxVal": 300,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@18160",
+  "ShowType": 2,
+  "NumType": 1,
+  "DefaultVal": 600,
+  "MinVal": 300,
+  "MaxVal": 600,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@28160",
+  "ShowType": 2,
+  "NumType": 1,
+  "DefaultVal": 900,
+  "MinVal": 600,
+  "MaxVal": 900,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@38160",
+  "ShowType": 2,
+  "NumType": 1,
+  "DefaultVal": 1200,
+  "MinVal": 900,
+  "MaxVal": 1200,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@48160",
+  "ShowType": 2,
+  "NumType": 1,
+  "DefaultVal": 1500,
+  "MinVal": 1200,
+  "MaxVal": 1500,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@8163",
+  "ShowType": 2,
+  "NumType": 1,
+  "DefaultVal": 300,
+  "MinVal": 150,
+  "MaxVal": 300,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@18163",
+  "ShowType": 2,
+  "NumType": 1,
+  "DefaultVal": 600,
+  "MinVal": 300,
+  "MaxVal": 600,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@28163",
+  "ShowType": 2,
+  "NumType": 1,
+  "DefaultVal": 900,
+  "MinVal": 600,
+  "MaxVal": 900,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@38163",
+  "ShowType": 2,
+  "NumType": 1,
+  "DefaultVal": 1200,
+  "MinVal": 900,
+  "MaxVal": 1200,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@48163",
+  "ShowType": 2,
+  "NumType": 1,
+  "DefaultVal": 1500,
+  "MinVal": 1200,
+  "MaxVal": 1500,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@8164",
+  "ShowType": 2,
+  "NumType": 1,
+  "DefaultVal": 200,
+  "MinVal": 100,
+  "MaxVal": 200,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@18164",
+  "ShowType": 2,
+  "NumType": 1,
+  "DefaultVal": 400,
+  "MinVal": 200,
+  "MaxVal": 400,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@28164",
+  "ShowType": 2,
+  "NumType": 1,
+  "DefaultVal": 600,
+  "MinVal": 400,
+  "MaxVal": 600,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@38164",
+  "ShowType": 2,
+  "NumType": 1,
+  "DefaultVal": 800,
+  "MinVal": 600,
+  "MaxVal": 800,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@48164",
+  "ShowType": 2,
+  "NumType": 1,
+  "DefaultVal": 1000,
+  "MinVal": 800,
+  "MaxVal": 1000,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@8165",
+  "ShowType": 2,
+  "NumType": 1,
+  "DefaultVal": 600,
+  "MinVal": 300,
+  "MaxVal": 600,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@18165",
+  "ShowType": 2,
+  "NumType": 1,
+  "DefaultVal": 1200,
+  "MinVal": 600,
+  "MaxVal": 1200,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@28165",
+  "ShowType": 2,
+  "NumType": 1,
+  "DefaultVal": 1800,
+  "MinVal": 1200,
+  "MaxVal": 1800,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@38165",
+  "ShowType": 2,
+  "NumType": 1,
+  "DefaultVal": 2400,
+  "MinVal": 1800,
+  "MaxVal": 2400,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@48165",
+  "ShowType": 2,
+  "NumType": 1,
+  "DefaultVal": 3000,
+  "MinVal": 2400,
+  "MaxVal": 3000,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@8166",
+  "ShowType": 2,
+  "NumType": 1,
+  "DefaultVal": 250,
+  "MinVal": 100,
+  "MaxVal": 250,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@18166",
+  "ShowType": 2,
+  "NumType": 1,
+  "DefaultVal": 500,
+  "MinVal": 250,
+  "MaxVal": 500,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@28166",
+  "ShowType": 2,
+  "NumType": 1,
+  "DefaultVal": 750,
+  "MinVal": 500,
+  "MaxVal": 750,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@38166",
+  "ShowType": 2,
+  "NumType": 1,
+  "DefaultVal": 1000,
+  "MinVal": 750,
+  "MaxVal": 1000,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@48166",
+  "ShowType": 2,
+  "NumType": 1,
+  "DefaultVal": 1250,
+  "MinVal": 1000,
+  "MaxVal": 1250,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@8167",
+  "ShowType": 2,
+  "NumType": 1,
+  "DefaultVal": 400,
+  "MinVal": 200,
+  "MaxVal": 400,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@18167",
+  "ShowType": 2,
+  "NumType": 1,
+  "DefaultVal": 800,
+  "MinVal": 400,
+  "MaxVal": 800,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@28167",
+  "ShowType": 2,
+  "NumType": 1,
+  "DefaultVal": 1200,
+  "MinVal": 800,
+  "MaxVal": 1200,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@38167",
+  "ShowType": 2,
+  "NumType": 1,
+  "DefaultVal": 1600,
+  "MinVal": 1200,
+  "MaxVal": 1600,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@48167",
+  "ShowType": 2,
+  "NumType": 1,
+  "DefaultVal": 2000,
+  "MinVal": 1600,
+  "MaxVal": 2000,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@8168",
+  "ShowType": 2,
+  "NumType": 1,
+  "DefaultVal": 300,
+  "MinVal": 100,
+  "MaxVal": 300,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@18168",
+  "ShowType": 2,
+  "NumType": 1,
+  "DefaultVal": 600,
+  "MinVal": 300,
+  "MaxVal": 600,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@28168",
+  "ShowType": 2,
+  "NumType": 1,
+  "DefaultVal": 900,
+  "MinVal": 600,
+  "MaxVal": 900,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@38168",
+  "ShowType": 2,
+  "NumType": 1,
+  "DefaultVal": 1200,
+  "MinVal": 900,
+  "MaxVal": 1200,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@48168",
+  "ShowType": 2,
+  "NumType": 1,
+  "DefaultVal": 1500,
+  "MinVal": 1200,
+  "MaxVal": 1500,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@8169",
+  "ShowType": 2,
+  "NumType": 1,
+  "DefaultVal": 300,
+  "MinVal": 100,
+  "MaxVal": 300,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@18169",
+  "ShowType": 2,
+  "NumType": 1,
+  "DefaultVal": 600,
+  "MinVal": 300,
+  "MaxVal": 600,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@28169",
+  "ShowType": 2,
+  "NumType": 1,
+  "DefaultVal": 900,
+  "MinVal": 600,
+  "MaxVal": 900,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@38169",
+  "ShowType": 2,
+  "NumType": 1,
+  "DefaultVal": 1200,
+  "MinVal": 900,
+  "MaxVal": 1200,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@48169",
+  "ShowType": 2,
+  "NumType": 1,
+  "DefaultVal": 1500,
+  "MinVal": 1200,
+  "MaxVal": 1500,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@8170",
+  "ShowType": 2,
+  "NumType": 1,
+  "DefaultVal": 300,
+  "MinVal": 100,
+  "MaxVal": 300,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@18170",
+  "ShowType": 2,
+  "NumType": 1,
+  "DefaultVal": 600,
+  "MinVal": 300,
+  "MaxVal": 600,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@28170",
+  "ShowType": 2,
+  "NumType": 1,
+  "DefaultVal": 900,
+  "MinVal": 600,
+  "MaxVal": 900,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@38170",
+  "ShowType": 2,
+  "NumType": 1,
+  "DefaultVal": 1200,
+  "MinVal": 900,
+  "MaxVal": 1200,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@48170",
+  "ShowType": 2,
+  "NumType": 1,
+  "DefaultVal": 1500,
+  "MinVal": 1200,
+  "MaxVal": 1500,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@8173",
+  "ShowType": 2,
+  "NumType": 1,
+  "DefaultVal": 300,
+  "MinVal": 150,
+  "MaxVal": 300,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@18173",
+  "ShowType": 2,
+  "NumType": 1,
+  "DefaultVal": 600,
+  "MinVal": 300,
+  "MaxVal": 600,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@28173",
+  "ShowType": 2,
+  "NumType": 1,
+  "DefaultVal": 900,
+  "MinVal": 600,
+  "MaxVal": 900,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@38173",
+  "ShowType": 2,
+  "NumType": 1,
+  "DefaultVal": 1200,
+  "MinVal": 900,
+  "MaxVal": 1200,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@48173",
+  "ShowType": 2,
+  "NumType": 1,
+  "DefaultVal": 1500,
+  "MinVal": 1200,
+  "MaxVal": 1500,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@8174",
+  "ShowType": 2,
+  "NumType": 1,
+  "DefaultVal": 200,
+  "MinVal": 100,
+  "MaxVal": 200,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@18174",
+  "ShowType": 2,
+  "NumType": 1,
+  "DefaultVal": 400,
+  "MinVal": 200,
+  "MaxVal": 400,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@28174",
+  "ShowType": 2,
+  "NumType": 1,
+  "DefaultVal": 600,
+  "MinVal": 400,
+  "MaxVal": 600,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@38174",
+  "ShowType": 2,
+  "NumType": 1,
+  "DefaultVal": 800,
+  "MinVal": 600,
+  "MaxVal": 800,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@48174",
+  "ShowType": 2,
+  "NumType": 1,
+  "DefaultVal": 1000,
+  "MinVal": 800,
+  "MaxVal": 1000,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@8175",
+  "ShowType": 2,
+  "NumType": 1,
+  "DefaultVal": 600,
+  "MinVal": 300,
+  "MaxVal": 600,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@18175",
+  "ShowType": 2,
+  "NumType": 1,
+  "DefaultVal": 1200,
+  "MinVal": 600,
+  "MaxVal": 1200,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@28175",
+  "ShowType": 2,
+  "NumType": 1,
+  "DefaultVal": 1800,
+  "MinVal": 1200,
+  "MaxVal": 1800,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@38175",
+  "ShowType": 2,
+  "NumType": 1,
+  "DefaultVal": 2400,
+  "MinVal": 1800,
+  "MaxVal": 2400,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@48175",
+  "ShowType": 2,
+  "NumType": 1,
+  "DefaultVal": 3000,
+  "MinVal": 2400,
+  "MaxVal": 3000,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@8176",
+  "ShowType": 2,
+  "NumType": 1,
+  "DefaultVal": 250,
+  "MinVal": 100,
+  "MaxVal": 250,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@18176",
+  "ShowType": 2,
+  "NumType": 1,
+  "DefaultVal": 500,
+  "MinVal": 250,
+  "MaxVal": 500,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@28176",
+  "ShowType": 2,
+  "NumType": 1,
+  "DefaultVal": 750,
+  "MinVal": 500,
+  "MaxVal": 750,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@38176",
+  "ShowType": 2,
+  "NumType": 1,
+  "DefaultVal": 1000,
+  "MinVal": 750,
+  "MaxVal": 1000,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@48176",
+  "ShowType": 2,
+  "NumType": 1,
+  "DefaultVal": 1250,
+  "MinVal": 1000,
+  "MaxVal": 1250,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@8177",
+  "ShowType": 2,
+  "NumType": 1,
+  "DefaultVal": 400,
+  "MinVal": 200,
+  "MaxVal": 400,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@18177",
+  "ShowType": 2,
+  "NumType": 1,
+  "DefaultVal": 800,
+  "MinVal": 400,
+  "MaxVal": 800,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@28177",
+  "ShowType": 2,
+  "NumType": 1,
+  "DefaultVal": 1200,
+  "MinVal": 800,
+  "MaxVal": 1200,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@38177",
+  "ShowType": 2,
+  "NumType": 1,
+  "DefaultVal": 1600,
+  "MinVal": 1200,
+  "MaxVal": 1600,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@48177",
+  "ShowType": 2,
+  "NumType": 1,
+  "DefaultVal": 2000,
+  "MinVal": 1600,
+  "MaxVal": 2000,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@8178",
+  "ShowType": 2,
+  "NumType": 1,
+  "DefaultVal": 300,
+  "MinVal": 100,
+  "MaxVal": 300,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@18178",
+  "ShowType": 2,
+  "NumType": 1,
+  "DefaultVal": 600,
+  "MinVal": 300,
+  "MaxVal": 600,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@28178",
+  "ShowType": 2,
+  "NumType": 1,
+  "DefaultVal": 900,
+  "MinVal": 600,
+  "MaxVal": 900,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@38178",
+  "ShowType": 2,
+  "NumType": 1,
+  "DefaultVal": 1200,
+  "MinVal": 900,
+  "MaxVal": 1200,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@48178",
+  "ShowType": 2,
+  "NumType": 1,
+  "DefaultVal": 1500,
+  "MinVal": 1200,
+  "MaxVal": 1500,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@8179",
+  "ShowType": 2,
+  "NumType": 1,
+  "DefaultVal": 300,
+  "MinVal": 100,
+  "MaxVal": 300,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@18179",
+  "ShowType": 2,
+  "NumType": 1,
+  "DefaultVal": 600,
+  "MinVal": 300,
+  "MaxVal": 600,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@28179",
+  "ShowType": 2,
+  "NumType": 1,
+  "DefaultVal": 900,
+  "MinVal": 600,
+  "MaxVal": 900,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@38179",
+  "ShowType": 2,
+  "NumType": 1,
+  "DefaultVal": 1200,
+  "MinVal": 900,
+  "MaxVal": 1200,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@48179",
+  "ShowType": 2,
+  "NumType": 1,
+  "DefaultVal": 1500,
+  "MinVal": 1200,
+  "MaxVal": 1500,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@8180",
+  "ShowType": 2,
+  "NumType": 1,
+  "DefaultVal": 300,
+  "MinVal": 100,
+  "MaxVal": 300,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@18180",
+  "ShowType": 2,
+  "NumType": 1,
+  "DefaultVal": 600,
+  "MinVal": 300,
+  "MaxVal": 600,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@28180",
+  "ShowType": 2,
+  "NumType": 1,
+  "DefaultVal": 900,
+  "MinVal": 600,
+  "MaxVal": 900,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@38180",
+  "ShowType": 2,
+  "NumType": 1,
+  "DefaultVal": 1200,
+  "MinVal": 900,
+  "MaxVal": 1200,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@48180",
+  "ShowType": 2,
+  "NumType": 1,
+  "DefaultVal": 1500,
+  "MinVal": 1200,
+  "MaxVal": 1500,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@8183",
+  "ShowType": 2,
+  "NumType": 1,
+  "DefaultVal": 300,
+  "MinVal": 150,
+  "MaxVal": 300,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@18183",
+  "ShowType": 2,
+  "NumType": 1,
+  "DefaultVal": 600,
+  "MinVal": 300,
+  "MaxVal": 600,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@28183",
+  "ShowType": 2,
+  "NumType": 1,
+  "DefaultVal": 900,
+  "MinVal": 600,
+  "MaxVal": 900,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@38183",
+  "ShowType": 2,
+  "NumType": 1,
+  "DefaultVal": 1200,
+  "MinVal": 900,
+  "MaxVal": 1200,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@48183",
+  "ShowType": 2,
+  "NumType": 1,
+  "DefaultVal": 1500,
+  "MinVal": 1200,
+  "MaxVal": 1500,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@8184",
+  "ShowType": 2,
+  "NumType": 1,
+  "DefaultVal": 200,
+  "MinVal": 100,
+  "MaxVal": 200,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@18184",
+  "ShowType": 2,
+  "NumType": 1,
+  "DefaultVal": 400,
+  "MinVal": 200,
+  "MaxVal": 400,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@28184",
+  "ShowType": 2,
+  "NumType": 1,
+  "DefaultVal": 600,
+  "MinVal": 400,
+  "MaxVal": 600,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@38184",
+  "ShowType": 2,
+  "NumType": 1,
+  "DefaultVal": 800,
+  "MinVal": 600,
+  "MaxVal": 800,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@48184",
+  "ShowType": 2,
+  "NumType": 1,
+  "DefaultVal": 1000,
+  "MinVal": 800,
+  "MaxVal": 1000,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@8185",
+  "ShowType": 2,
+  "NumType": 1,
+  "DefaultVal": 600,
+  "MinVal": 300,
+  "MaxVal": 600,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@18185",
+  "ShowType": 2,
+  "NumType": 1,
+  "DefaultVal": 1200,
+  "MinVal": 600,
+  "MaxVal": 1200,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@28185",
+  "ShowType": 2,
+  "NumType": 1,
+  "DefaultVal": 1800,
+  "MinVal": 1200,
+  "MaxVal": 1800,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@38185",
+  "ShowType": 2,
+  "NumType": 1,
+  "DefaultVal": 2400,
+  "MinVal": 1800,
+  "MaxVal": 2400,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@48185",
+  "ShowType": 2,
+  "NumType": 1,
+  "DefaultVal": 3000,
+  "MinVal": 2400,
+  "MaxVal": 3000,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@8186",
+  "ShowType": 2,
+  "NumType": 1,
+  "DefaultVal": 250,
+  "MinVal": 100,
+  "MaxVal": 250,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@18186",
+  "ShowType": 2,
+  "NumType": 1,
+  "DefaultVal": 500,
+  "MinVal": 250,
+  "MaxVal": 500,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@28186",
+  "ShowType": 2,
+  "NumType": 1,
+  "DefaultVal": 750,
+  "MinVal": 500,
+  "MaxVal": 750,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@38186",
+  "ShowType": 2,
+  "NumType": 1,
+  "DefaultVal": 1000,
+  "MinVal": 750,
+  "MaxVal": 1000,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@48186",
+  "ShowType": 2,
+  "NumType": 1,
+  "DefaultVal": 1250,
+  "MinVal": 1000,
+  "MaxVal": 1250,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@8187",
+  "ShowType": 2,
+  "NumType": 1,
+  "DefaultVal": 400,
+  "MinVal": 200,
+  "MaxVal": 400,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@18187",
+  "ShowType": 2,
+  "NumType": 1,
+  "DefaultVal": 800,
+  "MinVal": 400,
+  "MaxVal": 800,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@28187",
+  "ShowType": 2,
+  "NumType": 1,
+  "DefaultVal": 1200,
+  "MinVal": 800,
+  "MaxVal": 1200,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@38187",
+  "ShowType": 2,
+  "NumType": 1,
+  "DefaultVal": 1600,
+  "MinVal": 1200,
+  "MaxVal": 1600,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@48187",
+  "ShowType": 2,
+  "NumType": 1,
+  "DefaultVal": 2000,
+  "MinVal": 1600,
+  "MaxVal": 2000,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@8188",
+  "ShowType": 2,
+  "NumType": 1,
+  "DefaultVal": 300,
+  "MinVal": 100,
+  "MaxVal": 300,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@18188",
+  "ShowType": 2,
+  "NumType": 1,
+  "DefaultVal": 600,
+  "MinVal": 300,
+  "MaxVal": 600,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@28188",
+  "ShowType": 2,
+  "NumType": 1,
+  "DefaultVal": 900,
+  "MinVal": 600,
+  "MaxVal": 900,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@38188",
+  "ShowType": 2,
+  "NumType": 1,
+  "DefaultVal": 1200,
+  "MinVal": 900,
+  "MaxVal": 1200,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@48188",
+  "ShowType": 2,
+  "NumType": 1,
+  "DefaultVal": 1500,
+  "MinVal": 1200,
+  "MaxVal": 1500,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@8189",
+  "ShowType": 2,
+  "NumType": 1,
+  "DefaultVal": 300,
+  "MinVal": 100,
+  "MaxVal": 300,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@18189",
+  "ShowType": 2,
+  "NumType": 1,
+  "DefaultVal": 600,
+  "MinVal": 300,
+  "MaxVal": 600,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@28189",
+  "ShowType": 2,
+  "NumType": 1,
+  "DefaultVal": 900,
+  "MinVal": 600,
+  "MaxVal": 900,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@38189",
+  "ShowType": 2,
+  "NumType": 1,
+  "DefaultVal": 1200,
+  "MinVal": 900,
+  "MaxVal": 1200,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@48189",
+  "ShowType": 2,
+  "NumType": 1,
+  "DefaultVal": 1500,
+  "MinVal": 1200,
+  "MaxVal": 1500,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@8190",
+  "ShowType": 2,
+  "NumType": 1,
+  "DefaultVal": 300,
+  "MinVal": 100,
+  "MaxVal": 300,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@18190",
+  "ShowType": 2,
+  "NumType": 1,
+  "DefaultVal": 600,
+  "MinVal": 300,
+  "MaxVal": 600,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@28190",
+  "ShowType": 2,
+  "NumType": 1,
+  "DefaultVal": 900,
+  "MinVal": 600,
+  "MaxVal": 900,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@38190",
+  "ShowType": 2,
+  "NumType": 1,
+  "DefaultVal": 1200,
+  "MinVal": 900,
+  "MaxVal": 1200,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@48190",
+  "ShowType": 2,
+  "NumType": 1,
+  "DefaultVal": 1500,
+  "MinVal": 1200,
+  "MaxVal": 1500,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@8000",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 2000,
+  "MinVal": 50,
+  "MaxVal": 2000,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@8001",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 2000,
+  "MinVal": 50,
+  "MaxVal": 2000,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@8002",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 2000,
+  "MinVal": 50,
+  "MaxVal": 2000,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@8003",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 2000,
+  "MinVal": 50,
+  "MaxVal": 2000,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@8004",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 2000,
+  "MinVal": 50,
+  "MaxVal": 2000,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@8005",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 2000,
+  "MinVal": 50,
+  "MaxVal": 2000,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@8006",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 2000,
+  "MinVal": 50,
+  "MaxVal": 2000,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@8007",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 2000,
+  "MinVal": 50,
+  "MaxVal": 2000,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@8008",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 2000,
+  "MinVal": 50,
+  "MaxVal": 2000,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@8009",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 2000,
+  "MinVal": 50,
+  "MaxVal": 2000,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@8010",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 2000,
+  "MinVal": 50,
+  "MaxVal": 2000,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@8011",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 2000,
+  "MinVal": 50,
+  "MaxVal": 2000,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@8012",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 2000,
+  "MinVal": 50,
+  "MaxVal": 2000,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@8013",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 2000,
+  "MinVal": 50,
+  "MaxVal": 2000,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@8014",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 2000,
+  "MinVal": 50,
+  "MaxVal": 2000,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@8015",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 2000,
+  "MinVal": 50,
+  "MaxVal": 2000,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@8016",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 2000,
+  "MinVal": 50,
+  "MaxVal": 2000,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@8017",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 2000,
+  "MinVal": 50,
+  "MaxVal": 2000,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@8018",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 2000,
+  "MinVal": 50,
+  "MaxVal": 2000,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@8019",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 2000,
+  "MinVal": 50,
+  "MaxVal": 2000,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@8020",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 2000,
+  "MinVal": 50,
+  "MaxVal": 2000,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@8021",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 2000,
+  "MinVal": 50,
+  "MaxVal": 2000,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@8022",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 2000,
+  "MinVal": 50,
+  "MaxVal": 2000,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@8023",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 2000,
+  "MinVal": 50,
+  "MaxVal": 2000,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@8024",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 2000,
+  "MinVal": 50,
+  "MaxVal": 2000,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@8025",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 2000,
+  "MinVal": 50,
+  "MaxVal": 2000,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@8026",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 2000,
+  "MinVal": 50,
+  "MaxVal": 2000,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@8027",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 2000,
+  "MinVal": 50,
+  "MaxVal": 2000,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@8028",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 2000,
+  "MinVal": 50,
+  "MaxVal": 2000,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@8029",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 2000,
+  "MinVal": 50,
+  "MaxVal": 2000,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@8030",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 2000,
+  "MinVal": 50,
+  "MaxVal": 2000,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@8031",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 2000,
+  "MinVal": 50,
+  "MaxVal": 2000,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@8032",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 2000,
+  "MinVal": 50,
+  "MaxVal": 2000,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@8033",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 2000,
+  "MinVal": 50,
+  "MaxVal": 2000,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@8034",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 2000,
+  "MinVal": 50,
+  "MaxVal": 2000,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@8035",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 2000,
+  "MinVal": 50,
+  "MaxVal": 2000,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@8036",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 2000,
+  "MinVal": 50,
+  "MaxVal": 2000,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@8037",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 2000,
+  "MinVal": 50,
+  "MaxVal": 2000,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@8038",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 2000,
+  "MinVal": 50,
+  "MaxVal": 2000,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@8039",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 2000,
+  "MinVal": 50,
+  "MaxVal": 2000,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@8040",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 2000,
+  "MinVal": 50,
+  "MaxVal": 2000,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@8041",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 2000,
+  "MinVal": 50,
+  "MaxVal": 2000,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@8042",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 2000,
+  "MinVal": 50,
+  "MaxVal": 2000,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@8043",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 2000,
+  "MinVal": 50,
+  "MaxVal": 2000,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@8044",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 2000,
+  "MinVal": 50,
+  "MaxVal": 2000,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@8045",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 2000,
+  "MinVal": 50,
+  "MaxVal": 2000,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@8046",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 2000,
+  "MinVal": 50,
+  "MaxVal": 2000,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@8047",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 2000,
+  "MinVal": 50,
+  "MaxVal": 2000,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@8048",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 2000,
+  "MinVal": 50,
+  "MaxVal": 2000,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@8049",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 2000,
+  "MinVal": 50,
+  "MaxVal": 2000,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@8050",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 2000,
+  "MinVal": 50,
+  "MaxVal": 2000,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@8051",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 2000,
+  "MinVal": 50,
+  "MaxVal": 2000,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@8052",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 2000,
+  "MinVal": 50,
+  "MaxVal": 2000,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@8053",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 2000,
+  "MinVal": 50,
+  "MaxVal": 2000,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@8054",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 2000,
+  "MinVal": 50,
+  "MaxVal": 2000,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@8055",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 2000,
+  "MinVal": 50,
+  "MaxVal": 2000,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@8056",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 2000,
+  "MinVal": 50,
+  "MaxVal": 2000,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@8057",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 2000,
+  "MinVal": 50,
+  "MaxVal": 2000,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@8058",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 2000,
+  "MinVal": 50,
+  "MaxVal": 2000,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@8059",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 2000,
+  "MinVal": 50,
+  "MaxVal": 2000,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@8060",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 2000,
+  "MinVal": 50,
+  "MaxVal": 2000,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@8061",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 2000,
+  "MinVal": 50,
+  "MaxVal": 2000,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@8062",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 2000,
+  "MinVal": 50,
+  "MaxVal": 2000,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@8063",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 2000,
+  "MinVal": 50,
+  "MaxVal": 2000,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@8064",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 2000,
+  "MinVal": 50,
+  "MaxVal": 2000,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@8065",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 2000,
+  "MinVal": 50,
+  "MaxVal": 2000,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@8066",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 2000,
+  "MinVal": 50,
+  "MaxVal": 2000,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@8067",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 2000,
+  "MinVal": 50,
+  "MaxVal": 2000,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@8068",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 2000,
+  "MinVal": 50,
+  "MaxVal": 2000,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@8069",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 2000,
+  "MinVal": 50,
+  "MaxVal": 2000,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@8070",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 2000,
+  "MinVal": 50,
+  "MaxVal": 2000,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@8071",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 2000,
+  "MinVal": 50,
+  "MaxVal": 2000,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@8072",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 2000,
+  "MinVal": 50,
+  "MaxVal": 2000,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@8073",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 2000,
+  "MinVal": 50,
+  "MaxVal": 2000,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@8074",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 2000,
+  "MinVal": 50,
+  "MaxVal": 2000,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@8075",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 2000,
+  "MinVal": 50,
+  "MaxVal": 2000,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@8076",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 2000,
+  "MinVal": 50,
+  "MaxVal": 2000,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@8077",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 2000,
+  "MinVal": 50,
+  "MaxVal": 2000,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@8078",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 2000,
+  "MinVal": 50,
+  "MaxVal": 2000,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@8079",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 2000,
+  "MinVal": 50,
+  "MaxVal": 2000,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@8080",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 2000,
+  "MinVal": 50,
+  "MaxVal": 2000,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@8081",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 2000,
+  "MinVal": 50,
+  "MaxVal": 2000,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@8082",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 2000,
+  "MinVal": 50,
+  "MaxVal": 2000,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@8083",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 2000,
+  "MinVal": 50,
+  "MaxVal": 2000,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@8084",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 2000,
+  "MinVal": 50,
+  "MaxVal": 2000,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@8085",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 2000,
+  "MinVal": 50,
+  "MaxVal": 2000,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@8086",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 2000,
+  "MinVal": 50,
+  "MaxVal": 2000,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@8087",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 2000,
+  "MinVal": 50,
+  "MaxVal": 2000,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@8088",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 2000,
+  "MinVal": 50,
+  "MaxVal": 2000,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@8089",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 2000,
+  "MinVal": 50,
+  "MaxVal": 2000,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@8090",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 2000,
+  "MinVal": 50,
+  "MaxVal": 2000,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@8091",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 2000,
+  "MinVal": 50,
+  "MaxVal": 2000,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@8092",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 2000,
+  "MinVal": 50,
+  "MaxVal": 2000,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@8093",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 2000,
+  "MinVal": 50,
+  "MaxVal": 2000,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@8094",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 2000,
+  "MinVal": 50,
+  "MaxVal": 2000,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@8095",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 2000,
+  "MinVal": 50,
+  "MaxVal": 2000,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@8096",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 2000,
+  "MinVal": 50,
+  "MaxVal": 2000,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@8097",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 2000,
+  "MinVal": 50,
+  "MaxVal": 2000,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@8098",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 2000,
+  "MinVal": 50,
+  "MaxVal": 2000,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@8099",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 2000,
+  "MinVal": 50,
+  "MaxVal": 2000,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@8100",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 2000,
+  "MinVal": 50,
+  "MaxVal": 2000,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@8101",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 2000,
+  "MinVal": 50,
+  "MaxVal": 2000,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@8102",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 2000,
+  "MinVal": 50,
+  "MaxVal": 2000,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@8103",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 2000,
+  "MinVal": 50,
+  "MaxVal": 2000,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@8104",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 2000,
+  "MinVal": 50,
+  "MaxVal": 2000,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@8105",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 2000,
+  "MinVal": 50,
+  "MaxVal": 2000,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@8106",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 2000,
+  "MinVal": 50,
+  "MaxVal": 2000,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@8107",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 2000,
+  "MinVal": 50,
+  "MaxVal": 2000,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@8108",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 2000,
+  "MinVal": 50,
+  "MaxVal": 2000,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@8109",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 2000,
+  "MinVal": 50,
+  "MaxVal": 2000,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@8110",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 2000,
+  "MinVal": 50,
+  "MaxVal": 2000,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@8111",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 2000,
+  "MinVal": 50,
+  "MaxVal": 2000,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@8112",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 2000,
+  "MinVal": 50,
+  "MaxVal": 2000,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@8113",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 2000,
+  "MinVal": 50,
+  "MaxVal": 2000,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@8114",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 2000,
+  "MinVal": 50,
+  "MaxVal": 2000,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@8115",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 2000,
+  "MinVal": 50,
+  "MaxVal": 2000,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@8116",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 2000,
+  "MinVal": 50,
+  "MaxVal": 2000,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@8117",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 2000,
+  "MinVal": 50,
+  "MaxVal": 2000,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@8118",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 2000,
+  "MinVal": 50,
+  "MaxVal": 2000,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@8119",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 2000,
+  "MinVal": 50,
+  "MaxVal": 2000,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@8120",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 2000,
+  "MinVal": 50,
+  "MaxVal": 2000,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@8121",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 2000,
+  "MinVal": 50,
+  "MaxVal": 2000,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@8122",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 2000,
+  "MinVal": 50,
+  "MaxVal": 2000,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@8123",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 2000,
+  "MinVal": 50,
+  "MaxVal": 2000,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@8124",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 2000,
+  "MinVal": 50,
+  "MaxVal": 2000,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@8125",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 2000,
+  "MinVal": 50,
+  "MaxVal": 2000,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@8126",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 2000,
+  "MinVal": 50,
+  "MaxVal": 2000,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@8127",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 2000,
+  "MinVal": 50,
+  "MaxVal": 2000,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@8128",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 2000,
+  "MinVal": 50,
+  "MaxVal": 2000,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@8129",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 2000,
+  "MinVal": 50,
+  "MaxVal": 2000,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@8130",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 2000,
+  "MinVal": 50,
+  "MaxVal": 2000,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@8131",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 2000,
+  "MinVal": 50,
+  "MaxVal": 2000,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@8132",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 2000,
+  "MinVal": 50,
+  "MaxVal": 2000,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@2008",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 1000,
+  "MinVal": 1000,
+  "MaxVal": 1000,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@1002700",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": -1,
+  "MinVal": -1,
+  "MaxVal": -1,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@100266",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 0,
+  "MinVal": 0,
+  "MaxVal": 0,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@20081",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 0,
+  "MinVal": 0,
+  "MaxVal": 0,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@20082",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 0,
+  "MinVal": 0,
+  "MaxVal": 0,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@20083",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 0,
+  "MinVal": 0,
+  "MaxVal": 0,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@1002652",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 0,
+  "MinVal": 0,
+  "MaxVal": 0,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@20021",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 0,
+  "MinVal": 0,
+  "MaxVal": 0,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@110401110",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 6,
+  "MinVal": 6,
+  "MaxVal": 6,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@110401210",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 20,
+  "MinVal": 20,
+  "MaxVal": 20,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@110401111",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 7,
+  "MinVal": 7,
+  "MaxVal": 7,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@110401112",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 1200,
+  "MinVal": 1200,
+  "MaxVal": 1200,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@110401113",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 5,
+  "MinVal": 5,
+  "MaxVal": 5,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@110401114",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 4500,
+  "MinVal": 4500,
+  "MaxVal": 4500,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@110401115",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 2000,
+  "MinVal": 2000,
+  "MaxVal": 2000,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@110401116",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 5,
+  "MinVal": 5,
+  "MaxVal": 5,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@110401117",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 6,
+  "MinVal": 6,
+  "MaxVal": 6,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@110401118",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 2000,
+  "MinVal": 2000,
+  "MaxVal": 2000,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@110401119",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 2000,
+  "MinVal": 2000,
+  "MaxVal": 2000,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@110401120",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 2000,
+  "MinVal": 2000,
+  "MaxVal": 2000,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@110401121",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 2,
+  "MinVal": 2,
+  "MaxVal": 2,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@110401122",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 13,
+  "MinVal": 13,
+  "MaxVal": 13,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@110401123",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 2000,
+  "MinVal": 2000,
+  "MaxVal": 2000,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@110401124",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 2000,
+  "MinVal": 2000,
+  "MaxVal": 2000,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@110401125",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 2000,
+  "MinVal": 2000,
+  "MaxVal": 2000,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@110401126",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 2000,
+  "MinVal": 2000,
+  "MaxVal": 2000,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@110401127",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 2000,
+  "MinVal": 2000,
+  "MaxVal": 2000,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@110401128",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 3,
+  "MinVal": 3,
+  "MaxVal": 3,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@1110401610",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 3200,
+  "MinVal": 3200,
+  "MaxVal": 3200,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@1110401611",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 7000,
+  "MinVal": 7000,
+  "MaxVal": 7000,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@1110401710",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 0,
+  "MinVal": 0,
+  "MaxVal": 0,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@1110401910",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 0,
+  "MinVal": 0,
+  "MaxVal": 0,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@2110401810",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 400,
+  "MinVal": 400,
+  "MaxVal": 400,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@2110401811",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 0,
+  "MinVal": 0,
+  "MaxVal": 0,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@2110401812",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 0,
+  "MinVal": 0,
+  "MaxVal": 0,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@110502110",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 110502100,
+  "MinVal": 110502100,
+  "MaxVal": 110502100,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@110502113",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 3000,
+  "MinVal": 3000,
+  "MaxVal": 3000,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@1000331",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 2000,
+  "MinVal": 2000,
+  "MaxVal": 2000,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@1110502710",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 0,
+  "MinVal": 0,
+  "MaxVal": 0,
+  "LevelList": [],
+  "ScoreFactors": []
+ },
+ {
+  "NumKey": "@110502210",
+  "ShowType": 1,
+  "NumType": 1,
+  "DefaultVal": 20,
+  "MinVal": 20,
+  "MaxVal": 20,
+  "LevelList": [],
+  "ScoreFactors": []
+ }
+]

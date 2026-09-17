@@ -1,0 +1,231 @@
+[
+ {
+  "GroupID": 1,
+  "BondIDs": [
+   1
+  ]
+ },
+ {
+  "GroupID": 2,
+  "BondIDs": [
+   2
+  ]
+ },
+ {
+  "GroupID": 3,
+  "BondIDs": [
+   3
+  ]
+ },
+ {
+  "GroupID": 4,
+  "BondIDs": [
+   4
+  ]
+ },
+ {
+  "GroupID": 5,
+  "BondIDs": [
+   5
+  ]
+ },
+ {
+  "GroupID": 6,
+  "BondIDs": [
+   6
+  ]
+ },
+ {
+  "GroupID": 7,
+  "BondIDs": [
+   7
+  ]
+ },
+ {
+  "GroupID": 8,
+  "BondIDs": [
+   8
+  ]
+ },
+ {
+  "GroupID": 9,
+  "BondIDs": [
+   1,
+   8
+  ]
+ },
+ {
+  "GroupID": 10,
+  "BondIDs": [
+   7,
+   11
+  ]
+ },
+ {
+  "GroupID": 11,
+  "BondIDs": [
+   4,
+   11
+  ]
+ },
+ {
+  "GroupID": 12,
+  "BondIDs": [
+   3,
+   12
+  ]
+ },
+ {
+  "GroupID": 13,
+  "BondIDs": [
+   4,
+   12
+  ]
+ },
+ {
+  "GroupID": 14,
+  "BondIDs": [
+   1,
+   9
+  ]
+ },
+ {
+  "GroupID": 15,
+  "BondIDs": [
+   4,
+   9
+  ]
+ },
+ {
+  "GroupID": 16,
+  "BondIDs": [
+   2,
+   9
+  ]
+ },
+ {
+  "GroupID": 17,
+  "BondIDs": [
+   7,
+   14
+  ]
+ },
+ {
+  "GroupID": 18,
+  "BondIDs": [
+   5,
+   14
+  ]
+ },
+ {
+  "GroupID": 19,
+  "BondIDs": [
+   6,
+   14
+  ]
+ },
+ {
+  "GroupID": 20,
+  "BondIDs": [
+   2,
+   14
+  ]
+ },
+ {
+  "GroupID": 21,
+  "BondIDs": [
+   6,
+   10
+  ]
+ },
+ {
+  "GroupID": 22,
+  "BondIDs": [
+   4,
+   10
+  ]
+ },
+ {
+  "GroupID": 23,
+  "BondIDs": [
+   2,
+   10
+  ]
+ },
+ {
+  "GroupID": 24,
+  "BondIDs": [
+   1,
+   13
+  ]
+ },
+ {
+  "GroupID": 25,
+  "BondIDs": [
+   5,
+   13
+  ]
+ },
+ {
+  "GroupID": 26,
+  "BondIDs": [
+   2,
+   13
+  ]
+ },
+ {
+  "GroupID": 27,
+  "BondIDs": [
+   3,
+   10
+  ]
+ },
+ {
+  "GroupID": 28,
+  "BondIDs": [
+   15
+  ]
+ },
+ {
+  "GroupID": 29,
+  "BondIDs": [
+   8
+  ]
+ },
+ {
+  "GroupID": 30,
+  "BondIDs": [
+   11
+  ]
+ },
+ {
+  "GroupID": 31,
+  "BondIDs": [
+   12
+  ]
+ },
+ {
+  "GroupID": 32,
+  "BondIDs": [
+   9
+  ]
+ },
+ {
+  "GroupID": 33,
+  "BondIDs": [
+   14
+  ]
+ },
+ {
+  "GroupID": 34,
+  "BondIDs": [
+   13
+  ]
+ },
+ {
+  "GroupID": 35,
+  "BondIDs": [
+   10
+  ]
+ }
+]

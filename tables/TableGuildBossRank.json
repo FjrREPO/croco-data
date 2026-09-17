@@ -1,0 +1,38 @@
+[
+ {
+  "ID": 1,
+  "MinRanking": 1,
+  "MaxRanking": 1,
+  "Reward": 4000301
+ },
+ {
+  "ID": 2,
+  "MinRanking": 2,
+  "MaxRanking": 2,
+  "Reward": 4000302
+ },
+ {
+  "ID": 3,
+  "MinRanking": 3,
+  "MaxRanking": 3,
+  "Reward": 4000303
+ },
+ {
+  "ID": 4,
+  "MinRanking": 4,
+  "MaxRanking": 5,
+  "Reward": 4000304
+ },
+ {
+  "ID": 5,
+  "MinRanking": 6,
+  "MaxRanking": 10,
+  "Reward": 4000305
+ },
+ {
+  "ID": 6,
+  "MinRanking": 11,
+  "MaxRanking": 9999,
+  "Reward": 4000306
+ }
+]

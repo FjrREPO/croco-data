@@ -1,0 +1,472 @@
+[
+ {
+  "ID": 0,
+  "ExpRequired": 600,
+  "PrivilegeType": [
+   14
+  ],
+  "PrivilegeTypeId": [
+   0
+  ],
+  "PrivilegeParameters": [
+   1
+  ],
+  "DailyPackRewardID": 4001,
+  "DailyPackRewardShowItem": [
+   124
+  ],
+  "DailyPackRewardShowItemNum": [
+   10
+  ],
+  "GiftPackSpendGem": 2000,
+  "GiftPackSpendGem2": 3000,
+  "GiftPackRewardID": 4101,
+  "GiftPackShowItem": [
+   116
+  ],
+  "GiftPackShowItemNum": [
+   10
+  ]
+ },
+ {
+  "ID": 1,
+  "ExpRequired": 1800,
+  "PrivilegeType": [
+   14
+  ],
+  "PrivilegeTypeId": [
+   0
+  ],
+  "PrivilegeParameters": [
+   1
+  ],
+  "DailyPackRewardID": 4002,
+  "DailyPackRewardShowItem": [
+   124
+  ],
+  "DailyPackRewardShowItemNum": [
+   20
+  ],
+  "GiftPackSpendGem": 2000,
+  "GiftPackSpendGem2": 4500,
+  "GiftPackRewardID": 4102,
+  "GiftPackShowItem": [
+   116
+  ],
+  "GiftPackShowItemNum": [
+   15
+  ]
+ },
+ {
+  "ID": 2,
+  "ExpRequired": 3600,
+  "PrivilegeType": [
+   14
+  ],
+  "PrivilegeTypeId": [
+   0
+  ],
+  "PrivilegeParameters": [
+   1
+  ],
+  "DailyPackRewardID": 4003,
+  "DailyPackRewardShowItem": [
+   124
+  ],
+  "DailyPackRewardShowItemNum": [
+   30
+  ],
+  "GiftPackSpendGem": 3000,
+  "GiftPackSpendGem2": 5000,
+  "GiftPackRewardID": 4103,
+  "GiftPackShowItem": [
+   2002,
+   116
+  ],
+  "GiftPackShowItemNum": [
+   5,
+   10
+  ]
+ },
+ {
+  "ID": 3,
+  "ExpRequired": 7200,
+  "PrivilegeType": [
+   14
+  ],
+  "PrivilegeTypeId": [
+   0
+  ],
+  "PrivilegeParameters": [
+   1
+  ],
+  "DailyPackRewardID": 4004,
+  "DailyPackRewardShowItem": [
+   124
+  ],
+  "DailyPackRewardShowItemNum": [
+   40
+  ],
+  "GiftPackSpendGem": 3000,
+  "GiftPackSpendGem2": 5000,
+  "GiftPackRewardID": 4104,
+  "GiftPackShowItem": [
+   2001,
+   2002
+  ],
+  "GiftPackShowItemNum": [
+   1,
+   10
+  ]
+ },
+ {
+  "ID": 4,
+  "ExpRequired": 12000,
+  "PrivilegeType": [
+   14
+  ],
+  "PrivilegeTypeId": [
+   0
+  ],
+  "PrivilegeParameters": [
+   1
+  ],
+  "DailyPackRewardID": 4005,
+  "DailyPackRewardShowItem": [
+   124
+  ],
+  "DailyPackRewardShowItemNum": [
+   50
+  ],
+  "GiftPackSpendGem": 5000,
+  "GiftPackSpendGem2": 7000,
+  "GiftPackRewardID": 4105,
+  "GiftPackShowItem": [
+   2001,
+   2001
+  ],
+  "GiftPackShowItemNum": [
+   1,
+   1
+  ]
+ },
+ {
+  "ID": 5,
+  "ExpRequired": 24000,
+  "PrivilegeType": [
+   14
+  ],
+  "PrivilegeTypeId": [
+   0
+  ],
+  "PrivilegeParameters": [
+   1
+  ],
+  "DailyPackRewardID": 4006,
+  "DailyPackRewardShowItem": [
+   124
+  ],
+  "DailyPackRewardShowItemNum": [
+   60
+  ],
+  "GiftPackSpendGem": 7500,
+  "GiftPackSpendGem2": 10000,
+  "GiftPackRewardID": 4106,
+  "GiftPackShowItem": [
+   2005
+  ],
+  "GiftPackShowItemNum": [
+   1
+  ]
+ },
+ {
+  "ID": 6,
+  "ExpRequired": 36000,
+  "PrivilegeType": [
+   14
+  ],
+  "PrivilegeTypeId": [
+   0
+  ],
+  "PrivilegeParameters": [
+   1
+  ],
+  "DailyPackRewardID": 4007,
+  "DailyPackRewardShowItem": [
+   124
+  ],
+  "DailyPackRewardShowItemNum": [
+   70
+  ],
+  "GiftPackSpendGem": 7500,
+  "GiftPackSpendGem2": 10000,
+  "GiftPackRewardID": 4107,
+  "GiftPackShowItem": [
+   2005
+  ],
+  "GiftPackShowItemNum": [
+   2
+  ]
+ },
+ {
+  "ID": 7,
+  "ExpRequired": 48000,
+  "PrivilegeType": [
+   14
+  ],
+  "PrivilegeTypeId": [
+   0
+  ],
+  "PrivilegeParameters": [
+   1
+  ],
+  "DailyPackRewardID": 4008,
+  "DailyPackRewardShowItem": [
+   124
+  ],
+  "DailyPackRewardShowItemNum": [
+   80
+  ],
+  "GiftPackSpendGem": 10000,
+  "GiftPackSpendGem2": 20000,
+  "GiftPackRewardID": 4108,
+  "GiftPackShowItem": [
+   2005
+  ],
+  "GiftPackShowItemNum": [
+   2
+  ]
+ },
+ {
+  "ID": 8,
+  "ExpRequired": 60000,
+  "PrivilegeType": [
+   14
+  ],
+  "PrivilegeTypeId": [
+   0
+  ],
+  "PrivilegeParameters": [
+   1
+  ],
+  "DailyPackRewardID": 4009,
+  "DailyPackRewardShowItem": [
+   124
+  ],
+  "DailyPackRewardShowItemNum": [
+   90
+  ],
+  "GiftPackSpendGem": 10000,
+  "GiftPackSpendGem2": 20000,
+  "GiftPackRewardID": 4109,
+  "GiftPackShowItem": [
+   702004
+  ],
+  "GiftPackShowItemNum": [
+   1
+  ]
+ },
+ {
+  "ID": 9,
+  "ExpRequired": 80000,
+  "PrivilegeType": [
+   14
+  ],
+  "PrivilegeTypeId": [
+   0
+  ],
+  "PrivilegeParameters": [
+   1
+  ],
+  "DailyPackRewardID": 4010,
+  "DailyPackRewardShowItem": [
+   124
+  ],
+  "DailyPackRewardShowItemNum": [
+   100
+  ],
+  "GiftPackSpendGem": 10000,
+  "GiftPackSpendGem2": 50000,
+  "GiftPackRewardID": 4110,
+  "GiftPackShowItem": [
+   702004
+  ],
+  "GiftPackShowItemNum": [
+   1
+  ]
+ },
+ {
+  "ID": 10,
+  "ExpRequired": 100000,
+  "PrivilegeType": [
+   14
+  ],
+  "PrivilegeTypeId": [
+   0
+  ],
+  "PrivilegeParameters": [
+   1
+  ],
+  "DailyPackRewardID": 4011,
+  "DailyPackRewardShowItem": [
+   124
+  ],
+  "DailyPackRewardShowItemNum": [
+   100
+  ],
+  "GiftPackSpendGem": 10000,
+  "GiftPackSpendGem2": 50000,
+  "GiftPackRewardID": 4111,
+  "GiftPackShowItem": [
+   702004
+  ],
+  "GiftPackShowItemNum": [
+   2
+  ]
+ },
+ {
+  "ID": 11,
+  "ExpRequired": 200000,
+  "PrivilegeType": [
+   14
+  ],
+  "PrivilegeTypeId": [
+   0
+  ],
+  "PrivilegeParameters": [
+   1
+  ],
+  "DailyPackRewardID": 4012,
+  "DailyPackRewardShowItem": [
+   124
+  ],
+  "DailyPackRewardShowItemNum": [
+   100
+  ],
+  "GiftPackSpendGem": 20000,
+  "GiftPackSpendGem2": 100000,
+  "GiftPackRewardID": 4112,
+  "GiftPackShowItem": [
+   702004
+  ],
+  "GiftPackShowItemNum": [
+   2
+  ]
+ },
+ {
+  "ID": 12,
+  "ExpRequired": 300000,
+  "PrivilegeType": [
+   14
+  ],
+  "PrivilegeTypeId": [
+   0
+  ],
+  "PrivilegeParameters": [
+   1
+  ],
+  "DailyPackRewardID": 4013,
+  "DailyPackRewardShowItem": [
+   124
+  ],
+  "DailyPackRewardShowItemNum": [
+   100
+  ],
+  "GiftPackSpendGem": 20000,
+  "GiftPackSpendGem2": 100000,
+  "GiftPackRewardID": 4113,
+  "GiftPackShowItem": [
+   702004
+  ],
+  "GiftPackShowItemNum": [
+   2
+  ]
+ },
+ {
+  "ID": 13,
+  "ExpRequired": 400000,
+  "PrivilegeType": [
+   14
+  ],
+  "PrivilegeTypeId": [
+   0
+  ],
+  "PrivilegeParameters": [
+   1
+  ],
+  "DailyPackRewardID": 4014,
+  "DailyPackRewardShowItem": [
+   124
+  ],
+  "DailyPackRewardShowItemNum": [
+   100
+  ],
+  "GiftPackSpendGem": 20000,
+  "GiftPackSpendGem2": 100000,
+  "GiftPackRewardID": 4114,
+  "GiftPackShowItem": [
+   702004
+  ],
+  "GiftPackShowItemNum": [
+   2
+  ]
+ },
+ {
+  "ID": 14,
+  "ExpRequired": 500000,
+  "PrivilegeType": [
+   14
+  ],
+  "PrivilegeTypeId": [
+   0
+  ],
+  "PrivilegeParameters": [
+   1
+  ],
+  "DailyPackRewardID": 4015,
+  "DailyPackRewardShowItem": [
+   124
+  ],
+  "DailyPackRewardShowItemNum": [
+   100
+  ],
+  "GiftPackSpendGem": 20000,
+  "GiftPackSpendGem2": 150000,
+  "GiftPackRewardID": 4115,
+  "GiftPackShowItem": [
+   702004
+  ],
+  "GiftPackShowItemNum": [
+   3
+  ]
+ },
+ {
+  "ID": 15,
+  "ExpRequired": 0,
+  "PrivilegeType": [
+   14
+  ],
+  "PrivilegeTypeId": [
+   0
+  ],
+  "PrivilegeParameters": [
+   1
+  ],
+  "DailyPackRewardID": 4016,
+  "DailyPackRewardShowItem": [
+   124
+  ],
+  "DailyPackRewardShowItemNum": [
+   100
+  ],
+  "GiftPackSpendGem": 20000,
+  "GiftPackSpendGem2": 150000,
+  "GiftPackRewardID": 4116,
+  "GiftPackShowItem": [
+   702004
+  ],
+  "GiftPackShowItemNum": [
+   3
+  ]
+ }
+]

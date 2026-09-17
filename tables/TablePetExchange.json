@@ -1,0 +1,83 @@
+[
+ {
+  "id": 2,
+  "ItemGetID": 229,
+  "ItemGetNum": 1,
+  "CostType": 1,
+  "EventId": 0,
+  "ItemCostID": 145,
+  "ItemCostNum": 8
+ },
+ {
+  "id": 3,
+  "ItemGetID": 4018,
+  "ItemGetNum": 1,
+  "CostType": 1,
+  "EventId": 0,
+  "ItemCostID": 302,
+  "ItemCostNum": 5
+ },
+ {
+  "id": 4,
+  "ItemGetID": 4019,
+  "ItemGetNum": 1,
+  "CostType": 1,
+  "EventId": 0,
+  "ItemCostID": 303,
+  "ItemCostNum": 5
+ },
+ {
+  "id": 5,
+  "ItemGetID": 4020,
+  "ItemGetNum": 1,
+  "CostType": 1,
+  "EventId": 0,
+  "ItemCostID": 304,
+  "ItemCostNum": 5
+ },
+ {
+  "id": 6,
+  "ItemGetID": 4021,
+  "ItemGetNum": 1,
+  "CostType": 1,
+  "EventId": 0,
+  "ItemCostID": 305,
+  "ItemCostNum": 10
+ },
+ {
+  "id": 7,
+  "ItemGetID": 4022,
+  "ItemGetNum": 1,
+  "CostType": 1,
+  "EventId": 0,
+  "ItemCostID": 306,
+  "ItemCostNum": 12
+ },
+ {
+  "id": 8,
+  "ItemGetID": 4023,
+  "ItemGetNum": 1,
+  "CostType": 1,
+  "EventId": 0,
+  "ItemCostID": 307,
+  "ItemCostNum": 10
+ },
+ {
+  "id": 9,
+  "ItemGetID": 505009,
+  "ItemGetNum": 1,
+  "CostType": 1,
+  "EventId": 151,
+  "ItemCostID": 305,
+  "ItemCostNum": 12
+ },
+ {
+  "id": 10,
+  "ItemGetID": 506009,
+  "ItemGetNum": 1,
+  "CostType": 1,
+  "EventId": 151,
+  "ItemCostID": 306,
+  "ItemCostNum": 15
+ }
+]

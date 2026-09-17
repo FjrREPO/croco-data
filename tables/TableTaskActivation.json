@@ -1,0 +1,191 @@
+[
+ {
+  "id": 100001,
+  "Type": 1,
+  "ActivationCondition": 20,
+  "ActivationRewardItem": [],
+  "ActivationRewardNum": [],
+  "ShowItem": 329,
+  "ShowItemNum": 1
+ },
+ {
+  "id": 100002,
+  "Type": 1,
+  "ActivationCondition": 40,
+  "ActivationRewardItem": [],
+  "ActivationRewardNum": [],
+  "ShowItem": 116,
+  "ShowItemNum": 5
+ },
+ {
+  "id": 100003,
+  "Type": 1,
+  "ActivationCondition": 60,
+  "ActivationRewardItem": [],
+  "ActivationRewardNum": [],
+  "ShowItem": 297,
+  "ShowItemNum": 30
+ },
+ {
+  "id": 100004,
+  "Type": 1,
+  "ActivationCondition": 80,
+  "ActivationRewardItem": [],
+  "ActivationRewardNum": [],
+  "ShowItem": 174,
+  "ShowItemNum": 1
+ },
+ {
+  "id": 100005,
+  "Type": 1,
+  "ActivationCondition": 100,
+  "ActivationRewardItem": [],
+  "ActivationRewardNum": [],
+  "ShowItem": 227,
+  "ShowItemNum": 2
+ },
+ {
+  "id": 200001,
+  "Type": 2,
+  "ActivationCondition": 40,
+  "ActivationRewardItem": [],
+  "ActivationRewardNum": [],
+  "ShowItem": 226,
+  "ShowItemNum": 30
+ },
+ {
+  "id": 200002,
+  "Type": 2,
+  "ActivationCondition": 80,
+  "ActivationRewardItem": [],
+  "ActivationRewardNum": [],
+  "ShowItem": 116,
+  "ShowItemNum": 8
+ },
+ {
+  "id": 200003,
+  "Type": 2,
+  "ActivationCondition": 120,
+  "ActivationRewardItem": [],
+  "ActivationRewardNum": [],
+  "ShowItem": 228,
+  "ShowItemNum": 1
+ },
+ {
+  "id": 200004,
+  "Type": 2,
+  "ActivationCondition": 160,
+  "ActivationRewardItem": [],
+  "ActivationRewardNum": [],
+  "ShowItem": 175,
+  "ShowItemNum": 1
+ },
+ {
+  "id": 200005,
+  "Type": 2,
+  "ActivationCondition": 200,
+  "ActivationRewardItem": [],
+  "ActivationRewardNum": [],
+  "ShowItem": 227,
+  "ShowItemNum": 6
+ },
+ {
+  "id": 300001,
+  "Type": 7,
+  "ActivationCondition": 200,
+  "ActivationRewardItem": [],
+  "ActivationRewardNum": [],
+  "ShowItem": 116,
+  "ShowItemNum": 10
+ },
+ {
+  "id": 300002,
+  "Type": 7,
+  "ActivationCondition": 400,
+  "ActivationRewardItem": [],
+  "ActivationRewardNum": [],
+  "ShowItem": 141,
+  "ShowItemNum": 2000
+ },
+ {
+  "id": 300003,
+  "Type": 7,
+  "ActivationCondition": 550,
+  "ActivationRewardItem": [],
+  "ActivationRewardNum": [],
+  "ShowItem": 175,
+  "ShowItemNum": 5
+ },
+ {
+  "id": 300004,
+  "Type": 7,
+  "ActivationCondition": 700,
+  "ActivationRewardItem": [],
+  "ActivationRewardNum": [],
+  "ShowItem": 124,
+  "ShowItemNum": 800
+ },
+ {
+  "id": 300005,
+  "Type": 7,
+  "ActivationCondition": 850,
+  "ActivationRewardItem": [],
+  "ActivationRewardNum": [],
+  "ShowItem": 288,
+  "ShowItemNum": 1
+ },
+ {
+  "id": 800001,
+  "Type": 9,
+  "ActivationCondition": 2,
+  "ActivationRewardItem": [],
+  "ActivationRewardNum": [],
+  "ShowItem": 116,
+  "ShowItemNum": 5
+ },
+ {
+  "id": 800002,
+  "Type": 9,
+  "ActivationCondition": 4,
+  "ActivationRewardItem": [],
+  "ActivationRewardNum": [],
+  "ShowItem": 116,
+  "ShowItemNum": 10
+ },
+ {
+  "id": 800003,
+  "Type": 9,
+  "ActivationCondition": 6,
+  "ActivationRewardItem": [],
+  "ActivationRewardNum": [],
+  "ShowItem": 226,
+  "ShowItemNum": 6
+ },
+ {
+  "id": 800101,
+  "Type": 10,
+  "ActivationCondition": 2,
+  "ActivationRewardItem": [],
+  "ActivationRewardNum": [],
+  "ShowItem": 116,
+  "ShowItemNum": 10
+ },
+ {
+  "id": 800102,
+  "Type": 10,
+  "ActivationCondition": 4,
+  "ActivationRewardItem": [],
+  "ActivationRewardNum": [],
+  "ShowItem": 175,
+  "ShowItemNum": 5
+ },
+ {
+  "id": 800103,
+  "Type": 10,
+  "ActivationCondition": 6,
+  "ActivationRewardItem": [],
+  "ActivationRewardNum": [],
+  "ShowItem": 227,
+  "ShowItemNum": 12
+ }
+]

@@ -1,0 +1,370 @@
+[
+ {
+  "MountID": 602001,
+  "MountIcon": "Mount_602001",
+  "MountQuality": 5,
+  "AttrIDs": 100,
+  "AttrTypes": 1,
+  "AttrVals": [
+   60,
+   120,
+   180,
+   240,
+   300
+  ],
+  "AttrIDs2": 102,
+  "AttrTypes2": 1,
+  "AttrVals2": [
+   30,
+   60,
+   90,
+   120,
+   150
+  ],
+  "AttrIDs3": 4,
+  "AttrTypes3": 1,
+  "AttrVals3": [
+   900,
+   1800,
+   2700,
+   3600,
+   4500
+  ],
+  "MountWeight": 200,
+  "MaxLevel": 5,
+  "PieceNeeded": 1,
+  "PieceNeededAdd": 0,
+  "AEIDs": [
+   602001100
+  ],
+  "UnlockLevels": [
+   1,
+   2,
+   3,
+   4,
+   5
+  ]
+ },
+ {
+  "MountID": 602002,
+  "MountIcon": "Mount_602002",
+  "MountQuality": 5,
+  "AttrIDs": 100,
+  "AttrTypes": 1,
+  "AttrVals": [
+   60,
+   120,
+   180,
+   240,
+   300
+  ],
+  "AttrIDs2": 102,
+  "AttrTypes2": 1,
+  "AttrVals2": [
+   30,
+   60,
+   90,
+   120,
+   150
+  ],
+  "AttrIDs3": 4,
+  "AttrTypes3": 1,
+  "AttrVals3": [
+   900,
+   1800,
+   2700,
+   3600,
+   4500
+  ],
+  "MountWeight": 200,
+  "MaxLevel": 5,
+  "PieceNeeded": 1,
+  "PieceNeededAdd": 0,
+  "AEIDs": [
+   602002100
+  ],
+  "UnlockLevels": [
+   1,
+   2,
+   3,
+   4,
+   5
+  ]
+ },
+ {
+  "MountID": 602003,
+  "MountIcon": "Mount_602003",
+  "MountQuality": 5,
+  "AttrIDs": 100,
+  "AttrTypes": 1,
+  "AttrVals": [
+   60,
+   120,
+   180,
+   240,
+   300
+  ],
+  "AttrIDs2": 102,
+  "AttrTypes2": 1,
+  "AttrVals2": [
+   30,
+   60,
+   90,
+   120,
+   150
+  ],
+  "AttrIDs3": 4,
+  "AttrTypes3": 1,
+  "AttrVals3": [
+   900,
+   1800,
+   2700,
+   3600,
+   4500
+  ],
+  "MountWeight": 200,
+  "MaxLevel": 5,
+  "PieceNeeded": 1,
+  "PieceNeededAdd": 0,
+  "AEIDs": [
+   602003100
+  ],
+  "UnlockLevels": [
+   1,
+   2,
+   3,
+   4,
+   5
+  ]
+ },
+ {
+  "MountID": 602004,
+  "MountIcon": "Mount_602004",
+  "MountQuality": 4,
+  "AttrIDs": 100,
+  "AttrTypes": 1,
+  "AttrVals": [
+   50,
+   100,
+   150,
+   200,
+   250
+  ],
+  "AttrIDs2": 102,
+  "AttrTypes2": 1,
+  "AttrVals2": [
+   25,
+   50,
+   75,
+   100,
+   125
+  ],
+  "AttrIDs3": 4,
+  "AttrTypes3": 1,
+  "AttrVals3": [
+   750,
+   1500,
+   2250,
+   3000,
+   3750
+  ],
+  "MountWeight": 200,
+  "MaxLevel": 5,
+  "PieceNeeded": 1,
+  "PieceNeededAdd": 0,
+  "AEIDs": [
+   602004100
+  ],
+  "UnlockLevels": [
+   1,
+   2,
+   3,
+   4,
+   5
+  ]
+ },
+ {
+  "MountID": 602005,
+  "MountIcon": "Mount_602005",
+  "MountQuality": 4,
+  "AttrIDs": 100,
+  "AttrTypes": 1,
+  "AttrVals": [
+   50,
+   100,
+   150,
+   200,
+   250
+  ],
+  "AttrIDs2": 102,
+  "AttrTypes2": 1,
+  "AttrVals2": [
+   25,
+   50,
+   75,
+   100,
+   125
+  ],
+  "AttrIDs3": 4,
+  "AttrTypes3": 1,
+  "AttrVals3": [
+   750,
+   1500,
+   2250,
+   3000,
+   3750
+  ],
+  "MountWeight": 200,
+  "MaxLevel": 5,
+  "PieceNeeded": 1,
+  "PieceNeededAdd": 0,
+  "AEIDs": [
+   602005100
+  ],
+  "UnlockLevels": [
+   1,
+   2,
+   3,
+   4,
+   5
+  ]
+ },
+ {
+  "MountID": 602006,
+  "MountIcon": "Mount_602006",
+  "MountQuality": 4,
+  "AttrIDs": 100,
+  "AttrTypes": 1,
+  "AttrVals": [
+   50,
+   100,
+   150,
+   200,
+   250
+  ],
+  "AttrIDs2": 102,
+  "AttrTypes2": 1,
+  "AttrVals2": [
+   25,
+   50,
+   75,
+   100,
+   125
+  ],
+  "AttrIDs3": 4,
+  "AttrTypes3": 1,
+  "AttrVals3": [
+   750,
+   1500,
+   2250,
+   3000,
+   3750
+  ],
+  "MountWeight": 200,
+  "MaxLevel": 5,
+  "PieceNeeded": 1,
+  "PieceNeededAdd": 0,
+  "AEIDs": [
+   602006100
+  ],
+  "UnlockLevels": [
+   1,
+   2,
+   3,
+   4,
+   5
+  ]
+ },
+ {
+  "MountID": 602007,
+  "MountIcon": "Mount_602007",
+  "MountQuality": 5,
+  "AttrIDs": 100,
+  "AttrTypes": 1,
+  "AttrVals": [
+   60,
+   120,
+   180,
+   240,
+   300
+  ],
+  "AttrIDs2": 102,
+  "AttrTypes2": 1,
+  "AttrVals2": [
+   30,
+   60,
+   90,
+   120,
+   150
+  ],
+  "AttrIDs3": 4,
+  "AttrTypes3": 1,
+  "AttrVals3": [
+   900,
+   1800,
+   2700,
+   3600,
+   4500
+  ],
+  "MountWeight": 200,
+  "MaxLevel": 5,
+  "PieceNeeded": 1,
+  "PieceNeededAdd": 0,
+  "AEIDs": [
+   602007100
+  ],
+  "UnlockLevels": [
+   1,
+   2,
+   3,
+   4,
+   5
+  ]
+ },
+ {
+  "MountID": 602008,
+  "MountIcon": "Mount_602008",
+  "MountQuality": 5,
+  "AttrIDs": 100,
+  "AttrTypes": 1,
+  "AttrVals": [
+   60,
+   120,
+   180,
+   240,
+   300
+  ],
+  "AttrIDs2": 102,
+  "AttrTypes2": 1,
+  "AttrVals2": [
+   30,
+   60,
+   90,
+   120,
+   150
+  ],
+  "AttrIDs3": 4,
+  "AttrTypes3": 1,
+  "AttrVals3": [
+   900,
+   1800,
+   2700,
+   3600,
+   4500
+  ],
+  "MountWeight": 200,
+  "MaxLevel": 5,
+  "PieceNeeded": 1,
+  "PieceNeededAdd": 0,
+  "AEIDs": [
+   602008100
+  ],
+  "UnlockLevels": [
+   1,
+   2,
+   3,
+   4,
+   5
+  ]
+ }
+]

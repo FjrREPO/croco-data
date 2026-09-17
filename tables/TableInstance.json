@@ -1,0 +1,3782 @@
+[
+ {
+  "InstanceID": 10001,
+  "InstanceType": 1,
+  "BlessCardCount": 0,
+  "InstanceDifficulty": 1,
+  "MainLevelIDs": 9005,
+  "UseTickets": [
+   142,
+   1
+  ],
+  "InstanceBg": "BG013",
+  "LevelIDs": [
+   11001,
+   11002,
+   11003
+  ],
+  "BossID": 190101,
+  "VictoryReward": 92001,
+  "FirstVictoryReward": 92101,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   2,
+   2,
+   2
+  ],
+  "AttrVals": [
+   -8500,
+   -8500,
+   -8500
+  ],
+  "MonsterLevel": 1,
+  "Hero": 0,
+  "HeroLevel": 0,
+  "ExtraBlessIDs": [
+   40002,
+   40003
+  ]
+ },
+ {
+  "InstanceID": 10002,
+  "InstanceType": 1,
+  "BlessCardCount": 0,
+  "InstanceDifficulty": 2,
+  "MainLevelIDs": 9005,
+  "UseTickets": [
+   142,
+   1
+  ],
+  "InstanceBg": "BG013",
+  "LevelIDs": [
+   12001,
+   12002,
+   12003
+  ],
+  "BossID": 190101,
+  "VictoryReward": 92002,
+  "FirstVictoryReward": 92102,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   2,
+   2,
+   2
+  ],
+  "AttrVals": [
+   -7700,
+   -7700,
+   -7700
+  ],
+  "MonsterLevel": 2,
+  "Hero": 0,
+  "HeroLevel": 0,
+  "ExtraBlessIDs": [
+   40003,
+   40004
+  ]
+ },
+ {
+  "InstanceID": 10003,
+  "InstanceType": 1,
+  "BlessCardCount": 0,
+  "InstanceDifficulty": 3,
+  "MainLevelIDs": 9005,
+  "UseTickets": [
+   142,
+   1
+  ],
+  "InstanceBg": "BG013",
+  "LevelIDs": [
+   13001,
+   13002,
+   13003
+  ],
+  "BossID": 190101,
+  "VictoryReward": 92003,
+  "FirstVictoryReward": 92103,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   2,
+   2,
+   2
+  ],
+  "AttrVals": [
+   -6900,
+   -6900,
+   -6600
+  ],
+  "MonsterLevel": 3,
+  "Hero": 0,
+  "HeroLevel": 0,
+  "ExtraBlessIDs": [
+   40003,
+   40008
+  ]
+ },
+ {
+  "InstanceID": 10004,
+  "InstanceType": 1,
+  "BlessCardCount": 0,
+  "InstanceDifficulty": 4,
+  "MainLevelIDs": 9005,
+  "UseTickets": [
+   142,
+   1
+  ],
+  "InstanceBg": "BG013",
+  "LevelIDs": [
+   14001,
+   14002,
+   14003
+  ],
+  "BossID": 190101,
+  "VictoryReward": 92004,
+  "FirstVictoryReward": 92104,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   2,
+   2,
+   2
+  ],
+  "AttrVals": [
+   -6400,
+   -6400,
+   -6000
+  ],
+  "MonsterLevel": 4,
+  "Hero": 0,
+  "HeroLevel": 0,
+  "ExtraBlessIDs": [
+   40002,
+   40008
+  ]
+ },
+ {
+  "InstanceID": 10005,
+  "InstanceType": 1,
+  "BlessCardCount": 0,
+  "InstanceDifficulty": 5,
+  "MainLevelIDs": 9010,
+  "UseTickets": [
+   142,
+   1
+  ],
+  "InstanceBg": "BG013",
+  "LevelIDs": [
+   11001,
+   11002,
+   11003
+  ],
+  "BossID": 190101,
+  "VictoryReward": 92005,
+  "FirstVictoryReward": 92105,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   2,
+   2,
+   2
+  ],
+  "AttrVals": [
+   -5801,
+   -5801,
+   -5100
+  ],
+  "MonsterLevel": 5,
+  "Hero": 0,
+  "HeroLevel": 0,
+  "ExtraBlessIDs": [
+   40002,
+   40006
+  ]
+ },
+ {
+  "InstanceID": 10006,
+  "InstanceType": 1,
+  "BlessCardCount": 0,
+  "InstanceDifficulty": 6,
+  "MainLevelIDs": 9015,
+  "UseTickets": [
+   142,
+   1
+  ],
+  "InstanceBg": "BG013",
+  "LevelIDs": [
+   12001,
+   12002,
+   12003
+  ],
+  "BossID": 190101,
+  "VictoryReward": 92006,
+  "FirstVictoryReward": 92106,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   2,
+   2,
+   2
+  ],
+  "AttrVals": [
+   -4900,
+   -4900,
+   -3200
+  ],
+  "MonsterLevel": 6,
+  "Hero": 0,
+  "HeroLevel": 0,
+  "ExtraBlessIDs": [
+   40004,
+   40008
+  ]
+ },
+ {
+  "InstanceID": 10007,
+  "InstanceType": 1,
+  "BlessCardCount": 0,
+  "InstanceDifficulty": 7,
+  "MainLevelIDs": 9020,
+  "UseTickets": [
+   142,
+   1
+  ],
+  "InstanceBg": "BG013",
+  "LevelIDs": [
+   13001,
+   13002,
+   13003
+  ],
+  "BossID": 190101,
+  "VictoryReward": 92007,
+  "FirstVictoryReward": 92107,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   2,
+   2,
+   2
+  ],
+  "AttrVals": [
+   -1500,
+   -1500,
+   11900
+  ],
+  "MonsterLevel": 7,
+  "Hero": 0,
+  "HeroLevel": 0,
+  "ExtraBlessIDs": [
+   40003,
+   40005
+  ]
+ },
+ {
+  "InstanceID": 10008,
+  "InstanceType": 1,
+  "BlessCardCount": 0,
+  "InstanceDifficulty": 8,
+  "MainLevelIDs": 9025,
+  "UseTickets": [
+   142,
+   1
+  ],
+  "InstanceBg": "BG013",
+  "LevelIDs": [
+   14001,
+   14002,
+   14003
+  ],
+  "BossID": 190101,
+  "VictoryReward": 92008,
+  "FirstVictoryReward": 92108,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   2,
+   2,
+   2
+  ],
+  "AttrVals": [
+   400,
+   400,
+   27200
+  ],
+  "MonsterLevel": 8,
+  "Hero": 0,
+  "HeroLevel": 0,
+  "ExtraBlessIDs": [
+   40003,
+   40006
+  ]
+ },
+ {
+  "InstanceID": 10009,
+  "InstanceType": 1,
+  "BlessCardCount": 0,
+  "InstanceDifficulty": 9,
+  "MainLevelIDs": 9030,
+  "UseTickets": [
+   142,
+   1
+  ],
+  "InstanceBg": "BG013",
+  "LevelIDs": [
+   11001,
+   11002,
+   11003
+  ],
+  "BossID": 190101,
+  "VictoryReward": 92009,
+  "FirstVictoryReward": 92109,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   2,
+   2,
+   2
+  ],
+  "AttrVals": [
+   4499,
+   4499,
+   78000
+  ],
+  "MonsterLevel": 9,
+  "Hero": 0,
+  "HeroLevel": 0,
+  "ExtraBlessIDs": [
+   40004,
+   40006
+  ]
+ },
+ {
+  "InstanceID": 10010,
+  "InstanceType": 1,
+  "BlessCardCount": 0,
+  "InstanceDifficulty": 10,
+  "MainLevelIDs": 9035,
+  "UseTickets": [
+   142,
+   1
+  ],
+  "InstanceBg": "BG013",
+  "LevelIDs": [
+   12001,
+   12002,
+   12003
+  ],
+  "BossID": 190101,
+  "VictoryReward": 92010,
+  "FirstVictoryReward": 92110,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   2,
+   2,
+   2
+  ],
+  "AttrVals": [
+   7900,
+   7900,
+   139700
+  ],
+  "MonsterLevel": 10,
+  "Hero": 0,
+  "HeroLevel": 0,
+  "ExtraBlessIDs": [
+   40002,
+   40004
+  ]
+ },
+ {
+  "InstanceID": 10011,
+  "InstanceType": 1,
+  "BlessCardCount": 0,
+  "InstanceDifficulty": 11,
+  "MainLevelIDs": 9040,
+  "UseTickets": [
+   142,
+   1
+  ],
+  "InstanceBg": "BG013",
+  "LevelIDs": [
+   13001,
+   13002,
+   13003
+  ],
+  "BossID": 190101,
+  "VictoryReward": 92011,
+  "FirstVictoryReward": 92111,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   2,
+   2,
+   2
+  ],
+  "AttrVals": [
+   11800,
+   11800,
+   221100
+  ],
+  "MonsterLevel": 11,
+  "Hero": 0,
+  "HeroLevel": 0,
+  "ExtraBlessIDs": [
+   40002,
+   40005
+  ]
+ },
+ {
+  "InstanceID": 10012,
+  "InstanceType": 1,
+  "BlessCardCount": 0,
+  "InstanceDifficulty": 12,
+  "MainLevelIDs": 9045,
+  "UseTickets": [
+   142,
+   1
+  ],
+  "InstanceBg": "BG013",
+  "LevelIDs": [
+   14001,
+   14002,
+   14003
+  ],
+  "BossID": 190101,
+  "VictoryReward": 92012,
+  "FirstVictoryReward": 92112,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   2,
+   2,
+   2
+  ],
+  "AttrVals": [
+   15600,
+   15699,
+   325600
+  ],
+  "MonsterLevel": 12,
+  "Hero": 0,
+  "HeroLevel": 0,
+  "ExtraBlessIDs": [
+   40005,
+   40006
+  ]
+ },
+ {
+  "InstanceID": 10013,
+  "InstanceType": 1,
+  "BlessCardCount": 0,
+  "InstanceDifficulty": 13,
+  "MainLevelIDs": 9050,
+  "UseTickets": [
+   142,
+   1
+  ],
+  "InstanceBg": "BG013",
+  "LevelIDs": [
+   11001,
+   11002,
+   11003
+  ],
+  "BossID": 190101,
+  "VictoryReward": 92013,
+  "FirstVictoryReward": 92113,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   2,
+   2,
+   2
+  ],
+  "AttrVals": [
+   18300,
+   18400,
+   364200
+  ],
+  "MonsterLevel": 13,
+  "Hero": 0,
+  "HeroLevel": 0,
+  "ExtraBlessIDs": [
+   40006,
+   40008
+  ]
+ },
+ {
+  "InstanceID": 10014,
+  "InstanceType": 1,
+  "BlessCardCount": 0,
+  "InstanceDifficulty": 14,
+  "MainLevelIDs": 9055,
+  "UseTickets": [
+   142,
+   1
+  ],
+  "InstanceBg": "BG013",
+  "LevelIDs": [
+   12001,
+   12002,
+   12003
+  ],
+  "BossID": 190101,
+  "VictoryReward": 92014,
+  "FirstVictoryReward": 92114,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   2,
+   2,
+   2
+  ],
+  "AttrVals": [
+   24700,
+   24700,
+   526200
+  ],
+  "MonsterLevel": 14,
+  "Hero": 0,
+  "HeroLevel": 0,
+  "ExtraBlessIDs": [
+   40005,
+   40008
+  ]
+ },
+ {
+  "InstanceID": 10015,
+  "InstanceType": 1,
+  "BlessCardCount": 0,
+  "InstanceDifficulty": 15,
+  "MainLevelIDs": 9061,
+  "UseTickets": [
+   142,
+   1
+  ],
+  "InstanceBg": "BG013",
+  "LevelIDs": [
+   13001,
+   13002,
+   13003
+  ],
+  "BossID": 190101,
+  "VictoryReward": 92015,
+  "FirstVictoryReward": 92115,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   2,
+   2,
+   2
+  ],
+  "AttrVals": [
+   31300,
+   31400,
+   689800
+  ],
+  "MonsterLevel": 15,
+  "Hero": 0,
+  "HeroLevel": 0,
+  "ExtraBlessIDs": [
+   40004,
+   40005
+  ]
+ },
+ {
+  "InstanceID": 10016,
+  "InstanceType": 1,
+  "BlessCardCount": 0,
+  "InstanceDifficulty": 16,
+  "MainLevelIDs": 9067,
+  "UseTickets": [
+   142,
+   1
+  ],
+  "InstanceBg": "BG013",
+  "LevelIDs": [
+   14001,
+   14002,
+   14003
+  ],
+  "BossID": 190101,
+  "VictoryReward": 92016,
+  "FirstVictoryReward": 92116,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   2,
+   2,
+   2
+  ],
+  "AttrVals": [
+   43000,
+   43000,
+   994500
+  ],
+  "MonsterLevel": 16,
+  "Hero": 0,
+  "HeroLevel": 0,
+  "ExtraBlessIDs": [
+   40002,
+   40003
+  ]
+ },
+ {
+  "InstanceID": 10017,
+  "InstanceType": 1,
+  "BlessCardCount": 0,
+  "InstanceDifficulty": 17,
+  "MainLevelIDs": 9073,
+  "UseTickets": [
+   142,
+   1
+  ],
+  "InstanceBg": "BG013",
+  "LevelIDs": [
+   11001,
+   11002,
+   11003
+  ],
+  "BossID": 190101,
+  "VictoryReward": 92017,
+  "FirstVictoryReward": 92117,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   2,
+   2,
+   2
+  ],
+  "AttrVals": [
+   56100,
+   56100,
+   1390600
+  ],
+  "MonsterLevel": 17,
+  "Hero": 0,
+  "HeroLevel": 0,
+  "ExtraBlessIDs": [
+   40003,
+   40004
+  ]
+ },
+ {
+  "InstanceID": 10018,
+  "InstanceType": 1,
+  "BlessCardCount": 0,
+  "InstanceDifficulty": 18,
+  "MainLevelIDs": 9079,
+  "UseTickets": [
+   142,
+   1
+  ],
+  "InstanceBg": "BG013",
+  "LevelIDs": [
+   12001,
+   12002,
+   12003
+  ],
+  "BossID": 190101,
+  "VictoryReward": 92018,
+  "FirstVictoryReward": 92118,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   2,
+   2,
+   2
+  ],
+  "AttrVals": [
+   75400,
+   75500,
+   2232300
+  ],
+  "MonsterLevel": 18,
+  "Hero": 0,
+  "HeroLevel": 0,
+  "ExtraBlessIDs": [
+   40003,
+   40008
+  ]
+ },
+ {
+  "InstanceID": 10019,
+  "InstanceType": 1,
+  "BlessCardCount": 0,
+  "InstanceDifficulty": 19,
+  "MainLevelIDs": 9084,
+  "UseTickets": [
+   142,
+   1
+  ],
+  "InstanceBg": "BG013",
+  "LevelIDs": [
+   13001,
+   13002,
+   13003
+  ],
+  "BossID": 190101,
+  "VictoryReward": 92019,
+  "FirstVictoryReward": 92119,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   2,
+   2,
+   2
+  ],
+  "AttrVals": [
+   89200,
+   89200,
+   3139400
+  ],
+  "MonsterLevel": 19,
+  "Hero": 0,
+  "HeroLevel": 0,
+  "ExtraBlessIDs": [
+   40002,
+   40008
+  ]
+ },
+ {
+  "InstanceID": 10020,
+  "InstanceType": 1,
+  "BlessCardCount": 0,
+  "InstanceDifficulty": 20,
+  "MainLevelIDs": 9090,
+  "UseTickets": [
+   142,
+   1
+  ],
+  "InstanceBg": "BG013",
+  "LevelIDs": [
+   14001,
+   14002,
+   14003
+  ],
+  "BossID": 190101,
+  "VictoryReward": 92020,
+  "FirstVictoryReward": 92120,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   2,
+   2,
+   2
+  ],
+  "AttrVals": [
+   122200,
+   122100,
+   4513900
+  ],
+  "MonsterLevel": 20,
+  "Hero": 0,
+  "HeroLevel": 0,
+  "ExtraBlessIDs": [
+   40002,
+   40006
+  ]
+ },
+ {
+  "InstanceID": 10021,
+  "InstanceType": 1,
+  "BlessCardCount": 0,
+  "InstanceDifficulty": 21,
+  "MainLevelIDs": 9096,
+  "UseTickets": [
+   142,
+   1
+  ],
+  "InstanceBg": "BG013",
+  "LevelIDs": [
+   11001,
+   11002,
+   11003
+  ],
+  "BossID": 190101,
+  "VictoryReward": 92021,
+  "FirstVictoryReward": 92121,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   2,
+   2,
+   2
+  ],
+  "AttrVals": [
+   145900,
+   146000,
+   6131900
+  ],
+  "MonsterLevel": 21,
+  "Hero": 0,
+  "HeroLevel": 0,
+  "ExtraBlessIDs": [
+   40004,
+   40008
+  ]
+ },
+ {
+  "InstanceID": 10022,
+  "InstanceType": 1,
+  "BlessCardCount": 0,
+  "InstanceDifficulty": 22,
+  "MainLevelIDs": 9102,
+  "UseTickets": [
+   142,
+   1
+  ],
+  "InstanceBg": "BG013",
+  "LevelIDs": [
+   12001,
+   12002,
+   12003
+  ],
+  "BossID": 190101,
+  "VictoryReward": 92022,
+  "FirstVictoryReward": 92122,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   2,
+   2,
+   2
+  ],
+  "AttrVals": [
+   173400,
+   173500,
+   7826400
+  ],
+  "MonsterLevel": 22,
+  "Hero": 0,
+  "HeroLevel": 0,
+  "ExtraBlessIDs": [
+   40003,
+   40005
+  ]
+ },
+ {
+  "InstanceID": 10023,
+  "InstanceType": 1,
+  "BlessCardCount": 0,
+  "InstanceDifficulty": 23,
+  "MainLevelIDs": 9108,
+  "UseTickets": [
+   142,
+   1
+  ],
+  "InstanceBg": "BG013",
+  "LevelIDs": [
+   13001,
+   13002,
+   13003
+  ],
+  "BossID": 190101,
+  "VictoryReward": 92023,
+  "FirstVictoryReward": 92123,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   2,
+   2,
+   2
+  ],
+  "AttrVals": [
+   225600,
+   225600,
+   11929300
+  ],
+  "MonsterLevel": 23,
+  "Hero": 0,
+  "HeroLevel": 0,
+  "ExtraBlessIDs": [
+   40003,
+   40006
+  ]
+ },
+ {
+  "InstanceID": 10024,
+  "InstanceType": 1,
+  "BlessCardCount": 0,
+  "InstanceDifficulty": 24,
+  "MainLevelIDs": 9114,
+  "UseTickets": [
+   142,
+   1
+  ],
+  "InstanceBg": "BG013",
+  "LevelIDs": [
+   14001,
+   14002,
+   14003
+  ],
+  "BossID": 190101,
+  "VictoryReward": 92024,
+  "FirstVictoryReward": 92124,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   2,
+   2,
+   2
+  ],
+  "AttrVals": [
+   292300,
+   292300,
+   19182000
+  ],
+  "MonsterLevel": 24,
+  "Hero": 0,
+  "HeroLevel": 0,
+  "ExtraBlessIDs": [
+   40004,
+   40006
+  ]
+ },
+ {
+  "InstanceID": 10025,
+  "InstanceType": 1,
+  "BlessCardCount": 0,
+  "InstanceDifficulty": 25,
+  "MainLevelIDs": 9120,
+  "UseTickets": [
+   142,
+   1
+  ],
+  "InstanceBg": "BG013",
+  "LevelIDs": [
+   11001,
+   11002,
+   11003
+  ],
+  "BossID": 190101,
+  "VictoryReward": 92025,
+  "FirstVictoryReward": 92125,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   2,
+   2,
+   2
+  ],
+  "AttrVals": [
+   353000,
+   353100,
+   26650100
+  ],
+  "MonsterLevel": 25,
+  "Hero": 0,
+  "HeroLevel": 0,
+  "ExtraBlessIDs": [
+   40002,
+   40004
+  ]
+ },
+ {
+  "InstanceID": 10026,
+  "InstanceType": 1,
+  "BlessCardCount": 0,
+  "InstanceDifficulty": 26,
+  "MainLevelIDs": 9128,
+  "UseTickets": [
+   142,
+   1
+  ],
+  "InstanceBg": "BG013",
+  "LevelIDs": [
+   12001,
+   12002,
+   12003
+  ],
+  "BossID": 190101,
+  "VictoryReward": 92026,
+  "FirstVictoryReward": 92126,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   2,
+   2,
+   2
+  ],
+  "AttrVals": [
+   473400,
+   473400,
+   41173800
+  ],
+  "MonsterLevel": 26,
+  "Hero": 0,
+  "HeroLevel": 0,
+  "ExtraBlessIDs": [
+   40002,
+   40005
+  ]
+ },
+ {
+  "InstanceID": 10027,
+  "InstanceType": 1,
+  "BlessCardCount": 0,
+  "InstanceDifficulty": 27,
+  "MainLevelIDs": 9136,
+  "UseTickets": [
+   142,
+   1
+  ],
+  "InstanceBg": "BG013",
+  "LevelIDs": [
+   13001,
+   13002,
+   13003
+  ],
+  "BossID": 190101,
+  "VictoryReward": 92027,
+  "FirstVictoryReward": 92127,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   2,
+   2,
+   2
+  ],
+  "AttrVals": [
+   536400,
+   536400,
+   49473300
+  ],
+  "MonsterLevel": 27,
+  "Hero": 0,
+  "HeroLevel": 0,
+  "ExtraBlessIDs": [
+   40005,
+   40006
+  ]
+ },
+ {
+  "InstanceID": 10028,
+  "InstanceType": 1,
+  "BlessCardCount": 0,
+  "InstanceDifficulty": 28,
+  "MainLevelIDs": 9144,
+  "UseTickets": [
+   142,
+   1
+  ],
+  "InstanceBg": "BG013",
+  "LevelIDs": [
+   14001,
+   14002,
+   14003
+  ],
+  "BossID": 190101,
+  "VictoryReward": 92028,
+  "FirstVictoryReward": 92128,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   2,
+   2,
+   2
+  ],
+  "AttrVals": [
+   613100,
+   613300,
+   58746400
+  ],
+  "MonsterLevel": 28,
+  "Hero": 0,
+  "HeroLevel": 0,
+  "ExtraBlessIDs": [
+   40006,
+   40008
+  ]
+ },
+ {
+  "InstanceID": 10029,
+  "InstanceType": 1,
+  "BlessCardCount": 0,
+  "InstanceDifficulty": 29,
+  "MainLevelIDs": 9152,
+  "UseTickets": [
+   142,
+   1
+  ],
+  "InstanceBg": "BG013",
+  "LevelIDs": [
+   11001,
+   11002,
+   11003
+  ],
+  "BossID": 190101,
+  "VictoryReward": 92029,
+  "FirstVictoryReward": 92129,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   2,
+   2,
+   2
+  ],
+  "AttrVals": [
+   730699,
+   730900,
+   77657100
+  ],
+  "MonsterLevel": 29,
+  "Hero": 0,
+  "HeroLevel": 0,
+  "ExtraBlessIDs": [
+   40005,
+   40008
+  ]
+ },
+ {
+  "InstanceID": 10030,
+  "InstanceType": 1,
+  "BlessCardCount": 0,
+  "InstanceDifficulty": 30,
+  "MainLevelIDs": 9160,
+  "UseTickets": [
+   142,
+   1
+  ],
+  "InstanceBg": "BG013",
+  "LevelIDs": [
+   12001,
+   12002,
+   12003
+  ],
+  "BossID": 190101,
+  "VictoryReward": 92030,
+  "FirstVictoryReward": 92130,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   2,
+   2,
+   2
+  ],
+  "AttrVals": [
+   856499,
+   856599,
+   100858700
+  ],
+  "MonsterLevel": 30,
+  "Hero": 0,
+  "HeroLevel": 0,
+  "ExtraBlessIDs": [
+   40004,
+   40005
+  ]
+ },
+ {
+  "InstanceID": 10031,
+  "InstanceType": 1,
+  "BlessCardCount": 0,
+  "InstanceDifficulty": 31,
+  "MainLevelIDs": 9168,
+  "UseTickets": [
+   142,
+   1
+  ],
+  "InstanceBg": "BG013",
+  "LevelIDs": [
+   13001,
+   13002,
+   13003
+  ],
+  "BossID": 190101,
+  "VictoryReward": 92031,
+  "FirstVictoryReward": 92131,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   2,
+   2,
+   2
+  ],
+  "AttrVals": [
+   922500,
+   922700,
+   111186500
+  ],
+  "MonsterLevel": 31,
+  "Hero": 0,
+  "HeroLevel": 0,
+  "ExtraBlessIDs": [
+   40002,
+   40003
+  ]
+ },
+ {
+  "InstanceID": 10032,
+  "InstanceType": 1,
+  "BlessCardCount": 0,
+  "InstanceDifficulty": 32,
+  "MainLevelIDs": 9176,
+  "UseTickets": [
+   142,
+   1
+  ],
+  "InstanceBg": "BG013",
+  "LevelIDs": [
+   14001,
+   14002,
+   14003
+  ],
+  "BossID": 190101,
+  "VictoryReward": 92032,
+  "FirstVictoryReward": 92132,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   2,
+   2,
+   2
+  ],
+  "AttrVals": [
+   988300,
+   988300,
+   121486400
+  ],
+  "MonsterLevel": 32,
+  "Hero": 0,
+  "HeroLevel": 0,
+  "ExtraBlessIDs": [
+   40003,
+   40004
+  ]
+ },
+ {
+  "InstanceID": 10033,
+  "InstanceType": 1,
+  "BlessCardCount": 0,
+  "InstanceDifficulty": 33,
+  "MainLevelIDs": 9184,
+  "UseTickets": [
+   142,
+   1
+  ],
+  "InstanceBg": "BG013",
+  "LevelIDs": [
+   11001,
+   11002,
+   11003
+  ],
+  "BossID": 190101,
+  "VictoryReward": 92033,
+  "FirstVictoryReward": 92133,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   2,
+   2,
+   2
+  ],
+  "AttrVals": [
+   1067000,
+   1067000,
+   140969700
+  ],
+  "MonsterLevel": 33,
+  "Hero": 0,
+  "HeroLevel": 0,
+  "ExtraBlessIDs": [
+   40003,
+   40008
+  ]
+ },
+ {
+  "InstanceID": 10034,
+  "InstanceType": 1,
+  "BlessCardCount": 0,
+  "InstanceDifficulty": 34,
+  "MainLevelIDs": 9192,
+  "UseTickets": [
+   142,
+   1
+  ],
+  "InstanceBg": "BG013",
+  "LevelIDs": [
+   12001,
+   12002,
+   12003
+  ],
+  "BossID": 190101,
+  "VictoryReward": 92034,
+  "FirstVictoryReward": 92134,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   2,
+   2,
+   2
+  ],
+  "AttrVals": [
+   1162300,
+   1162500,
+   156601500
+  ],
+  "MonsterLevel": 34,
+  "Hero": 0,
+  "HeroLevel": 0,
+  "ExtraBlessIDs": [
+   40002,
+   40008
+  ]
+ },
+ {
+  "InstanceID": 10035,
+  "InstanceType": 1,
+  "BlessCardCount": 0,
+  "InstanceDifficulty": 35,
+  "MainLevelIDs": 9200,
+  "UseTickets": [
+   142,
+   1
+  ],
+  "InstanceBg": "BG013",
+  "LevelIDs": [
+   13001,
+   13002,
+   13003
+  ],
+  "BossID": 190101,
+  "VictoryReward": 92035,
+  "FirstVictoryReward": 92135,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   2,
+   2,
+   2
+  ],
+  "AttrVals": [
+   1204300,
+   1204500,
+   165874000
+  ],
+  "MonsterLevel": 35,
+  "Hero": 0,
+  "HeroLevel": 0,
+  "ExtraBlessIDs": [
+   40002,
+   40006
+  ]
+ },
+ {
+  "InstanceID": 10036,
+  "InstanceType": 1,
+  "BlessCardCount": 0,
+  "InstanceDifficulty": 36,
+  "MainLevelIDs": 9210,
+  "UseTickets": [
+   142,
+   1
+  ],
+  "InstanceBg": "BG013",
+  "LevelIDs": [
+   14001,
+   14002,
+   14003
+  ],
+  "BossID": 190101,
+  "VictoryReward": 92036,
+  "FirstVictoryReward": 92136,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   2,
+   2,
+   2
+  ],
+  "AttrVals": [
+   1262400,
+   1262400,
+   176401400
+  ],
+  "MonsterLevel": 36,
+  "Hero": 0,
+  "HeroLevel": 0,
+  "ExtraBlessIDs": [
+   40004,
+   40008
+  ]
+ },
+ {
+  "InstanceID": 10037,
+  "InstanceType": 1,
+  "BlessCardCount": 0,
+  "InstanceDifficulty": 37,
+  "MainLevelIDs": 9220,
+  "UseTickets": [
+   142,
+   1
+  ],
+  "InstanceBg": "BG013",
+  "LevelIDs": [
+   11001,
+   11002,
+   11003
+  ],
+  "BossID": 190101,
+  "VictoryReward": 92037,
+  "FirstVictoryReward": 92137,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   2,
+   2,
+   2
+  ],
+  "AttrVals": [
+   1367300,
+   1367500,
+   196482900
+  ],
+  "MonsterLevel": 37,
+  "Hero": 0,
+  "HeroLevel": 0,
+  "ExtraBlessIDs": [
+   40003,
+   40005
+  ]
+ },
+ {
+  "InstanceID": 10038,
+  "InstanceType": 1,
+  "BlessCardCount": 0,
+  "InstanceDifficulty": 38,
+  "MainLevelIDs": 9230,
+  "UseTickets": [
+   142,
+   1
+  ],
+  "InstanceBg": "BG013",
+  "LevelIDs": [
+   12001,
+   12002,
+   12003
+  ],
+  "BossID": 190101,
+  "VictoryReward": 92038,
+  "FirstVictoryReward": 92138,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   2,
+   2,
+   2
+  ],
+  "AttrVals": [
+   1484300,
+   1484300,
+   227765699
+  ],
+  "MonsterLevel": 38,
+  "Hero": 0,
+  "HeroLevel": 0,
+  "ExtraBlessIDs": [
+   40003,
+   40006
+  ]
+ },
+ {
+  "InstanceID": 10039,
+  "InstanceType": 1,
+  "BlessCardCount": 0,
+  "InstanceDifficulty": 39,
+  "MainLevelIDs": 9240,
+  "UseTickets": [
+   142,
+   1
+  ],
+  "InstanceBg": "BG013",
+  "LevelIDs": [
+   13001,
+   13002,
+   13003
+  ],
+  "BossID": 190101,
+  "VictoryReward": 92039,
+  "FirstVictoryReward": 92139,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   2,
+   2,
+   2
+  ],
+  "AttrVals": [
+   1559299,
+   1559300,
+   246054400
+  ],
+  "MonsterLevel": 39,
+  "Hero": 0,
+  "HeroLevel": 0,
+  "ExtraBlessIDs": [
+   40004,
+   40006
+  ]
+ },
+ {
+  "InstanceID": 10040,
+  "InstanceType": 1,
+  "BlessCardCount": 0,
+  "InstanceDifficulty": 40,
+  "MainLevelIDs": 9250,
+  "UseTickets": [
+   142,
+   1
+  ],
+  "InstanceBg": "BG013",
+  "LevelIDs": [
+   14001,
+   14002,
+   14003
+  ],
+  "BossID": 190101,
+  "VictoryReward": 92040,
+  "FirstVictoryReward": 92140,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   2,
+   2,
+   2
+  ],
+  "AttrVals": [
+   1627200,
+   1627200,
+   262196600
+  ],
+  "MonsterLevel": 40,
+  "Hero": 0,
+  "HeroLevel": 0,
+  "ExtraBlessIDs": [
+   40002,
+   40004
+  ]
+ },
+ {
+  "InstanceID": 10041,
+  "InstanceType": 1,
+  "BlessCardCount": 0,
+  "InstanceDifficulty": 41,
+  "MainLevelIDs": 9260,
+  "UseTickets": [
+   142,
+   1
+  ],
+  "InstanceBg": "BG013",
+  "LevelIDs": [
+   11001,
+   11002,
+   11003
+  ],
+  "BossID": 190101,
+  "VictoryReward": 92041,
+  "FirstVictoryReward": 92141,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   2,
+   2,
+   2
+  ],
+  "AttrVals": [
+   1669100,
+   1669199,
+   271248999
+  ],
+  "MonsterLevel": 41,
+  "Hero": 0,
+  "HeroLevel": 0,
+  "ExtraBlessIDs": [
+   40002,
+   40005
+  ]
+ },
+ {
+  "InstanceID": 10042,
+  "InstanceType": 1,
+  "BlessCardCount": 0,
+  "InstanceDifficulty": 42,
+  "MainLevelIDs": 9270,
+  "UseTickets": [
+   142,
+   1
+  ],
+  "InstanceBg": "BG013",
+  "LevelIDs": [
+   12001,
+   12002,
+   12003
+  ],
+  "BossID": 190101,
+  "VictoryReward": 92042,
+  "FirstVictoryReward": 92142,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   2,
+   2,
+   2
+  ],
+  "AttrVals": [
+   1795000,
+   1795200,
+   296340000
+  ],
+  "MonsterLevel": 42,
+  "Hero": 0,
+  "HeroLevel": 0,
+  "ExtraBlessIDs": [
+   40005,
+   40006
+  ]
+ },
+ {
+  "InstanceID": 10043,
+  "InstanceType": 1,
+  "BlessCardCount": 0,
+  "InstanceDifficulty": 43,
+  "MainLevelIDs": 9280,
+  "UseTickets": [
+   142,
+   1
+  ],
+  "InstanceBg": "BG013",
+  "LevelIDs": [
+   13001,
+   13002,
+   13003
+  ],
+  "BossID": 190101,
+  "VictoryReward": 92043,
+  "FirstVictoryReward": 92143,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   2,
+   2,
+   2
+  ],
+  "AttrVals": [
+   1912400,
+   1912600,
+   339803900
+  ],
+  "MonsterLevel": 43,
+  "Hero": 0,
+  "HeroLevel": 0,
+  "ExtraBlessIDs": [
+   40006,
+   40008
+  ]
+ },
+ {
+  "InstanceID": 10044,
+  "InstanceType": 1,
+  "BlessCardCount": 0,
+  "InstanceDifficulty": 44,
+  "MainLevelIDs": 9290,
+  "UseTickets": [
+   142,
+   1
+  ],
+  "InstanceBg": "BG013",
+  "LevelIDs": [
+   14001,
+   14002,
+   14003
+  ],
+  "BossID": 190101,
+  "VictoryReward": 92044,
+  "FirstVictoryReward": 92144,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   2,
+   2,
+   2
+  ],
+  "AttrVals": [
+   1979199,
+   1979199,
+   352326000
+  ],
+  "MonsterLevel": 44,
+  "Hero": 0,
+  "HeroLevel": 0,
+  "ExtraBlessIDs": [
+   40005,
+   40008
+  ]
+ },
+ {
+  "InstanceID": 10045,
+  "InstanceType": 1,
+  "BlessCardCount": 0,
+  "InstanceDifficulty": 45,
+  "MainLevelIDs": 9300,
+  "UseTickets": [
+   142,
+   1
+  ],
+  "InstanceBg": "BG013",
+  "LevelIDs": [
+   11001,
+   11002,
+   11003
+  ],
+  "BossID": 190101,
+  "VictoryReward": 92045,
+  "FirstVictoryReward": 92145,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   2,
+   2,
+   2
+  ],
+  "AttrVals": [
+   2028700,
+   2028899,
+   362660199
+  ],
+  "MonsterLevel": 45,
+  "Hero": 0,
+  "HeroLevel": 0,
+  "ExtraBlessIDs": [
+   40004,
+   40005
+  ]
+ },
+ {
+  "InstanceID": 11001,
+  "InstanceType": 2,
+  "BlessCardCount": 0,
+  "InstanceDifficulty": 1,
+  "MainLevelIDs": 9005,
+  "UseTickets": [
+   142,
+   1
+  ],
+  "InstanceBg": "BG014",
+  "LevelIDs": [
+   21001,
+   21002,
+   21003
+  ],
+  "BossID": 190201,
+  "VictoryReward": 93001,
+  "FirstVictoryReward": 93101,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   2,
+   2,
+   2
+  ],
+  "AttrVals": [
+   -8500,
+   -8500,
+   -8500
+  ],
+  "MonsterLevel": 1,
+  "Hero": 0,
+  "HeroLevel": 0,
+  "ExtraBlessIDs": [
+   40003,
+   40006
+  ]
+ },
+ {
+  "InstanceID": 11002,
+  "InstanceType": 2,
+  "BlessCardCount": 0,
+  "InstanceDifficulty": 2,
+  "MainLevelIDs": 9005,
+  "UseTickets": [
+   142,
+   1
+  ],
+  "InstanceBg": "BG014",
+  "LevelIDs": [
+   22001,
+   22002,
+   22003
+  ],
+  "BossID": 190201,
+  "VictoryReward": 93002,
+  "FirstVictoryReward": 93102,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   2,
+   2,
+   2
+  ],
+  "AttrVals": [
+   -7700,
+   -7700,
+   -7700
+  ],
+  "MonsterLevel": 2,
+  "Hero": 0,
+  "HeroLevel": 0,
+  "ExtraBlessIDs": [
+   40004,
+   40006
+  ]
+ },
+ {
+  "InstanceID": 11003,
+  "InstanceType": 2,
+  "BlessCardCount": 0,
+  "InstanceDifficulty": 3,
+  "MainLevelIDs": 9005,
+  "UseTickets": [
+   142,
+   1
+  ],
+  "InstanceBg": "BG014",
+  "LevelIDs": [
+   23001,
+   23002,
+   23003
+  ],
+  "BossID": 190201,
+  "VictoryReward": 93003,
+  "FirstVictoryReward": 93103,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   2,
+   2,
+   2
+  ],
+  "AttrVals": [
+   -6900,
+   -6900,
+   -6600
+  ],
+  "MonsterLevel": 3,
+  "Hero": 0,
+  "HeroLevel": 0,
+  "ExtraBlessIDs": [
+   40002,
+   40004
+  ]
+ },
+ {
+  "InstanceID": 11004,
+  "InstanceType": 2,
+  "BlessCardCount": 0,
+  "InstanceDifficulty": 4,
+  "MainLevelIDs": 9005,
+  "UseTickets": [
+   142,
+   1
+  ],
+  "InstanceBg": "BG014",
+  "LevelIDs": [
+   24001,
+   24002,
+   24003
+  ],
+  "BossID": 190201,
+  "VictoryReward": 93004,
+  "FirstVictoryReward": 93104,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   2,
+   2,
+   2
+  ],
+  "AttrVals": [
+   -6400,
+   -6400,
+   -6000
+  ],
+  "MonsterLevel": 4,
+  "Hero": 0,
+  "HeroLevel": 0,
+  "ExtraBlessIDs": [
+   40002,
+   40005
+  ]
+ },
+ {
+  "InstanceID": 11005,
+  "InstanceType": 2,
+  "BlessCardCount": 0,
+  "InstanceDifficulty": 5,
+  "MainLevelIDs": 9010,
+  "UseTickets": [
+   142,
+   1
+  ],
+  "InstanceBg": "BG014",
+  "LevelIDs": [
+   21001,
+   21002,
+   21003
+  ],
+  "BossID": 190201,
+  "VictoryReward": 93005,
+  "FirstVictoryReward": 93105,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   2,
+   2,
+   2
+  ],
+  "AttrVals": [
+   -5801,
+   -5801,
+   -5100
+  ],
+  "MonsterLevel": 5,
+  "Hero": 0,
+  "HeroLevel": 0,
+  "ExtraBlessIDs": [
+   40005,
+   40006
+  ]
+ },
+ {
+  "InstanceID": 11006,
+  "InstanceType": 2,
+  "BlessCardCount": 0,
+  "InstanceDifficulty": 6,
+  "MainLevelIDs": 9015,
+  "UseTickets": [
+   142,
+   1
+  ],
+  "InstanceBg": "BG014",
+  "LevelIDs": [
+   22001,
+   22002,
+   22003
+  ],
+  "BossID": 190201,
+  "VictoryReward": 93006,
+  "FirstVictoryReward": 93106,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   2,
+   2,
+   2
+  ],
+  "AttrVals": [
+   -4900,
+   -4900,
+   -3200
+  ],
+  "MonsterLevel": 6,
+  "Hero": 0,
+  "HeroLevel": 0,
+  "ExtraBlessIDs": [
+   40006,
+   40008
+  ]
+ },
+ {
+  "InstanceID": 11007,
+  "InstanceType": 2,
+  "BlessCardCount": 0,
+  "InstanceDifficulty": 7,
+  "MainLevelIDs": 9020,
+  "UseTickets": [
+   142,
+   1
+  ],
+  "InstanceBg": "BG014",
+  "LevelIDs": [
+   23001,
+   23002,
+   23003
+  ],
+  "BossID": 190201,
+  "VictoryReward": 93007,
+  "FirstVictoryReward": 93107,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   2,
+   2,
+   2
+  ],
+  "AttrVals": [
+   -1500,
+   -1500,
+   11900
+  ],
+  "MonsterLevel": 7,
+  "Hero": 0,
+  "HeroLevel": 0,
+  "ExtraBlessIDs": [
+   40005,
+   40008
+  ]
+ },
+ {
+  "InstanceID": 11008,
+  "InstanceType": 2,
+  "BlessCardCount": 0,
+  "InstanceDifficulty": 8,
+  "MainLevelIDs": 9025,
+  "UseTickets": [
+   142,
+   1
+  ],
+  "InstanceBg": "BG014",
+  "LevelIDs": [
+   24001,
+   24002,
+   24003
+  ],
+  "BossID": 190201,
+  "VictoryReward": 93008,
+  "FirstVictoryReward": 93108,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   2,
+   2,
+   2
+  ],
+  "AttrVals": [
+   400,
+   400,
+   27200
+  ],
+  "MonsterLevel": 8,
+  "Hero": 0,
+  "HeroLevel": 0,
+  "ExtraBlessIDs": [
+   40004,
+   40005
+  ]
+ },
+ {
+  "InstanceID": 11009,
+  "InstanceType": 2,
+  "BlessCardCount": 0,
+  "InstanceDifficulty": 9,
+  "MainLevelIDs": 9030,
+  "UseTickets": [
+   142,
+   1
+  ],
+  "InstanceBg": "BG014",
+  "LevelIDs": [
+   21001,
+   21002,
+   21003
+  ],
+  "BossID": 190201,
+  "VictoryReward": 93009,
+  "FirstVictoryReward": 93109,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   2,
+   2,
+   2
+  ],
+  "AttrVals": [
+   4499,
+   4499,
+   78000
+  ],
+  "MonsterLevel": 9,
+  "Hero": 0,
+  "HeroLevel": 0,
+  "ExtraBlessIDs": [
+   40002,
+   40003
+  ]
+ },
+ {
+  "InstanceID": 11010,
+  "InstanceType": 2,
+  "BlessCardCount": 0,
+  "InstanceDifficulty": 10,
+  "MainLevelIDs": 9035,
+  "UseTickets": [
+   142,
+   1
+  ],
+  "InstanceBg": "BG014",
+  "LevelIDs": [
+   22001,
+   22002,
+   22003
+  ],
+  "BossID": 190201,
+  "VictoryReward": 93010,
+  "FirstVictoryReward": 93110,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   2,
+   2,
+   2
+  ],
+  "AttrVals": [
+   7900,
+   7900,
+   139700
+  ],
+  "MonsterLevel": 10,
+  "Hero": 0,
+  "HeroLevel": 0,
+  "ExtraBlessIDs": [
+   40003,
+   40004
+  ]
+ },
+ {
+  "InstanceID": 11011,
+  "InstanceType": 2,
+  "BlessCardCount": 0,
+  "InstanceDifficulty": 11,
+  "MainLevelIDs": 9040,
+  "UseTickets": [
+   142,
+   1
+  ],
+  "InstanceBg": "BG014",
+  "LevelIDs": [
+   23001,
+   23002,
+   23003
+  ],
+  "BossID": 190201,
+  "VictoryReward": 93011,
+  "FirstVictoryReward": 93111,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   2,
+   2,
+   2
+  ],
+  "AttrVals": [
+   11800,
+   11800,
+   221100
+  ],
+  "MonsterLevel": 11,
+  "Hero": 0,
+  "HeroLevel": 0,
+  "ExtraBlessIDs": [
+   40003,
+   40008
+  ]
+ },
+ {
+  "InstanceID": 11012,
+  "InstanceType": 2,
+  "BlessCardCount": 0,
+  "InstanceDifficulty": 12,
+  "MainLevelIDs": 9045,
+  "UseTickets": [
+   142,
+   1
+  ],
+  "InstanceBg": "BG014",
+  "LevelIDs": [
+   24001,
+   24002,
+   24003
+  ],
+  "BossID": 190201,
+  "VictoryReward": 93012,
+  "FirstVictoryReward": 93112,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   2,
+   2,
+   2
+  ],
+  "AttrVals": [
+   15600,
+   15699,
+   325600
+  ],
+  "MonsterLevel": 12,
+  "Hero": 0,
+  "HeroLevel": 0,
+  "ExtraBlessIDs": [
+   40002,
+   40008
+  ]
+ },
+ {
+  "InstanceID": 11013,
+  "InstanceType": 2,
+  "BlessCardCount": 0,
+  "InstanceDifficulty": 13,
+  "MainLevelIDs": 9050,
+  "UseTickets": [
+   142,
+   1
+  ],
+  "InstanceBg": "BG014",
+  "LevelIDs": [
+   21001,
+   21002,
+   21003
+  ],
+  "BossID": 190201,
+  "VictoryReward": 93013,
+  "FirstVictoryReward": 93113,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   2,
+   2,
+   2
+  ],
+  "AttrVals": [
+   18300,
+   18400,
+   364200
+  ],
+  "MonsterLevel": 13,
+  "Hero": 0,
+  "HeroLevel": 0,
+  "ExtraBlessIDs": [
+   40002,
+   40006
+  ]
+ },
+ {
+  "InstanceID": 11014,
+  "InstanceType": 2,
+  "BlessCardCount": 0,
+  "InstanceDifficulty": 14,
+  "MainLevelIDs": 9055,
+  "UseTickets": [
+   142,
+   1
+  ],
+  "InstanceBg": "BG014",
+  "LevelIDs": [
+   22001,
+   22002,
+   22003
+  ],
+  "BossID": 190201,
+  "VictoryReward": 93014,
+  "FirstVictoryReward": 93114,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   2,
+   2,
+   2
+  ],
+  "AttrVals": [
+   24700,
+   24700,
+   526200
+  ],
+  "MonsterLevel": 14,
+  "Hero": 0,
+  "HeroLevel": 0,
+  "ExtraBlessIDs": [
+   40004,
+   40008
+  ]
+ },
+ {
+  "InstanceID": 11015,
+  "InstanceType": 2,
+  "BlessCardCount": 0,
+  "InstanceDifficulty": 15,
+  "MainLevelIDs": 9061,
+  "UseTickets": [
+   142,
+   1
+  ],
+  "InstanceBg": "BG014",
+  "LevelIDs": [
+   23001,
+   23002,
+   23003
+  ],
+  "BossID": 190201,
+  "VictoryReward": 93015,
+  "FirstVictoryReward": 93115,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   2,
+   2,
+   2
+  ],
+  "AttrVals": [
+   31300,
+   31400,
+   689800
+  ],
+  "MonsterLevel": 15,
+  "Hero": 0,
+  "HeroLevel": 0,
+  "ExtraBlessIDs": [
+   40003,
+   40005
+  ]
+ },
+ {
+  "InstanceID": 11016,
+  "InstanceType": 2,
+  "BlessCardCount": 0,
+  "InstanceDifficulty": 16,
+  "MainLevelIDs": 9067,
+  "UseTickets": [
+   142,
+   1
+  ],
+  "InstanceBg": "BG014",
+  "LevelIDs": [
+   24001,
+   24002,
+   24003
+  ],
+  "BossID": 190201,
+  "VictoryReward": 93016,
+  "FirstVictoryReward": 93116,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   2,
+   2,
+   2
+  ],
+  "AttrVals": [
+   43000,
+   43000,
+   994500
+  ],
+  "MonsterLevel": 16,
+  "Hero": 0,
+  "HeroLevel": 0,
+  "ExtraBlessIDs": [
+   40003,
+   40006
+  ]
+ },
+ {
+  "InstanceID": 11017,
+  "InstanceType": 2,
+  "BlessCardCount": 0,
+  "InstanceDifficulty": 17,
+  "MainLevelIDs": 9073,
+  "UseTickets": [
+   142,
+   1
+  ],
+  "InstanceBg": "BG014",
+  "LevelIDs": [
+   21001,
+   21002,
+   21003
+  ],
+  "BossID": 190201,
+  "VictoryReward": 93017,
+  "FirstVictoryReward": 93117,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   2,
+   2,
+   2
+  ],
+  "AttrVals": [
+   56100,
+   56100,
+   1390600
+  ],
+  "MonsterLevel": 17,
+  "Hero": 0,
+  "HeroLevel": 0,
+  "ExtraBlessIDs": [
+   40004,
+   40006
+  ]
+ },
+ {
+  "InstanceID": 11018,
+  "InstanceType": 2,
+  "BlessCardCount": 0,
+  "InstanceDifficulty": 18,
+  "MainLevelIDs": 9079,
+  "UseTickets": [
+   142,
+   1
+  ],
+  "InstanceBg": "BG014",
+  "LevelIDs": [
+   22001,
+   22002,
+   22003
+  ],
+  "BossID": 190201,
+  "VictoryReward": 93018,
+  "FirstVictoryReward": 93118,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   2,
+   2,
+   2
+  ],
+  "AttrVals": [
+   75400,
+   75500,
+   2232300
+  ],
+  "MonsterLevel": 18,
+  "Hero": 0,
+  "HeroLevel": 0,
+  "ExtraBlessIDs": [
+   40002,
+   40004
+  ]
+ },
+ {
+  "InstanceID": 11019,
+  "InstanceType": 2,
+  "BlessCardCount": 0,
+  "InstanceDifficulty": 19,
+  "MainLevelIDs": 9084,
+  "UseTickets": [
+   142,
+   1
+  ],
+  "InstanceBg": "BG014",
+  "LevelIDs": [
+   23001,
+   23002,
+   23003
+  ],
+  "BossID": 190201,
+  "VictoryReward": 93019,
+  "FirstVictoryReward": 93119,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   2,
+   2,
+   2
+  ],
+  "AttrVals": [
+   89200,
+   89200,
+   3139400
+  ],
+  "MonsterLevel": 19,
+  "Hero": 0,
+  "HeroLevel": 0,
+  "ExtraBlessIDs": [
+   40002,
+   40005
+  ]
+ },
+ {
+  "InstanceID": 11020,
+  "InstanceType": 2,
+  "BlessCardCount": 0,
+  "InstanceDifficulty": 20,
+  "MainLevelIDs": 9090,
+  "UseTickets": [
+   142,
+   1
+  ],
+  "InstanceBg": "BG014",
+  "LevelIDs": [
+   24001,
+   24002,
+   24003
+  ],
+  "BossID": 190201,
+  "VictoryReward": 93020,
+  "FirstVictoryReward": 93120,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   2,
+   2,
+   2
+  ],
+  "AttrVals": [
+   122200,
+   122100,
+   4513900
+  ],
+  "MonsterLevel": 20,
+  "Hero": 0,
+  "HeroLevel": 0,
+  "ExtraBlessIDs": [
+   40005,
+   40006
+  ]
+ },
+ {
+  "InstanceID": 11021,
+  "InstanceType": 2,
+  "BlessCardCount": 0,
+  "InstanceDifficulty": 21,
+  "MainLevelIDs": 9096,
+  "UseTickets": [
+   142,
+   1
+  ],
+  "InstanceBg": "BG014",
+  "LevelIDs": [
+   21001,
+   21002,
+   21003
+  ],
+  "BossID": 190201,
+  "VictoryReward": 93021,
+  "FirstVictoryReward": 93121,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   2,
+   2,
+   2
+  ],
+  "AttrVals": [
+   145900,
+   146000,
+   6131900
+  ],
+  "MonsterLevel": 21,
+  "Hero": 0,
+  "HeroLevel": 0,
+  "ExtraBlessIDs": [
+   40006,
+   40008
+  ]
+ },
+ {
+  "InstanceID": 11022,
+  "InstanceType": 2,
+  "BlessCardCount": 0,
+  "InstanceDifficulty": 22,
+  "MainLevelIDs": 9102,
+  "UseTickets": [
+   142,
+   1
+  ],
+  "InstanceBg": "BG014",
+  "LevelIDs": [
+   22001,
+   22002,
+   22003
+  ],
+  "BossID": 190201,
+  "VictoryReward": 93022,
+  "FirstVictoryReward": 93122,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   2,
+   2,
+   2
+  ],
+  "AttrVals": [
+   173400,
+   173500,
+   7826400
+  ],
+  "MonsterLevel": 22,
+  "Hero": 0,
+  "HeroLevel": 0,
+  "ExtraBlessIDs": [
+   40005,
+   40008
+  ]
+ },
+ {
+  "InstanceID": 11023,
+  "InstanceType": 2,
+  "BlessCardCount": 0,
+  "InstanceDifficulty": 23,
+  "MainLevelIDs": 9108,
+  "UseTickets": [
+   142,
+   1
+  ],
+  "InstanceBg": "BG014",
+  "LevelIDs": [
+   23001,
+   23002,
+   23003
+  ],
+  "BossID": 190201,
+  "VictoryReward": 93023,
+  "FirstVictoryReward": 93123,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   2,
+   2,
+   2
+  ],
+  "AttrVals": [
+   225600,
+   225600,
+   11929300
+  ],
+  "MonsterLevel": 23,
+  "Hero": 0,
+  "HeroLevel": 0,
+  "ExtraBlessIDs": [
+   40004,
+   40005
+  ]
+ },
+ {
+  "InstanceID": 11024,
+  "InstanceType": 2,
+  "BlessCardCount": 0,
+  "InstanceDifficulty": 24,
+  "MainLevelIDs": 9114,
+  "UseTickets": [
+   142,
+   1
+  ],
+  "InstanceBg": "BG014",
+  "LevelIDs": [
+   24001,
+   24002,
+   24003
+  ],
+  "BossID": 190201,
+  "VictoryReward": 93024,
+  "FirstVictoryReward": 93124,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   2,
+   2,
+   2
+  ],
+  "AttrVals": [
+   292300,
+   292300,
+   19182000
+  ],
+  "MonsterLevel": 24,
+  "Hero": 0,
+  "HeroLevel": 0,
+  "ExtraBlessIDs": [
+   40002,
+   40003
+  ]
+ },
+ {
+  "InstanceID": 11025,
+  "InstanceType": 2,
+  "BlessCardCount": 0,
+  "InstanceDifficulty": 25,
+  "MainLevelIDs": 9120,
+  "UseTickets": [
+   142,
+   1
+  ],
+  "InstanceBg": "BG014",
+  "LevelIDs": [
+   21001,
+   21002,
+   21003
+  ],
+  "BossID": 190201,
+  "VictoryReward": 93025,
+  "FirstVictoryReward": 93125,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   2,
+   2,
+   2
+  ],
+  "AttrVals": [
+   353000,
+   353100,
+   26650100
+  ],
+  "MonsterLevel": 25,
+  "Hero": 0,
+  "HeroLevel": 0,
+  "ExtraBlessIDs": [
+   40003,
+   40004
+  ]
+ },
+ {
+  "InstanceID": 11026,
+  "InstanceType": 2,
+  "BlessCardCount": 0,
+  "InstanceDifficulty": 26,
+  "MainLevelIDs": 9128,
+  "UseTickets": [
+   142,
+   1
+  ],
+  "InstanceBg": "BG014",
+  "LevelIDs": [
+   22001,
+   22002,
+   22003
+  ],
+  "BossID": 190201,
+  "VictoryReward": 93026,
+  "FirstVictoryReward": 93126,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   2,
+   2,
+   2
+  ],
+  "AttrVals": [
+   473400,
+   473400,
+   41173800
+  ],
+  "MonsterLevel": 26,
+  "Hero": 0,
+  "HeroLevel": 0,
+  "ExtraBlessIDs": [
+   40003,
+   40008
+  ]
+ },
+ {
+  "InstanceID": 11027,
+  "InstanceType": 2,
+  "BlessCardCount": 0,
+  "InstanceDifficulty": 27,
+  "MainLevelIDs": 9136,
+  "UseTickets": [
+   142,
+   1
+  ],
+  "InstanceBg": "BG014",
+  "LevelIDs": [
+   23001,
+   23002,
+   23003
+  ],
+  "BossID": 190201,
+  "VictoryReward": 93027,
+  "FirstVictoryReward": 93127,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   2,
+   2,
+   2
+  ],
+  "AttrVals": [
+   536400,
+   536400,
+   49473300
+  ],
+  "MonsterLevel": 27,
+  "Hero": 0,
+  "HeroLevel": 0,
+  "ExtraBlessIDs": [
+   40002,
+   40008
+  ]
+ },
+ {
+  "InstanceID": 11028,
+  "InstanceType": 2,
+  "BlessCardCount": 0,
+  "InstanceDifficulty": 28,
+  "MainLevelIDs": 9144,
+  "UseTickets": [
+   142,
+   1
+  ],
+  "InstanceBg": "BG014",
+  "LevelIDs": [
+   24001,
+   24002,
+   24003
+  ],
+  "BossID": 190201,
+  "VictoryReward": 93028,
+  "FirstVictoryReward": 93128,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   2,
+   2,
+   2
+  ],
+  "AttrVals": [
+   613100,
+   613300,
+   58746400
+  ],
+  "MonsterLevel": 28,
+  "Hero": 0,
+  "HeroLevel": 0,
+  "ExtraBlessIDs": [
+   40002,
+   40006
+  ]
+ },
+ {
+  "InstanceID": 11029,
+  "InstanceType": 2,
+  "BlessCardCount": 0,
+  "InstanceDifficulty": 29,
+  "MainLevelIDs": 9152,
+  "UseTickets": [
+   142,
+   1
+  ],
+  "InstanceBg": "BG014",
+  "LevelIDs": [
+   21001,
+   21002,
+   21003
+  ],
+  "BossID": 190201,
+  "VictoryReward": 93029,
+  "FirstVictoryReward": 93129,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   2,
+   2,
+   2
+  ],
+  "AttrVals": [
+   730699,
+   730900,
+   77657100
+  ],
+  "MonsterLevel": 29,
+  "Hero": 0,
+  "HeroLevel": 0,
+  "ExtraBlessIDs": [
+   40004,
+   40008
+  ]
+ },
+ {
+  "InstanceID": 11030,
+  "InstanceType": 2,
+  "BlessCardCount": 0,
+  "InstanceDifficulty": 30,
+  "MainLevelIDs": 9160,
+  "UseTickets": [
+   142,
+   1
+  ],
+  "InstanceBg": "BG014",
+  "LevelIDs": [
+   22001,
+   22002,
+   22003
+  ],
+  "BossID": 190201,
+  "VictoryReward": 93030,
+  "FirstVictoryReward": 93130,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   2,
+   2,
+   2
+  ],
+  "AttrVals": [
+   856499,
+   856599,
+   100858700
+  ],
+  "MonsterLevel": 30,
+  "Hero": 0,
+  "HeroLevel": 0,
+  "ExtraBlessIDs": [
+   40003,
+   40005
+  ]
+ },
+ {
+  "InstanceID": 11031,
+  "InstanceType": 2,
+  "BlessCardCount": 0,
+  "InstanceDifficulty": 31,
+  "MainLevelIDs": 9168,
+  "UseTickets": [
+   142,
+   1
+  ],
+  "InstanceBg": "BG014",
+  "LevelIDs": [
+   23001,
+   23002,
+   23003
+  ],
+  "BossID": 190201,
+  "VictoryReward": 93031,
+  "FirstVictoryReward": 93131,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   2,
+   2,
+   2
+  ],
+  "AttrVals": [
+   922500,
+   922700,
+   111186500
+  ],
+  "MonsterLevel": 31,
+  "Hero": 0,
+  "HeroLevel": 0,
+  "ExtraBlessIDs": [
+   40003,
+   40006
+  ]
+ },
+ {
+  "InstanceID": 11032,
+  "InstanceType": 2,
+  "BlessCardCount": 0,
+  "InstanceDifficulty": 32,
+  "MainLevelIDs": 9176,
+  "UseTickets": [
+   142,
+   1
+  ],
+  "InstanceBg": "BG014",
+  "LevelIDs": [
+   24001,
+   24002,
+   24003
+  ],
+  "BossID": 190201,
+  "VictoryReward": 93032,
+  "FirstVictoryReward": 93132,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   2,
+   2,
+   2
+  ],
+  "AttrVals": [
+   988300,
+   988300,
+   121486400
+  ],
+  "MonsterLevel": 32,
+  "Hero": 0,
+  "HeroLevel": 0,
+  "ExtraBlessIDs": [
+   40004,
+   40006
+  ]
+ },
+ {
+  "InstanceID": 11033,
+  "InstanceType": 2,
+  "BlessCardCount": 0,
+  "InstanceDifficulty": 33,
+  "MainLevelIDs": 9184,
+  "UseTickets": [
+   142,
+   1
+  ],
+  "InstanceBg": "BG014",
+  "LevelIDs": [
+   21001,
+   21002,
+   21003
+  ],
+  "BossID": 190201,
+  "VictoryReward": 93033,
+  "FirstVictoryReward": 93133,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   2,
+   2,
+   2
+  ],
+  "AttrVals": [
+   1067000,
+   1067000,
+   140969700
+  ],
+  "MonsterLevel": 33,
+  "Hero": 0,
+  "HeroLevel": 0,
+  "ExtraBlessIDs": [
+   40002,
+   40004
+  ]
+ },
+ {
+  "InstanceID": 11034,
+  "InstanceType": 2,
+  "BlessCardCount": 0,
+  "InstanceDifficulty": 34,
+  "MainLevelIDs": 9192,
+  "UseTickets": [
+   142,
+   1
+  ],
+  "InstanceBg": "BG014",
+  "LevelIDs": [
+   22001,
+   22002,
+   22003
+  ],
+  "BossID": 190201,
+  "VictoryReward": 93034,
+  "FirstVictoryReward": 93134,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   2,
+   2,
+   2
+  ],
+  "AttrVals": [
+   1162300,
+   1162500,
+   156601500
+  ],
+  "MonsterLevel": 34,
+  "Hero": 0,
+  "HeroLevel": 0,
+  "ExtraBlessIDs": [
+   40002,
+   40005
+  ]
+ },
+ {
+  "InstanceID": 11035,
+  "InstanceType": 2,
+  "BlessCardCount": 0,
+  "InstanceDifficulty": 35,
+  "MainLevelIDs": 9200,
+  "UseTickets": [
+   142,
+   1
+  ],
+  "InstanceBg": "BG014",
+  "LevelIDs": [
+   23001,
+   23002,
+   23003
+  ],
+  "BossID": 190201,
+  "VictoryReward": 93035,
+  "FirstVictoryReward": 93135,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   2,
+   2,
+   2
+  ],
+  "AttrVals": [
+   1204300,
+   1204500,
+   165874000
+  ],
+  "MonsterLevel": 35,
+  "Hero": 0,
+  "HeroLevel": 0,
+  "ExtraBlessIDs": [
+   40005,
+   40006
+  ]
+ },
+ {
+  "InstanceID": 11036,
+  "InstanceType": 2,
+  "BlessCardCount": 0,
+  "InstanceDifficulty": 36,
+  "MainLevelIDs": 9210,
+  "UseTickets": [
+   142,
+   1
+  ],
+  "InstanceBg": "BG014",
+  "LevelIDs": [
+   24001,
+   24002,
+   24003
+  ],
+  "BossID": 190201,
+  "VictoryReward": 93036,
+  "FirstVictoryReward": 93136,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   2,
+   2,
+   2
+  ],
+  "AttrVals": [
+   1262400,
+   1262400,
+   176401400
+  ],
+  "MonsterLevel": 36,
+  "Hero": 0,
+  "HeroLevel": 0,
+  "ExtraBlessIDs": [
+   40006,
+   40008
+  ]
+ },
+ {
+  "InstanceID": 11037,
+  "InstanceType": 2,
+  "BlessCardCount": 0,
+  "InstanceDifficulty": 37,
+  "MainLevelIDs": 9220,
+  "UseTickets": [
+   142,
+   1
+  ],
+  "InstanceBg": "BG014",
+  "LevelIDs": [
+   21001,
+   21002,
+   21003
+  ],
+  "BossID": 190201,
+  "VictoryReward": 93037,
+  "FirstVictoryReward": 93137,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   2,
+   2,
+   2
+  ],
+  "AttrVals": [
+   1367300,
+   1367500,
+   196482900
+  ],
+  "MonsterLevel": 37,
+  "Hero": 0,
+  "HeroLevel": 0,
+  "ExtraBlessIDs": [
+   40005,
+   40008
+  ]
+ },
+ {
+  "InstanceID": 11038,
+  "InstanceType": 2,
+  "BlessCardCount": 0,
+  "InstanceDifficulty": 38,
+  "MainLevelIDs": 9230,
+  "UseTickets": [
+   142,
+   1
+  ],
+  "InstanceBg": "BG014",
+  "LevelIDs": [
+   22001,
+   22002,
+   22003
+  ],
+  "BossID": 190201,
+  "VictoryReward": 93038,
+  "FirstVictoryReward": 93138,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   2,
+   2,
+   2
+  ],
+  "AttrVals": [
+   1484300,
+   1484300,
+   227765699
+  ],
+  "MonsterLevel": 38,
+  "Hero": 0,
+  "HeroLevel": 0,
+  "ExtraBlessIDs": [
+   40004,
+   40005
+  ]
+ },
+ {
+  "InstanceID": 11039,
+  "InstanceType": 2,
+  "BlessCardCount": 0,
+  "InstanceDifficulty": 39,
+  "MainLevelIDs": 9240,
+  "UseTickets": [
+   142,
+   1
+  ],
+  "InstanceBg": "BG014",
+  "LevelIDs": [
+   23001,
+   23002,
+   23003
+  ],
+  "BossID": 190201,
+  "VictoryReward": 93039,
+  "FirstVictoryReward": 93139,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   2,
+   2,
+   2
+  ],
+  "AttrVals": [
+   1559299,
+   1559300,
+   246054400
+  ],
+  "MonsterLevel": 39,
+  "Hero": 0,
+  "HeroLevel": 0,
+  "ExtraBlessIDs": [
+   40002,
+   40003
+  ]
+ },
+ {
+  "InstanceID": 11040,
+  "InstanceType": 2,
+  "BlessCardCount": 0,
+  "InstanceDifficulty": 40,
+  "MainLevelIDs": 9250,
+  "UseTickets": [
+   142,
+   1
+  ],
+  "InstanceBg": "BG014",
+  "LevelIDs": [
+   24001,
+   24002,
+   24003
+  ],
+  "BossID": 190201,
+  "VictoryReward": 93040,
+  "FirstVictoryReward": 93140,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   2,
+   2,
+   2
+  ],
+  "AttrVals": [
+   1627200,
+   1627200,
+   262196600
+  ],
+  "MonsterLevel": 40,
+  "Hero": 0,
+  "HeroLevel": 0,
+  "ExtraBlessIDs": [
+   40003,
+   40004
+  ]
+ },
+ {
+  "InstanceID": 11041,
+  "InstanceType": 2,
+  "BlessCardCount": 0,
+  "InstanceDifficulty": 41,
+  "MainLevelIDs": 9260,
+  "UseTickets": [
+   142,
+   1
+  ],
+  "InstanceBg": "BG014",
+  "LevelIDs": [
+   21001,
+   21002,
+   21003
+  ],
+  "BossID": 190201,
+  "VictoryReward": 93041,
+  "FirstVictoryReward": 93141,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   2,
+   2,
+   2
+  ],
+  "AttrVals": [
+   1669100,
+   1669199,
+   271248999
+  ],
+  "MonsterLevel": 41,
+  "Hero": 0,
+  "HeroLevel": 0,
+  "ExtraBlessIDs": [
+   40003,
+   40008
+  ]
+ },
+ {
+  "InstanceID": 11042,
+  "InstanceType": 2,
+  "BlessCardCount": 0,
+  "InstanceDifficulty": 42,
+  "MainLevelIDs": 9270,
+  "UseTickets": [
+   142,
+   1
+  ],
+  "InstanceBg": "BG014",
+  "LevelIDs": [
+   22001,
+   22002,
+   22003
+  ],
+  "BossID": 190201,
+  "VictoryReward": 93042,
+  "FirstVictoryReward": 93142,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   2,
+   2,
+   2
+  ],
+  "AttrVals": [
+   1795000,
+   1795200,
+   296340000
+  ],
+  "MonsterLevel": 42,
+  "Hero": 0,
+  "HeroLevel": 0,
+  "ExtraBlessIDs": [
+   40002,
+   40008
+  ]
+ },
+ {
+  "InstanceID": 11043,
+  "InstanceType": 2,
+  "BlessCardCount": 0,
+  "InstanceDifficulty": 43,
+  "MainLevelIDs": 9280,
+  "UseTickets": [
+   142,
+   1
+  ],
+  "InstanceBg": "BG014",
+  "LevelIDs": [
+   23001,
+   23002,
+   23003
+  ],
+  "BossID": 190201,
+  "VictoryReward": 93043,
+  "FirstVictoryReward": 93143,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   2,
+   2,
+   2
+  ],
+  "AttrVals": [
+   1912400,
+   1912600,
+   339803900
+  ],
+  "MonsterLevel": 43,
+  "Hero": 0,
+  "HeroLevel": 0,
+  "ExtraBlessIDs": [
+   40002,
+   40006
+  ]
+ },
+ {
+  "InstanceID": 11044,
+  "InstanceType": 2,
+  "BlessCardCount": 0,
+  "InstanceDifficulty": 44,
+  "MainLevelIDs": 9290,
+  "UseTickets": [
+   142,
+   1
+  ],
+  "InstanceBg": "BG014",
+  "LevelIDs": [
+   24001,
+   24002,
+   24003
+  ],
+  "BossID": 190201,
+  "VictoryReward": 93044,
+  "FirstVictoryReward": 93144,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   2,
+   2,
+   2
+  ],
+  "AttrVals": [
+   1979199,
+   1979199,
+   352326000
+  ],
+  "MonsterLevel": 44,
+  "Hero": 0,
+  "HeroLevel": 0,
+  "ExtraBlessIDs": [
+   40004,
+   40008
+  ]
+ },
+ {
+  "InstanceID": 11045,
+  "InstanceType": 2,
+  "BlessCardCount": 0,
+  "InstanceDifficulty": 45,
+  "MainLevelIDs": 9300,
+  "UseTickets": [
+   142,
+   1
+  ],
+  "InstanceBg": "BG014",
+  "LevelIDs": [
+   21001,
+   21002,
+   21003
+  ],
+  "BossID": 190201,
+  "VictoryReward": 93045,
+  "FirstVictoryReward": 93145,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   2,
+   2,
+   2
+  ],
+  "AttrVals": [
+   2028700,
+   2028899,
+   362660199
+  ],
+  "MonsterLevel": 45,
+  "Hero": 0,
+  "HeroLevel": 0,
+  "ExtraBlessIDs": [
+   40003,
+   40005
+  ]
+ }
+]

@@ -1,0 +1,42 @@
+[
+ {
+  "EventID": 1000,
+  "CardLotteryID": 30000,
+  "Taskid": 16,
+  "Taskid2": 17,
+  "TaskReward": [
+   50,
+   4500004
+  ],
+  "GiftTimeType": 2,
+  "GiftTimeType01": "3",
+  "GiftTimeType02": "5",
+  "SelectorCard": [
+   150501,
+   140501
+  ],
+  "GiftType": 1000,
+  "Level": 1000,
+  "LevelIcon": "Icon_Head_150501"
+ },
+ {
+  "EventID": 1001,
+  "CardLotteryID": 30001,
+  "Taskid": 25,
+  "Taskid2": 26,
+  "TaskReward": [
+   50,
+   4500004
+  ],
+  "GiftTimeType": 999,
+  "GiftTimeType01": "",
+  "GiftTimeType02": "",
+  "SelectorCard": [
+   150501,
+   410501
+  ],
+  "GiftType": 1001,
+  "Level": 1000,
+  "LevelIcon": "Icon_Head_410501"
+ }
+]

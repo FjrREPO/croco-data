@@ -1,0 +1,5071 @@
+[
+ {
+  "TaskID": 1,
+  "Type": 1,
+  "Cardid": 190102,
+  "TaskRewardId": [
+   110
+  ],
+  "RewardAttr": [],
+  "HeroId": [],
+  "Profession": [],
+  "UnlockType": 0,
+  "UnlockId": 0,
+  "UnlockId2": 0,
+  "Quality": 1,
+  "ScaleFactor": 2.200000047683716,
+  "PosY": 1.0,
+  "Sort": 34,
+  "MappingID": 0
+ },
+ {
+  "TaskID": 2,
+  "Type": 1,
+  "Cardid": 190103,
+  "TaskRewardId": [
+   110
+  ],
+  "RewardAttr": [],
+  "HeroId": [],
+  "Profession": [],
+  "UnlockType": 0,
+  "UnlockId": 0,
+  "UnlockId2": 0,
+  "Quality": 1,
+  "ScaleFactor": 2.200000047683716,
+  "PosY": 1.0,
+  "Sort": 33,
+  "MappingID": 0
+ },
+ {
+  "TaskID": 3,
+  "Type": 1,
+  "Cardid": 910101,
+  "TaskRewardId": [
+   110
+  ],
+  "RewardAttr": [],
+  "HeroId": [],
+  "Profession": [],
+  "UnlockType": 0,
+  "UnlockId": 0,
+  "UnlockId2": 0,
+  "Quality": 1,
+  "ScaleFactor": 2.299999952316284,
+  "PosY": 1.0,
+  "Sort": 2,
+  "MappingID": 0
+ },
+ {
+  "TaskID": 4,
+  "Type": 1,
+  "Cardid": 910102,
+  "TaskRewardId": [
+   110
+  ],
+  "RewardAttr": [],
+  "HeroId": [],
+  "Profession": [],
+  "UnlockType": 0,
+  "UnlockId": 0,
+  "UnlockId2": 0,
+  "Quality": 1,
+  "ScaleFactor": 2.299999952316284,
+  "PosY": 1.0,
+  "Sort": 32,
+  "MappingID": 0
+ },
+ {
+  "TaskID": 5,
+  "Type": 1,
+  "Cardid": 910103,
+  "TaskRewardId": [
+   110
+  ],
+  "RewardAttr": [],
+  "HeroId": [],
+  "Profession": [],
+  "UnlockType": 0,
+  "UnlockId": 0,
+  "UnlockId2": 0,
+  "Quality": 1,
+  "ScaleFactor": 2.200000047683716,
+  "PosY": 1.0,
+  "Sort": 4,
+  "MappingID": 0
+ },
+ {
+  "TaskID": 6,
+  "Type": 1,
+  "Cardid": 910104,
+  "TaskRewardId": [
+   110
+  ],
+  "RewardAttr": [],
+  "HeroId": [],
+  "Profession": [],
+  "UnlockType": 0,
+  "UnlockId": 0,
+  "UnlockId2": 0,
+  "Quality": 1,
+  "ScaleFactor": 2.200000047683716,
+  "PosY": 1.0,
+  "Sort": 31,
+  "MappingID": 0
+ },
+ {
+  "TaskID": 7,
+  "Type": 1,
+  "Cardid": 910105,
+  "TaskRewardId": [
+   110
+  ],
+  "RewardAttr": [],
+  "HeroId": [],
+  "Profession": [],
+  "UnlockType": 0,
+  "UnlockId": 0,
+  "UnlockId2": 0,
+  "Quality": 1,
+  "ScaleFactor": 2.200000047683716,
+  "PosY": 1.0,
+  "Sort": 6,
+  "MappingID": 0
+ },
+ {
+  "TaskID": 8,
+  "Type": 1,
+  "Cardid": 910106,
+  "TaskRewardId": [
+   110
+  ],
+  "RewardAttr": [],
+  "HeroId": [],
+  "Profession": [],
+  "UnlockType": 0,
+  "UnlockId": 0,
+  "UnlockId2": 0,
+  "Quality": 1,
+  "ScaleFactor": 2.200000047683716,
+  "PosY": 1.0,
+  "Sort": 8,
+  "MappingID": 0
+ },
+ {
+  "TaskID": 9,
+  "Type": 1,
+  "Cardid": 910107,
+  "TaskRewardId": [
+   110
+  ],
+  "RewardAttr": [],
+  "HeroId": [],
+  "Profession": [],
+  "UnlockType": 0,
+  "UnlockId": 0,
+  "UnlockId2": 0,
+  "Quality": 1,
+  "ScaleFactor": 2.200000047683716,
+  "PosY": 1.0,
+  "Sort": 30,
+  "MappingID": 0
+ },
+ {
+  "TaskID": 10,
+  "Type": 1,
+  "Cardid": 910108,
+  "TaskRewardId": [
+   110
+  ],
+  "RewardAttr": [],
+  "HeroId": [],
+  "Profession": [],
+  "UnlockType": 0,
+  "UnlockId": 0,
+  "UnlockId2": 0,
+  "Quality": 1,
+  "ScaleFactor": 2.200000047683716,
+  "PosY": 1.0,
+  "Sort": 10,
+  "MappingID": 0
+ },
+ {
+  "TaskID": 11,
+  "Type": 1,
+  "Cardid": 910201,
+  "TaskRewardId": [
+   110
+  ],
+  "RewardAttr": [],
+  "HeroId": [],
+  "Profession": [],
+  "UnlockType": 0,
+  "UnlockId": 0,
+  "UnlockId2": 0,
+  "Quality": 1,
+  "ScaleFactor": 2.200000047683716,
+  "PosY": 1.0,
+  "Sort": 29,
+  "MappingID": 0
+ },
+ {
+  "TaskID": 12,
+  "Type": 1,
+  "Cardid": 910202,
+  "TaskRewardId": [
+   110
+  ],
+  "RewardAttr": [],
+  "HeroId": [],
+  "Profession": [],
+  "UnlockType": 0,
+  "UnlockId": 0,
+  "UnlockId2": 0,
+  "Quality": 1,
+  "ScaleFactor": 2.200000047683716,
+  "PosY": 1.0,
+  "Sort": 28,
+  "MappingID": 0
+ },
+ {
+  "TaskID": 13,
+  "Type": 1,
+  "Cardid": 910203,
+  "TaskRewardId": [
+   110
+  ],
+  "RewardAttr": [],
+  "HeroId": [],
+  "Profession": [],
+  "UnlockType": 0,
+  "UnlockId": 0,
+  "UnlockId2": 0,
+  "Quality": 1,
+  "ScaleFactor": 2.0,
+  "PosY": 1.0,
+  "Sort": 27,
+  "MappingID": 0
+ },
+ {
+  "TaskID": 14,
+  "Type": 1,
+  "Cardid": 910204,
+  "TaskRewardId": [
+   110
+  ],
+  "RewardAttr": [],
+  "HeroId": [],
+  "Profession": [],
+  "UnlockType": 0,
+  "UnlockId": 0,
+  "UnlockId2": 0,
+  "Quality": 1,
+  "ScaleFactor": 2.0,
+  "PosY": 1.0,
+  "Sort": 26,
+  "MappingID": 0
+ },
+ {
+  "TaskID": 15,
+  "Type": 1,
+  "Cardid": 910205,
+  "TaskRewardId": [
+   110
+  ],
+  "RewardAttr": [],
+  "HeroId": [],
+  "Profession": [],
+  "UnlockType": 0,
+  "UnlockId": 0,
+  "UnlockId2": 0,
+  "Quality": 1,
+  "ScaleFactor": 2.0,
+  "PosY": 1.0,
+  "Sort": 25,
+  "MappingID": 0
+ },
+ {
+  "TaskID": 16,
+  "Type": 1,
+  "Cardid": 910206,
+  "TaskRewardId": [
+   110
+  ],
+  "RewardAttr": [],
+  "HeroId": [],
+  "Profession": [],
+  "UnlockType": 0,
+  "UnlockId": 0,
+  "UnlockId2": 0,
+  "Quality": 1,
+  "ScaleFactor": 2.0,
+  "PosY": 1.0,
+  "Sort": 24,
+  "MappingID": 0
+ },
+ {
+  "TaskID": 17,
+  "Type": 1,
+  "Cardid": 910207,
+  "TaskRewardId": [
+   110
+  ],
+  "RewardAttr": [],
+  "HeroId": [],
+  "Profession": [],
+  "UnlockType": 0,
+  "UnlockId": 0,
+  "UnlockId2": 0,
+  "Quality": 1,
+  "ScaleFactor": 2.0,
+  "PosY": 1.0,
+  "Sort": 23,
+  "MappingID": 0
+ },
+ {
+  "TaskID": 18,
+  "Type": 1,
+  "Cardid": 910208,
+  "TaskRewardId": [
+   110
+  ],
+  "RewardAttr": [],
+  "HeroId": [],
+  "Profession": [],
+  "UnlockType": 0,
+  "UnlockId": 0,
+  "UnlockId2": 0,
+  "Quality": 1,
+  "ScaleFactor": 2.0,
+  "PosY": 1.0,
+  "Sort": 18,
+  "MappingID": 0
+ },
+ {
+  "TaskID": 19,
+  "Type": 1,
+  "Cardid": 910301,
+  "TaskRewardId": [
+   110
+  ],
+  "RewardAttr": [],
+  "HeroId": [],
+  "Profession": [],
+  "UnlockType": 0,
+  "UnlockId": 0,
+  "UnlockId2": 0,
+  "Quality": 1,
+  "ScaleFactor": 1.7999999523162842,
+  "PosY": 1.0,
+  "Sort": 22,
+  "MappingID": 0
+ },
+ {
+  "TaskID": 20,
+  "Type": 1,
+  "Cardid": 910302,
+  "TaskRewardId": [
+   110
+  ],
+  "RewardAttr": [],
+  "HeroId": [],
+  "Profession": [],
+  "UnlockType": 0,
+  "UnlockId": 0,
+  "UnlockId2": 0,
+  "Quality": 1,
+  "ScaleFactor": 1.899999976158142,
+  "PosY": 1.0,
+  "Sort": 21,
+  "MappingID": 0
+ },
+ {
+  "TaskID": 21,
+  "Type": 1,
+  "Cardid": 910303,
+  "TaskRewardId": [
+   110
+  ],
+  "RewardAttr": [],
+  "HeroId": [],
+  "Profession": [],
+  "UnlockType": 0,
+  "UnlockId": 0,
+  "UnlockId2": 0,
+  "Quality": 1,
+  "ScaleFactor": 2.200000047683716,
+  "PosY": 1.0,
+  "Sort": 12,
+  "MappingID": 0
+ },
+ {
+  "TaskID": 22,
+  "Type": 1,
+  "Cardid": 910304,
+  "TaskRewardId": [
+   110
+  ],
+  "RewardAttr": [],
+  "HeroId": [],
+  "Profession": [],
+  "UnlockType": 0,
+  "UnlockId": 0,
+  "UnlockId2": 0,
+  "Quality": 1,
+  "ScaleFactor": 1.7999999523162842,
+  "PosY": -80.0,
+  "Sort": 14,
+  "MappingID": 0
+ },
+ {
+  "TaskID": 23,
+  "Type": 1,
+  "Cardid": 910305,
+  "TaskRewardId": [
+   110
+  ],
+  "RewardAttr": [],
+  "HeroId": [],
+  "Profession": [],
+  "UnlockType": 0,
+  "UnlockId": 0,
+  "UnlockId2": 0,
+  "Quality": 1,
+  "ScaleFactor": 2.200000047683716,
+  "PosY": 1.0,
+  "Sort": 20,
+  "MappingID": 0
+ },
+ {
+  "TaskID": 24,
+  "Type": 1,
+  "Cardid": 910306,
+  "TaskRewardId": [
+   110
+  ],
+  "RewardAttr": [],
+  "HeroId": [],
+  "Profession": [],
+  "UnlockType": 0,
+  "UnlockId": 0,
+  "UnlockId2": 0,
+  "Quality": 1,
+  "ScaleFactor": 2.200000047683716,
+  "PosY": 1.0,
+  "Sort": 19,
+  "MappingID": 0
+ },
+ {
+  "TaskID": 25,
+  "Type": 1,
+  "Cardid": 910307,
+  "TaskRewardId": [
+   110
+  ],
+  "RewardAttr": [],
+  "HeroId": [],
+  "Profession": [],
+  "UnlockType": 0,
+  "UnlockId": 0,
+  "UnlockId2": 0,
+  "Quality": 1,
+  "ScaleFactor": 2.0,
+  "PosY": 1.0,
+  "Sort": 35,
+  "MappingID": 0
+ },
+ {
+  "TaskID": 26,
+  "Type": 1,
+  "Cardid": 910308,
+  "TaskRewardId": [
+   110
+  ],
+  "RewardAttr": [],
+  "HeroId": [],
+  "Profession": [],
+  "UnlockType": 0,
+  "UnlockId": 0,
+  "UnlockId2": 0,
+  "Quality": 1,
+  "ScaleFactor": 2.0,
+  "PosY": 1.0,
+  "Sort": 16,
+  "MappingID": 0
+ },
+ {
+  "TaskID": 27,
+  "Type": 1,
+  "Cardid": 810201,
+  "TaskRewardId": [
+   110
+  ],
+  "RewardAttr": [],
+  "HeroId": [],
+  "Profession": [
+   6
+  ],
+  "UnlockType": 0,
+  "UnlockId": 0,
+  "UnlockId2": 0,
+  "Quality": 2,
+  "ScaleFactor": 1.100000023841858,
+  "PosY": -100.0,
+  "Sort": 2,
+  "MappingID": 0
+ },
+ {
+  "TaskID": 28,
+  "Type": 1,
+  "Cardid": 810202,
+  "TaskRewardId": [
+   110
+  ],
+  "RewardAttr": [],
+  "HeroId": [],
+  "Profession": [
+   5
+  ],
+  "UnlockType": 0,
+  "UnlockId": 0,
+  "UnlockId2": 0,
+  "Quality": 2,
+  "ScaleFactor": 0.8999999761581421,
+  "PosY": -105.0,
+  "Sort": 11,
+  "MappingID": 0
+ },
+ {
+  "TaskID": 29,
+  "Type": 1,
+  "Cardid": 820201,
+  "TaskRewardId": [
+   110
+  ],
+  "RewardAttr": [],
+  "HeroId": [],
+  "Profession": [
+   8
+  ],
+  "UnlockType": 0,
+  "UnlockId": 0,
+  "UnlockId2": 0,
+  "Quality": 2,
+  "ScaleFactor": 1.100000023841858,
+  "PosY": -100.0,
+  "Sort": 4,
+  "MappingID": 0
+ },
+ {
+  "TaskID": 30,
+  "Type": 1,
+  "Cardid": 820203,
+  "TaskRewardId": [
+   110
+  ],
+  "RewardAttr": [],
+  "HeroId": [],
+  "Profession": [
+   7
+  ],
+  "UnlockType": 0,
+  "UnlockId": 0,
+  "UnlockId2": 0,
+  "Quality": 2,
+  "ScaleFactor": 1.2000000476837158,
+  "PosY": -120.0,
+  "Sort": 6,
+  "MappingID": 0
+ },
+ {
+  "TaskID": 31,
+  "Type": 1,
+  "Cardid": 830201,
+  "TaskRewardId": [
+   110
+  ],
+  "RewardAttr": [],
+  "HeroId": [],
+  "Profession": [
+   2
+  ],
+  "UnlockType": 0,
+  "UnlockId": 0,
+  "UnlockId2": 0,
+  "Quality": 2,
+  "ScaleFactor": 1.0,
+  "PosY": -80.0,
+  "Sort": 8,
+  "MappingID": 0
+ },
+ {
+  "TaskID": 32,
+  "Type": 1,
+  "Cardid": 830202,
+  "TaskRewardId": [
+   110
+  ],
+  "RewardAttr": [],
+  "HeroId": [],
+  "Profession": [
+   1
+  ],
+  "UnlockType": 0,
+  "UnlockId": 0,
+  "UnlockId2": 0,
+  "Quality": 2,
+  "ScaleFactor": 0.8999999761581421,
+  "PosY": -125.0,
+  "Sort": 10,
+  "MappingID": 0
+ },
+ {
+  "TaskID": 33,
+  "Type": 1,
+  "Cardid": 830203,
+  "TaskRewardId": [
+   110
+  ],
+  "RewardAttr": [],
+  "HeroId": [],
+  "Profession": [
+   4
+  ],
+  "UnlockType": 0,
+  "UnlockId": 0,
+  "UnlockId2": 0,
+  "Quality": 2,
+  "ScaleFactor": 1.0499999523162842,
+  "PosY": -90.0,
+  "Sort": 12,
+  "MappingID": 0
+ },
+ {
+  "TaskID": 34,
+  "Type": 1,
+  "Cardid": 840101,
+  "TaskRewardId": [
+   110
+  ],
+  "RewardAttr": [],
+  "HeroId": [],
+  "Profession": [
+   2
+  ],
+  "UnlockType": 0,
+  "UnlockId": 0,
+  "UnlockId2": 0,
+  "Quality": 3,
+  "ScaleFactor": 0.8500000238418579,
+  "PosY": -90.0,
+  "Sort": 5,
+  "MappingID": 0
+ },
+ {
+  "TaskID": 35,
+  "Type": 1,
+  "Cardid": 820202,
+  "TaskRewardId": [
+   110
+  ],
+  "RewardAttr": [],
+  "HeroId": [],
+  "Profession": [
+   4
+  ],
+  "UnlockType": 0,
+  "UnlockId": 0,
+  "UnlockId2": 0,
+  "Quality": 3,
+  "ScaleFactor": 0.8999999761581421,
+  "PosY": -110.0,
+  "Sort": 2,
+  "MappingID": 0
+ },
+ {
+  "TaskID": 36,
+  "Type": 1,
+  "Cardid": 840103,
+  "TaskRewardId": [
+   110
+  ],
+  "RewardAttr": [],
+  "HeroId": [],
+  "Profession": [
+   6
+  ],
+  "UnlockType": 0,
+  "UnlockId": 0,
+  "UnlockId2": 0,
+  "Quality": 3,
+  "ScaleFactor": 0.8999999761581421,
+  "PosY": -115.0,
+  "Sort": 11,
+  "MappingID": 0
+ },
+ {
+  "TaskID": 37,
+  "Type": 1,
+  "Cardid": 840104,
+  "TaskRewardId": [
+   110
+  ],
+  "RewardAttr": [],
+  "HeroId": [],
+  "Profession": [
+   5
+  ],
+  "UnlockType": 0,
+  "UnlockId": 0,
+  "UnlockId2": 0,
+  "Quality": 3,
+  "ScaleFactor": 0.800000011920929,
+  "PosY": -155.0,
+  "Sort": 8,
+  "MappingID": 0
+ },
+ {
+  "TaskID": 38,
+  "Type": 1,
+  "Cardid": 840105,
+  "TaskRewardId": [
+   110
+  ],
+  "RewardAttr": [],
+  "HeroId": [],
+  "Profession": [
+   3
+  ],
+  "UnlockType": 0,
+  "UnlockId": 0,
+  "UnlockId2": 0,
+  "Quality": 3,
+  "ScaleFactor": 0.75,
+  "PosY": -85.0,
+  "Sort": 14,
+  "MappingID": 0
+ },
+ {
+  "TaskID": 39,
+  "Type": 1,
+  "Cardid": 840106,
+  "TaskRewardId": [
+   110
+  ],
+  "RewardAttr": [],
+  "HeroId": [],
+  "Profession": [
+   8
+  ],
+  "UnlockType": 0,
+  "UnlockId": 0,
+  "UnlockId2": 0,
+  "Quality": 3,
+  "ScaleFactor": 0.800000011920929,
+  "PosY": -115.0,
+  "Sort": 16,
+  "MappingID": 0
+ },
+ {
+  "TaskID": 40,
+  "Type": 1,
+  "Cardid": 840107,
+  "TaskRewardId": [
+   110
+  ],
+  "RewardAttr": [],
+  "HeroId": [],
+  "Profession": [
+   1
+  ],
+  "UnlockType": 0,
+  "UnlockId": 0,
+  "UnlockId2": 0,
+  "Quality": 3,
+  "ScaleFactor": 0.800000011920929,
+  "PosY": -115.0,
+  "Sort": 18,
+  "MappingID": 0
+ },
+ {
+  "TaskID": 41,
+  "Type": 1,
+  "Cardid": 840108,
+  "TaskRewardId": [
+   110
+  ],
+  "RewardAttr": [],
+  "HeroId": [],
+  "Profession": [
+   7
+  ],
+  "UnlockType": 0,
+  "UnlockId": 0,
+  "UnlockId2": 0,
+  "Quality": 3,
+  "ScaleFactor": 0.800000011920929,
+  "PosY": -155.0,
+  "Sort": 20,
+  "MappingID": 0
+ },
+ {
+  "TaskID": 42,
+  "Type": 2,
+  "Cardid": 10018,
+  "TaskRewardId": [
+   110
+  ],
+  "RewardAttr": [],
+  "HeroId": [],
+  "Profession": [],
+  "UnlockType": 3,
+  "UnlockId": 0,
+  "UnlockId2": 0,
+  "Quality": 1,
+  "ScaleFactor": 0.0,
+  "PosY": 0.0,
+  "Sort": 8,
+  "MappingID": 0
+ },
+ {
+  "TaskID": 43,
+  "Type": 2,
+  "Cardid": 10019,
+  "TaskRewardId": [
+   110
+  ],
+  "RewardAttr": [],
+  "HeroId": [],
+  "Profession": [],
+  "UnlockType": 3,
+  "UnlockId": 0,
+  "UnlockId2": 0,
+  "Quality": 1,
+  "ScaleFactor": 0.0,
+  "PosY": 0.0,
+  "Sort": 10,
+  "MappingID": 0
+ },
+ {
+  "TaskID": 44,
+  "Type": 2,
+  "Cardid": 10020,
+  "TaskRewardId": [
+   110
+  ],
+  "RewardAttr": [],
+  "HeroId": [],
+  "Profession": [],
+  "UnlockType": 3,
+  "UnlockId": 0,
+  "UnlockId2": 0,
+  "Quality": 1,
+  "ScaleFactor": 0.0,
+  "PosY": 0.0,
+  "Sort": 8,
+  "MappingID": 0
+ },
+ {
+  "TaskID": 45,
+  "Type": 2,
+  "Cardid": 10021,
+  "TaskRewardId": [
+   110
+  ],
+  "RewardAttr": [],
+  "HeroId": [],
+  "Profession": [],
+  "UnlockType": 3,
+  "UnlockId": 0,
+  "UnlockId2": 0,
+  "Quality": 1,
+  "ScaleFactor": 0.0,
+  "PosY": 0.0,
+  "Sort": 8,
+  "MappingID": 0
+ },
+ {
+  "TaskID": 46,
+  "Type": 2,
+  "Cardid": 10022,
+  "TaskRewardId": [
+   110
+  ],
+  "RewardAttr": [],
+  "HeroId": [],
+  "Profession": [],
+  "UnlockType": 3,
+  "UnlockId": 0,
+  "UnlockId2": 0,
+  "Quality": 1,
+  "ScaleFactor": 0.0,
+  "PosY": 0.0,
+  "Sort": 9,
+  "MappingID": 0
+ },
+ {
+  "TaskID": 47,
+  "Type": 2,
+  "Cardid": 10023,
+  "TaskRewardId": [
+   110
+  ],
+  "RewardAttr": [],
+  "HeroId": [],
+  "Profession": [],
+  "UnlockType": 3,
+  "UnlockId": 0,
+  "UnlockId2": 0,
+  "Quality": 1,
+  "ScaleFactor": 0.0,
+  "PosY": 0.0,
+  "Sort": 9,
+  "MappingID": 0
+ },
+ {
+  "TaskID": 48,
+  "Type": 2,
+  "Cardid": 10024,
+  "TaskRewardId": [
+   110
+  ],
+  "RewardAttr": [],
+  "HeroId": [],
+  "Profession": [],
+  "UnlockType": 3,
+  "UnlockId": 0,
+  "UnlockId2": 0,
+  "Quality": 1,
+  "ScaleFactor": 0.0,
+  "PosY": 0.0,
+  "Sort": 10,
+  "MappingID": 0
+ },
+ {
+  "TaskID": 49,
+  "Type": 2,
+  "Cardid": 10025,
+  "TaskRewardId": [
+   110
+  ],
+  "RewardAttr": [],
+  "HeroId": [],
+  "Profession": [],
+  "UnlockType": 3,
+  "UnlockId": 0,
+  "UnlockId2": 0,
+  "Quality": 1,
+  "ScaleFactor": 0.0,
+  "PosY": 0.0,
+  "Sort": 10,
+  "MappingID": 0
+ },
+ {
+  "TaskID": 50,
+  "Type": 2,
+  "Cardid": 10026,
+  "TaskRewardId": [
+   110
+  ],
+  "RewardAttr": [],
+  "HeroId": [],
+  "Profession": [],
+  "UnlockType": 3,
+  "UnlockId": 0,
+  "UnlockId2": 0,
+  "Quality": 1,
+  "ScaleFactor": 0.0,
+  "PosY": 0.0,
+  "Sort": 2,
+  "MappingID": 0
+ },
+ {
+  "TaskID": 51,
+  "Type": 2,
+  "Cardid": 10027,
+  "TaskRewardId": [
+   110
+  ],
+  "RewardAttr": [],
+  "HeroId": [],
+  "Profession": [],
+  "UnlockType": 3,
+  "UnlockId": 0,
+  "UnlockId2": 0,
+  "Quality": 1,
+  "ScaleFactor": 0.0,
+  "PosY": 0.0,
+  "Sort": 2,
+  "MappingID": 0
+ },
+ {
+  "TaskID": 52,
+  "Type": 2,
+  "Cardid": 10028,
+  "TaskRewardId": [
+   110
+  ],
+  "RewardAttr": [],
+  "HeroId": [],
+  "Profession": [],
+  "UnlockType": 3,
+  "UnlockId": 0,
+  "UnlockId2": 0,
+  "Quality": 1,
+  "ScaleFactor": 0.0,
+  "PosY": 0.0,
+  "Sort": 2,
+  "MappingID": 0
+ },
+ {
+  "TaskID": 53,
+  "Type": 2,
+  "Cardid": 10029,
+  "TaskRewardId": [
+   110
+  ],
+  "RewardAttr": [],
+  "HeroId": [],
+  "Profession": [],
+  "UnlockType": 3,
+  "UnlockId": 0,
+  "UnlockId2": 0,
+  "Quality": 1,
+  "ScaleFactor": 0.0,
+  "PosY": 0.0,
+  "Sort": 11,
+  "MappingID": 0
+ },
+ {
+  "TaskID": 54,
+  "Type": 2,
+  "Cardid": 10030,
+  "TaskRewardId": [
+   110
+  ],
+  "RewardAttr": [],
+  "HeroId": [],
+  "Profession": [],
+  "UnlockType": 3,
+  "UnlockId": 0,
+  "UnlockId2": 0,
+  "Quality": 1,
+  "ScaleFactor": 0.0,
+  "PosY": 0.0,
+  "Sort": 11,
+  "MappingID": 0
+ },
+ {
+  "TaskID": 55,
+  "Type": 2,
+  "Cardid": 10031,
+  "TaskRewardId": [
+   110
+  ],
+  "RewardAttr": [],
+  "HeroId": [],
+  "Profession": [],
+  "UnlockType": 3,
+  "UnlockId": 0,
+  "UnlockId2": 0,
+  "Quality": 1,
+  "ScaleFactor": 0.0,
+  "PosY": 0.0,
+  "Sort": 11,
+  "MappingID": 0
+ },
+ {
+  "TaskID": 56,
+  "Type": 2,
+  "Cardid": 10032,
+  "TaskRewardId": [
+   110
+  ],
+  "RewardAttr": [],
+  "HeroId": [],
+  "Profession": [],
+  "UnlockType": 3,
+  "UnlockId": 0,
+  "UnlockId2": 0,
+  "Quality": 1,
+  "ScaleFactor": 0.0,
+  "PosY": 0.0,
+  "Sort": 12,
+  "MappingID": 0
+ },
+ {
+  "TaskID": 57,
+  "Type": 2,
+  "Cardid": 10033,
+  "TaskRewardId": [
+   110
+  ],
+  "RewardAttr": [],
+  "HeroId": [],
+  "Profession": [],
+  "UnlockType": 3,
+  "UnlockId": 0,
+  "UnlockId2": 0,
+  "Quality": 1,
+  "ScaleFactor": 0.0,
+  "PosY": 0.0,
+  "Sort": 12,
+  "MappingID": 0
+ },
+ {
+  "TaskID": 58,
+  "Type": 2,
+  "Cardid": 10034,
+  "TaskRewardId": [
+   110
+  ],
+  "RewardAttr": [],
+  "HeroId": [],
+  "Profession": [],
+  "UnlockType": 3,
+  "UnlockId": 0,
+  "UnlockId2": 0,
+  "Quality": 1,
+  "ScaleFactor": 0.0,
+  "PosY": 0.0,
+  "Sort": 12,
+  "MappingID": 0
+ },
+ {
+  "TaskID": 59,
+  "Type": 2,
+  "Cardid": 10035,
+  "TaskRewardId": [
+   110
+  ],
+  "RewardAttr": [],
+  "HeroId": [],
+  "Profession": [],
+  "UnlockType": 3,
+  "UnlockId": 0,
+  "UnlockId2": 0,
+  "Quality": 1,
+  "ScaleFactor": 0.0,
+  "PosY": 0.0,
+  "Sort": 13,
+  "MappingID": 0
+ },
+ {
+  "TaskID": 60,
+  "Type": 2,
+  "Cardid": 10036,
+  "TaskRewardId": [
+   110
+  ],
+  "RewardAttr": [],
+  "HeroId": [],
+  "Profession": [],
+  "UnlockType": 3,
+  "UnlockId": 0,
+  "UnlockId2": 0,
+  "Quality": 1,
+  "ScaleFactor": 0.0,
+  "PosY": 0.0,
+  "Sort": 13,
+  "MappingID": 0
+ },
+ {
+  "TaskID": 61,
+  "Type": 2,
+  "Cardid": 10037,
+  "TaskRewardId": [
+   110
+  ],
+  "RewardAttr": [],
+  "HeroId": [],
+  "Profession": [],
+  "UnlockType": 3,
+  "UnlockId": 0,
+  "UnlockId2": 0,
+  "Quality": 1,
+  "ScaleFactor": 0.0,
+  "PosY": 0.0,
+  "Sort": 13,
+  "MappingID": 0
+ },
+ {
+  "TaskID": 62,
+  "Type": 2,
+  "Cardid": 10038,
+  "TaskRewardId": [
+   110
+  ],
+  "RewardAttr": [],
+  "HeroId": [],
+  "Profession": [],
+  "UnlockType": 3,
+  "UnlockId": 0,
+  "UnlockId2": 0,
+  "Quality": 1,
+  "ScaleFactor": 0.0,
+  "PosY": 0.0,
+  "Sort": 1,
+  "MappingID": 0
+ },
+ {
+  "TaskID": 63,
+  "Type": 2,
+  "Cardid": 10039,
+  "TaskRewardId": [
+   110
+  ],
+  "RewardAttr": [],
+  "HeroId": [],
+  "Profession": [],
+  "UnlockType": 3,
+  "UnlockId": 0,
+  "UnlockId2": 0,
+  "Quality": 1,
+  "ScaleFactor": 0.0,
+  "PosY": 0.0,
+  "Sort": 1,
+  "MappingID": 0
+ },
+ {
+  "TaskID": 64,
+  "Type": 2,
+  "Cardid": 10040,
+  "TaskRewardId": [
+   110
+  ],
+  "RewardAttr": [],
+  "HeroId": [],
+  "Profession": [],
+  "UnlockType": 3,
+  "UnlockId": 0,
+  "UnlockId2": 0,
+  "Quality": 1,
+  "ScaleFactor": 0.0,
+  "PosY": 0.0,
+  "Sort": 14,
+  "MappingID": 0
+ },
+ {
+  "TaskID": 65,
+  "Type": 2,
+  "Cardid": 10041,
+  "TaskRewardId": [
+   110
+  ],
+  "RewardAttr": [],
+  "HeroId": [],
+  "Profession": [],
+  "UnlockType": 3,
+  "UnlockId": 0,
+  "UnlockId2": 0,
+  "Quality": 1,
+  "ScaleFactor": 0.0,
+  "PosY": 0.0,
+  "Sort": 14,
+  "MappingID": 0
+ },
+ {
+  "TaskID": 66,
+  "Type": 2,
+  "Cardid": 10042,
+  "TaskRewardId": [
+   110
+  ],
+  "RewardAttr": [],
+  "HeroId": [],
+  "Profession": [],
+  "UnlockType": 3,
+  "UnlockId": 0,
+  "UnlockId2": 0,
+  "Quality": 1,
+  "ScaleFactor": 0.0,
+  "PosY": 0.0,
+  "Sort": 14,
+  "MappingID": 0
+ },
+ {
+  "TaskID": 67,
+  "Type": 2,
+  "Cardid": 10043,
+  "TaskRewardId": [
+   110
+  ],
+  "RewardAttr": [],
+  "HeroId": [],
+  "Profession": [],
+  "UnlockType": 1,
+  "UnlockId": 140402,
+  "UnlockId2": 0,
+  "Quality": 1,
+  "ScaleFactor": 0.0,
+  "PosY": 0.0,
+  "Sort": 7,
+  "MappingID": 0
+ },
+ {
+  "TaskID": 68,
+  "Type": 2,
+  "Cardid": 10044,
+  "TaskRewardId": [
+   110
+  ],
+  "RewardAttr": [],
+  "HeroId": [],
+  "Profession": [],
+  "UnlockType": 3,
+  "UnlockId": 0,
+  "UnlockId2": 0,
+  "Quality": 1,
+  "ScaleFactor": 0.0,
+  "PosY": 0.0,
+  "Sort": 7,
+  "MappingID": 0
+ },
+ {
+  "TaskID": 69,
+  "Type": 2,
+  "Cardid": 10045,
+  "TaskRewardId": [
+   110
+  ],
+  "RewardAttr": [],
+  "HeroId": [],
+  "Profession": [],
+  "UnlockType": 3,
+  "UnlockId": 0,
+  "UnlockId2": 0,
+  "Quality": 1,
+  "ScaleFactor": 0.0,
+  "PosY": 0.0,
+  "Sort": 7,
+  "MappingID": 0
+ },
+ {
+  "TaskID": 70,
+  "Type": 2,
+  "Cardid": 10046,
+  "TaskRewardId": [
+   110
+  ],
+  "RewardAttr": [],
+  "HeroId": [],
+  "Profession": [],
+  "UnlockType": 3,
+  "UnlockId": 0,
+  "UnlockId2": 0,
+  "Quality": 1,
+  "ScaleFactor": 0.0,
+  "PosY": 0.0,
+  "Sort": 11,
+  "MappingID": 0
+ },
+ {
+  "TaskID": 71,
+  "Type": 2,
+  "Cardid": 10050,
+  "TaskRewardId": [
+   110
+  ],
+  "RewardAttr": [],
+  "HeroId": [],
+  "Profession": [],
+  "UnlockType": 3,
+  "UnlockId": 0,
+  "UnlockId2": 0,
+  "Quality": 1,
+  "ScaleFactor": 0.0,
+  "PosY": 0.0,
+  "Sort": 3,
+  "MappingID": 0
+ },
+ {
+  "TaskID": 72,
+  "Type": 2,
+  "Cardid": 10051,
+  "TaskRewardId": [
+   110
+  ],
+  "RewardAttr": [],
+  "HeroId": [],
+  "Profession": [],
+  "UnlockType": 3,
+  "UnlockId": 0,
+  "UnlockId2": 0,
+  "Quality": 1,
+  "ScaleFactor": 0.0,
+  "PosY": 0.0,
+  "Sort": 2,
+  "MappingID": 0
+ },
+ {
+  "TaskID": 73,
+  "Type": 2,
+  "Cardid": 10052,
+  "TaskRewardId": [
+   110
+  ],
+  "RewardAttr": [],
+  "HeroId": [],
+  "Profession": [],
+  "UnlockType": 3,
+  "UnlockId": 0,
+  "UnlockId2": 0,
+  "Quality": 1,
+  "ScaleFactor": 0.0,
+  "PosY": 0.0,
+  "Sort": 5,
+  "MappingID": 0
+ },
+ {
+  "TaskID": 74,
+  "Type": 2,
+  "Cardid": 10053,
+  "TaskRewardId": [
+   110
+  ],
+  "RewardAttr": [],
+  "HeroId": [],
+  "Profession": [],
+  "UnlockType": 3,
+  "UnlockId": 0,
+  "UnlockId2": 0,
+  "Quality": 1,
+  "ScaleFactor": 0.0,
+  "PosY": 0.0,
+  "Sort": 1,
+  "MappingID": 0
+ },
+ {
+  "TaskID": 75,
+  "Type": 2,
+  "Cardid": 10054,
+  "TaskRewardId": [
+   110
+  ],
+  "RewardAttr": [],
+  "HeroId": [],
+  "Profession": [],
+  "UnlockType": 3,
+  "UnlockId": 0,
+  "UnlockId2": 0,
+  "Quality": 1,
+  "ScaleFactor": 0.0,
+  "PosY": 0.0,
+  "Sort": 7,
+  "MappingID": 0
+ },
+ {
+  "TaskID": 76,
+  "Type": 2,
+  "Cardid": 10055,
+  "TaskRewardId": [
+   110
+  ],
+  "RewardAttr": [],
+  "HeroId": [],
+  "Profession": [],
+  "UnlockType": 3,
+  "UnlockId": 0,
+  "UnlockId2": 0,
+  "Quality": 1,
+  "ScaleFactor": 0.0,
+  "PosY": 0.0,
+  "Sort": 6,
+  "MappingID": 0
+ },
+ {
+  "TaskID": 77,
+  "Type": 2,
+  "Cardid": 10056,
+  "TaskRewardId": [
+   110
+  ],
+  "RewardAttr": [],
+  "HeroId": [],
+  "Profession": [],
+  "UnlockType": 3,
+  "UnlockId": 0,
+  "UnlockId2": 0,
+  "Quality": 1,
+  "ScaleFactor": 0.0,
+  "PosY": 0.0,
+  "Sort": 4,
+  "MappingID": 0
+ },
+ {
+  "TaskID": 78,
+  "Type": 2,
+  "Cardid": 10057,
+  "TaskRewardId": [
+   110
+  ],
+  "RewardAttr": [],
+  "HeroId": [],
+  "Profession": [],
+  "UnlockType": 3,
+  "UnlockId": 0,
+  "UnlockId2": 0,
+  "Quality": 1,
+  "ScaleFactor": 0.0,
+  "PosY": 0.0,
+  "Sort": 8,
+  "MappingID": 0
+ },
+ {
+  "TaskID": 79,
+  "Type": 2,
+  "Cardid": 10058,
+  "TaskRewardId": [
+   110
+  ],
+  "RewardAttr": [],
+  "HeroId": [],
+  "Profession": [],
+  "UnlockType": 3,
+  "UnlockId": 0,
+  "UnlockId2": 0,
+  "Quality": 1,
+  "ScaleFactor": 0.0,
+  "PosY": 0.0,
+  "Sort": 9,
+  "MappingID": 0
+ },
+ {
+  "TaskID": 80,
+  "Type": 2,
+  "Cardid": 10059,
+  "TaskRewardId": [
+   110
+  ],
+  "RewardAttr": [],
+  "HeroId": [],
+  "Profession": [],
+  "UnlockType": 3,
+  "UnlockId": 0,
+  "UnlockId2": 0,
+  "Quality": 1,
+  "ScaleFactor": 0.0,
+  "PosY": 0.0,
+  "Sort": 10,
+  "MappingID": 0
+ },
+ {
+  "TaskID": 81,
+  "Type": 2,
+  "Cardid": 10060,
+  "TaskRewardId": [
+   110
+  ],
+  "RewardAttr": [],
+  "HeroId": [],
+  "Profession": [],
+  "UnlockType": 3,
+  "UnlockId": 0,
+  "UnlockId2": 0,
+  "Quality": 1,
+  "ScaleFactor": 0.0,
+  "PosY": 0.0,
+  "Sort": 11,
+  "MappingID": 0
+ },
+ {
+  "TaskID": 82,
+  "Type": 2,
+  "Cardid": 10061,
+  "TaskRewardId": [
+   110
+  ],
+  "RewardAttr": [],
+  "HeroId": [],
+  "Profession": [],
+  "UnlockType": 3,
+  "UnlockId": 0,
+  "UnlockId2": 0,
+  "Quality": 1,
+  "ScaleFactor": 0.0,
+  "PosY": 0.0,
+  "Sort": 12,
+  "MappingID": 0
+ },
+ {
+  "TaskID": 83,
+  "Type": 2,
+  "Cardid": 10062,
+  "TaskRewardId": [
+   110
+  ],
+  "RewardAttr": [],
+  "HeroId": [],
+  "Profession": [],
+  "UnlockType": 3,
+  "UnlockId": 0,
+  "UnlockId2": 0,
+  "Quality": 1,
+  "ScaleFactor": 0.0,
+  "PosY": 0.0,
+  "Sort": 13,
+  "MappingID": 0
+ },
+ {
+  "TaskID": 84,
+  "Type": 2,
+  "Cardid": 10063,
+  "TaskRewardId": [
+   110
+  ],
+  "RewardAttr": [],
+  "HeroId": [],
+  "Profession": [],
+  "UnlockType": 3,
+  "UnlockId": 0,
+  "UnlockId2": 0,
+  "Quality": 1,
+  "ScaleFactor": 0.0,
+  "PosY": 0.0,
+  "Sort": 14,
+  "MappingID": 0
+ },
+ {
+  "TaskID": 85,
+  "Type": 2,
+  "Cardid": 10064,
+  "TaskRewardId": [
+   110
+  ],
+  "RewardAttr": [],
+  "HeroId": [],
+  "Profession": [],
+  "UnlockType": 3,
+  "UnlockId": 0,
+  "UnlockId2": 0,
+  "Quality": 1,
+  "ScaleFactor": 0.0,
+  "PosY": 0.0,
+  "Sort": 3,
+  "MappingID": 0
+ },
+ {
+  "TaskID": 86,
+  "Type": 2,
+  "Cardid": 10065,
+  "TaskRewardId": [
+   110
+  ],
+  "RewardAttr": [],
+  "HeroId": [],
+  "Profession": [],
+  "UnlockType": 3,
+  "UnlockId": 0,
+  "UnlockId2": 0,
+  "Quality": 1,
+  "ScaleFactor": 0.0,
+  "PosY": 0.0,
+  "Sort": 3,
+  "MappingID": 0
+ },
+ {
+  "TaskID": 87,
+  "Type": 2,
+  "Cardid": 10066,
+  "TaskRewardId": [
+   110
+  ],
+  "RewardAttr": [],
+  "HeroId": [],
+  "Profession": [],
+  "UnlockType": 3,
+  "UnlockId": 0,
+  "UnlockId2": 0,
+  "Quality": 1,
+  "ScaleFactor": 0.0,
+  "PosY": 0.0,
+  "Sort": 3,
+  "MappingID": 0
+ },
+ {
+  "TaskID": 88,
+  "Type": 2,
+  "Cardid": 10067,
+  "TaskRewardId": [
+   110
+  ],
+  "RewardAttr": [],
+  "HeroId": [],
+  "Profession": [],
+  "UnlockType": 3,
+  "UnlockId": 0,
+  "UnlockId2": 0,
+  "Quality": 1,
+  "ScaleFactor": 0.0,
+  "PosY": 0.0,
+  "Sort": 1,
+  "MappingID": 0
+ },
+ {
+  "TaskID": 89,
+  "Type": 2,
+  "Cardid": 10068,
+  "TaskRewardId": [
+   110
+  ],
+  "RewardAttr": [],
+  "HeroId": [],
+  "Profession": [],
+  "UnlockType": 3,
+  "UnlockId": 0,
+  "UnlockId2": 0,
+  "Quality": 1,
+  "ScaleFactor": 0.0,
+  "PosY": 0.0,
+  "Sort": 1,
+  "MappingID": 0
+ },
+ {
+  "TaskID": 90,
+  "Type": 2,
+  "Cardid": 10069,
+  "TaskRewardId": [
+   110
+  ],
+  "RewardAttr": [],
+  "HeroId": [],
+  "Profession": [],
+  "UnlockType": 3,
+  "UnlockId": 0,
+  "UnlockId2": 0,
+  "Quality": 1,
+  "ScaleFactor": 0.0,
+  "PosY": 0.0,
+  "Sort": 1,
+  "MappingID": 0
+ },
+ {
+  "TaskID": 91,
+  "Type": 2,
+  "Cardid": 10070,
+  "TaskRewardId": [
+   110
+  ],
+  "RewardAttr": [],
+  "HeroId": [],
+  "Profession": [],
+  "UnlockType": 3,
+  "UnlockId": 0,
+  "UnlockId2": 0,
+  "Quality": 1,
+  "ScaleFactor": 0.0,
+  "PosY": 0.0,
+  "Sort": 4,
+  "MappingID": 0
+ },
+ {
+  "TaskID": 92,
+  "Type": 2,
+  "Cardid": 10071,
+  "TaskRewardId": [
+   110
+  ],
+  "RewardAttr": [],
+  "HeroId": [],
+  "Profession": [],
+  "UnlockType": 3,
+  "UnlockId": 0,
+  "UnlockId2": 0,
+  "Quality": 1,
+  "ScaleFactor": 0.0,
+  "PosY": 0.0,
+  "Sort": 4,
+  "MappingID": 0
+ },
+ {
+  "TaskID": 93,
+  "Type": 2,
+  "Cardid": 10072,
+  "TaskRewardId": [
+   110
+  ],
+  "RewardAttr": [],
+  "HeroId": [],
+  "Profession": [],
+  "UnlockType": 3,
+  "UnlockId": 0,
+  "UnlockId2": 0,
+  "Quality": 1,
+  "ScaleFactor": 0.0,
+  "PosY": 0.0,
+  "Sort": 4,
+  "MappingID": 0
+ },
+ {
+  "TaskID": 94,
+  "Type": 2,
+  "Cardid": 10073,
+  "TaskRewardId": [
+   110
+  ],
+  "RewardAttr": [],
+  "HeroId": [],
+  "Profession": [],
+  "UnlockType": 3,
+  "UnlockId": 0,
+  "UnlockId2": 0,
+  "Quality": 1,
+  "ScaleFactor": 0.0,
+  "PosY": 0.0,
+  "Sort": 6,
+  "MappingID": 0
+ },
+ {
+  "TaskID": 95,
+  "Type": 2,
+  "Cardid": 10074,
+  "TaskRewardId": [
+   110
+  ],
+  "RewardAttr": [],
+  "HeroId": [],
+  "Profession": [],
+  "UnlockType": 3,
+  "UnlockId": 0,
+  "UnlockId2": 0,
+  "Quality": 1,
+  "ScaleFactor": 0.0,
+  "PosY": 0.0,
+  "Sort": 6,
+  "MappingID": 0
+ },
+ {
+  "TaskID": 96,
+  "Type": 2,
+  "Cardid": 10075,
+  "TaskRewardId": [
+   110
+  ],
+  "RewardAttr": [],
+  "HeroId": [],
+  "Profession": [],
+  "UnlockType": 3,
+  "UnlockId": 0,
+  "UnlockId2": 0,
+  "Quality": 1,
+  "ScaleFactor": 0.0,
+  "PosY": 0.0,
+  "Sort": 6,
+  "MappingID": 0
+ },
+ {
+  "TaskID": 97,
+  "Type": 2,
+  "Cardid": 10076,
+  "TaskRewardId": [
+   110
+  ],
+  "RewardAttr": [],
+  "HeroId": [],
+  "Profession": [],
+  "UnlockType": 3,
+  "UnlockId": 0,
+  "UnlockId2": 0,
+  "Quality": 1,
+  "ScaleFactor": 0.0,
+  "PosY": 0.0,
+  "Sort": 5,
+  "MappingID": 0
+ },
+ {
+  "TaskID": 98,
+  "Type": 2,
+  "Cardid": 10077,
+  "TaskRewardId": [
+   110
+  ],
+  "RewardAttr": [],
+  "HeroId": [],
+  "Profession": [],
+  "UnlockType": 3,
+  "UnlockId": 0,
+  "UnlockId2": 0,
+  "Quality": 1,
+  "ScaleFactor": 0.0,
+  "PosY": 0.0,
+  "Sort": 5,
+  "MappingID": 0
+ },
+ {
+  "TaskID": 99,
+  "Type": 2,
+  "Cardid": 10078,
+  "TaskRewardId": [
+   110
+  ],
+  "RewardAttr": [],
+  "HeroId": [],
+  "Profession": [],
+  "UnlockType": 3,
+  "UnlockId": 0,
+  "UnlockId2": 0,
+  "Quality": 1,
+  "ScaleFactor": 0.0,
+  "PosY": 0.0,
+  "Sort": 5,
+  "MappingID": 0
+ },
+ {
+  "TaskID": 100,
+  "Type": 2,
+  "Cardid": 10079,
+  "TaskRewardId": [
+   110
+  ],
+  "RewardAttr": [],
+  "HeroId": [],
+  "Profession": [],
+  "UnlockType": 3,
+  "UnlockId": 0,
+  "UnlockId2": 0,
+  "Quality": 1,
+  "ScaleFactor": 0.0,
+  "PosY": 0.0,
+  "Sort": 15,
+  "MappingID": 0
+ },
+ {
+  "TaskID": 101,
+  "Type": 2,
+  "Cardid": 10080,
+  "TaskRewardId": [
+   110
+  ],
+  "RewardAttr": [],
+  "HeroId": [],
+  "Profession": [],
+  "UnlockType": 3,
+  "UnlockId": 0,
+  "UnlockId2": 0,
+  "Quality": 1,
+  "ScaleFactor": 0.0,
+  "PosY": 0.0,
+  "Sort": 15,
+  "MappingID": 0
+ },
+ {
+  "TaskID": 102,
+  "Type": 2,
+  "Cardid": 10081,
+  "TaskRewardId": [
+   110
+  ],
+  "RewardAttr": [],
+  "HeroId": [],
+  "Profession": [],
+  "UnlockType": 3,
+  "UnlockId": 0,
+  "UnlockId2": 0,
+  "Quality": 1,
+  "ScaleFactor": 0.0,
+  "PosY": 0.0,
+  "Sort": 15,
+  "MappingID": 0
+ },
+ {
+  "TaskID": 103,
+  "Type": 2,
+  "Cardid": 20001,
+  "TaskRewardId": [
+   110
+  ],
+  "RewardAttr": [],
+  "HeroId": [],
+  "Profession": [],
+  "UnlockType": 3,
+  "UnlockId": 0,
+  "UnlockId2": 0,
+  "Quality": 2,
+  "ScaleFactor": 0.0,
+  "PosY": 0.0,
+  "Sort": 4,
+  "MappingID": 0
+ },
+ {
+  "TaskID": 104,
+  "Type": 2,
+  "Cardid": 20002,
+  "TaskRewardId": [
+   110
+  ],
+  "RewardAttr": [],
+  "HeroId": [],
+  "Profession": [],
+  "UnlockType": 3,
+  "UnlockId": 0,
+  "UnlockId2": 0,
+  "Quality": 2,
+  "ScaleFactor": 0.0,
+  "PosY": 0.0,
+  "Sort": 4,
+  "MappingID": 0
+ },
+ {
+  "TaskID": 105,
+  "Type": 2,
+  "Cardid": 20003,
+  "TaskRewardId": [
+   110
+  ],
+  "RewardAttr": [],
+  "HeroId": [],
+  "Profession": [],
+  "UnlockType": 3,
+  "UnlockId": 0,
+  "UnlockId2": 0,
+  "Quality": 2,
+  "ScaleFactor": 0.0,
+  "PosY": 0.0,
+  "Sort": 4,
+  "MappingID": 0
+ },
+ {
+  "TaskID": 106,
+  "Type": 2,
+  "Cardid": 20004,
+  "TaskRewardId": [
+   110
+  ],
+  "RewardAttr": [],
+  "HeroId": [],
+  "Profession": [],
+  "UnlockType": 1,
+  "UnlockId": 110604,
+  "UnlockId2": 0,
+  "Quality": 2,
+  "ScaleFactor": 0.0,
+  "PosY": 0.0,
+  "Sort": 4,
+  "MappingID": 0
+ },
+ {
+  "TaskID": 107,
+  "Type": 2,
+  "Cardid": 20005,
+  "TaskRewardId": [
+   110
+  ],
+  "RewardAttr": [],
+  "HeroId": [],
+  "Profession": [],
+  "UnlockType": 3,
+  "UnlockId": 0,
+  "UnlockId2": 0,
+  "Quality": 2,
+  "ScaleFactor": 0.0,
+  "PosY": 0.0,
+  "Sort": 10,
+  "MappingID": 0
+ },
+ {
+  "TaskID": 108,
+  "Type": 2,
+  "Cardid": 20006,
+  "TaskRewardId": [
+   110
+  ],
+  "RewardAttr": [],
+  "HeroId": [],
+  "Profession": [],
+  "UnlockType": 3,
+  "UnlockId": 0,
+  "UnlockId2": 0,
+  "Quality": 2,
+  "ScaleFactor": 0.0,
+  "PosY": 0.0,
+  "Sort": 10,
+  "MappingID": 0
+ },
+ {
+  "TaskID": 109,
+  "Type": 2,
+  "Cardid": 20007,
+  "TaskRewardId": [
+   110
+  ],
+  "RewardAttr": [],
+  "HeroId": [],
+  "Profession": [],
+  "UnlockType": 3,
+  "UnlockId": 0,
+  "UnlockId2": 0,
+  "Quality": 2,
+  "ScaleFactor": 0.0,
+  "PosY": 0.0,
+  "Sort": 11,
+  "MappingID": 0
+ },
+ {
+  "TaskID": 110,
+  "Type": 2,
+  "Cardid": 20008,
+  "TaskRewardId": [
+   110
+  ],
+  "RewardAttr": [],
+  "HeroId": [],
+  "Profession": [],
+  "UnlockType": 3,
+  "UnlockId": 0,
+  "UnlockId2": 0,
+  "Quality": 2,
+  "ScaleFactor": 0.0,
+  "PosY": 0.0,
+  "Sort": 11,
+  "MappingID": 0
+ },
+ {
+  "TaskID": 111,
+  "Type": 2,
+  "Cardid": 20009,
+  "TaskRewardId": [
+   110
+  ],
+  "RewardAttr": [],
+  "HeroId": [],
+  "Profession": [],
+  "UnlockType": 3,
+  "UnlockId": 0,
+  "UnlockId2": 0,
+  "Quality": 2,
+  "ScaleFactor": 0.0,
+  "PosY": 0.0,
+  "Sort": 12,
+  "MappingID": 0
+ },
+ {
+  "TaskID": 112,
+  "Type": 2,
+  "Cardid": 20010,
+  "TaskRewardId": [
+   110
+  ],
+  "RewardAttr": [],
+  "HeroId": [],
+  "Profession": [],
+  "UnlockType": 3,
+  "UnlockId": 0,
+  "UnlockId2": 0,
+  "Quality": 2,
+  "ScaleFactor": 0.0,
+  "PosY": 0.0,
+  "Sort": 12,
+  "MappingID": 0
+ },
+ {
+  "TaskID": 113,
+  "Type": 2,
+  "Cardid": 20011,
+  "TaskRewardId": [
+   110
+  ],
+  "RewardAttr": [],
+  "HeroId": [],
+  "Profession": [],
+  "UnlockType": 3,
+  "UnlockId": 0,
+  "UnlockId2": 0,
+  "Quality": 2,
+  "ScaleFactor": 0.0,
+  "PosY": 0.0,
+  "Sort": 13,
+  "MappingID": 0
+ },
+ {
+  "TaskID": 114,
+  "Type": 2,
+  "Cardid": 20012,
+  "TaskRewardId": [
+   110
+  ],
+  "RewardAttr": [],
+  "HeroId": [],
+  "Profession": [],
+  "UnlockType": 3,
+  "UnlockId": 0,
+  "UnlockId2": 0,
+  "Quality": 2,
+  "ScaleFactor": 0.0,
+  "PosY": 0.0,
+  "Sort": 13,
+  "MappingID": 0
+ },
+ {
+  "TaskID": 115,
+  "Type": 2,
+  "Cardid": 20013,
+  "TaskRewardId": [
+   110
+  ],
+  "RewardAttr": [],
+  "HeroId": [],
+  "Profession": [],
+  "UnlockType": 3,
+  "UnlockId": 0,
+  "UnlockId2": 0,
+  "Quality": 2,
+  "ScaleFactor": 0.0,
+  "PosY": 0.0,
+  "Sort": 4,
+  "MappingID": 0
+ },
+ {
+  "TaskID": 116,
+  "Type": 2,
+  "Cardid": 20014,
+  "TaskRewardId": [
+   110
+  ],
+  "RewardAttr": [],
+  "HeroId": [],
+  "Profession": [],
+  "UnlockType": 3,
+  "UnlockId": 0,
+  "UnlockId2": 0,
+  "Quality": 2,
+  "ScaleFactor": 0.0,
+  "PosY": 0.0,
+  "Sort": 4,
+  "MappingID": 0
+ },
+ {
+  "TaskID": 117,
+  "Type": 2,
+  "Cardid": 20015,
+  "TaskRewardId": [
+   110
+  ],
+  "RewardAttr": [],
+  "HeroId": [],
+  "Profession": [],
+  "UnlockType": 3,
+  "UnlockId": 0,
+  "UnlockId2": 0,
+  "Quality": 2,
+  "ScaleFactor": 0.0,
+  "PosY": 0.0,
+  "Sort": 14,
+  "MappingID": 0
+ },
+ {
+  "TaskID": 118,
+  "Type": 2,
+  "Cardid": 20016,
+  "TaskRewardId": [
+   110
+  ],
+  "RewardAttr": [],
+  "HeroId": [],
+  "Profession": [],
+  "UnlockType": 3,
+  "UnlockId": 0,
+  "UnlockId2": 0,
+  "Quality": 2,
+  "ScaleFactor": 0.0,
+  "PosY": 0.0,
+  "Sort": 14,
+  "MappingID": 0
+ },
+ {
+  "TaskID": 119,
+  "Type": 2,
+  "Cardid": 20017,
+  "TaskRewardId": [
+   110
+  ],
+  "RewardAttr": [],
+  "HeroId": [],
+  "Profession": [],
+  "UnlockType": 1,
+  "UnlockId": 440201,
+  "UnlockId2": 0,
+  "Quality": 2,
+  "ScaleFactor": 0.0,
+  "PosY": 0.0,
+  "Sort": 7,
+  "MappingID": 0
+ },
+ {
+  "TaskID": 120,
+  "Type": 2,
+  "Cardid": 20018,
+  "TaskRewardId": [
+   110
+  ],
+  "RewardAttr": [],
+  "HeroId": [],
+  "Profession": [],
+  "UnlockType": 3,
+  "UnlockId": 0,
+  "UnlockId2": 0,
+  "Quality": 2,
+  "ScaleFactor": 0.0,
+  "PosY": 0.0,
+  "Sort": 7,
+  "MappingID": 0
+ },
+ {
+  "TaskID": 121,
+  "Type": 2,
+  "Cardid": 20019,
+  "TaskRewardId": [
+   110
+  ],
+  "RewardAttr": [],
+  "HeroId": [],
+  "Profession": [],
+  "UnlockType": 1,
+  "UnlockId": 450101,
+  "UnlockId2": 0,
+  "Quality": 2,
+  "ScaleFactor": 0.0,
+  "PosY": 0.0,
+  "Sort": 2,
+  "MappingID": 0
+ },
+ {
+  "TaskID": 122,
+  "Type": 2,
+  "Cardid": 20020,
+  "TaskRewardId": [
+   110
+  ],
+  "RewardAttr": [],
+  "HeroId": [],
+  "Profession": [],
+  "UnlockType": 3,
+  "UnlockId": 0,
+  "UnlockId2": 0,
+  "Quality": 2,
+  "ScaleFactor": 0.0,
+  "PosY": 0.0,
+  "Sort": 2,
+  "MappingID": 0
+ },
+ {
+  "TaskID": 123,
+  "Type": 2,
+  "Cardid": 20021,
+  "TaskRewardId": [
+   110
+  ],
+  "RewardAttr": [],
+  "HeroId": [],
+  "Profession": [],
+  "UnlockType": 3,
+  "UnlockId": 0,
+  "UnlockId2": 0,
+  "Quality": 2,
+  "ScaleFactor": 0.0,
+  "PosY": 0.0,
+  "Sort": 2,
+  "MappingID": 0
+ },
+ {
+  "TaskID": 124,
+  "Type": 2,
+  "Cardid": 20022,
+  "TaskRewardId": [
+   110
+  ],
+  "RewardAttr": [],
+  "HeroId": [],
+  "Profession": [],
+  "UnlockType": 3,
+  "UnlockId": 0,
+  "UnlockId2": 0,
+  "Quality": 2,
+  "ScaleFactor": 0.0,
+  "PosY": 0.0,
+  "Sort": 3,
+  "MappingID": 0
+ },
+ {
+  "TaskID": 125,
+  "Type": 2,
+  "Cardid": 20023,
+  "TaskRewardId": [
+   110
+  ],
+  "RewardAttr": [],
+  "HeroId": [],
+  "Profession": [],
+  "UnlockType": 3,
+  "UnlockId": 0,
+  "UnlockId2": 0,
+  "Quality": 2,
+  "ScaleFactor": 0.0,
+  "PosY": 0.0,
+  "Sort": 3,
+  "MappingID": 0
+ },
+ {
+  "TaskID": 126,
+  "Type": 2,
+  "Cardid": 20024,
+  "TaskRewardId": [
+   110
+  ],
+  "RewardAttr": [],
+  "HeroId": [],
+  "Profession": [],
+  "UnlockType": 3,
+  "UnlockId": 0,
+  "UnlockId2": 0,
+  "Quality": 2,
+  "ScaleFactor": 0.0,
+  "PosY": 0.0,
+  "Sort": 3,
+  "MappingID": 0
+ },
+ {
+  "TaskID": 127,
+  "Type": 2,
+  "Cardid": 20025,
+  "TaskRewardId": [
+   110
+  ],
+  "RewardAttr": [],
+  "HeroId": [],
+  "Profession": [],
+  "UnlockType": 1,
+  "UnlockId": 140403,
+  "UnlockId2": 0,
+  "Quality": 2,
+  "ScaleFactor": 0.0,
+  "PosY": 0.0,
+  "Sort": 1,
+  "MappingID": 0
+ },
+ {
+  "TaskID": 128,
+  "Type": 2,
+  "Cardid": 20026,
+  "TaskRewardId": [
+   110
+  ],
+  "RewardAttr": [],
+  "HeroId": [],
+  "Profession": [],
+  "UnlockType": 3,
+  "UnlockId": 0,
+  "UnlockId2": 0,
+  "Quality": 2,
+  "ScaleFactor": 0.0,
+  "PosY": 0.0,
+  "Sort": 1,
+  "MappingID": 0
+ },
+ {
+  "TaskID": 129,
+  "Type": 2,
+  "Cardid": 20027,
+  "TaskRewardId": [
+   110
+  ],
+  "RewardAttr": [],
+  "HeroId": [],
+  "Profession": [],
+  "UnlockType": 3,
+  "UnlockId": 0,
+  "UnlockId2": 0,
+  "Quality": 2,
+  "ScaleFactor": 0.0,
+  "PosY": 0.0,
+  "Sort": 1,
+  "MappingID": 0
+ },
+ {
+  "TaskID": 130,
+  "Type": 2,
+  "Cardid": 20028,
+  "TaskRewardId": [
+   110
+  ],
+  "RewardAttr": [],
+  "HeroId": [],
+  "Profession": [],
+  "UnlockType": 1,
+  "UnlockId": 120602,
+  "UnlockId2": 0,
+  "Quality": 2,
+  "ScaleFactor": 0.0,
+  "PosY": 0.0,
+  "Sort": 4,
+  "MappingID": 0
+ },
+ {
+  "TaskID": 131,
+  "Type": 2,
+  "Cardid": 20029,
+  "TaskRewardId": [
+   110
+  ],
+  "RewardAttr": [],
+  "HeroId": [],
+  "Profession": [],
+  "UnlockType": 3,
+  "UnlockId": 0,
+  "UnlockId2": 0,
+  "Quality": 2,
+  "ScaleFactor": 0.0,
+  "PosY": 0.0,
+  "Sort": 4,
+  "MappingID": 0
+ },
+ {
+  "TaskID": 132,
+  "Type": 2,
+  "Cardid": 20030,
+  "TaskRewardId": [
+   110
+  ],
+  "RewardAttr": [],
+  "HeroId": [],
+  "Profession": [],
+  "UnlockType": 3,
+  "UnlockId": 0,
+  "UnlockId2": 0,
+  "Quality": 2,
+  "ScaleFactor": 0.0,
+  "PosY": 0.0,
+  "Sort": 4,
+  "MappingID": 0
+ },
+ {
+  "TaskID": 133,
+  "Type": 2,
+  "Cardid": 20031,
+  "TaskRewardId": [
+   110
+  ],
+  "RewardAttr": [],
+  "HeroId": [],
+  "Profession": [],
+  "UnlockType": 1,
+  "UnlockId": 110603,
+  "UnlockId2": 0,
+  "Quality": 2,
+  "ScaleFactor": 0.0,
+  "PosY": 0.0,
+  "Sort": 6,
+  "MappingID": 0
+ },
+ {
+  "TaskID": 134,
+  "Type": 2,
+  "Cardid": 20032,
+  "TaskRewardId": [
+   110
+  ],
+  "RewardAttr": [],
+  "HeroId": [],
+  "Profession": [],
+  "UnlockType": 1,
+  "UnlockId": 410301,
+  "UnlockId2": 0,
+  "Quality": 2,
+  "ScaleFactor": 0.0,
+  "PosY": 0.0,
+  "Sort": 6,
+  "MappingID": 0
+ },
+ {
+  "TaskID": 135,
+  "Type": 2,
+  "Cardid": 20033,
+  "TaskRewardId": [
+   110
+  ],
+  "RewardAttr": [],
+  "HeroId": [],
+  "Profession": [],
+  "UnlockType": 3,
+  "UnlockId": 0,
+  "UnlockId2": 0,
+  "Quality": 2,
+  "ScaleFactor": 0.0,
+  "PosY": 0.0,
+  "Sort": 6,
+  "MappingID": 0
+ },
+ {
+  "TaskID": 136,
+  "Type": 2,
+  "Cardid": 20034,
+  "TaskRewardId": [
+   110
+  ],
+  "RewardAttr": [],
+  "HeroId": [],
+  "Profession": [],
+  "UnlockType": 3,
+  "UnlockId": 0,
+  "UnlockId2": 0,
+  "Quality": 2,
+  "ScaleFactor": 0.0,
+  "PosY": 0.0,
+  "Sort": 5,
+  "MappingID": 0
+ },
+ {
+  "TaskID": 137,
+  "Type": 2,
+  "Cardid": 20035,
+  "TaskRewardId": [
+   110
+  ],
+  "RewardAttr": [],
+  "HeroId": [],
+  "Profession": [],
+  "UnlockType": 1,
+  "UnlockId": 440401,
+  "UnlockId2": 0,
+  "Quality": 2,
+  "ScaleFactor": 0.0,
+  "PosY": 0.0,
+  "Sort": 5,
+  "MappingID": 0
+ },
+ {
+  "TaskID": 138,
+  "Type": 2,
+  "Cardid": 20036,
+  "TaskRewardId": [
+   110
+  ],
+  "RewardAttr": [],
+  "HeroId": [],
+  "Profession": [],
+  "UnlockType": 3,
+  "UnlockId": 0,
+  "UnlockId2": 0,
+  "Quality": 2,
+  "ScaleFactor": 0.0,
+  "PosY": 0.0,
+  "Sort": 5,
+  "MappingID": 0
+ },
+ {
+  "TaskID": 139,
+  "Type": 2,
+  "Cardid": 20037,
+  "TaskRewardId": [
+   110
+  ],
+  "RewardAttr": [],
+  "HeroId": [],
+  "Profession": [],
+  "UnlockType": 3,
+  "UnlockId": 0,
+  "UnlockId2": 0,
+  "Quality": 2,
+  "ScaleFactor": 0.0,
+  "PosY": 0.0,
+  "Sort": 8,
+  "MappingID": 0
+ },
+ {
+  "TaskID": 140,
+  "Type": 2,
+  "Cardid": 20038,
+  "TaskRewardId": [
+   110
+  ],
+  "RewardAttr": [],
+  "HeroId": [],
+  "Profession": [],
+  "UnlockType": 1,
+  "UnlockId": 410101,
+  "UnlockId2": 0,
+  "Quality": 2,
+  "ScaleFactor": 0.0,
+  "PosY": 0.0,
+  "Sort": 8,
+  "MappingID": 0
+ },
+ {
+  "TaskID": 141,
+  "Type": 2,
+  "Cardid": 20039,
+  "TaskRewardId": [
+   110
+  ],
+  "RewardAttr": [],
+  "HeroId": [],
+  "Profession": [],
+  "UnlockType": 3,
+  "UnlockId": 0,
+  "UnlockId2": 0,
+  "Quality": 2,
+  "ScaleFactor": 0.0,
+  "PosY": 0.0,
+  "Sort": 8,
+  "MappingID": 0
+ },
+ {
+  "TaskID": 142,
+  "Type": 2,
+  "Cardid": 20041,
+  "TaskRewardId": [
+   110
+  ],
+  "RewardAttr": [],
+  "HeroId": [],
+  "Profession": [],
+  "UnlockType": 3,
+  "UnlockId": 0,
+  "UnlockId2": 0,
+  "Quality": 2,
+  "ScaleFactor": 0.0,
+  "PosY": 0.0,
+  "Sort": 9,
+  "MappingID": 0
+ },
+ {
+  "TaskID": 143,
+  "Type": 2,
+  "Cardid": 20042,
+  "TaskRewardId": [
+   110
+  ],
+  "RewardAttr": [],
+  "HeroId": [],
+  "Profession": [],
+  "UnlockType": 3,
+  "UnlockId": 0,
+  "UnlockId2": 0,
+  "Quality": 2,
+  "ScaleFactor": 0.0,
+  "PosY": 0.0,
+  "Sort": 10,
+  "MappingID": 0
+ },
+ {
+  "TaskID": 144,
+  "Type": 2,
+  "Cardid": 20043,
+  "TaskRewardId": [
+   110
+  ],
+  "RewardAttr": [],
+  "HeroId": [],
+  "Profession": [],
+  "UnlockType": 3,
+  "UnlockId": 0,
+  "UnlockId2": 0,
+  "Quality": 2,
+  "ScaleFactor": 0.0,
+  "PosY": 0.0,
+  "Sort": 10,
+  "MappingID": 0
+ },
+ {
+  "TaskID": 145,
+  "Type": 2,
+  "Cardid": 20045,
+  "TaskRewardId": [
+   110
+  ],
+  "RewardAttr": [],
+  "HeroId": [],
+  "Profession": [],
+  "UnlockType": 3,
+  "UnlockId": 0,
+  "UnlockId2": 0,
+  "Quality": 2,
+  "ScaleFactor": 0.0,
+  "PosY": 0.0,
+  "Sort": 11,
+  "MappingID": 0
+ },
+ {
+  "TaskID": 146,
+  "Type": 2,
+  "Cardid": 20048,
+  "TaskRewardId": [
+   110
+  ],
+  "RewardAttr": [],
+  "HeroId": [],
+  "Profession": [],
+  "UnlockType": 3,
+  "UnlockId": 0,
+  "UnlockId2": 0,
+  "Quality": 2,
+  "ScaleFactor": 0.0,
+  "PosY": 0.0,
+  "Sort": 13,
+  "MappingID": 0
+ },
+ {
+  "TaskID": 147,
+  "Type": 2,
+  "Cardid": 20049,
+  "TaskRewardId": [
+   110
+  ],
+  "RewardAttr": [],
+  "HeroId": [],
+  "Profession": [],
+  "UnlockType": 3,
+  "UnlockId": 0,
+  "UnlockId2": 0,
+  "Quality": 2,
+  "ScaleFactor": 0.0,
+  "PosY": 0.0,
+  "Sort": 13,
+  "MappingID": 0
+ },
+ {
+  "TaskID": 148,
+  "Type": 2,
+  "Cardid": 20050,
+  "TaskRewardId": [
+   110
+  ],
+  "RewardAttr": [],
+  "HeroId": [],
+  "Profession": [],
+  "UnlockType": 1,
+  "UnlockId": 120603,
+  "UnlockId2": 0,
+  "Quality": 2,
+  "ScaleFactor": 0.0,
+  "PosY": 0.0,
+  "Sort": 13,
+  "MappingID": 0
+ },
+ {
+  "TaskID": 149,
+  "Type": 2,
+  "Cardid": 20052,
+  "TaskRewardId": [
+   110
+  ],
+  "RewardAttr": [],
+  "HeroId": [],
+  "Profession": [],
+  "UnlockType": 3,
+  "UnlockId": 0,
+  "UnlockId2": 0,
+  "Quality": 2,
+  "ScaleFactor": 0.0,
+  "PosY": 0.0,
+  "Sort": 5,
+  "MappingID": 0
+ },
+ {
+  "TaskID": 150,
+  "Type": 2,
+  "Cardid": 20054,
+  "TaskRewardId": [
+   110
+  ],
+  "RewardAttr": [],
+  "HeroId": [],
+  "Profession": [],
+  "UnlockType": 1,
+  "UnlockId": 130601,
+  "UnlockId2": 0,
+  "Quality": 2,
+  "ScaleFactor": 0.0,
+  "PosY": 0.0,
+  "Sort": 14,
+  "MappingID": 0
+ },
+ {
+  "TaskID": 151,
+  "Type": 2,
+  "Cardid": 20055,
+  "TaskRewardId": [
+   110
+  ],
+  "RewardAttr": [],
+  "HeroId": [],
+  "Profession": [],
+  "UnlockType": 1,
+  "UnlockId": 140404,
+  "UnlockId2": 0,
+  "Quality": 2,
+  "ScaleFactor": 0.0,
+  "PosY": 0.0,
+  "Sort": 15,
+  "MappingID": 0
+ },
+ {
+  "TaskID": 152,
+  "Type": 2,
+  "Cardid": 20056,
+  "TaskRewardId": [
+   110
+  ],
+  "RewardAttr": [],
+  "HeroId": [],
+  "Profession": [],
+  "UnlockType": 3,
+  "UnlockId": 0,
+  "UnlockId2": 0,
+  "Quality": 2,
+  "ScaleFactor": 0.0,
+  "PosY": 0.0,
+  "Sort": 15,
+  "MappingID": 0
+ },
+ {
+  "TaskID": 153,
+  "Type": 2,
+  "Cardid": 20057,
+  "TaskRewardId": [
+   110
+  ],
+  "RewardAttr": [],
+  "HeroId": [],
+  "Profession": [],
+  "UnlockType": 3,
+  "UnlockId": 0,
+  "UnlockId2": 0,
+  "Quality": 2,
+  "ScaleFactor": 0.0,
+  "PosY": 0.0,
+  "Sort": 15,
+  "MappingID": 0
+ },
+ {
+  "TaskID": 154,
+  "Type": 2,
+  "Cardid": 20058,
+  "TaskRewardId": [
+   110
+  ],
+  "RewardAttr": [],
+  "HeroId": [],
+  "Profession": [],
+  "UnlockType": 3,
+  "UnlockId": 0,
+  "UnlockId2": 0,
+  "Quality": 2,
+  "ScaleFactor": 0.0,
+  "PosY": 0.0,
+  "Sort": 15,
+  "MappingID": 0
+ },
+ {
+  "TaskID": 155,
+  "Type": 2,
+  "Cardid": 20059,
+  "TaskRewardId": [
+   110
+  ],
+  "RewardAttr": [],
+  "HeroId": [],
+  "Profession": [],
+  "UnlockType": 1,
+  "UnlockId": 110602,
+  "UnlockId2": 0,
+  "Quality": 2,
+  "ScaleFactor": 0.0,
+  "PosY": 0.0,
+  "Sort": 2,
+  "MappingID": 0
+ },
+ {
+  "TaskID": 156,
+  "Type": 2,
+  "Cardid": 20060,
+  "TaskRewardId": [
+   110
+  ],
+  "RewardAttr": [],
+  "HeroId": [],
+  "Profession": [],
+  "UnlockType": 3,
+  "UnlockId": 0,
+  "UnlockId2": 0,
+  "Quality": 2,
+  "ScaleFactor": 0.0,
+  "PosY": 0.0,
+  "Sort": 3,
+  "MappingID": 0
+ },
+ {
+  "TaskID": 157,
+  "Type": 2,
+  "Cardid": 20061,
+  "TaskRewardId": [
+   110
+  ],
+  "RewardAttr": [],
+  "HeroId": [],
+  "Profession": [],
+  "UnlockType": 3,
+  "UnlockId": 0,
+  "UnlockId2": 0,
+  "Quality": 2,
+  "ScaleFactor": 0.0,
+  "PosY": 0.0,
+  "Sort": 1,
+  "MappingID": 0
+ },
+ {
+  "TaskID": 158,
+  "Type": 2,
+  "Cardid": 20062,
+  "TaskRewardId": [
+   110
+  ],
+  "RewardAttr": [],
+  "HeroId": [],
+  "Profession": [],
+  "UnlockType": 1,
+  "UnlockId": 420101,
+  "UnlockId2": 0,
+  "Quality": 2,
+  "ScaleFactor": 0.0,
+  "PosY": 0.0,
+  "Sort": 4,
+  "MappingID": 0
+ },
+ {
+  "TaskID": 159,
+  "Type": 2,
+  "Cardid": 20064,
+  "TaskRewardId": [
+   110
+  ],
+  "RewardAttr": [],
+  "HeroId": [],
+  "Profession": [],
+  "UnlockType": 1,
+  "UnlockId": 130603,
+  "UnlockId2": 0,
+  "Quality": 2,
+  "ScaleFactor": 0.0,
+  "PosY": 0.0,
+  "Sort": 5,
+  "MappingID": 0
+ },
+ {
+  "TaskID": 160,
+  "Type": 2,
+  "Cardid": 30001,
+  "TaskRewardId": [
+   110
+  ],
+  "RewardAttr": [],
+  "HeroId": [],
+  "Profession": [],
+  "UnlockType": 3,
+  "UnlockId": 0,
+  "UnlockId2": 0,
+  "Quality": 3,
+  "ScaleFactor": 0.0,
+  "PosY": 0.0,
+  "Sort": 8,
+  "MappingID": 0
+ },
+ {
+  "TaskID": 161,
+  "Type": 2,
+  "Cardid": 30002,
+  "TaskRewardId": [
+   110
+  ],
+  "RewardAttr": [],
+  "HeroId": [],
+  "Profession": [],
+  "UnlockType": 3,
+  "UnlockId": 0,
+  "UnlockId2": 0,
+  "Quality": 3,
+  "ScaleFactor": 0.0,
+  "PosY": 0.0,
+  "Sort": 9,
+  "MappingID": 0
+ },
+ {
+  "TaskID": 162,
+  "Type": 2,
+  "Cardid": 30003,
+  "TaskRewardId": [
+   110
+  ],
+  "RewardAttr": [],
+  "HeroId": [],
+  "Profession": [],
+  "UnlockType": 3,
+  "UnlockId": 0,
+  "UnlockId2": 0,
+  "Quality": 3,
+  "ScaleFactor": 0.0,
+  "PosY": 0.0,
+  "Sort": 10,
+  "MappingID": 0
+ },
+ {
+  "TaskID": 163,
+  "Type": 2,
+  "Cardid": 30004,
+  "TaskRewardId": [
+   110
+  ],
+  "RewardAttr": [],
+  "HeroId": [],
+  "Profession": [],
+  "UnlockType": 3,
+  "UnlockId": 0,
+  "UnlockId2": 0,
+  "Quality": 3,
+  "ScaleFactor": 0.0,
+  "PosY": 0.0,
+  "Sort": 11,
+  "MappingID": 0
+ },
+ {
+  "TaskID": 164,
+  "Type": 2,
+  "Cardid": 30005,
+  "TaskRewardId": [
+   110
+  ],
+  "RewardAttr": [],
+  "HeroId": [],
+  "Profession": [],
+  "UnlockType": 3,
+  "UnlockId": 0,
+  "UnlockId2": 0,
+  "Quality": 3,
+  "ScaleFactor": 0.0,
+  "PosY": 0.0,
+  "Sort": 12,
+  "MappingID": 0
+ },
+ {
+  "TaskID": 165,
+  "Type": 2,
+  "Cardid": 30006,
+  "TaskRewardId": [
+   110
+  ],
+  "RewardAttr": [],
+  "HeroId": [],
+  "Profession": [],
+  "UnlockType": 3,
+  "UnlockId": 0,
+  "UnlockId2": 0,
+  "Quality": 3,
+  "ScaleFactor": 0.0,
+  "PosY": 0.0,
+  "Sort": 13,
+  "MappingID": 0
+ },
+ {
+  "TaskID": 166,
+  "Type": 2,
+  "Cardid": 30007,
+  "TaskRewardId": [
+   110
+  ],
+  "RewardAttr": [],
+  "HeroId": [],
+  "Profession": [],
+  "UnlockType": 3,
+  "UnlockId": 0,
+  "UnlockId2": 0,
+  "Quality": 3,
+  "ScaleFactor": 0.0,
+  "PosY": 0.0,
+  "Sort": 6,
+  "MappingID": 0
+ },
+ {
+  "TaskID": 167,
+  "Type": 2,
+  "Cardid": 30008,
+  "TaskRewardId": [
+   110
+  ],
+  "RewardAttr": [],
+  "HeroId": [],
+  "Profession": [],
+  "UnlockType": 3,
+  "UnlockId": 0,
+  "UnlockId2": 0,
+  "Quality": 3,
+  "ScaleFactor": 0.0,
+  "PosY": 0.0,
+  "Sort": 14,
+  "MappingID": 0
+ },
+ {
+  "TaskID": 168,
+  "Type": 2,
+  "Cardid": 30009,
+  "TaskRewardId": [
+   110
+  ],
+  "RewardAttr": [],
+  "HeroId": [],
+  "Profession": [],
+  "UnlockType": 3,
+  "UnlockId": 0,
+  "UnlockId2": 0,
+  "Quality": 3,
+  "ScaleFactor": 0.0,
+  "PosY": 0.0,
+  "Sort": 2,
+  "MappingID": 0
+ },
+ {
+  "TaskID": 169,
+  "Type": 2,
+  "Cardid": 30010,
+  "TaskRewardId": [
+   110
+  ],
+  "RewardAttr": [],
+  "HeroId": [],
+  "Profession": [],
+  "UnlockType": 3,
+  "UnlockId": 0,
+  "UnlockId2": 0,
+  "Quality": 3,
+  "ScaleFactor": 0.0,
+  "PosY": 0.0,
+  "Sort": 3,
+  "MappingID": 0
+ },
+ {
+  "TaskID": 170,
+  "Type": 2,
+  "Cardid": 30011,
+  "TaskRewardId": [
+   110
+  ],
+  "RewardAttr": [],
+  "HeroId": [],
+  "Profession": [],
+  "UnlockType": 3,
+  "UnlockId": 0,
+  "UnlockId2": 0,
+  "Quality": 3,
+  "ScaleFactor": 0.0,
+  "PosY": 0.0,
+  "Sort": 1,
+  "MappingID": 0
+ },
+ {
+  "TaskID": 171,
+  "Type": 2,
+  "Cardid": 30012,
+  "TaskRewardId": [
+   110
+  ],
+  "RewardAttr": [],
+  "HeroId": [],
+  "Profession": [],
+  "UnlockType": 3,
+  "UnlockId": 0,
+  "UnlockId2": 0,
+  "Quality": 3,
+  "ScaleFactor": 0.0,
+  "PosY": 0.0,
+  "Sort": 4,
+  "MappingID": 0
+ },
+ {
+  "TaskID": 172,
+  "Type": 2,
+  "Cardid": 30014,
+  "TaskRewardId": [
+   110
+  ],
+  "RewardAttr": [],
+  "HeroId": [],
+  "Profession": [],
+  "UnlockType": 3,
+  "UnlockId": 0,
+  "UnlockId2": 0,
+  "Quality": 3,
+  "ScaleFactor": 0.0,
+  "PosY": 0.0,
+  "Sort": 5,
+  "MappingID": 0
+ },
+ {
+  "TaskID": 173,
+  "Type": 2,
+  "Cardid": 30015,
+  "TaskRewardId": [
+   110
+  ],
+  "RewardAttr": [],
+  "HeroId": [],
+  "Profession": [],
+  "UnlockType": 3,
+  "UnlockId": 0,
+  "UnlockId2": 0,
+  "Quality": 3,
+  "ScaleFactor": 0.0,
+  "PosY": 0.0,
+  "Sort": 8,
+  "MappingID": 0
+ },
+ {
+  "TaskID": 174,
+  "Type": 2,
+  "Cardid": 30017,
+  "TaskRewardId": [
+   110
+  ],
+  "RewardAttr": [],
+  "HeroId": [],
+  "Profession": [],
+  "UnlockType": 3,
+  "UnlockId": 0,
+  "UnlockId2": 0,
+  "Quality": 3,
+  "ScaleFactor": 0.0,
+  "PosY": 0.0,
+  "Sort": 10,
+  "MappingID": 0
+ },
+ {
+  "TaskID": 175,
+  "Type": 2,
+  "Cardid": 30018,
+  "TaskRewardId": [
+   110
+  ],
+  "RewardAttr": [],
+  "HeroId": [],
+  "Profession": [],
+  "UnlockType": 1,
+  "UnlockId": 430301,
+  "UnlockId2": 0,
+  "Quality": 3,
+  "ScaleFactor": 0.0,
+  "PosY": 0.0,
+  "Sort": 11,
+  "MappingID": 0
+ },
+ {
+  "TaskID": 176,
+  "Type": 2,
+  "Cardid": 30020,
+  "TaskRewardId": [
+   110
+  ],
+  "RewardAttr": [],
+  "HeroId": [],
+  "Profession": [],
+  "UnlockType": 3,
+  "UnlockId": 0,
+  "UnlockId2": 0,
+  "Quality": 3,
+  "ScaleFactor": 0.0,
+  "PosY": 0.0,
+  "Sort": 13,
+  "MappingID": 0
+ },
+ {
+  "TaskID": 177,
+  "Type": 2,
+  "Cardid": 30021,
+  "TaskRewardId": [
+   110
+  ],
+  "RewardAttr": [],
+  "HeroId": [],
+  "Profession": [],
+  "UnlockType": 3,
+  "UnlockId": 0,
+  "UnlockId2": 0,
+  "Quality": 3,
+  "ScaleFactor": 0.0,
+  "PosY": 0.0,
+  "Sort": 6,
+  "MappingID": 0
+ },
+ {
+  "TaskID": 178,
+  "Type": 2,
+  "Cardid": 30025,
+  "TaskRewardId": [
+   110
+  ],
+  "RewardAttr": [],
+  "HeroId": [],
+  "Profession": [],
+  "UnlockType": 1,
+  "UnlockId": 150501,
+  "UnlockId2": 0,
+  "Quality": 3,
+  "ScaleFactor": 0.0,
+  "PosY": 0.0,
+  "Sort": 2,
+  "MappingID": 0
+ },
+ {
+  "TaskID": 179,
+  "Type": 2,
+  "Cardid": 30026,
+  "TaskRewardId": [
+   110
+  ],
+  "RewardAttr": [],
+  "HeroId": [],
+  "Profession": [],
+  "UnlockType": 3,
+  "UnlockId": 0,
+  "UnlockId2": 0,
+  "Quality": 3,
+  "ScaleFactor": 0.0,
+  "PosY": 0.0,
+  "Sort": 3,
+  "MappingID": 0
+ },
+ {
+  "TaskID": 180,
+  "Type": 2,
+  "Cardid": 30027,
+  "TaskRewardId": [
+   110
+  ],
+  "RewardAttr": [],
+  "HeroId": [],
+  "Profession": [],
+  "UnlockType": 1,
+  "UnlockId": 140501,
+  "UnlockId2": 0,
+  "Quality": 3,
+  "ScaleFactor": 0.0,
+  "PosY": 0.0,
+  "Sort": 1,
+  "MappingID": 0
+ },
+ {
+  "TaskID": 181,
+  "Type": 2,
+  "Cardid": 30028,
+  "TaskRewardId": [
+   110
+  ],
+  "RewardAttr": [],
+  "HeroId": [],
+  "Profession": [],
+  "UnlockType": 3,
+  "UnlockId": 0,
+  "UnlockId2": 0,
+  "Quality": 3,
+  "ScaleFactor": 0.0,
+  "PosY": 0.0,
+  "Sort": 4,
+  "MappingID": 0
+ },
+ {
+  "TaskID": 182,
+  "Type": 2,
+  "Cardid": 30029,
+  "TaskRewardId": [
+   110
+  ],
+  "RewardAttr": [],
+  "HeroId": [],
+  "Profession": [],
+  "UnlockType": 3,
+  "UnlockId": 0,
+  "UnlockId2": 0,
+  "Quality": 3,
+  "ScaleFactor": 0.0,
+  "PosY": 0.0,
+  "Sort": 6,
+  "MappingID": 0
+ },
+ {
+  "TaskID": 183,
+  "Type": 2,
+  "Cardid": 30030,
+  "TaskRewardId": [
+   110
+  ],
+  "RewardAttr": [],
+  "HeroId": [],
+  "Profession": [],
+  "UnlockType": 3,
+  "UnlockId": 0,
+  "UnlockId2": 0,
+  "Quality": 3,
+  "ScaleFactor": 0.0,
+  "PosY": 0.0,
+  "Sort": 5,
+  "MappingID": 0
+ },
+ {
+  "TaskID": 184,
+  "Type": 2,
+  "Cardid": 30031,
+  "TaskRewardId": [
+   110
+  ],
+  "RewardAttr": [],
+  "HeroId": [],
+  "Profession": [],
+  "UnlockType": 3,
+  "UnlockId": 0,
+  "UnlockId2": 0,
+  "Quality": 3,
+  "ScaleFactor": 0.0,
+  "PosY": 0.0,
+  "Sort": 15,
+  "MappingID": 0
+ },
+ {
+  "TaskID": 185,
+  "Type": 3,
+  "Cardid": 501001,
+  "TaskRewardId": [],
+  "RewardAttr": [
+   100,
+   1,
+   10
+  ],
+  "HeroId": [],
+  "Profession": [],
+  "UnlockType": 0,
+  "UnlockId": 0,
+  "UnlockId2": 0,
+  "Quality": 1,
+  "ScaleFactor": 2.0,
+  "PosY": 0.0,
+  "Sort": 1,
+  "MappingID": 0
+ },
+ {
+  "TaskID": 186,
+  "Type": 3,
+  "Cardid": 501002,
+  "TaskRewardId": [],
+  "RewardAttr": [
+   102,
+   1,
+   5
+  ],
+  "HeroId": [],
+  "Profession": [],
+  "UnlockType": 0,
+  "UnlockId": 0,
+  "UnlockId2": 0,
+  "Quality": 1,
+  "ScaleFactor": 2.0,
+  "PosY": 0.0,
+  "Sort": 2,
+  "MappingID": 0
+ },
+ {
+  "TaskID": 187,
+  "Type": 3,
+  "Cardid": 501003,
+  "TaskRewardId": [],
+  "RewardAttr": [
+   4,
+   1,
+   150
+  ],
+  "HeroId": [],
+  "Profession": [],
+  "UnlockType": 0,
+  "UnlockId": 0,
+  "UnlockId2": 0,
+  "Quality": 1,
+  "ScaleFactor": 2.0,
+  "PosY": 0.0,
+  "Sort": 3,
+  "MappingID": 0
+ },
+ {
+  "TaskID": 188,
+  "Type": 3,
+  "Cardid": 502001,
+  "TaskRewardId": [],
+  "RewardAttr": [
+   100,
+   1,
+   20
+  ],
+  "HeroId": [],
+  "Profession": [],
+  "UnlockType": 0,
+  "UnlockId": 0,
+  "UnlockId2": 0,
+  "Quality": 2,
+  "ScaleFactor": 2.0,
+  "PosY": 0.0,
+  "Sort": 1,
+  "MappingID": 0
+ },
+ {
+  "TaskID": 189,
+  "Type": 3,
+  "Cardid": 502002,
+  "TaskRewardId": [],
+  "RewardAttr": [
+   102,
+   1,
+   10
+  ],
+  "HeroId": [],
+  "Profession": [],
+  "UnlockType": 0,
+  "UnlockId": 0,
+  "UnlockId2": 0,
+  "Quality": 2,
+  "ScaleFactor": 2.0,
+  "PosY": 0.0,
+  "Sort": 2,
+  "MappingID": 0
+ },
+ {
+  "TaskID": 190,
+  "Type": 3,
+  "Cardid": 502003,
+  "TaskRewardId": [],
+  "RewardAttr": [
+   4,
+   1,
+   300
+  ],
+  "HeroId": [],
+  "Profession": [],
+  "UnlockType": 0,
+  "UnlockId": 0,
+  "UnlockId2": 0,
+  "Quality": 2,
+  "ScaleFactor": 2.0,
+  "PosY": 0.0,
+  "Sort": 3,
+  "MappingID": 0
+ },
+ {
+  "TaskID": 191,
+  "Type": 3,
+  "Cardid": 503001,
+  "TaskRewardId": [],
+  "RewardAttr": [
+   100,
+   1,
+   30
+  ],
+  "HeroId": [],
+  "Profession": [],
+  "UnlockType": 0,
+  "UnlockId": 0,
+  "UnlockId2": 0,
+  "Quality": 3,
+  "ScaleFactor": 2.0,
+  "PosY": 0.0,
+  "Sort": 1,
+  "MappingID": 0
+ },
+ {
+  "TaskID": 192,
+  "Type": 3,
+  "Cardid": 503002,
+  "TaskRewardId": [],
+  "RewardAttr": [
+   102,
+   1,
+   15
+  ],
+  "HeroId": [],
+  "Profession": [],
+  "UnlockType": 0,
+  "UnlockId": 0,
+  "UnlockId2": 0,
+  "Quality": 3,
+  "ScaleFactor": 2.0,
+  "PosY": 0.0,
+  "Sort": 2,
+  "MappingID": 0
+ },
+ {
+  "TaskID": 193,
+  "Type": 3,
+  "Cardid": 503003,
+  "TaskRewardId": [],
+  "RewardAttr": [
+   4,
+   1,
+   450
+  ],
+  "HeroId": [],
+  "Profession": [],
+  "UnlockType": 0,
+  "UnlockId": 0,
+  "UnlockId2": 0,
+  "Quality": 3,
+  "ScaleFactor": 2.0,
+  "PosY": 0.0,
+  "Sort": 3,
+  "MappingID": 0
+ },
+ {
+  "TaskID": 194,
+  "Type": 3,
+  "Cardid": 504001,
+  "TaskRewardId": [],
+  "RewardAttr": [
+   100,
+   1,
+   40
+  ],
+  "HeroId": [],
+  "Profession": [],
+  "UnlockType": 0,
+  "UnlockId": 0,
+  "UnlockId2": 0,
+  "Quality": 4,
+  "ScaleFactor": 2.0,
+  "PosY": 0.0,
+  "Sort": 1,
+  "MappingID": 0
+ },
+ {
+  "TaskID": 195,
+  "Type": 3,
+  "Cardid": 504002,
+  "TaskRewardId": [],
+  "RewardAttr": [
+   102,
+   1,
+   20
+  ],
+  "HeroId": [],
+  "Profession": [],
+  "UnlockType": 0,
+  "UnlockId": 0,
+  "UnlockId2": 0,
+  "Quality": 4,
+  "ScaleFactor": 2.0,
+  "PosY": 0.0,
+  "Sort": 2,
+  "MappingID": 0
+ },
+ {
+  "TaskID": 196,
+  "Type": 3,
+  "Cardid": 504003,
+  "TaskRewardId": [],
+  "RewardAttr": [
+   4,
+   1,
+   600
+  ],
+  "HeroId": [],
+  "Profession": [],
+  "UnlockType": 0,
+  "UnlockId": 0,
+  "UnlockId2": 0,
+  "Quality": 4,
+  "ScaleFactor": 2.0,
+  "PosY": 0.0,
+  "Sort": 3,
+  "MappingID": 0
+ },
+ {
+  "TaskID": 197,
+  "Type": 3,
+  "Cardid": 505001,
+  "TaskRewardId": [],
+  "RewardAttr": [
+   213,
+   1,
+   100,
+   100,
+   1,
+   60
+  ],
+  "HeroId": [],
+  "Profession": [],
+  "UnlockType": 0,
+  "UnlockId": 0,
+  "UnlockId2": 0,
+  "Quality": 5,
+  "ScaleFactor": 2.0,
+  "PosY": 0.0,
+  "Sort": 1,
+  "MappingID": 0
+ },
+ {
+  "TaskID": 198,
+  "Type": 3,
+  "Cardid": 505002,
+  "TaskRewardId": [],
+  "RewardAttr": [
+   213,
+   1,
+   100,
+   100,
+   1,
+   60
+  ],
+  "HeroId": [],
+  "Profession": [],
+  "UnlockType": 0,
+  "UnlockId": 0,
+  "UnlockId2": 0,
+  "Quality": 5,
+  "ScaleFactor": 2.0,
+  "PosY": 0.0,
+  "Sort": 2,
+  "MappingID": 0
+ },
+ {
+  "TaskID": 199,
+  "Type": 3,
+  "Cardid": 505003,
+  "TaskRewardId": [],
+  "RewardAttr": [
+   230,
+   1,
+   100,
+   102,
+   1,
+   30
+  ],
+  "HeroId": [],
+  "Profession": [],
+  "UnlockType": 0,
+  "UnlockId": 0,
+  "UnlockId2": 0,
+  "Quality": 5,
+  "ScaleFactor": 2.0,
+  "PosY": 0.0,
+  "Sort": 3,
+  "MappingID": 0
+ },
+ {
+  "TaskID": 200,
+  "Type": 3,
+  "Cardid": 505004,
+  "TaskRewardId": [],
+  "RewardAttr": [
+   230,
+   1,
+   100,
+   102,
+   1,
+   30
+  ],
+  "HeroId": [],
+  "Profession": [],
+  "UnlockType": 0,
+  "UnlockId": 0,
+  "UnlockId2": 0,
+  "Quality": 5,
+  "ScaleFactor": 2.0,
+  "PosY": 0.0,
+  "Sort": 4,
+  "MappingID": 0
+ },
+ {
+  "TaskID": 201,
+  "Type": 3,
+  "Cardid": 505005,
+  "TaskRewardId": [],
+  "RewardAttr": [
+   212,
+   1,
+   1000,
+   102,
+   1,
+   30
+  ],
+  "HeroId": [],
+  "Profession": [],
+  "UnlockType": 0,
+  "UnlockId": 0,
+  "UnlockId2": 0,
+  "Quality": 5,
+  "ScaleFactor": 2.0,
+  "PosY": 0.0,
+  "Sort": 5,
+  "MappingID": 0
+ },
+ {
+  "TaskID": 202,
+  "Type": 3,
+  "Cardid": 505006,
+  "TaskRewardId": [],
+  "RewardAttr": [
+   212,
+   1,
+   1000,
+   4,
+   1,
+   900
+  ],
+  "HeroId": [],
+  "Profession": [],
+  "UnlockType": 0,
+  "UnlockId": 0,
+  "UnlockId2": 0,
+  "Quality": 5,
+  "ScaleFactor": 2.0,
+  "PosY": 0.0,
+  "Sort": 6,
+  "MappingID": 0
+ },
+ {
+  "TaskID": 203,
+  "Type": 3,
+  "Cardid": 505007,
+  "TaskRewardId": [],
+  "RewardAttr": [
+   214,
+   1,
+   1000,
+   4,
+   1,
+   900
+  ],
+  "HeroId": [],
+  "Profession": [],
+  "UnlockType": 0,
+  "UnlockId": 0,
+  "UnlockId2": 0,
+  "Quality": 5,
+  "ScaleFactor": 2.0,
+  "PosY": 0.0,
+  "Sort": 7,
+  "MappingID": 0
+ },
+ {
+  "TaskID": 204,
+  "Type": 3,
+  "Cardid": 505008,
+  "TaskRewardId": [],
+  "RewardAttr": [
+   214,
+   1,
+   1000,
+   4,
+   1,
+   900
+  ],
+  "HeroId": [],
+  "Profession": [],
+  "UnlockType": 0,
+  "UnlockId": 0,
+  "UnlockId2": 0,
+  "Quality": 5,
+  "ScaleFactor": 2.0,
+  "PosY": 0.0,
+  "Sort": 8,
+  "MappingID": 0
+ },
+ {
+  "TaskID": 205,
+  "Type": 3,
+  "Cardid": 506001,
+  "TaskRewardId": [],
+  "RewardAttr": [
+   213,
+   1,
+   200,
+   100,
+   1,
+   100
+  ],
+  "HeroId": [],
+  "Profession": [],
+  "UnlockType": 0,
+  "UnlockId": 0,
+  "UnlockId2": 0,
+  "Quality": 6,
+  "ScaleFactor": 2.0,
+  "PosY": 0.0,
+  "Sort": 1,
+  "MappingID": 0
+ },
+ {
+  "TaskID": 206,
+  "Type": 3,
+  "Cardid": 506002,
+  "TaskRewardId": [],
+  "RewardAttr": [
+   213,
+   1,
+   200,
+   100,
+   1,
+   100
+  ],
+  "HeroId": [],
+  "Profession": [],
+  "UnlockType": 0,
+  "UnlockId": 0,
+  "UnlockId2": 0,
+  "Quality": 6,
+  "ScaleFactor": 2.0,
+  "PosY": 0.0,
+  "Sort": 2,
+  "MappingID": 0
+ },
+ {
+  "TaskID": 207,
+  "Type": 3,
+  "Cardid": 506003,
+  "TaskRewardId": [],
+  "RewardAttr": [
+   230,
+   1,
+   200,
+   102,
+   1,
+   50
+  ],
+  "HeroId": [],
+  "Profession": [],
+  "UnlockType": 0,
+  "UnlockId": 0,
+  "UnlockId2": 0,
+  "Quality": 6,
+  "ScaleFactor": 2.0,
+  "PosY": 0.0,
+  "Sort": 3,
+  "MappingID": 0
+ },
+ {
+  "TaskID": 208,
+  "Type": 3,
+  "Cardid": 506004,
+  "TaskRewardId": [],
+  "RewardAttr": [
+   230,
+   1,
+   200,
+   102,
+   1,
+   50
+  ],
+  "HeroId": [],
+  "Profession": [],
+  "UnlockType": 0,
+  "UnlockId": 0,
+  "UnlockId2": 0,
+  "Quality": 6,
+  "ScaleFactor": 2.0,
+  "PosY": 0.0,
+  "Sort": 4,
+  "MappingID": 0
+ },
+ {
+  "TaskID": 209,
+  "Type": 3,
+  "Cardid": 506005,
+  "TaskRewardId": [],
+  "RewardAttr": [
+   212,
+   1,
+   2000,
+   102,
+   1,
+   50
+  ],
+  "HeroId": [],
+  "Profession": [],
+  "UnlockType": 0,
+  "UnlockId": 0,
+  "UnlockId2": 0,
+  "Quality": 6,
+  "ScaleFactor": 2.0,
+  "PosY": 0.0,
+  "Sort": 5,
+  "MappingID": 0
+ },
+ {
+  "TaskID": 210,
+  "Type": 3,
+  "Cardid": 506006,
+  "TaskRewardId": [],
+  "RewardAttr": [
+   212,
+   1,
+   2000,
+   4,
+   1,
+   1500
+  ],
+  "HeroId": [],
+  "Profession": [],
+  "UnlockType": 0,
+  "UnlockId": 0,
+  "UnlockId2": 0,
+  "Quality": 6,
+  "ScaleFactor": 2.0,
+  "PosY": 0.0,
+  "Sort": 6,
+  "MappingID": 0
+ },
+ {
+  "TaskID": 211,
+  "Type": 3,
+  "Cardid": 506007,
+  "TaskRewardId": [],
+  "RewardAttr": [
+   214,
+   1,
+   2000,
+   4,
+   1,
+   1500
+  ],
+  "HeroId": [],
+  "Profession": [],
+  "UnlockType": 0,
+  "UnlockId": 0,
+  "UnlockId2": 0,
+  "Quality": 6,
+  "ScaleFactor": 2.0,
+  "PosY": 0.0,
+  "Sort": 7,
+  "MappingID": 0
+ },
+ {
+  "TaskID": 212,
+  "Type": 3,
+  "Cardid": 506008,
+  "TaskRewardId": [],
+  "RewardAttr": [
+   214,
+   1,
+   2000,
+   4,
+   1,
+   1500
+  ],
+  "HeroId": [],
+  "Profession": [],
+  "UnlockType": 0,
+  "UnlockId": 0,
+  "UnlockId2": 0,
+  "Quality": 6,
+  "ScaleFactor": 2.0,
+  "PosY": 0.0,
+  "Sort": 8,
+  "MappingID": 0
+ },
+ {
+  "TaskID": 213,
+  "Type": 3,
+  "Cardid": 507001,
+  "TaskRewardId": [],
+  "RewardAttr": [
+   213,
+   1,
+   300,
+   100,
+   1,
+   200
+  ],
+  "HeroId": [],
+  "Profession": [],
+  "UnlockType": 0,
+  "UnlockId": 0,
+  "UnlockId2": 0,
+  "Quality": 7,
+  "ScaleFactor": 2.0,
+  "PosY": 0.0,
+  "Sort": 1,
+  "MappingID": 0
+ },
+ {
+  "TaskID": 214,
+  "Type": 3,
+  "Cardid": 507002,
+  "TaskRewardId": [],
+  "RewardAttr": [
+   213,
+   1,
+   300,
+   100,
+   1,
+   200
+  ],
+  "HeroId": [],
+  "Profession": [],
+  "UnlockType": 0,
+  "UnlockId": 0,
+  "UnlockId2": 0,
+  "Quality": 7,
+  "ScaleFactor": 2.0,
+  "PosY": 0.0,
+  "Sort": 2,
+  "MappingID": 0
+ },
+ {
+  "TaskID": 215,
+  "Type": 3,
+  "Cardid": 507003,
+  "TaskRewardId": [],
+  "RewardAttr": [
+   230,
+   1,
+   300,
+   102,
+   1,
+   100
+  ],
+  "HeroId": [],
+  "Profession": [],
+  "UnlockType": 0,
+  "UnlockId": 0,
+  "UnlockId2": 0,
+  "Quality": 7,
+  "ScaleFactor": 2.0,
+  "PosY": 0.0,
+  "Sort": 3,
+  "MappingID": 0
+ },
+ {
+  "TaskID": 216,
+  "Type": 3,
+  "Cardid": 507004,
+  "TaskRewardId": [],
+  "RewardAttr": [
+   230,
+   1,
+   300,
+   102,
+   1,
+   100
+  ],
+  "HeroId": [],
+  "Profession": [],
+  "UnlockType": 0,
+  "UnlockId": 0,
+  "UnlockId2": 0,
+  "Quality": 7,
+  "ScaleFactor": 2.0,
+  "PosY": 0.0,
+  "Sort": 4,
+  "MappingID": 0
+ },
+ {
+  "TaskID": 217,
+  "Type": 3,
+  "Cardid": 507005,
+  "TaskRewardId": [],
+  "RewardAttr": [
+   212,
+   1,
+   3000,
+   102,
+   1,
+   100
+  ],
+  "HeroId": [],
+  "Profession": [],
+  "UnlockType": 0,
+  "UnlockId": 0,
+  "UnlockId2": 0,
+  "Quality": 7,
+  "ScaleFactor": 2.0,
+  "PosY": 0.0,
+  "Sort": 5,
+  "MappingID": 0
+ },
+ {
+  "TaskID": 218,
+  "Type": 3,
+  "Cardid": 507006,
+  "TaskRewardId": [],
+  "RewardAttr": [
+   212,
+   1,
+   3000,
+   4,
+   1,
+   3000
+  ],
+  "HeroId": [],
+  "Profession": [],
+  "UnlockType": 0,
+  "UnlockId": 0,
+  "UnlockId2": 0,
+  "Quality": 7,
+  "ScaleFactor": 2.0,
+  "PosY": 0.0,
+  "Sort": 6,
+  "MappingID": 0
+ },
+ {
+  "TaskID": 219,
+  "Type": 3,
+  "Cardid": 507007,
+  "TaskRewardId": [],
+  "RewardAttr": [
+   214,
+   1,
+   3000,
+   4,
+   1,
+   3000
+  ],
+  "HeroId": [],
+  "Profession": [],
+  "UnlockType": 0,
+  "UnlockId": 0,
+  "UnlockId2": 0,
+  "Quality": 7,
+  "ScaleFactor": 2.0,
+  "PosY": 0.0,
+  "Sort": 7,
+  "MappingID": 0
+ },
+ {
+  "TaskID": 220,
+  "Type": 3,
+  "Cardid": 507008,
+  "TaskRewardId": [],
+  "RewardAttr": [
+   214,
+   1,
+   3000,
+   4,
+   1,
+   3000
+  ],
+  "HeroId": [],
+  "Profession": [],
+  "UnlockType": 0,
+  "UnlockId": 0,
+  "UnlockId2": 0,
+  "Quality": 7,
+  "ScaleFactor": 2.0,
+  "PosY": 0.0,
+  "Sort": 8,
+  "MappingID": 0
+ },
+ {
+  "TaskID": 221,
+  "Type": 1,
+  "Cardid": 810211,
+  "TaskRewardId": [
+   110
+  ],
+  "RewardAttr": [
+   0
+  ],
+  "HeroId": [],
+  "Profession": [
+   2
+  ],
+  "UnlockType": 0,
+  "UnlockId": 0,
+  "UnlockId2": 0,
+  "Quality": 2,
+  "ScaleFactor": 1.100000023841858,
+  "PosY": -100.0,
+  "Sort": 1,
+  "MappingID": 0
+ },
+ {
+  "TaskID": 222,
+  "Type": 1,
+  "Cardid": 820211,
+  "TaskRewardId": [
+   110
+  ],
+  "RewardAttr": [
+   0
+  ],
+  "HeroId": [],
+  "Profession": [
+   3
+  ],
+  "UnlockType": 0,
+  "UnlockId": 0,
+  "UnlockId2": 0,
+  "Quality": 2,
+  "ScaleFactor": 1.100000023841858,
+  "PosY": -100.0,
+  "Sort": 3,
+  "MappingID": 0
+ },
+ {
+  "TaskID": 223,
+  "Type": 1,
+  "Cardid": 820212,
+  "TaskRewardId": [
+   110
+  ],
+  "RewardAttr": [
+   0
+  ],
+  "HeroId": [],
+  "Profession": [
+   4
+  ],
+  "UnlockType": 0,
+  "UnlockId": 0,
+  "UnlockId2": 0,
+  "Quality": 3,
+  "ScaleFactor": 0.8999999761581421,
+  "PosY": -110.0,
+  "Sort": 1,
+  "MappingID": 0
+ },
+ {
+  "TaskID": 224,
+  "Type": 1,
+  "Cardid": 820213,
+  "TaskRewardId": [
+   110
+  ],
+  "RewardAttr": [
+   0
+  ],
+  "HeroId": [],
+  "Profession": [
+   8
+  ],
+  "UnlockType": 0,
+  "UnlockId": 0,
+  "UnlockId2": 0,
+  "Quality": 2,
+  "ScaleFactor": 1.2000000476837158,
+  "PosY": -120.0,
+  "Sort": 5,
+  "MappingID": 0
+ },
+ {
+  "TaskID": 225,
+  "Type": 1,
+  "Cardid": 830211,
+  "TaskRewardId": [
+   110
+  ],
+  "RewardAttr": [
+   0
+  ],
+  "HeroId": [],
+  "Profession": [
+   4
+  ],
+  "UnlockType": 0,
+  "UnlockId": 0,
+  "UnlockId2": 0,
+  "Quality": 2,
+  "ScaleFactor": 1.0,
+  "PosY": -80.0,
+  "Sort": 7,
+  "MappingID": 0
+ },
+ {
+  "TaskID": 226,
+  "Type": 1,
+  "Cardid": 840111,
+  "TaskRewardId": [
+   110
+  ],
+  "RewardAttr": [
+   0
+  ],
+  "HeroId": [],
+  "Profession": [
+   4
+  ],
+  "UnlockType": 0,
+  "UnlockId": 0,
+  "UnlockId2": 0,
+  "Quality": 3,
+  "ScaleFactor": 0.8500000238418579,
+  "PosY": -90.0,
+  "Sort": 4,
+  "MappingID": 0
+ },
+ {
+  "TaskID": 227,
+  "Type": 1,
+  "Cardid": 840114,
+  "TaskRewardId": [
+   110
+  ],
+  "RewardAttr": [
+   0
+  ],
+  "HeroId": [],
+  "Profession": [
+   3
+  ],
+  "UnlockType": 0,
+  "UnlockId": 0,
+  "UnlockId2": 0,
+  "Quality": 3,
+  "ScaleFactor": 0.800000011920929,
+  "PosY": -155.0,
+  "Sort": 7,
+  "MappingID": 0
+ },
+ {
+  "TaskID": 228,
+  "Type": 1,
+  "Cardid": 840113,
+  "TaskRewardId": [
+   110
+  ],
+  "RewardAttr": [
+   0
+  ],
+  "HeroId": [],
+  "Profession": [
+   2
+  ],
+  "UnlockType": 0,
+  "UnlockId": 0,
+  "UnlockId2": 0,
+  "Quality": 3,
+  "ScaleFactor": 0.8999999761581421,
+  "PosY": -115.0,
+  "Sort": 10,
+  "MappingID": 0
+ },
+ {
+  "TaskID": 229,
+  "Type": 1,
+  "Cardid": 840115,
+  "TaskRewardId": [
+   110
+  ],
+  "RewardAttr": [
+   0
+  ],
+  "HeroId": [],
+  "Profession": [
+   2
+  ],
+  "UnlockType": 0,
+  "UnlockId": 0,
+  "UnlockId2": 0,
+  "Quality": 3,
+  "ScaleFactor": 0.75,
+  "PosY": -85.0,
+  "Sort": 13,
+  "MappingID": 0
+ },
+ {
+  "TaskID": 230,
+  "Type": 1,
+  "Cardid": 910111,
+  "TaskRewardId": [
+   110
+  ],
+  "RewardAttr": [
+   0
+  ],
+  "HeroId": [],
+  "Profession": [],
+  "UnlockType": 0,
+  "UnlockId": 0,
+  "UnlockId2": 0,
+  "Quality": 1,
+  "ScaleFactor": 2.299999952316284,
+  "PosY": 1.0,
+  "Sort": 1,
+  "MappingID": 0
+ },
+ {
+  "TaskID": 231,
+  "Type": 1,
+  "Cardid": 910113,
+  "TaskRewardId": [
+   110
+  ],
+  "RewardAttr": [
+   0
+  ],
+  "HeroId": [],
+  "Profession": [],
+  "UnlockType": 0,
+  "UnlockId": 0,
+  "UnlockId2": 0,
+  "Quality": 1,
+  "ScaleFactor": 2.200000047683716,
+  "PosY": 1.0,
+  "Sort": 3,
+  "MappingID": 0
+ },
+ {
+  "TaskID": 232,
+  "Type": 1,
+  "Cardid": 910115,
+  "TaskRewardId": [
+   110
+  ],
+  "RewardAttr": [
+   0
+  ],
+  "HeroId": [],
+  "Profession": [],
+  "UnlockType": 0,
+  "UnlockId": 0,
+  "UnlockId2": 0,
+  "Quality": 1,
+  "ScaleFactor": 2.200000047683716,
+  "PosY": 1.0,
+  "Sort": 5,
+  "MappingID": 0
+ },
+ {
+  "TaskID": 233,
+  "Type": 1,
+  "Cardid": 910116,
+  "TaskRewardId": [
+   110
+  ],
+  "RewardAttr": [
+   0
+  ],
+  "HeroId": [],
+  "Profession": [],
+  "UnlockType": 0,
+  "UnlockId": 0,
+  "UnlockId2": 0,
+  "Quality": 1,
+  "ScaleFactor": 2.200000047683716,
+  "PosY": 1.0,
+  "Sort": 7,
+  "MappingID": 0
+ },
+ {
+  "TaskID": 234,
+  "Type": 1,
+  "Cardid": 910118,
+  "TaskRewardId": [
+   110
+  ],
+  "RewardAttr": [
+   0
+  ],
+  "HeroId": [],
+  "Profession": [],
+  "UnlockType": 0,
+  "UnlockId": 0,
+  "UnlockId2": 0,
+  "Quality": 1,
+  "ScaleFactor": 2.200000047683716,
+  "PosY": 1.0,
+  "Sort": 9,
+  "MappingID": 0
+ },
+ {
+  "TaskID": 235,
+  "Type": 1,
+  "Cardid": 910313,
+  "TaskRewardId": [
+   110
+  ],
+  "RewardAttr": [
+   0
+  ],
+  "HeroId": [],
+  "Profession": [],
+  "UnlockType": 0,
+  "UnlockId": 0,
+  "UnlockId2": 0,
+  "Quality": 1,
+  "ScaleFactor": 2.200000047683716,
+  "PosY": 1.0,
+  "Sort": 11,
+  "MappingID": 0
+ },
+ {
+  "TaskID": 236,
+  "Type": 1,
+  "Cardid": 910314,
+  "TaskRewardId": [
+   110
+  ],
+  "RewardAttr": [
+   0
+  ],
+  "HeroId": [],
+  "Profession": [],
+  "UnlockType": 0,
+  "UnlockId": 0,
+  "UnlockId2": 0,
+  "Quality": 1,
+  "ScaleFactor": 1.7999999523162842,
+  "PosY": -80.0,
+  "Sort": 13,
+  "MappingID": 0
+ },
+ {
+  "TaskID": 237,
+  "Type": 1,
+  "Cardid": 910318,
+  "TaskRewardId": [
+   110
+  ],
+  "RewardAttr": [
+   0
+  ],
+  "HeroId": [],
+  "Profession": [],
+  "UnlockType": 0,
+  "UnlockId": 0,
+  "UnlockId2": 0,
+  "Quality": 1,
+  "ScaleFactor": 2.0,
+  "PosY": 1.0,
+  "Sort": 15,
+  "MappingID": 0
+ },
+ {
+  "TaskID": 238,
+  "Type": 1,
+  "Cardid": 910218,
+  "TaskRewardId": [
+   110
+  ],
+  "RewardAttr": [
+   0
+  ],
+  "HeroId": [],
+  "Profession": [],
+  "UnlockType": 0,
+  "UnlockId": 0,
+  "UnlockId2": 0,
+  "Quality": 1,
+  "ScaleFactor": 2.0,
+  "PosY": 1.0,
+  "Sort": 17,
+  "MappingID": 0
+ },
+ {
+  "TaskID": 239,
+  "Type": 1,
+  "Cardid": 830212,
+  "TaskRewardId": [
+   110
+  ],
+  "RewardAttr": [
+   0
+  ],
+  "HeroId": [],
+  "Profession": [
+   2
+  ],
+  "UnlockType": 0,
+  "UnlockId": 0,
+  "UnlockId2": 0,
+  "Quality": 2,
+  "ScaleFactor": 0.8999999761581421,
+  "PosY": -125.0,
+  "Sort": 9,
+  "MappingID": 0
+ },
+ {
+  "TaskID": 240,
+  "Type": 1,
+  "Cardid": 830204,
+  "TaskRewardId": [
+   110
+  ],
+  "RewardAttr": [
+   0
+  ],
+  "HeroId": [],
+  "Profession": [
+   3
+  ],
+  "UnlockType": 0,
+  "UnlockId": 0,
+  "UnlockId2": 0,
+  "Quality": 2,
+  "ScaleFactor": 1.0,
+  "PosY": -125.0,
+  "Sort": 13,
+  "MappingID": 0
+ },
+ {
+  "TaskID": 241,
+  "Type": 1,
+  "Cardid": 820222,
+  "TaskRewardId": [
+   110
+  ],
+  "RewardAttr": [],
+  "HeroId": [],
+  "Profession": [
+   4
+  ],
+  "UnlockType": 0,
+  "UnlockId": 0,
+  "UnlockId2": 0,
+  "Quality": 3,
+  "ScaleFactor": 0.8999999761581421,
+  "PosY": -110.0,
+  "Sort": 3,
+  "MappingID": 0
+ },
+ {
+  "TaskID": 242,
+  "Type": 1,
+  "Cardid": 840121,
+  "TaskRewardId": [
+   110
+  ],
+  "RewardAttr": [],
+  "HeroId": [],
+  "Profession": [
+   2
+  ],
+  "UnlockType": 0,
+  "UnlockId": 0,
+  "UnlockId2": 0,
+  "Quality": 3,
+  "ScaleFactor": 0.8500000238418579,
+  "PosY": -90.0,
+  "Sort": 6,
+  "MappingID": 0
+ },
+ {
+  "TaskID": 243,
+  "Type": 1,
+  "Cardid": 840124,
+  "TaskRewardId": [
+   110
+  ],
+  "RewardAttr": [],
+  "HeroId": [],
+  "Profession": [
+   5
+  ],
+  "UnlockType": 0,
+  "UnlockId": 0,
+  "UnlockId2": 0,
+  "Quality": 3,
+  "ScaleFactor": 0.800000011920929,
+  "PosY": -155.0,
+  "Sort": 9,
+  "MappingID": 0
+ },
+ {
+  "TaskID": 244,
+  "Type": 1,
+  "Cardid": 840123,
+  "TaskRewardId": [
+   110
+  ],
+  "RewardAttr": [],
+  "HeroId": [],
+  "Profession": [
+   6
+  ],
+  "UnlockType": 0,
+  "UnlockId": 0,
+  "UnlockId2": 0,
+  "Quality": 3,
+  "ScaleFactor": 0.8999999761581421,
+  "PosY": -115.0,
+  "Sort": 12,
+  "MappingID": 0
+ },
+ {
+  "TaskID": 245,
+  "Type": 1,
+  "Cardid": 840126,
+  "TaskRewardId": [
+   110
+  ],
+  "RewardAttr": [],
+  "HeroId": [],
+  "Profession": [
+   8
+  ],
+  "UnlockType": 0,
+  "UnlockId": 0,
+  "UnlockId2": 0,
+  "Quality": 3,
+  "ScaleFactor": 0.800000011920929,
+  "PosY": -115.0,
+  "Sort": 17,
+  "MappingID": 0
+ },
+ {
+  "TaskID": 246,
+  "Type": 1,
+  "Cardid": 840127,
+  "TaskRewardId": [
+   110
+  ],
+  "RewardAttr": [],
+  "HeroId": [],
+  "Profession": [
+   1
+  ],
+  "UnlockType": 0,
+  "UnlockId": 0,
+  "UnlockId2": 0,
+  "Quality": 3,
+  "ScaleFactor": 0.800000011920929,
+  "PosY": -115.0,
+  "Sort": 19,
+  "MappingID": 0
+ },
+ {
+  "TaskID": 247,
+  "Type": 1,
+  "Cardid": 840125,
+  "TaskRewardId": [
+   110
+  ],
+  "RewardAttr": [],
+  "HeroId": [],
+  "Profession": [
+   3
+  ],
+  "UnlockType": 0,
+  "UnlockId": 0,
+  "UnlockId2": 0,
+  "Quality": 3,
+  "ScaleFactor": 0.75,
+  "PosY": -85.0,
+  "Sort": 15,
+  "MappingID": 0
+ },
+ {
+  "TaskID": 248,
+  "Type": 1,
+  "Cardid": 840128,
+  "TaskRewardId": [
+   110
+  ],
+  "RewardAttr": [],
+  "HeroId": [],
+  "Profession": [
+   7
+  ],
+  "UnlockType": 0,
+  "UnlockId": 0,
+  "UnlockId2": 0,
+  "Quality": 3,
+  "ScaleFactor": 0.800000011920929,
+  "PosY": -155.0,
+  "Sort": 20,
+  "MappingID": 0
+ },
+ {
+  "TaskID": 249,
+  "Type": 1,
+  "Cardid": 190101,
+  "TaskRewardId": [
+   110
+  ],
+  "RewardAttr": [],
+  "HeroId": [],
+  "Profession": [],
+  "UnlockType": 0,
+  "UnlockId": 0,
+  "UnlockId2": 0,
+  "Quality": 3,
+  "ScaleFactor": 2.5,
+  "PosY": -30.0,
+  "Sort": 21,
+  "MappingID": 0
+ },
+ {
+  "TaskID": 250,
+  "Type": 1,
+  "Cardid": 190201,
+  "TaskRewardId": [
+   110
+  ],
+  "RewardAttr": [],
+  "HeroId": [],
+  "Profession": [],
+  "UnlockType": 0,
+  "UnlockId": 0,
+  "UnlockId2": 0,
+  "Quality": 3,
+  "ScaleFactor": 1.600000023841858,
+  "PosY": -40.0,
+  "Sort": 22,
+  "MappingID": 0
+ },
+ {
+  "TaskID": 251,
+  "Type": 1,
+  "Cardid": 191101,
+  "TaskRewardId": [
+   110
+  ],
+  "RewardAttr": [],
+  "HeroId": [],
+  "Profession": [],
+  "UnlockType": 0,
+  "UnlockId": 0,
+  "UnlockId2": 0,
+  "Quality": 3,
+  "ScaleFactor": 0.5,
+  "PosY": -50.0,
+  "Sort": 23,
+  "MappingID": 0
+ },
+ {
+  "TaskID": 252,
+  "Type": 3,
+  "Cardid": 505009,
+  "TaskRewardId": [],
+  "RewardAttr": [
+   235,
+   1,
+   500,
+   100,
+   1,
+   60
+  ],
+  "HeroId": [],
+  "Profession": [],
+  "UnlockType": 0,
+  "UnlockId": 0,
+  "UnlockId2": 0,
+  "Quality": 5,
+  "ScaleFactor": 2.0,
+  "PosY": 0.0,
+  "Sort": 9,
+  "MappingID": 0
+ },
+ {
+  "TaskID": 253,
+  "Type": 3,
+  "Cardid": 506009,
+  "TaskRewardId": [],
+  "RewardAttr": [
+   235,
+   1,
+   1000,
+   100,
+   1,
+   100
+  ],
+  "HeroId": [],
+  "Profession": [],
+  "UnlockType": 0,
+  "UnlockId": 0,
+  "UnlockId2": 0,
+  "Quality": 6,
+  "ScaleFactor": 2.0,
+  "PosY": 0.0,
+  "Sort": 9,
+  "MappingID": 0
+ }
+]

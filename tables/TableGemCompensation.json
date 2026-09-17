@@ -1,0 +1,1010 @@
+[
+ {
+  "ID": 1,
+  "Geartype": 1,
+  "Gearquality": [
+   1
+  ],
+  "GearLevel": 0,
+  "Rewarditem1": 254,
+  "Rewarditemnum1": 1,
+  "Rewarditem2": 248,
+  "Rewarditemnum2": 4
+ },
+ {
+  "ID": 2,
+  "Geartype": 1,
+  "Gearquality": [
+   2
+  ],
+  "GearLevel": 0,
+  "Rewarditem1": 254,
+  "Rewarditemnum1": 2,
+  "Rewarditem2": 248,
+  "Rewarditemnum2": 3
+ },
+ {
+  "ID": 3,
+  "Geartype": 1,
+  "Gearquality": [
+   3
+  ],
+  "GearLevel": 0,
+  "Rewarditem1": 254,
+  "Rewarditemnum1": 3,
+  "Rewarditem2": 248,
+  "Rewarditemnum2": 2
+ },
+ {
+  "ID": 4,
+  "Geartype": 1,
+  "Gearquality": [
+   3
+  ],
+  "GearLevel": 1,
+  "Rewarditem1": 254,
+  "Rewarditemnum1": 4,
+  "Rewarditem2": 248,
+  "Rewarditemnum2": 1
+ },
+ {
+  "ID": 5,
+  "Geartype": 1,
+  "Gearquality": [
+   3
+  ],
+  "GearLevel": 2,
+  "Rewarditem1": 254,
+  "Rewarditemnum1": 5,
+  "Rewarditem2": 0,
+  "Rewarditemnum2": 0
+ },
+ {
+  "ID": 6,
+  "Geartype": 1,
+  "Gearquality": [
+   4
+  ],
+  "GearLevel": 0,
+  "Rewarditem1": 260,
+  "Rewarditemnum1": 1,
+  "Rewarditem2": 254,
+  "Rewarditemnum2": 4
+ },
+ {
+  "ID": 7,
+  "Geartype": 1,
+  "Gearquality": [
+   4
+  ],
+  "GearLevel": 1,
+  "Rewarditem1": 260,
+  "Rewarditemnum1": 2,
+  "Rewarditem2": 254,
+  "Rewarditemnum2": 3
+ },
+ {
+  "ID": 8,
+  "Geartype": 1,
+  "Gearquality": [
+   4
+  ],
+  "GearLevel": 2,
+  "Rewarditem1": 260,
+  "Rewarditemnum1": 3,
+  "Rewarditem2": 254,
+  "Rewarditemnum2": 2
+ },
+ {
+  "ID": 9,
+  "Geartype": 1,
+  "Gearquality": [
+   4
+  ],
+  "GearLevel": 3,
+  "Rewarditem1": 260,
+  "Rewarditemnum1": 4,
+  "Rewarditem2": 254,
+  "Rewarditemnum2": 1
+ },
+ {
+  "ID": 10,
+  "Geartype": 1,
+  "Gearquality": [
+   5
+  ],
+  "GearLevel": 0,
+  "Rewarditem1": 260,
+  "Rewarditemnum1": 5,
+  "Rewarditem2": 0,
+  "Rewarditemnum2": 0
+ },
+ {
+  "ID": 11,
+  "Geartype": 1,
+  "Gearquality": [
+   5
+  ],
+  "GearLevel": 1,
+  "Rewarditem1": 260,
+  "Rewarditemnum1": 5,
+  "Rewarditem2": 0,
+  "Rewarditemnum2": 0
+ },
+ {
+  "ID": 12,
+  "Geartype": 1,
+  "Gearquality": [
+   5
+  ],
+  "GearLevel": 2,
+  "Rewarditem1": 260,
+  "Rewarditemnum1": 5,
+  "Rewarditem2": 0,
+  "Rewarditemnum2": 0
+ },
+ {
+  "ID": 13,
+  "Geartype": 1,
+  "Gearquality": [
+   5
+  ],
+  "GearLevel": 3,
+  "Rewarditem1": 260,
+  "Rewarditemnum1": 5,
+  "Rewarditem2": 0,
+  "Rewarditemnum2": 0
+ },
+ {
+  "ID": 14,
+  "Geartype": 1,
+  "Gearquality": [
+   5
+  ],
+  "GearLevel": 4,
+  "Rewarditem1": 260,
+  "Rewarditemnum1": 5,
+  "Rewarditem2": 0,
+  "Rewarditemnum2": 0
+ },
+ {
+  "ID": 15,
+  "Geartype": 2,
+  "Gearquality": [
+   1
+  ],
+  "GearLevel": 0,
+  "Rewarditem1": 255,
+  "Rewarditemnum1": 1,
+  "Rewarditem2": 249,
+  "Rewarditemnum2": 4
+ },
+ {
+  "ID": 16,
+  "Geartype": 2,
+  "Gearquality": [
+   2
+  ],
+  "GearLevel": 0,
+  "Rewarditem1": 255,
+  "Rewarditemnum1": 2,
+  "Rewarditem2": 249,
+  "Rewarditemnum2": 3
+ },
+ {
+  "ID": 17,
+  "Geartype": 2,
+  "Gearquality": [
+   3
+  ],
+  "GearLevel": 0,
+  "Rewarditem1": 255,
+  "Rewarditemnum1": 3,
+  "Rewarditem2": 249,
+  "Rewarditemnum2": 2
+ },
+ {
+  "ID": 18,
+  "Geartype": 2,
+  "Gearquality": [
+   3
+  ],
+  "GearLevel": 1,
+  "Rewarditem1": 255,
+  "Rewarditemnum1": 4,
+  "Rewarditem2": 249,
+  "Rewarditemnum2": 1
+ },
+ {
+  "ID": 19,
+  "Geartype": 2,
+  "Gearquality": [
+   3
+  ],
+  "GearLevel": 2,
+  "Rewarditem1": 255,
+  "Rewarditemnum1": 5,
+  "Rewarditem2": 0,
+  "Rewarditemnum2": 0
+ },
+ {
+  "ID": 20,
+  "Geartype": 2,
+  "Gearquality": [
+   4
+  ],
+  "GearLevel": 0,
+  "Rewarditem1": 261,
+  "Rewarditemnum1": 1,
+  "Rewarditem2": 255,
+  "Rewarditemnum2": 4
+ },
+ {
+  "ID": 21,
+  "Geartype": 2,
+  "Gearquality": [
+   4
+  ],
+  "GearLevel": 1,
+  "Rewarditem1": 261,
+  "Rewarditemnum1": 2,
+  "Rewarditem2": 255,
+  "Rewarditemnum2": 3
+ },
+ {
+  "ID": 22,
+  "Geartype": 2,
+  "Gearquality": [
+   4
+  ],
+  "GearLevel": 2,
+  "Rewarditem1": 261,
+  "Rewarditemnum1": 3,
+  "Rewarditem2": 255,
+  "Rewarditemnum2": 2
+ },
+ {
+  "ID": 23,
+  "Geartype": 2,
+  "Gearquality": [
+   4
+  ],
+  "GearLevel": 3,
+  "Rewarditem1": 261,
+  "Rewarditemnum1": 4,
+  "Rewarditem2": 255,
+  "Rewarditemnum2": 1
+ },
+ {
+  "ID": 24,
+  "Geartype": 2,
+  "Gearquality": [
+   5
+  ],
+  "GearLevel": 0,
+  "Rewarditem1": 261,
+  "Rewarditemnum1": 5,
+  "Rewarditem2": 0,
+  "Rewarditemnum2": 0
+ },
+ {
+  "ID": 25,
+  "Geartype": 2,
+  "Gearquality": [
+   5
+  ],
+  "GearLevel": 1,
+  "Rewarditem1": 261,
+  "Rewarditemnum1": 5,
+  "Rewarditem2": 0,
+  "Rewarditemnum2": 0
+ },
+ {
+  "ID": 26,
+  "Geartype": 2,
+  "Gearquality": [
+   5
+  ],
+  "GearLevel": 2,
+  "Rewarditem1": 261,
+  "Rewarditemnum1": 5,
+  "Rewarditem2": 0,
+  "Rewarditemnum2": 0
+ },
+ {
+  "ID": 27,
+  "Geartype": 2,
+  "Gearquality": [
+   5
+  ],
+  "GearLevel": 3,
+  "Rewarditem1": 261,
+  "Rewarditemnum1": 5,
+  "Rewarditem2": 0,
+  "Rewarditemnum2": 0
+ },
+ {
+  "ID": 28,
+  "Geartype": 2,
+  "Gearquality": [
+   5
+  ],
+  "GearLevel": 4,
+  "Rewarditem1": 261,
+  "Rewarditemnum1": 5,
+  "Rewarditem2": 0,
+  "Rewarditemnum2": 0
+ },
+ {
+  "ID": 29,
+  "Geartype": 3,
+  "Gearquality": [
+   1
+  ],
+  "GearLevel": 0,
+  "Rewarditem1": 256,
+  "Rewarditemnum1": 1,
+  "Rewarditem2": 250,
+  "Rewarditemnum2": 4
+ },
+ {
+  "ID": 30,
+  "Geartype": 3,
+  "Gearquality": [
+   2
+  ],
+  "GearLevel": 0,
+  "Rewarditem1": 256,
+  "Rewarditemnum1": 2,
+  "Rewarditem2": 250,
+  "Rewarditemnum2": 3
+ },
+ {
+  "ID": 31,
+  "Geartype": 3,
+  "Gearquality": [
+   3
+  ],
+  "GearLevel": 0,
+  "Rewarditem1": 256,
+  "Rewarditemnum1": 3,
+  "Rewarditem2": 250,
+  "Rewarditemnum2": 2
+ },
+ {
+  "ID": 32,
+  "Geartype": 3,
+  "Gearquality": [
+   3
+  ],
+  "GearLevel": 1,
+  "Rewarditem1": 256,
+  "Rewarditemnum1": 4,
+  "Rewarditem2": 250,
+  "Rewarditemnum2": 1
+ },
+ {
+  "ID": 33,
+  "Geartype": 3,
+  "Gearquality": [
+   3
+  ],
+  "GearLevel": 2,
+  "Rewarditem1": 256,
+  "Rewarditemnum1": 5,
+  "Rewarditem2": 0,
+  "Rewarditemnum2": 0
+ },
+ {
+  "ID": 34,
+  "Geartype": 3,
+  "Gearquality": [
+   4
+  ],
+  "GearLevel": 0,
+  "Rewarditem1": 262,
+  "Rewarditemnum1": 1,
+  "Rewarditem2": 256,
+  "Rewarditemnum2": 4
+ },
+ {
+  "ID": 35,
+  "Geartype": 3,
+  "Gearquality": [
+   4
+  ],
+  "GearLevel": 1,
+  "Rewarditem1": 262,
+  "Rewarditemnum1": 2,
+  "Rewarditem2": 256,
+  "Rewarditemnum2": 3
+ },
+ {
+  "ID": 36,
+  "Geartype": 3,
+  "Gearquality": [
+   4
+  ],
+  "GearLevel": 2,
+  "Rewarditem1": 262,
+  "Rewarditemnum1": 3,
+  "Rewarditem2": 256,
+  "Rewarditemnum2": 2
+ },
+ {
+  "ID": 37,
+  "Geartype": 3,
+  "Gearquality": [
+   4
+  ],
+  "GearLevel": 3,
+  "Rewarditem1": 262,
+  "Rewarditemnum1": 4,
+  "Rewarditem2": 256,
+  "Rewarditemnum2": 1
+ },
+ {
+  "ID": 38,
+  "Geartype": 3,
+  "Gearquality": [
+   5
+  ],
+  "GearLevel": 0,
+  "Rewarditem1": 262,
+  "Rewarditemnum1": 5,
+  "Rewarditem2": 0,
+  "Rewarditemnum2": 0
+ },
+ {
+  "ID": 39,
+  "Geartype": 3,
+  "Gearquality": [
+   5
+  ],
+  "GearLevel": 1,
+  "Rewarditem1": 262,
+  "Rewarditemnum1": 5,
+  "Rewarditem2": 0,
+  "Rewarditemnum2": 0
+ },
+ {
+  "ID": 40,
+  "Geartype": 3,
+  "Gearquality": [
+   5
+  ],
+  "GearLevel": 2,
+  "Rewarditem1": 262,
+  "Rewarditemnum1": 5,
+  "Rewarditem2": 0,
+  "Rewarditemnum2": 0
+ },
+ {
+  "ID": 41,
+  "Geartype": 3,
+  "Gearquality": [
+   5
+  ],
+  "GearLevel": 3,
+  "Rewarditem1": 262,
+  "Rewarditemnum1": 5,
+  "Rewarditem2": 0,
+  "Rewarditemnum2": 0
+ },
+ {
+  "ID": 42,
+  "Geartype": 3,
+  "Gearquality": [
+   5
+  ],
+  "GearLevel": 4,
+  "Rewarditem1": 262,
+  "Rewarditemnum1": 5,
+  "Rewarditem2": 0,
+  "Rewarditemnum2": 0
+ },
+ {
+  "ID": 43,
+  "Geartype": 4,
+  "Gearquality": [
+   1
+  ],
+  "GearLevel": 0,
+  "Rewarditem1": 257,
+  "Rewarditemnum1": 1,
+  "Rewarditem2": 251,
+  "Rewarditemnum2": 4
+ },
+ {
+  "ID": 44,
+  "Geartype": 4,
+  "Gearquality": [
+   2
+  ],
+  "GearLevel": 0,
+  "Rewarditem1": 257,
+  "Rewarditemnum1": 2,
+  "Rewarditem2": 251,
+  "Rewarditemnum2": 3
+ },
+ {
+  "ID": 45,
+  "Geartype": 4,
+  "Gearquality": [
+   3
+  ],
+  "GearLevel": 0,
+  "Rewarditem1": 257,
+  "Rewarditemnum1": 3,
+  "Rewarditem2": 251,
+  "Rewarditemnum2": 2
+ },
+ {
+  "ID": 46,
+  "Geartype": 4,
+  "Gearquality": [
+   3
+  ],
+  "GearLevel": 1,
+  "Rewarditem1": 257,
+  "Rewarditemnum1": 4,
+  "Rewarditem2": 251,
+  "Rewarditemnum2": 1
+ },
+ {
+  "ID": 47,
+  "Geartype": 4,
+  "Gearquality": [
+   3
+  ],
+  "GearLevel": 2,
+  "Rewarditem1": 257,
+  "Rewarditemnum1": 5,
+  "Rewarditem2": 0,
+  "Rewarditemnum2": 0
+ },
+ {
+  "ID": 48,
+  "Geartype": 4,
+  "Gearquality": [
+   4
+  ],
+  "GearLevel": 0,
+  "Rewarditem1": 263,
+  "Rewarditemnum1": 1,
+  "Rewarditem2": 257,
+  "Rewarditemnum2": 4
+ },
+ {
+  "ID": 49,
+  "Geartype": 4,
+  "Gearquality": [
+   4
+  ],
+  "GearLevel": 1,
+  "Rewarditem1": 263,
+  "Rewarditemnum1": 2,
+  "Rewarditem2": 257,
+  "Rewarditemnum2": 3
+ },
+ {
+  "ID": 50,
+  "Geartype": 4,
+  "Gearquality": [
+   4
+  ],
+  "GearLevel": 2,
+  "Rewarditem1": 263,
+  "Rewarditemnum1": 3,
+  "Rewarditem2": 257,
+  "Rewarditemnum2": 2
+ },
+ {
+  "ID": 51,
+  "Geartype": 4,
+  "Gearquality": [
+   4
+  ],
+  "GearLevel": 3,
+  "Rewarditem1": 263,
+  "Rewarditemnum1": 4,
+  "Rewarditem2": 257,
+  "Rewarditemnum2": 1
+ },
+ {
+  "ID": 52,
+  "Geartype": 4,
+  "Gearquality": [
+   5
+  ],
+  "GearLevel": 0,
+  "Rewarditem1": 263,
+  "Rewarditemnum1": 5,
+  "Rewarditem2": 0,
+  "Rewarditemnum2": 0
+ },
+ {
+  "ID": 53,
+  "Geartype": 4,
+  "Gearquality": [
+   5
+  ],
+  "GearLevel": 1,
+  "Rewarditem1": 263,
+  "Rewarditemnum1": 5,
+  "Rewarditem2": 0,
+  "Rewarditemnum2": 0
+ },
+ {
+  "ID": 54,
+  "Geartype": 4,
+  "Gearquality": [
+   5
+  ],
+  "GearLevel": 2,
+  "Rewarditem1": 263,
+  "Rewarditemnum1": 5,
+  "Rewarditem2": 0,
+  "Rewarditemnum2": 0
+ },
+ {
+  "ID": 55,
+  "Geartype": 4,
+  "Gearquality": [
+   5
+  ],
+  "GearLevel": 3,
+  "Rewarditem1": 263,
+  "Rewarditemnum1": 5,
+  "Rewarditem2": 0,
+  "Rewarditemnum2": 0
+ },
+ {
+  "ID": 56,
+  "Geartype": 4,
+  "Gearquality": [
+   5
+  ],
+  "GearLevel": 4,
+  "Rewarditem1": 263,
+  "Rewarditemnum1": 5,
+  "Rewarditem2": 0,
+  "Rewarditemnum2": 0
+ },
+ {
+  "ID": 57,
+  "Geartype": 5,
+  "Gearquality": [
+   1
+  ],
+  "GearLevel": 0,
+  "Rewarditem1": 258,
+  "Rewarditemnum1": 1,
+  "Rewarditem2": 252,
+  "Rewarditemnum2": 4
+ },
+ {
+  "ID": 58,
+  "Geartype": 5,
+  "Gearquality": [
+   2
+  ],
+  "GearLevel": 0,
+  "Rewarditem1": 258,
+  "Rewarditemnum1": 2,
+  "Rewarditem2": 252,
+  "Rewarditemnum2": 3
+ },
+ {
+  "ID": 59,
+  "Geartype": 5,
+  "Gearquality": [
+   3
+  ],
+  "GearLevel": 0,
+  "Rewarditem1": 258,
+  "Rewarditemnum1": 3,
+  "Rewarditem2": 252,
+  "Rewarditemnum2": 2
+ },
+ {
+  "ID": 60,
+  "Geartype": 5,
+  "Gearquality": [
+   3
+  ],
+  "GearLevel": 1,
+  "Rewarditem1": 258,
+  "Rewarditemnum1": 4,
+  "Rewarditem2": 252,
+  "Rewarditemnum2": 1
+ },
+ {
+  "ID": 61,
+  "Geartype": 5,
+  "Gearquality": [
+   3
+  ],
+  "GearLevel": 2,
+  "Rewarditem1": 258,
+  "Rewarditemnum1": 5,
+  "Rewarditem2": 0,
+  "Rewarditemnum2": 0
+ },
+ {
+  "ID": 62,
+  "Geartype": 5,
+  "Gearquality": [
+   4
+  ],
+  "GearLevel": 0,
+  "Rewarditem1": 264,
+  "Rewarditemnum1": 1,
+  "Rewarditem2": 258,
+  "Rewarditemnum2": 4
+ },
+ {
+  "ID": 63,
+  "Geartype": 5,
+  "Gearquality": [
+   4
+  ],
+  "GearLevel": 1,
+  "Rewarditem1": 264,
+  "Rewarditemnum1": 2,
+  "Rewarditem2": 258,
+  "Rewarditemnum2": 3
+ },
+ {
+  "ID": 64,
+  "Geartype": 5,
+  "Gearquality": [
+   4
+  ],
+  "GearLevel": 2,
+  "Rewarditem1": 264,
+  "Rewarditemnum1": 3,
+  "Rewarditem2": 258,
+  "Rewarditemnum2": 2
+ },
+ {
+  "ID": 65,
+  "Geartype": 5,
+  "Gearquality": [
+   4
+  ],
+  "GearLevel": 3,
+  "Rewarditem1": 264,
+  "Rewarditemnum1": 4,
+  "Rewarditem2": 258,
+  "Rewarditemnum2": 1
+ },
+ {
+  "ID": 66,
+  "Geartype": 5,
+  "Gearquality": [
+   5
+  ],
+  "GearLevel": 0,
+  "Rewarditem1": 264,
+  "Rewarditemnum1": 5,
+  "Rewarditem2": 0,
+  "Rewarditemnum2": 0
+ },
+ {
+  "ID": 67,
+  "Geartype": 5,
+  "Gearquality": [
+   5
+  ],
+  "GearLevel": 1,
+  "Rewarditem1": 264,
+  "Rewarditemnum1": 5,
+  "Rewarditem2": 0,
+  "Rewarditemnum2": 0
+ },
+ {
+  "ID": 68,
+  "Geartype": 5,
+  "Gearquality": [
+   5
+  ],
+  "GearLevel": 2,
+  "Rewarditem1": 264,
+  "Rewarditemnum1": 5,
+  "Rewarditem2": 0,
+  "Rewarditemnum2": 0
+ },
+ {
+  "ID": 69,
+  "Geartype": 5,
+  "Gearquality": [
+   5
+  ],
+  "GearLevel": 3,
+  "Rewarditem1": 264,
+  "Rewarditemnum1": 5,
+  "Rewarditem2": 0,
+  "Rewarditemnum2": 0
+ },
+ {
+  "ID": 70,
+  "Geartype": 5,
+  "Gearquality": [
+   5
+  ],
+  "GearLevel": 4,
+  "Rewarditem1": 264,
+  "Rewarditemnum1": 5,
+  "Rewarditem2": 0,
+  "Rewarditemnum2": 0
+ },
+ {
+  "ID": 71,
+  "Geartype": 6,
+  "Gearquality": [
+   1
+  ],
+  "GearLevel": 0,
+  "Rewarditem1": 259,
+  "Rewarditemnum1": 1,
+  "Rewarditem2": 253,
+  "Rewarditemnum2": 4
+ },
+ {
+  "ID": 72,
+  "Geartype": 6,
+  "Gearquality": [
+   2
+  ],
+  "GearLevel": 0,
+  "Rewarditem1": 259,
+  "Rewarditemnum1": 2,
+  "Rewarditem2": 253,
+  "Rewarditemnum2": 3
+ },
+ {
+  "ID": 73,
+  "Geartype": 6,
+  "Gearquality": [
+   3
+  ],
+  "GearLevel": 0,
+  "Rewarditem1": 259,
+  "Rewarditemnum1": 3,
+  "Rewarditem2": 253,
+  "Rewarditemnum2": 2
+ },
+ {
+  "ID": 74,
+  "Geartype": 6,
+  "Gearquality": [
+   3
+  ],
+  "GearLevel": 1,
+  "Rewarditem1": 259,
+  "Rewarditemnum1": 4,
+  "Rewarditem2": 253,
+  "Rewarditemnum2": 1
+ },
+ {
+  "ID": 75,
+  "Geartype": 6,
+  "Gearquality": [
+   3
+  ],
+  "GearLevel": 2,
+  "Rewarditem1": 259,
+  "Rewarditemnum1": 5,
+  "Rewarditem2": 0,
+  "Rewarditemnum2": 0
+ },
+ {
+  "ID": 76,
+  "Geartype": 6,
+  "Gearquality": [
+   4
+  ],
+  "GearLevel": 0,
+  "Rewarditem1": 265,
+  "Rewarditemnum1": 1,
+  "Rewarditem2": 259,
+  "Rewarditemnum2": 4
+ },
+ {
+  "ID": 77,
+  "Geartype": 6,
+  "Gearquality": [
+   4
+  ],
+  "GearLevel": 1,
+  "Rewarditem1": 265,
+  "Rewarditemnum1": 2,
+  "Rewarditem2": 259,
+  "Rewarditemnum2": 3
+ },
+ {
+  "ID": 78,
+  "Geartype": 6,
+  "Gearquality": [
+   4
+  ],
+  "GearLevel": 2,
+  "Rewarditem1": 265,
+  "Rewarditemnum1": 3,
+  "Rewarditem2": 259,
+  "Rewarditemnum2": 2
+ },
+ {
+  "ID": 79,
+  "Geartype": 6,
+  "Gearquality": [
+   4
+  ],
+  "GearLevel": 3,
+  "Rewarditem1": 265,
+  "Rewarditemnum1": 4,
+  "Rewarditem2": 259,
+  "Rewarditemnum2": 1
+ },
+ {
+  "ID": 80,
+  "Geartype": 6,
+  "Gearquality": [
+   5
+  ],
+  "GearLevel": 0,
+  "Rewarditem1": 265,
+  "Rewarditemnum1": 5,
+  "Rewarditem2": 0,
+  "Rewarditemnum2": 0
+ },
+ {
+  "ID": 81,
+  "Geartype": 6,
+  "Gearquality": [
+   5
+  ],
+  "GearLevel": 1,
+  "Rewarditem1": 265,
+  "Rewarditemnum1": 5,
+  "Rewarditem2": 0,
+  "Rewarditemnum2": 0
+ },
+ {
+  "ID": 82,
+  "Geartype": 6,
+  "Gearquality": [
+   5
+  ],
+  "GearLevel": 2,
+  "Rewarditem1": 265,
+  "Rewarditemnum1": 5,
+  "Rewarditem2": 0,
+  "Rewarditemnum2": 0
+ },
+ {
+  "ID": 83,
+  "Geartype": 6,
+  "Gearquality": [
+   5
+  ],
+  "GearLevel": 3,
+  "Rewarditem1": 265,
+  "Rewarditemnum1": 5,
+  "Rewarditem2": 0,
+  "Rewarditemnum2": 0
+ },
+ {
+  "ID": 84,
+  "Geartype": 6,
+  "Gearquality": [
+   5
+  ],
+  "GearLevel": 4,
+  "Rewarditem1": 265,
+  "Rewarditemnum1": 5,
+  "Rewarditem2": 0,
+  "Rewarditemnum2": 0
+ }
+]

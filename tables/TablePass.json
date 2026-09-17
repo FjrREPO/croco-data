@@ -1,0 +1,7028 @@
+[
+ {
+  "id": 1001,
+  "Type": 1,
+  "Season": 1,
+  "Level": 1,
+  "Exp": 50,
+  "NormalReward": [
+   1001
+  ],
+  "AdvancedReward": [
+   1101
+  ],
+  "PremiumRewards": [
+   1202
+  ],
+  "BuyLevel": [],
+  "BuyDayLimit": 0
+ },
+ {
+  "id": 1002,
+  "Type": 1,
+  "Season": 1,
+  "Level": 2,
+  "Exp": 50,
+  "NormalReward": [
+   1002
+  ],
+  "AdvancedReward": [
+   1102
+  ],
+  "PremiumRewards": [
+   1203
+  ],
+  "BuyLevel": [],
+  "BuyDayLimit": 0
+ },
+ {
+  "id": 1003,
+  "Type": 1,
+  "Season": 1,
+  "Level": 3,
+  "Exp": 50,
+  "NormalReward": [
+   1003
+  ],
+  "AdvancedReward": [
+   1103
+  ],
+  "PremiumRewards": [
+   1204
+  ],
+  "BuyLevel": [],
+  "BuyDayLimit": 0
+ },
+ {
+  "id": 1004,
+  "Type": 1,
+  "Season": 1,
+  "Level": 4,
+  "Exp": 50,
+  "NormalReward": [
+   1004
+  ],
+  "AdvancedReward": [
+   1104
+  ],
+  "PremiumRewards": [
+   1205
+  ],
+  "BuyLevel": [],
+  "BuyDayLimit": 0
+ },
+ {
+  "id": 1005,
+  "Type": 1,
+  "Season": 1,
+  "Level": 5,
+  "Exp": 50,
+  "NormalReward": [
+   1005
+  ],
+  "AdvancedReward": [
+   1105
+  ],
+  "PremiumRewards": [
+   1206
+  ],
+  "BuyLevel": [],
+  "BuyDayLimit": 0
+ },
+ {
+  "id": 1006,
+  "Type": 1,
+  "Season": 1,
+  "Level": 6,
+  "Exp": 100,
+  "NormalReward": [
+   1006
+  ],
+  "AdvancedReward": [
+   1106
+  ],
+  "PremiumRewards": [
+   1207
+  ],
+  "BuyLevel": [],
+  "BuyDayLimit": 0
+ },
+ {
+  "id": 1007,
+  "Type": 1,
+  "Season": 1,
+  "Level": 7,
+  "Exp": 100,
+  "NormalReward": [
+   1007
+  ],
+  "AdvancedReward": [
+   1107
+  ],
+  "PremiumRewards": [
+   1208
+  ],
+  "BuyLevel": [],
+  "BuyDayLimit": 0
+ },
+ {
+  "id": 1008,
+  "Type": 1,
+  "Season": 1,
+  "Level": 8,
+  "Exp": 100,
+  "NormalReward": [
+   1008
+  ],
+  "AdvancedReward": [
+   1108
+  ],
+  "PremiumRewards": [
+   1209
+  ],
+  "BuyLevel": [],
+  "BuyDayLimit": 0
+ },
+ {
+  "id": 1009,
+  "Type": 1,
+  "Season": 1,
+  "Level": 9,
+  "Exp": 100,
+  "NormalReward": [
+   1009
+  ],
+  "AdvancedReward": [
+   1109
+  ],
+  "PremiumRewards": [
+   1210
+  ],
+  "BuyLevel": [],
+  "BuyDayLimit": 0
+ },
+ {
+  "id": 1010,
+  "Type": 1,
+  "Season": 1,
+  "Level": 10,
+  "Exp": 100,
+  "NormalReward": [
+   1010
+  ],
+  "AdvancedReward": [
+   1110
+  ],
+  "PremiumRewards": [
+   1211
+  ],
+  "BuyLevel": [],
+  "BuyDayLimit": 0
+ },
+ {
+  "id": 1011,
+  "Type": 1,
+  "Season": 1,
+  "Level": 11,
+  "Exp": 150,
+  "NormalReward": [
+   1011
+  ],
+  "AdvancedReward": [
+   1111
+  ],
+  "PremiumRewards": [
+   1212
+  ],
+  "BuyLevel": [],
+  "BuyDayLimit": 0
+ },
+ {
+  "id": 1012,
+  "Type": 1,
+  "Season": 1,
+  "Level": 12,
+  "Exp": 150,
+  "NormalReward": [
+   1012
+  ],
+  "AdvancedReward": [
+   1112
+  ],
+  "PremiumRewards": [
+   1213
+  ],
+  "BuyLevel": [],
+  "BuyDayLimit": 0
+ },
+ {
+  "id": 1013,
+  "Type": 1,
+  "Season": 1,
+  "Level": 13,
+  "Exp": 150,
+  "NormalReward": [
+   1013
+  ],
+  "AdvancedReward": [
+   1113
+  ],
+  "PremiumRewards": [
+   1214
+  ],
+  "BuyLevel": [],
+  "BuyDayLimit": 0
+ },
+ {
+  "id": 1014,
+  "Type": 1,
+  "Season": 1,
+  "Level": 14,
+  "Exp": 150,
+  "NormalReward": [
+   1014
+  ],
+  "AdvancedReward": [
+   1114
+  ],
+  "PremiumRewards": [
+   1215
+  ],
+  "BuyLevel": [],
+  "BuyDayLimit": 0
+ },
+ {
+  "id": 1015,
+  "Type": 1,
+  "Season": 1,
+  "Level": 15,
+  "Exp": 150,
+  "NormalReward": [
+   1015
+  ],
+  "AdvancedReward": [
+   1115
+  ],
+  "PremiumRewards": [
+   1216
+  ],
+  "BuyLevel": [],
+  "BuyDayLimit": 0
+ },
+ {
+  "id": 1016,
+  "Type": 1,
+  "Season": 1,
+  "Level": 16,
+  "Exp": 200,
+  "NormalReward": [
+   1016
+  ],
+  "AdvancedReward": [
+   1116
+  ],
+  "PremiumRewards": [
+   1217
+  ],
+  "BuyLevel": [],
+  "BuyDayLimit": 0
+ },
+ {
+  "id": 1017,
+  "Type": 1,
+  "Season": 1,
+  "Level": 17,
+  "Exp": 200,
+  "NormalReward": [
+   1017
+  ],
+  "AdvancedReward": [
+   1117
+  ],
+  "PremiumRewards": [
+   1218
+  ],
+  "BuyLevel": [],
+  "BuyDayLimit": 0
+ },
+ {
+  "id": 1018,
+  "Type": 1,
+  "Season": 1,
+  "Level": 18,
+  "Exp": 200,
+  "NormalReward": [
+   1018
+  ],
+  "AdvancedReward": [
+   1118
+  ],
+  "PremiumRewards": [
+   1219
+  ],
+  "BuyLevel": [],
+  "BuyDayLimit": 0
+ },
+ {
+  "id": 1019,
+  "Type": 1,
+  "Season": 1,
+  "Level": 19,
+  "Exp": 200,
+  "NormalReward": [
+   1019
+  ],
+  "AdvancedReward": [
+   1119
+  ],
+  "PremiumRewards": [
+   1220
+  ],
+  "BuyLevel": [],
+  "BuyDayLimit": 0
+ },
+ {
+  "id": 1020,
+  "Type": 1,
+  "Season": 1,
+  "Level": 20,
+  "Exp": 200,
+  "NormalReward": [
+   1020
+  ],
+  "AdvancedReward": [
+   1120
+  ],
+  "PremiumRewards": [
+   1221
+  ],
+  "BuyLevel": [],
+  "BuyDayLimit": 0
+ },
+ {
+  "id": 1021,
+  "Type": 1,
+  "Season": 1,
+  "Level": 21,
+  "Exp": 300,
+  "NormalReward": [
+   1021
+  ],
+  "AdvancedReward": [
+   1121
+  ],
+  "PremiumRewards": [
+   1222
+  ],
+  "BuyLevel": [],
+  "BuyDayLimit": 0
+ },
+ {
+  "id": 1022,
+  "Type": 1,
+  "Season": 1,
+  "Level": 22,
+  "Exp": 300,
+  "NormalReward": [
+   1022
+  ],
+  "AdvancedReward": [
+   1122
+  ],
+  "PremiumRewards": [
+   1223
+  ],
+  "BuyLevel": [],
+  "BuyDayLimit": 0
+ },
+ {
+  "id": 1023,
+  "Type": 1,
+  "Season": 1,
+  "Level": 23,
+  "Exp": 300,
+  "NormalReward": [
+   1023
+  ],
+  "AdvancedReward": [
+   1123
+  ],
+  "PremiumRewards": [
+   1224
+  ],
+  "BuyLevel": [],
+  "BuyDayLimit": 0
+ },
+ {
+  "id": 1024,
+  "Type": 1,
+  "Season": 1,
+  "Level": 24,
+  "Exp": 300,
+  "NormalReward": [
+   1024
+  ],
+  "AdvancedReward": [
+   1124
+  ],
+  "PremiumRewards": [
+   1225
+  ],
+  "BuyLevel": [],
+  "BuyDayLimit": 0
+ },
+ {
+  "id": 1025,
+  "Type": 1,
+  "Season": 1,
+  "Level": 25,
+  "Exp": 300,
+  "NormalReward": [
+   1025
+  ],
+  "AdvancedReward": [
+   1125
+  ],
+  "PremiumRewards": [
+   1226
+  ],
+  "BuyLevel": [],
+  "BuyDayLimit": 0
+ },
+ {
+  "id": 1026,
+  "Type": 1,
+  "Season": 1,
+  "Level": 26,
+  "Exp": 400,
+  "NormalReward": [
+   1026
+  ],
+  "AdvancedReward": [
+   1126
+  ],
+  "PremiumRewards": [
+   1227
+  ],
+  "BuyLevel": [],
+  "BuyDayLimit": 0
+ },
+ {
+  "id": 1027,
+  "Type": 1,
+  "Season": 1,
+  "Level": 27,
+  "Exp": 400,
+  "NormalReward": [
+   1027
+  ],
+  "AdvancedReward": [
+   1127
+  ],
+  "PremiumRewards": [
+   1228
+  ],
+  "BuyLevel": [],
+  "BuyDayLimit": 0
+ },
+ {
+  "id": 1028,
+  "Type": 1,
+  "Season": 1,
+  "Level": 28,
+  "Exp": 400,
+  "NormalReward": [
+   1028
+  ],
+  "AdvancedReward": [
+   1128
+  ],
+  "PremiumRewards": [
+   1229
+  ],
+  "BuyLevel": [],
+  "BuyDayLimit": 0
+ },
+ {
+  "id": 1029,
+  "Type": 1,
+  "Season": 1,
+  "Level": 29,
+  "Exp": 400,
+  "NormalReward": [
+   1029
+  ],
+  "AdvancedReward": [
+   1129
+  ],
+  "PremiumRewards": [
+   1230
+  ],
+  "BuyLevel": [],
+  "BuyDayLimit": 0
+ },
+ {
+  "id": 1030,
+  "Type": 1,
+  "Season": 1,
+  "Level": 30,
+  "Exp": 0,
+  "NormalReward": [
+   1030
+  ],
+  "AdvancedReward": [
+   1130
+  ],
+  "PremiumRewards": [
+   1231
+  ],
+  "BuyLevel": [],
+  "BuyDayLimit": 0
+ },
+ {
+  "id": 2001,
+  "Type": 1,
+  "Season": 2,
+  "Level": 1,
+  "Exp": 50,
+  "NormalReward": [
+   1001
+  ],
+  "AdvancedReward": [
+   1101
+  ],
+  "PremiumRewards": [
+   1202
+  ],
+  "BuyLevel": [],
+  "BuyDayLimit": 0
+ },
+ {
+  "id": 2002,
+  "Type": 1,
+  "Season": 2,
+  "Level": 2,
+  "Exp": 50,
+  "NormalReward": [
+   1002
+  ],
+  "AdvancedReward": [
+   1102
+  ],
+  "PremiumRewards": [
+   1203
+  ],
+  "BuyLevel": [],
+  "BuyDayLimit": 0
+ },
+ {
+  "id": 2003,
+  "Type": 1,
+  "Season": 2,
+  "Level": 3,
+  "Exp": 50,
+  "NormalReward": [
+   1003
+  ],
+  "AdvancedReward": [
+   1103
+  ],
+  "PremiumRewards": [
+   1204
+  ],
+  "BuyLevel": [],
+  "BuyDayLimit": 0
+ },
+ {
+  "id": 2004,
+  "Type": 1,
+  "Season": 2,
+  "Level": 4,
+  "Exp": 50,
+  "NormalReward": [
+   1004
+  ],
+  "AdvancedReward": [
+   1104
+  ],
+  "PremiumRewards": [
+   1205
+  ],
+  "BuyLevel": [],
+  "BuyDayLimit": 0
+ },
+ {
+  "id": 2005,
+  "Type": 1,
+  "Season": 2,
+  "Level": 5,
+  "Exp": 50,
+  "NormalReward": [
+   1005
+  ],
+  "AdvancedReward": [
+   1105
+  ],
+  "PremiumRewards": [
+   1206
+  ],
+  "BuyLevel": [],
+  "BuyDayLimit": 0
+ },
+ {
+  "id": 2006,
+  "Type": 1,
+  "Season": 2,
+  "Level": 6,
+  "Exp": 100,
+  "NormalReward": [
+   1006
+  ],
+  "AdvancedReward": [
+   1106
+  ],
+  "PremiumRewards": [
+   1207
+  ],
+  "BuyLevel": [],
+  "BuyDayLimit": 0
+ },
+ {
+  "id": 2007,
+  "Type": 1,
+  "Season": 2,
+  "Level": 7,
+  "Exp": 100,
+  "NormalReward": [
+   1007
+  ],
+  "AdvancedReward": [
+   1107
+  ],
+  "PremiumRewards": [
+   1208
+  ],
+  "BuyLevel": [],
+  "BuyDayLimit": 0
+ },
+ {
+  "id": 2008,
+  "Type": 1,
+  "Season": 2,
+  "Level": 8,
+  "Exp": 100,
+  "NormalReward": [
+   1008
+  ],
+  "AdvancedReward": [
+   1108
+  ],
+  "PremiumRewards": [
+   1209
+  ],
+  "BuyLevel": [],
+  "BuyDayLimit": 0
+ },
+ {
+  "id": 2009,
+  "Type": 1,
+  "Season": 2,
+  "Level": 9,
+  "Exp": 100,
+  "NormalReward": [
+   1009
+  ],
+  "AdvancedReward": [
+   1109
+  ],
+  "PremiumRewards": [
+   1210
+  ],
+  "BuyLevel": [],
+  "BuyDayLimit": 0
+ },
+ {
+  "id": 2010,
+  "Type": 1,
+  "Season": 2,
+  "Level": 10,
+  "Exp": 100,
+  "NormalReward": [
+   1010
+  ],
+  "AdvancedReward": [
+   1110
+  ],
+  "PremiumRewards": [
+   1211
+  ],
+  "BuyLevel": [],
+  "BuyDayLimit": 0
+ },
+ {
+  "id": 2011,
+  "Type": 1,
+  "Season": 2,
+  "Level": 11,
+  "Exp": 150,
+  "NormalReward": [
+   1011
+  ],
+  "AdvancedReward": [
+   1111
+  ],
+  "PremiumRewards": [
+   1212
+  ],
+  "BuyLevel": [],
+  "BuyDayLimit": 0
+ },
+ {
+  "id": 2012,
+  "Type": 1,
+  "Season": 2,
+  "Level": 12,
+  "Exp": 150,
+  "NormalReward": [
+   1012
+  ],
+  "AdvancedReward": [
+   1112
+  ],
+  "PremiumRewards": [
+   1213
+  ],
+  "BuyLevel": [],
+  "BuyDayLimit": 0
+ },
+ {
+  "id": 2013,
+  "Type": 1,
+  "Season": 2,
+  "Level": 13,
+  "Exp": 150,
+  "NormalReward": [
+   1013
+  ],
+  "AdvancedReward": [
+   1113
+  ],
+  "PremiumRewards": [
+   1214
+  ],
+  "BuyLevel": [],
+  "BuyDayLimit": 0
+ },
+ {
+  "id": 2014,
+  "Type": 1,
+  "Season": 2,
+  "Level": 14,
+  "Exp": 150,
+  "NormalReward": [
+   1014
+  ],
+  "AdvancedReward": [
+   1114
+  ],
+  "PremiumRewards": [
+   1215
+  ],
+  "BuyLevel": [],
+  "BuyDayLimit": 0
+ },
+ {
+  "id": 2015,
+  "Type": 1,
+  "Season": 2,
+  "Level": 15,
+  "Exp": 150,
+  "NormalReward": [
+   1015
+  ],
+  "AdvancedReward": [
+   1115
+  ],
+  "PremiumRewards": [
+   1216
+  ],
+  "BuyLevel": [],
+  "BuyDayLimit": 0
+ },
+ {
+  "id": 2016,
+  "Type": 1,
+  "Season": 2,
+  "Level": 16,
+  "Exp": 200,
+  "NormalReward": [
+   1016
+  ],
+  "AdvancedReward": [
+   1116
+  ],
+  "PremiumRewards": [
+   1217
+  ],
+  "BuyLevel": [],
+  "BuyDayLimit": 0
+ },
+ {
+  "id": 2017,
+  "Type": 1,
+  "Season": 2,
+  "Level": 17,
+  "Exp": 200,
+  "NormalReward": [
+   1017
+  ],
+  "AdvancedReward": [
+   1117
+  ],
+  "PremiumRewards": [
+   1218
+  ],
+  "BuyLevel": [],
+  "BuyDayLimit": 0
+ },
+ {
+  "id": 2018,
+  "Type": 1,
+  "Season": 2,
+  "Level": 18,
+  "Exp": 200,
+  "NormalReward": [
+   1018
+  ],
+  "AdvancedReward": [
+   1118
+  ],
+  "PremiumRewards": [
+   1219
+  ],
+  "BuyLevel": [],
+  "BuyDayLimit": 0
+ },
+ {
+  "id": 2019,
+  "Type": 1,
+  "Season": 2,
+  "Level": 19,
+  "Exp": 200,
+  "NormalReward": [
+   1019
+  ],
+  "AdvancedReward": [
+   1119
+  ],
+  "PremiumRewards": [
+   1220
+  ],
+  "BuyLevel": [],
+  "BuyDayLimit": 0
+ },
+ {
+  "id": 2020,
+  "Type": 1,
+  "Season": 2,
+  "Level": 20,
+  "Exp": 200,
+  "NormalReward": [
+   1020
+  ],
+  "AdvancedReward": [
+   1120
+  ],
+  "PremiumRewards": [
+   1221
+  ],
+  "BuyLevel": [],
+  "BuyDayLimit": 0
+ },
+ {
+  "id": 2021,
+  "Type": 1,
+  "Season": 2,
+  "Level": 21,
+  "Exp": 300,
+  "NormalReward": [
+   1021
+  ],
+  "AdvancedReward": [
+   1121
+  ],
+  "PremiumRewards": [
+   1222
+  ],
+  "BuyLevel": [],
+  "BuyDayLimit": 0
+ },
+ {
+  "id": 2022,
+  "Type": 1,
+  "Season": 2,
+  "Level": 22,
+  "Exp": 300,
+  "NormalReward": [
+   1022
+  ],
+  "AdvancedReward": [
+   1122
+  ],
+  "PremiumRewards": [
+   1223
+  ],
+  "BuyLevel": [],
+  "BuyDayLimit": 0
+ },
+ {
+  "id": 2023,
+  "Type": 1,
+  "Season": 2,
+  "Level": 23,
+  "Exp": 300,
+  "NormalReward": [
+   1023
+  ],
+  "AdvancedReward": [
+   1123
+  ],
+  "PremiumRewards": [
+   1224
+  ],
+  "BuyLevel": [],
+  "BuyDayLimit": 0
+ },
+ {
+  "id": 2024,
+  "Type": 1,
+  "Season": 2,
+  "Level": 24,
+  "Exp": 300,
+  "NormalReward": [
+   1024
+  ],
+  "AdvancedReward": [
+   1124
+  ],
+  "PremiumRewards": [
+   1225
+  ],
+  "BuyLevel": [],
+  "BuyDayLimit": 0
+ },
+ {
+  "id": 2025,
+  "Type": 1,
+  "Season": 2,
+  "Level": 25,
+  "Exp": 300,
+  "NormalReward": [
+   1025
+  ],
+  "AdvancedReward": [
+   1125
+  ],
+  "PremiumRewards": [
+   1226
+  ],
+  "BuyLevel": [],
+  "BuyDayLimit": 0
+ },
+ {
+  "id": 2026,
+  "Type": 1,
+  "Season": 2,
+  "Level": 26,
+  "Exp": 400,
+  "NormalReward": [
+   1026
+  ],
+  "AdvancedReward": [
+   1126
+  ],
+  "PremiumRewards": [
+   1227
+  ],
+  "BuyLevel": [],
+  "BuyDayLimit": 0
+ },
+ {
+  "id": 2027,
+  "Type": 1,
+  "Season": 2,
+  "Level": 27,
+  "Exp": 400,
+  "NormalReward": [
+   1027
+  ],
+  "AdvancedReward": [
+   1127
+  ],
+  "PremiumRewards": [
+   1228
+  ],
+  "BuyLevel": [],
+  "BuyDayLimit": 0
+ },
+ {
+  "id": 2028,
+  "Type": 1,
+  "Season": 2,
+  "Level": 28,
+  "Exp": 400,
+  "NormalReward": [
+   1028
+  ],
+  "AdvancedReward": [
+   1128
+  ],
+  "PremiumRewards": [
+   1229
+  ],
+  "BuyLevel": [],
+  "BuyDayLimit": 0
+ },
+ {
+  "id": 2029,
+  "Type": 1,
+  "Season": 2,
+  "Level": 29,
+  "Exp": 400,
+  "NormalReward": [
+   1029
+  ],
+  "AdvancedReward": [
+   1129
+  ],
+  "PremiumRewards": [
+   1230
+  ],
+  "BuyLevel": [],
+  "BuyDayLimit": 0
+ },
+ {
+  "id": 2030,
+  "Type": 1,
+  "Season": 2,
+  "Level": 30,
+  "Exp": 0,
+  "NormalReward": [
+   1030
+  ],
+  "AdvancedReward": [
+   1130
+  ],
+  "PremiumRewards": [
+   1231
+  ],
+  "BuyLevel": [],
+  "BuyDayLimit": 0
+ },
+ {
+  "id": 3001,
+  "Type": 1,
+  "Season": 3,
+  "Level": 1,
+  "Exp": 50,
+  "NormalReward": [
+   1001
+  ],
+  "AdvancedReward": [
+   1101
+  ],
+  "PremiumRewards": [
+   1202
+  ],
+  "BuyLevel": [],
+  "BuyDayLimit": 0
+ },
+ {
+  "id": 3002,
+  "Type": 1,
+  "Season": 3,
+  "Level": 2,
+  "Exp": 50,
+  "NormalReward": [
+   1002
+  ],
+  "AdvancedReward": [
+   1102
+  ],
+  "PremiumRewards": [
+   1203
+  ],
+  "BuyLevel": [],
+  "BuyDayLimit": 0
+ },
+ {
+  "id": 3003,
+  "Type": 1,
+  "Season": 3,
+  "Level": 3,
+  "Exp": 50,
+  "NormalReward": [
+   1003
+  ],
+  "AdvancedReward": [
+   1103
+  ],
+  "PremiumRewards": [
+   1204
+  ],
+  "BuyLevel": [],
+  "BuyDayLimit": 0
+ },
+ {
+  "id": 3004,
+  "Type": 1,
+  "Season": 3,
+  "Level": 4,
+  "Exp": 50,
+  "NormalReward": [
+   1004
+  ],
+  "AdvancedReward": [
+   1104
+  ],
+  "PremiumRewards": [
+   1205
+  ],
+  "BuyLevel": [],
+  "BuyDayLimit": 0
+ },
+ {
+  "id": 3005,
+  "Type": 1,
+  "Season": 3,
+  "Level": 5,
+  "Exp": 50,
+  "NormalReward": [
+   1005
+  ],
+  "AdvancedReward": [
+   1105
+  ],
+  "PremiumRewards": [
+   1206
+  ],
+  "BuyLevel": [],
+  "BuyDayLimit": 0
+ },
+ {
+  "id": 3006,
+  "Type": 1,
+  "Season": 3,
+  "Level": 6,
+  "Exp": 100,
+  "NormalReward": [
+   1006
+  ],
+  "AdvancedReward": [
+   1106
+  ],
+  "PremiumRewards": [
+   1207
+  ],
+  "BuyLevel": [],
+  "BuyDayLimit": 0
+ },
+ {
+  "id": 3007,
+  "Type": 1,
+  "Season": 3,
+  "Level": 7,
+  "Exp": 100,
+  "NormalReward": [
+   1007
+  ],
+  "AdvancedReward": [
+   1107
+  ],
+  "PremiumRewards": [
+   1208
+  ],
+  "BuyLevel": [],
+  "BuyDayLimit": 0
+ },
+ {
+  "id": 3008,
+  "Type": 1,
+  "Season": 3,
+  "Level": 8,
+  "Exp": 100,
+  "NormalReward": [
+   1008
+  ],
+  "AdvancedReward": [
+   1108
+  ],
+  "PremiumRewards": [
+   1209
+  ],
+  "BuyLevel": [],
+  "BuyDayLimit": 0
+ },
+ {
+  "id": 3009,
+  "Type": 1,
+  "Season": 3,
+  "Level": 9,
+  "Exp": 100,
+  "NormalReward": [
+   1009
+  ],
+  "AdvancedReward": [
+   1109
+  ],
+  "PremiumRewards": [
+   1210
+  ],
+  "BuyLevel": [],
+  "BuyDayLimit": 0
+ },
+ {
+  "id": 3010,
+  "Type": 1,
+  "Season": 3,
+  "Level": 10,
+  "Exp": 100,
+  "NormalReward": [
+   1010
+  ],
+  "AdvancedReward": [
+   1110
+  ],
+  "PremiumRewards": [
+   1211
+  ],
+  "BuyLevel": [],
+  "BuyDayLimit": 0
+ },
+ {
+  "id": 3011,
+  "Type": 1,
+  "Season": 3,
+  "Level": 11,
+  "Exp": 150,
+  "NormalReward": [
+   1011
+  ],
+  "AdvancedReward": [
+   1111
+  ],
+  "PremiumRewards": [
+   1212
+  ],
+  "BuyLevel": [],
+  "BuyDayLimit": 0
+ },
+ {
+  "id": 3012,
+  "Type": 1,
+  "Season": 3,
+  "Level": 12,
+  "Exp": 150,
+  "NormalReward": [
+   1012
+  ],
+  "AdvancedReward": [
+   1112
+  ],
+  "PremiumRewards": [
+   1213
+  ],
+  "BuyLevel": [],
+  "BuyDayLimit": 0
+ },
+ {
+  "id": 3013,
+  "Type": 1,
+  "Season": 3,
+  "Level": 13,
+  "Exp": 150,
+  "NormalReward": [
+   1013
+  ],
+  "AdvancedReward": [
+   1113
+  ],
+  "PremiumRewards": [
+   1214
+  ],
+  "BuyLevel": [],
+  "BuyDayLimit": 0
+ },
+ {
+  "id": 3014,
+  "Type": 1,
+  "Season": 3,
+  "Level": 14,
+  "Exp": 150,
+  "NormalReward": [
+   1014
+  ],
+  "AdvancedReward": [
+   1114
+  ],
+  "PremiumRewards": [
+   1215
+  ],
+  "BuyLevel": [],
+  "BuyDayLimit": 0
+ },
+ {
+  "id": 3015,
+  "Type": 1,
+  "Season": 3,
+  "Level": 15,
+  "Exp": 150,
+  "NormalReward": [
+   1015
+  ],
+  "AdvancedReward": [
+   1115
+  ],
+  "PremiumRewards": [
+   1216
+  ],
+  "BuyLevel": [],
+  "BuyDayLimit": 0
+ },
+ {
+  "id": 3016,
+  "Type": 1,
+  "Season": 3,
+  "Level": 16,
+  "Exp": 200,
+  "NormalReward": [
+   1016
+  ],
+  "AdvancedReward": [
+   1116
+  ],
+  "PremiumRewards": [
+   1217
+  ],
+  "BuyLevel": [],
+  "BuyDayLimit": 0
+ },
+ {
+  "id": 3017,
+  "Type": 1,
+  "Season": 3,
+  "Level": 17,
+  "Exp": 200,
+  "NormalReward": [
+   1017
+  ],
+  "AdvancedReward": [
+   1117
+  ],
+  "PremiumRewards": [
+   1218
+  ],
+  "BuyLevel": [],
+  "BuyDayLimit": 0
+ },
+ {
+  "id": 3018,
+  "Type": 1,
+  "Season": 3,
+  "Level": 18,
+  "Exp": 200,
+  "NormalReward": [
+   1018
+  ],
+  "AdvancedReward": [
+   1118
+  ],
+  "PremiumRewards": [
+   1219
+  ],
+  "BuyLevel": [],
+  "BuyDayLimit": 0
+ },
+ {
+  "id": 3019,
+  "Type": 1,
+  "Season": 3,
+  "Level": 19,
+  "Exp": 200,
+  "NormalReward": [
+   1019
+  ],
+  "AdvancedReward": [
+   1119
+  ],
+  "PremiumRewards": [
+   1220
+  ],
+  "BuyLevel": [],
+  "BuyDayLimit": 0
+ },
+ {
+  "id": 3020,
+  "Type": 1,
+  "Season": 3,
+  "Level": 20,
+  "Exp": 200,
+  "NormalReward": [
+   1020
+  ],
+  "AdvancedReward": [
+   1120
+  ],
+  "PremiumRewards": [
+   1221
+  ],
+  "BuyLevel": [],
+  "BuyDayLimit": 0
+ },
+ {
+  "id": 3021,
+  "Type": 1,
+  "Season": 3,
+  "Level": 21,
+  "Exp": 300,
+  "NormalReward": [
+   1021
+  ],
+  "AdvancedReward": [
+   1121
+  ],
+  "PremiumRewards": [
+   1222
+  ],
+  "BuyLevel": [],
+  "BuyDayLimit": 0
+ },
+ {
+  "id": 3022,
+  "Type": 1,
+  "Season": 3,
+  "Level": 22,
+  "Exp": 300,
+  "NormalReward": [
+   1022
+  ],
+  "AdvancedReward": [
+   1122
+  ],
+  "PremiumRewards": [
+   1223
+  ],
+  "BuyLevel": [],
+  "BuyDayLimit": 0
+ },
+ {
+  "id": 3023,
+  "Type": 1,
+  "Season": 3,
+  "Level": 23,
+  "Exp": 300,
+  "NormalReward": [
+   1023
+  ],
+  "AdvancedReward": [
+   1123
+  ],
+  "PremiumRewards": [
+   1224
+  ],
+  "BuyLevel": [],
+  "BuyDayLimit": 0
+ },
+ {
+  "id": 3024,
+  "Type": 1,
+  "Season": 3,
+  "Level": 24,
+  "Exp": 300,
+  "NormalReward": [
+   1024
+  ],
+  "AdvancedReward": [
+   1124
+  ],
+  "PremiumRewards": [
+   1225
+  ],
+  "BuyLevel": [],
+  "BuyDayLimit": 0
+ },
+ {
+  "id": 3025,
+  "Type": 1,
+  "Season": 3,
+  "Level": 25,
+  "Exp": 300,
+  "NormalReward": [
+   1025
+  ],
+  "AdvancedReward": [
+   1125
+  ],
+  "PremiumRewards": [
+   1226
+  ],
+  "BuyLevel": [],
+  "BuyDayLimit": 0
+ },
+ {
+  "id": 3026,
+  "Type": 1,
+  "Season": 3,
+  "Level": 26,
+  "Exp": 400,
+  "NormalReward": [
+   1026
+  ],
+  "AdvancedReward": [
+   1126
+  ],
+  "PremiumRewards": [
+   1227
+  ],
+  "BuyLevel": [],
+  "BuyDayLimit": 0
+ },
+ {
+  "id": 3027,
+  "Type": 1,
+  "Season": 3,
+  "Level": 27,
+  "Exp": 400,
+  "NormalReward": [
+   1027
+  ],
+  "AdvancedReward": [
+   1127
+  ],
+  "PremiumRewards": [
+   1228
+  ],
+  "BuyLevel": [],
+  "BuyDayLimit": 0
+ },
+ {
+  "id": 3028,
+  "Type": 1,
+  "Season": 3,
+  "Level": 28,
+  "Exp": 400,
+  "NormalReward": [
+   1028
+  ],
+  "AdvancedReward": [
+   1128
+  ],
+  "PremiumRewards": [
+   1229
+  ],
+  "BuyLevel": [],
+  "BuyDayLimit": 0
+ },
+ {
+  "id": 3029,
+  "Type": 1,
+  "Season": 3,
+  "Level": 29,
+  "Exp": 400,
+  "NormalReward": [
+   1029
+  ],
+  "AdvancedReward": [
+   1129
+  ],
+  "PremiumRewards": [
+   1230
+  ],
+  "BuyLevel": [],
+  "BuyDayLimit": 0
+ },
+ {
+  "id": 3030,
+  "Type": 1,
+  "Season": 3,
+  "Level": 30,
+  "Exp": 0,
+  "NormalReward": [
+   1030
+  ],
+  "AdvancedReward": [
+   1130
+  ],
+  "PremiumRewards": [
+   1231
+  ],
+  "BuyLevel": [],
+  "BuyDayLimit": 0
+ },
+ {
+  "id": 4001,
+  "Type": 1,
+  "Season": 4,
+  "Level": 1,
+  "Exp": 50,
+  "NormalReward": [
+   1001
+  ],
+  "AdvancedReward": [
+   1101
+  ],
+  "PremiumRewards": [
+   1202
+  ],
+  "BuyLevel": [],
+  "BuyDayLimit": 0
+ },
+ {
+  "id": 4002,
+  "Type": 1,
+  "Season": 4,
+  "Level": 2,
+  "Exp": 50,
+  "NormalReward": [
+   1002
+  ],
+  "AdvancedReward": [
+   1102
+  ],
+  "PremiumRewards": [
+   1203
+  ],
+  "BuyLevel": [],
+  "BuyDayLimit": 0
+ },
+ {
+  "id": 4003,
+  "Type": 1,
+  "Season": 4,
+  "Level": 3,
+  "Exp": 50,
+  "NormalReward": [
+   1003
+  ],
+  "AdvancedReward": [
+   1103
+  ],
+  "PremiumRewards": [
+   1204
+  ],
+  "BuyLevel": [],
+  "BuyDayLimit": 0
+ },
+ {
+  "id": 4004,
+  "Type": 1,
+  "Season": 4,
+  "Level": 4,
+  "Exp": 50,
+  "NormalReward": [
+   1004
+  ],
+  "AdvancedReward": [
+   1104
+  ],
+  "PremiumRewards": [
+   1205
+  ],
+  "BuyLevel": [],
+  "BuyDayLimit": 0
+ },
+ {
+  "id": 4005,
+  "Type": 1,
+  "Season": 4,
+  "Level": 5,
+  "Exp": 50,
+  "NormalReward": [
+   1005
+  ],
+  "AdvancedReward": [
+   1105
+  ],
+  "PremiumRewards": [
+   1206
+  ],
+  "BuyLevel": [],
+  "BuyDayLimit": 0
+ },
+ {
+  "id": 4006,
+  "Type": 1,
+  "Season": 4,
+  "Level": 6,
+  "Exp": 100,
+  "NormalReward": [
+   1006
+  ],
+  "AdvancedReward": [
+   1106
+  ],
+  "PremiumRewards": [
+   1207
+  ],
+  "BuyLevel": [],
+  "BuyDayLimit": 0
+ },
+ {
+  "id": 4007,
+  "Type": 1,
+  "Season": 4,
+  "Level": 7,
+  "Exp": 100,
+  "NormalReward": [
+   1007
+  ],
+  "AdvancedReward": [
+   1107
+  ],
+  "PremiumRewards": [
+   1208
+  ],
+  "BuyLevel": [],
+  "BuyDayLimit": 0
+ },
+ {
+  "id": 4008,
+  "Type": 1,
+  "Season": 4,
+  "Level": 8,
+  "Exp": 100,
+  "NormalReward": [
+   1008
+  ],
+  "AdvancedReward": [
+   1108
+  ],
+  "PremiumRewards": [
+   1209
+  ],
+  "BuyLevel": [],
+  "BuyDayLimit": 0
+ },
+ {
+  "id": 4009,
+  "Type": 1,
+  "Season": 4,
+  "Level": 9,
+  "Exp": 100,
+  "NormalReward": [
+   1009
+  ],
+  "AdvancedReward": [
+   1109
+  ],
+  "PremiumRewards": [
+   1210
+  ],
+  "BuyLevel": [],
+  "BuyDayLimit": 0
+ },
+ {
+  "id": 4010,
+  "Type": 1,
+  "Season": 4,
+  "Level": 10,
+  "Exp": 100,
+  "NormalReward": [
+   1010
+  ],
+  "AdvancedReward": [
+   1110
+  ],
+  "PremiumRewards": [
+   1211
+  ],
+  "BuyLevel": [],
+  "BuyDayLimit": 0
+ },
+ {
+  "id": 4011,
+  "Type": 1,
+  "Season": 4,
+  "Level": 11,
+  "Exp": 150,
+  "NormalReward": [
+   1011
+  ],
+  "AdvancedReward": [
+   1111
+  ],
+  "PremiumRewards": [
+   1212
+  ],
+  "BuyLevel": [],
+  "BuyDayLimit": 0
+ },
+ {
+  "id": 4012,
+  "Type": 1,
+  "Season": 4,
+  "Level": 12,
+  "Exp": 150,
+  "NormalReward": [
+   1012
+  ],
+  "AdvancedReward": [
+   1112
+  ],
+  "PremiumRewards": [
+   1213
+  ],
+  "BuyLevel": [],
+  "BuyDayLimit": 0
+ },
+ {
+  "id": 4013,
+  "Type": 1,
+  "Season": 4,
+  "Level": 13,
+  "Exp": 150,
+  "NormalReward": [
+   1013
+  ],
+  "AdvancedReward": [
+   1113
+  ],
+  "PremiumRewards": [
+   1214
+  ],
+  "BuyLevel": [],
+  "BuyDayLimit": 0
+ },
+ {
+  "id": 4014,
+  "Type": 1,
+  "Season": 4,
+  "Level": 14,
+  "Exp": 150,
+  "NormalReward": [
+   1014
+  ],
+  "AdvancedReward": [
+   1114
+  ],
+  "PremiumRewards": [
+   1215
+  ],
+  "BuyLevel": [],
+  "BuyDayLimit": 0
+ },
+ {
+  "id": 4015,
+  "Type": 1,
+  "Season": 4,
+  "Level": 15,
+  "Exp": 150,
+  "NormalReward": [
+   1015
+  ],
+  "AdvancedReward": [
+   1115
+  ],
+  "PremiumRewards": [
+   1216
+  ],
+  "BuyLevel": [],
+  "BuyDayLimit": 0
+ },
+ {
+  "id": 4016,
+  "Type": 1,
+  "Season": 4,
+  "Level": 16,
+  "Exp": 200,
+  "NormalReward": [
+   1016
+  ],
+  "AdvancedReward": [
+   1116
+  ],
+  "PremiumRewards": [
+   1217
+  ],
+  "BuyLevel": [],
+  "BuyDayLimit": 0
+ },
+ {
+  "id": 4017,
+  "Type": 1,
+  "Season": 4,
+  "Level": 17,
+  "Exp": 200,
+  "NormalReward": [
+   1017
+  ],
+  "AdvancedReward": [
+   1117
+  ],
+  "PremiumRewards": [
+   1218
+  ],
+  "BuyLevel": [],
+  "BuyDayLimit": 0
+ },
+ {
+  "id": 4018,
+  "Type": 1,
+  "Season": 4,
+  "Level": 18,
+  "Exp": 200,
+  "NormalReward": [
+   1018
+  ],
+  "AdvancedReward": [
+   1118
+  ],
+  "PremiumRewards": [
+   1219
+  ],
+  "BuyLevel": [],
+  "BuyDayLimit": 0
+ },
+ {
+  "id": 4019,
+  "Type": 1,
+  "Season": 4,
+  "Level": 19,
+  "Exp": 200,
+  "NormalReward": [
+   1019
+  ],
+  "AdvancedReward": [
+   1119
+  ],
+  "PremiumRewards": [
+   1220
+  ],
+  "BuyLevel": [],
+  "BuyDayLimit": 0
+ },
+ {
+  "id": 4020,
+  "Type": 1,
+  "Season": 4,
+  "Level": 20,
+  "Exp": 200,
+  "NormalReward": [
+   1020
+  ],
+  "AdvancedReward": [
+   1120
+  ],
+  "PremiumRewards": [
+   1221
+  ],
+  "BuyLevel": [],
+  "BuyDayLimit": 0
+ },
+ {
+  "id": 4021,
+  "Type": 1,
+  "Season": 4,
+  "Level": 21,
+  "Exp": 300,
+  "NormalReward": [
+   1021
+  ],
+  "AdvancedReward": [
+   1121
+  ],
+  "PremiumRewards": [
+   1222
+  ],
+  "BuyLevel": [],
+  "BuyDayLimit": 0
+ },
+ {
+  "id": 4022,
+  "Type": 1,
+  "Season": 4,
+  "Level": 22,
+  "Exp": 300,
+  "NormalReward": [
+   1022
+  ],
+  "AdvancedReward": [
+   1122
+  ],
+  "PremiumRewards": [
+   1223
+  ],
+  "BuyLevel": [],
+  "BuyDayLimit": 0
+ },
+ {
+  "id": 4023,
+  "Type": 1,
+  "Season": 4,
+  "Level": 23,
+  "Exp": 300,
+  "NormalReward": [
+   1023
+  ],
+  "AdvancedReward": [
+   1123
+  ],
+  "PremiumRewards": [
+   1224
+  ],
+  "BuyLevel": [],
+  "BuyDayLimit": 0
+ },
+ {
+  "id": 4024,
+  "Type": 1,
+  "Season": 4,
+  "Level": 24,
+  "Exp": 300,
+  "NormalReward": [
+   1024
+  ],
+  "AdvancedReward": [
+   1124
+  ],
+  "PremiumRewards": [
+   1225
+  ],
+  "BuyLevel": [],
+  "BuyDayLimit": 0
+ },
+ {
+  "id": 4025,
+  "Type": 1,
+  "Season": 4,
+  "Level": 25,
+  "Exp": 300,
+  "NormalReward": [
+   1025
+  ],
+  "AdvancedReward": [
+   1125
+  ],
+  "PremiumRewards": [
+   1226
+  ],
+  "BuyLevel": [],
+  "BuyDayLimit": 0
+ },
+ {
+  "id": 4026,
+  "Type": 1,
+  "Season": 4,
+  "Level": 26,
+  "Exp": 400,
+  "NormalReward": [
+   1026
+  ],
+  "AdvancedReward": [
+   1126
+  ],
+  "PremiumRewards": [
+   1227
+  ],
+  "BuyLevel": [],
+  "BuyDayLimit": 0
+ },
+ {
+  "id": 4027,
+  "Type": 1,
+  "Season": 4,
+  "Level": 27,
+  "Exp": 400,
+  "NormalReward": [
+   1027
+  ],
+  "AdvancedReward": [
+   1127
+  ],
+  "PremiumRewards": [
+   1228
+  ],
+  "BuyLevel": [],
+  "BuyDayLimit": 0
+ },
+ {
+  "id": 4028,
+  "Type": 1,
+  "Season": 4,
+  "Level": 28,
+  "Exp": 400,
+  "NormalReward": [
+   1028
+  ],
+  "AdvancedReward": [
+   1128
+  ],
+  "PremiumRewards": [
+   1229
+  ],
+  "BuyLevel": [],
+  "BuyDayLimit": 0
+ },
+ {
+  "id": 4029,
+  "Type": 1,
+  "Season": 4,
+  "Level": 29,
+  "Exp": 400,
+  "NormalReward": [
+   1029
+  ],
+  "AdvancedReward": [
+   1129
+  ],
+  "PremiumRewards": [
+   1230
+  ],
+  "BuyLevel": [],
+  "BuyDayLimit": 0
+ },
+ {
+  "id": 4030,
+  "Type": 1,
+  "Season": 4,
+  "Level": 30,
+  "Exp": 0,
+  "NormalReward": [
+   1030
+  ],
+  "AdvancedReward": [
+   1130
+  ],
+  "PremiumRewards": [
+   1231
+  ],
+  "BuyLevel": [],
+  "BuyDayLimit": 0
+ },
+ {
+  "id": 5001,
+  "Type": 1,
+  "Season": 5,
+  "Level": 1,
+  "Exp": 50,
+  "NormalReward": [
+   1001
+  ],
+  "AdvancedReward": [
+   1101
+  ],
+  "PremiumRewards": [
+   1202
+  ],
+  "BuyLevel": [],
+  "BuyDayLimit": 0
+ },
+ {
+  "id": 5002,
+  "Type": 1,
+  "Season": 5,
+  "Level": 2,
+  "Exp": 50,
+  "NormalReward": [
+   1002
+  ],
+  "AdvancedReward": [
+   1102
+  ],
+  "PremiumRewards": [
+   1203
+  ],
+  "BuyLevel": [],
+  "BuyDayLimit": 0
+ },
+ {
+  "id": 5003,
+  "Type": 1,
+  "Season": 5,
+  "Level": 3,
+  "Exp": 50,
+  "NormalReward": [
+   1003
+  ],
+  "AdvancedReward": [
+   1103
+  ],
+  "PremiumRewards": [
+   1204
+  ],
+  "BuyLevel": [],
+  "BuyDayLimit": 0
+ },
+ {
+  "id": 5004,
+  "Type": 1,
+  "Season": 5,
+  "Level": 4,
+  "Exp": 50,
+  "NormalReward": [
+   1004
+  ],
+  "AdvancedReward": [
+   1104
+  ],
+  "PremiumRewards": [
+   1205
+  ],
+  "BuyLevel": [],
+  "BuyDayLimit": 0
+ },
+ {
+  "id": 5005,
+  "Type": 1,
+  "Season": 5,
+  "Level": 5,
+  "Exp": 50,
+  "NormalReward": [
+   1005
+  ],
+  "AdvancedReward": [
+   1105
+  ],
+  "PremiumRewards": [
+   1206
+  ],
+  "BuyLevel": [],
+  "BuyDayLimit": 0
+ },
+ {
+  "id": 5006,
+  "Type": 1,
+  "Season": 5,
+  "Level": 6,
+  "Exp": 100,
+  "NormalReward": [
+   1006
+  ],
+  "AdvancedReward": [
+   1106
+  ],
+  "PremiumRewards": [
+   1207
+  ],
+  "BuyLevel": [],
+  "BuyDayLimit": 0
+ },
+ {
+  "id": 5007,
+  "Type": 1,
+  "Season": 5,
+  "Level": 7,
+  "Exp": 100,
+  "NormalReward": [
+   1007
+  ],
+  "AdvancedReward": [
+   1107
+  ],
+  "PremiumRewards": [
+   1208
+  ],
+  "BuyLevel": [],
+  "BuyDayLimit": 0
+ },
+ {
+  "id": 5008,
+  "Type": 1,
+  "Season": 5,
+  "Level": 8,
+  "Exp": 100,
+  "NormalReward": [
+   1008
+  ],
+  "AdvancedReward": [
+   1108
+  ],
+  "PremiumRewards": [
+   1209
+  ],
+  "BuyLevel": [],
+  "BuyDayLimit": 0
+ },
+ {
+  "id": 5009,
+  "Type": 1,
+  "Season": 5,
+  "Level": 9,
+  "Exp": 100,
+  "NormalReward": [
+   1009
+  ],
+  "AdvancedReward": [
+   1109
+  ],
+  "PremiumRewards": [
+   1210
+  ],
+  "BuyLevel": [],
+  "BuyDayLimit": 0
+ },
+ {
+  "id": 5010,
+  "Type": 1,
+  "Season": 5,
+  "Level": 10,
+  "Exp": 100,
+  "NormalReward": [
+   1010
+  ],
+  "AdvancedReward": [
+   1110
+  ],
+  "PremiumRewards": [
+   1211
+  ],
+  "BuyLevel": [],
+  "BuyDayLimit": 0
+ },
+ {
+  "id": 5011,
+  "Type": 1,
+  "Season": 5,
+  "Level": 11,
+  "Exp": 150,
+  "NormalReward": [
+   1011
+  ],
+  "AdvancedReward": [
+   1111
+  ],
+  "PremiumRewards": [
+   1212
+  ],
+  "BuyLevel": [],
+  "BuyDayLimit": 0
+ },
+ {
+  "id": 5012,
+  "Type": 1,
+  "Season": 5,
+  "Level": 12,
+  "Exp": 150,
+  "NormalReward": [
+   1012
+  ],
+  "AdvancedReward": [
+   1112
+  ],
+  "PremiumRewards": [
+   1213
+  ],
+  "BuyLevel": [],
+  "BuyDayLimit": 0
+ },
+ {
+  "id": 5013,
+  "Type": 1,
+  "Season": 5,
+  "Level": 13,
+  "Exp": 150,
+  "NormalReward": [
+   1013
+  ],
+  "AdvancedReward": [
+   1113
+  ],
+  "PremiumRewards": [
+   1214
+  ],
+  "BuyLevel": [],
+  "BuyDayLimit": 0
+ },
+ {
+  "id": 5014,
+  "Type": 1,
+  "Season": 5,
+  "Level": 14,
+  "Exp": 150,
+  "NormalReward": [
+   1014
+  ],
+  "AdvancedReward": [
+   1114
+  ],
+  "PremiumRewards": [
+   1215
+  ],
+  "BuyLevel": [],
+  "BuyDayLimit": 0
+ },
+ {
+  "id": 5015,
+  "Type": 1,
+  "Season": 5,
+  "Level": 15,
+  "Exp": 150,
+  "NormalReward": [
+   1015
+  ],
+  "AdvancedReward": [
+   1115
+  ],
+  "PremiumRewards": [
+   1216
+  ],
+  "BuyLevel": [],
+  "BuyDayLimit": 0
+ },
+ {
+  "id": 5016,
+  "Type": 1,
+  "Season": 5,
+  "Level": 16,
+  "Exp": 200,
+  "NormalReward": [
+   1016
+  ],
+  "AdvancedReward": [
+   1116
+  ],
+  "PremiumRewards": [
+   1217
+  ],
+  "BuyLevel": [],
+  "BuyDayLimit": 0
+ },
+ {
+  "id": 5017,
+  "Type": 1,
+  "Season": 5,
+  "Level": 17,
+  "Exp": 200,
+  "NormalReward": [
+   1017
+  ],
+  "AdvancedReward": [
+   1117
+  ],
+  "PremiumRewards": [
+   1218
+  ],
+  "BuyLevel": [],
+  "BuyDayLimit": 0
+ },
+ {
+  "id": 5018,
+  "Type": 1,
+  "Season": 5,
+  "Level": 18,
+  "Exp": 200,
+  "NormalReward": [
+   1018
+  ],
+  "AdvancedReward": [
+   1118
+  ],
+  "PremiumRewards": [
+   1219
+  ],
+  "BuyLevel": [],
+  "BuyDayLimit": 0
+ },
+ {
+  "id": 5019,
+  "Type": 1,
+  "Season": 5,
+  "Level": 19,
+  "Exp": 200,
+  "NormalReward": [
+   1019
+  ],
+  "AdvancedReward": [
+   1119
+  ],
+  "PremiumRewards": [
+   1220
+  ],
+  "BuyLevel": [],
+  "BuyDayLimit": 0
+ },
+ {
+  "id": 5020,
+  "Type": 1,
+  "Season": 5,
+  "Level": 20,
+  "Exp": 200,
+  "NormalReward": [
+   1020
+  ],
+  "AdvancedReward": [
+   1120
+  ],
+  "PremiumRewards": [
+   1221
+  ],
+  "BuyLevel": [],
+  "BuyDayLimit": 0
+ },
+ {
+  "id": 5021,
+  "Type": 1,
+  "Season": 5,
+  "Level": 21,
+  "Exp": 300,
+  "NormalReward": [
+   1021
+  ],
+  "AdvancedReward": [
+   1121
+  ],
+  "PremiumRewards": [
+   1222
+  ],
+  "BuyLevel": [],
+  "BuyDayLimit": 0
+ },
+ {
+  "id": 5022,
+  "Type": 1,
+  "Season": 5,
+  "Level": 22,
+  "Exp": 300,
+  "NormalReward": [
+   1022
+  ],
+  "AdvancedReward": [
+   1122
+  ],
+  "PremiumRewards": [
+   1223
+  ],
+  "BuyLevel": [],
+  "BuyDayLimit": 0
+ },
+ {
+  "id": 5023,
+  "Type": 1,
+  "Season": 5,
+  "Level": 23,
+  "Exp": 300,
+  "NormalReward": [
+   1023
+  ],
+  "AdvancedReward": [
+   1123
+  ],
+  "PremiumRewards": [
+   1224
+  ],
+  "BuyLevel": [],
+  "BuyDayLimit": 0
+ },
+ {
+  "id": 5024,
+  "Type": 1,
+  "Season": 5,
+  "Level": 24,
+  "Exp": 300,
+  "NormalReward": [
+   1024
+  ],
+  "AdvancedReward": [
+   1124
+  ],
+  "PremiumRewards": [
+   1225
+  ],
+  "BuyLevel": [],
+  "BuyDayLimit": 0
+ },
+ {
+  "id": 5025,
+  "Type": 1,
+  "Season": 5,
+  "Level": 25,
+  "Exp": 300,
+  "NormalReward": [
+   1025
+  ],
+  "AdvancedReward": [
+   1125
+  ],
+  "PremiumRewards": [
+   1226
+  ],
+  "BuyLevel": [],
+  "BuyDayLimit": 0
+ },
+ {
+  "id": 5026,
+  "Type": 1,
+  "Season": 5,
+  "Level": 26,
+  "Exp": 400,
+  "NormalReward": [
+   1026
+  ],
+  "AdvancedReward": [
+   1126
+  ],
+  "PremiumRewards": [
+   1227
+  ],
+  "BuyLevel": [],
+  "BuyDayLimit": 0
+ },
+ {
+  "id": 5027,
+  "Type": 1,
+  "Season": 5,
+  "Level": 27,
+  "Exp": 400,
+  "NormalReward": [
+   1027
+  ],
+  "AdvancedReward": [
+   1127
+  ],
+  "PremiumRewards": [
+   1228
+  ],
+  "BuyLevel": [],
+  "BuyDayLimit": 0
+ },
+ {
+  "id": 5028,
+  "Type": 1,
+  "Season": 5,
+  "Level": 28,
+  "Exp": 400,
+  "NormalReward": [
+   1028
+  ],
+  "AdvancedReward": [
+   1128
+  ],
+  "PremiumRewards": [
+   1229
+  ],
+  "BuyLevel": [],
+  "BuyDayLimit": 0
+ },
+ {
+  "id": 5029,
+  "Type": 1,
+  "Season": 5,
+  "Level": 29,
+  "Exp": 400,
+  "NormalReward": [
+   1029
+  ],
+  "AdvancedReward": [
+   1129
+  ],
+  "PremiumRewards": [
+   1230
+  ],
+  "BuyLevel": [],
+  "BuyDayLimit": 0
+ },
+ {
+  "id": 5030,
+  "Type": 1,
+  "Season": 5,
+  "Level": 30,
+  "Exp": 0,
+  "NormalReward": [
+   1030
+  ],
+  "AdvancedReward": [
+   1130
+  ],
+  "PremiumRewards": [
+   1231
+  ],
+  "BuyLevel": [],
+  "BuyDayLimit": 0
+ },
+ {
+  "id": 6001,
+  "Type": 1,
+  "Season": 6,
+  "Level": 1,
+  "Exp": 50,
+  "NormalReward": [
+   1001
+  ],
+  "AdvancedReward": [
+   1101
+  ],
+  "PremiumRewards": [
+   1202
+  ],
+  "BuyLevel": [],
+  "BuyDayLimit": 0
+ },
+ {
+  "id": 6002,
+  "Type": 1,
+  "Season": 6,
+  "Level": 2,
+  "Exp": 50,
+  "NormalReward": [
+   1002
+  ],
+  "AdvancedReward": [
+   1102
+  ],
+  "PremiumRewards": [
+   1203
+  ],
+  "BuyLevel": [],
+  "BuyDayLimit": 0
+ },
+ {
+  "id": 6003,
+  "Type": 1,
+  "Season": 6,
+  "Level": 3,
+  "Exp": 50,
+  "NormalReward": [
+   1003
+  ],
+  "AdvancedReward": [
+   1103
+  ],
+  "PremiumRewards": [
+   1204
+  ],
+  "BuyLevel": [],
+  "BuyDayLimit": 0
+ },
+ {
+  "id": 6004,
+  "Type": 1,
+  "Season": 6,
+  "Level": 4,
+  "Exp": 50,
+  "NormalReward": [
+   1004
+  ],
+  "AdvancedReward": [
+   1104
+  ],
+  "PremiumRewards": [
+   1205
+  ],
+  "BuyLevel": [],
+  "BuyDayLimit": 0
+ },
+ {
+  "id": 6005,
+  "Type": 1,
+  "Season": 6,
+  "Level": 5,
+  "Exp": 50,
+  "NormalReward": [
+   1005
+  ],
+  "AdvancedReward": [
+   1105
+  ],
+  "PremiumRewards": [
+   1206
+  ],
+  "BuyLevel": [],
+  "BuyDayLimit": 0
+ },
+ {
+  "id": 6006,
+  "Type": 1,
+  "Season": 6,
+  "Level": 6,
+  "Exp": 100,
+  "NormalReward": [
+   1006
+  ],
+  "AdvancedReward": [
+   1106
+  ],
+  "PremiumRewards": [
+   1207
+  ],
+  "BuyLevel": [],
+  "BuyDayLimit": 0
+ },
+ {
+  "id": 6007,
+  "Type": 1,
+  "Season": 6,
+  "Level": 7,
+  "Exp": 100,
+  "NormalReward": [
+   1007
+  ],
+  "AdvancedReward": [
+   1107
+  ],
+  "PremiumRewards": [
+   1208
+  ],
+  "BuyLevel": [],
+  "BuyDayLimit": 0
+ },
+ {
+  "id": 6008,
+  "Type": 1,
+  "Season": 6,
+  "Level": 8,
+  "Exp": 100,
+  "NormalReward": [
+   1008
+  ],
+  "AdvancedReward": [
+   1108
+  ],
+  "PremiumRewards": [
+   1209
+  ],
+  "BuyLevel": [],
+  "BuyDayLimit": 0
+ },
+ {
+  "id": 6009,
+  "Type": 1,
+  "Season": 6,
+  "Level": 9,
+  "Exp": 100,
+  "NormalReward": [
+   1009
+  ],
+  "AdvancedReward": [
+   1109
+  ],
+  "PremiumRewards": [
+   1210
+  ],
+  "BuyLevel": [],
+  "BuyDayLimit": 0
+ },
+ {
+  "id": 6010,
+  "Type": 1,
+  "Season": 6,
+  "Level": 10,
+  "Exp": 100,
+  "NormalReward": [
+   1010
+  ],
+  "AdvancedReward": [
+   1110
+  ],
+  "PremiumRewards": [
+   1211
+  ],
+  "BuyLevel": [],
+  "BuyDayLimit": 0
+ },
+ {
+  "id": 6011,
+  "Type": 1,
+  "Season": 6,
+  "Level": 11,
+  "Exp": 150,
+  "NormalReward": [
+   1011
+  ],
+  "AdvancedReward": [
+   1111
+  ],
+  "PremiumRewards": [
+   1212
+  ],
+  "BuyLevel": [],
+  "BuyDayLimit": 0
+ },
+ {
+  "id": 6012,
+  "Type": 1,
+  "Season": 6,
+  "Level": 12,
+  "Exp": 150,
+  "NormalReward": [
+   1012
+  ],
+  "AdvancedReward": [
+   1112
+  ],
+  "PremiumRewards": [
+   1213
+  ],
+  "BuyLevel": [],
+  "BuyDayLimit": 0
+ },
+ {
+  "id": 6013,
+  "Type": 1,
+  "Season": 6,
+  "Level": 13,
+  "Exp": 150,
+  "NormalReward": [
+   1013
+  ],
+  "AdvancedReward": [
+   1113
+  ],
+  "PremiumRewards": [
+   1214
+  ],
+  "BuyLevel": [],
+  "BuyDayLimit": 0
+ },
+ {
+  "id": 6014,
+  "Type": 1,
+  "Season": 6,
+  "Level": 14,
+  "Exp": 150,
+  "NormalReward": [
+   1014
+  ],
+  "AdvancedReward": [
+   1114
+  ],
+  "PremiumRewards": [
+   1215
+  ],
+  "BuyLevel": [],
+  "BuyDayLimit": 0
+ },
+ {
+  "id": 6015,
+  "Type": 1,
+  "Season": 6,
+  "Level": 15,
+  "Exp": 150,
+  "NormalReward": [
+   1015
+  ],
+  "AdvancedReward": [
+   1115
+  ],
+  "PremiumRewards": [
+   1216
+  ],
+  "BuyLevel": [],
+  "BuyDayLimit": 0
+ },
+ {
+  "id": 6016,
+  "Type": 1,
+  "Season": 6,
+  "Level": 16,
+  "Exp": 200,
+  "NormalReward": [
+   1016
+  ],
+  "AdvancedReward": [
+   1116
+  ],
+  "PremiumRewards": [
+   1217
+  ],
+  "BuyLevel": [],
+  "BuyDayLimit": 0
+ },
+ {
+  "id": 6017,
+  "Type": 1,
+  "Season": 6,
+  "Level": 17,
+  "Exp": 200,
+  "NormalReward": [
+   1017
+  ],
+  "AdvancedReward": [
+   1117
+  ],
+  "PremiumRewards": [
+   1218
+  ],
+  "BuyLevel": [],
+  "BuyDayLimit": 0
+ },
+ {
+  "id": 6018,
+  "Type": 1,
+  "Season": 6,
+  "Level": 18,
+  "Exp": 200,
+  "NormalReward": [
+   1018
+  ],
+  "AdvancedReward": [
+   1118
+  ],
+  "PremiumRewards": [
+   1219
+  ],
+  "BuyLevel": [],
+  "BuyDayLimit": 0
+ },
+ {
+  "id": 6019,
+  "Type": 1,
+  "Season": 6,
+  "Level": 19,
+  "Exp": 200,
+  "NormalReward": [
+   1019
+  ],
+  "AdvancedReward": [
+   1119
+  ],
+  "PremiumRewards": [
+   1220
+  ],
+  "BuyLevel": [],
+  "BuyDayLimit": 0
+ },
+ {
+  "id": 6020,
+  "Type": 1,
+  "Season": 6,
+  "Level": 20,
+  "Exp": 200,
+  "NormalReward": [
+   1020
+  ],
+  "AdvancedReward": [
+   1120
+  ],
+  "PremiumRewards": [
+   1221
+  ],
+  "BuyLevel": [],
+  "BuyDayLimit": 0
+ },
+ {
+  "id": 6021,
+  "Type": 1,
+  "Season": 6,
+  "Level": 21,
+  "Exp": 300,
+  "NormalReward": [
+   1021
+  ],
+  "AdvancedReward": [
+   1121
+  ],
+  "PremiumRewards": [
+   1222
+  ],
+  "BuyLevel": [],
+  "BuyDayLimit": 0
+ },
+ {
+  "id": 6022,
+  "Type": 1,
+  "Season": 6,
+  "Level": 22,
+  "Exp": 300,
+  "NormalReward": [
+   1022
+  ],
+  "AdvancedReward": [
+   1122
+  ],
+  "PremiumRewards": [
+   1223
+  ],
+  "BuyLevel": [],
+  "BuyDayLimit": 0
+ },
+ {
+  "id": 6023,
+  "Type": 1,
+  "Season": 6,
+  "Level": 23,
+  "Exp": 300,
+  "NormalReward": [
+   1023
+  ],
+  "AdvancedReward": [
+   1123
+  ],
+  "PremiumRewards": [
+   1224
+  ],
+  "BuyLevel": [],
+  "BuyDayLimit": 0
+ },
+ {
+  "id": 6024,
+  "Type": 1,
+  "Season": 6,
+  "Level": 24,
+  "Exp": 300,
+  "NormalReward": [
+   1024
+  ],
+  "AdvancedReward": [
+   1124
+  ],
+  "PremiumRewards": [
+   1225
+  ],
+  "BuyLevel": [],
+  "BuyDayLimit": 0
+ },
+ {
+  "id": 6025,
+  "Type": 1,
+  "Season": 6,
+  "Level": 25,
+  "Exp": 300,
+  "NormalReward": [
+   1025
+  ],
+  "AdvancedReward": [
+   1125
+  ],
+  "PremiumRewards": [
+   1226
+  ],
+  "BuyLevel": [],
+  "BuyDayLimit": 0
+ },
+ {
+  "id": 6026,
+  "Type": 1,
+  "Season": 6,
+  "Level": 26,
+  "Exp": 400,
+  "NormalReward": [
+   1026
+  ],
+  "AdvancedReward": [
+   1126
+  ],
+  "PremiumRewards": [
+   1227
+  ],
+  "BuyLevel": [],
+  "BuyDayLimit": 0
+ },
+ {
+  "id": 6027,
+  "Type": 1,
+  "Season": 6,
+  "Level": 27,
+  "Exp": 400,
+  "NormalReward": [
+   1027
+  ],
+  "AdvancedReward": [
+   1127
+  ],
+  "PremiumRewards": [
+   1228
+  ],
+  "BuyLevel": [],
+  "BuyDayLimit": 0
+ },
+ {
+  "id": 6028,
+  "Type": 1,
+  "Season": 6,
+  "Level": 28,
+  "Exp": 400,
+  "NormalReward": [
+   1028
+  ],
+  "AdvancedReward": [
+   1128
+  ],
+  "PremiumRewards": [
+   1229
+  ],
+  "BuyLevel": [],
+  "BuyDayLimit": 0
+ },
+ {
+  "id": 6029,
+  "Type": 1,
+  "Season": 6,
+  "Level": 29,
+  "Exp": 400,
+  "NormalReward": [
+   1029
+  ],
+  "AdvancedReward": [
+   1129
+  ],
+  "PremiumRewards": [
+   1230
+  ],
+  "BuyLevel": [],
+  "BuyDayLimit": 0
+ },
+ {
+  "id": 6030,
+  "Type": 1,
+  "Season": 6,
+  "Level": 30,
+  "Exp": 0,
+  "NormalReward": [
+   1030
+  ],
+  "AdvancedReward": [
+   1130
+  ],
+  "PremiumRewards": [
+   1231
+  ],
+  "BuyLevel": [],
+  "BuyDayLimit": 0
+ },
+ {
+  "id": 7001,
+  "Type": 1,
+  "Season": 7,
+  "Level": 1,
+  "Exp": 50,
+  "NormalReward": [
+   1001
+  ],
+  "AdvancedReward": [
+   1101
+  ],
+  "PremiumRewards": [
+   1202
+  ],
+  "BuyLevel": [],
+  "BuyDayLimit": 0
+ },
+ {
+  "id": 7002,
+  "Type": 1,
+  "Season": 7,
+  "Level": 2,
+  "Exp": 50,
+  "NormalReward": [
+   1002
+  ],
+  "AdvancedReward": [
+   1102
+  ],
+  "PremiumRewards": [
+   1203
+  ],
+  "BuyLevel": [],
+  "BuyDayLimit": 0
+ },
+ {
+  "id": 7003,
+  "Type": 1,
+  "Season": 7,
+  "Level": 3,
+  "Exp": 50,
+  "NormalReward": [
+   1003
+  ],
+  "AdvancedReward": [
+   1103
+  ],
+  "PremiumRewards": [
+   1204
+  ],
+  "BuyLevel": [],
+  "BuyDayLimit": 0
+ },
+ {
+  "id": 7004,
+  "Type": 1,
+  "Season": 7,
+  "Level": 4,
+  "Exp": 50,
+  "NormalReward": [
+   1004
+  ],
+  "AdvancedReward": [
+   1104
+  ],
+  "PremiumRewards": [
+   1205
+  ],
+  "BuyLevel": [],
+  "BuyDayLimit": 0
+ },
+ {
+  "id": 7005,
+  "Type": 1,
+  "Season": 7,
+  "Level": 5,
+  "Exp": 50,
+  "NormalReward": [
+   1005
+  ],
+  "AdvancedReward": [
+   1105
+  ],
+  "PremiumRewards": [
+   1206
+  ],
+  "BuyLevel": [],
+  "BuyDayLimit": 0
+ },
+ {
+  "id": 7006,
+  "Type": 1,
+  "Season": 7,
+  "Level": 6,
+  "Exp": 100,
+  "NormalReward": [
+   1006
+  ],
+  "AdvancedReward": [
+   1106
+  ],
+  "PremiumRewards": [
+   1207
+  ],
+  "BuyLevel": [],
+  "BuyDayLimit": 0
+ },
+ {
+  "id": 7007,
+  "Type": 1,
+  "Season": 7,
+  "Level": 7,
+  "Exp": 100,
+  "NormalReward": [
+   1007
+  ],
+  "AdvancedReward": [
+   1107
+  ],
+  "PremiumRewards": [
+   1208
+  ],
+  "BuyLevel": [],
+  "BuyDayLimit": 0
+ },
+ {
+  "id": 7008,
+  "Type": 1,
+  "Season": 7,
+  "Level": 8,
+  "Exp": 100,
+  "NormalReward": [
+   1008
+  ],
+  "AdvancedReward": [
+   1108
+  ],
+  "PremiumRewards": [
+   1209
+  ],
+  "BuyLevel": [],
+  "BuyDayLimit": 0
+ },
+ {
+  "id": 7009,
+  "Type": 1,
+  "Season": 7,
+  "Level": 9,
+  "Exp": 100,
+  "NormalReward": [
+   1009
+  ],
+  "AdvancedReward": [
+   1109
+  ],
+  "PremiumRewards": [
+   1210
+  ],
+  "BuyLevel": [],
+  "BuyDayLimit": 0
+ },
+ {
+  "id": 7010,
+  "Type": 1,
+  "Season": 7,
+  "Level": 10,
+  "Exp": 100,
+  "NormalReward": [
+   1010
+  ],
+  "AdvancedReward": [
+   1110
+  ],
+  "PremiumRewards": [
+   1211
+  ],
+  "BuyLevel": [],
+  "BuyDayLimit": 0
+ },
+ {
+  "id": 7011,
+  "Type": 1,
+  "Season": 7,
+  "Level": 11,
+  "Exp": 150,
+  "NormalReward": [
+   1011
+  ],
+  "AdvancedReward": [
+   1111
+  ],
+  "PremiumRewards": [
+   1212
+  ],
+  "BuyLevel": [],
+  "BuyDayLimit": 0
+ },
+ {
+  "id": 7012,
+  "Type": 1,
+  "Season": 7,
+  "Level": 12,
+  "Exp": 150,
+  "NormalReward": [
+   1012
+  ],
+  "AdvancedReward": [
+   1112
+  ],
+  "PremiumRewards": [
+   1213
+  ],
+  "BuyLevel": [],
+  "BuyDayLimit": 0
+ },
+ {
+  "id": 7013,
+  "Type": 1,
+  "Season": 7,
+  "Level": 13,
+  "Exp": 150,
+  "NormalReward": [
+   1013
+  ],
+  "AdvancedReward": [
+   1113
+  ],
+  "PremiumRewards": [
+   1214
+  ],
+  "BuyLevel": [],
+  "BuyDayLimit": 0
+ },
+ {
+  "id": 7014,
+  "Type": 1,
+  "Season": 7,
+  "Level": 14,
+  "Exp": 150,
+  "NormalReward": [
+   1014
+  ],
+  "AdvancedReward": [
+   1114
+  ],
+  "PremiumRewards": [
+   1215
+  ],
+  "BuyLevel": [],
+  "BuyDayLimit": 0
+ },
+ {
+  "id": 7015,
+  "Type": 1,
+  "Season": 7,
+  "Level": 15,
+  "Exp": 150,
+  "NormalReward": [
+   1015
+  ],
+  "AdvancedReward": [
+   1115
+  ],
+  "PremiumRewards": [
+   1216
+  ],
+  "BuyLevel": [],
+  "BuyDayLimit": 0
+ },
+ {
+  "id": 7016,
+  "Type": 1,
+  "Season": 7,
+  "Level": 16,
+  "Exp": 200,
+  "NormalReward": [
+   1016
+  ],
+  "AdvancedReward": [
+   1116
+  ],
+  "PremiumRewards": [
+   1217
+  ],
+  "BuyLevel": [],
+  "BuyDayLimit": 0
+ },
+ {
+  "id": 7017,
+  "Type": 1,
+  "Season": 7,
+  "Level": 17,
+  "Exp": 200,
+  "NormalReward": [
+   1017
+  ],
+  "AdvancedReward": [
+   1117
+  ],
+  "PremiumRewards": [
+   1218
+  ],
+  "BuyLevel": [],
+  "BuyDayLimit": 0
+ },
+ {
+  "id": 7018,
+  "Type": 1,
+  "Season": 7,
+  "Level": 18,
+  "Exp": 200,
+  "NormalReward": [
+   1018
+  ],
+  "AdvancedReward": [
+   1118
+  ],
+  "PremiumRewards": [
+   1219
+  ],
+  "BuyLevel": [],
+  "BuyDayLimit": 0
+ },
+ {
+  "id": 7019,
+  "Type": 1,
+  "Season": 7,
+  "Level": 19,
+  "Exp": 200,
+  "NormalReward": [
+   1019
+  ],
+  "AdvancedReward": [
+   1119
+  ],
+  "PremiumRewards": [
+   1220
+  ],
+  "BuyLevel": [],
+  "BuyDayLimit": 0
+ },
+ {
+  "id": 7020,
+  "Type": 1,
+  "Season": 7,
+  "Level": 20,
+  "Exp": 200,
+  "NormalReward": [
+   1020
+  ],
+  "AdvancedReward": [
+   1120
+  ],
+  "PremiumRewards": [
+   1221
+  ],
+  "BuyLevel": [],
+  "BuyDayLimit": 0
+ },
+ {
+  "id": 7021,
+  "Type": 1,
+  "Season": 7,
+  "Level": 21,
+  "Exp": 300,
+  "NormalReward": [
+   1021
+  ],
+  "AdvancedReward": [
+   1121
+  ],
+  "PremiumRewards": [
+   1222
+  ],
+  "BuyLevel": [],
+  "BuyDayLimit": 0
+ },
+ {
+  "id": 7022,
+  "Type": 1,
+  "Season": 7,
+  "Level": 22,
+  "Exp": 300,
+  "NormalReward": [
+   1022
+  ],
+  "AdvancedReward": [
+   1122
+  ],
+  "PremiumRewards": [
+   1223
+  ],
+  "BuyLevel": [],
+  "BuyDayLimit": 0
+ },
+ {
+  "id": 7023,
+  "Type": 1,
+  "Season": 7,
+  "Level": 23,
+  "Exp": 300,
+  "NormalReward": [
+   1023
+  ],
+  "AdvancedReward": [
+   1123
+  ],
+  "PremiumRewards": [
+   1224
+  ],
+  "BuyLevel": [],
+  "BuyDayLimit": 0
+ },
+ {
+  "id": 7024,
+  "Type": 1,
+  "Season": 7,
+  "Level": 24,
+  "Exp": 300,
+  "NormalReward": [
+   1024
+  ],
+  "AdvancedReward": [
+   1124
+  ],
+  "PremiumRewards": [
+   1225
+  ],
+  "BuyLevel": [],
+  "BuyDayLimit": 0
+ },
+ {
+  "id": 7025,
+  "Type": 1,
+  "Season": 7,
+  "Level": 25,
+  "Exp": 300,
+  "NormalReward": [
+   1025
+  ],
+  "AdvancedReward": [
+   1125
+  ],
+  "PremiumRewards": [
+   1226
+  ],
+  "BuyLevel": [],
+  "BuyDayLimit": 0
+ },
+ {
+  "id": 7026,
+  "Type": 1,
+  "Season": 7,
+  "Level": 26,
+  "Exp": 400,
+  "NormalReward": [
+   1026
+  ],
+  "AdvancedReward": [
+   1126
+  ],
+  "PremiumRewards": [
+   1227
+  ],
+  "BuyLevel": [],
+  "BuyDayLimit": 0
+ },
+ {
+  "id": 7027,
+  "Type": 1,
+  "Season": 7,
+  "Level": 27,
+  "Exp": 400,
+  "NormalReward": [
+   1027
+  ],
+  "AdvancedReward": [
+   1127
+  ],
+  "PremiumRewards": [
+   1228
+  ],
+  "BuyLevel": [],
+  "BuyDayLimit": 0
+ },
+ {
+  "id": 7028,
+  "Type": 1,
+  "Season": 7,
+  "Level": 28,
+  "Exp": 400,
+  "NormalReward": [
+   1028
+  ],
+  "AdvancedReward": [
+   1128
+  ],
+  "PremiumRewards": [
+   1229
+  ],
+  "BuyLevel": [],
+  "BuyDayLimit": 0
+ },
+ {
+  "id": 7029,
+  "Type": 1,
+  "Season": 7,
+  "Level": 29,
+  "Exp": 400,
+  "NormalReward": [
+   1029
+  ],
+  "AdvancedReward": [
+   1129
+  ],
+  "PremiumRewards": [
+   1230
+  ],
+  "BuyLevel": [],
+  "BuyDayLimit": 0
+ },
+ {
+  "id": 7030,
+  "Type": 1,
+  "Season": 7,
+  "Level": 30,
+  "Exp": 0,
+  "NormalReward": [
+   1030
+  ],
+  "AdvancedReward": [
+   1130
+  ],
+  "PremiumRewards": [
+   1231
+  ],
+  "BuyLevel": [],
+  "BuyDayLimit": 0
+ },
+ {
+  "id": 8001,
+  "Type": 1,
+  "Season": 8,
+  "Level": 1,
+  "Exp": 50,
+  "NormalReward": [
+   1001
+  ],
+  "AdvancedReward": [
+   1101
+  ],
+  "PremiumRewards": [
+   1202
+  ],
+  "BuyLevel": [],
+  "BuyDayLimit": 0
+ },
+ {
+  "id": 8002,
+  "Type": 1,
+  "Season": 8,
+  "Level": 2,
+  "Exp": 50,
+  "NormalReward": [
+   1002
+  ],
+  "AdvancedReward": [
+   1102
+  ],
+  "PremiumRewards": [
+   1203
+  ],
+  "BuyLevel": [],
+  "BuyDayLimit": 0
+ },
+ {
+  "id": 8003,
+  "Type": 1,
+  "Season": 8,
+  "Level": 3,
+  "Exp": 50,
+  "NormalReward": [
+   1003
+  ],
+  "AdvancedReward": [
+   1103
+  ],
+  "PremiumRewards": [
+   1204
+  ],
+  "BuyLevel": [],
+  "BuyDayLimit": 0
+ },
+ {
+  "id": 8004,
+  "Type": 1,
+  "Season": 8,
+  "Level": 4,
+  "Exp": 50,
+  "NormalReward": [
+   1004
+  ],
+  "AdvancedReward": [
+   1104
+  ],
+  "PremiumRewards": [
+   1205
+  ],
+  "BuyLevel": [],
+  "BuyDayLimit": 0
+ },
+ {
+  "id": 8005,
+  "Type": 1,
+  "Season": 8,
+  "Level": 5,
+  "Exp": 50,
+  "NormalReward": [
+   1005
+  ],
+  "AdvancedReward": [
+   1105
+  ],
+  "PremiumRewards": [
+   1206
+  ],
+  "BuyLevel": [],
+  "BuyDayLimit": 0
+ },
+ {
+  "id": 8006,
+  "Type": 1,
+  "Season": 8,
+  "Level": 6,
+  "Exp": 100,
+  "NormalReward": [
+   1006
+  ],
+  "AdvancedReward": [
+   1106
+  ],
+  "PremiumRewards": [
+   1207
+  ],
+  "BuyLevel": [],
+  "BuyDayLimit": 0
+ },
+ {
+  "id": 8007,
+  "Type": 1,
+  "Season": 8,
+  "Level": 7,
+  "Exp": 100,
+  "NormalReward": [
+   1007
+  ],
+  "AdvancedReward": [
+   1107
+  ],
+  "PremiumRewards": [
+   1208
+  ],
+  "BuyLevel": [],
+  "BuyDayLimit": 0
+ },
+ {
+  "id": 8008,
+  "Type": 1,
+  "Season": 8,
+  "Level": 8,
+  "Exp": 100,
+  "NormalReward": [
+   1008
+  ],
+  "AdvancedReward": [
+   1108
+  ],
+  "PremiumRewards": [
+   1209
+  ],
+  "BuyLevel": [],
+  "BuyDayLimit": 0
+ },
+ {
+  "id": 8009,
+  "Type": 1,
+  "Season": 8,
+  "Level": 9,
+  "Exp": 100,
+  "NormalReward": [
+   1009
+  ],
+  "AdvancedReward": [
+   1109
+  ],
+  "PremiumRewards": [
+   1210
+  ],
+  "BuyLevel": [],
+  "BuyDayLimit": 0
+ },
+ {
+  "id": 8010,
+  "Type": 1,
+  "Season": 8,
+  "Level": 10,
+  "Exp": 100,
+  "NormalReward": [
+   1010
+  ],
+  "AdvancedReward": [
+   1110
+  ],
+  "PremiumRewards": [
+   1211
+  ],
+  "BuyLevel": [],
+  "BuyDayLimit": 0
+ },
+ {
+  "id": 8011,
+  "Type": 1,
+  "Season": 8,
+  "Level": 11,
+  "Exp": 150,
+  "NormalReward": [
+   1011
+  ],
+  "AdvancedReward": [
+   1111
+  ],
+  "PremiumRewards": [
+   1212
+  ],
+  "BuyLevel": [],
+  "BuyDayLimit": 0
+ },
+ {
+  "id": 8012,
+  "Type": 1,
+  "Season": 8,
+  "Level": 12,
+  "Exp": 150,
+  "NormalReward": [
+   1012
+  ],
+  "AdvancedReward": [
+   1112
+  ],
+  "PremiumRewards": [
+   1213
+  ],
+  "BuyLevel": [],
+  "BuyDayLimit": 0
+ },
+ {
+  "id": 8013,
+  "Type": 1,
+  "Season": 8,
+  "Level": 13,
+  "Exp": 150,
+  "NormalReward": [
+   1013
+  ],
+  "AdvancedReward": [
+   1113
+  ],
+  "PremiumRewards": [
+   1214
+  ],
+  "BuyLevel": [],
+  "BuyDayLimit": 0
+ },
+ {
+  "id": 8014,
+  "Type": 1,
+  "Season": 8,
+  "Level": 14,
+  "Exp": 150,
+  "NormalReward": [
+   1014
+  ],
+  "AdvancedReward": [
+   1114
+  ],
+  "PremiumRewards": [
+   1215
+  ],
+  "BuyLevel": [],
+  "BuyDayLimit": 0
+ },
+ {
+  "id": 8015,
+  "Type": 1,
+  "Season": 8,
+  "Level": 15,
+  "Exp": 150,
+  "NormalReward": [
+   1015
+  ],
+  "AdvancedReward": [
+   1115
+  ],
+  "PremiumRewards": [
+   1216
+  ],
+  "BuyLevel": [],
+  "BuyDayLimit": 0
+ },
+ {
+  "id": 8016,
+  "Type": 1,
+  "Season": 8,
+  "Level": 16,
+  "Exp": 200,
+  "NormalReward": [
+   1016
+  ],
+  "AdvancedReward": [
+   1116
+  ],
+  "PremiumRewards": [
+   1217
+  ],
+  "BuyLevel": [],
+  "BuyDayLimit": 0
+ },
+ {
+  "id": 8017,
+  "Type": 1,
+  "Season": 8,
+  "Level": 17,
+  "Exp": 200,
+  "NormalReward": [
+   1017
+  ],
+  "AdvancedReward": [
+   1117
+  ],
+  "PremiumRewards": [
+   1218
+  ],
+  "BuyLevel": [],
+  "BuyDayLimit": 0
+ },
+ {
+  "id": 8018,
+  "Type": 1,
+  "Season": 8,
+  "Level": 18,
+  "Exp": 200,
+  "NormalReward": [
+   1018
+  ],
+  "AdvancedReward": [
+   1118
+  ],
+  "PremiumRewards": [
+   1219
+  ],
+  "BuyLevel": [],
+  "BuyDayLimit": 0
+ },
+ {
+  "id": 8019,
+  "Type": 1,
+  "Season": 8,
+  "Level": 19,
+  "Exp": 200,
+  "NormalReward": [
+   1019
+  ],
+  "AdvancedReward": [
+   1119
+  ],
+  "PremiumRewards": [
+   1220
+  ],
+  "BuyLevel": [],
+  "BuyDayLimit": 0
+ },
+ {
+  "id": 8020,
+  "Type": 1,
+  "Season": 8,
+  "Level": 20,
+  "Exp": 200,
+  "NormalReward": [
+   1020
+  ],
+  "AdvancedReward": [
+   1120
+  ],
+  "PremiumRewards": [
+   1221
+  ],
+  "BuyLevel": [],
+  "BuyDayLimit": 0
+ },
+ {
+  "id": 8021,
+  "Type": 1,
+  "Season": 8,
+  "Level": 21,
+  "Exp": 300,
+  "NormalReward": [
+   1021
+  ],
+  "AdvancedReward": [
+   1121
+  ],
+  "PremiumRewards": [
+   1222
+  ],
+  "BuyLevel": [],
+  "BuyDayLimit": 0
+ },
+ {
+  "id": 8022,
+  "Type": 1,
+  "Season": 8,
+  "Level": 22,
+  "Exp": 300,
+  "NormalReward": [
+   1022
+  ],
+  "AdvancedReward": [
+   1122
+  ],
+  "PremiumRewards": [
+   1223
+  ],
+  "BuyLevel": [],
+  "BuyDayLimit": 0
+ },
+ {
+  "id": 8023,
+  "Type": 1,
+  "Season": 8,
+  "Level": 23,
+  "Exp": 300,
+  "NormalReward": [
+   1023
+  ],
+  "AdvancedReward": [
+   1123
+  ],
+  "PremiumRewards": [
+   1224
+  ],
+  "BuyLevel": [],
+  "BuyDayLimit": 0
+ },
+ {
+  "id": 8024,
+  "Type": 1,
+  "Season": 8,
+  "Level": 24,
+  "Exp": 300,
+  "NormalReward": [
+   1024
+  ],
+  "AdvancedReward": [
+   1124
+  ],
+  "PremiumRewards": [
+   1225
+  ],
+  "BuyLevel": [],
+  "BuyDayLimit": 0
+ },
+ {
+  "id": 8025,
+  "Type": 1,
+  "Season": 8,
+  "Level": 25,
+  "Exp": 300,
+  "NormalReward": [
+   1025
+  ],
+  "AdvancedReward": [
+   1125
+  ],
+  "PremiumRewards": [
+   1226
+  ],
+  "BuyLevel": [],
+  "BuyDayLimit": 0
+ },
+ {
+  "id": 8026,
+  "Type": 1,
+  "Season": 8,
+  "Level": 26,
+  "Exp": 400,
+  "NormalReward": [
+   1026
+  ],
+  "AdvancedReward": [
+   1126
+  ],
+  "PremiumRewards": [
+   1227
+  ],
+  "BuyLevel": [],
+  "BuyDayLimit": 0
+ },
+ {
+  "id": 8027,
+  "Type": 1,
+  "Season": 8,
+  "Level": 27,
+  "Exp": 400,
+  "NormalReward": [
+   1027
+  ],
+  "AdvancedReward": [
+   1127
+  ],
+  "PremiumRewards": [
+   1228
+  ],
+  "BuyLevel": [],
+  "BuyDayLimit": 0
+ },
+ {
+  "id": 8028,
+  "Type": 1,
+  "Season": 8,
+  "Level": 28,
+  "Exp": 400,
+  "NormalReward": [
+   1028
+  ],
+  "AdvancedReward": [
+   1128
+  ],
+  "PremiumRewards": [
+   1229
+  ],
+  "BuyLevel": [],
+  "BuyDayLimit": 0
+ },
+ {
+  "id": 8029,
+  "Type": 1,
+  "Season": 8,
+  "Level": 29,
+  "Exp": 400,
+  "NormalReward": [
+   1029
+  ],
+  "AdvancedReward": [
+   1129
+  ],
+  "PremiumRewards": [
+   1230
+  ],
+  "BuyLevel": [],
+  "BuyDayLimit": 0
+ },
+ {
+  "id": 8030,
+  "Type": 1,
+  "Season": 8,
+  "Level": 30,
+  "Exp": 0,
+  "NormalReward": [
+   1030
+  ],
+  "AdvancedReward": [
+   1130
+  ],
+  "PremiumRewards": [
+   1231
+  ],
+  "BuyLevel": [],
+  "BuyDayLimit": 0
+ },
+ {
+  "id": 9001,
+  "Type": 1,
+  "Season": 9,
+  "Level": 1,
+  "Exp": 50,
+  "NormalReward": [
+   1001
+  ],
+  "AdvancedReward": [
+   1101
+  ],
+  "PremiumRewards": [
+   1202
+  ],
+  "BuyLevel": [],
+  "BuyDayLimit": 0
+ },
+ {
+  "id": 9002,
+  "Type": 1,
+  "Season": 9,
+  "Level": 2,
+  "Exp": 50,
+  "NormalReward": [
+   1002
+  ],
+  "AdvancedReward": [
+   1102
+  ],
+  "PremiumRewards": [
+   1203
+  ],
+  "BuyLevel": [],
+  "BuyDayLimit": 0
+ },
+ {
+  "id": 9003,
+  "Type": 1,
+  "Season": 9,
+  "Level": 3,
+  "Exp": 50,
+  "NormalReward": [
+   1003
+  ],
+  "AdvancedReward": [
+   1103
+  ],
+  "PremiumRewards": [
+   1204
+  ],
+  "BuyLevel": [],
+  "BuyDayLimit": 0
+ },
+ {
+  "id": 9004,
+  "Type": 1,
+  "Season": 9,
+  "Level": 4,
+  "Exp": 50,
+  "NormalReward": [
+   1004
+  ],
+  "AdvancedReward": [
+   1104
+  ],
+  "PremiumRewards": [
+   1205
+  ],
+  "BuyLevel": [],
+  "BuyDayLimit": 0
+ },
+ {
+  "id": 9005,
+  "Type": 1,
+  "Season": 9,
+  "Level": 5,
+  "Exp": 50,
+  "NormalReward": [
+   1005
+  ],
+  "AdvancedReward": [
+   1105
+  ],
+  "PremiumRewards": [
+   1206
+  ],
+  "BuyLevel": [],
+  "BuyDayLimit": 0
+ },
+ {
+  "id": 9006,
+  "Type": 1,
+  "Season": 9,
+  "Level": 6,
+  "Exp": 100,
+  "NormalReward": [
+   1006
+  ],
+  "AdvancedReward": [
+   1106
+  ],
+  "PremiumRewards": [
+   1207
+  ],
+  "BuyLevel": [],
+  "BuyDayLimit": 0
+ },
+ {
+  "id": 9007,
+  "Type": 1,
+  "Season": 9,
+  "Level": 7,
+  "Exp": 100,
+  "NormalReward": [
+   1007
+  ],
+  "AdvancedReward": [
+   1107
+  ],
+  "PremiumRewards": [
+   1208
+  ],
+  "BuyLevel": [],
+  "BuyDayLimit": 0
+ },
+ {
+  "id": 9008,
+  "Type": 1,
+  "Season": 9,
+  "Level": 8,
+  "Exp": 100,
+  "NormalReward": [
+   1008
+  ],
+  "AdvancedReward": [
+   1108
+  ],
+  "PremiumRewards": [
+   1209
+  ],
+  "BuyLevel": [],
+  "BuyDayLimit": 0
+ },
+ {
+  "id": 9009,
+  "Type": 1,
+  "Season": 9,
+  "Level": 9,
+  "Exp": 100,
+  "NormalReward": [
+   1009
+  ],
+  "AdvancedReward": [
+   1109
+  ],
+  "PremiumRewards": [
+   1210
+  ],
+  "BuyLevel": [],
+  "BuyDayLimit": 0
+ },
+ {
+  "id": 9010,
+  "Type": 1,
+  "Season": 9,
+  "Level": 10,
+  "Exp": 100,
+  "NormalReward": [
+   1010
+  ],
+  "AdvancedReward": [
+   1110
+  ],
+  "PremiumRewards": [
+   1211
+  ],
+  "BuyLevel": [],
+  "BuyDayLimit": 0
+ },
+ {
+  "id": 9011,
+  "Type": 1,
+  "Season": 9,
+  "Level": 11,
+  "Exp": 150,
+  "NormalReward": [
+   1011
+  ],
+  "AdvancedReward": [
+   1111
+  ],
+  "PremiumRewards": [
+   1212
+  ],
+  "BuyLevel": [],
+  "BuyDayLimit": 0
+ },
+ {
+  "id": 9012,
+  "Type": 1,
+  "Season": 9,
+  "Level": 12,
+  "Exp": 150,
+  "NormalReward": [
+   1012
+  ],
+  "AdvancedReward": [
+   1112
+  ],
+  "PremiumRewards": [
+   1213
+  ],
+  "BuyLevel": [],
+  "BuyDayLimit": 0
+ },
+ {
+  "id": 9013,
+  "Type": 1,
+  "Season": 9,
+  "Level": 13,
+  "Exp": 150,
+  "NormalReward": [
+   1013
+  ],
+  "AdvancedReward": [
+   1113
+  ],
+  "PremiumRewards": [
+   1214
+  ],
+  "BuyLevel": [],
+  "BuyDayLimit": 0
+ },
+ {
+  "id": 9014,
+  "Type": 1,
+  "Season": 9,
+  "Level": 14,
+  "Exp": 150,
+  "NormalReward": [
+   1014
+  ],
+  "AdvancedReward": [
+   1114
+  ],
+  "PremiumRewards": [
+   1215
+  ],
+  "BuyLevel": [],
+  "BuyDayLimit": 0
+ },
+ {
+  "id": 9015,
+  "Type": 1,
+  "Season": 9,
+  "Level": 15,
+  "Exp": 150,
+  "NormalReward": [
+   1015
+  ],
+  "AdvancedReward": [
+   1115
+  ],
+  "PremiumRewards": [
+   1216
+  ],
+  "BuyLevel": [],
+  "BuyDayLimit": 0
+ },
+ {
+  "id": 9016,
+  "Type": 1,
+  "Season": 9,
+  "Level": 16,
+  "Exp": 200,
+  "NormalReward": [
+   1016
+  ],
+  "AdvancedReward": [
+   1116
+  ],
+  "PremiumRewards": [
+   1217
+  ],
+  "BuyLevel": [],
+  "BuyDayLimit": 0
+ },
+ {
+  "id": 9017,
+  "Type": 1,
+  "Season": 9,
+  "Level": 17,
+  "Exp": 200,
+  "NormalReward": [
+   1017
+  ],
+  "AdvancedReward": [
+   1117
+  ],
+  "PremiumRewards": [
+   1218
+  ],
+  "BuyLevel": [],
+  "BuyDayLimit": 0
+ },
+ {
+  "id": 9018,
+  "Type": 1,
+  "Season": 9,
+  "Level": 18,
+  "Exp": 200,
+  "NormalReward": [
+   1018
+  ],
+  "AdvancedReward": [
+   1118
+  ],
+  "PremiumRewards": [
+   1219
+  ],
+  "BuyLevel": [],
+  "BuyDayLimit": 0
+ },
+ {
+  "id": 9019,
+  "Type": 1,
+  "Season": 9,
+  "Level": 19,
+  "Exp": 200,
+  "NormalReward": [
+   1019
+  ],
+  "AdvancedReward": [
+   1119
+  ],
+  "PremiumRewards": [
+   1220
+  ],
+  "BuyLevel": [],
+  "BuyDayLimit": 0
+ },
+ {
+  "id": 9020,
+  "Type": 1,
+  "Season": 9,
+  "Level": 20,
+  "Exp": 200,
+  "NormalReward": [
+   1020
+  ],
+  "AdvancedReward": [
+   1120
+  ],
+  "PremiumRewards": [
+   1221
+  ],
+  "BuyLevel": [],
+  "BuyDayLimit": 0
+ },
+ {
+  "id": 9021,
+  "Type": 1,
+  "Season": 9,
+  "Level": 21,
+  "Exp": 300,
+  "NormalReward": [
+   1021
+  ],
+  "AdvancedReward": [
+   1121
+  ],
+  "PremiumRewards": [
+   1222
+  ],
+  "BuyLevel": [],
+  "BuyDayLimit": 0
+ },
+ {
+  "id": 9022,
+  "Type": 1,
+  "Season": 9,
+  "Level": 22,
+  "Exp": 300,
+  "NormalReward": [
+   1022
+  ],
+  "AdvancedReward": [
+   1122
+  ],
+  "PremiumRewards": [
+   1223
+  ],
+  "BuyLevel": [],
+  "BuyDayLimit": 0
+ },
+ {
+  "id": 9023,
+  "Type": 1,
+  "Season": 9,
+  "Level": 23,
+  "Exp": 300,
+  "NormalReward": [
+   1023
+  ],
+  "AdvancedReward": [
+   1123
+  ],
+  "PremiumRewards": [
+   1224
+  ],
+  "BuyLevel": [],
+  "BuyDayLimit": 0
+ },
+ {
+  "id": 9024,
+  "Type": 1,
+  "Season": 9,
+  "Level": 24,
+  "Exp": 300,
+  "NormalReward": [
+   1024
+  ],
+  "AdvancedReward": [
+   1124
+  ],
+  "PremiumRewards": [
+   1225
+  ],
+  "BuyLevel": [],
+  "BuyDayLimit": 0
+ },
+ {
+  "id": 9025,
+  "Type": 1,
+  "Season": 9,
+  "Level": 25,
+  "Exp": 300,
+  "NormalReward": [
+   1025
+  ],
+  "AdvancedReward": [
+   1125
+  ],
+  "PremiumRewards": [
+   1226
+  ],
+  "BuyLevel": [],
+  "BuyDayLimit": 0
+ },
+ {
+  "id": 9026,
+  "Type": 1,
+  "Season": 9,
+  "Level": 26,
+  "Exp": 400,
+  "NormalReward": [
+   1026
+  ],
+  "AdvancedReward": [
+   1126
+  ],
+  "PremiumRewards": [
+   1227
+  ],
+  "BuyLevel": [],
+  "BuyDayLimit": 0
+ },
+ {
+  "id": 9027,
+  "Type": 1,
+  "Season": 9,
+  "Level": 27,
+  "Exp": 400,
+  "NormalReward": [
+   1027
+  ],
+  "AdvancedReward": [
+   1127
+  ],
+  "PremiumRewards": [
+   1228
+  ],
+  "BuyLevel": [],
+  "BuyDayLimit": 0
+ },
+ {
+  "id": 9028,
+  "Type": 1,
+  "Season": 9,
+  "Level": 28,
+  "Exp": 400,
+  "NormalReward": [
+   1028
+  ],
+  "AdvancedReward": [
+   1128
+  ],
+  "PremiumRewards": [
+   1229
+  ],
+  "BuyLevel": [],
+  "BuyDayLimit": 0
+ },
+ {
+  "id": 9029,
+  "Type": 1,
+  "Season": 9,
+  "Level": 29,
+  "Exp": 400,
+  "NormalReward": [
+   1029
+  ],
+  "AdvancedReward": [
+   1129
+  ],
+  "PremiumRewards": [
+   1230
+  ],
+  "BuyLevel": [],
+  "BuyDayLimit": 0
+ },
+ {
+  "id": 9030,
+  "Type": 1,
+  "Season": 9,
+  "Level": 30,
+  "Exp": 0,
+  "NormalReward": [
+   1030
+  ],
+  "AdvancedReward": [
+   1130
+  ],
+  "PremiumRewards": [
+   1231
+  ],
+  "BuyLevel": [],
+  "BuyDayLimit": 0
+ },
+ {
+  "id": 10001,
+  "Type": 1,
+  "Season": 10,
+  "Level": 1,
+  "Exp": 50,
+  "NormalReward": [
+   1001
+  ],
+  "AdvancedReward": [
+   1101
+  ],
+  "PremiumRewards": [
+   1202
+  ],
+  "BuyLevel": [],
+  "BuyDayLimit": 0
+ },
+ {
+  "id": 10002,
+  "Type": 1,
+  "Season": 10,
+  "Level": 2,
+  "Exp": 50,
+  "NormalReward": [
+   1002
+  ],
+  "AdvancedReward": [
+   1102
+  ],
+  "PremiumRewards": [
+   1203
+  ],
+  "BuyLevel": [],
+  "BuyDayLimit": 0
+ },
+ {
+  "id": 10003,
+  "Type": 1,
+  "Season": 10,
+  "Level": 3,
+  "Exp": 50,
+  "NormalReward": [
+   1003
+  ],
+  "AdvancedReward": [
+   1103
+  ],
+  "PremiumRewards": [
+   1204
+  ],
+  "BuyLevel": [],
+  "BuyDayLimit": 0
+ },
+ {
+  "id": 10004,
+  "Type": 1,
+  "Season": 10,
+  "Level": 4,
+  "Exp": 50,
+  "NormalReward": [
+   1004
+  ],
+  "AdvancedReward": [
+   1104
+  ],
+  "PremiumRewards": [
+   1205
+  ],
+  "BuyLevel": [],
+  "BuyDayLimit": 0
+ },
+ {
+  "id": 10005,
+  "Type": 1,
+  "Season": 10,
+  "Level": 5,
+  "Exp": 50,
+  "NormalReward": [
+   1005
+  ],
+  "AdvancedReward": [
+   1105
+  ],
+  "PremiumRewards": [
+   1206
+  ],
+  "BuyLevel": [],
+  "BuyDayLimit": 0
+ },
+ {
+  "id": 10006,
+  "Type": 1,
+  "Season": 10,
+  "Level": 6,
+  "Exp": 100,
+  "NormalReward": [
+   1006
+  ],
+  "AdvancedReward": [
+   1106
+  ],
+  "PremiumRewards": [
+   1207
+  ],
+  "BuyLevel": [],
+  "BuyDayLimit": 0
+ },
+ {
+  "id": 10007,
+  "Type": 1,
+  "Season": 10,
+  "Level": 7,
+  "Exp": 100,
+  "NormalReward": [
+   1007
+  ],
+  "AdvancedReward": [
+   1107
+  ],
+  "PremiumRewards": [
+   1208
+  ],
+  "BuyLevel": [],
+  "BuyDayLimit": 0
+ },
+ {
+  "id": 10008,
+  "Type": 1,
+  "Season": 10,
+  "Level": 8,
+  "Exp": 100,
+  "NormalReward": [
+   1008
+  ],
+  "AdvancedReward": [
+   1108
+  ],
+  "PremiumRewards": [
+   1209
+  ],
+  "BuyLevel": [],
+  "BuyDayLimit": 0
+ },
+ {
+  "id": 10009,
+  "Type": 1,
+  "Season": 10,
+  "Level": 9,
+  "Exp": 100,
+  "NormalReward": [
+   1009
+  ],
+  "AdvancedReward": [
+   1109
+  ],
+  "PremiumRewards": [
+   1210
+  ],
+  "BuyLevel": [],
+  "BuyDayLimit": 0
+ },
+ {
+  "id": 10010,
+  "Type": 1,
+  "Season": 10,
+  "Level": 10,
+  "Exp": 100,
+  "NormalReward": [
+   1010
+  ],
+  "AdvancedReward": [
+   1110
+  ],
+  "PremiumRewards": [
+   1211
+  ],
+  "BuyLevel": [],
+  "BuyDayLimit": 0
+ },
+ {
+  "id": 10011,
+  "Type": 1,
+  "Season": 10,
+  "Level": 11,
+  "Exp": 150,
+  "NormalReward": [
+   1011
+  ],
+  "AdvancedReward": [
+   1111
+  ],
+  "PremiumRewards": [
+   1212
+  ],
+  "BuyLevel": [],
+  "BuyDayLimit": 0
+ },
+ {
+  "id": 10012,
+  "Type": 1,
+  "Season": 10,
+  "Level": 12,
+  "Exp": 150,
+  "NormalReward": [
+   1012
+  ],
+  "AdvancedReward": [
+   1112
+  ],
+  "PremiumRewards": [
+   1213
+  ],
+  "BuyLevel": [],
+  "BuyDayLimit": 0
+ },
+ {
+  "id": 10013,
+  "Type": 1,
+  "Season": 10,
+  "Level": 13,
+  "Exp": 150,
+  "NormalReward": [
+   1013
+  ],
+  "AdvancedReward": [
+   1113
+  ],
+  "PremiumRewards": [
+   1214
+  ],
+  "BuyLevel": [],
+  "BuyDayLimit": 0
+ },
+ {
+  "id": 10014,
+  "Type": 1,
+  "Season": 10,
+  "Level": 14,
+  "Exp": 150,
+  "NormalReward": [
+   1014
+  ],
+  "AdvancedReward": [
+   1114
+  ],
+  "PremiumRewards": [
+   1215
+  ],
+  "BuyLevel": [],
+  "BuyDayLimit": 0
+ },
+ {
+  "id": 10015,
+  "Type": 1,
+  "Season": 10,
+  "Level": 15,
+  "Exp": 150,
+  "NormalReward": [
+   1015
+  ],
+  "AdvancedReward": [
+   1115
+  ],
+  "PremiumRewards": [
+   1216
+  ],
+  "BuyLevel": [],
+  "BuyDayLimit": 0
+ },
+ {
+  "id": 10016,
+  "Type": 1,
+  "Season": 10,
+  "Level": 16,
+  "Exp": 200,
+  "NormalReward": [
+   1016
+  ],
+  "AdvancedReward": [
+   1116
+  ],
+  "PremiumRewards": [
+   1217
+  ],
+  "BuyLevel": [],
+  "BuyDayLimit": 0
+ },
+ {
+  "id": 10017,
+  "Type": 1,
+  "Season": 10,
+  "Level": 17,
+  "Exp": 200,
+  "NormalReward": [
+   1017
+  ],
+  "AdvancedReward": [
+   1117
+  ],
+  "PremiumRewards": [
+   1218
+  ],
+  "BuyLevel": [],
+  "BuyDayLimit": 0
+ },
+ {
+  "id": 10018,
+  "Type": 1,
+  "Season": 10,
+  "Level": 18,
+  "Exp": 200,
+  "NormalReward": [
+   1018
+  ],
+  "AdvancedReward": [
+   1118
+  ],
+  "PremiumRewards": [
+   1219
+  ],
+  "BuyLevel": [],
+  "BuyDayLimit": 0
+ },
+ {
+  "id": 10019,
+  "Type": 1,
+  "Season": 10,
+  "Level": 19,
+  "Exp": 200,
+  "NormalReward": [
+   1019
+  ],
+  "AdvancedReward": [
+   1119
+  ],
+  "PremiumRewards": [
+   1220
+  ],
+  "BuyLevel": [],
+  "BuyDayLimit": 0
+ },
+ {
+  "id": 10020,
+  "Type": 1,
+  "Season": 10,
+  "Level": 20,
+  "Exp": 200,
+  "NormalReward": [
+   1020
+  ],
+  "AdvancedReward": [
+   1120
+  ],
+  "PremiumRewards": [
+   1221
+  ],
+  "BuyLevel": [],
+  "BuyDayLimit": 0
+ },
+ {
+  "id": 10021,
+  "Type": 1,
+  "Season": 10,
+  "Level": 21,
+  "Exp": 300,
+  "NormalReward": [
+   1021
+  ],
+  "AdvancedReward": [
+   1121
+  ],
+  "PremiumRewards": [
+   1222
+  ],
+  "BuyLevel": [],
+  "BuyDayLimit": 0
+ },
+ {
+  "id": 10022,
+  "Type": 1,
+  "Season": 10,
+  "Level": 22,
+  "Exp": 300,
+  "NormalReward": [
+   1022
+  ],
+  "AdvancedReward": [
+   1122
+  ],
+  "PremiumRewards": [
+   1223
+  ],
+  "BuyLevel": [],
+  "BuyDayLimit": 0
+ },
+ {
+  "id": 10023,
+  "Type": 1,
+  "Season": 10,
+  "Level": 23,
+  "Exp": 300,
+  "NormalReward": [
+   1023
+  ],
+  "AdvancedReward": [
+   1123
+  ],
+  "PremiumRewards": [
+   1224
+  ],
+  "BuyLevel": [],
+  "BuyDayLimit": 0
+ },
+ {
+  "id": 10024,
+  "Type": 1,
+  "Season": 10,
+  "Level": 24,
+  "Exp": 300,
+  "NormalReward": [
+   1024
+  ],
+  "AdvancedReward": [
+   1124
+  ],
+  "PremiumRewards": [
+   1225
+  ],
+  "BuyLevel": [],
+  "BuyDayLimit": 0
+ },
+ {
+  "id": 10025,
+  "Type": 1,
+  "Season": 10,
+  "Level": 25,
+  "Exp": 300,
+  "NormalReward": [
+   1025
+  ],
+  "AdvancedReward": [
+   1125
+  ],
+  "PremiumRewards": [
+   1226
+  ],
+  "BuyLevel": [],
+  "BuyDayLimit": 0
+ },
+ {
+  "id": 10026,
+  "Type": 1,
+  "Season": 10,
+  "Level": 26,
+  "Exp": 400,
+  "NormalReward": [
+   1026
+  ],
+  "AdvancedReward": [
+   1126
+  ],
+  "PremiumRewards": [
+   1227
+  ],
+  "BuyLevel": [],
+  "BuyDayLimit": 0
+ },
+ {
+  "id": 10027,
+  "Type": 1,
+  "Season": 10,
+  "Level": 27,
+  "Exp": 400,
+  "NormalReward": [
+   1027
+  ],
+  "AdvancedReward": [
+   1127
+  ],
+  "PremiumRewards": [
+   1228
+  ],
+  "BuyLevel": [],
+  "BuyDayLimit": 0
+ },
+ {
+  "id": 10028,
+  "Type": 1,
+  "Season": 10,
+  "Level": 28,
+  "Exp": 400,
+  "NormalReward": [
+   1028
+  ],
+  "AdvancedReward": [
+   1128
+  ],
+  "PremiumRewards": [
+   1229
+  ],
+  "BuyLevel": [],
+  "BuyDayLimit": 0
+ },
+ {
+  "id": 10029,
+  "Type": 1,
+  "Season": 10,
+  "Level": 29,
+  "Exp": 400,
+  "NormalReward": [
+   1029
+  ],
+  "AdvancedReward": [
+   1129
+  ],
+  "PremiumRewards": [
+   1230
+  ],
+  "BuyLevel": [],
+  "BuyDayLimit": 0
+ },
+ {
+  "id": 10030,
+  "Type": 1,
+  "Season": 10,
+  "Level": 30,
+  "Exp": 0,
+  "NormalReward": [
+   1030
+  ],
+  "AdvancedReward": [
+   1130
+  ],
+  "PremiumRewards": [
+   1231
+  ],
+  "BuyLevel": [],
+  "BuyDayLimit": 0
+ },
+ {
+  "id": 11001,
+  "Type": 1,
+  "Season": 11,
+  "Level": 1,
+  "Exp": 50,
+  "NormalReward": [
+   1001
+  ],
+  "AdvancedReward": [
+   1101
+  ],
+  "PremiumRewards": [
+   1202
+  ],
+  "BuyLevel": [],
+  "BuyDayLimit": 0
+ },
+ {
+  "id": 11002,
+  "Type": 1,
+  "Season": 11,
+  "Level": 2,
+  "Exp": 50,
+  "NormalReward": [
+   1002
+  ],
+  "AdvancedReward": [
+   1102
+  ],
+  "PremiumRewards": [
+   1203
+  ],
+  "BuyLevel": [],
+  "BuyDayLimit": 0
+ },
+ {
+  "id": 11003,
+  "Type": 1,
+  "Season": 11,
+  "Level": 3,
+  "Exp": 50,
+  "NormalReward": [
+   1003
+  ],
+  "AdvancedReward": [
+   1103
+  ],
+  "PremiumRewards": [
+   1204
+  ],
+  "BuyLevel": [],
+  "BuyDayLimit": 0
+ },
+ {
+  "id": 11004,
+  "Type": 1,
+  "Season": 11,
+  "Level": 4,
+  "Exp": 50,
+  "NormalReward": [
+   1004
+  ],
+  "AdvancedReward": [
+   1104
+  ],
+  "PremiumRewards": [
+   1205
+  ],
+  "BuyLevel": [],
+  "BuyDayLimit": 0
+ },
+ {
+  "id": 11005,
+  "Type": 1,
+  "Season": 11,
+  "Level": 5,
+  "Exp": 50,
+  "NormalReward": [
+   1005
+  ],
+  "AdvancedReward": [
+   1105
+  ],
+  "PremiumRewards": [
+   1206
+  ],
+  "BuyLevel": [],
+  "BuyDayLimit": 0
+ },
+ {
+  "id": 11006,
+  "Type": 1,
+  "Season": 11,
+  "Level": 6,
+  "Exp": 100,
+  "NormalReward": [
+   1006
+  ],
+  "AdvancedReward": [
+   1106
+  ],
+  "PremiumRewards": [
+   1207
+  ],
+  "BuyLevel": [],
+  "BuyDayLimit": 0
+ },
+ {
+  "id": 11007,
+  "Type": 1,
+  "Season": 11,
+  "Level": 7,
+  "Exp": 100,
+  "NormalReward": [
+   1007
+  ],
+  "AdvancedReward": [
+   1107
+  ],
+  "PremiumRewards": [
+   1208
+  ],
+  "BuyLevel": [],
+  "BuyDayLimit": 0
+ },
+ {
+  "id": 11008,
+  "Type": 1,
+  "Season": 11,
+  "Level": 8,
+  "Exp": 100,
+  "NormalReward": [
+   1008
+  ],
+  "AdvancedReward": [
+   1108
+  ],
+  "PremiumRewards": [
+   1209
+  ],
+  "BuyLevel": [],
+  "BuyDayLimit": 0
+ },
+ {
+  "id": 11009,
+  "Type": 1,
+  "Season": 11,
+  "Level": 9,
+  "Exp": 100,
+  "NormalReward": [
+   1009
+  ],
+  "AdvancedReward": [
+   1109
+  ],
+  "PremiumRewards": [
+   1210
+  ],
+  "BuyLevel": [],
+  "BuyDayLimit": 0
+ },
+ {
+  "id": 11010,
+  "Type": 1,
+  "Season": 11,
+  "Level": 10,
+  "Exp": 100,
+  "NormalReward": [
+   1010
+  ],
+  "AdvancedReward": [
+   1110
+  ],
+  "PremiumRewards": [
+   1211
+  ],
+  "BuyLevel": [],
+  "BuyDayLimit": 0
+ },
+ {
+  "id": 11011,
+  "Type": 1,
+  "Season": 11,
+  "Level": 11,
+  "Exp": 150,
+  "NormalReward": [
+   1011
+  ],
+  "AdvancedReward": [
+   1111
+  ],
+  "PremiumRewards": [
+   1212
+  ],
+  "BuyLevel": [],
+  "BuyDayLimit": 0
+ },
+ {
+  "id": 11012,
+  "Type": 1,
+  "Season": 11,
+  "Level": 12,
+  "Exp": 150,
+  "NormalReward": [
+   1012
+  ],
+  "AdvancedReward": [
+   1112
+  ],
+  "PremiumRewards": [
+   1213
+  ],
+  "BuyLevel": [],
+  "BuyDayLimit": 0
+ },
+ {
+  "id": 11013,
+  "Type": 1,
+  "Season": 11,
+  "Level": 13,
+  "Exp": 150,
+  "NormalReward": [
+   1013
+  ],
+  "AdvancedReward": [
+   1113
+  ],
+  "PremiumRewards": [
+   1214
+  ],
+  "BuyLevel": [],
+  "BuyDayLimit": 0
+ },
+ {
+  "id": 11014,
+  "Type": 1,
+  "Season": 11,
+  "Level": 14,
+  "Exp": 150,
+  "NormalReward": [
+   1014
+  ],
+  "AdvancedReward": [
+   1114
+  ],
+  "PremiumRewards": [
+   1215
+  ],
+  "BuyLevel": [],
+  "BuyDayLimit": 0
+ },
+ {
+  "id": 11015,
+  "Type": 1,
+  "Season": 11,
+  "Level": 15,
+  "Exp": 150,
+  "NormalReward": [
+   1015
+  ],
+  "AdvancedReward": [
+   1115
+  ],
+  "PremiumRewards": [
+   1216
+  ],
+  "BuyLevel": [],
+  "BuyDayLimit": 0
+ },
+ {
+  "id": 11016,
+  "Type": 1,
+  "Season": 11,
+  "Level": 16,
+  "Exp": 200,
+  "NormalReward": [
+   1016
+  ],
+  "AdvancedReward": [
+   1116
+  ],
+  "PremiumRewards": [
+   1217
+  ],
+  "BuyLevel": [],
+  "BuyDayLimit": 0
+ },
+ {
+  "id": 11017,
+  "Type": 1,
+  "Season": 11,
+  "Level": 17,
+  "Exp": 200,
+  "NormalReward": [
+   1017
+  ],
+  "AdvancedReward": [
+   1117
+  ],
+  "PremiumRewards": [
+   1218
+  ],
+  "BuyLevel": [],
+  "BuyDayLimit": 0
+ },
+ {
+  "id": 11018,
+  "Type": 1,
+  "Season": 11,
+  "Level": 18,
+  "Exp": 200,
+  "NormalReward": [
+   1018
+  ],
+  "AdvancedReward": [
+   1118
+  ],
+  "PremiumRewards": [
+   1219
+  ],
+  "BuyLevel": [],
+  "BuyDayLimit": 0
+ },
+ {
+  "id": 11019,
+  "Type": 1,
+  "Season": 11,
+  "Level": 19,
+  "Exp": 200,
+  "NormalReward": [
+   1019
+  ],
+  "AdvancedReward": [
+   1119
+  ],
+  "PremiumRewards": [
+   1220
+  ],
+  "BuyLevel": [],
+  "BuyDayLimit": 0
+ },
+ {
+  "id": 11020,
+  "Type": 1,
+  "Season": 11,
+  "Level": 20,
+  "Exp": 200,
+  "NormalReward": [
+   1020
+  ],
+  "AdvancedReward": [
+   1120
+  ],
+  "PremiumRewards": [
+   1221
+  ],
+  "BuyLevel": [],
+  "BuyDayLimit": 0
+ },
+ {
+  "id": 11021,
+  "Type": 1,
+  "Season": 11,
+  "Level": 21,
+  "Exp": 300,
+  "NormalReward": [
+   1021
+  ],
+  "AdvancedReward": [
+   1121
+  ],
+  "PremiumRewards": [
+   1222
+  ],
+  "BuyLevel": [],
+  "BuyDayLimit": 0
+ },
+ {
+  "id": 11022,
+  "Type": 1,
+  "Season": 11,
+  "Level": 22,
+  "Exp": 300,
+  "NormalReward": [
+   1022
+  ],
+  "AdvancedReward": [
+   1122
+  ],
+  "PremiumRewards": [
+   1223
+  ],
+  "BuyLevel": [],
+  "BuyDayLimit": 0
+ },
+ {
+  "id": 11023,
+  "Type": 1,
+  "Season": 11,
+  "Level": 23,
+  "Exp": 300,
+  "NormalReward": [
+   1023
+  ],
+  "AdvancedReward": [
+   1123
+  ],
+  "PremiumRewards": [
+   1224
+  ],
+  "BuyLevel": [],
+  "BuyDayLimit": 0
+ },
+ {
+  "id": 11024,
+  "Type": 1,
+  "Season": 11,
+  "Level": 24,
+  "Exp": 300,
+  "NormalReward": [
+   1024
+  ],
+  "AdvancedReward": [
+   1124
+  ],
+  "PremiumRewards": [
+   1225
+  ],
+  "BuyLevel": [],
+  "BuyDayLimit": 0
+ },
+ {
+  "id": 11025,
+  "Type": 1,
+  "Season": 11,
+  "Level": 25,
+  "Exp": 300,
+  "NormalReward": [
+   1025
+  ],
+  "AdvancedReward": [
+   1125
+  ],
+  "PremiumRewards": [
+   1226
+  ],
+  "BuyLevel": [],
+  "BuyDayLimit": 0
+ },
+ {
+  "id": 11026,
+  "Type": 1,
+  "Season": 11,
+  "Level": 26,
+  "Exp": 400,
+  "NormalReward": [
+   1026
+  ],
+  "AdvancedReward": [
+   1126
+  ],
+  "PremiumRewards": [
+   1227
+  ],
+  "BuyLevel": [],
+  "BuyDayLimit": 0
+ },
+ {
+  "id": 11027,
+  "Type": 1,
+  "Season": 11,
+  "Level": 27,
+  "Exp": 400,
+  "NormalReward": [
+   1027
+  ],
+  "AdvancedReward": [
+   1127
+  ],
+  "PremiumRewards": [
+   1228
+  ],
+  "BuyLevel": [],
+  "BuyDayLimit": 0
+ },
+ {
+  "id": 11028,
+  "Type": 1,
+  "Season": 11,
+  "Level": 28,
+  "Exp": 400,
+  "NormalReward": [
+   1028
+  ],
+  "AdvancedReward": [
+   1128
+  ],
+  "PremiumRewards": [
+   1229
+  ],
+  "BuyLevel": [],
+  "BuyDayLimit": 0
+ },
+ {
+  "id": 11029,
+  "Type": 1,
+  "Season": 11,
+  "Level": 29,
+  "Exp": 400,
+  "NormalReward": [
+   1029
+  ],
+  "AdvancedReward": [
+   1129
+  ],
+  "PremiumRewards": [
+   1230
+  ],
+  "BuyLevel": [],
+  "BuyDayLimit": 0
+ },
+ {
+  "id": 11030,
+  "Type": 1,
+  "Season": 11,
+  "Level": 30,
+  "Exp": 0,
+  "NormalReward": [
+   1030
+  ],
+  "AdvancedReward": [
+   1130
+  ],
+  "PremiumRewards": [
+   1231
+  ],
+  "BuyLevel": [],
+  "BuyDayLimit": 0
+ },
+ {
+  "id": 12001,
+  "Type": 1,
+  "Season": 12,
+  "Level": 1,
+  "Exp": 50,
+  "NormalReward": [
+   1001
+  ],
+  "AdvancedReward": [
+   1101
+  ],
+  "PremiumRewards": [
+   1202
+  ],
+  "BuyLevel": [],
+  "BuyDayLimit": 0
+ },
+ {
+  "id": 12002,
+  "Type": 1,
+  "Season": 12,
+  "Level": 2,
+  "Exp": 50,
+  "NormalReward": [
+   1002
+  ],
+  "AdvancedReward": [
+   1102
+  ],
+  "PremiumRewards": [
+   1203
+  ],
+  "BuyLevel": [],
+  "BuyDayLimit": 0
+ },
+ {
+  "id": 12003,
+  "Type": 1,
+  "Season": 12,
+  "Level": 3,
+  "Exp": 50,
+  "NormalReward": [
+   1003
+  ],
+  "AdvancedReward": [
+   1103
+  ],
+  "PremiumRewards": [
+   1204
+  ],
+  "BuyLevel": [],
+  "BuyDayLimit": 0
+ },
+ {
+  "id": 12004,
+  "Type": 1,
+  "Season": 12,
+  "Level": 4,
+  "Exp": 50,
+  "NormalReward": [
+   1004
+  ],
+  "AdvancedReward": [
+   1104
+  ],
+  "PremiumRewards": [
+   1205
+  ],
+  "BuyLevel": [],
+  "BuyDayLimit": 0
+ },
+ {
+  "id": 12005,
+  "Type": 1,
+  "Season": 12,
+  "Level": 5,
+  "Exp": 50,
+  "NormalReward": [
+   1005
+  ],
+  "AdvancedReward": [
+   1105
+  ],
+  "PremiumRewards": [
+   1206
+  ],
+  "BuyLevel": [],
+  "BuyDayLimit": 0
+ },
+ {
+  "id": 12006,
+  "Type": 1,
+  "Season": 12,
+  "Level": 6,
+  "Exp": 100,
+  "NormalReward": [
+   1006
+  ],
+  "AdvancedReward": [
+   1106
+  ],
+  "PremiumRewards": [
+   1207
+  ],
+  "BuyLevel": [],
+  "BuyDayLimit": 0
+ },
+ {
+  "id": 12007,
+  "Type": 1,
+  "Season": 12,
+  "Level": 7,
+  "Exp": 100,
+  "NormalReward": [
+   1007
+  ],
+  "AdvancedReward": [
+   1107
+  ],
+  "PremiumRewards": [
+   1208
+  ],
+  "BuyLevel": [],
+  "BuyDayLimit": 0
+ },
+ {
+  "id": 12008,
+  "Type": 1,
+  "Season": 12,
+  "Level": 8,
+  "Exp": 100,
+  "NormalReward": [
+   1008
+  ],
+  "AdvancedReward": [
+   1108
+  ],
+  "PremiumRewards": [
+   1209
+  ],
+  "BuyLevel": [],
+  "BuyDayLimit": 0
+ },
+ {
+  "id": 12009,
+  "Type": 1,
+  "Season": 12,
+  "Level": 9,
+  "Exp": 100,
+  "NormalReward": [
+   1009
+  ],
+  "AdvancedReward": [
+   1109
+  ],
+  "PremiumRewards": [
+   1210
+  ],
+  "BuyLevel": [],
+  "BuyDayLimit": 0
+ },
+ {
+  "id": 12010,
+  "Type": 1,
+  "Season": 12,
+  "Level": 10,
+  "Exp": 100,
+  "NormalReward": [
+   1010
+  ],
+  "AdvancedReward": [
+   1110
+  ],
+  "PremiumRewards": [
+   1211
+  ],
+  "BuyLevel": [],
+  "BuyDayLimit": 0
+ },
+ {
+  "id": 12011,
+  "Type": 1,
+  "Season": 12,
+  "Level": 11,
+  "Exp": 150,
+  "NormalReward": [
+   1011
+  ],
+  "AdvancedReward": [
+   1111
+  ],
+  "PremiumRewards": [
+   1212
+  ],
+  "BuyLevel": [],
+  "BuyDayLimit": 0
+ },
+ {
+  "id": 12012,
+  "Type": 1,
+  "Season": 12,
+  "Level": 12,
+  "Exp": 150,
+  "NormalReward": [
+   1012
+  ],
+  "AdvancedReward": [
+   1112
+  ],
+  "PremiumRewards": [
+   1213
+  ],
+  "BuyLevel": [],
+  "BuyDayLimit": 0
+ },
+ {
+  "id": 12013,
+  "Type": 1,
+  "Season": 12,
+  "Level": 13,
+  "Exp": 150,
+  "NormalReward": [
+   1013
+  ],
+  "AdvancedReward": [
+   1113
+  ],
+  "PremiumRewards": [
+   1214
+  ],
+  "BuyLevel": [],
+  "BuyDayLimit": 0
+ },
+ {
+  "id": 12014,
+  "Type": 1,
+  "Season": 12,
+  "Level": 14,
+  "Exp": 150,
+  "NormalReward": [
+   1014
+  ],
+  "AdvancedReward": [
+   1114
+  ],
+  "PremiumRewards": [
+   1215
+  ],
+  "BuyLevel": [],
+  "BuyDayLimit": 0
+ },
+ {
+  "id": 12015,
+  "Type": 1,
+  "Season": 12,
+  "Level": 15,
+  "Exp": 150,
+  "NormalReward": [
+   1015
+  ],
+  "AdvancedReward": [
+   1115
+  ],
+  "PremiumRewards": [
+   1216
+  ],
+  "BuyLevel": [],
+  "BuyDayLimit": 0
+ },
+ {
+  "id": 12016,
+  "Type": 1,
+  "Season": 12,
+  "Level": 16,
+  "Exp": 200,
+  "NormalReward": [
+   1016
+  ],
+  "AdvancedReward": [
+   1116
+  ],
+  "PremiumRewards": [
+   1217
+  ],
+  "BuyLevel": [],
+  "BuyDayLimit": 0
+ },
+ {
+  "id": 12017,
+  "Type": 1,
+  "Season": 12,
+  "Level": 17,
+  "Exp": 200,
+  "NormalReward": [
+   1017
+  ],
+  "AdvancedReward": [
+   1117
+  ],
+  "PremiumRewards": [
+   1218
+  ],
+  "BuyLevel": [],
+  "BuyDayLimit": 0
+ },
+ {
+  "id": 12018,
+  "Type": 1,
+  "Season": 12,
+  "Level": 18,
+  "Exp": 200,
+  "NormalReward": [
+   1018
+  ],
+  "AdvancedReward": [
+   1118
+  ],
+  "PremiumRewards": [
+   1219
+  ],
+  "BuyLevel": [],
+  "BuyDayLimit": 0
+ },
+ {
+  "id": 12019,
+  "Type": 1,
+  "Season": 12,
+  "Level": 19,
+  "Exp": 200,
+  "NormalReward": [
+   1019
+  ],
+  "AdvancedReward": [
+   1119
+  ],
+  "PremiumRewards": [
+   1220
+  ],
+  "BuyLevel": [],
+  "BuyDayLimit": 0
+ },
+ {
+  "id": 12020,
+  "Type": 1,
+  "Season": 12,
+  "Level": 20,
+  "Exp": 200,
+  "NormalReward": [
+   1020
+  ],
+  "AdvancedReward": [
+   1120
+  ],
+  "PremiumRewards": [
+   1221
+  ],
+  "BuyLevel": [],
+  "BuyDayLimit": 0
+ },
+ {
+  "id": 12021,
+  "Type": 1,
+  "Season": 12,
+  "Level": 21,
+  "Exp": 300,
+  "NormalReward": [
+   1021
+  ],
+  "AdvancedReward": [
+   1121
+  ],
+  "PremiumRewards": [
+   1222
+  ],
+  "BuyLevel": [],
+  "BuyDayLimit": 0
+ },
+ {
+  "id": 12022,
+  "Type": 1,
+  "Season": 12,
+  "Level": 22,
+  "Exp": 300,
+  "NormalReward": [
+   1022
+  ],
+  "AdvancedReward": [
+   1122
+  ],
+  "PremiumRewards": [
+   1223
+  ],
+  "BuyLevel": [],
+  "BuyDayLimit": 0
+ },
+ {
+  "id": 12023,
+  "Type": 1,
+  "Season": 12,
+  "Level": 23,
+  "Exp": 300,
+  "NormalReward": [
+   1023
+  ],
+  "AdvancedReward": [
+   1123
+  ],
+  "PremiumRewards": [
+   1224
+  ],
+  "BuyLevel": [],
+  "BuyDayLimit": 0
+ },
+ {
+  "id": 12024,
+  "Type": 1,
+  "Season": 12,
+  "Level": 24,
+  "Exp": 300,
+  "NormalReward": [
+   1024
+  ],
+  "AdvancedReward": [
+   1124
+  ],
+  "PremiumRewards": [
+   1225
+  ],
+  "BuyLevel": [],
+  "BuyDayLimit": 0
+ },
+ {
+  "id": 12025,
+  "Type": 1,
+  "Season": 12,
+  "Level": 25,
+  "Exp": 300,
+  "NormalReward": [
+   1025
+  ],
+  "AdvancedReward": [
+   1125
+  ],
+  "PremiumRewards": [
+   1226
+  ],
+  "BuyLevel": [],
+  "BuyDayLimit": 0
+ },
+ {
+  "id": 12026,
+  "Type": 1,
+  "Season": 12,
+  "Level": 26,
+  "Exp": 400,
+  "NormalReward": [
+   1026
+  ],
+  "AdvancedReward": [
+   1126
+  ],
+  "PremiumRewards": [
+   1227
+  ],
+  "BuyLevel": [],
+  "BuyDayLimit": 0
+ },
+ {
+  "id": 12027,
+  "Type": 1,
+  "Season": 12,
+  "Level": 27,
+  "Exp": 400,
+  "NormalReward": [
+   1027
+  ],
+  "AdvancedReward": [
+   1127
+  ],
+  "PremiumRewards": [
+   1228
+  ],
+  "BuyLevel": [],
+  "BuyDayLimit": 0
+ },
+ {
+  "id": 12028,
+  "Type": 1,
+  "Season": 12,
+  "Level": 28,
+  "Exp": 400,
+  "NormalReward": [
+   1028
+  ],
+  "AdvancedReward": [
+   1128
+  ],
+  "PremiumRewards": [
+   1229
+  ],
+  "BuyLevel": [],
+  "BuyDayLimit": 0
+ },
+ {
+  "id": 12029,
+  "Type": 1,
+  "Season": 12,
+  "Level": 29,
+  "Exp": 400,
+  "NormalReward": [
+   1029
+  ],
+  "AdvancedReward": [
+   1129
+  ],
+  "PremiumRewards": [
+   1230
+  ],
+  "BuyLevel": [],
+  "BuyDayLimit": 0
+ },
+ {
+  "id": 12030,
+  "Type": 1,
+  "Season": 12,
+  "Level": 30,
+  "Exp": 0,
+  "NormalReward": [
+   1030
+  ],
+  "AdvancedReward": [
+   1130
+  ],
+  "PremiumRewards": [
+   1231
+  ],
+  "BuyLevel": [],
+  "BuyDayLimit": 0
+ },
+ {
+  "id": 20001,
+  "Type": 2,
+  "Season": 0,
+  "Level": 1,
+  "Exp": 0,
+  "NormalReward": [
+   340001
+  ],
+  "AdvancedReward": [
+   340015
+  ],
+  "PremiumRewards": [
+   340022
+  ],
+  "BuyLevel": [],
+  "BuyDayLimit": 0
+ },
+ {
+  "id": 20002,
+  "Type": 2,
+  "Season": 0,
+  "Level": 2,
+  "Exp": 0,
+  "NormalReward": [
+   340002
+  ],
+  "AdvancedReward": [
+   340016
+  ],
+  "PremiumRewards": [
+   340017
+  ],
+  "BuyLevel": [],
+  "BuyDayLimit": 0
+ },
+ {
+  "id": 20003,
+  "Type": 2,
+  "Season": 0,
+  "Level": 3,
+  "Exp": 0,
+  "NormalReward": [
+   340003
+  ],
+  "AdvancedReward": [
+   340016
+  ],
+  "PremiumRewards": [
+   340017
+  ],
+  "BuyLevel": [],
+  "BuyDayLimit": 0
+ },
+ {
+  "id": 20004,
+  "Type": 2,
+  "Season": 0,
+  "Level": 4,
+  "Exp": 0,
+  "NormalReward": [
+   340004
+  ],
+  "AdvancedReward": [
+   340018
+  ],
+  "PremiumRewards": [
+   340019
+  ],
+  "BuyLevel": [],
+  "BuyDayLimit": 0
+ },
+ {
+  "id": 20005,
+  "Type": 2,
+  "Season": 0,
+  "Level": 5,
+  "Exp": 0,
+  "NormalReward": [
+   340005
+  ],
+  "AdvancedReward": [
+   340016
+  ],
+  "PremiumRewards": [
+   340017
+  ],
+  "BuyLevel": [],
+  "BuyDayLimit": 0
+ },
+ {
+  "id": 20006,
+  "Type": 2,
+  "Season": 0,
+  "Level": 6,
+  "Exp": 0,
+  "NormalReward": [
+   340006
+  ],
+  "AdvancedReward": [
+   340016
+  ],
+  "PremiumRewards": [
+   340017
+  ],
+  "BuyLevel": [],
+  "BuyDayLimit": 0
+ },
+ {
+  "id": 20007,
+  "Type": 2,
+  "Season": 0,
+  "Level": 7,
+  "Exp": 0,
+  "NormalReward": [
+   340007
+  ],
+  "AdvancedReward": [
+   340018
+  ],
+  "PremiumRewards": [
+   340019
+  ],
+  "BuyLevel": [],
+  "BuyDayLimit": 0
+ },
+ {
+  "id": 30001,
+  "Type": 3,
+  "Season": 0,
+  "Level": 1,
+  "Exp": 100,
+  "NormalReward": [
+   3440001
+  ],
+  "AdvancedReward": [
+   3440101
+  ],
+  "PremiumRewards": [
+   3440201
+  ],
+  "BuyLevel": [
+   124,
+   20
+  ],
+  "BuyDayLimit": 21
+ },
+ {
+  "id": 30002,
+  "Type": 3,
+  "Season": 0,
+  "Level": 2,
+  "Exp": 100,
+  "NormalReward": [
+   3440002
+  ],
+  "AdvancedReward": [
+   3440102
+  ],
+  "PremiumRewards": [
+   3440202
+  ],
+  "BuyLevel": [
+   124,
+   20
+  ],
+  "BuyDayLimit": 21
+ },
+ {
+  "id": 30003,
+  "Type": 3,
+  "Season": 0,
+  "Level": 3,
+  "Exp": 200,
+  "NormalReward": [
+   3440003
+  ],
+  "AdvancedReward": [
+   3440103
+  ],
+  "PremiumRewards": [
+   3440203
+  ],
+  "BuyLevel": [
+   124,
+   20
+  ],
+  "BuyDayLimit": 21
+ },
+ {
+  "id": 30004,
+  "Type": 3,
+  "Season": 0,
+  "Level": 4,
+  "Exp": 200,
+  "NormalReward": [
+   3440004
+  ],
+  "AdvancedReward": [
+   3440104
+  ],
+  "PremiumRewards": [
+   3440204
+  ],
+  "BuyLevel": [
+   124,
+   20
+  ],
+  "BuyDayLimit": 21
+ },
+ {
+  "id": 30005,
+  "Type": 3,
+  "Season": 0,
+  "Level": 5,
+  "Exp": 300,
+  "NormalReward": [
+   3440005
+  ],
+  "AdvancedReward": [
+   3440105
+  ],
+  "PremiumRewards": [
+   3440205
+  ],
+  "BuyLevel": [
+   124,
+   20
+  ],
+  "BuyDayLimit": 20
+ },
+ {
+  "id": 30006,
+  "Type": 3,
+  "Season": 0,
+  "Level": 6,
+  "Exp": 300,
+  "NormalReward": [
+   3440006
+  ],
+  "AdvancedReward": [
+   3440106
+  ],
+  "PremiumRewards": [
+   3440206
+  ],
+  "BuyLevel": [
+   124,
+   20
+  ],
+  "BuyDayLimit": 20
+ },
+ {
+  "id": 30007,
+  "Type": 3,
+  "Season": 0,
+  "Level": 7,
+  "Exp": 400,
+  "NormalReward": [
+   3440007
+  ],
+  "AdvancedReward": [
+   3440107
+  ],
+  "PremiumRewards": [
+   3440207
+  ],
+  "BuyLevel": [
+   124,
+   20
+  ],
+  "BuyDayLimit": 20
+ },
+ {
+  "id": 30008,
+  "Type": 3,
+  "Season": 0,
+  "Level": 8,
+  "Exp": 400,
+  "NormalReward": [
+   3440008
+  ],
+  "AdvancedReward": [
+   3440108
+  ],
+  "PremiumRewards": [
+   3440208
+  ],
+  "BuyLevel": [
+   124,
+   20
+  ],
+  "BuyDayLimit": 18
+ },
+ {
+  "id": 30009,
+  "Type": 3,
+  "Season": 0,
+  "Level": 9,
+  "Exp": 500,
+  "NormalReward": [
+   3440009
+  ],
+  "AdvancedReward": [
+   3440109
+  ],
+  "PremiumRewards": [
+   3440209
+  ],
+  "BuyLevel": [
+   124,
+   20
+  ],
+  "BuyDayLimit": 18
+ },
+ {
+  "id": 30010,
+  "Type": 3,
+  "Season": 0,
+  "Level": 10,
+  "Exp": 500,
+  "NormalReward": [
+   3440010
+  ],
+  "AdvancedReward": [
+   3440110
+  ],
+  "PremiumRewards": [
+   3440210
+  ],
+  "BuyLevel": [
+   124,
+   20
+  ],
+  "BuyDayLimit": 18
+ },
+ {
+  "id": 30011,
+  "Type": 3,
+  "Season": 0,
+  "Level": 11,
+  "Exp": 600,
+  "NormalReward": [
+   3440011
+  ],
+  "AdvancedReward": [
+   3440111
+  ],
+  "PremiumRewards": [
+   3440211
+  ],
+  "BuyLevel": [
+   124,
+   20
+  ],
+  "BuyDayLimit": 15
+ },
+ {
+  "id": 30012,
+  "Type": 3,
+  "Season": 0,
+  "Level": 12,
+  "Exp": 600,
+  "NormalReward": [
+   3440012
+  ],
+  "AdvancedReward": [
+   3440112
+  ],
+  "PremiumRewards": [
+   3440212
+  ],
+  "BuyLevel": [
+   124,
+   20
+  ],
+  "BuyDayLimit": 15
+ },
+ {
+  "id": 30013,
+  "Type": 3,
+  "Season": 0,
+  "Level": 13,
+  "Exp": 700,
+  "NormalReward": [
+   3440013
+  ],
+  "AdvancedReward": [
+   3440113
+  ],
+  "PremiumRewards": [
+   3440213
+  ],
+  "BuyLevel": [
+   124,
+   20
+  ],
+  "BuyDayLimit": 12
+ },
+ {
+  "id": 30014,
+  "Type": 3,
+  "Season": 0,
+  "Level": 14,
+  "Exp": 700,
+  "NormalReward": [
+   3440014
+  ],
+  "AdvancedReward": [
+   3440114
+  ],
+  "PremiumRewards": [
+   3440214
+  ],
+  "BuyLevel": [
+   124,
+   20
+  ],
+  "BuyDayLimit": 12
+ },
+ {
+  "id": 30015,
+  "Type": 3,
+  "Season": 0,
+  "Level": 15,
+  "Exp": 800,
+  "NormalReward": [
+   3440015
+  ],
+  "AdvancedReward": [
+   3440115
+  ],
+  "PremiumRewards": [
+   3440215
+  ],
+  "BuyLevel": [
+   124,
+   20
+  ],
+  "BuyDayLimit": 9
+ },
+ {
+  "id": 30016,
+  "Type": 3,
+  "Season": 0,
+  "Level": 16,
+  "Exp": 800,
+  "NormalReward": [
+   3440016
+  ],
+  "AdvancedReward": [
+   3440116
+  ],
+  "PremiumRewards": [
+   3440216
+  ],
+  "BuyLevel": [
+   124,
+   20
+  ],
+  "BuyDayLimit": 9
+ },
+ {
+  "id": 30017,
+  "Type": 3,
+  "Season": 0,
+  "Level": 17,
+  "Exp": 900,
+  "NormalReward": [
+   3440017
+  ],
+  "AdvancedReward": [
+   3440117
+  ],
+  "PremiumRewards": [
+   3440217
+  ],
+  "BuyLevel": [
+   124,
+   20
+  ],
+  "BuyDayLimit": 6
+ },
+ {
+  "id": 30018,
+  "Type": 3,
+  "Season": 0,
+  "Level": 18,
+  "Exp": 900,
+  "NormalReward": [
+   3440018
+  ],
+  "AdvancedReward": [
+   3440118
+  ],
+  "PremiumRewards": [
+   3440218
+  ],
+  "BuyLevel": [
+   124,
+   20
+  ],
+  "BuyDayLimit": 6
+ },
+ {
+  "id": 30019,
+  "Type": 3,
+  "Season": 0,
+  "Level": 19,
+  "Exp": 1000,
+  "NormalReward": [
+   3440019
+  ],
+  "AdvancedReward": [
+   3440119
+  ],
+  "PremiumRewards": [
+   3440219
+  ],
+  "BuyLevel": [
+   124,
+   20
+  ],
+  "BuyDayLimit": 3
+ },
+ {
+  "id": 30020,
+  "Type": 3,
+  "Season": 0,
+  "Level": 20,
+  "Exp": 0,
+  "NormalReward": [
+   3440020
+  ],
+  "AdvancedReward": [
+   3440120
+  ],
+  "PremiumRewards": [
+   3440220
+  ],
+  "BuyLevel": [
+   124,
+   20
+  ],
+  "BuyDayLimit": 3
+ }
+]

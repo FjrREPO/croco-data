@@ -1,0 +1,41 @@
+[
+ {
+  "ID": 1,
+  "Icon": "boss_icon_light12",
+  "PrefabPath": "",
+  "MainTex": "",
+  "EnableOverlay": 1,
+  "OverlayTex": "Effect_Tex_Avatar_002",
+  "OverlayColor": "#7C00FF",
+  "OverlayGlow": 8.0,
+  "OverlayBlend": 0.1599999964237213,
+  "SpeedXAxis": 0.25,
+  "SpeedYAxis": 0.25
+ },
+ {
+  "ID": 2,
+  "Icon": "boss_icon_light22",
+  "PrefabPath": "",
+  "MainTex": "",
+  "EnableOverlay": 1,
+  "OverlayTex": "Effect_Tex_Avatar_002",
+  "OverlayColor": "#FF9C00",
+  "OverlayGlow": 5.699999809265137,
+  "OverlayBlend": 0.17000000178813934,
+  "SpeedXAxis": 0.25,
+  "SpeedYAxis": 0.25
+ },
+ {
+  "ID": 3,
+  "Icon": "boss_icon_light32",
+  "PrefabPath": "",
+  "MainTex": "",
+  "EnableOverlay": 1,
+  "OverlayTex": "Effect_Tex_Avatar_001",
+  "OverlayColor": "#FFFFFF",
+  "OverlayGlow": 4.0,
+  "OverlayBlend": 0.30000001192092896,
+  "SpeedXAxis": 0.25,
+  "SpeedYAxis": 0.25
+ }
+]

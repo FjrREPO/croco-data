@@ -1,0 +1,14 @@
+[
+ {
+  "SkillID": 23020320,
+  "ReleaseCondition": [
+   911,
+   912
+  ],
+  "TargetPicker": 11,
+  "ActiveDelay": 10000,
+  "EffectIDs": [
+   23020310
+  ]
+ }
+]

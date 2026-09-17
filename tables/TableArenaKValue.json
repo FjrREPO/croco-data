@@ -1,0 +1,37 @@
+[
+ {
+  "rankrangemax": 1,
+  "rankrangemin": 10,
+  "Kvalue": 20
+ },
+ {
+  "rankrangemax": 11,
+  "rankrangemin": 20,
+  "Kvalue": 20
+ },
+ {
+  "rankrangemax": 21,
+  "rankrangemin": 50,
+  "Kvalue": 20
+ },
+ {
+  "rankrangemax": 51,
+  "rankrangemin": 100,
+  "Kvalue": 20
+ },
+ {
+  "rankrangemax": 101,
+  "rankrangemin": 200,
+  "Kvalue": 20
+ },
+ {
+  "rankrangemax": 201,
+  "rankrangemin": 500,
+  "Kvalue": 20
+ },
+ {
+  "rankrangemax": 501,
+  "rankrangemin": -1,
+  "Kvalue": 20
+ }
+]

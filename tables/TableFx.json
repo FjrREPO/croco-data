@@ -1,0 +1,2706 @@
+[
+ {
+  "FxID": "SenderFx_11020100",
+  "PosID": 1,
+  "RandomOffset": 0,
+  "RotateRange": 0,
+  "RotateType": 0,
+  "MoveOut": 0
+ },
+ {
+  "FxID": "SenderFx_11020104",
+  "PosID": 1,
+  "RandomOffset": 0,
+  "RotateRange": 0,
+  "RotateType": 0,
+  "MoveOut": 0
+ },
+ {
+  "FxID": "SenderFx_11020101",
+  "PosID": 1,
+  "RandomOffset": 0,
+  "RotateRange": 0,
+  "RotateType": 0,
+  "MoveOut": 0
+ },
+ {
+  "FxID": "SenderFx_11020102",
+  "PosID": 1,
+  "RandomOffset": 0,
+  "RotateRange": 0,
+  "RotateType": 0,
+  "MoveOut": 0
+ },
+ {
+  "FxID": "SenderFx_11020103",
+  "PosID": 1,
+  "RandomOffset": 0,
+  "RotateRange": 0,
+  "RotateType": 0,
+  "MoveOut": 0
+ },
+ {
+  "FxID": "Bullet_11020101",
+  "PosID": 1,
+  "RandomOffset": 0,
+  "RotateRange": 0,
+  "RotateType": 0,
+  "MoveOut": 0
+ },
+ {
+  "FxID": "Bullet_11040200",
+  "PosID": 1,
+  "RandomOffset": 0,
+  "RotateRange": 0,
+  "RotateType": 0,
+  "MoveOut": 0
+ },
+ {
+  "FxID": "Bullet_11030100",
+  "PosID": 1,
+  "RandomOffset": 0,
+  "RotateRange": 0,
+  "RotateType": 0,
+  "MoveOut": 0
+ },
+ {
+  "FxID": "Bullet_11030200",
+  "PosID": 1,
+  "RandomOffset": 0,
+  "RotateRange": 0,
+  "RotateType": 0,
+  "MoveOut": 0
+ },
+ {
+  "FxID": "Bullet_11040100",
+  "PosID": 1,
+  "RandomOffset": 0,
+  "RotateRange": 0,
+  "RotateType": 0,
+  "MoveOut": 0
+ },
+ {
+  "FxID": "Bullet_11040210",
+  "PosID": 3,
+  "RandomOffset": 0,
+  "RotateRange": 0,
+  "RotateType": 0,
+  "MoveOut": 0
+ },
+ {
+  "FxID": "Bullet_11050100",
+  "PosID": 1,
+  "RandomOffset": 0,
+  "RotateRange": 0,
+  "RotateType": 0,
+  "MoveOut": 0
+ },
+ {
+  "FxID": "Bullet_11060100",
+  "PosID": 1,
+  "RandomOffset": 0,
+  "RotateRange": 0,
+  "RotateType": 0,
+  "MoveOut": 0
+ },
+ {
+  "FxID": "Bullet_11060210",
+  "PosID": 1,
+  "RandomOffset": 0,
+  "RotateRange": 0,
+  "RotateType": 0,
+  "MoveOut": 0
+ },
+ {
+  "FxID": "Bullet_11060400",
+  "PosID": 1,
+  "RandomOffset": 0,
+  "RotateRange": 0,
+  "RotateType": 0,
+  "MoveOut": 0
+ },
+ {
+  "FxID": "ForceField_11060410",
+  "PosID": 1,
+  "RandomOffset": 0,
+  "RotateRange": 0,
+  "RotateType": 0,
+  "MoveOut": 0
+ },
+ {
+  "FxID": "Lighting_11060420",
+  "PosID": 1,
+  "RandomOffset": 0,
+  "RotateRange": 0,
+  "RotateType": 0,
+  "MoveOut": 0
+ },
+ {
+  "FxID": "Bullet_12000300",
+  "PosID": 1,
+  "RandomOffset": 0,
+  "RotateRange": 0,
+  "RotateType": 0,
+  "MoveOut": 0
+ },
+ {
+  "FxID": "Bullet_12030100",
+  "PosID": 1,
+  "RandomOffset": 0,
+  "RotateRange": 0,
+  "RotateType": 0,
+  "MoveOut": 0
+ },
+ {
+  "FxID": "Bullet_12030200",
+  "PosID": 1,
+  "RandomOffset": 0,
+  "RotateRange": 0,
+  "RotateType": 0,
+  "MoveOut": 0
+ },
+ {
+  "FxID": "Bullet_12060100",
+  "PosID": 1,
+  "RandomOffset": 0,
+  "RotateRange": 0,
+  "RotateType": 0,
+  "MoveOut": 0
+ },
+ {
+  "FxID": "Bullet_12060400",
+  "PosID": 1,
+  "RandomOffset": 0,
+  "RotateRange": 0,
+  "RotateType": 0,
+  "MoveOut": 0
+ },
+ {
+  "FxID": "Lighting_12060410",
+  "PosID": 1,
+  "RandomOffset": 0,
+  "RotateRange": 0,
+  "RotateType": 0,
+  "MoveOut": 0
+ },
+ {
+  "FxID": "Bullet_13020100",
+  "PosID": 1,
+  "RandomOffset": 0,
+  "RotateRange": 0,
+  "RotateType": 0,
+  "MoveOut": 0
+ },
+ {
+  "FxID": "Bullet_13020111",
+  "PosID": 1,
+  "RandomOffset": 0,
+  "RotateRange": 0,
+  "RotateType": 0,
+  "MoveOut": 0
+ },
+ {
+  "FxID": "Bullet_13030100",
+  "PosID": 1,
+  "RandomOffset": 0,
+  "RotateRange": 0,
+  "RotateType": 0,
+  "MoveOut": 0
+ },
+ {
+  "FxID": "Bullet_13030200",
+  "PosID": 1,
+  "RandomOffset": 0,
+  "RotateRange": 0,
+  "RotateType": 0,
+  "MoveOut": 0
+ },
+ {
+  "FxID": "Bullet_13040200",
+  "PosID": 1,
+  "RandomOffset": 0,
+  "RotateRange": 0,
+  "RotateType": 0,
+  "MoveOut": 0
+ },
+ {
+  "FxID": "Bullet_130501100",
+  "PosID": 2,
+  "RandomOffset": 0,
+  "RotateRange": 0,
+  "RotateType": 0,
+  "MoveOut": 0
+ },
+ {
+  "FxID": "Bullet_13060110",
+  "PosID": 1,
+  "RandomOffset": 0,
+  "RotateRange": 0,
+  "RotateType": 0,
+  "MoveOut": 0
+ },
+ {
+  "FxID": "Bullet_13060200",
+  "PosID": 1,
+  "RandomOffset": 0,
+  "RotateRange": 0,
+  "RotateType": 0,
+  "MoveOut": 0
+ },
+ {
+  "FxID": "ForceField_13060220",
+  "PosID": 1,
+  "RandomOffset": 0,
+  "RotateRange": 0,
+  "RotateType": 0,
+  "MoveOut": 0
+ },
+ {
+  "FxID": "Wave_13060310",
+  "PosID": 1,
+  "RandomOffset": 0,
+  "RotateRange": 0,
+  "RotateType": 0,
+  "MoveOut": 0
+ },
+ {
+  "FxID": "ReceiverFx_22010310",
+  "PosID": 1,
+  "RandomOffset": 0,
+  "RotateRange": 0,
+  "RotateType": 0,
+  "MoveOut": 0
+ },
+ {
+  "FxID": "Lighting_12060110",
+  "PosID": 1,
+  "RandomOffset": 0,
+  "RotateRange": 0,
+  "RotateType": 0,
+  "MoveOut": 0
+ },
+ {
+  "FxID": "Bullet_12020100",
+  "PosID": 1,
+  "RandomOffset": 0,
+  "RotateRange": 0,
+  "RotateType": 0,
+  "MoveOut": 0
+ },
+ {
+  "FxID": "SenderFx_12020110",
+  "PosID": 2,
+  "RandomOffset": 0,
+  "RotateRange": 0,
+  "RotateType": 0,
+  "MoveOut": 0
+ },
+ {
+  "FxID": "ReceiverFx_12030110",
+  "PosID": 2,
+  "RandomOffset": 0,
+  "RotateRange": 0,
+  "RotateType": 0,
+  "MoveOut": 0
+ },
+ {
+  "FxID": "Bullet_14010100",
+  "PosID": 1,
+  "RandomOffset": 0,
+  "RotateRange": 0,
+  "RotateType": 0,
+  "MoveOut": 0
+ },
+ {
+  "FxID": "Bullet_14020100",
+  "PosID": 1,
+  "RandomOffset": 0,
+  "RotateRange": 0,
+  "RotateType": 0,
+  "MoveOut": 0
+ },
+ {
+  "FxID": "Bullet_14020200",
+  "PosID": 1,
+  "RandomOffset": 0,
+  "RotateRange": 0,
+  "RotateType": 0,
+  "MoveOut": 0
+ },
+ {
+  "FxID": "Bullet_14030200",
+  "PosID": 1,
+  "RandomOffset": 0,
+  "RotateRange": 0,
+  "RotateType": 0,
+  "MoveOut": 0
+ },
+ {
+  "FxID": "Bullet_14040100",
+  "PosID": 1,
+  "RandomOffset": 0,
+  "RotateRange": 0,
+  "RotateType": 0,
+  "MoveOut": 0
+ },
+ {
+  "FxID": "Bullet_14040200",
+  "PosID": 1,
+  "RandomOffset": 0,
+  "RotateRange": 0,
+  "RotateType": 0,
+  "MoveOut": 0
+ },
+ {
+  "FxID": "Bullet_14040300",
+  "PosID": 1,
+  "RandomOffset": 0,
+  "RotateRange": 0,
+  "RotateType": 0,
+  "MoveOut": 0
+ },
+ {
+  "FxID": "Bullet_14040103",
+  "PosID": 1,
+  "RandomOffset": 0,
+  "RotateRange": 0,
+  "RotateType": 0,
+  "MoveOut": 0
+ },
+ {
+  "FxID": "SenderFx_14070111",
+  "PosID": 3,
+  "RandomOffset": 0,
+  "RotateRange": 0,
+  "RotateType": 0,
+  "MoveOut": 0
+ },
+ {
+  "FxID": "LinkField_190302100",
+  "PosID": 8,
+  "RandomOffset": 0,
+  "RotateRange": 0,
+  "RotateType": 0,
+  "MoveOut": 0
+ },
+ {
+  "FxID": "SenderFx_450101110",
+  "PosID": 1,
+  "RandomOffset": 0,
+  "RotateRange": 0,
+  "RotateType": 0,
+  "MoveOut": 0
+ },
+ {
+  "FxID": "Bullet_14070200",
+  "PosID": 1,
+  "RandomOffset": 0,
+  "RotateRange": 0,
+  "RotateType": 0,
+  "MoveOut": 0
+ },
+ {
+  "FxID": "SenderFx_430301100",
+  "PosID": 1,
+  "RandomOffset": 0,
+  "RotateRange": 0,
+  "RotateType": 0,
+  "MoveOut": 0
+ },
+ {
+  "FxID": "Wave_430301101",
+  "PosID": 1,
+  "RandomOffset": 0,
+  "RotateRange": 0,
+  "RotateType": 0,
+  "MoveOut": 0
+ },
+ {
+  "FxID": "Bullet_13070200",
+  "PosID": 1,
+  "RandomOffset": 0,
+  "RotateRange": 0,
+  "RotateType": 0,
+  "MoveOut": 0
+ },
+ {
+  "FxID": "Buff_110702100",
+  "PosID": 1,
+  "RandomOffset": 0,
+  "RotateRange": 0,
+  "RotateType": 0,
+  "MoveOut": 0
+ },
+ {
+  "FxID": "SenderFx_110702101",
+  "PosID": 1,
+  "RandomOffset": 0,
+  "RotateRange": 0,
+  "RotateType": 0,
+  "MoveOut": 0
+ },
+ {
+  "FxID": "ReceiverFx_110702102",
+  "PosID": 998,
+  "RandomOffset": 0,
+  "RotateRange": 0,
+  "RotateType": 0,
+  "MoveOut": 0
+ },
+ {
+  "FxID": "Fetters_1000060400",
+  "PosID": 999,
+  "RandomOffset": 0,
+  "RotateRange": 0,
+  "RotateType": 0,
+  "MoveOut": 0
+ },
+ {
+  "FxID": "Fetters_100010130",
+  "PosID": 999,
+  "RandomOffset": 0,
+  "RotateRange": 0,
+  "RotateType": 0,
+  "MoveOut": 0
+ },
+ {
+  "FxID": "SenderFx_12050110",
+  "PosID": 1,
+  "RandomOffset": 0,
+  "RotateRange": 0,
+  "RotateType": 0,
+  "MoveOut": 0
+ },
+ {
+  "FxID": "ReceiverFx_12030220",
+  "PosID": 1,
+  "RandomOffset": 0,
+  "RotateRange": 0,
+  "RotateType": 0,
+  "MoveOut": 0
+ },
+ {
+  "FxID": "SenderFx_150501120",
+  "PosID": 999,
+  "RandomOffset": 0,
+  "RotateRange": 0,
+  "RotateType": 0,
+  "MoveOut": 0
+ },
+ {
+  "FxID": "ReceiverFx_150501230",
+  "PosID": 998,
+  "RandomOffset": 0,
+  "RotateRange": 0,
+  "RotateType": 0,
+  "MoveOut": 0
+ },
+ {
+  "FxID": "Bullet_210401000",
+  "PosID": 1,
+  "RandomOffset": 0,
+  "RotateRange": 0,
+  "RotateType": 0,
+  "MoveOut": 0
+ },
+ {
+  "FxID": "Bullet_210401100",
+  "PosID": 1,
+  "RandomOffset": 0,
+  "RotateRange": 0,
+  "RotateType": 0,
+  "MoveOut": 0
+ },
+ {
+  "FxID": "ReceiverFx_210401101",
+  "PosID": 2,
+  "RandomOffset": 0,
+  "RotateRange": 0,
+  "RotateType": 0,
+  "MoveOut": 0
+ },
+ {
+  "FxID": "ReceiverFx_810202100",
+  "PosID": 1,
+  "RandomOffset": 0,
+  "RotateRange": 0,
+  "RotateType": 0,
+  "MoveOut": 0
+ },
+ {
+  "FxID": "Buff_810202300",
+  "PosID": 1,
+  "RandomOffset": 0,
+  "RotateRange": 0,
+  "RotateType": 0,
+  "MoveOut": 0
+ },
+ {
+  "FxID": "Bullet_810202000",
+  "PosID": 1,
+  "RandomOffset": 0,
+  "RotateRange": 0,
+  "RotateType": 0,
+  "MoveOut": 0
+ },
+ {
+  "FxID": "Bullet_810202100",
+  "PosID": 1,
+  "RandomOffset": 0,
+  "RotateRange": 0,
+  "RotateType": 0,
+  "MoveOut": 0
+ },
+ {
+  "FxID": "Bullet_910102000",
+  "PosID": 1,
+  "RandomOffset": 0,
+  "RotateRange": 0,
+  "RotateType": 0,
+  "MoveOut": 0
+ },
+ {
+  "FxID": "Bullet_210301000",
+  "PosID": 1,
+  "RandomOffset": 0,
+  "RotateRange": 0,
+  "RotateType": 0,
+  "MoveOut": 0
+ },
+ {
+  "FxID": "Bullet_210301100",
+  "PosID": 1,
+  "RandomOffset": 0,
+  "RotateRange": 0,
+  "RotateType": 0,
+  "MoveOut": 0
+ },
+ {
+  "FxID": "Bullet_810204100",
+  "PosID": 1,
+  "RandomOffset": 0,
+  "RotateRange": 0,
+  "RotateType": 0,
+  "MoveOut": 0
+ },
+ {
+  "FxID": "Bullet_910104000",
+  "PosID": 1,
+  "RandomOffset": 0,
+  "RotateRange": 0,
+  "RotateType": 0,
+  "MoveOut": 0
+ },
+ {
+  "FxID": "Bullet_820203000",
+  "PosID": 1,
+  "RandomOffset": 0,
+  "RotateRange": 0,
+  "RotateType": 0,
+  "MoveOut": 0
+ },
+ {
+  "FxID": "Bullet_910303000",
+  "PosID": 1,
+  "RandomOffset": 0,
+  "RotateRange": 0,
+  "RotateType": 0,
+  "MoveOut": 0
+ },
+ {
+  "FxID": "Bullet_910304000",
+  "PosID": 1,
+  "RandomOffset": 0,
+  "RotateRange": 0,
+  "RotateType": 0,
+  "MoveOut": 0
+ },
+ {
+  "FxID": "Bullet_910203000",
+  "PosID": 1,
+  "RandomOffset": 0,
+  "RotateRange": 0,
+  "RotateType": 0,
+  "MoveOut": 0
+ },
+ {
+  "FxID": "Bullet_910204000",
+  "PosID": 1,
+  "RandomOffset": 0,
+  "RotateRange": 0,
+  "RotateType": 0,
+  "MoveOut": 0
+ },
+ {
+  "FxID": "ReceiverFx_820201100",
+  "PosID": 1,
+  "RandomOffset": 0,
+  "RotateRange": 0,
+  "RotateType": 0,
+  "MoveOut": 0
+ },
+ {
+  "FxID": "Bullet_820204000",
+  "PosID": 1,
+  "RandomOffset": 0,
+  "RotateRange": 0,
+  "RotateType": 0,
+  "MoveOut": 0
+ },
+ {
+  "FxID": "Bullet_830204000",
+  "PosID": 1,
+  "RandomOffset": 0,
+  "RotateRange": 0,
+  "RotateType": 0,
+  "MoveOut": 0
+ },
+ {
+  "FxID": "Bullet_830202000",
+  "PosID": 1,
+  "RandomOffset": 0,
+  "RotateRange": 0,
+  "RotateType": 0,
+  "MoveOut": 0
+ },
+ {
+  "FxID": "ReceiverFx_950101250",
+  "PosID": 5,
+  "RandomOffset": 0,
+  "RotateRange": 0,
+  "RotateType": 0,
+  "MoveOut": 0
+ },
+ {
+  "FxID": "ReceiverFx_602007",
+  "PosID": 998,
+  "RandomOffset": 0,
+  "RotateRange": 0,
+  "RotateType": 0,
+  "MoveOut": 0
+ },
+ {
+  "FxID": "ReceiverFx_602003",
+  "PosID": 998,
+  "RandomOffset": 0,
+  "RotateRange": 0,
+  "RotateType": 0,
+  "MoveOut": 0
+ },
+ {
+  "FxID": "ReceiverFx_30015",
+  "PosID": 999,
+  "RandomOffset": 0,
+  "RotateRange": 0,
+  "RotateType": 0,
+  "MoveOut": 0
+ },
+ {
+  "FxID": "Bullet_140501100",
+  "PosID": 1,
+  "RandomOffset": 0,
+  "RotateRange": 0,
+  "RotateType": 0,
+  "MoveOut": 0
+ },
+ {
+  "FxID": "Bullet_190103100",
+  "PosID": 1,
+  "RandomOffset": 0,
+  "RotateRange": 0,
+  "RotateType": 0,
+  "MoveOut": 0
+ },
+ {
+  "FxID": "SenderFx_190201100",
+  "PosID": 999,
+  "RandomOffset": 0,
+  "RotateRange": 0,
+  "RotateType": 0,
+  "MoveOut": 0
+ },
+ {
+  "FxID": "Bullet_11000100",
+  "PosID": 2,
+  "RandomOffset": 0,
+  "RotateRange": 0,
+  "RotateType": 0,
+  "MoveOut": 0
+ },
+ {
+  "FxID": "SenderFx_190101102",
+  "PosID": 999,
+  "RandomOffset": 0,
+  "RotateRange": 0,
+  "RotateType": 0,
+  "MoveOut": 0
+ },
+ {
+  "FxID": "ReceiverFx_140501103",
+  "PosID": 999,
+  "RandomOffset": 0,
+  "RotateRange": 0,
+  "RotateType": 0,
+  "MoveOut": 0
+ },
+ {
+  "FxID": "SenderFx_140501100",
+  "PosID": 999,
+  "RandomOffset": 0,
+  "RotateRange": 0,
+  "RotateType": 0,
+  "MoveOut": 0
+ },
+ {
+  "FxID": "Bullet_191101000",
+  "PosID": 1,
+  "RandomOffset": 0,
+  "RotateRange": 0,
+  "RotateType": 0,
+  "MoveOut": 0
+ },
+ {
+  "FxID": "ReceiverFx_191101002",
+  "PosID": 998,
+  "RandomOffset": 0,
+  "RotateRange": 0,
+  "RotateType": 0,
+  "MoveOut": 0
+ },
+ {
+  "FxID": "ReceiverFx_191101003",
+  "PosID": 998,
+  "RandomOffset": 0,
+  "RotateRange": 0,
+  "RotateType": 0,
+  "MoveOut": 0
+ },
+ {
+  "FxID": "SenderFx_191101100",
+  "PosID": 2,
+  "RandomOffset": 0,
+  "RotateRange": 0,
+  "RotateType": 0,
+  "MoveOut": 0
+ },
+ {
+  "FxID": "ReceiverFx_191101101",
+  "PosID": 998,
+  "RandomOffset": 0,
+  "RotateRange": 0,
+  "RotateType": 0,
+  "MoveOut": 0
+ },
+ {
+  "FxID": "SenderFx_191101200",
+  "PosID": 998,
+  "RandomOffset": 0,
+  "RotateRange": 0,
+  "RotateType": 0,
+  "MoveOut": 0
+ },
+ {
+  "FxID": "SenderFx_191101300",
+  "PosID": 998,
+  "RandomOffset": 0,
+  "RotateRange": 0,
+  "RotateType": 0,
+  "MoveOut": 0
+ },
+ {
+  "FxID": "ReceiverFx_140502100",
+  "PosID": 999,
+  "RandomOffset": 0,
+  "RotateRange": 0,
+  "RotateType": 0,
+  "MoveOut": 0
+ },
+ {
+  "FxID": "Bullet_140502000",
+  "PosID": 1,
+  "RandomOffset": 0,
+  "RotateRange": 0,
+  "RotateType": 0,
+  "MoveOut": 0
+ },
+ {
+  "FxID": "ReceiverFx_140502101",
+  "PosID": 999,
+  "RandomOffset": 0,
+  "RotateRange": 0,
+  "RotateType": 0,
+  "MoveOut": 0
+ },
+ {
+  "FxID": "Bullet_501001000",
+  "PosID": 1,
+  "RandomOffset": 0,
+  "RotateRange": 0,
+  "RotateType": 0,
+  "MoveOut": 0
+ },
+ {
+  "FxID": "Bullet_501002010",
+  "PosID": 1,
+  "RandomOffset": 0,
+  "RotateRange": 0,
+  "RotateType": 0,
+  "MoveOut": 0
+ },
+ {
+  "FxID": "Bullet_501003000",
+  "PosID": 1,
+  "RandomOffset": 0,
+  "RotateRange": 0,
+  "RotateType": 0,
+  "MoveOut": 0
+ },
+ {
+  "FxID": "Bullet_501004000",
+  "PosID": 1,
+  "RandomOffset": 0,
+  "RotateRange": 0,
+  "RotateType": 0,
+  "MoveOut": 0
+ },
+ {
+  "FxID": "Bullet_501005010",
+  "PosID": 1,
+  "RandomOffset": 0,
+  "RotateRange": 0,
+  "RotateType": 0,
+  "MoveOut": 0
+ },
+ {
+  "FxID": "Bullet_502001000",
+  "PosID": 1,
+  "RandomOffset": 0,
+  "RotateRange": 0,
+  "RotateType": 0,
+  "MoveOut": 0
+ },
+ {
+  "FxID": "Bullet_502002000",
+  "PosID": 1,
+  "RandomOffset": 0,
+  "RotateRange": 0,
+  "RotateType": 0,
+  "MoveOut": 0
+ },
+ {
+  "FxID": "Bullet_502003010",
+  "PosID": 1,
+  "RandomOffset": 0,
+  "RotateRange": 0,
+  "RotateType": 0,
+  "MoveOut": 0
+ },
+ {
+  "FxID": "Bullet_502004010",
+  "PosID": 1,
+  "RandomOffset": 0,
+  "RotateRange": 0,
+  "RotateType": 0,
+  "MoveOut": 0
+ },
+ {
+  "FxID": "Bullet_502005010",
+  "PosID": 1,
+  "RandomOffset": 0,
+  "RotateRange": 0,
+  "RotateType": 0,
+  "MoveOut": 0
+ },
+ {
+  "FxID": "Bullet_503001000",
+  "PosID": 1,
+  "RandomOffset": 0,
+  "RotateRange": 0,
+  "RotateType": 0,
+  "MoveOut": 0
+ },
+ {
+  "FxID": "Bullet_503002000",
+  "PosID": 1,
+  "RandomOffset": 0,
+  "RotateRange": 0,
+  "RotateType": 0,
+  "MoveOut": 0
+ },
+ {
+  "FxID": "Bullet_503003010",
+  "PosID": 1,
+  "RandomOffset": 0,
+  "RotateRange": 0,
+  "RotateType": 0,
+  "MoveOut": 0
+ },
+ {
+  "FxID": "Bullet_503004010",
+  "PosID": 1,
+  "RandomOffset": 0,
+  "RotateRange": 0,
+  "RotateType": 0,
+  "MoveOut": 0
+ },
+ {
+  "FxID": "Bullet_503005010",
+  "PosID": 1,
+  "RandomOffset": 0,
+  "RotateRange": 0,
+  "RotateType": 0,
+  "MoveOut": 0
+ },
+ {
+  "FxID": "Bullet_504003010",
+  "PosID": 1,
+  "RandomOffset": 0,
+  "RotateRange": 0,
+  "RotateType": 0,
+  "MoveOut": 0
+ },
+ {
+  "FxID": "Bullet_504004010",
+  "PosID": 1,
+  "RandomOffset": 0,
+  "RotateRange": 0,
+  "RotateType": 0,
+  "MoveOut": 0
+ },
+ {
+  "FxID": "Bullet_504005010",
+  "PosID": 1,
+  "RandomOffset": 0,
+  "RotateRange": 0,
+  "RotateType": 0,
+  "MoveOut": 0
+ },
+ {
+  "FxID": "Bullet_505001000",
+  "PosID": 1,
+  "RandomOffset": 0,
+  "RotateRange": 0,
+  "RotateType": 0,
+  "MoveOut": 0
+ },
+ {
+  "FxID": "Bullet_505002000",
+  "PosID": 1,
+  "RandomOffset": 0,
+  "RotateRange": 0,
+  "RotateType": 0,
+  "MoveOut": 0
+ },
+ {
+  "FxID": "Bullet_505003000",
+  "PosID": 1,
+  "RandomOffset": 0,
+  "RotateRange": 0,
+  "RotateType": 0,
+  "MoveOut": 0
+ },
+ {
+  "FxID": "Bullet_505004010",
+  "PosID": 1,
+  "RandomOffset": 0,
+  "RotateRange": 0,
+  "RotateType": 0,
+  "MoveOut": 0
+ },
+ {
+  "FxID": "Bullet_505005010",
+  "PosID": 1,
+  "RandomOffset": 0,
+  "RotateRange": 0,
+  "RotateType": 0,
+  "MoveOut": 0
+ },
+ {
+  "FxID": "Bullet_506001010",
+  "PosID": 1,
+  "RandomOffset": 0,
+  "RotateRange": 0,
+  "RotateType": 0,
+  "MoveOut": 0
+ },
+ {
+  "FxID": "Bullet_506002010",
+  "PosID": 1,
+  "RandomOffset": 0,
+  "RotateRange": 0,
+  "RotateType": 0,
+  "MoveOut": 0
+ },
+ {
+  "FxID": "Bullet_506003010",
+  "PosID": 1,
+  "RandomOffset": 0,
+  "RotateRange": 0,
+  "RotateType": 0,
+  "MoveOut": 0
+ },
+ {
+  "FxID": "Bullet_506004010",
+  "PosID": 1,
+  "RandomOffset": 0,
+  "RotateRange": 0,
+  "RotateType": 0,
+  "MoveOut": 0
+ },
+ {
+  "FxID": "Bullet_506005010",
+  "PosID": 1,
+  "RandomOffset": 0,
+  "RotateRange": 0,
+  "RotateType": 0,
+  "MoveOut": 0
+ },
+ {
+  "FxID": "Bullet_507001000",
+  "PosID": 1,
+  "RandomOffset": 0,
+  "RotateRange": 0,
+  "RotateType": 0,
+  "MoveOut": 0
+ },
+ {
+  "FxID": "Bullet_507002000",
+  "PosID": 1,
+  "RandomOffset": 0,
+  "RotateRange": 0,
+  "RotateType": 0,
+  "MoveOut": 0
+ },
+ {
+  "FxID": "Bullet_507003010",
+  "PosID": 1,
+  "RandomOffset": 0,
+  "RotateRange": 0,
+  "RotateType": 0,
+  "MoveOut": 0
+ },
+ {
+  "FxID": "Bullet_507004010",
+  "PosID": 1,
+  "RandomOffset": 0,
+  "RotateRange": 0,
+  "RotateType": 0,
+  "MoveOut": 0
+ },
+ {
+  "FxID": "Bullet_507005010",
+  "PosID": 1,
+  "RandomOffset": 0,
+  "RotateRange": 0,
+  "RotateType": 0,
+  "MoveOut": 0
+ },
+ {
+  "FxID": "ReceiverFx_410502100",
+  "PosID": 999,
+  "RandomOffset": 0,
+  "RotateRange": 0,
+  "RotateType": 0,
+  "MoveOut": 0
+ },
+ {
+  "FxID": "ReceiverFx_410501301",
+  "PosID": 1,
+  "RandomOffset": 0,
+  "RotateRange": 0,
+  "RotateType": 0,
+  "MoveOut": 0
+ },
+ {
+  "FxID": "Buff_410501101",
+  "PosID": 2,
+  "RandomOffset": 0,
+  "RotateRange": 0,
+  "RotateType": 0,
+  "MoveOut": 0
+ },
+ {
+  "FxID": "Buff_410501102",
+  "PosID": 3,
+  "RandomOffset": 0,
+  "RotateRange": 0,
+  "RotateType": 0,
+  "MoveOut": 0
+ },
+ {
+  "FxID": "Buff_410501103",
+  "PosID": 4,
+  "RandomOffset": 0,
+  "RotateRange": 0,
+  "RotateType": 0,
+  "MoveOut": 0
+ },
+ {
+  "FxID": "ReceiverFx_11060411",
+  "PosID": 999,
+  "RandomOffset": 0,
+  "RotateRange": 0,
+  "RotateType": 0,
+  "MoveOut": 0
+ },
+ {
+  "FxID": "ReceiverFx_140702300_1",
+  "PosID": 999,
+  "RandomOffset": 0,
+  "RotateRange": 0,
+  "RotateType": 0,
+  "MoveOut": 0
+ },
+ {
+  "FxID": "Bullet_12060200",
+  "PosID": 1,
+  "RandomOffset": 0,
+  "RotateRange": 0,
+  "RotateType": 0,
+  "MoveOut": 0
+ },
+ {
+  "FxID": "Bullet_110201100_4",
+  "PosID": 1,
+  "RandomOffset": 0,
+  "RotateRange": 0,
+  "RotateType": 0,
+  "MoveOut": 0
+ },
+ {
+  "FxID": "Bullet_110201100_3",
+  "PosID": 1,
+  "RandomOffset": 0,
+  "RotateRange": 0,
+  "RotateType": 0,
+  "MoveOut": 0
+ },
+ {
+  "FxID": "Bullet_110201100_2",
+  "PosID": 1,
+  "RandomOffset": 0,
+  "RotateRange": 0,
+  "RotateType": 0,
+  "MoveOut": 0
+ },
+ {
+  "FxID": "Bullet_110201100_1",
+  "PosID": 1,
+  "RandomOffset": 0,
+  "RotateRange": 0,
+  "RotateType": 0,
+  "MoveOut": 0
+ },
+ {
+  "FxID": "Bullet_910107000",
+  "PosID": 1,
+  "RandomOffset": 0,
+  "RotateRange": 0,
+  "RotateType": 0,
+  "MoveOut": 0
+ },
+ {
+  "FxID": "Bullet_810106000",
+  "PosID": 1,
+  "RandomOffset": 0,
+  "RotateRange": 0,
+  "RotateType": 0,
+  "MoveOut": 0
+ },
+ {
+  "FxID": "Bullet_910108000",
+  "PosID": 1,
+  "RandomOffset": 0,
+  "RotateRange": 0,
+  "RotateType": 0,
+  "MoveOut": 0
+ },
+ {
+  "FxID": "Bullet_910108100",
+  "PosID": 1,
+  "RandomOffset": 0,
+  "RotateRange": 0,
+  "RotateType": 0,
+  "MoveOut": 0
+ },
+ {
+  "FxID": "Bullet_920206000",
+  "PosID": 1,
+  "RandomOffset": 0,
+  "RotateRange": 0,
+  "RotateType": 0,
+  "MoveOut": 0
+ },
+ {
+  "FxID": "Bullet_920207000",
+  "PosID": 1,
+  "RandomOffset": 0,
+  "RotateRange": 0,
+  "RotateType": 0,
+  "MoveOut": 0
+ },
+ {
+  "FxID": "Bullet_910306000",
+  "PosID": 1,
+  "RandomOffset": 0,
+  "RotateRange": 0,
+  "RotateType": 0,
+  "MoveOut": 0
+ },
+ {
+  "FxID": "Bullet_910307000",
+  "PosID": 1,
+  "RandomOffset": 0,
+  "RotateRange": 0,
+  "RotateType": 0,
+  "MoveOut": 0
+ },
+ {
+  "FxID": "Bullet_910308000",
+  "PosID": 1,
+  "RandomOffset": 0,
+  "RotateRange": 0,
+  "RotateType": 0,
+  "MoveOut": 0
+ },
+ {
+  "FxID": "FallingFx_140402101_1",
+  "PosID": 999,
+  "RandomOffset": 0,
+  "RotateRange": 0,
+  "RotateType": 0,
+  "MoveOut": 0
+ },
+ {
+  "FxID": "FallingFx_140402102",
+  "PosID": 999,
+  "RandomOffset": 0,
+  "RotateRange": 0,
+  "RotateType": 0,
+  "MoveOut": 0
+ },
+ {
+  "FxID": "ReceiverFx_11060412",
+  "PosID": 999,
+  "RandomOffset": 0,
+  "RotateRange": 0,
+  "RotateType": 0,
+  "MoveOut": 0
+ },
+ {
+  "FxID": "FallingFx_140402101_2",
+  "PosID": 999,
+  "RandomOffset": 0,
+  "RotateRange": 0,
+  "RotateType": 0,
+  "MoveOut": 0
+ },
+ {
+  "FxID": "ReceiverFx_702009110",
+  "PosID": 999,
+  "RandomOffset": 0,
+  "RotateRange": 0,
+  "RotateType": 0,
+  "MoveOut": 0
+ },
+ {
+  "FxID": "SenderFx_602008100",
+  "PosID": 999,
+  "RandomOffset": 0,
+  "RotateRange": 0,
+  "RotateType": 0,
+  "MoveOut": 0
+ },
+ {
+  "FxID": "ReceiverFx_14040213",
+  "PosID": 999,
+  "RandomOffset": 0,
+  "RotateRange": 0,
+  "RotateType": 0,
+  "MoveOut": 0
+ },
+ {
+  "FxID": "ReceiverFx_SD14040213",
+  "PosID": 999,
+  "RandomOffset": 0,
+  "RotateRange": 0,
+  "RotateType": 0,
+  "MoveOut": 0
+ },
+ {
+  "FxID": "ReceiverFx_SD14040214",
+  "PosID": 1,
+  "RandomOffset": 0,
+  "RotateRange": 0,
+  "RotateType": 0,
+  "MoveOut": 0
+ },
+ {
+  "FxID": "ReceiverFx_SD140702100",
+  "PosID": 999,
+  "RandomOffset": 0,
+  "RotateRange": 0,
+  "RotateType": 0,
+  "MoveOut": 0
+ },
+ {
+  "FxID": "Bullet_506002100",
+  "PosID": 1,
+  "RandomOffset": 0,
+  "RotateRange": 0,
+  "RotateType": 0,
+  "MoveOut": 0
+ },
+ {
+  "FxID": "SenderFx_506002200",
+  "PosID": 1,
+  "RandomOffset": 0,
+  "RotateRange": 0,
+  "RotateType": 0,
+  "MoveOut": 0
+ },
+ {
+  "FxID": "Bullet_505002100",
+  "PosID": 1,
+  "RandomOffset": 0,
+  "RotateRange": 0,
+  "RotateType": 0,
+  "MoveOut": 0
+ },
+ {
+  "FxID": "ReceiverFx_506004110",
+  "PosID": 999,
+  "RandomOffset": 0,
+  "RotateRange": 0,
+  "RotateType": 0,
+  "MoveOut": 0
+ },
+ {
+  "FxID": "Bullet_506004100",
+  "PosID": 1,
+  "RandomOffset": 0,
+  "RotateRange": 0,
+  "RotateType": 0,
+  "MoveOut": 0
+ },
+ {
+  "FxID": "SenderFx_506008100",
+  "PosID": 999,
+  "RandomOffset": 0,
+  "RotateRange": 0,
+  "RotateType": 0,
+  "MoveOut": 0
+ },
+ {
+  "FxID": "ReceiverFx_507008200",
+  "PosID": 999,
+  "RandomOffset": 0,
+  "RotateRange": 0,
+  "RotateType": 0,
+  "MoveOut": 0
+ },
+ {
+  "FxID": "Bullet_507008100",
+  "PosID": 1,
+  "RandomOffset": 0,
+  "RotateRange": 0,
+  "RotateType": 0,
+  "MoveOut": 0
+ },
+ {
+  "FxID": "ReceiverFx_507005101",
+  "PosID": 999,
+  "RandomOffset": 0,
+  "RotateRange": 0,
+  "RotateType": 0,
+  "MoveOut": 0
+ },
+ {
+  "FxID": "SenderFx_702009110",
+  "PosID": 5,
+  "RandomOffset": 0,
+  "RotateRange": 0,
+  "RotateType": 0,
+  "MoveOut": 0
+ },
+ {
+  "FxID": "Bullet_506003100",
+  "PosID": 1,
+  "RandomOffset": 0,
+  "RotateRange": 0,
+  "RotateType": 0,
+  "MoveOut": 0
+ },
+ {
+  "FxID": "Bullet_506003101",
+  "PosID": 1,
+  "RandomOffset": 0,
+  "RotateRange": 0,
+  "RotateType": 0,
+  "MoveOut": 0
+ },
+ {
+  "FxID": "Bullet_506003102",
+  "PosID": 1,
+  "RandomOffset": 0,
+  "RotateRange": 0,
+  "RotateType": 0,
+  "MoveOut": 0
+ },
+ {
+  "FxID": "ReceiverFx_507006110",
+  "PosID": 999,
+  "RandomOffset": 0,
+  "RotateRange": 0,
+  "RotateType": 0,
+  "MoveOut": 0
+ },
+ {
+  "FxID": "ReceiverFx_507003102",
+  "PosID": 997,
+  "RandomOffset": 0,
+  "RotateRange": 0,
+  "RotateType": 0,
+  "MoveOut": 0
+ },
+ {
+  "FxID": "ReceiverFx_506005101",
+  "PosID": 1,
+  "RandomOffset": 0,
+  "RotateRange": 0,
+  "RotateType": 0,
+  "MoveOut": 0
+ },
+ {
+  "FxID": "ReceiverFx_507002110",
+  "PosID": 999,
+  "RandomOffset": 0,
+  "RotateRange": 0,
+  "RotateType": 0,
+  "MoveOut": 0
+ },
+ {
+  "FxID": "Bullet_13050100",
+  "PosID": 1,
+  "RandomOffset": 0,
+  "RotateRange": 0,
+  "RotateType": 0,
+  "MoveOut": 0
+ },
+ {
+  "FxID": "Bullet_13050101",
+  "PosID": 1,
+  "RandomOffset": 0,
+  "RotateRange": 0,
+  "RotateType": 0,
+  "MoveOut": 0
+ },
+ {
+  "FxID": "Bullet_14030400",
+  "PosID": 1,
+  "RandomOffset": 0,
+  "RotateRange": 0,
+  "RotateType": 0,
+  "MoveOut": 0
+ },
+ {
+  "FxID": "Bullet_14030401",
+  "PosID": 1,
+  "RandomOffset": 0,
+  "RotateRange": 0,
+  "RotateType": 0,
+  "MoveOut": 0
+ },
+ {
+  "FxID": "ReceiveFx_14030403",
+  "PosID": 998,
+  "RandomOffset": 0,
+  "RotateRange": 0,
+  "RotateType": 0,
+  "MoveOut": 0
+ },
+ {
+  "FxID": "ReceiveFx_14040200",
+  "PosID": 1,
+  "RandomOffset": 0,
+  "RotateRange": 0,
+  "RotateType": 0,
+  "MoveOut": 0
+ },
+ {
+  "FxID": "ReceiveFx_13050104",
+  "PosID": 1,
+  "RandomOffset": 0,
+  "RotateRange": 0,
+  "RotateType": 0,
+  "MoveOut": 0
+ },
+ {
+  "FxID": "ReceiveFx_14030406",
+  "PosID": 1,
+  "RandomOffset": 0,
+  "RotateRange": 0,
+  "RotateType": 0,
+  "MoveOut": 0
+ },
+ {
+  "FxID": "ForceField_14040200",
+  "PosID": 999,
+  "RandomOffset": 0,
+  "RotateRange": 0,
+  "RotateType": 0,
+  "MoveOut": 0
+ },
+ {
+  "FxID": "ForceField_14040201",
+  "PosID": 999,
+  "RandomOffset": 0,
+  "RotateRange": 0,
+  "RotateType": 0,
+  "MoveOut": 0
+ },
+ {
+  "FxID": "Bullet_140403000",
+  "PosID": 1,
+  "RandomOffset": 0,
+  "RotateRange": 0,
+  "RotateType": 0,
+  "MoveOut": 0
+ },
+ {
+  "FxID": "Bullet_140403001",
+  "PosID": 1,
+  "RandomOffset": 0,
+  "RotateRange": 0,
+  "RotateType": 0,
+  "MoveOut": 0
+ },
+ {
+  "FxID": "Bullet_140403002",
+  "PosID": 1,
+  "RandomOffset": 0,
+  "RotateRange": 0,
+  "RotateType": 0,
+  "MoveOut": 0
+ },
+ {
+  "FxID": "Bullet_140403003",
+  "PosID": 1,
+  "RandomOffset": 0,
+  "RotateRange": 0,
+  "RotateType": 0,
+  "MoveOut": 0
+ },
+ {
+  "FxID": "SenderFx_1120302311",
+  "PosID": 1,
+  "RandomOffset": 0,
+  "RotateRange": 0,
+  "RotateType": 0,
+  "MoveOut": 0
+ },
+ {
+  "FxID": "SenderFx_1120302312",
+  "PosID": 1,
+  "RandomOffset": 0,
+  "RotateRange": 0,
+  "RotateType": 0,
+  "MoveOut": 0
+ },
+ {
+  "FxID": "SenderFx_1120302313",
+  "PosID": 1,
+  "RandomOffset": 0,
+  "RotateRange": 0,
+  "RotateType": 0,
+  "MoveOut": 0
+ },
+ {
+  "FxID": "Bullet_130005000",
+  "PosID": 1,
+  "RandomOffset": 0,
+  "RotateRange": 0,
+  "RotateType": 0,
+  "MoveOut": 0
+ },
+ {
+  "FxID": "ReceiverFx_110402101",
+  "PosID": 1,
+  "RandomOffset": 0,
+  "RotateRange": 0,
+  "RotateType": 0,
+  "MoveOut": 0
+ },
+ {
+  "FxID": "Bullet_120602000",
+  "PosID": 1,
+  "RandomOffset": 0,
+  "RotateRange": 0,
+  "RotateType": 0,
+  "MoveOut": 0
+ },
+ {
+  "FxID": "ReceiverFx_82020201",
+  "PosID": 999,
+  "RandomOffset": 0,
+  "RotateRange": 0,
+  "RotateType": 0,
+  "MoveOut": 0
+ },
+ {
+  "FxID": "ReceiverFx_82020203",
+  "PosID": 1,
+  "RandomOffset": 0,
+  "RotateRange": 0,
+  "RotateType": 0,
+  "MoveOut": 0
+ },
+ {
+  "FxID": "ReceiverFx_82020204",
+  "PosID": 1,
+  "RandomOffset": 0,
+  "RotateRange": 0,
+  "RotateType": 0,
+  "MoveOut": 0
+ },
+ {
+  "FxID": "ReceiverFx_82020205",
+  "PosID": 6,
+  "RandomOffset": 0,
+  "RotateRange": 0,
+  "RotateType": 0,
+  "MoveOut": 0
+ },
+ {
+  "FxID": "SenderFx_120301000",
+  "PosID": 4,
+  "RandomOffset": 0,
+  "RotateRange": 0,
+  "RotateType": 0,
+  "MoveOut": 0
+ },
+ {
+  "FxID": "Buff_120301105",
+  "PosID": 1,
+  "RandomOffset": 0,
+  "RotateRange": 0,
+  "RotateType": 0,
+  "MoveOut": 0
+ },
+ {
+  "FxID": "Buff_120301106",
+  "PosID": 3,
+  "RandomOffset": 0,
+  "RotateRange": 0,
+  "RotateType": 0,
+  "MoveOut": 0
+ },
+ {
+  "FxID": "Buff_120301107",
+  "PosID": 2,
+  "RandomOffset": 0,
+  "RotateRange": 0,
+  "RotateType": 0,
+  "MoveOut": 0
+ },
+ {
+  "FxID": "Buff_840101301",
+  "PosID": 1,
+  "RandomOffset": 0,
+  "RotateRange": 0,
+  "RotateType": 0,
+  "MoveOut": 0
+ },
+ {
+  "FxID": "Buff_840101302",
+  "PosID": 2,
+  "RandomOffset": 0,
+  "RotateRange": 0,
+  "RotateType": 0,
+  "MoveOut": 0
+ },
+ {
+  "FxID": "Buff_840101303",
+  "PosID": 3,
+  "RandomOffset": 0,
+  "RotateRange": 0,
+  "RotateType": 0,
+  "MoveOut": 0
+ },
+ {
+  "FxID": "SenderFx_42010100",
+  "PosID": 2,
+  "RandomOffset": 0,
+  "RotateRange": 0,
+  "RotateType": 0,
+  "MoveOut": 0
+ },
+ {
+  "FxID": "SenderFx_11060300",
+  "PosID": 2,
+  "RandomOffset": 0,
+  "RotateRange": 0,
+  "RotateType": 0,
+  "MoveOut": 0
+ },
+ {
+  "FxID": "SenderFx_110605110",
+  "PosID": 2,
+  "RandomOffset": 0,
+  "RotateRange": 0,
+  "RotateType": 0,
+  "MoveOut": 0
+ },
+ {
+  "FxID": "SenderFx_110605210",
+  "PosID": 2,
+  "RandomOffset": 0,
+  "RotateRange": 0,
+  "RotateType": 0,
+  "MoveOut": 0
+ },
+ {
+  "FxID": "SenderFx_110605310",
+  "PosID": 2,
+  "RandomOffset": 0,
+  "RotateRange": 0,
+  "RotateType": 0,
+  "MoveOut": 0
+ },
+ {
+  "FxID": "Buff_45010102",
+  "PosID": 1,
+  "RandomOffset": 0,
+  "RotateRange": 0,
+  "RotateType": 0,
+  "MoveOut": 0
+ },
+ {
+  "FxID": "SenderFx_13050100",
+  "PosID": 2,
+  "RandomOffset": 0,
+  "RotateRange": 0,
+  "RotateType": 0,
+  "MoveOut": 0
+ },
+ {
+  "FxID": "SenderFx_14030400",
+  "PosID": 2,
+  "RandomOffset": 0,
+  "RotateRange": 0,
+  "RotateType": 0,
+  "MoveOut": 0
+ },
+ {
+  "FxID": "SenderFx_14040200",
+  "PosID": 2,
+  "RandomOffset": 0,
+  "RotateRange": 0,
+  "RotateType": 0,
+  "MoveOut": 0
+ },
+ {
+  "FxID": "Bullet_110701000",
+  "PosID": 1,
+  "RandomOffset": 0,
+  "RotateRange": 0,
+  "RotateType": 0,
+  "MoveOut": 0
+ },
+ {
+  "FxID": "Bullet_30026000",
+  "PosID": 1,
+  "RandomOffset": 0,
+  "RotateRange": 0,
+  "RotateType": 0,
+  "MoveOut": 0
+ },
+ {
+  "FxID": "Bullet_110001000",
+  "PosID": 1,
+  "RandomOffset": 0,
+  "RotateRange": 0,
+  "RotateType": 0,
+  "MoveOut": 0
+ },
+ {
+  "FxID": "SenderFx_1110701610",
+  "PosID": 2,
+  "RandomOffset": 0,
+  "RotateRange": 0,
+  "RotateType": 0,
+  "MoveOut": 0
+ },
+ {
+  "FxID": "ReceiverFx_1110701610",
+  "PosID": 999,
+  "RandomOffset": 0,
+  "RotateRange": 0,
+  "RotateType": 0,
+  "MoveOut": 0
+ },
+ {
+  "FxID": "SenderFx_42010101",
+  "PosID": 2,
+  "RandomOffset": 0,
+  "RotateRange": 0,
+  "RotateType": 0,
+  "MoveOut": 0
+ },
+ {
+  "FxID": "Buff_450101102",
+  "PosID": 2,
+  "RandomOffset": 0,
+  "RotateRange": 0,
+  "RotateType": 0,
+  "MoveOut": 0
+ },
+ {
+  "FxID": "ReceiverFx_450101101",
+  "PosID": 999,
+  "RandomOffset": 0,
+  "RotateRange": 0,
+  "RotateType": 0,
+  "MoveOut": 0
+ },
+ {
+  "FxID": "ReceiverFx_45010101",
+  "PosID": 999,
+  "RandomOffset": 0,
+  "RotateRange": 0,
+  "RotateType": 0,
+  "MoveOut": 0
+ },
+ {
+  "FxID": "SenderFx_14070110",
+  "PosID": 1,
+  "RandomOffset": 0,
+  "RotateRange": 0,
+  "RotateType": 0,
+  "MoveOut": 0
+ },
+ {
+  "FxID": "SenderFx_14070113",
+  "PosID": 1,
+  "RandomOffset": 0,
+  "RotateRange": 0,
+  "RotateType": 0,
+  "MoveOut": 0
+ },
+ {
+  "FxID": "SenderFx_14070115",
+  "PosID": 1,
+  "RandomOffset": 0,
+  "RotateRange": 0,
+  "RotateType": 0,
+  "MoveOut": 0
+ },
+ {
+  "FxID": "ReceiverFx_11060400",
+  "PosID": 1,
+  "RandomOffset": 0,
+  "RotateRange": 0,
+  "RotateType": 0,
+  "MoveOut": 0
+ },
+ {
+  "FxID": "SenderFx_11060400",
+  "PosID": 2,
+  "RandomOffset": 0,
+  "RotateRange": 0,
+  "RotateType": 0,
+  "MoveOut": 0
+ },
+ {
+  "FxID": "SenderFx_11060401",
+  "PosID": 2,
+  "RandomOffset": 0,
+  "RotateRange": 0,
+  "RotateType": 0,
+  "MoveOut": 0
+ },
+ {
+  "FxID": "SenderFx_11060402",
+  "PosID": 2,
+  "RandomOffset": 0,
+  "RotateRange": 0,
+  "RotateType": 0,
+  "MoveOut": 0
+ },
+ {
+  "FxID": "ReceiverFx_11060402",
+  "PosID": 998,
+  "RandomOffset": 0,
+  "RotateRange": 0,
+  "RotateType": 0,
+  "MoveOut": 0
+ },
+ {
+  "FxID": "ReceiverFx_11060404",
+  "PosID": 999,
+  "RandomOffset": 0,
+  "RotateRange": 0,
+  "RotateType": 0,
+  "MoveOut": 0
+ },
+ {
+  "FxID": "SenderFx_110302110",
+  "PosID": 3,
+  "RandomOffset": 0,
+  "RotateRange": 0,
+  "RotateType": 0,
+  "MoveOut": 0
+ },
+ {
+  "FxID": "SenderFx_110302001",
+  "PosID": 2,
+  "RandomOffset": 0,
+  "RotateRange": 0,
+  "RotateType": 0,
+  "MoveOut": 0
+ },
+ {
+  "FxID": "SenderFx_13070201",
+  "PosID": 1,
+  "RandomOffset": 0,
+  "RotateRange": 0,
+  "RotateType": 0,
+  "MoveOut": 0
+ },
+ {
+  "FxID": "Bullet_430301101",
+  "PosID": 1,
+  "RandomOffset": 0,
+  "RotateRange": 0,
+  "RotateType": 0,
+  "MoveOut": 0
+ },
+ {
+  "FxID": "SenderFx_430301102",
+  "PosID": 1,
+  "RandomOffset": 0,
+  "RotateRange": 0,
+  "RotateType": 0,
+  "MoveOut": 0
+ },
+ {
+  "FxID": "Bullet_430301103",
+  "PosID": 1,
+  "RandomOffset": 0,
+  "RotateRange": 0,
+  "RotateType": 0,
+  "MoveOut": 0
+ },
+ {
+  "FxID": "SenderFx_430301101",
+  "PosID": 1,
+  "RandomOffset": 0,
+  "RotateRange": 0,
+  "RotateType": 0,
+  "MoveOut": 0
+ },
+ {
+  "FxID": "SenderFx_140403001",
+  "PosID": 1,
+  "RandomOffset": 0,
+  "RotateRange": 0,
+  "RotateType": 0,
+  "MoveOut": 0
+ },
+ {
+  "FxID": "SenderFx_140403000",
+  "PosID": 1,
+  "RandomOffset": 0,
+  "RotateRange": 0,
+  "RotateType": 0,
+  "MoveOut": 0
+ },
+ {
+  "FxID": "SenderFx_1404011001",
+  "PosID": 1,
+  "RandomOffset": 0,
+  "RotateRange": 0,
+  "RotateType": 0,
+  "MoveOut": 0
+ },
+ {
+  "FxID": "SenderFx_820202100",
+  "PosID": 9,
+  "RandomOffset": 0,
+  "RotateRange": 0,
+  "RotateType": 0,
+  "MoveOut": 0
+ },
+ {
+  "FxID": "Bullet_130603000",
+  "PosID": 1,
+  "RandomOffset": 0,
+  "RotateRange": 0,
+  "RotateType": 0,
+  "MoveOut": 0
+ },
+ {
+  "FxID": "ReceiverFx_1130603610",
+  "PosID": 999,
+  "RandomOffset": 0,
+  "RotateRange": 0,
+  "RotateType": 0,
+  "MoveOut": 0
+ },
+ {
+  "FxID": "SenderFx_1130603611",
+  "PosID": 999,
+  "RandomOffset": 0,
+  "RotateRange": 0,
+  "RotateType": 0,
+  "MoveOut": 0
+ },
+ {
+  "FxID": "SenderFx_840104010",
+  "PosID": 2,
+  "RandomOffset": 0,
+  "RotateRange": 0,
+  "RotateType": 0,
+  "MoveOut": 0
+ },
+ {
+  "FxID": "SenderFx_840104311",
+  "PosID": 1,
+  "RandomOffset": 0,
+  "RotateRange": 0,
+  "RotateType": 0,
+  "MoveOut": 0
+ },
+ {
+  "FxID": "SenderFx_840104310",
+  "PosID": 3,
+  "RandomOffset": 0,
+  "RotateRange": 0,
+  "RotateType": 0,
+  "MoveOut": 0
+ },
+ {
+  "FxID": "SenderFx_91010300",
+  "PosID": 2,
+  "RandomOffset": 0,
+  "RotateRange": 0,
+  "RotateType": 0,
+  "MoveOut": 0
+ },
+ {
+  "FxID": "SenderFx_840103001",
+  "PosID": 3,
+  "RandomOffset": 0,
+  "RotateRange": 0,
+  "RotateType": 0,
+  "MoveOut": 0
+ },
+ {
+  "FxID": "Bullet_84010301",
+  "PosID": 1,
+  "RandomOffset": 0,
+  "RotateRange": 0,
+  "RotateType": 0,
+  "MoveOut": 0
+ },
+ {
+  "FxID": "Bullet_84010300",
+  "PosID": 1,
+  "RandomOffset": 0,
+  "RotateRange": 0,
+  "RotateType": 0,
+  "MoveOut": 0
+ },
+ {
+  "FxID": "SenderFx_840103310",
+  "PosID": 999,
+  "RandomOffset": 0,
+  "RotateRange": 0,
+  "RotateType": 0,
+  "MoveOut": 0
+ },
+ {
+  "FxID": "SenderFx_840106000",
+  "PosID": 1,
+  "RandomOffset": 0,
+  "RotateRange": 0,
+  "RotateType": 0,
+  "MoveOut": 0
+ },
+ {
+  "FxID": "SenderFx_840105100",
+  "PosID": 2,
+  "RandomOffset": 0,
+  "RotateRange": 0,
+  "RotateType": 0,
+  "MoveOut": 0
+ },
+ {
+  "FxID": "SenderFx_1120603610",
+  "PosID": 1,
+  "RandomOffset": 0,
+  "RotateRange": 0,
+  "RotateType": 0,
+  "MoveOut": 0
+ },
+ {
+  "FxID": "SenderFx_840108010",
+  "PosID": 1,
+  "RandomOffset": 0,
+  "RotateRange": 0,
+  "RotateType": 0,
+  "MoveOut": 0
+ },
+ {
+  "FxID": "SenderFx_840108011",
+  "PosID": 2,
+  "RandomOffset": 0,
+  "RotateRange": 0,
+  "RotateType": 0,
+  "MoveOut": 0
+ },
+ {
+  "FxID": "SenderFx_840108012",
+  "PosID": 3,
+  "RandomOffset": 0,
+  "RotateRange": 0,
+  "RotateType": 0,
+  "MoveOut": 0
+ },
+ {
+  "FxID": "Bullet_840108010",
+  "PosID": 1,
+  "RandomOffset": 0,
+  "RotateRange": 0,
+  "RotateType": 0,
+  "MoveOut": 0
+ },
+ {
+  "FxID": "Bullet_840108011",
+  "PosID": 2,
+  "RandomOffset": 0,
+  "RotateRange": 0,
+  "RotateType": 0,
+  "MoveOut": 0
+ },
+ {
+  "FxID": "Bullet_840108012",
+  "PosID": 3,
+  "RandomOffset": 0,
+  "RotateRange": 0,
+  "RotateType": 0,
+  "MoveOut": 0
+ },
+ {
+  "FxID": "SenderFx_840108111",
+  "PosID": 4,
+  "RandomOffset": 0,
+  "RotateRange": 0,
+  "RotateType": 0,
+  "MoveOut": 0
+ },
+ {
+  "FxID": "SenderFx_840108112",
+  "PosID": 5,
+  "RandomOffset": 0,
+  "RotateRange": 0,
+  "RotateType": 0,
+  "MoveOut": 0
+ },
+ {
+  "FxID": "SenderFx_840108113",
+  "PosID": 6,
+  "RandomOffset": 0,
+  "RotateRange": 0,
+  "RotateType": 0,
+  "MoveOut": 0
+ },
+ {
+  "FxID": "Bullet_840108111",
+  "PosID": 4,
+  "RandomOffset": 0,
+  "RotateRange": 0,
+  "RotateType": 0,
+  "MoveOut": 0
+ },
+ {
+  "FxID": "Bullet_840108112",
+  "PosID": 5,
+  "RandomOffset": 0,
+  "RotateRange": 0,
+  "RotateType": 0,
+  "MoveOut": 0
+ },
+ {
+  "FxID": "Bullet_840108113",
+  "PosID": 6,
+  "RandomOffset": 0,
+  "RotateRange": 0,
+  "RotateType": 0,
+  "MoveOut": 0
+ },
+ {
+  "FxID": "SenderFx_840108210",
+  "PosID": 999,
+  "RandomOffset": 0,
+  "RotateRange": 0,
+  "RotateType": 0,
+  "MoveOut": 0
+ },
+ {
+  "FxID": "SenderFx_840108211",
+  "PosID": 7,
+  "RandomOffset": 0,
+  "RotateRange": 0,
+  "RotateType": 0,
+  "MoveOut": 0
+ },
+ {
+  "FxID": "Bullet_840107010",
+  "PosID": 1,
+  "RandomOffset": 0,
+  "RotateRange": 0,
+  "RotateType": 0,
+  "MoveOut": 0
+ },
+ {
+  "FxID": "Bullet_840107110",
+  "PosID": 2,
+  "RandomOffset": 0,
+  "RotateRange": 0,
+  "RotateType": 0,
+  "MoveOut": 0
+ },
+ {
+  "FxID": "Bullet_840107111",
+  "PosID": 3,
+  "RandomOffset": 0,
+  "RotateRange": 0,
+  "RotateType": 0,
+  "MoveOut": 0
+ },
+ {
+  "FxID": "SenderFx_840107110",
+  "PosID": 2,
+  "RandomOffset": 0,
+  "RotateRange": 0,
+  "RotateType": 0,
+  "MoveOut": 0
+ },
+ {
+  "FxID": "SenderFx_840107111",
+  "PosID": 3,
+  "RandomOffset": 0,
+  "RotateRange": 0,
+  "RotateType": 0,
+  "MoveOut": 0
+ },
+ {
+  "FxID": "Bullet_840107211",
+  "PosID": 1,
+  "RandomOffset": 0,
+  "RotateRange": 0,
+  "RotateType": 0,
+  "MoveOut": 0
+ },
+ {
+  "FxID": "Buff_45010100",
+  "PosID": 3,
+  "RandomOffset": 0,
+  "RotateRange": 0,
+  "RotateType": 0,
+  "MoveOut": 0
+ },
+ {
+  "FxID": "Buff_450101100",
+  "PosID": 3,
+  "RandomOffset": 0,
+  "RotateRange": 0,
+  "RotateType": 0,
+  "MoveOut": 0
+ },
+ {
+  "FxID": "Bullet_150401000",
+  "PosID": 1,
+  "RandomOffset": 0,
+  "RotateRange": 0,
+  "RotateType": 0,
+  "MoveOut": 0
+ },
+ {
+  "FxID": "Bullet_150401100",
+  "PosID": 1,
+  "RandomOffset": 0,
+  "RotateRange": 0,
+  "RotateType": 0,
+  "MoveOut": 0
+ },
+ {
+  "FxID": "Bullet_150401101",
+  "PosID": 1,
+  "RandomOffset": 0,
+  "RotateRange": 0,
+  "RotateType": 0,
+  "MoveOut": 0
+ },
+ {
+  "FxID": "Bullet_150401102",
+  "PosID": 1,
+  "RandomOffset": 0,
+  "RotateRange": 0,
+  "RotateType": 0,
+  "MoveOut": 0
+ },
+ {
+  "FxID": "Bullet_150401103",
+  "PosID": 1,
+  "RandomOffset": 0,
+  "RotateRange": 0,
+  "RotateType": 0,
+  "MoveOut": 0
+ },
+ {
+  "FxID": "SenderFx_150401102",
+  "PosID": 998,
+  "RandomOffset": 0,
+  "RotateRange": 0,
+  "RotateType": 0,
+  "MoveOut": 0
+ },
+ {
+  "FxID": "ReceiverFx_150401105",
+  "PosID": 998,
+  "RandomOffset": 0,
+  "RotateRange": 0,
+  "RotateType": 0,
+  "MoveOut": 0
+ },
+ {
+  "FxID": "ReceiverFx_150401202",
+  "PosID": 998,
+  "RandomOffset": 0,
+  "RotateRange": 0,
+  "RotateType": 0,
+  "MoveOut": 0
+ },
+ {
+  "FxID": "SenderFx_150401202",
+  "PosID": 999,
+  "RandomOffset": 0,
+  "RotateRange": 0,
+  "RotateType": 0,
+  "MoveOut": 0
+ },
+ {
+  "FxID": "SenderFx_150401200",
+  "PosID": 997,
+  "RandomOffset": 0,
+  "RotateRange": 0,
+  "RotateType": 0,
+  "MoveOut": 0
+ },
+ {
+  "FxID": "SenderFx_110502000",
+  "PosID": 1,
+  "RandomOffset": 0,
+  "RotateRange": 0,
+  "RotateType": 0,
+  "MoveOut": 0
+ },
+ {
+  "FxID": "SenderFx_110502001",
+  "PosID": 2,
+  "RandomOffset": 0,
+  "RotateRange": 0,
+  "RotateType": 0,
+  "MoveOut": 0
+ },
+ {
+  "FxID": "SenderFx_110502110",
+  "PosID": 2,
+  "RandomOffset": 0,
+  "RotateRange": 0,
+  "RotateType": 0,
+  "MoveOut": 0
+ },
+ {
+  "FxID": "ReceiverFx_110502110",
+  "PosID": 999,
+  "RandomOffset": 0,
+  "RotateRange": 0,
+  "RotateType": 0,
+  "MoveOut": 0
+ },
+ {
+  "FxID": "SenderFx_1110502510",
+  "PosID": 2,
+  "RandomOffset": 0,
+  "RotateRange": 0,
+  "RotateType": 0,
+  "MoveOut": 0
+ },
+ {
+  "FxID": "SenderFx_1110502511",
+  "PosID": 999,
+  "RandomOffset": 0,
+  "RotateRange": 0,
+  "RotateType": 0,
+  "MoveOut": 0
+ },
+ {
+  "FxID": "ReceiverFx_1110502610",
+  "PosID": 999,
+  "RandomOffset": 0,
+  "RotateRange": 0,
+  "RotateType": 0,
+  "MoveOut": 0
+ },
+ {
+  "FxID": "ReceiverFx_1110502611",
+  "PosID": 0,
+  "RandomOffset": 0,
+  "RotateRange": 90,
+  "RotateType": 0,
+  "MoveOut": 0
+ },
+ {
+  "FxID": "ReceiverFx_2110502610",
+  "PosID": 999,
+  "RandomOffset": 0,
+  "RotateRange": 0,
+  "RotateType": 0,
+  "MoveOut": 0
+ },
+ {
+  "FxID": "SenderFx_2110502610",
+  "PosID": 2,
+  "RandomOffset": 0,
+  "RotateRange": 0,
+  "RotateType": 0,
+  "MoveOut": 0
+ },
+ {
+  "FxID": "SenderFx_2110502810",
+  "PosID": 999,
+  "RandomOffset": 0,
+  "RotateRange": 0,
+  "RotateType": 0,
+  "MoveOut": 0
+ },
+ {
+  "FxID": "ReceiverFx_505005101",
+  "PosID": 998,
+  "RandomOffset": 0,
+  "RotateRange": 0,
+  "RotateType": 0,
+  "MoveOut": 0
+ },
+ {
+  "FxID": "Skin_Bullet_150401000",
+  "PosID": 1,
+  "RandomOffset": 0,
+  "RotateRange": 0,
+  "RotateType": 0,
+  "MoveOut": 0
+ },
+ {
+  "FxID": "Skin_Bullet_150401100",
+  "PosID": 1,
+  "RandomOffset": 0,
+  "RotateRange": 0,
+  "RotateType": 0,
+  "MoveOut": 0
+ },
+ {
+  "FxID": "Skin_Bullet_150401101",
+  "PosID": 1,
+  "RandomOffset": 0,
+  "RotateRange": 0,
+  "RotateType": 0,
+  "MoveOut": 0
+ },
+ {
+  "FxID": "Skin_Bullet_150401103",
+  "PosID": 1,
+  "RandomOffset": 0,
+  "RotateRange": 0,
+  "RotateType": 0,
+  "MoveOut": 0
+ },
+ {
+  "FxID": "Skin_SenderFx_150401102",
+  "PosID": 998,
+  "RandomOffset": 0,
+  "RotateRange": 0,
+  "RotateType": 0,
+  "MoveOut": 0
+ },
+ {
+  "FxID": "Skin_ReceiverFx_150401105",
+  "PosID": 998,
+  "RandomOffset": 0,
+  "RotateRange": 0,
+  "RotateType": 0,
+  "MoveOut": 0
+ },
+ {
+  "FxID": "Skin_ReceiverFx_150401202",
+  "PosID": 998,
+  "RandomOffset": 0,
+  "RotateRange": 0,
+  "RotateType": 0,
+  "MoveOut": 0
+ },
+ {
+  "FxID": "Skin_SenderFx_150401202",
+  "PosID": 999,
+  "RandomOffset": 0,
+  "RotateRange": 0,
+  "RotateType": 0,
+  "MoveOut": 0
+ },
+ {
+  "FxID": "Skin_SenderFx_150401200",
+  "PosID": 997,
+  "RandomOffset": 0,
+  "RotateRange": 0,
+  "RotateType": 0,
+  "MoveOut": 0
+ },
+ {
+  "FxID": "Skin_SenderFx_110502000",
+  "PosID": 1,
+  "RandomOffset": 0,
+  "RotateRange": 0,
+  "RotateType": 0,
+  "MoveOut": 0
+ },
+ {
+  "FxID": "Skin_SenderFx_110502001",
+  "PosID": 2,
+  "RandomOffset": 0,
+  "RotateRange": 0,
+  "RotateType": 0,
+  "MoveOut": 0
+ },
+ {
+  "FxID": "Skin_SenderFx_110502110",
+  "PosID": 2,
+  "RandomOffset": 0,
+  "RotateRange": 0,
+  "RotateType": 0,
+  "MoveOut": 0
+ },
+ {
+  "FxID": "Skin_ReceiverFx_110502110",
+  "PosID": 999,
+  "RandomOffset": 0,
+  "RotateRange": 0,
+  "RotateType": 0,
+  "MoveOut": 0
+ },
+ {
+  "FxID": "Skin_SenderFx_1110502510",
+  "PosID": 2,
+  "RandomOffset": 0,
+  "RotateRange": 0,
+  "RotateType": 0,
+  "MoveOut": 0
+ },
+ {
+  "FxID": "Skin_SenderFx_1110502511",
+  "PosID": 999,
+  "RandomOffset": 0,
+  "RotateRange": 0,
+  "RotateType": 0,
+  "MoveOut": 0
+ },
+ {
+  "FxID": "Skin_ReceiverFx_1110502610",
+  "PosID": 999,
+  "RandomOffset": 0,
+  "RotateRange": 0,
+  "RotateType": 0,
+  "MoveOut": 0
+ },
+ {
+  "FxID": "Skin_ReceiverFx_1110502611",
+  "PosID": 0,
+  "RandomOffset": 0,
+  "RotateRange": 90,
+  "RotateType": 0,
+  "MoveOut": 0
+ },
+ {
+  "FxID": "Skin_ReceiverFx_2110502610",
+  "PosID": 999,
+  "RandomOffset": 0,
+  "RotateRange": 0,
+  "RotateType": 0,
+  "MoveOut": 0
+ },
+ {
+  "FxID": "Skin_SenderFx_2110502610",
+  "PosID": 2,
+  "RandomOffset": 0,
+  "RotateRange": 0,
+  "RotateType": 0,
+  "MoveOut": 0
+ },
+ {
+  "FxID": "SenderFx_505009100",
+  "PosID": 1,
+  "RandomOffset": 0,
+  "RotateRange": 0,
+  "RotateType": 0,
+  "MoveOut": 0
+ },
+ {
+  "FxID": "ReceiverFx_505009100",
+  "PosID": 999,
+  "RandomOffset": 0,
+  "RotateRange": 0,
+  "RotateType": 1,
+  "MoveOut": 0
+ },
+ {
+  "FxID": "ReceiverFx_505009101",
+  "PosID": 999,
+  "RandomOffset": 0,
+  "RotateRange": 0,
+  "RotateType": 1,
+  "MoveOut": 0
+ },
+ {
+  "FxID": "Buff_505009100",
+  "PosID": 1,
+  "RandomOffset": 0,
+  "RotateRange": 0,
+  "RotateType": 0,
+  "MoveOut": 0
+ },
+ {
+  "FxID": "ReceiverFx_506009100",
+  "PosID": 999,
+  "RandomOffset": 0,
+  "RotateRange": 0,
+  "RotateType": 1,
+  "MoveOut": 0
+ },
+ {
+  "FxID": "ReceiverFx_506009101",
+  "PosID": 999,
+  "RandomOffset": 0,
+  "RotateRange": 0,
+  "RotateType": 1,
+  "MoveOut": 0
+ },
+ {
+  "FxID": "SenderFx_506009101",
+  "PosID": 1,
+  "RandomOffset": 0,
+  "RotateRange": 0,
+  "RotateType": 1,
+  "MoveOut": 0
+ }
+]

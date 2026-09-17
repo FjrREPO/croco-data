@@ -1,0 +1,32 @@
+[
+ {
+  "id": 1,
+  "Type": 1,
+  "GameTime": 20,
+  "GameGiftNum": 30,
+  "GameGiftNumRate": [
+   311,
+   75,
+   312,
+   20,
+   313,
+   5
+  ],
+  "GameBombNumRate": 10
+ },
+ {
+  "id": 2,
+  "Type": 2,
+  "GameTime": 10,
+  "GameGiftNum": 20,
+  "GameGiftNumRate": [
+   311,
+   75,
+   312,
+   20,
+   313,
+   5
+  ],
+  "GameBombNumRate": 0
+ }
+]

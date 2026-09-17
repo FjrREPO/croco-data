@@ -1,0 +1,2161 @@
+[
+ {
+  "AdditionID": 110,
+  "AdditionType": 2,
+  "AdditionVal": 2004,
+  "ActiveTimeSpan": 0,
+  "OnOffEffectIDs": [],
+  "ProgressEffectIDs": [],
+  "EndEffectIDs": [
+   112
+  ]
+ },
+ {
+  "AdditionID": 10001,
+  "AdditionType": 2,
+  "AdditionVal": 3001,
+  "ActiveTimeSpan": 0,
+  "OnOffEffectIDs": [
+   10002
+  ],
+  "ProgressEffectIDs": [],
+  "EndEffectIDs": []
+ },
+ {
+  "AdditionID": 12001,
+  "AdditionType": 2,
+  "AdditionVal": 2001,
+  "ActiveTimeSpan": 0,
+  "OnOffEffectIDs": [
+   12002
+  ],
+  "ProgressEffectIDs": [],
+  "EndEffectIDs": []
+ },
+ {
+  "AdditionID": 20002,
+  "AdditionType": 2,
+  "AdditionVal": 2004,
+  "ActiveTimeSpan": 0,
+  "OnOffEffectIDs": [],
+  "ProgressEffectIDs": [],
+  "EndEffectIDs": [
+   200021
+  ]
+ },
+ {
+  "AdditionID": 20005,
+  "AdditionType": 2,
+  "AdditionVal": 2008,
+  "ActiveTimeSpan": 0,
+  "OnOffEffectIDs": [],
+  "ProgressEffectIDs": [],
+  "EndEffectIDs": [
+   200051
+  ]
+ },
+ {
+  "AdditionID": 20006,
+  "AdditionType": 2,
+  "AdditionVal": 2008,
+  "ActiveTimeSpan": 0,
+  "OnOffEffectIDs": [],
+  "ProgressEffectIDs": [],
+  "EndEffectIDs": [
+   200061
+  ]
+ },
+ {
+  "AdditionID": 20008,
+  "AdditionType": 2,
+  "AdditionVal": 2007,
+  "ActiveTimeSpan": 1000,
+  "OnOffEffectIDs": [],
+  "ProgressEffectIDs": [
+   200081
+  ],
+  "EndEffectIDs": []
+ },
+ {
+  "AdditionID": 20041,
+  "AdditionType": 2,
+  "AdditionVal": 2002,
+  "ActiveTimeSpan": 0,
+  "OnOffEffectIDs": [
+   200411
+  ],
+  "ProgressEffectIDs": [],
+  "EndEffectIDs": []
+ },
+ {
+  "AdditionID": 20042,
+  "AdditionType": 2,
+  "AdditionVal": 2000,
+  "ActiveTimeSpan": 0,
+  "OnOffEffectIDs": [
+   200421
+  ],
+  "ProgressEffectIDs": [],
+  "EndEffectIDs": []
+ },
+ {
+  "AdditionID": 200421,
+  "AdditionType": 2,
+  "AdditionVal": 2004,
+  "ActiveTimeSpan": 0,
+  "OnOffEffectIDs": [
+   200423
+  ],
+  "ProgressEffectIDs": [],
+  "EndEffectIDs": []
+ },
+ {
+  "AdditionID": 20045,
+  "AdditionType": 2,
+  "AdditionVal": 2007,
+  "ActiveTimeSpan": 0,
+  "OnOffEffectIDs": [
+   200451
+  ],
+  "ProgressEffectIDs": [],
+  "EndEffectIDs": []
+ },
+ {
+  "AdditionID": 30003,
+  "AdditionType": 2,
+  "AdditionVal": 2008,
+  "ActiveTimeSpan": 0,
+  "OnOffEffectIDs": [
+   300031
+  ],
+  "ProgressEffectIDs": [],
+  "EndEffectIDs": []
+ },
+ {
+  "AdditionID": 30004,
+  "AdditionType": 2,
+  "AdditionVal": 2007,
+  "ActiveTimeSpan": 0,
+  "OnOffEffectIDs": [
+   300042
+  ],
+  "ProgressEffectIDs": [],
+  "EndEffectIDs": []
+ },
+ {
+  "AdditionID": 30018,
+  "AdditionType": 2,
+  "AdditionVal": 2007,
+  "ActiveTimeSpan": 1000,
+  "OnOffEffectIDs": [],
+  "ProgressEffectIDs": [
+   300181
+  ],
+  "EndEffectIDs": []
+ },
+ {
+  "AdditionID": 100090110,
+  "AdditionType": 2,
+  "AdditionVal": 2004,
+  "ActiveTimeSpan": 0,
+  "OnOffEffectIDs": [],
+  "ProgressEffectIDs": [],
+  "EndEffectIDs": [
+   100090120
+  ]
+ },
+ {
+  "AdditionID": 110202810,
+  "AdditionType": 0,
+  "AdditionVal": 2000,
+  "ActiveTimeSpan": 0,
+  "OnOffEffectIDs": [],
+  "ProgressEffectIDs": [],
+  "EndEffectIDs": [
+   110202811
+  ]
+ },
+ {
+  "AdditionID": 110202910,
+  "AdditionType": 0,
+  "AdditionVal": 2000,
+  "ActiveTimeSpan": 0,
+  "OnOffEffectIDs": [
+   110202911
+  ],
+  "ProgressEffectIDs": [],
+  "EndEffectIDs": []
+ },
+ {
+  "AdditionID": 120602410,
+  "AdditionType": 0,
+  "AdditionVal": 120602130,
+  "ActiveTimeSpan": 0,
+  "OnOffEffectIDs": [],
+  "ProgressEffectIDs": [
+   120602411
+  ],
+  "EndEffectIDs": []
+ },
+ {
+  "AdditionID": 120602210,
+  "AdditionType": 0,
+  "AdditionVal": 120602112,
+  "ActiveTimeSpan": 0,
+  "OnOffEffectIDs": [
+   120602212
+  ],
+  "ProgressEffectIDs": [],
+  "EndEffectIDs": []
+ },
+ {
+  "AdditionID": 120602211,
+  "AdditionType": 0,
+  "AdditionVal": 120602130,
+  "ActiveTimeSpan": 0,
+  "OnOffEffectIDs": [
+   120602212
+  ],
+  "ProgressEffectIDs": [],
+  "EndEffectIDs": []
+ },
+ {
+  "AdditionID": 120602310,
+  "AdditionType": 0,
+  "AdditionVal": 120602112,
+  "ActiveTimeSpan": 0,
+  "OnOffEffectIDs": [
+   120602312
+  ],
+  "ProgressEffectIDs": [],
+  "EndEffectIDs": []
+ },
+ {
+  "AdditionID": 120602311,
+  "AdditionType": 0,
+  "AdditionVal": 120602130,
+  "ActiveTimeSpan": 0,
+  "OnOffEffectIDs": [
+   120602312
+  ],
+  "ProgressEffectIDs": [],
+  "EndEffectIDs": []
+ },
+ {
+  "AdditionID": 10107,
+  "AdditionType": 2,
+  "AdditionVal": 2008,
+  "ActiveTimeSpan": 0,
+  "OnOffEffectIDs": [
+   101071
+  ],
+  "ProgressEffectIDs": [],
+  "EndEffectIDs": []
+ },
+ {
+  "AdditionID": 10108,
+  "AdditionType": 2,
+  "AdditionVal": 2008,
+  "ActiveTimeSpan": 0,
+  "OnOffEffectIDs": [
+   101081
+  ],
+  "ProgressEffectIDs": [],
+  "EndEffectIDs": []
+ },
+ {
+  "AdditionID": 1100011,
+  "AdditionType": 0,
+  "AdditionVal": 110701111,
+  "ActiveTimeSpan": 0,
+  "OnOffEffectIDs": [
+   110001112
+  ],
+  "ProgressEffectIDs": [],
+  "EndEffectIDs": []
+ },
+ {
+  "AdditionID": 110302610,
+  "AdditionType": 0,
+  "AdditionVal": 110302110,
+  "ActiveTimeSpan": 0,
+  "OnOffEffectIDs": [],
+  "ProgressEffectIDs": [],
+  "EndEffectIDs": [
+   110302611
+  ]
+ },
+ {
+  "AdditionID": 110302710,
+  "AdditionType": 0,
+  "AdditionVal": 110302110,
+  "ActiveTimeSpan": 0,
+  "OnOffEffectIDs": [],
+  "ProgressEffectIDs": [],
+  "EndEffectIDs": [
+   110302711
+  ]
+ },
+ {
+  "AdditionID": 110302910,
+  "AdditionType": 0,
+  "AdditionVal": 110302110,
+  "ActiveTimeSpan": 0,
+  "OnOffEffectIDs": [],
+  "ProgressEffectIDs": [],
+  "EndEffectIDs": [
+   110302911,
+   110302912
+  ]
+ },
+ {
+  "AdditionID": 130603510,
+  "AdditionType": 0,
+  "AdditionVal": 130603110,
+  "ActiveTimeSpan": 0,
+  "OnOffEffectIDs": [],
+  "ProgressEffectIDs": [],
+  "EndEffectIDs": [
+   130603511,
+   130603512,
+   130603513
+  ]
+ },
+ {
+  "AdditionID": 130603710,
+  "AdditionType": 0,
+  "AdditionVal": 130603110,
+  "ActiveTimeSpan": 0,
+  "OnOffEffectIDs": [],
+  "ProgressEffectIDs": [],
+  "EndEffectIDs": [
+   130603711
+  ]
+ },
+ {
+  "AdditionID": 130603810,
+  "AdditionType": 0,
+  "AdditionVal": 130603110,
+  "ActiveTimeSpan": 0,
+  "OnOffEffectIDs": [],
+  "ProgressEffectIDs": [],
+  "EndEffectIDs": [
+   130603811
+  ]
+ },
+ {
+  "AdditionID": 130401310,
+  "AdditionType": 0,
+  "AdditionVal": 130401110,
+  "ActiveTimeSpan": 0,
+  "OnOffEffectIDs": [
+   130401311
+  ],
+  "ProgressEffectIDs": [],
+  "EndEffectIDs": []
+ },
+ {
+  "AdditionID": 130401410,
+  "AdditionType": 0,
+  "AdditionVal": 130401110,
+  "ActiveTimeSpan": 0,
+  "OnOffEffectIDs": [
+   130401411
+  ],
+  "ProgressEffectIDs": [],
+  "EndEffectIDs": []
+ },
+ {
+  "AdditionID": 130401910,
+  "AdditionType": 0,
+  "AdditionVal": 130401610,
+  "ActiveTimeSpan": 0,
+  "OnOffEffectIDs": [
+   130401911
+  ],
+  "ProgressEffectIDs": [],
+  "EndEffectIDs": []
+ },
+ {
+  "AdditionID": 110603410,
+  "AdditionType": 0,
+  "AdditionVal": 110603110,
+  "ActiveTimeSpan": 0,
+  "OnOffEffectIDs": [],
+  "ProgressEffectIDs": [],
+  "EndEffectIDs": [
+   110603411
+  ]
+ },
+ {
+  "AdditionID": 110603510,
+  "AdditionType": 0,
+  "AdditionVal": 110603110,
+  "ActiveTimeSpan": 0,
+  "OnOffEffectIDs": [
+   110603511
+  ],
+  "ProgressEffectIDs": [],
+  "EndEffectIDs": []
+ },
+ {
+  "AdditionID": 110603810,
+  "AdditionType": 0,
+  "AdditionVal": 110603110,
+  "ActiveTimeSpan": 0,
+  "OnOffEffectIDs": [],
+  "ProgressEffectIDs": [],
+  "EndEffectIDs": [
+   110603811
+  ]
+ },
+ {
+  "AdditionID": 10099,
+  "AdditionType": 3,
+  "AdditionVal": 3001,
+  "ActiveTimeSpan": 0,
+  "OnOffEffectIDs": [
+   100991
+  ],
+  "ProgressEffectIDs": [],
+  "EndEffectIDs": []
+ },
+ {
+  "AdditionID": 10100,
+  "AdditionType": 3,
+  "AdditionVal": 3001,
+  "ActiveTimeSpan": 0,
+  "OnOffEffectIDs": [
+   101001
+  ],
+  "ProgressEffectIDs": [],
+  "EndEffectIDs": []
+ },
+ {
+  "AdditionID": 10101,
+  "AdditionType": 3,
+  "AdditionVal": 3001,
+  "ActiveTimeSpan": 0,
+  "OnOffEffectIDs": [],
+  "ProgressEffectIDs": [],
+  "EndEffectIDs": [
+   101011
+  ]
+ },
+ {
+  "AdditionID": 10103,
+  "AdditionType": 3,
+  "AdditionVal": 3001,
+  "ActiveTimeSpan": 0,
+  "OnOffEffectIDs": [
+   101031
+  ],
+  "ProgressEffectIDs": [],
+  "EndEffectIDs": []
+ },
+ {
+  "AdditionID": 20076,
+  "AdditionType": 3,
+  "AdditionVal": 3001,
+  "ActiveTimeSpan": 0,
+  "OnOffEffectIDs": [
+   200761
+  ],
+  "ProgressEffectIDs": [],
+  "EndEffectIDs": []
+ },
+ {
+  "AdditionID": 30017,
+  "AdditionType": 3,
+  "AdditionVal": 3001,
+  "ActiveTimeSpan": 0,
+  "OnOffEffectIDs": [
+   300171
+  ],
+  "ProgressEffectIDs": [],
+  "EndEffectIDs": []
+ },
+ {
+  "AdditionID": 30037,
+  "AdditionType": 3,
+  "AdditionVal": 3001,
+  "ActiveTimeSpan": 0,
+  "OnOffEffectIDs": [],
+  "ProgressEffectIDs": [],
+  "EndEffectIDs": [
+   300371,
+   300372
+  ]
+ },
+ {
+  "AdditionID": 30038,
+  "AdditionType": 3,
+  "AdditionVal": 3001,
+  "ActiveTimeSpan": 0,
+  "OnOffEffectIDs": [
+   300381
+  ],
+  "ProgressEffectIDs": [],
+  "EndEffectIDs": []
+ },
+ {
+  "AdditionID": 140202110,
+  "AdditionType": 0,
+  "AdditionVal": 140202110,
+  "ActiveTimeSpan": 0,
+  "OnOffEffectIDs": [
+   140202212
+  ],
+  "ProgressEffectIDs": [],
+  "EndEffectIDs": []
+ },
+ {
+  "AdditionID": 140202111,
+  "AdditionType": 0,
+  "AdditionVal": 140202110,
+  "ActiveTimeSpan": 0,
+  "OnOffEffectIDs": [
+   140202510
+  ],
+  "ProgressEffectIDs": [],
+  "EndEffectIDs": []
+ },
+ {
+  "AdditionID": 140702310,
+  "AdditionType": 2,
+  "AdditionVal": 140702,
+  "ActiveTimeSpan": 0,
+  "OnOffEffectIDs": [
+   140702114,
+   140702115
+  ],
+  "ProgressEffectIDs": [],
+  "EndEffectIDs": []
+ },
+ {
+  "AdditionID": 140702130,
+  "AdditionType": 2,
+  "AdditionVal": 140702,
+  "ActiveTimeSpan": 0,
+  "OnOffEffectIDs": [
+   140702113
+  ],
+  "ProgressEffectIDs": [],
+  "EndEffectIDs": []
+ },
+ {
+  "AdditionID": 140401150,
+  "AdditionType": 0,
+  "AdditionVal": 140401120,
+  "ActiveTimeSpan": 0,
+  "OnOffEffectIDs": [
+   140401151
+  ],
+  "ProgressEffectIDs": [],
+  "EndEffectIDs": []
+ },
+ {
+  "AdditionID": 120202510,
+  "AdditionType": 0,
+  "AdditionVal": 120202110,
+  "ActiveTimeSpan": 0,
+  "OnOffEffectIDs": [
+   120202511
+  ],
+  "ProgressEffectIDs": [],
+  "EndEffectIDs": []
+ },
+ {
+  "AdditionID": 130202610,
+  "AdditionType": 0,
+  "AdditionVal": 130202110,
+  "ActiveTimeSpan": 0,
+  "OnOffEffectIDs": [
+   130202611
+  ],
+  "ProgressEffectIDs": [],
+  "EndEffectIDs": []
+ },
+ {
+  "AdditionID": 130202710,
+  "AdditionType": 0,
+  "AdditionVal": 130202110,
+  "ActiveTimeSpan": 0,
+  "OnOffEffectIDs": [
+   130202711
+  ],
+  "ProgressEffectIDs": [],
+  "EndEffectIDs": []
+ },
+ {
+  "AdditionID": 100008110,
+  "AdditionType": 0,
+  "AdditionVal": 130202110,
+  "ActiveTimeSpan": 0,
+  "OnOffEffectIDs": [],
+  "ProgressEffectIDs": [
+   1000081111
+  ],
+  "EndEffectIDs": []
+ },
+ {
+  "AdditionID": 100008111,
+  "AdditionType": 0,
+  "AdditionVal": 120602112,
+  "ActiveTimeSpan": 0,
+  "OnOffEffectIDs": [],
+  "ProgressEffectIDs": [
+   1000082111
+  ],
+  "EndEffectIDs": []
+ },
+ {
+  "AdditionID": 100008112,
+  "AdditionType": 0,
+  "AdditionVal": 130601111,
+  "ActiveTimeSpan": 0,
+  "OnOffEffectIDs": [],
+  "ProgressEffectIDs": [
+   1000083111
+  ],
+  "EndEffectIDs": []
+ },
+ {
+  "AdditionID": 100008113,
+  "AdditionType": 0,
+  "AdditionVal": 120603111,
+  "ActiveTimeSpan": 0,
+  "OnOffEffectIDs": [],
+  "ProgressEffectIDs": [
+   1000084111
+  ],
+  "EndEffectIDs": []
+ },
+ {
+  "AdditionID": 100007111,
+  "AdditionType": 0,
+  "AdditionVal": 110302110,
+  "ActiveTimeSpan": 0,
+  "OnOffEffectIDs": [
+   100007110
+  ],
+  "ProgressEffectIDs": [],
+  "EndEffectIDs": []
+ },
+ {
+  "AdditionID": 100007211,
+  "AdditionType": 0,
+  "AdditionVal": 110302110,
+  "ActiveTimeSpan": 0,
+  "OnOffEffectIDs": [
+   100007210
+  ],
+  "ProgressEffectIDs": [],
+  "EndEffectIDs": []
+ },
+ {
+  "AdditionID": 100007311,
+  "AdditionType": 0,
+  "AdditionVal": 110302110,
+  "ActiveTimeSpan": 0,
+  "OnOffEffectIDs": [
+   100007310
+  ],
+  "ProgressEffectIDs": [],
+  "EndEffectIDs": []
+ },
+ {
+  "AdditionID": 100007411,
+  "AdditionType": 0,
+  "AdditionVal": 110302110,
+  "ActiveTimeSpan": 0,
+  "OnOffEffectIDs": [
+   100007410
+  ],
+  "ProgressEffectIDs": [],
+  "EndEffectIDs": []
+ },
+ {
+  "AdditionID": 100007112,
+  "AdditionType": 0,
+  "AdditionVal": 130401110,
+  "ActiveTimeSpan": 0,
+  "OnOffEffectIDs": [
+   100007110
+  ],
+  "ProgressEffectIDs": [],
+  "EndEffectIDs": []
+ },
+ {
+  "AdditionID": 100007212,
+  "AdditionType": 0,
+  "AdditionVal": 130401110,
+  "ActiveTimeSpan": 0,
+  "OnOffEffectIDs": [
+   100007210
+  ],
+  "ProgressEffectIDs": [],
+  "EndEffectIDs": []
+ },
+ {
+  "AdditionID": 100007312,
+  "AdditionType": 0,
+  "AdditionVal": 130401110,
+  "ActiveTimeSpan": 0,
+  "OnOffEffectIDs": [
+   100007310
+  ],
+  "ProgressEffectIDs": [],
+  "EndEffectIDs": []
+ },
+ {
+  "AdditionID": 100007412,
+  "AdditionType": 0,
+  "AdditionVal": 130401110,
+  "ActiveTimeSpan": 0,
+  "OnOffEffectIDs": [
+   100007410
+  ],
+  "ProgressEffectIDs": [],
+  "EndEffectIDs": []
+ },
+ {
+  "AdditionID": 100007113,
+  "AdditionType": 0,
+  "AdditionVal": 110603110,
+  "ActiveTimeSpan": 0,
+  "OnOffEffectIDs": [
+   100007110
+  ],
+  "ProgressEffectIDs": [],
+  "EndEffectIDs": []
+ },
+ {
+  "AdditionID": 100007213,
+  "AdditionType": 0,
+  "AdditionVal": 110603110,
+  "ActiveTimeSpan": 0,
+  "OnOffEffectIDs": [
+   100007210
+  ],
+  "ProgressEffectIDs": [],
+  "EndEffectIDs": []
+ },
+ {
+  "AdditionID": 100007313,
+  "AdditionType": 0,
+  "AdditionVal": 110603110,
+  "ActiveTimeSpan": 0,
+  "OnOffEffectIDs": [
+   100007310
+  ],
+  "ProgressEffectIDs": [],
+  "EndEffectIDs": []
+ },
+ {
+  "AdditionID": 100007413,
+  "AdditionType": 0,
+  "AdditionVal": 110603110,
+  "ActiveTimeSpan": 0,
+  "OnOffEffectIDs": [
+   100007410
+  ],
+  "ProgressEffectIDs": [],
+  "EndEffectIDs": []
+ },
+ {
+  "AdditionID": 100007114,
+  "AdditionType": 0,
+  "AdditionVal": 130603110,
+  "ActiveTimeSpan": 0,
+  "OnOffEffectIDs": [
+   100007110
+  ],
+  "ProgressEffectIDs": [],
+  "EndEffectIDs": []
+ },
+ {
+  "AdditionID": 100007214,
+  "AdditionType": 0,
+  "AdditionVal": 130603110,
+  "ActiveTimeSpan": 0,
+  "OnOffEffectIDs": [
+   100007210
+  ],
+  "ProgressEffectIDs": [],
+  "EndEffectIDs": []
+ },
+ {
+  "AdditionID": 100007314,
+  "AdditionType": 0,
+  "AdditionVal": 130603110,
+  "ActiveTimeSpan": 0,
+  "OnOffEffectIDs": [
+   100007310
+  ],
+  "ProgressEffectIDs": [],
+  "EndEffectIDs": []
+ },
+ {
+  "AdditionID": 100007414,
+  "AdditionType": 0,
+  "AdditionVal": 130603110,
+  "ActiveTimeSpan": 0,
+  "OnOffEffectIDs": [
+   100007410
+  ],
+  "ProgressEffectIDs": [],
+  "EndEffectIDs": []
+ },
+ {
+  "AdditionID": 140202610,
+  "AdditionType": 0,
+  "AdditionVal": 140202110,
+  "ActiveTimeSpan": 0,
+  "OnOffEffectIDs": [
+   140202611
+  ],
+  "ProgressEffectIDs": [],
+  "EndEffectIDs": []
+ },
+ {
+  "AdditionID": 140202510,
+  "AdditionType": 0,
+  "AdditionVal": 140202110,
+  "ActiveTimeSpan": 0,
+  "OnOffEffectIDs": [],
+  "ProgressEffectIDs": [],
+  "EndEffectIDs": [
+   140202511
+  ]
+ },
+ {
+  "AdditionID": 140202710,
+  "AdditionType": 0,
+  "AdditionVal": 140202110,
+  "ActiveTimeSpan": 0,
+  "OnOffEffectIDs": [
+   140202711
+  ],
+  "ProgressEffectIDs": [],
+  "EndEffectIDs": []
+ },
+ {
+  "AdditionID": 140202910,
+  "AdditionType": 0,
+  "AdditionVal": 140202110,
+  "ActiveTimeSpan": 0,
+  "OnOffEffectIDs": [
+   1402029101
+  ],
+  "ProgressEffectIDs": [],
+  "EndEffectIDs": []
+ },
+ {
+  "AdditionID": 140202911,
+  "AdditionType": 0,
+  "AdditionVal": 140202110,
+  "ActiveTimeSpan": 0,
+  "OnOffEffectIDs": [],
+  "ProgressEffectIDs": [],
+  "EndEffectIDs": [
+   1402029111
+  ]
+ },
+ {
+  "AdditionID": 140202912,
+  "AdditionType": 0,
+  "AdditionVal": 140202110,
+  "ActiveTimeSpan": 0,
+  "OnOffEffectIDs": [],
+  "ProgressEffectIDs": [],
+  "EndEffectIDs": [
+   1402029121
+  ]
+ },
+ {
+  "AdditionID": 110602910,
+  "AdditionType": 0,
+  "AdditionVal": 110602110,
+  "ActiveTimeSpan": 0,
+  "OnOffEffectIDs": [
+   1106029111
+  ],
+  "ProgressEffectIDs": [],
+  "EndEffectIDs": []
+ },
+ {
+  "AdditionID": 140702710,
+  "AdditionType": 0,
+  "AdditionVal": 140702610,
+  "ActiveTimeSpan": 0,
+  "OnOffEffectIDs": [
+   140702711
+  ],
+  "ProgressEffectIDs": [],
+  "EndEffectIDs": []
+ },
+ {
+  "AdditionID": 140702711,
+  "AdditionType": 0,
+  "AdditionVal": 140702612,
+  "ActiveTimeSpan": 0,
+  "OnOffEffectIDs": [
+   140702711
+  ],
+  "ProgressEffectIDs": [],
+  "EndEffectIDs": []
+ },
+ {
+  "AdditionID": 140702810,
+  "AdditionType": 0,
+  "AdditionVal": 140702610,
+  "ActiveTimeSpan": 0,
+  "OnOffEffectIDs": [
+   140702811
+  ],
+  "ProgressEffectIDs": [],
+  "EndEffectIDs": []
+ },
+ {
+  "AdditionID": 140702811,
+  "AdditionType": 0,
+  "AdditionVal": 140702612,
+  "ActiveTimeSpan": 0,
+  "OnOffEffectIDs": [
+   140702811
+  ],
+  "ProgressEffectIDs": [],
+  "EndEffectIDs": []
+ },
+ {
+  "AdditionID": 140702910,
+  "AdditionType": 0,
+  "AdditionVal": 140702610,
+  "ActiveTimeSpan": 0,
+  "OnOffEffectIDs": [
+   140702911
+  ],
+  "ProgressEffectIDs": [],
+  "EndEffectIDs": []
+ },
+ {
+  "AdditionID": 140702911,
+  "AdditionType": 0,
+  "AdditionVal": 140702612,
+  "ActiveTimeSpan": 0,
+  "OnOffEffectIDs": [
+   140702911
+  ],
+  "ProgressEffectIDs": [],
+  "EndEffectIDs": []
+ },
+ {
+  "AdditionID": 1003352,
+  "AdditionType": 0,
+  "AdditionVal": 110603110,
+  "ActiveTimeSpan": 0,
+  "OnOffEffectIDs": [
+   10033521
+  ],
+  "ProgressEffectIDs": [],
+  "EndEffectIDs": []
+ },
+ {
+  "AdditionID": 1004352,
+  "AdditionType": 0,
+  "AdditionVal": 110603110,
+  "ActiveTimeSpan": 0,
+  "OnOffEffectIDs": [
+   10043521
+  ],
+  "ProgressEffectIDs": [],
+  "EndEffectIDs": []
+ },
+ {
+  "AdditionID": 1005352,
+  "AdditionType": 0,
+  "AdditionVal": 110603110,
+  "ActiveTimeSpan": 0,
+  "OnOffEffectIDs": [
+   10053521
+  ],
+  "ProgressEffectIDs": [],
+  "EndEffectIDs": []
+ },
+ {
+  "AdditionID": 1006352,
+  "AdditionType": 0,
+  "AdditionVal": 110603110,
+  "ActiveTimeSpan": 0,
+  "OnOffEffectIDs": [
+   10063521
+  ],
+  "ProgressEffectIDs": [],
+  "EndEffectIDs": []
+ },
+ {
+  "AdditionID": 1003251,
+  "AdditionType": 0,
+  "AdditionVal": 130601111,
+  "ActiveTimeSpan": 0,
+  "OnOffEffectIDs": [
+   10032511
+  ],
+  "ProgressEffectIDs": [],
+  "EndEffectIDs": []
+ },
+ {
+  "AdditionID": 1004251,
+  "AdditionType": 0,
+  "AdditionVal": 130601111,
+  "ActiveTimeSpan": 0,
+  "OnOffEffectIDs": [
+   10042511
+  ],
+  "ProgressEffectIDs": [],
+  "EndEffectIDs": []
+ },
+ {
+  "AdditionID": 1005251,
+  "AdditionType": 0,
+  "AdditionVal": 130601111,
+  "ActiveTimeSpan": 0,
+  "OnOffEffectIDs": [
+   10052511
+  ],
+  "ProgressEffectIDs": [],
+  "EndEffectIDs": []
+ },
+ {
+  "AdditionID": 1006251,
+  "AdditionType": 0,
+  "AdditionVal": 130601111,
+  "ActiveTimeSpan": 0,
+  "OnOffEffectIDs": [
+   10062511
+  ],
+  "ProgressEffectIDs": [],
+  "EndEffectIDs": []
+ },
+ {
+  "AdditionID": 1003349,
+  "AdditionType": 0,
+  "AdditionVal": 110602110,
+  "ActiveTimeSpan": 0,
+  "OnOffEffectIDs": [
+   10033491
+  ],
+  "ProgressEffectIDs": [],
+  "EndEffectIDs": []
+ },
+ {
+  "AdditionID": 1004349,
+  "AdditionType": 0,
+  "AdditionVal": 110602110,
+  "ActiveTimeSpan": 0,
+  "OnOffEffectIDs": [
+   10043491
+  ],
+  "ProgressEffectIDs": [],
+  "EndEffectIDs": []
+ },
+ {
+  "AdditionID": 1005349,
+  "AdditionType": 0,
+  "AdditionVal": 110602110,
+  "ActiveTimeSpan": 0,
+  "OnOffEffectIDs": [
+   10053491
+  ],
+  "ProgressEffectIDs": [],
+  "EndEffectIDs": []
+ },
+ {
+  "AdditionID": 1006349,
+  "AdditionType": 0,
+  "AdditionVal": 110602110,
+  "ActiveTimeSpan": 0,
+  "OnOffEffectIDs": [
+   10063491
+  ],
+  "ProgressEffectIDs": [],
+  "EndEffectIDs": []
+ },
+ {
+  "AdditionID": 1003351,
+  "AdditionType": 0,
+  "AdditionVal": 130601111,
+  "ActiveTimeSpan": 0,
+  "OnOffEffectIDs": [],
+  "ProgressEffectIDs": [],
+  "EndEffectIDs": [
+   10033511
+  ]
+ },
+ {
+  "AdditionID": 1004351,
+  "AdditionType": 0,
+  "AdditionVal": 130601111,
+  "ActiveTimeSpan": 0,
+  "OnOffEffectIDs": [],
+  "ProgressEffectIDs": [],
+  "EndEffectIDs": [
+   10043511
+  ]
+ },
+ {
+  "AdditionID": 1005351,
+  "AdditionType": 0,
+  "AdditionVal": 130601111,
+  "ActiveTimeSpan": 0,
+  "OnOffEffectIDs": [],
+  "ProgressEffectIDs": [],
+  "EndEffectIDs": [
+   10053511
+  ]
+ },
+ {
+  "AdditionID": 1006351,
+  "AdditionType": 0,
+  "AdditionVal": 130601111,
+  "ActiveTimeSpan": 0,
+  "OnOffEffectIDs": [],
+  "ProgressEffectIDs": [],
+  "EndEffectIDs": [
+   10063511
+  ]
+ },
+ {
+  "AdditionID": 1001446,
+  "AdditionType": 0,
+  "AdditionVal": 120301610,
+  "ActiveTimeSpan": 1000,
+  "OnOffEffectIDs": [],
+  "ProgressEffectIDs": [
+   10014461
+  ],
+  "EndEffectIDs": []
+ },
+ {
+  "AdditionID": 1002446,
+  "AdditionType": 0,
+  "AdditionVal": 120301610,
+  "ActiveTimeSpan": 1000,
+  "OnOffEffectIDs": [],
+  "ProgressEffectIDs": [
+   10024461
+  ],
+  "EndEffectIDs": []
+ },
+ {
+  "AdditionID": 1003446,
+  "AdditionType": 0,
+  "AdditionVal": 120301610,
+  "ActiveTimeSpan": 1000,
+  "OnOffEffectIDs": [],
+  "ProgressEffectIDs": [
+   10034461
+  ],
+  "EndEffectIDs": []
+ },
+ {
+  "AdditionID": 10014482,
+  "AdditionType": 0,
+  "AdditionVal": 140202110,
+  "ActiveTimeSpan": 0,
+  "OnOffEffectIDs": [
+   10014483
+  ],
+  "ProgressEffectIDs": [],
+  "EndEffectIDs": []
+ },
+ {
+  "AdditionID": 10024482,
+  "AdditionType": 0,
+  "AdditionVal": 140202110,
+  "ActiveTimeSpan": 0,
+  "OnOffEffectIDs": [
+   10024483
+  ],
+  "ProgressEffectIDs": [],
+  "EndEffectIDs": []
+ },
+ {
+  "AdditionID": 10034482,
+  "AdditionType": 0,
+  "AdditionVal": 140202110,
+  "ActiveTimeSpan": 0,
+  "OnOffEffectIDs": [
+   10034483
+  ],
+  "ProgressEffectIDs": [],
+  "EndEffectIDs": []
+ },
+ {
+  "AdditionID": 1004555,
+  "AdditionType": 0,
+  "AdditionVal": 120603111,
+  "ActiveTimeSpan": 0,
+  "OnOffEffectIDs": [],
+  "ProgressEffectIDs": [
+   10045551
+  ],
+  "EndEffectIDs": []
+ },
+ {
+  "AdditionID": 1005555,
+  "AdditionType": 0,
+  "AdditionVal": 120603111,
+  "ActiveTimeSpan": 0,
+  "OnOffEffectIDs": [],
+  "ProgressEffectIDs": [
+   10055551
+  ],
+  "EndEffectIDs": []
+ },
+ {
+  "AdditionID": 1006555,
+  "AdditionType": 0,
+  "AdditionVal": 120603111,
+  "ActiveTimeSpan": 0,
+  "OnOffEffectIDs": [],
+  "ProgressEffectIDs": [
+   10065551
+  ],
+  "EndEffectIDs": []
+ },
+ {
+  "AdditionID": 20010,
+  "AdditionType": 0,
+  "AdditionVal": 130202110,
+  "ActiveTimeSpan": 0,
+  "OnOffEffectIDs": [
+   200104
+  ],
+  "ProgressEffectIDs": [],
+  "EndEffectIDs": []
+ },
+ {
+  "AdditionID": 200101,
+  "AdditionType": 0,
+  "AdditionVal": 120602112,
+  "ActiveTimeSpan": 0,
+  "OnOffEffectIDs": [
+   200104
+  ],
+  "ProgressEffectIDs": [],
+  "EndEffectIDs": []
+ },
+ {
+  "AdditionID": 200102,
+  "AdditionType": 0,
+  "AdditionVal": 130601111,
+  "ActiveTimeSpan": 0,
+  "OnOffEffectIDs": [
+   200104
+  ],
+  "ProgressEffectIDs": [],
+  "EndEffectIDs": []
+ },
+ {
+  "AdditionID": 200103,
+  "AdditionType": 0,
+  "AdditionVal": 120603111,
+  "ActiveTimeSpan": 0,
+  "OnOffEffectIDs": [
+   200104
+  ],
+  "ProgressEffectIDs": [],
+  "EndEffectIDs": []
+ },
+ {
+  "AdditionID": 1004556,
+  "AdditionType": 0,
+  "AdditionVal": 140702610,
+  "ActiveTimeSpan": 0,
+  "OnOffEffectIDs": [],
+  "ProgressEffectIDs": [],
+  "EndEffectIDs": [
+   10045561
+  ]
+ },
+ {
+  "AdditionID": 1005556,
+  "AdditionType": 0,
+  "AdditionVal": 140702610,
+  "ActiveTimeSpan": 0,
+  "OnOffEffectIDs": [],
+  "ProgressEffectIDs": [],
+  "EndEffectIDs": [
+   10055561
+  ]
+ },
+ {
+  "AdditionID": 1006556,
+  "AdditionType": 0,
+  "AdditionVal": 140702610,
+  "ActiveTimeSpan": 0,
+  "OnOffEffectIDs": [],
+  "ProgressEffectIDs": [],
+  "EndEffectIDs": [
+   10065561
+  ]
+ },
+ {
+  "AdditionID": 140402214,
+  "AdditionType": 0,
+  "AdditionVal": 140402111,
+  "ActiveTimeSpan": 0,
+  "OnOffEffectIDs": [],
+  "ProgressEffectIDs": [],
+  "EndEffectIDs": []
+ },
+ {
+  "AdditionID": 110604214,
+  "AdditionType": 0,
+  "AdditionVal": 110604117,
+  "ActiveTimeSpan": 0,
+  "OnOffEffectIDs": [],
+  "ProgressEffectIDs": [
+   110604217,
+   110604218
+  ],
+  "EndEffectIDs": []
+ },
+ {
+  "AdditionID": 110604215,
+  "AdditionType": 0,
+  "AdditionVal": 110604117,
+  "ActiveTimeSpan": 0,
+  "OnOffEffectIDs": [],
+  "ProgressEffectIDs": [
+   110604219
+  ],
+  "EndEffectIDs": []
+ },
+ {
+  "AdditionID": 120202610,
+  "AdditionType": 0,
+  "AdditionVal": 120202110,
+  "ActiveTimeSpan": 0,
+  "OnOffEffectIDs": [],
+  "ProgressEffectIDs": [],
+  "EndEffectIDs": [
+   1120202611,
+   1120202612
+  ]
+ },
+ {
+  "AdditionID": 120202110,
+  "AdditionType": 0,
+  "AdditionVal": 120202110,
+  "ActiveTimeSpan": 0,
+  "OnOffEffectIDs": [
+   1120202111,
+   1120202112
+  ],
+  "ProgressEffectIDs": [],
+  "EndEffectIDs": []
+ },
+ {
+  "AdditionID": 120202210,
+  "AdditionType": 0,
+  "AdditionVal": 120202110,
+  "ActiveTimeSpan": 1000,
+  "OnOffEffectIDs": [],
+  "ProgressEffectIDs": [
+   1120202511
+  ],
+  "EndEffectIDs": []
+ },
+ {
+  "AdditionID": 110602115,
+  "AdditionType": 0,
+  "AdditionVal": 110602110,
+  "ActiveTimeSpan": 0,
+  "OnOffEffectIDs": [
+   110602118,
+   1110602118
+  ],
+  "ProgressEffectIDs": [],
+  "EndEffectIDs": []
+ },
+ {
+  "AdditionID": 110602119,
+  "AdditionType": 0,
+  "AdditionVal": 110602110,
+  "ActiveTimeSpan": 0,
+  "OnOffEffectIDs": [
+   1110602119,
+   1110602210
+  ],
+  "ProgressEffectIDs": [],
+  "EndEffectIDs": []
+ },
+ {
+  "AdditionID": 110602510,
+  "AdditionType": 0,
+  "AdditionVal": 110602110,
+  "ActiveTimeSpan": 0,
+  "OnOffEffectIDs": [
+   110602511,
+   110602512
+  ],
+  "ProgressEffectIDs": [],
+  "EndEffectIDs": []
+ },
+ {
+  "AdditionID": 110602222,
+  "AdditionType": 0,
+  "AdditionVal": 110602110,
+  "ActiveTimeSpan": 3000,
+  "OnOffEffectIDs": [],
+  "ProgressEffectIDs": [
+   110602211
+  ],
+  "EndEffectIDs": []
+ },
+ {
+  "AdditionID": 110602212,
+  "AdditionType": 0,
+  "AdditionVal": 110602211,
+  "ActiveTimeSpan": 0,
+  "OnOffEffectIDs": [
+   110602213
+  ],
+  "ProgressEffectIDs": [],
+  "EndEffectIDs": []
+ },
+ {
+  "AdditionID": 1110602812,
+  "AdditionType": 0,
+  "AdditionVal": 110602211,
+  "ActiveTimeSpan": 0,
+  "OnOffEffectIDs": [
+   1110602813
+  ],
+  "ProgressEffectIDs": [],
+  "EndEffectIDs": []
+ },
+ {
+  "AdditionID": 1110302110,
+  "AdditionType": 0,
+  "AdditionVal": 110302110,
+  "ActiveTimeSpan": 0,
+  "OnOffEffectIDs": [
+   1110302112
+  ],
+  "ProgressEffectIDs": [],
+  "EndEffectIDs": []
+ },
+ {
+  "AdditionID": 1110302310,
+  "AdditionType": 0,
+  "AdditionVal": 110302110,
+  "ActiveTimeSpan": 0,
+  "OnOffEffectIDs": [
+   1110302311
+  ],
+  "ProgressEffectIDs": [],
+  "EndEffectIDs": []
+ },
+ {
+  "AdditionID": 1110302510,
+  "AdditionType": 0,
+  "AdditionVal": 110302110,
+  "ActiveTimeSpan": 1000,
+  "OnOffEffectIDs": [],
+  "ProgressEffectIDs": [
+   1110302511
+  ],
+  "EndEffectIDs": []
+ },
+ {
+  "AdditionID": 1110302610,
+  "AdditionType": 0,
+  "AdditionVal": 110302110,
+  "ActiveTimeSpan": 0,
+  "OnOffEffectIDs": [],
+  "ProgressEffectIDs": [],
+  "EndEffectIDs": [
+   1110302611
+  ]
+ },
+ {
+  "AdditionID": 1130202410,
+  "AdditionType": 0,
+  "AdditionVal": 130202110,
+  "ActiveTimeSpan": 0,
+  "OnOffEffectIDs": [
+   1130202411
+  ],
+  "ProgressEffectIDs": [],
+  "EndEffectIDs": []
+ },
+ {
+  "AdditionID": 1130202510,
+  "AdditionType": 0,
+  "AdditionVal": 130202110,
+  "ActiveTimeSpan": 0,
+  "OnOffEffectIDs": [],
+  "ProgressEffectIDs": [
+   1130202511
+  ],
+  "EndEffectIDs": []
+ },
+ {
+  "AdditionID": 2130202110,
+  "AdditionType": 0,
+  "AdditionVal": 130202110,
+  "ActiveTimeSpan": 0,
+  "OnOffEffectIDs": [
+   2130202111
+  ],
+  "ProgressEffectIDs": [],
+  "EndEffectIDs": []
+ },
+ {
+  "AdditionID": 2130202310,
+  "AdditionType": 0,
+  "AdditionVal": 130202110,
+  "ActiveTimeSpan": 0,
+  "OnOffEffectIDs": [
+   2130202311
+  ],
+  "ProgressEffectIDs": [],
+  "EndEffectIDs": []
+ },
+ {
+  "AdditionID": 2120602110,
+  "AdditionType": 0,
+  "AdditionVal": 120602110,
+  "ActiveTimeSpan": 0,
+  "OnOffEffectIDs": [
+   2120602113
+  ],
+  "ProgressEffectIDs": [],
+  "EndEffectIDs": []
+ },
+ {
+  "AdditionID": 2120602210,
+  "AdditionType": 0,
+  "AdditionVal": 120602110,
+  "ActiveTimeSpan": 0,
+  "OnOffEffectIDs": [
+   2120602211
+  ],
+  "ProgressEffectIDs": [],
+  "EndEffectIDs": []
+ },
+ {
+  "AdditionID": 2120602310,
+  "AdditionType": 0,
+  "AdditionVal": 120602110,
+  "ActiveTimeSpan": 0,
+  "OnOffEffectIDs": [
+   2120602311
+  ],
+  "ProgressEffectIDs": [],
+  "EndEffectIDs": []
+ },
+ {
+  "AdditionID": 2120602410,
+  "AdditionType": 0,
+  "AdditionVal": 120602110,
+  "ActiveTimeSpan": 0,
+  "OnOffEffectIDs": [
+   2120602411
+  ],
+  "ProgressEffectIDs": [],
+  "EndEffectIDs": []
+ },
+ {
+  "AdditionID": 110202110,
+  "AdditionType": 0,
+  "AdditionVal": 110202110,
+  "ActiveTimeSpan": 0,
+  "OnOffEffectIDs": [
+   1110202111
+  ],
+  "ProgressEffectIDs": [],
+  "EndEffectIDs": []
+ },
+ {
+  "AdditionID": 110202610,
+  "AdditionType": 0,
+  "AdditionVal": 110202110,
+  "ActiveTimeSpan": 0,
+  "OnOffEffectIDs": [
+   1110202611,
+   1110202612,
+   1110202614,
+   1110202615
+  ],
+  "ProgressEffectIDs": [],
+  "EndEffectIDs": []
+ },
+ {
+  "AdditionID": 110202210,
+  "AdditionType": 0,
+  "AdditionVal": 110202111,
+  "ActiveTimeSpan": 0,
+  "OnOffEffectIDs": [
+   2110202211
+  ],
+  "ProgressEffectIDs": [],
+  "EndEffectIDs": []
+ },
+ {
+  "AdditionID": 110202410,
+  "AdditionType": 0,
+  "AdditionVal": 110202111,
+  "ActiveTimeSpan": 0,
+  "OnOffEffectIDs": [
+   2110202411
+  ],
+  "ProgressEffectIDs": [],
+  "EndEffectIDs": []
+ },
+ {
+  "AdditionID": 110202310,
+  "AdditionType": 0,
+  "AdditionVal": 110202210,
+  "ActiveTimeSpan": 0,
+  "OnOffEffectIDs": [
+   1110202118
+  ],
+  "ProgressEffectIDs": [],
+  "EndEffectIDs": []
+ },
+ {
+  "AdditionID": 1130401210,
+  "AdditionType": 0,
+  "AdditionVal": 130401111,
+  "ActiveTimeSpan": 0,
+  "OnOffEffectIDs": [
+   1130401211
+  ],
+  "ProgressEffectIDs": [],
+  "EndEffectIDs": []
+ },
+ {
+  "AdditionID": 1130401310,
+  "AdditionType": 0,
+  "AdditionVal": 1130401211,
+  "ActiveTimeSpan": 0,
+  "OnOffEffectIDs": [
+   1130401311
+  ],
+  "ProgressEffectIDs": [],
+  "EndEffectIDs": []
+ },
+ {
+  "AdditionID": 1130401410,
+  "AdditionType": 0,
+  "AdditionVal": 1130401311,
+  "ActiveTimeSpan": 0,
+  "OnOffEffectIDs": [
+   1130401411
+  ],
+  "ProgressEffectIDs": [],
+  "EndEffectIDs": []
+ },
+ {
+  "AdditionID": 450101510,
+  "AdditionType": 0,
+  "AdditionVal": 450101310,
+  "ActiveTimeSpan": 0,
+  "OnOffEffectIDs": [
+   450101511
+  ],
+  "ProgressEffectIDs": [],
+  "EndEffectIDs": []
+ },
+ {
+  "AdditionID": 150101810,
+  "AdditionType": 0,
+  "AdditionVal": 450101115,
+  "ActiveTimeSpan": 0,
+  "OnOffEffectIDs": [
+   150101811,
+   150101812
+  ],
+  "ProgressEffectIDs": [],
+  "EndEffectIDs": []
+ },
+ {
+  "AdditionID": 150101912,
+  "AdditionType": 0,
+  "AdditionVal": 450101310,
+  "ActiveTimeSpan": 0,
+  "OnOffEffectIDs": [
+   150101913,
+   150101914
+  ],
+  "ProgressEffectIDs": [],
+  "EndEffectIDs": []
+ },
+ {
+  "AdditionID": 1420101710,
+  "AdditionType": 0,
+  "AdditionVal": 420101210,
+  "ActiveTimeSpan": 0,
+  "OnOffEffectIDs": [
+   1420101711
+  ],
+  "ProgressEffectIDs": [],
+  "EndEffectIDs": []
+ },
+ {
+  "AdditionID": 1420101910,
+  "AdditionType": 0,
+  "AdditionVal": 420101210,
+  "ActiveTimeSpan": 0,
+  "OnOffEffectIDs": [
+   1420101911
+  ],
+  "ProgressEffectIDs": [],
+  "EndEffectIDs": []
+ },
+ {
+  "AdditionID": 420101510,
+  "AdditionType": 0,
+  "AdditionVal": 420101210,
+  "ActiveTimeSpan": 0,
+  "OnOffEffectIDs": [
+   420101511
+  ],
+  "ProgressEffectIDs": [],
+  "EndEffectIDs": []
+ },
+ {
+  "AdditionID": 420101410,
+  "AdditionType": 0,
+  "AdditionVal": 420101210,
+  "ActiveTimeSpan": 0,
+  "OnOffEffectIDs": [
+   420101411
+  ],
+  "ProgressEffectIDs": [],
+  "EndEffectIDs": []
+ },
+ {
+  "AdditionID": 1140404710,
+  "AdditionType": 0,
+  "AdditionVal": 140404114,
+  "ActiveTimeSpan": 0,
+  "OnOffEffectIDs": [
+   1140404713
+  ],
+  "ProgressEffectIDs": [],
+  "EndEffectIDs": []
+ },
+ {
+  "AdditionID": 1140404711,
+  "AdditionType": 0,
+  "AdditionVal": 140404115,
+  "ActiveTimeSpan": 0,
+  "OnOffEffectIDs": [
+   1140404713
+  ],
+  "ProgressEffectIDs": [],
+  "EndEffectIDs": []
+ },
+ {
+  "AdditionID": 1140404712,
+  "AdditionType": 0,
+  "AdditionVal": 140404116,
+  "ActiveTimeSpan": 0,
+  "OnOffEffectIDs": [
+   1140404713
+  ],
+  "ProgressEffectIDs": [],
+  "EndEffectIDs": []
+ },
+ {
+  "AdditionID": 1140404714,
+  "AdditionType": 0,
+  "AdditionVal": 2140404610,
+  "ActiveTimeSpan": 0,
+  "OnOffEffectIDs": [
+   1140404715
+  ],
+  "ProgressEffectIDs": [],
+  "EndEffectIDs": []
+ },
+ {
+  "AdditionID": 1420101810,
+  "AdditionType": 0,
+  "AdditionVal": 420101210,
+  "ActiveTimeSpan": 0,
+  "OnOffEffectIDs": [
+   1420101811
+  ],
+  "ProgressEffectIDs": [],
+  "EndEffectIDs": []
+ },
+ {
+  "AdditionID": 1420101517,
+  "AdditionType": 0,
+  "AdditionVal": 420101110,
+  "ActiveTimeSpan": 0,
+  "OnOffEffectIDs": [
+   1420101512,
+   1420101513
+  ],
+  "ProgressEffectIDs": [],
+  "EndEffectIDs": []
+ },
+ {
+  "AdditionID": 1420101420,
+  "AdditionType": 0,
+  "AdditionVal": 420101110,
+  "ActiveTimeSpan": 0,
+  "OnOffEffectIDs": [
+   1420101422
+  ],
+  "ProgressEffectIDs": [],
+  "EndEffectIDs": []
+ },
+ {
+  "AdditionID": 1420101520,
+  "AdditionType": 0,
+  "AdditionVal": 420101110,
+  "ActiveTimeSpan": 0,
+  "OnOffEffectIDs": [
+   1420101522
+  ],
+  "ProgressEffectIDs": [],
+  "EndEffectIDs": []
+ },
+ {
+  "AdditionID": 1130702110,
+  "AdditionType": 0,
+  "AdditionVal": 130702110,
+  "ActiveTimeSpan": 0,
+  "OnOffEffectIDs": [
+   1130702111
+  ],
+  "ProgressEffectIDs": [],
+  "EndEffectIDs": []
+ },
+ {
+  "AdditionID": 1130702210,
+  "AdditionType": 0,
+  "AdditionVal": 130702115,
+  "ActiveTimeSpan": 0,
+  "OnOffEffectIDs": [
+   1130702211
+  ],
+  "ProgressEffectIDs": [],
+  "EndEffectIDs": []
+ },
+ {
+  "AdditionID": 1130702310,
+  "AdditionType": 0,
+  "AdditionVal": 130702115,
+  "ActiveTimeSpan": 0,
+  "OnOffEffectIDs": [
+   1130702311
+  ],
+  "ProgressEffectIDs": [],
+  "EndEffectIDs": []
+ },
+ {
+  "AdditionID": 1130702410,
+  "AdditionType": 0,
+  "AdditionVal": 130702110,
+  "ActiveTimeSpan": 0,
+  "OnOffEffectIDs": [
+   1130702411
+  ],
+  "ProgressEffectIDs": [],
+  "EndEffectIDs": []
+ },
+ {
+  "AdditionID": 1130702510,
+  "AdditionType": 0,
+  "AdditionVal": 130702110,
+  "ActiveTimeSpan": 0,
+  "OnOffEffectIDs": [
+   1130702511
+  ],
+  "ProgressEffectIDs": [],
+  "EndEffectIDs": []
+ },
+ {
+  "AdditionID": 1130702610,
+  "AdditionType": 0,
+  "AdditionVal": 130702110,
+  "ActiveTimeSpan": 0,
+  "OnOffEffectIDs": [
+   1130702611
+  ],
+  "ProgressEffectIDs": [],
+  "EndEffectIDs": []
+ },
+ {
+  "AdditionID": 2130702410,
+  "AdditionType": 0,
+  "AdditionVal": 130702115,
+  "ActiveTimeSpan": 0,
+  "OnOffEffectIDs": [
+   2130702411
+  ],
+  "ProgressEffectIDs": [],
+  "EndEffectIDs": []
+ },
+ {
+  "AdditionID": 2140701210,
+  "AdditionType": 0,
+  "AdditionVal": 140701111,
+  "ActiveTimeSpan": 0,
+  "OnOffEffectIDs": [
+   2140701211,
+   2140701212
+  ],
+  "ProgressEffectIDs": [],
+  "EndEffectIDs": []
+ },
+ {
+  "AdditionID": 1140701711,
+  "AdditionType": 0,
+  "AdditionVal": 140701111,
+  "ActiveTimeSpan": 0,
+  "OnOffEffectIDs": [
+   1140701712
+  ],
+  "ProgressEffectIDs": [],
+  "EndEffectIDs": []
+ },
+ {
+  "AdditionID": 1130702811,
+  "AdditionType": 0,
+  "AdditionVal": 2130702610,
+  "ActiveTimeSpan": 0,
+  "OnOffEffectIDs": [
+   1130702812
+  ],
+  "ProgressEffectIDs": [],
+  "EndEffectIDs": []
+ },
+ {
+  "AdditionID": 1140403811,
+  "AdditionType": 0,
+  "AdditionVal": 1140403710,
+  "ActiveTimeSpan": 0,
+  "OnOffEffectIDs": [
+   1140403812
+  ],
+  "ProgressEffectIDs": [],
+  "EndEffectIDs": []
+ },
+ {
+  "AdditionID": 1130702312,
+  "AdditionType": 0,
+  "AdditionVal": 130702110,
+  "ActiveTimeSpan": 0,
+  "OnOffEffectIDs": [
+   1130702313
+  ],
+  "ProgressEffectIDs": [],
+  "EndEffectIDs": []
+ },
+ {
+  "AdditionID": 2130702412,
+  "AdditionType": 0,
+  "AdditionVal": 130702115,
+  "ActiveTimeSpan": 0,
+  "OnOffEffectIDs": [],
+  "ProgressEffectIDs": [],
+  "EndEffectIDs": []
+ },
+ {
+  "AdditionID": 420101910,
+  "AdditionType": 0,
+  "AdditionVal": 420101110,
+  "ActiveTimeSpan": 0,
+  "OnOffEffectIDs": [
+   420101911
+  ],
+  "ProgressEffectIDs": [],
+  "EndEffectIDs": []
+ },
+ {
+  "AdditionID": 2130401710,
+  "AdditionType": 3,
+  "AdditionVal": 2130401710,
+  "ActiveTimeSpan": 0,
+  "OnOffEffectIDs": [
+   2130401711
+  ],
+  "ProgressEffectIDs": [],
+  "EndEffectIDs": []
+ },
+ {
+  "AdditionID": 1003149,
+  "AdditionType": 0,
+  "AdditionVal": 110602211,
+  "ActiveTimeSpan": 0,
+  "OnOffEffectIDs": [
+   10031491
+  ],
+  "ProgressEffectIDs": [],
+  "EndEffectIDs": []
+ },
+ {
+  "AdditionID": 1004149,
+  "AdditionType": 0,
+  "AdditionVal": 110602211,
+  "ActiveTimeSpan": 0,
+  "OnOffEffectIDs": [
+   10041491
+  ],
+  "ProgressEffectIDs": [],
+  "EndEffectIDs": []
+ },
+ {
+  "AdditionID": 1005149,
+  "AdditionType": 0,
+  "AdditionVal": 110602211,
+  "ActiveTimeSpan": 0,
+  "OnOffEffectIDs": [
+   10051491
+  ],
+  "ProgressEffectIDs": [],
+  "EndEffectIDs": []
+ },
+ {
+  "AdditionID": 1006149,
+  "AdditionType": 0,
+  "AdditionVal": 110602211,
+  "ActiveTimeSpan": 0,
+  "OnOffEffectIDs": [
+   10061491
+  ],
+  "ProgressEffectIDs": [],
+  "EndEffectIDs": []
+ },
+ {
+  "AdditionID": 1002685,
+  "AdditionType": 2,
+  "AdditionVal": 2008,
+  "ActiveTimeSpan": 0,
+  "OnOffEffectIDs": [
+   10026851
+  ],
+  "ProgressEffectIDs": [],
+  "EndEffectIDs": []
+ },
+ {
+  "AdditionID": 1002686,
+  "AdditionType": 2,
+  "AdditionVal": 2008,
+  "ActiveTimeSpan": 0,
+  "OnOffEffectIDs": [
+   10026861
+  ],
+  "ProgressEffectIDs": [],
+  "EndEffectIDs": []
+ },
+ {
+  "AdditionID": 1002687,
+  "AdditionType": 2,
+  "AdditionVal": 2008,
+  "ActiveTimeSpan": 0,
+  "OnOffEffectIDs": [
+   10026871
+  ],
+  "ProgressEffectIDs": [],
+  "EndEffectIDs": []
+ },
+ {
+  "AdditionID": 100268700,
+  "AdditionType": 2,
+  "AdditionVal": 2008,
+  "ActiveTimeSpan": 0,
+  "OnOffEffectIDs": [
+   100268710
+  ],
+  "ProgressEffectIDs": [],
+  "EndEffectIDs": []
+ },
+ {
+  "AdditionID": 100268701,
+  "AdditionType": 2,
+  "AdditionVal": 2008,
+  "ActiveTimeSpan": 0,
+  "OnOffEffectIDs": [
+   100268711
+  ],
+  "ProgressEffectIDs": [],
+  "EndEffectIDs": []
+ },
+ {
+  "AdditionID": 1002706,
+  "AdditionType": 2,
+  "AdditionVal": 2008,
+  "ActiveTimeSpan": 0,
+  "OnOffEffectIDs": [],
+  "ProgressEffectIDs": [
+   10027061
+  ],
+  "EndEffectIDs": []
+ },
+ {
+  "AdditionID": 1002707,
+  "AdditionType": 2,
+  "AdditionVal": 2008,
+  "ActiveTimeSpan": 0,
+  "OnOffEffectIDs": [],
+  "ProgressEffectIDs": [
+   10027071
+  ],
+  "EndEffectIDs": []
+ },
+ {
+  "AdditionID": 1002708,
+  "AdditionType": 2,
+  "AdditionVal": 2008,
+  "ActiveTimeSpan": 0,
+  "OnOffEffectIDs": [],
+  "ProgressEffectIDs": [
+   10027081
+  ],
+  "EndEffectIDs": []
+ },
+ {
+  "AdditionID": 100270801,
+  "AdditionType": 2,
+  "AdditionVal": 2008,
+  "ActiveTimeSpan": 0,
+  "OnOffEffectIDs": [],
+  "ProgressEffectIDs": [
+   100270811
+  ],
+  "EndEffectIDs": []
+ },
+ {
+  "AdditionID": 100270802,
+  "AdditionType": 2,
+  "AdditionVal": 2008,
+  "ActiveTimeSpan": 0,
+  "OnOffEffectIDs": [],
+  "ProgressEffectIDs": [
+   100270812
+  ],
+  "EndEffectIDs": []
+ },
+ {
+  "AdditionID": 1110401510,
+  "AdditionType": 0,
+  "AdditionVal": 110401211,
+  "ActiveTimeSpan": 0,
+  "OnOffEffectIDs": [],
+  "ProgressEffectIDs": [],
+  "EndEffectIDs": [
+   1110401511
+  ]
+ }
+]

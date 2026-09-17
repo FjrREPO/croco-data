@@ -1,0 +1,251 @@
+[
+ {
+  "bonusID": 1,
+  "Value": 50,
+  "Reward": [
+   301
+  ],
+  "Reward2": [
+   301,
+   1100
+  ],
+  "IsRenovate": 1,
+  "bonusUnlock": [
+   110402,
+   110602,
+   110603,
+   130601,
+   140402,
+   140403,
+   140404,
+   420101
+  ],
+  "UnlockType": 0,
+  "Reward2Unlock": 0
+ },
+ {
+  "bonusID": 2,
+  "Value": 50,
+  "Reward": [
+   350
+  ],
+  "Reward2": [
+   351,
+   150
+  ],
+  "IsRenovate": 1,
+  "bonusUnlock": [],
+  "UnlockType": 0,
+  "Reward2Unlock": 0
+ },
+ {
+  "bonusID": 3,
+  "Value": 50,
+  "Reward": [
+   352
+  ],
+  "Reward2": [
+   353,
+   100
+  ],
+  "IsRenovate": 1,
+  "bonusUnlock": [],
+  "UnlockType": 1,
+  "Reward2Unlock": 0
+ },
+ {
+  "bonusID": 4,
+  "Value": 50,
+  "Reward": [
+   354
+  ],
+  "Reward2": [
+   355,
+   50
+  ],
+  "IsRenovate": 1,
+  "bonusUnlock": [],
+  "UnlockType": 2,
+  "Reward2Unlock": 0
+ },
+ {
+  "bonusID": 5,
+  "Value": 50,
+  "Reward": [
+   350
+  ],
+  "Reward2": [
+   351,
+   150
+  ],
+  "IsRenovate": 1,
+  "bonusUnlock": [],
+  "UnlockType": 0,
+  "Reward2Unlock": 0
+ },
+ {
+  "bonusID": 6,
+  "Value": 50,
+  "Reward": [
+   352
+  ],
+  "Reward2": [
+   353,
+   100
+  ],
+  "IsRenovate": 1,
+  "bonusUnlock": [],
+  "UnlockType": 1,
+  "Reward2Unlock": 0
+ },
+ {
+  "bonusID": 7,
+  "Value": 50,
+  "Reward": [
+   354
+  ],
+  "Reward2": [
+   355,
+   50
+  ],
+  "IsRenovate": 1,
+  "bonusUnlock": [],
+  "UnlockType": 2,
+  "Reward2Unlock": 0
+ },
+ {
+  "bonusID": 8,
+  "Value": 50,
+  "Reward": [
+   350
+  ],
+  "Reward2": [
+   351,
+   150
+  ],
+  "IsRenovate": 1,
+  "bonusUnlock": [],
+  "UnlockType": 0,
+  "Reward2Unlock": 0
+ },
+ {
+  "bonusID": 9,
+  "Value": 50,
+  "Reward": [
+   352
+  ],
+  "Reward2": [
+   353,
+   100
+  ],
+  "IsRenovate": 1,
+  "bonusUnlock": [],
+  "UnlockType": 1,
+  "Reward2Unlock": 0
+ },
+ {
+  "bonusID": 10,
+  "Value": 50,
+  "Reward": [
+   354
+  ],
+  "Reward2": [
+   355,
+   50
+  ],
+  "IsRenovate": 1,
+  "bonusUnlock": [],
+  "UnlockType": 2,
+  "Reward2Unlock": 0
+ },
+ {
+  "bonusID": 11,
+  "Value": 50,
+  "Reward": [
+   350
+  ],
+  "Reward2": [
+   351,
+   150
+  ],
+  "IsRenovate": 1,
+  "bonusUnlock": [],
+  "UnlockType": 0,
+  "Reward2Unlock": 0
+ },
+ {
+  "bonusID": 12,
+  "Value": 50,
+  "Reward": [
+   352
+  ],
+  "Reward2": [
+   353,
+   100
+  ],
+  "IsRenovate": 1,
+  "bonusUnlock": [],
+  "UnlockType": 1,
+  "Reward2Unlock": 0
+ },
+ {
+  "bonusID": 13,
+  "Value": 50,
+  "Reward": [
+   354
+  ],
+  "Reward2": [
+   355,
+   50
+  ],
+  "IsRenovate": 1,
+  "bonusUnlock": [],
+  "UnlockType": 2,
+  "Reward2Unlock": 0
+ },
+ {
+  "bonusID": 14,
+  "Value": 50,
+  "Reward": [
+   350
+  ],
+  "Reward2": [
+   351,
+   150
+  ],
+  "IsRenovate": 1,
+  "bonusUnlock": [],
+  "UnlockType": 0,
+  "Reward2Unlock": 0
+ },
+ {
+  "bonusID": 15,
+  "Value": 50,
+  "Reward": [
+   352
+  ],
+  "Reward2": [
+   353,
+   100
+  ],
+  "IsRenovate": 1,
+  "bonusUnlock": [],
+  "UnlockType": 1,
+  "Reward2Unlock": 0
+ },
+ {
+  "bonusID": 16,
+  "Value": 50,
+  "Reward": [
+   354
+  ],
+  "Reward2": [
+   355,
+   50
+  ],
+  "IsRenovate": 1,
+  "bonusUnlock": [],
+  "UnlockType": 2,
+  "Reward2Unlock": 0
+ }
+]

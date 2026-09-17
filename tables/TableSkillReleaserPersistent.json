@@ -1,0 +1,917 @@
+[
+ {
+  "SkillID": 140701410,
+  "ReleaseCondition": [
+   100
+  ],
+  "TargetPicker": 1012,
+  "ReleaseActionID": 0,
+  "HoldActionID": 140701100,
+  "ReleaseFx": "",
+  "IsMovable": 0,
+  "OnOffCarrierIDs": [
+   140701110
+  ],
+  "ProgressCarrierIDs": [],
+  "MarkList": [],
+  "OnOffEffectIDs": {
+   "Key": "",
+   "List": []
+  },
+  "Duration": 3000,
+  "ActiveTimeSpan": {
+   "Key": "",
+   "Num": 250
+  },
+  "SenderPersistentFx": {
+   "Key": "",
+   "Str": "SenderFx_14070111"
+  },
+  "SenderPersistentRotate": 1,
+  "PersistentSE": "",
+  "FinishSE": ""
+ },
+ {
+  "SkillID": 140701420,
+  "ReleaseCondition": [
+   100
+  ],
+  "TargetPicker": 1012,
+  "ReleaseActionID": 0,
+  "HoldActionID": 140701100,
+  "ReleaseFx": "",
+  "IsMovable": 0,
+  "OnOffCarrierIDs": [
+   140701120
+  ],
+  "ProgressCarrierIDs": [],
+  "MarkList": [],
+  "OnOffEffectIDs": {
+   "Key": "",
+   "List": []
+  },
+  "Duration": 3000,
+  "ActiveTimeSpan": {
+   "Key": "",
+   "Num": 250
+  },
+  "SenderPersistentFx": {
+   "Key": "",
+   "Str": "SenderFx_14070111"
+  },
+  "SenderPersistentRotate": 1,
+  "PersistentSE": "",
+  "FinishSE": ""
+ },
+ {
+  "SkillID": 140701430,
+  "ReleaseCondition": [
+   100
+  ],
+  "TargetPicker": 1012,
+  "ReleaseActionID": 0,
+  "HoldActionID": 140701100,
+  "ReleaseFx": "",
+  "IsMovable": 0,
+  "OnOffCarrierIDs": [
+   140701130
+  ],
+  "ProgressCarrierIDs": [],
+  "MarkList": [],
+  "OnOffEffectIDs": {
+   "Key": "",
+   "List": []
+  },
+  "Duration": 3000,
+  "ActiveTimeSpan": {
+   "Key": "",
+   "Num": 250
+  },
+  "SenderPersistentFx": {
+   "Key": "",
+   "Str": "SenderFx_14070111"
+  },
+  "SenderPersistentRotate": 1,
+  "PersistentSE": "",
+  "FinishSE": ""
+ },
+ {
+  "SkillID": 140403110,
+  "ReleaseCondition": [],
+  "TargetPicker": 42,
+  "ReleaseActionID": 0,
+  "HoldActionID": 140403100,
+  "ReleaseFx": "",
+  "IsMovable": 0,
+  "OnOffCarrierIDs": [],
+  "ProgressCarrierIDs": [
+   140403110
+  ],
+  "MarkList": [],
+  "OnOffEffectIDs": {
+   "Key": "",
+   "List": []
+  },
+  "Duration": 2000,
+  "ActiveTimeSpan": {
+   "Key": "",
+   "Num": 1000
+  },
+  "SenderPersistentFx": {
+   "Key": "",
+   "Str": "ReceiverFx_140403203"
+  },
+  "SenderPersistentRotate": 0,
+  "PersistentSE": "",
+  "FinishSE": ""
+ },
+ {
+  "SkillID": 140403120,
+  "ReleaseCondition": [],
+  "TargetPicker": 42,
+  "ReleaseActionID": 0,
+  "HoldActionID": 140403100,
+  "ReleaseFx": "",
+  "IsMovable": 0,
+  "OnOffCarrierIDs": [],
+  "ProgressCarrierIDs": [
+   140403120
+  ],
+  "MarkList": [],
+  "OnOffEffectIDs": {
+   "Key": "",
+   "List": []
+  },
+  "Duration": 2000,
+  "ActiveTimeSpan": {
+   "Key": "",
+   "Num": 1000
+  },
+  "SenderPersistentFx": {
+   "Key": "",
+   "Str": "ReceiverFx_140403203"
+  },
+  "SenderPersistentRotate": 0,
+  "PersistentSE": "",
+  "FinishSE": ""
+ },
+ {
+  "SkillID": 140403130,
+  "ReleaseCondition": [],
+  "TargetPicker": 42,
+  "ReleaseActionID": 0,
+  "HoldActionID": 140403100,
+  "ReleaseFx": "",
+  "IsMovable": 0,
+  "OnOffCarrierIDs": [],
+  "ProgressCarrierIDs": [
+   140403130
+  ],
+  "MarkList": [],
+  "OnOffEffectIDs": {
+   "Key": "",
+   "List": []
+  },
+  "Duration": 2000,
+  "ActiveTimeSpan": {
+   "Key": "",
+   "Num": 1000
+  },
+  "SenderPersistentFx": {
+   "Key": "",
+   "Str": "ReceiverFx_140403203"
+  },
+  "SenderPersistentRotate": 0,
+  "PersistentSE": "",
+  "FinishSE": ""
+ },
+ {
+  "SkillID": 150501111,
+  "ReleaseCondition": [],
+  "TargetPicker": 11,
+  "ReleaseActionID": 0,
+  "HoldActionID": 150501101,
+  "ReleaseFx": "",
+  "IsMovable": 0,
+  "OnOffCarrierIDs": [],
+  "ProgressCarrierIDs": [],
+  "MarkList": [
+   100700,
+   100800,
+   101100,
+   102700
+  ],
+  "OnOffEffectIDs": {
+   "Key": "",
+   "List": []
+  },
+  "Duration": 2830,
+  "ActiveTimeSpan": {
+   "Key": "",
+   "Num": 2830
+  },
+  "SenderPersistentFx": {
+   "Key": "",
+   "Str": "SenderFx_150501100"
+  },
+  "SenderPersistentRotate": 0,
+  "PersistentSE": "",
+  "FinishSE": ""
+ },
+ {
+  "SkillID": 150501121,
+  "ReleaseCondition": [],
+  "TargetPicker": 11,
+  "ReleaseActionID": 0,
+  "HoldActionID": 150501101,
+  "ReleaseFx": "",
+  "IsMovable": 0,
+  "OnOffCarrierIDs": [],
+  "ProgressCarrierIDs": [],
+  "MarkList": [
+   100700,
+   100800,
+   101100,
+   102700
+  ],
+  "OnOffEffectIDs": {
+   "Key": "",
+   "List": []
+  },
+  "Duration": 2830,
+  "ActiveTimeSpan": {
+   "Key": "",
+   "Num": 2830
+  },
+  "SenderPersistentFx": {
+   "Key": "",
+   "Str": "SenderFx_150501100"
+  },
+  "SenderPersistentRotate": 0,
+  "PersistentSE": "",
+  "FinishSE": ""
+ },
+ {
+  "SkillID": 150501131,
+  "ReleaseCondition": [],
+  "TargetPicker": 11,
+  "ReleaseActionID": 0,
+  "HoldActionID": 150501101,
+  "ReleaseFx": "",
+  "IsMovable": 0,
+  "OnOffCarrierIDs": [],
+  "ProgressCarrierIDs": [],
+  "MarkList": [
+   100700,
+   100800,
+   101100,
+   102700
+  ],
+  "OnOffEffectIDs": {
+   "Key": "",
+   "List": []
+  },
+  "Duration": 2830,
+  "ActiveTimeSpan": {
+   "Key": "",
+   "Num": 2830
+  },
+  "SenderPersistentFx": {
+   "Key": "",
+   "Str": "SenderFx_150501100"
+  },
+  "SenderPersistentRotate": 0,
+  "PersistentSE": "",
+  "FinishSE": ""
+ },
+ {
+  "SkillID": 190302110,
+  "ReleaseCondition": [
+   100
+  ],
+  "TargetPicker": 1012,
+  "ReleaseActionID": 190302100,
+  "HoldActionID": 190302100,
+  "ReleaseFx": "",
+  "IsMovable": 0,
+  "OnOffCarrierIDs": [],
+  "ProgressCarrierIDs": [
+   190302110
+  ],
+  "MarkList": [],
+  "OnOffEffectIDs": {
+   "Key": "",
+   "List": [
+    190302110,
+    190302111
+   ]
+  },
+  "Duration": 15000,
+  "ActiveTimeSpan": {
+   "Key": "",
+   "Num": 500
+  },
+  "SenderPersistentFx": {
+   "Key": "",
+   "Str": ""
+  },
+  "SenderPersistentRotate": 0,
+  "PersistentSE": "",
+  "FinishSE": ""
+ },
+ {
+  "SkillID": 190302120,
+  "ReleaseCondition": [
+   100
+  ],
+  "TargetPicker": 1012,
+  "ReleaseActionID": 190302100,
+  "HoldActionID": 190302100,
+  "ReleaseFx": "",
+  "IsMovable": 0,
+  "OnOffCarrierIDs": [],
+  "ProgressCarrierIDs": [
+   190302120
+  ],
+  "MarkList": [],
+  "OnOffEffectIDs": {
+   "Key": "",
+   "List": [
+    190302120,
+    190302121
+   ]
+  },
+  "Duration": 15000,
+  "ActiveTimeSpan": {
+   "Key": "",
+   "Num": 500
+  },
+  "SenderPersistentFx": {
+   "Key": "",
+   "Str": ""
+  },
+  "SenderPersistentRotate": 0,
+  "PersistentSE": "",
+  "FinishSE": ""
+ },
+ {
+  "SkillID": 190302130,
+  "ReleaseCondition": [
+   100
+  ],
+  "TargetPicker": 1012,
+  "ReleaseActionID": 190302100,
+  "HoldActionID": 190302100,
+  "ReleaseFx": "",
+  "IsMovable": 0,
+  "OnOffCarrierIDs": [],
+  "ProgressCarrierIDs": [
+   190302130
+  ],
+  "MarkList": [],
+  "OnOffEffectIDs": {
+   "Key": "",
+   "List": [
+    190302130,
+    190302131
+   ]
+  },
+  "Duration": 15000,
+  "ActiveTimeSpan": {
+   "Key": "",
+   "Num": 500
+  },
+  "SenderPersistentFx": {
+   "Key": "",
+   "Str": ""
+  },
+  "SenderPersistentRotate": 0,
+  "PersistentSE": "",
+  "FinishSE": ""
+ },
+ {
+  "SkillID": 110702110,
+  "ReleaseCondition": [],
+  "TargetPicker": 11,
+  "ReleaseActionID": 0,
+  "HoldActionID": 110702100,
+  "ReleaseFx": "",
+  "IsMovable": 0,
+  "OnOffCarrierIDs": [],
+  "ProgressCarrierIDs": [],
+  "MarkList": [
+   101100,
+   100300,
+   100500,
+   102700
+  ],
+  "OnOffEffectIDs": {
+   "Key": "",
+   "List": [
+    110702112
+   ]
+  },
+  "Duration": 3330,
+  "ActiveTimeSpan": {
+   "Key": "",
+   "Num": 3330
+  },
+  "SenderPersistentFx": {
+   "Key": "",
+   "Str": "Buff_110702100"
+  },
+  "SenderPersistentRotate": 0,
+  "PersistentSE": "",
+  "FinishSE": ""
+ },
+ {
+  "SkillID": 110702120,
+  "ReleaseCondition": [],
+  "TargetPicker": 11,
+  "ReleaseActionID": 0,
+  "HoldActionID": 110702100,
+  "ReleaseFx": "",
+  "IsMovable": 0,
+  "OnOffCarrierIDs": [],
+  "ProgressCarrierIDs": [],
+  "MarkList": [
+   101100,
+   100300,
+   100500,
+   102700
+  ],
+  "OnOffEffectIDs": {
+   "Key": "",
+   "List": [
+    110702122
+   ]
+  },
+  "Duration": 3330,
+  "ActiveTimeSpan": {
+   "Key": "",
+   "Num": 3330
+  },
+  "SenderPersistentFx": {
+   "Key": "",
+   "Str": "Buff_110702100"
+  },
+  "SenderPersistentRotate": 0,
+  "PersistentSE": "",
+  "FinishSE": ""
+ },
+ {
+  "SkillID": 110702130,
+  "ReleaseCondition": [],
+  "TargetPicker": 11,
+  "ReleaseActionID": 0,
+  "HoldActionID": 110702100,
+  "ReleaseFx": "",
+  "IsMovable": 0,
+  "OnOffCarrierIDs": [],
+  "ProgressCarrierIDs": [],
+  "MarkList": [
+   101100,
+   100300,
+   100500,
+   102700
+  ],
+  "OnOffEffectIDs": {
+   "Key": "",
+   "List": [
+    110702132
+   ]
+  },
+  "Duration": 3330,
+  "ActiveTimeSpan": {
+   "Key": "",
+   "Num": 3330
+  },
+  "SenderPersistentFx": {
+   "Key": "",
+   "Str": "Buff_110702100"
+  },
+  "SenderPersistentRotate": 0,
+  "PersistentSE": "",
+  "FinishSE": ""
+ },
+ {
+  "SkillID": 450101111,
+  "ReleaseCondition": [],
+  "TargetPicker": 11,
+  "ReleaseActionID": 0,
+  "HoldActionID": 450101101,
+  "ReleaseFx": "",
+  "IsMovable": 0,
+  "OnOffCarrierIDs": [],
+  "ProgressCarrierIDs": [],
+  "MarkList": [
+   101100,
+   102700
+  ],
+  "OnOffEffectIDs": {
+   "Key": "",
+   "List": []
+  },
+  "Duration": 1433,
+  "ActiveTimeSpan": {
+   "Key": "",
+   "Num": 1433
+  },
+  "SenderPersistentFx": {
+   "Key": "",
+   "Str": "SenderFx_450101110"
+  },
+  "SenderPersistentRotate": 0,
+  "PersistentSE": "",
+  "FinishSE": ""
+ },
+ {
+  "SkillID": 450101121,
+  "ReleaseCondition": [],
+  "TargetPicker": 11,
+  "ReleaseActionID": 0,
+  "HoldActionID": 450101101,
+  "ReleaseFx": "",
+  "IsMovable": 0,
+  "OnOffCarrierIDs": [],
+  "ProgressCarrierIDs": [],
+  "MarkList": [
+   101100,
+   102700
+  ],
+  "OnOffEffectIDs": {
+   "Key": "",
+   "List": []
+  },
+  "Duration": 1433,
+  "ActiveTimeSpan": {
+   "Key": "",
+   "Num": 1433
+  },
+  "SenderPersistentFx": {
+   "Key": "",
+   "Str": "SenderFx_450101110"
+  },
+  "SenderPersistentRotate": 0,
+  "PersistentSE": "",
+  "FinishSE": ""
+ },
+ {
+  "SkillID": 450101131,
+  "ReleaseCondition": [],
+  "TargetPicker": 11,
+  "ReleaseActionID": 0,
+  "HoldActionID": 450101101,
+  "ReleaseFx": "",
+  "IsMovable": 0,
+  "OnOffCarrierIDs": [],
+  "ProgressCarrierIDs": [],
+  "MarkList": [
+   101100,
+   102700
+  ],
+  "OnOffEffectIDs": {
+   "Key": "",
+   "List": []
+  },
+  "Duration": 1433,
+  "ActiveTimeSpan": {
+   "Key": "",
+   "Num": 1433
+  },
+  "SenderPersistentFx": {
+   "Key": "",
+   "Str": "SenderFx_450101110"
+  },
+  "SenderPersistentRotate": 0,
+  "PersistentSE": "",
+  "FinishSE": ""
+ },
+ {
+  "SkillID": 120603110,
+  "ReleaseCondition": [],
+  "TargetPicker": 11,
+  "ReleaseActionID": 0,
+  "HoldActionID": 120603100,
+  "ReleaseFx": "",
+  "IsMovable": 1,
+  "OnOffCarrierIDs": [],
+  "ProgressCarrierIDs": [
+   120603110
+  ],
+  "MarkList": [],
+  "OnOffEffectIDs": {
+   "Key": "@2120603210",
+   "List": []
+  },
+  "Duration": 3000,
+  "ActiveTimeSpan": {
+   "Key": "@120603115",
+   "Num": 0
+  },
+  "SenderPersistentFx": {
+   "Key": "@120603111",
+   "Str": ""
+  },
+  "SenderPersistentRotate": 0,
+  "PersistentSE": "event:/Battle/Attack&Skill/NewCharacters/JM_Skill_SwordStorm",
+  "FinishSE": "event:/Battle/Attack&Skill/NewCharacters/JM_Skill_SwordStormStop"
+ },
+ {
+  "SkillID": 120603115,
+  "ReleaseCondition": [
+   100
+  ],
+  "TargetPicker": 11,
+  "ReleaseActionID": 0,
+  "HoldActionID": 120603100,
+  "ReleaseFx": "",
+  "IsMovable": 1,
+  "OnOffCarrierIDs": [],
+  "ProgressCarrierIDs": [
+   120603110
+  ],
+  "MarkList": [],
+  "OnOffEffectIDs": {
+   "Key": "@2120603210",
+   "List": []
+  },
+  "Duration": 3000,
+  "ActiveTimeSpan": {
+   "Key": "@120603115",
+   "Num": 0
+  },
+  "SenderPersistentFx": {
+   "Key": "@120603111",
+   "Str": ""
+  },
+  "SenderPersistentRotate": 0,
+  "PersistentSE": "event:/Battle/Attack&Skill/NewCharacters/JM_Skill_SwordStorm",
+  "FinishSE": "event:/Battle/Attack&Skill/NewCharacters/JM_Skill_SwordStormStop"
+ },
+ {
+  "SkillID": 120603510,
+  "ReleaseCondition": [
+   120603510
+  ],
+  "TargetPicker": 11,
+  "ReleaseActionID": 0,
+  "HoldActionID": 120603100,
+  "ReleaseFx": "",
+  "IsMovable": 1,
+  "OnOffCarrierIDs": [],
+  "ProgressCarrierIDs": [
+   120603120
+  ],
+  "MarkList": [
+   101100,
+   102700
+  ],
+  "OnOffEffectIDs": {
+   "Key": "",
+   "List": []
+  },
+  "Duration": 5000,
+  "ActiveTimeSpan": {
+   "Key": "",
+   "Num": 1000
+  },
+  "SenderPersistentFx": {
+   "Key": "",
+   "Str": "ReceiverFx_12060311"
+  },
+  "SenderPersistentRotate": 0,
+  "PersistentSE": "",
+  "FinishSE": ""
+ },
+ {
+  "SkillID": 120603111,
+  "ReleaseCondition": [],
+  "TargetPicker": 11,
+  "ReleaseActionID": 0,
+  "HoldActionID": 120603100,
+  "ReleaseFx": "",
+  "IsMovable": 1,
+  "OnOffCarrierIDs": [],
+  "ProgressCarrierIDs": [
+   120603111
+  ],
+  "MarkList": [],
+  "OnOffEffectIDs": {
+   "Key": "",
+   "List": []
+  },
+  "Duration": 5000,
+  "ActiveTimeSpan": {
+   "Key": "",
+   "Num": 1000
+  },
+  "SenderPersistentFx": {
+   "Key": "",
+   "Str": "ReceiverFx_12060313"
+  },
+  "SenderPersistentRotate": 0,
+  "PersistentSE": "",
+  "FinishSE": ""
+ },
+ {
+  "SkillID": 120603511,
+  "ReleaseCondition": [
+   120603510
+  ],
+  "TargetPicker": 11,
+  "ReleaseActionID": 0,
+  "HoldActionID": 120603100,
+  "ReleaseFx": "",
+  "IsMovable": 1,
+  "OnOffCarrierIDs": [],
+  "ProgressCarrierIDs": [
+   120603121
+  ],
+  "MarkList": [
+   101100,
+   102700
+  ],
+  "OnOffEffectIDs": {
+   "Key": "",
+   "List": []
+  },
+  "Duration": 5000,
+  "ActiveTimeSpan": {
+   "Key": "",
+   "Num": 1000
+  },
+  "SenderPersistentFx": {
+   "Key": "",
+   "Str": "ReceiverFx_12060313"
+  },
+  "SenderPersistentRotate": 0,
+  "PersistentSE": "",
+  "FinishSE": ""
+ },
+ {
+  "SkillID": 840101110,
+  "ReleaseCondition": [],
+  "TargetPicker": 11,
+  "ReleaseActionID": 840101100,
+  "HoldActionID": 840101101,
+  "ReleaseFx": "",
+  "IsMovable": 0,
+  "OnOffCarrierIDs": [],
+  "ProgressCarrierIDs": [
+   840101110
+  ],
+  "MarkList": [],
+  "OnOffEffectIDs": {
+   "Key": "",
+   "List": [
+    840101110,
+    840101112,
+    144
+   ]
+  },
+  "Duration": 5000,
+  "ActiveTimeSpan": {
+   "Key": "",
+   "Num": 1000
+  },
+  "SenderPersistentFx": {
+   "Key": "",
+   "Str": ""
+  },
+  "SenderPersistentRotate": 0,
+  "PersistentSE": "",
+  "FinishSE": ""
+ },
+ {
+  "SkillID": 840103311,
+  "ReleaseCondition": [
+   840103311
+  ],
+  "TargetPicker": 11,
+  "ReleaseActionID": 0,
+  "HoldActionID": 840103311,
+  "ReleaseFx": "",
+  "IsMovable": 0,
+  "OnOffCarrierIDs": [],
+  "ProgressCarrierIDs": [
+   840103311,
+   840103312
+  ],
+  "MarkList": [],
+  "OnOffEffectIDs": {
+   "Key": "",
+   "List": [
+    144
+   ]
+  },
+  "Duration": 6000,
+  "ActiveTimeSpan": {
+   "Key": "",
+   "Num": 1000
+  },
+  "SenderPersistentFx": {
+   "Key": "",
+   "Str": "Buff_84010301"
+  },
+  "SenderPersistentRotate": 0,
+  "PersistentSE": "",
+  "FinishSE": ""
+ },
+ {
+  "SkillID": 840108210,
+  "ReleaseCondition": [],
+  "TargetPicker": 1012,
+  "ReleaseActionID": 840108200,
+  "HoldActionID": 840108201,
+  "ReleaseFx": "SenderFx_840108210",
+  "IsMovable": 0,
+  "OnOffCarrierIDs": [
+   840108210
+  ],
+  "ProgressCarrierIDs": [
+   840108211
+  ],
+  "MarkList": [],
+  "OnOffEffectIDs": {
+   "Key": "",
+   "List": [
+    144
+   ]
+  },
+  "Duration": 6500,
+  "ActiveTimeSpan": {
+   "Key": "",
+   "Num": 900
+  },
+  "SenderPersistentFx": {
+   "Key": "",
+   "Str": "SenderFx_840108211"
+  },
+  "SenderPersistentRotate": 1,
+  "PersistentSE": "event:/Battle/Attack&Skill/BOSS/BOSS_LXZY_Skill2\n",
+  "FinishSE": ""
+ },
+ {
+  "SkillID": 840111110,
+  "ReleaseCondition": [],
+  "TargetPicker": 11,
+  "ReleaseActionID": 840101100,
+  "HoldActionID": 840101101,
+  "ReleaseFx": "",
+  "IsMovable": 0,
+  "OnOffCarrierIDs": [],
+  "ProgressCarrierIDs": [
+   840111110
+  ],
+  "MarkList": [],
+  "OnOffEffectIDs": {
+   "Key": "",
+   "List": []
+  },
+  "Duration": 3000,
+  "ActiveTimeSpan": {
+   "Key": "",
+   "Num": 1000
+  },
+  "SenderPersistentFx": {
+   "Key": "",
+   "Str": ""
+  },
+  "SenderPersistentRotate": 0,
+  "PersistentSE": "",
+  "FinishSE": ""
+ },
+ {
+  "SkillID": 2110401610,
+  "ReleaseCondition": [
+   2110401610
+  ],
+  "TargetPicker": 42,
+  "ReleaseActionID": 0,
+  "HoldActionID": 110401300,
+  "ReleaseFx": "",
+  "IsMovable": 0,
+  "OnOffCarrierIDs": [
+   2110401610
+  ],
+  "ProgressCarrierIDs": [],
+  "MarkList": [],
+  "OnOffEffectIDs": {
+   "Key": "",
+   "List": []
+  },
+  "Duration": 3633,
+  "ActiveTimeSpan": {
+   "Key": "",
+   "Num": 1400
+  },
+  "SenderPersistentFx": {
+   "Key": "",
+   "Str": "SenderFx_150401201"
+  },
+  "SenderPersistentRotate": 0,
+  "PersistentSE": "",
+  "FinishSE": ""
+ }
+]

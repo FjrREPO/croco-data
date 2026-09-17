@@ -1,0 +1,1591 @@
+[
+ {
+  "FilterID": 198,
+  "FilterType": 198,
+  "FilterVal": 0,
+  "CompareType": 0,
+  "ReferenceVal": 0
+ },
+ {
+  "FilterID": 199,
+  "FilterType": 199,
+  "FilterVal": 0,
+  "CompareType": 0,
+  "ReferenceVal": 0
+ },
+ {
+  "FilterID": 200,
+  "FilterType": 200,
+  "FilterVal": 0,
+  "CompareType": 0,
+  "ReferenceVal": 0
+ },
+ {
+  "FilterID": 201,
+  "FilterType": 501,
+  "FilterVal": 1,
+  "CompareType": 0,
+  "ReferenceVal": 0
+ },
+ {
+  "FilterID": 202,
+  "FilterType": 501,
+  "FilterVal": 2,
+  "CompareType": 0,
+  "ReferenceVal": 0
+ },
+ {
+  "FilterID": 203,
+  "FilterType": 501,
+  "FilterVal": 3,
+  "CompareType": 0,
+  "ReferenceVal": 0
+ },
+ {
+  "FilterID": 300,
+  "FilterType": 300,
+  "FilterVal": 0,
+  "CompareType": 0,
+  "ReferenceVal": 0
+ },
+ {
+  "FilterID": 1101,
+  "FilterType": 1101,
+  "FilterVal": 0,
+  "CompareType": 1,
+  "ReferenceVal": 0
+ },
+ {
+  "FilterID": 2000,
+  "FilterType": 2000,
+  "FilterVal": 0,
+  "CompareType": 0,
+  "ReferenceVal": 0
+ },
+ {
+  "FilterID": 10999005,
+  "FilterType": 1099,
+  "FilterVal": 9005,
+  "CompareType": 0,
+  "ReferenceVal": 0
+ },
+ {
+  "FilterID": 20000,
+  "FilterType": 100,
+  "FilterVal": 0,
+  "CompareType": 1,
+  "ReferenceVal": 1
+ },
+ {
+  "FilterID": 20001,
+  "FilterType": 100,
+  "FilterVal": 0,
+  "CompareType": 1,
+  "ReferenceVal": 0
+ },
+ {
+  "FilterID": 20021,
+  "FilterType": 100,
+  "FilterVal": 0,
+  "CompareType": 1,
+  "ReferenceVal": 2
+ },
+ {
+  "FilterID": 10041,
+  "FilterType": 100,
+  "FilterVal": 0,
+  "CompareType": 4,
+  "ReferenceVal": 1
+ },
+ {
+  "FilterID": 20002,
+  "FilterType": 100,
+  "FilterVal": 0,
+  "CompareType": 4,
+  "ReferenceVal": 2
+ },
+ {
+  "FilterID": 20003,
+  "FilterType": 100,
+  "FilterVal": 0,
+  "CompareType": 4,
+  "ReferenceVal": 3
+ },
+ {
+  "FilterID": 20008,
+  "FilterType": 100,
+  "FilterVal": 0,
+  "CompareType": 4,
+  "ReferenceVal": 8
+ },
+ {
+  "FilterID": 10981003,
+  "FilterType": 1098,
+  "FilterVal": 1003,
+  "CompareType": 0,
+  "ReferenceVal": 0
+ },
+ {
+  "FilterID": 10991006,
+  "FilterType": 1099,
+  "FilterVal": 1006,
+  "CompareType": 0,
+  "ReferenceVal": 0
+ },
+ {
+  "FilterID": 1098,
+  "FilterType": 1098,
+  "FilterVal": 1006,
+  "CompareType": 0,
+  "ReferenceVal": 0
+ },
+ {
+  "FilterID": 1099,
+  "FilterType": 1099,
+  "FilterVal": 1003,
+  "CompareType": 0,
+  "ReferenceVal": 0
+ },
+ {
+  "FilterID": 10981,
+  "FilterType": 1098,
+  "FilterVal": 1001,
+  "CompareType": 0,
+  "ReferenceVal": 0
+ },
+ {
+  "FilterID": 10982,
+  "FilterType": 1099,
+  "FilterVal": 4,
+  "CompareType": 0,
+  "ReferenceVal": 0
+ },
+ {
+  "FilterID": 110302110,
+  "FilterType": 1100,
+  "FilterVal": 110302110,
+  "CompareType": 1,
+  "ReferenceVal": 0
+ },
+ {
+  "FilterID": 110302120,
+  "FilterType": 1100,
+  "FilterVal": 110302120,
+  "CompareType": 1,
+  "ReferenceVal": 0
+ },
+ {
+  "FilterID": 110302130,
+  "FilterType": 1100,
+  "FilterVal": 110302130,
+  "CompareType": 1,
+  "ReferenceVal": 0
+ },
+ {
+  "FilterID": 10991007,
+  "FilterType": 1000,
+  "FilterVal": 5,
+  "CompareType": 3,
+  "ReferenceVal": 0
+ },
+ {
+  "FilterID": 510000000,
+  "FilterType": 1000,
+  "FilterVal": 9003,
+  "CompareType": 4,
+  "ReferenceVal": 1
+ },
+ {
+  "FilterID": 510000001,
+  "FilterType": 1000,
+  "FilterVal": 9003,
+  "CompareType": 4,
+  "ReferenceVal": 2
+ },
+ {
+  "FilterID": 140301110,
+  "FilterType": 1100,
+  "FilterVal": 140301110,
+  "CompareType": 1,
+  "ReferenceVal": 0
+ },
+ {
+  "FilterID": 140301120,
+  "FilterType": 1100,
+  "FilterVal": 140301120,
+  "CompareType": 1,
+  "ReferenceVal": 0
+ },
+ {
+  "FilterID": 140301130,
+  "FilterType": 1100,
+  "FilterVal": 140301130,
+  "CompareType": 1,
+  "ReferenceVal": 0
+ },
+ {
+  "FilterID": 140401110,
+  "FilterType": 1100,
+  "FilterVal": 140401110,
+  "CompareType": 1,
+  "ReferenceVal": 0
+ },
+ {
+  "FilterID": 140401120,
+  "FilterType": 1100,
+  "FilterVal": 140401120,
+  "CompareType": 1,
+  "ReferenceVal": 0
+ },
+ {
+  "FilterID": 140401130,
+  "FilterType": 1100,
+  "FilterVal": 140401130,
+  "CompareType": 1,
+  "ReferenceVal": 0
+ },
+ {
+  "FilterID": 140701510,
+  "FilterType": 1100,
+  "FilterVal": 140701210,
+  "CompareType": 6,
+  "ReferenceVal": 1
+ },
+ {
+  "FilterID": 14020210,
+  "FilterType": 100,
+  "FilterVal": 0,
+  "CompareType": 1,
+  "ReferenceVal": 0
+ },
+ {
+  "FilterID": 1300,
+  "FilterType": 1300,
+  "FilterVal": 0,
+  "CompareType": 0,
+  "ReferenceVal": 1
+ },
+ {
+  "FilterID": 110301210,
+  "FilterType": 1100,
+  "FilterVal": 110301210,
+  "CompareType": 1,
+  "ReferenceVal": 0
+ },
+ {
+  "FilterID": 110301220,
+  "FilterType": 1100,
+  "FilterVal": 110301220,
+  "CompareType": 1,
+  "ReferenceVal": 0
+ },
+ {
+  "FilterID": 110301230,
+  "FilterType": 1100,
+  "FilterVal": 110301230,
+  "CompareType": 1,
+  "ReferenceVal": 0
+ },
+ {
+  "FilterID": 400,
+  "FilterType": 400,
+  "FilterVal": 0,
+  "CompareType": 0,
+  "ReferenceVal": 0
+ },
+ {
+  "FilterID": 401,
+  "FilterType": 401,
+  "FilterVal": 0,
+  "CompareType": 0,
+  "ReferenceVal": 0
+ },
+ {
+  "FilterID": 402,
+  "FilterType": 402,
+  "FilterVal": 0,
+  "CompareType": 0,
+  "ReferenceVal": 0
+ },
+ {
+  "FilterID": 403,
+  "FilterType": 403,
+  "FilterVal": 0,
+  "CompareType": 0,
+  "ReferenceVal": 0
+ },
+ {
+  "FilterID": 404,
+  "FilterType": 500,
+  "FilterVal": 1,
+  "CompareType": 0,
+  "ReferenceVal": 0
+ },
+ {
+  "FilterID": 410,
+  "FilterType": 500,
+  "FilterVal": 4,
+  "CompareType": 0,
+  "ReferenceVal": 0
+ },
+ {
+  "FilterID": 411,
+  "FilterType": 500,
+  "FilterVal": 1,
+  "CompareType": 0,
+  "ReferenceVal": 0
+ },
+ {
+  "FilterID": 412,
+  "FilterType": 500,
+  "FilterVal": 2,
+  "CompareType": 0,
+  "ReferenceVal": 0
+ },
+ {
+  "FilterID": 413,
+  "FilterType": 500,
+  "FilterVal": 3,
+  "CompareType": 0,
+  "ReferenceVal": 0
+ },
+ {
+  "FilterID": 1001,
+  "FilterType": 1000,
+  "FilterVal": 9004,
+  "CompareType": 6,
+  "ReferenceVal": 1
+ },
+ {
+  "FilterID": 1002,
+  "FilterType": 1000,
+  "FilterVal": 9004,
+  "CompareType": 2,
+  "ReferenceVal": 1
+ },
+ {
+  "FilterID": 190103110,
+  "FilterType": 1100,
+  "FilterVal": 190103110,
+  "CompareType": 1,
+  "ReferenceVal": 0
+ },
+ {
+  "FilterID": 100060140,
+  "FilterType": 1100,
+  "FilterVal": 100060140,
+  "CompareType": 1,
+  "ReferenceVal": 0
+ },
+ {
+  "FilterID": 190101,
+  "FilterType": 1000,
+  "FilterVal": 9001,
+  "CompareType": 1,
+  "ReferenceVal": 190101
+ },
+ {
+  "FilterID": 140702310,
+  "FilterType": 500,
+  "FilterVal": 1,
+  "CompareType": 0,
+  "ReferenceVal": 0
+ },
+ {
+  "FilterID": 400000,
+  "FilterType": 1000,
+  "FilterVal": 9002,
+  "CompareType": 5,
+  "ReferenceVal": 10
+ },
+ {
+  "FilterID": 500000,
+  "FilterType": 1000,
+  "FilterVal": 9002,
+  "CompareType": 1,
+  "ReferenceVal": 500000
+ },
+ {
+  "FilterID": 600000,
+  "FilterType": 1100,
+  "FilterVal": 0,
+  "CompareType": 1,
+  "ReferenceVal": 2001
+ },
+ {
+  "FilterID": 10042,
+  "FilterType": 100,
+  "FilterVal": 0,
+  "CompareType": 4,
+  "ReferenceVal": 2
+ },
+ {
+  "FilterID": 600001,
+  "FilterType": 1100,
+  "FilterVal": 120201510,
+  "CompareType": 6,
+  "ReferenceVal": 1
+ },
+ {
+  "FilterID": 600002,
+  "FilterType": 1102,
+  "FilterVal": 2001,
+  "CompareType": 6,
+  "ReferenceVal": 1
+ },
+ {
+  "FilterID": 600008,
+  "FilterType": 1102,
+  "FilterVal": 2008,
+  "CompareType": 6,
+  "ReferenceVal": 1
+ },
+ {
+  "FilterID": 900000,
+  "FilterType": 1100,
+  "FilterVal": 100010134,
+  "CompareType": 6,
+  "ReferenceVal": 1
+ },
+ {
+  "FilterID": 600003,
+  "FilterType": 1101,
+  "FilterVal": 2,
+  "CompareType": 6,
+  "ReferenceVal": 1
+ },
+ {
+  "FilterID": 1,
+  "FilterType": 1000,
+  "FilterVal": 9006,
+  "CompareType": 1,
+  "ReferenceVal": 1
+ },
+ {
+  "FilterID": 2,
+  "FilterType": 1000,
+  "FilterVal": 9006,
+  "CompareType": 1,
+  "ReferenceVal": 2
+ },
+ {
+  "FilterID": 3,
+  "FilterType": 1000,
+  "FilterVal": 9006,
+  "CompareType": 1,
+  "ReferenceVal": 3
+ },
+ {
+  "FilterID": 4,
+  "FilterType": 1000,
+  "FilterVal": 9006,
+  "CompareType": 1,
+  "ReferenceVal": 4
+ },
+ {
+  "FilterID": 5,
+  "FilterType": 1000,
+  "FilterVal": 9006,
+  "CompareType": 1,
+  "ReferenceVal": 5
+ },
+ {
+  "FilterID": 6,
+  "FilterType": 1000,
+  "FilterVal": 9006,
+  "CompareType": 1,
+  "ReferenceVal": 6
+ },
+ {
+  "FilterID": 7,
+  "FilterType": 1000,
+  "FilterVal": 9006,
+  "CompareType": 1,
+  "ReferenceVal": 7
+ },
+ {
+  "FilterID": 8,
+  "FilterType": 1000,
+  "FilterVal": 9006,
+  "CompareType": 1,
+  "ReferenceVal": 8
+ },
+ {
+  "FilterID": 9,
+  "FilterType": 1000,
+  "FilterVal": 9006,
+  "CompareType": 1,
+  "ReferenceVal": 9
+ },
+ {
+  "FilterID": 10,
+  "FilterType": 1000,
+  "FilterVal": 9006,
+  "CompareType": 1,
+  "ReferenceVal": 7
+ },
+ {
+  "FilterID": 11,
+  "FilterType": 1000,
+  "FilterVal": 9006,
+  "CompareType": 1,
+  "ReferenceVal": 11
+ },
+ {
+  "FilterID": 12,
+  "FilterType": 1000,
+  "FilterVal": 9006,
+  "CompareType": 1,
+  "ReferenceVal": 12
+ },
+ {
+  "FilterID": 13,
+  "FilterType": 1000,
+  "FilterVal": 9006,
+  "CompareType": 1,
+  "ReferenceVal": 6
+ },
+ {
+  "FilterID": 14,
+  "FilterType": 1000,
+  "FilterVal": 9006,
+  "CompareType": 1,
+  "ReferenceVal": 13
+ },
+ {
+  "FilterID": 15,
+  "FilterType": 1000,
+  "FilterVal": 9006,
+  "CompareType": 1,
+  "ReferenceVal": 15
+ },
+ {
+  "FilterID": 23,
+  "FilterType": 1000,
+  "FilterVal": 9006,
+  "CompareType": 2,
+  "ReferenceVal": 3
+ },
+ {
+  "FilterID": 26,
+  "FilterType": 1000,
+  "FilterVal": 9006,
+  "CompareType": 2,
+  "ReferenceVal": 6
+ },
+ {
+  "FilterID": 103,
+  "FilterType": 1000,
+  "FilterVal": 9006,
+  "CompareType": 1,
+  "ReferenceVal": 103
+ },
+ {
+  "FilterID": 105,
+  "FilterType": 1097,
+  "FilterVal": 9002,
+  "CompareType": 1,
+  "ReferenceVal": 998
+ },
+ {
+  "FilterID": 2001,
+  "FilterType": 2001,
+  "FilterVal": 0,
+  "CompareType": 0,
+  "ReferenceVal": 0
+ },
+ {
+  "FilterID": 100020132,
+  "FilterType": 1102,
+  "FilterVal": 2001,
+  "CompareType": 6,
+  "ReferenceVal": 1
+ },
+ {
+  "FilterID": 570241,
+  "FilterType": 1099,
+  "FilterVal": 3,
+  "CompareType": 0,
+  "ReferenceVal": 0
+ },
+ {
+  "FilterID": 2100,
+  "FilterType": 1099,
+  "FilterVal": 100,
+  "CompareType": 0,
+  "ReferenceVal": 0
+ },
+ {
+  "FilterID": 2102,
+  "FilterType": 1098,
+  "FilterVal": 102,
+  "CompareType": 0,
+  "ReferenceVal": 0
+ },
+ {
+  "FilterID": 2200,
+  "FilterType": 1099,
+  "FilterVal": 4,
+  "CompareType": 0,
+  "ReferenceVal": 0
+ },
+ {
+  "FilterID": 90070,
+  "FilterType": 1000,
+  "FilterVal": 9007,
+  "CompareType": 1,
+  "ReferenceVal": 0
+ },
+ {
+  "FilterID": 90071,
+  "FilterType": 1000,
+  "FilterVal": 9007,
+  "CompareType": 1,
+  "ReferenceVal": 1
+ },
+ {
+  "FilterID": 100011,
+  "FilterType": 1000,
+  "FilterVal": 1,
+  "CompareType": 3,
+  "ReferenceVal": 1
+ },
+ {
+  "FilterID": 506005,
+  "FilterType": 1000,
+  "FilterVal": 9001,
+  "CompareType": 1,
+  "ReferenceVal": 506005
+ },
+ {
+  "FilterID": 100350,
+  "FilterType": 1000,
+  "FilterVal": 1003,
+  "CompareType": 4,
+  "ReferenceVal": 50
+ },
+ {
+  "FilterID": 100340,
+  "FilterType": 1000,
+  "FilterVal": 1003,
+  "CompareType": 4,
+  "ReferenceVal": 40
+ },
+ {
+  "FilterID": 100330,
+  "FilterType": 1000,
+  "FilterVal": 1003,
+  "CompareType": 4,
+  "ReferenceVal": 30
+ },
+ {
+  "FilterID": 100320,
+  "FilterType": 1000,
+  "FilterVal": 1003,
+  "CompareType": 4,
+  "ReferenceVal": 20
+ },
+ {
+  "FilterID": 100310,
+  "FilterType": 1000,
+  "FilterVal": 1003,
+  "CompareType": 4,
+  "ReferenceVal": 10
+ },
+ {
+  "FilterID": 1095,
+  "FilterType": 1100,
+  "FilterVal": 1095,
+  "CompareType": 1,
+  "ReferenceVal": 0
+ },
+ {
+  "FilterID": 11011,
+  "FilterType": 1101,
+  "FilterVal": 1,
+  "CompareType": 6,
+  "ReferenceVal": 1
+ },
+ {
+  "FilterID": 11022003,
+  "FilterType": 1102,
+  "FilterVal": 2003,
+  "CompareType": 6,
+  "ReferenceVal": 1
+ },
+ {
+  "FilterID": 40351,
+  "FilterType": 1102,
+  "FilterVal": 40351,
+  "CompareType": 1,
+  "ReferenceVal": 0
+ },
+ {
+  "FilterID": 1000153,
+  "FilterType": 1000,
+  "FilterVal": 1,
+  "CompareType": 5,
+  "ReferenceVal": 3
+ },
+ {
+  "FilterID": 1000154,
+  "FilterType": 1000,
+  "FilterVal": 1,
+  "CompareType": 3,
+  "ReferenceVal": 1
+ },
+ {
+  "FilterID": 410101,
+  "FilterType": 1000,
+  "FilterVal": 9001,
+  "CompareType": 1,
+  "ReferenceVal": 410101
+ },
+ {
+  "FilterID": 450101,
+  "FilterType": 1000,
+  "FilterVal": 9001,
+  "CompareType": 1,
+  "ReferenceVal": 450101
+ },
+ {
+  "FilterID": 440401,
+  "FilterType": 1000,
+  "FilterVal": 9001,
+  "CompareType": 1,
+  "ReferenceVal": 440401
+ },
+ {
+  "FilterID": 430301,
+  "FilterType": 1000,
+  "FilterVal": 9001,
+  "CompareType": 1,
+  "ReferenceVal": 430301
+ },
+ {
+  "FilterID": 440201,
+  "FilterType": 1000,
+  "FilterVal": 9001,
+  "CompareType": 1,
+  "ReferenceVal": 440201
+ },
+ {
+  "FilterID": 410301,
+  "FilterType": 1000,
+  "FilterVal": 9001,
+  "CompareType": 1,
+  "ReferenceVal": 410301
+ },
+ {
+  "FilterID": 420101,
+  "FilterType": 1000,
+  "FilterVal": 9001,
+  "CompareType": 1,
+  "ReferenceVal": 420101
+ },
+ {
+  "FilterID": 410503,
+  "FilterType": 1000,
+  "FilterVal": 9001,
+  "CompareType": 1,
+  "ReferenceVal": 410503
+ },
+ {
+  "FilterID": 42007,
+  "FilterType": 1102,
+  "FilterVal": 2007,
+  "CompareType": 6,
+  "ReferenceVal": 1
+ },
+ {
+  "FilterID": 12002,
+  "FilterType": 1102,
+  "FilterVal": 2002,
+  "CompareType": 6,
+  "ReferenceVal": 1
+ },
+ {
+  "FilterID": 210401100,
+  "FilterType": 1102,
+  "FilterVal": 210401,
+  "CompareType": 6,
+  "ReferenceVal": 1
+ },
+ {
+  "FilterID": 14030110,
+  "FilterType": 1000,
+  "FilterVal": 9001,
+  "CompareType": 1,
+  "ReferenceVal": 14030110
+ },
+ {
+  "FilterID": 14030111,
+  "FilterType": 1000,
+  "FilterVal": 9001,
+  "CompareType": 1,
+  "ReferenceVal": 140301
+ },
+ {
+  "FilterID": 2004,
+  "FilterType": 1102,
+  "FilterVal": 2004,
+  "CompareType": 6,
+  "ReferenceVal": 1
+ },
+ {
+  "FilterID": 2007,
+  "FilterType": 1102,
+  "FilterVal": 2007,
+  "CompareType": 6,
+  "ReferenceVal": 1
+ },
+ {
+  "FilterID": 9004,
+  "FilterType": 1000,
+  "FilterVal": 9004,
+  "CompareType": 1,
+  "ReferenceVal": 1
+ },
+ {
+  "FilterID": 810203110,
+  "FilterType": 1100,
+  "FilterVal": 810203110,
+  "CompareType": 6,
+  "ReferenceVal": 1
+ },
+ {
+  "FilterID": 100042,
+  "FilterType": 1000,
+  "FilterVal": 1,
+  "CompareType": 4,
+  "ReferenceVal": 2
+ },
+ {
+  "FilterID": 2002,
+  "FilterType": 1102,
+  "FilterVal": 2002,
+  "CompareType": 6,
+  "ReferenceVal": 1
+ },
+ {
+  "FilterID": 30006,
+  "FilterType": 1000,
+  "FilterVal": 9001,
+  "CompareType": 2,
+  "ReferenceVal": 30006
+ },
+ {
+  "FilterID": 30021,
+  "FilterType": 1000,
+  "FilterVal": 9001,
+  "CompareType": 1,
+  "ReferenceVal": 30021
+ },
+ {
+  "FilterID": 30026,
+  "FilterType": 1000,
+  "FilterVal": 9001,
+  "CompareType": 1,
+  "ReferenceVal": 30026
+ },
+ {
+  "FilterID": 810203,
+  "FilterType": 1000,
+  "FilterVal": 9001,
+  "CompareType": 1,
+  "ReferenceVal": 810203
+ },
+ {
+  "FilterID": 810204,
+  "FilterType": 1000,
+  "FilterVal": 9001,
+  "CompareType": 1,
+  "ReferenceVal": 810204
+ },
+ {
+  "FilterID": 8102041,
+  "FilterType": 1000,
+  "FilterVal": 9001,
+  "CompareType": 1,
+  "ReferenceVal": 8102041
+ },
+ {
+  "FilterID": 820204111,
+  "FilterType": 1100,
+  "FilterVal": 820204111,
+  "CompareType": 6,
+  "ReferenceVal": 1
+ },
+ {
+  "FilterID": 90083,
+  "FilterType": 1000,
+  "FilterVal": 9008,
+  "CompareType": 1,
+  "ReferenceVal": 3
+ },
+ {
+  "FilterID": 830204,
+  "FilterType": 1000,
+  "FilterVal": 9001,
+  "CompareType": 1,
+  "ReferenceVal": 830204
+ },
+ {
+  "FilterID": 830203,
+  "FilterType": 1000,
+  "FilterVal": 9001,
+  "CompareType": 1,
+  "ReferenceVal": 830203
+ },
+ {
+  "FilterID": 2105012,
+  "FilterType": 1000,
+  "FilterVal": 9001,
+  "CompareType": 1,
+  "ReferenceVal": 2105012
+ },
+ {
+  "FilterID": 210101,
+  "FilterType": 1000,
+  "FilterVal": 9001,
+  "CompareType": 1,
+  "ReferenceVal": 230101
+ },
+ {
+  "FilterID": 210401,
+  "FilterType": 1000,
+  "FilterVal": 9001,
+  "CompareType": 1,
+  "ReferenceVal": 240101
+ },
+ {
+  "FilterID": 210301,
+  "FilterType": 1000,
+  "FilterVal": 9001,
+  "CompareType": 1,
+  "ReferenceVal": 240201
+ },
+ {
+  "FilterID": 210501,
+  "FilterType": 1000,
+  "FilterVal": 9001,
+  "CompareType": 1,
+  "ReferenceVal": 250101
+ },
+ {
+  "FilterID": 190,
+  "FilterType": 1000,
+  "FilterVal": 9008,
+  "CompareType": 1,
+  "ReferenceVal": 4
+ },
+ {
+  "FilterID": 110201,
+  "FilterType": 1000,
+  "FilterVal": 9001,
+  "CompareType": 1,
+  "ReferenceVal": 110201
+ },
+ {
+  "FilterID": 110202,
+  "FilterType": 1000,
+  "FilterVal": 9001,
+  "CompareType": 1,
+  "ReferenceVal": 110202
+ },
+ {
+  "FilterID": 100325,
+  "FilterType": 1000,
+  "FilterVal": 1003,
+  "CompareType": 4,
+  "ReferenceVal": 25
+ },
+ {
+  "FilterID": 120603,
+  "FilterType": 1000,
+  "FilterVal": 9001,
+  "CompareType": 1,
+  "ReferenceVal": 120603
+ },
+ {
+  "FilterID": 130601,
+  "FilterType": 1000,
+  "FilterVal": 9001,
+  "CompareType": 1,
+  "ReferenceVal": 130601
+ },
+ {
+  "FilterID": 130202,
+  "FilterType": 1000,
+  "FilterVal": 9001,
+  "CompareType": 1,
+  "ReferenceVal": 130202
+ },
+ {
+  "FilterID": 130001,
+  "FilterType": 1000,
+  "FilterVal": 9001,
+  "CompareType": 1,
+  "ReferenceVal": 130001
+ },
+ {
+  "FilterID": 130005,
+  "FilterType": 1000,
+  "FilterVal": 9001,
+  "CompareType": 1,
+  "ReferenceVal": 130005
+ },
+ {
+  "FilterID": 130007,
+  "FilterType": 1000,
+  "FilterVal": 9001,
+  "CompareType": 1,
+  "ReferenceVal": 130007
+ },
+ {
+  "FilterID": 300061,
+  "FilterType": 1000,
+  "FilterVal": 9001,
+  "CompareType": 1,
+  "ReferenceVal": 30006
+ },
+ {
+  "FilterID": 120001,
+  "FilterType": 1000,
+  "FilterVal": 9001,
+  "CompareType": 1,
+  "ReferenceVal": 120001
+ },
+ {
+  "FilterID": 140301112,
+  "FilterType": 1000,
+  "FilterVal": 9001,
+  "CompareType": 1,
+  "ReferenceVal": 14030111
+ },
+ {
+  "FilterID": 140301,
+  "FilterType": 1000,
+  "FilterVal": 9001,
+  "CompareType": 1,
+  "ReferenceVal": 140301
+ },
+ {
+  "FilterID": 110001,
+  "FilterType": 1000,
+  "FilterVal": 9001,
+  "CompareType": 1,
+  "ReferenceVal": 110001
+ },
+ {
+  "FilterID": 1100011,
+  "FilterType": 1000,
+  "FilterVal": 9001,
+  "CompareType": 2,
+  "ReferenceVal": 110001
+ },
+ {
+  "FilterID": 130603100,
+  "FilterType": 1102,
+  "FilterVal": 130603100,
+  "CompareType": 6,
+  "ReferenceVal": 1
+ },
+ {
+  "FilterID": 1304011,
+  "FilterType": 1102,
+  "FilterVal": 1304011,
+  "CompareType": 6,
+  "ReferenceVal": 1
+ },
+ {
+  "FilterID": 130702110,
+  "FilterType": 1102,
+  "FilterVal": 130702110,
+  "CompareType": 6,
+  "ReferenceVal": 1
+ },
+ {
+  "FilterID": 120702,
+  "FilterType": 1000,
+  "FilterVal": 9001,
+  "CompareType": 1,
+  "ReferenceVal": 420101
+ },
+ {
+  "FilterID": 130401,
+  "FilterType": 1000,
+  "FilterVal": 9001,
+  "CompareType": 1,
+  "ReferenceVal": 130401
+ },
+ {
+  "FilterID": 110603,
+  "FilterType": 1000,
+  "FilterVal": 9001,
+  "CompareType": 1,
+  "ReferenceVal": 110603
+ },
+ {
+  "FilterID": 110701,
+  "FilterType": 1000,
+  "FilterVal": 9001,
+  "CompareType": 1,
+  "ReferenceVal": 410101
+ },
+ {
+  "FilterID": 77,
+  "FilterType": 1000,
+  "FilterVal": 9006,
+  "CompareType": 1,
+  "ReferenceVal": 77
+ },
+ {
+  "FilterID": 140403,
+  "FilterType": 1000,
+  "FilterVal": 9001,
+  "CompareType": 1,
+  "ReferenceVal": 140403
+ },
+ {
+  "FilterID": 140702,
+  "FilterType": 1000,
+  "FilterVal": 9001,
+  "CompareType": 1,
+  "ReferenceVal": 440201
+ },
+ {
+  "FilterID": 140201,
+  "FilterType": 1000,
+  "FilterVal": 9001,
+  "CompareType": 1,
+  "ReferenceVal": 140201
+ },
+ {
+  "FilterID": 140202,
+  "FilterType": 1000,
+  "FilterVal": 9001,
+  "CompareType": 1,
+  "ReferenceVal": 140202
+ },
+ {
+  "FilterID": 130402,
+  "FilterType": 1000,
+  "FilterVal": 9001,
+  "CompareType": 1,
+  "ReferenceVal": 130402
+ },
+ {
+  "FilterID": 120302,
+  "FilterType": 1000,
+  "FilterVal": 9001,
+  "CompareType": 1,
+  "ReferenceVal": 120302
+ },
+ {
+  "FilterID": 110302,
+  "FilterType": 1000,
+  "FilterVal": 9001,
+  "CompareType": 1,
+  "ReferenceVal": 110302
+ },
+ {
+  "FilterID": 130501,
+  "FilterType": 1000,
+  "FilterVal": 9001,
+  "CompareType": 1,
+  "ReferenceVal": 130501
+ },
+ {
+  "FilterID": 110402,
+  "FilterType": 1000,
+  "FilterVal": 9001,
+  "CompareType": 1,
+  "ReferenceVal": 110402
+ },
+ {
+  "FilterID": 140304,
+  "FilterType": 1000,
+  "FilterVal": 9001,
+  "CompareType": 1,
+  "ReferenceVal": 140304
+ },
+ {
+  "FilterID": 130603,
+  "FilterType": 1000,
+  "FilterVal": 9001,
+  "CompareType": 1,
+  "ReferenceVal": 130603
+ },
+ {
+  "FilterID": 120301,
+  "FilterType": 1000,
+  "FilterVal": 9001,
+  "CompareType": 1,
+  "ReferenceVal": 120301
+ },
+ {
+  "FilterID": 120602,
+  "FilterType": 1000,
+  "FilterVal": 9001,
+  "CompareType": 1,
+  "ReferenceVal": 120602
+ },
+ {
+  "FilterID": 120602112,
+  "FilterType": 1100,
+  "FilterVal": 120602112,
+  "CompareType": 6,
+  "ReferenceVal": 1
+ },
+ {
+  "FilterID": 130601111,
+  "FilterType": 1100,
+  "FilterVal": 130601111,
+  "CompareType": 6,
+  "ReferenceVal": 1
+ },
+ {
+  "FilterID": 110604,
+  "FilterType": 1000,
+  "FilterVal": 9001,
+  "CompareType": 1,
+  "ReferenceVal": 110604
+ },
+ {
+  "FilterID": 110602,
+  "FilterType": 1000,
+  "FilterVal": 9001,
+  "CompareType": 1,
+  "ReferenceVal": 110602
+ },
+ {
+  "FilterID": 140402,
+  "FilterType": 1000,
+  "FilterVal": 9001,
+  "CompareType": 1,
+  "ReferenceVal": 140402
+ },
+ {
+  "FilterID": 140404,
+  "FilterType": 1000,
+  "FilterVal": 9001,
+  "CompareType": 1,
+  "ReferenceVal": 140404
+ },
+ {
+  "FilterID": 140702610,
+  "FilterType": 1100,
+  "FilterVal": 140702610,
+  "CompareType": 2,
+  "ReferenceVal": 140702610
+ },
+ {
+  "FilterID": 120202,
+  "FilterType": 1000,
+  "FilterVal": 9001,
+  "CompareType": 1,
+  "ReferenceVal": 120202
+ },
+ {
+  "FilterID": 140401,
+  "FilterType": 1000,
+  "FilterVal": 9001,
+  "CompareType": 1,
+  "ReferenceVal": 140401
+ },
+ {
+  "FilterID": 506007,
+  "FilterType": 1000,
+  "FilterVal": 9001,
+  "CompareType": 1,
+  "ReferenceVal": 506007
+ },
+ {
+  "FilterID": 5070071,
+  "FilterType": 1000,
+  "FilterVal": 9001,
+  "CompareType": 1,
+  "ReferenceVal": 5070071
+ },
+ {
+  "FilterID": 1120602310,
+  "FilterType": 1100,
+  "FilterVal": 120602110,
+  "CompareType": 6,
+  "ReferenceVal": 1
+ },
+ {
+  "FilterID": 1130601510,
+  "FilterType": 1100,
+  "FilterVal": 130601111,
+  "CompareType": 6,
+  "ReferenceVal": 1
+ },
+ {
+  "FilterID": 120603111,
+  "FilterType": 1100,
+  "FilterVal": 120603111,
+  "CompareType": 6,
+  "ReferenceVal": 1
+ },
+ {
+  "FilterID": 110604310,
+  "FilterType": 1100,
+  "FilterVal": 110604221,
+  "CompareType": 6,
+  "ReferenceVal": 1
+ },
+ {
+  "FilterID": 420101410,
+  "FilterType": 1100,
+  "FilterVal": 420101110,
+  "CompareType": 6,
+  "ReferenceVal": 1
+ },
+ {
+  "FilterID": 2140701511,
+  "FilterType": 1100,
+  "FilterVal": 140701111,
+  "CompareType": 6,
+  "ReferenceVal": 1
+ },
+ {
+  "FilterID": 1110402111,
+  "FilterType": 1100,
+  "FilterVal": 1110402111,
+  "CompareType": 6,
+  "ReferenceVal": 1
+ },
+ {
+  "FilterID": 4501010,
+  "FilterType": 1000,
+  "FilterVal": 9001,
+  "CompareType": 1,
+  "ReferenceVal": 450101
+ },
+ {
+  "FilterID": 840104111,
+  "FilterType": 1100,
+  "FilterVal": 840104111,
+  "CompareType": 6,
+  "ReferenceVal": 1
+ },
+ {
+  "FilterID": 8401031,
+  "FilterType": 1000,
+  "FilterVal": 9001,
+  "CompareType": 1,
+  "ReferenceVal": 8401031
+ },
+ {
+  "FilterID": 840103111,
+  "FilterType": 1100,
+  "FilterVal": 840103114,
+  "CompareType": 6,
+  "ReferenceVal": 1
+ },
+ {
+  "FilterID": 840106111,
+  "FilterType": 1100,
+  "FilterVal": 840106110,
+  "CompareType": 6,
+  "ReferenceVal": 1
+ },
+ {
+  "FilterID": 840105111,
+  "FilterType": 1100,
+  "FilterVal": 840105111,
+  "CompareType": 6,
+  "ReferenceVal": 1
+ },
+ {
+  "FilterID": 840105,
+  "FilterType": 1000,
+  "FilterVal": 9001,
+  "CompareType": 1,
+  "ReferenceVal": 840105
+ },
+ {
+  "FilterID": 910303110,
+  "FilterType": 1102,
+  "FilterVal": 2009,
+  "CompareType": 6,
+  "ReferenceVal": 1
+ },
+ {
+  "FilterID": 100005901,
+  "FilterType": 1102,
+  "FilterVal": 100005901,
+  "CompareType": 6,
+  "ReferenceVal": 1
+ },
+ {
+  "FilterID": 600,
+  "FilterType": 600,
+  "FilterVal": 0,
+  "CompareType": 0,
+  "ReferenceVal": 0
+ },
+ {
+  "FilterID": 110401211,
+  "FilterType": 1100,
+  "FilterVal": 110401211,
+  "CompareType": 6,
+  "ReferenceVal": 5
+ },
+ {
+  "FilterID": 110401212,
+  "FilterType": 1100,
+  "FilterVal": 110401211,
+  "CompareType": 1,
+  "ReferenceVal": 3
+ },
+ {
+  "FilterID": 150401,
+  "FilterType": 1000,
+  "FilterVal": 9001,
+  "CompareType": 1,
+  "ReferenceVal": 150401
+ },
+ {
+  "FilterID": 150501,
+  "FilterType": 1000,
+  "FilterVal": 9001,
+  "CompareType": 1,
+  "ReferenceVal": 150501
+ },
+ {
+  "FilterID": 502,
+  "FilterType": 502,
+  "FilterVal": 1,
+  "CompareType": 0,
+  "ReferenceVal": 1
+ },
+ {
+  "FilterID": 503,
+  "FilterType": 503,
+  "FilterVal": 1,
+  "CompareType": 0,
+  "ReferenceVal": 2
+ },
+ {
+  "FilterID": 504,
+  "FilterType": 502,
+  "FilterVal": 0,
+  "CompareType": 0,
+  "ReferenceVal": 0
+ },
+ {
+  "FilterID": 505,
+  "FilterType": 503,
+  "FilterVal": 0,
+  "CompareType": 0,
+  "ReferenceVal": 3
+ },
+ {
+  "FilterID": 5001,
+  "FilterType": 504,
+  "FilterVal": 1,
+  "CompareType": 0,
+  "ReferenceVal": 1
+ },
+ {
+  "FilterID": 5002,
+  "FilterType": 504,
+  "FilterVal": 2,
+  "CompareType": 0,
+  "ReferenceVal": 2
+ },
+ {
+  "FilterID": 5003,
+  "FilterType": 504,
+  "FilterVal": 3,
+  "CompareType": 0,
+  "ReferenceVal": 3
+ },
+ {
+  "FilterID": 5004,
+  "FilterType": 504,
+  "FilterVal": 4,
+  "CompareType": 0,
+  "ReferenceVal": 4
+ },
+ {
+  "FilterID": 5005,
+  "FilterType": 504,
+  "FilterVal": 5,
+  "CompareType": 0,
+  "ReferenceVal": 5
+ },
+ {
+  "FilterID": 5006,
+  "FilterType": 504,
+  "FilterVal": 6,
+  "CompareType": 0,
+  "ReferenceVal": 6
+ },
+ {
+  "FilterID": 5007,
+  "FilterType": 504,
+  "FilterVal": 7,
+  "CompareType": 0,
+  "ReferenceVal": 7
+ },
+ {
+  "FilterID": 5008,
+  "FilterType": 504,
+  "FilterVal": 8,
+  "CompareType": 0,
+  "ReferenceVal": 8
+ },
+ {
+  "FilterID": 5101,
+  "FilterType": 505,
+  "FilterVal": 1,
+  "CompareType": 0,
+  "ReferenceVal": 1
+ },
+ {
+  "FilterID": 5102,
+  "FilterType": 505,
+  "FilterVal": 2,
+  "CompareType": 0,
+  "ReferenceVal": 2
+ },
+ {
+  "FilterID": 5103,
+  "FilterType": 505,
+  "FilterVal": 3,
+  "CompareType": 0,
+  "ReferenceVal": 3
+ },
+ {
+  "FilterID": 5104,
+  "FilterType": 505,
+  "FilterVal": 4,
+  "CompareType": 0,
+  "ReferenceVal": 4
+ },
+ {
+  "FilterID": 5105,
+  "FilterType": 505,
+  "FilterVal": 5,
+  "CompareType": 0,
+  "ReferenceVal": 5
+ },
+ {
+  "FilterID": 601,
+  "FilterType": 601,
+  "FilterVal": 0,
+  "CompareType": 0,
+  "ReferenceVal": 0
+ },
+ {
+  "FilterID": 505003174,
+  "FilterType": 1101,
+  "FilterVal": 505003174,
+  "CompareType": 1,
+  "ReferenceVal": 0
+ }
+]

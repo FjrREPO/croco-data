@@ -1,0 +1,6447 @@
+[
+ {
+  "RuneID": 910018,
+  "RuneLevel": 0,
+  "RuneExp": 240,
+  "RuneIcon": "Icon_Gear_1",
+  "RuneQuality": 1,
+  "ArtificeEntry": 2,
+  "ArtificeTimes": 6,
+  "ArtificeItem": [
+   212
+  ],
+  "ArtificeItemNum": [
+   10
+  ],
+  "LevelMultiple": 100,
+  "InheritItems": [
+   212
+  ],
+  "InheritNum": [
+   15
+  ],
+  "BreakItem": [],
+  "BreakItemNum": [],
+  "RuneProfessions": [
+   8
+  ],
+  "RuneSkills": 10018,
+  "RuneSkillWeights": 100
+ },
+ {
+  "RuneID": 910019,
+  "RuneLevel": 0,
+  "RuneExp": 240,
+  "RuneIcon": "Icon_Gear_1",
+  "RuneQuality": 1,
+  "ArtificeEntry": 2,
+  "ArtificeTimes": 6,
+  "ArtificeItem": [
+   212
+  ],
+  "ArtificeItemNum": [
+   10
+  ],
+  "LevelMultiple": 100,
+  "InheritItems": [
+   212
+  ],
+  "InheritNum": [
+   15
+  ],
+  "BreakItem": [],
+  "BreakItemNum": [],
+  "RuneProfessions": [
+   10,
+   9
+  ],
+  "RuneSkills": 10019,
+  "RuneSkillWeights": 100
+ },
+ {
+  "RuneID": 910020,
+  "RuneLevel": 0,
+  "RuneExp": 240,
+  "RuneIcon": "Icon_Gear_1",
+  "RuneQuality": 1,
+  "ArtificeEntry": 2,
+  "ArtificeTimes": 6,
+  "ArtificeItem": [
+   212
+  ],
+  "ArtificeItemNum": [
+   10
+  ],
+  "LevelMultiple": 100,
+  "InheritItems": [
+   212
+  ],
+  "InheritNum": [
+   15
+  ],
+  "BreakItem": [],
+  "BreakItemNum": [],
+  "RuneProfessions": [
+   8
+  ],
+  "RuneSkills": 10020,
+  "RuneSkillWeights": 100
+ },
+ {
+  "RuneID": 910021,
+  "RuneLevel": 0,
+  "RuneExp": 240,
+  "RuneIcon": "Icon_Gear_1",
+  "RuneQuality": 1,
+  "ArtificeEntry": 2,
+  "ArtificeTimes": 6,
+  "ArtificeItem": [
+   212
+  ],
+  "ArtificeItemNum": [
+   10
+  ],
+  "LevelMultiple": 100,
+  "InheritItems": [
+   212
+  ],
+  "InheritNum": [
+   15
+  ],
+  "BreakItem": [],
+  "BreakItemNum": [],
+  "RuneProfessions": [
+   8
+  ],
+  "RuneSkills": 10021,
+  "RuneSkillWeights": 100
+ },
+ {
+  "RuneID": 910022,
+  "RuneLevel": 0,
+  "RuneExp": 240,
+  "RuneIcon": "Icon_Gear_1",
+  "RuneQuality": 1,
+  "ArtificeEntry": 2,
+  "ArtificeTimes": 6,
+  "ArtificeItem": [
+   212
+  ],
+  "ArtificeItemNum": [
+   10
+  ],
+  "LevelMultiple": 100,
+  "InheritItems": [
+   212
+  ],
+  "InheritNum": [
+   15
+  ],
+  "BreakItem": [],
+  "BreakItemNum": [],
+  "RuneProfessions": [
+   9
+  ],
+  "RuneSkills": 10022,
+  "RuneSkillWeights": 100
+ },
+ {
+  "RuneID": 910023,
+  "RuneLevel": 0,
+  "RuneExp": 240,
+  "RuneIcon": "Icon_Gear_1",
+  "RuneQuality": 1,
+  "ArtificeEntry": 2,
+  "ArtificeTimes": 6,
+  "ArtificeItem": [
+   212
+  ],
+  "ArtificeItemNum": [
+   10
+  ],
+  "LevelMultiple": 100,
+  "InheritItems": [
+   212
+  ],
+  "InheritNum": [
+   15
+  ],
+  "BreakItem": [],
+  "BreakItemNum": [],
+  "RuneProfessions": [
+   9
+  ],
+  "RuneSkills": 10023,
+  "RuneSkillWeights": 100
+ },
+ {
+  "RuneID": 910024,
+  "RuneLevel": 0,
+  "RuneExp": 240,
+  "RuneIcon": "Icon_Gear_1",
+  "RuneQuality": 1,
+  "ArtificeEntry": 2,
+  "ArtificeTimes": 6,
+  "ArtificeItem": [
+   212
+  ],
+  "ArtificeItemNum": [
+   10
+  ],
+  "LevelMultiple": 100,
+  "InheritItems": [
+   212
+  ],
+  "InheritNum": [
+   15
+  ],
+  "BreakItem": [],
+  "BreakItemNum": [],
+  "RuneProfessions": [
+   10
+  ],
+  "RuneSkills": 10024,
+  "RuneSkillWeights": 100
+ },
+ {
+  "RuneID": 910025,
+  "RuneLevel": 0,
+  "RuneExp": 240,
+  "RuneIcon": "Icon_Gear_1",
+  "RuneQuality": 1,
+  "ArtificeEntry": 2,
+  "ArtificeTimes": 6,
+  "ArtificeItem": [
+   212
+  ],
+  "ArtificeItemNum": [
+   10
+  ],
+  "LevelMultiple": 100,
+  "InheritItems": [
+   212
+  ],
+  "InheritNum": [
+   15
+  ],
+  "BreakItem": [],
+  "BreakItemNum": [],
+  "RuneProfessions": [
+   10
+  ],
+  "RuneSkills": 10025,
+  "RuneSkillWeights": 100
+ },
+ {
+  "RuneID": 910026,
+  "RuneLevel": 0,
+  "RuneExp": 240,
+  "RuneIcon": "Icon_Gear_1",
+  "RuneQuality": 1,
+  "ArtificeEntry": 2,
+  "ArtificeTimes": 6,
+  "ArtificeItem": [
+   212
+  ],
+  "ArtificeItemNum": [
+   10
+  ],
+  "LevelMultiple": 100,
+  "InheritItems": [
+   212
+  ],
+  "InheritNum": [
+   15
+  ],
+  "BreakItem": [],
+  "BreakItemNum": [],
+  "RuneProfessions": [
+   2
+  ],
+  "RuneSkills": 10026,
+  "RuneSkillWeights": 100
+ },
+ {
+  "RuneID": 910027,
+  "RuneLevel": 0,
+  "RuneExp": 240,
+  "RuneIcon": "Icon_Gear_1",
+  "RuneQuality": 1,
+  "ArtificeEntry": 2,
+  "ArtificeTimes": 6,
+  "ArtificeItem": [
+   212
+  ],
+  "ArtificeItemNum": [
+   10
+  ],
+  "LevelMultiple": 100,
+  "InheritItems": [
+   212
+  ],
+  "InheritNum": [
+   15
+  ],
+  "BreakItem": [],
+  "BreakItemNum": [],
+  "RuneProfessions": [
+   2
+  ],
+  "RuneSkills": 10027,
+  "RuneSkillWeights": 100
+ },
+ {
+  "RuneID": 910028,
+  "RuneLevel": 0,
+  "RuneExp": 240,
+  "RuneIcon": "Icon_Gear_1",
+  "RuneQuality": 1,
+  "ArtificeEntry": 2,
+  "ArtificeTimes": 6,
+  "ArtificeItem": [
+   212
+  ],
+  "ArtificeItemNum": [
+   10
+  ],
+  "LevelMultiple": 100,
+  "InheritItems": [
+   212
+  ],
+  "InheritNum": [
+   15
+  ],
+  "BreakItem": [],
+  "BreakItemNum": [],
+  "RuneProfessions": [
+   2
+  ],
+  "RuneSkills": 10028,
+  "RuneSkillWeights": 100
+ },
+ {
+  "RuneID": 910029,
+  "RuneLevel": 0,
+  "RuneExp": 240,
+  "RuneIcon": "Icon_Gear_1",
+  "RuneQuality": 1,
+  "ArtificeEntry": 2,
+  "ArtificeTimes": 6,
+  "ArtificeItem": [
+   212
+  ],
+  "ArtificeItemNum": [
+   10
+  ],
+  "LevelMultiple": 100,
+  "InheritItems": [
+   212
+  ],
+  "InheritNum": [
+   15
+  ],
+  "BreakItem": [],
+  "BreakItemNum": [],
+  "RuneProfessions": [
+   11
+  ],
+  "RuneSkills": 10029,
+  "RuneSkillWeights": 100
+ },
+ {
+  "RuneID": 910030,
+  "RuneLevel": 0,
+  "RuneExp": 240,
+  "RuneIcon": "Icon_Gear_1",
+  "RuneQuality": 1,
+  "ArtificeEntry": 2,
+  "ArtificeTimes": 6,
+  "ArtificeItem": [
+   212
+  ],
+  "ArtificeItemNum": [
+   10
+  ],
+  "LevelMultiple": 100,
+  "InheritItems": [
+   212
+  ],
+  "InheritNum": [
+   15
+  ],
+  "BreakItem": [],
+  "BreakItemNum": [],
+  "RuneProfessions": [
+   11
+  ],
+  "RuneSkills": 10030,
+  "RuneSkillWeights": 100
+ },
+ {
+  "RuneID": 910031,
+  "RuneLevel": 0,
+  "RuneExp": 240,
+  "RuneIcon": "Icon_Gear_1",
+  "RuneQuality": 1,
+  "ArtificeEntry": 2,
+  "ArtificeTimes": 6,
+  "ArtificeItem": [
+   212
+  ],
+  "ArtificeItemNum": [
+   10
+  ],
+  "LevelMultiple": 100,
+  "InheritItems": [
+   212
+  ],
+  "InheritNum": [
+   15
+  ],
+  "BreakItem": [],
+  "BreakItemNum": [],
+  "RuneProfessions": [
+   11
+  ],
+  "RuneSkills": 10031,
+  "RuneSkillWeights": 100
+ },
+ {
+  "RuneID": 910032,
+  "RuneLevel": 0,
+  "RuneExp": 240,
+  "RuneIcon": "Icon_Gear_1",
+  "RuneQuality": 1,
+  "ArtificeEntry": 2,
+  "ArtificeTimes": 6,
+  "ArtificeItem": [
+   212
+  ],
+  "ArtificeItemNum": [
+   10
+  ],
+  "LevelMultiple": 100,
+  "InheritItems": [
+   212
+  ],
+  "InheritNum": [
+   15
+  ],
+  "BreakItem": [],
+  "BreakItemNum": [],
+  "RuneProfessions": [
+   12
+  ],
+  "RuneSkills": 10032,
+  "RuneSkillWeights": 100
+ },
+ {
+  "RuneID": 910033,
+  "RuneLevel": 0,
+  "RuneExp": 240,
+  "RuneIcon": "Icon_Gear_1",
+  "RuneQuality": 1,
+  "ArtificeEntry": 2,
+  "ArtificeTimes": 6,
+  "ArtificeItem": [
+   212
+  ],
+  "ArtificeItemNum": [
+   10
+  ],
+  "LevelMultiple": 100,
+  "InheritItems": [
+   212
+  ],
+  "InheritNum": [
+   15
+  ],
+  "BreakItem": [],
+  "BreakItemNum": [],
+  "RuneProfessions": [
+   12
+  ],
+  "RuneSkills": 10033,
+  "RuneSkillWeights": 100
+ },
+ {
+  "RuneID": 910034,
+  "RuneLevel": 0,
+  "RuneExp": 240,
+  "RuneIcon": "Icon_Gear_1",
+  "RuneQuality": 1,
+  "ArtificeEntry": 2,
+  "ArtificeTimes": 6,
+  "ArtificeItem": [
+   212
+  ],
+  "ArtificeItemNum": [
+   10
+  ],
+  "LevelMultiple": 100,
+  "InheritItems": [
+   212
+  ],
+  "InheritNum": [
+   15
+  ],
+  "BreakItem": [],
+  "BreakItemNum": [],
+  "RuneProfessions": [
+   12
+  ],
+  "RuneSkills": 10034,
+  "RuneSkillWeights": 100
+ },
+ {
+  "RuneID": 910035,
+  "RuneLevel": 0,
+  "RuneExp": 240,
+  "RuneIcon": "Icon_Gear_1",
+  "RuneQuality": 1,
+  "ArtificeEntry": 2,
+  "ArtificeTimes": 6,
+  "ArtificeItem": [
+   212
+  ],
+  "ArtificeItemNum": [
+   10
+  ],
+  "LevelMultiple": 100,
+  "InheritItems": [
+   212
+  ],
+  "InheritNum": [
+   15
+  ],
+  "BreakItem": [],
+  "BreakItemNum": [],
+  "RuneProfessions": [
+   13
+  ],
+  "RuneSkills": 10035,
+  "RuneSkillWeights": 100
+ },
+ {
+  "RuneID": 910036,
+  "RuneLevel": 0,
+  "RuneExp": 240,
+  "RuneIcon": "Icon_Gear_1",
+  "RuneQuality": 1,
+  "ArtificeEntry": 2,
+  "ArtificeTimes": 6,
+  "ArtificeItem": [
+   212
+  ],
+  "ArtificeItemNum": [
+   10
+  ],
+  "LevelMultiple": 100,
+  "InheritItems": [
+   212
+  ],
+  "InheritNum": [
+   15
+  ],
+  "BreakItem": [],
+  "BreakItemNum": [],
+  "RuneProfessions": [
+   13,
+   14
+  ],
+  "RuneSkills": 10036,
+  "RuneSkillWeights": 100
+ },
+ {
+  "RuneID": 910037,
+  "RuneLevel": 0,
+  "RuneExp": 240,
+  "RuneIcon": "Icon_Gear_1",
+  "RuneQuality": 1,
+  "ArtificeEntry": 2,
+  "ArtificeTimes": 6,
+  "ArtificeItem": [
+   212
+  ],
+  "ArtificeItemNum": [
+   10
+  ],
+  "LevelMultiple": 100,
+  "InheritItems": [
+   212
+  ],
+  "InheritNum": [
+   15
+  ],
+  "BreakItem": [],
+  "BreakItemNum": [],
+  "RuneProfessions": [
+   13
+  ],
+  "RuneSkills": 10037,
+  "RuneSkillWeights": 100
+ },
+ {
+  "RuneID": 910038,
+  "RuneLevel": 0,
+  "RuneExp": 240,
+  "RuneIcon": "Icon_Gear_1",
+  "RuneQuality": 1,
+  "ArtificeEntry": 2,
+  "ArtificeTimes": 6,
+  "ArtificeItem": [
+   212
+  ],
+  "ArtificeItemNum": [
+   10
+  ],
+  "LevelMultiple": 100,
+  "InheritItems": [
+   212
+  ],
+  "InheritNum": [
+   15
+  ],
+  "BreakItem": [],
+  "BreakItemNum": [],
+  "RuneProfessions": [
+   16
+  ],
+  "RuneSkills": 10038,
+  "RuneSkillWeights": 100
+ },
+ {
+  "RuneID": 910039,
+  "RuneLevel": 0,
+  "RuneExp": 240,
+  "RuneIcon": "Icon_Gear_1",
+  "RuneQuality": 1,
+  "ArtificeEntry": 2,
+  "ArtificeTimes": 6,
+  "ArtificeItem": [
+   212
+  ],
+  "ArtificeItemNum": [
+   10
+  ],
+  "LevelMultiple": 100,
+  "InheritItems": [
+   212
+  ],
+  "InheritNum": [
+   15
+  ],
+  "BreakItem": [],
+  "BreakItemNum": [],
+  "RuneProfessions": [
+   16
+  ],
+  "RuneSkills": 10039,
+  "RuneSkillWeights": 100
+ },
+ {
+  "RuneID": 910040,
+  "RuneLevel": 0,
+  "RuneExp": 240,
+  "RuneIcon": "Icon_Gear_1",
+  "RuneQuality": 1,
+  "ArtificeEntry": 2,
+  "ArtificeTimes": 6,
+  "ArtificeItem": [
+   212
+  ],
+  "ArtificeItemNum": [
+   10
+  ],
+  "LevelMultiple": 100,
+  "InheritItems": [
+   212
+  ],
+  "InheritNum": [
+   15
+  ],
+  "BreakItem": [],
+  "BreakItemNum": [],
+  "RuneProfessions": [
+   14
+  ],
+  "RuneSkills": 10040,
+  "RuneSkillWeights": 100
+ },
+ {
+  "RuneID": 910041,
+  "RuneLevel": 0,
+  "RuneExp": 240,
+  "RuneIcon": "Icon_Gear_1",
+  "RuneQuality": 1,
+  "ArtificeEntry": 2,
+  "ArtificeTimes": 6,
+  "ArtificeItem": [
+   212
+  ],
+  "ArtificeItemNum": [
+   10
+  ],
+  "LevelMultiple": 100,
+  "InheritItems": [
+   212
+  ],
+  "InheritNum": [
+   15
+  ],
+  "BreakItem": [],
+  "BreakItemNum": [],
+  "RuneProfessions": [
+   14
+  ],
+  "RuneSkills": 10041,
+  "RuneSkillWeights": 100
+ },
+ {
+  "RuneID": 910042,
+  "RuneLevel": 0,
+  "RuneExp": 240,
+  "RuneIcon": "Icon_Gear_1",
+  "RuneQuality": 1,
+  "ArtificeEntry": 2,
+  "ArtificeTimes": 6,
+  "ArtificeItem": [
+   212
+  ],
+  "ArtificeItemNum": [
+   10
+  ],
+  "LevelMultiple": 100,
+  "InheritItems": [
+   212
+  ],
+  "InheritNum": [
+   15
+  ],
+  "BreakItem": [],
+  "BreakItemNum": [],
+  "RuneProfessions": [
+   14
+  ],
+  "RuneSkills": 10042,
+  "RuneSkillWeights": 100
+ },
+ {
+  "RuneID": 910043,
+  "RuneLevel": 0,
+  "RuneExp": 240,
+  "RuneIcon": "Icon_Gear_1",
+  "RuneQuality": 1,
+  "ArtificeEntry": 2,
+  "ArtificeTimes": 6,
+  "ArtificeItem": [
+   212
+  ],
+  "ArtificeItemNum": [
+   10
+  ],
+  "LevelMultiple": 100,
+  "InheritItems": [
+   212
+  ],
+  "InheritNum": [
+   15
+  ],
+  "BreakItem": [],
+  "BreakItemNum": [],
+  "RuneProfessions": [
+   5
+  ],
+  "RuneSkills": 10043,
+  "RuneSkillWeights": 100
+ },
+ {
+  "RuneID": 910044,
+  "RuneLevel": 0,
+  "RuneExp": 240,
+  "RuneIcon": "Icon_Gear_1",
+  "RuneQuality": 1,
+  "ArtificeEntry": 2,
+  "ArtificeTimes": 6,
+  "ArtificeItem": [
+   212
+  ],
+  "ArtificeItemNum": [
+   10
+  ],
+  "LevelMultiple": 100,
+  "InheritItems": [
+   212
+  ],
+  "InheritNum": [
+   15
+  ],
+  "BreakItem": [],
+  "BreakItemNum": [],
+  "RuneProfessions": [
+   5
+  ],
+  "RuneSkills": 10044,
+  "RuneSkillWeights": 100
+ },
+ {
+  "RuneID": 910045,
+  "RuneLevel": 0,
+  "RuneExp": 240,
+  "RuneIcon": "Icon_Gear_1",
+  "RuneQuality": 1,
+  "ArtificeEntry": 2,
+  "ArtificeTimes": 6,
+  "ArtificeItem": [
+   212
+  ],
+  "ArtificeItemNum": [
+   10
+  ],
+  "LevelMultiple": 100,
+  "InheritItems": [
+   212
+  ],
+  "InheritNum": [
+   15
+  ],
+  "BreakItem": [],
+  "BreakItemNum": [],
+  "RuneProfessions": [
+   5
+  ],
+  "RuneSkills": 10045,
+  "RuneSkillWeights": 100
+ },
+ {
+  "RuneID": 910046,
+  "RuneLevel": 0,
+  "RuneExp": 240,
+  "RuneIcon": "Icon_Gear_1",
+  "RuneQuality": 1,
+  "ArtificeEntry": 2,
+  "ArtificeTimes": 6,
+  "ArtificeItem": [
+   212
+  ],
+  "ArtificeItemNum": [
+   10
+  ],
+  "LevelMultiple": 100,
+  "InheritItems": [
+   212
+  ],
+  "InheritNum": [
+   15
+  ],
+  "BreakItem": [],
+  "BreakItemNum": [],
+  "RuneProfessions": [
+   11
+  ],
+  "RuneSkills": 10046,
+  "RuneSkillWeights": 100
+ },
+ {
+  "RuneID": 910050,
+  "RuneLevel": 0,
+  "RuneExp": 240,
+  "RuneIcon": "Icon_Gear_1",
+  "RuneQuality": 1,
+  "ArtificeEntry": 2,
+  "ArtificeTimes": 6,
+  "ArtificeItem": [
+   212
+  ],
+  "ArtificeItemNum": [
+   10
+  ],
+  "LevelMultiple": 100,
+  "InheritItems": [
+   212
+  ],
+  "InheritNum": [
+   15
+  ],
+  "BreakItem": [],
+  "BreakItemNum": [],
+  "RuneProfessions": [
+   1
+  ],
+  "RuneSkills": 10050,
+  "RuneSkillWeights": 100
+ },
+ {
+  "RuneID": 910051,
+  "RuneLevel": 0,
+  "RuneExp": 240,
+  "RuneIcon": "Icon_Gear_1",
+  "RuneQuality": 1,
+  "ArtificeEntry": 2,
+  "ArtificeTimes": 6,
+  "ArtificeItem": [
+   212
+  ],
+  "ArtificeItemNum": [
+   10
+  ],
+  "LevelMultiple": 100,
+  "InheritItems": [
+   212
+  ],
+  "InheritNum": [
+   15
+  ],
+  "BreakItem": [],
+  "BreakItemNum": [],
+  "RuneProfessions": [
+   2
+  ],
+  "RuneSkills": 10051,
+  "RuneSkillWeights": 100
+ },
+ {
+  "RuneID": 910052,
+  "RuneLevel": 0,
+  "RuneExp": 240,
+  "RuneIcon": "Icon_Gear_1",
+  "RuneQuality": 1,
+  "ArtificeEntry": 2,
+  "ArtificeTimes": 6,
+  "ArtificeItem": [
+   212
+  ],
+  "ArtificeItemNum": [
+   10
+  ],
+  "LevelMultiple": 100,
+  "InheritItems": [
+   212
+  ],
+  "InheritNum": [
+   15
+  ],
+  "BreakItem": [],
+  "BreakItemNum": [],
+  "RuneProfessions": [
+   3
+  ],
+  "RuneSkills": 10052,
+  "RuneSkillWeights": 100
+ },
+ {
+  "RuneID": 910053,
+  "RuneLevel": 0,
+  "RuneExp": 240,
+  "RuneIcon": "Icon_Gear_1",
+  "RuneQuality": 1,
+  "ArtificeEntry": 2,
+  "ArtificeTimes": 6,
+  "ArtificeItem": [
+   212
+  ],
+  "ArtificeItemNum": [
+   10
+  ],
+  "LevelMultiple": 100,
+  "InheritItems": [
+   212
+  ],
+  "InheritNum": [
+   15
+  ],
+  "BreakItem": [],
+  "BreakItemNum": [],
+  "RuneProfessions": [
+   4
+  ],
+  "RuneSkills": 10053,
+  "RuneSkillWeights": 100
+ },
+ {
+  "RuneID": 910054,
+  "RuneLevel": 0,
+  "RuneExp": 240,
+  "RuneIcon": "Icon_Gear_1",
+  "RuneQuality": 1,
+  "ArtificeEntry": 2,
+  "ArtificeTimes": 6,
+  "ArtificeItem": [
+   212
+  ],
+  "ArtificeItemNum": [
+   10
+  ],
+  "LevelMultiple": 100,
+  "InheritItems": [
+   212
+  ],
+  "InheritNum": [
+   15
+  ],
+  "BreakItem": [],
+  "BreakItemNum": [],
+  "RuneProfessions": [
+   5
+  ],
+  "RuneSkills": 10054,
+  "RuneSkillWeights": 100
+ },
+ {
+  "RuneID": 910055,
+  "RuneLevel": 0,
+  "RuneExp": 240,
+  "RuneIcon": "Icon_Gear_1",
+  "RuneQuality": 1,
+  "ArtificeEntry": 2,
+  "ArtificeTimes": 6,
+  "ArtificeItem": [
+   212
+  ],
+  "ArtificeItemNum": [
+   10
+  ],
+  "LevelMultiple": 100,
+  "InheritItems": [
+   212
+  ],
+  "InheritNum": [
+   15
+  ],
+  "BreakItem": [],
+  "BreakItemNum": [],
+  "RuneProfessions": [
+   6
+  ],
+  "RuneSkills": 10055,
+  "RuneSkillWeights": 100
+ },
+ {
+  "RuneID": 910056,
+  "RuneLevel": 0,
+  "RuneExp": 240,
+  "RuneIcon": "Icon_Gear_1",
+  "RuneQuality": 1,
+  "ArtificeEntry": 2,
+  "ArtificeTimes": 6,
+  "ArtificeItem": [
+   212
+  ],
+  "ArtificeItemNum": [
+   10
+  ],
+  "LevelMultiple": 100,
+  "InheritItems": [
+   212
+  ],
+  "InheritNum": [
+   15
+  ],
+  "BreakItem": [],
+  "BreakItemNum": [],
+  "RuneProfessions": [
+   7
+  ],
+  "RuneSkills": 10056,
+  "RuneSkillWeights": 100
+ },
+ {
+  "RuneID": 910057,
+  "RuneLevel": 0,
+  "RuneExp": 240,
+  "RuneIcon": "Icon_Gear_1",
+  "RuneQuality": 1,
+  "ArtificeEntry": 2,
+  "ArtificeTimes": 6,
+  "ArtificeItem": [
+   212
+  ],
+  "ArtificeItemNum": [
+   10
+  ],
+  "LevelMultiple": 100,
+  "InheritItems": [
+   212
+  ],
+  "InheritNum": [
+   15
+  ],
+  "BreakItem": [],
+  "BreakItemNum": [],
+  "RuneProfessions": [
+   8
+  ],
+  "RuneSkills": 10057,
+  "RuneSkillWeights": 100
+ },
+ {
+  "RuneID": 910058,
+  "RuneLevel": 0,
+  "RuneExp": 240,
+  "RuneIcon": "Icon_Gear_1",
+  "RuneQuality": 1,
+  "ArtificeEntry": 2,
+  "ArtificeTimes": 6,
+  "ArtificeItem": [
+   212
+  ],
+  "ArtificeItemNum": [
+   10
+  ],
+  "LevelMultiple": 100,
+  "InheritItems": [
+   212
+  ],
+  "InheritNum": [
+   15
+  ],
+  "BreakItem": [],
+  "BreakItemNum": [],
+  "RuneProfessions": [
+   9
+  ],
+  "RuneSkills": 10058,
+  "RuneSkillWeights": 100
+ },
+ {
+  "RuneID": 910059,
+  "RuneLevel": 0,
+  "RuneExp": 240,
+  "RuneIcon": "Icon_Gear_1",
+  "RuneQuality": 1,
+  "ArtificeEntry": 2,
+  "ArtificeTimes": 6,
+  "ArtificeItem": [
+   212
+  ],
+  "ArtificeItemNum": [
+   10
+  ],
+  "LevelMultiple": 100,
+  "InheritItems": [
+   212
+  ],
+  "InheritNum": [
+   15
+  ],
+  "BreakItem": [],
+  "BreakItemNum": [],
+  "RuneProfessions": [
+   10
+  ],
+  "RuneSkills": 10059,
+  "RuneSkillWeights": 100
+ },
+ {
+  "RuneID": 910060,
+  "RuneLevel": 0,
+  "RuneExp": 240,
+  "RuneIcon": "Icon_Gear_1",
+  "RuneQuality": 1,
+  "ArtificeEntry": 2,
+  "ArtificeTimes": 6,
+  "ArtificeItem": [
+   212
+  ],
+  "ArtificeItemNum": [
+   10
+  ],
+  "LevelMultiple": 100,
+  "InheritItems": [
+   212
+  ],
+  "InheritNum": [
+   15
+  ],
+  "BreakItem": [],
+  "BreakItemNum": [],
+  "RuneProfessions": [
+   11
+  ],
+  "RuneSkills": 10060,
+  "RuneSkillWeights": 100
+ },
+ {
+  "RuneID": 910061,
+  "RuneLevel": 0,
+  "RuneExp": 240,
+  "RuneIcon": "Icon_Gear_1",
+  "RuneQuality": 1,
+  "ArtificeEntry": 2,
+  "ArtificeTimes": 6,
+  "ArtificeItem": [
+   212
+  ],
+  "ArtificeItemNum": [
+   10
+  ],
+  "LevelMultiple": 100,
+  "InheritItems": [
+   212
+  ],
+  "InheritNum": [
+   15
+  ],
+  "BreakItem": [],
+  "BreakItemNum": [],
+  "RuneProfessions": [
+   12
+  ],
+  "RuneSkills": 10061,
+  "RuneSkillWeights": 100
+ },
+ {
+  "RuneID": 910062,
+  "RuneLevel": 0,
+  "RuneExp": 240,
+  "RuneIcon": "Icon_Gear_1",
+  "RuneQuality": 1,
+  "ArtificeEntry": 2,
+  "ArtificeTimes": 6,
+  "ArtificeItem": [
+   212
+  ],
+  "ArtificeItemNum": [
+   10
+  ],
+  "LevelMultiple": 100,
+  "InheritItems": [
+   212
+  ],
+  "InheritNum": [
+   15
+  ],
+  "BreakItem": [],
+  "BreakItemNum": [],
+  "RuneProfessions": [
+   13
+  ],
+  "RuneSkills": 10062,
+  "RuneSkillWeights": 100
+ },
+ {
+  "RuneID": 910063,
+  "RuneLevel": 0,
+  "RuneExp": 240,
+  "RuneIcon": "Icon_Gear_1",
+  "RuneQuality": 1,
+  "ArtificeEntry": 2,
+  "ArtificeTimes": 6,
+  "ArtificeItem": [
+   212
+  ],
+  "ArtificeItemNum": [
+   10
+  ],
+  "LevelMultiple": 100,
+  "InheritItems": [
+   212
+  ],
+  "InheritNum": [
+   15
+  ],
+  "BreakItem": [],
+  "BreakItemNum": [],
+  "RuneProfessions": [
+   14
+  ],
+  "RuneSkills": 10063,
+  "RuneSkillWeights": 100
+ },
+ {
+  "RuneID": 910064,
+  "RuneLevel": 0,
+  "RuneExp": 240,
+  "RuneIcon": "Icon_Gear_1",
+  "RuneQuality": 1,
+  "ArtificeEntry": 2,
+  "ArtificeTimes": 6,
+  "ArtificeItem": [
+   212
+  ],
+  "ArtificeItemNum": [
+   10
+  ],
+  "LevelMultiple": 100,
+  "InheritItems": [
+   212
+  ],
+  "InheritNum": [
+   15
+  ],
+  "BreakItem": [],
+  "BreakItemNum": [],
+  "RuneProfessions": [
+   1
+  ],
+  "RuneSkills": 10064,
+  "RuneSkillWeights": 100
+ },
+ {
+  "RuneID": 910065,
+  "RuneLevel": 0,
+  "RuneExp": 240,
+  "RuneIcon": "Icon_Gear_1",
+  "RuneQuality": 1,
+  "ArtificeEntry": 2,
+  "ArtificeTimes": 6,
+  "ArtificeItem": [
+   212
+  ],
+  "ArtificeItemNum": [
+   10
+  ],
+  "LevelMultiple": 100,
+  "InheritItems": [
+   212
+  ],
+  "InheritNum": [
+   15
+  ],
+  "BreakItem": [],
+  "BreakItemNum": [],
+  "RuneProfessions": [
+   1
+  ],
+  "RuneSkills": 10065,
+  "RuneSkillWeights": 100
+ },
+ {
+  "RuneID": 910066,
+  "RuneLevel": 0,
+  "RuneExp": 240,
+  "RuneIcon": "Icon_Gear_1",
+  "RuneQuality": 1,
+  "ArtificeEntry": 2,
+  "ArtificeTimes": 6,
+  "ArtificeItem": [
+   212
+  ],
+  "ArtificeItemNum": [
+   10
+  ],
+  "LevelMultiple": 100,
+  "InheritItems": [
+   212
+  ],
+  "InheritNum": [
+   15
+  ],
+  "BreakItem": [],
+  "BreakItemNum": [],
+  "RuneProfessions": [
+   1
+  ],
+  "RuneSkills": 10066,
+  "RuneSkillWeights": 100
+ },
+ {
+  "RuneID": 910067,
+  "RuneLevel": 0,
+  "RuneExp": 240,
+  "RuneIcon": "Icon_Gear_1",
+  "RuneQuality": 1,
+  "ArtificeEntry": 2,
+  "ArtificeTimes": 6,
+  "ArtificeItem": [
+   212
+  ],
+  "ArtificeItemNum": [
+   10
+  ],
+  "LevelMultiple": 100,
+  "InheritItems": [
+   212
+  ],
+  "InheritNum": [
+   15
+  ],
+  "BreakItem": [],
+  "BreakItemNum": [],
+  "RuneProfessions": [
+   4
+  ],
+  "RuneSkills": 10067,
+  "RuneSkillWeights": 100
+ },
+ {
+  "RuneID": 910068,
+  "RuneLevel": 0,
+  "RuneExp": 240,
+  "RuneIcon": "Icon_Gear_1",
+  "RuneQuality": 1,
+  "ArtificeEntry": 2,
+  "ArtificeTimes": 6,
+  "ArtificeItem": [
+   212
+  ],
+  "ArtificeItemNum": [
+   10
+  ],
+  "LevelMultiple": 100,
+  "InheritItems": [
+   212
+  ],
+  "InheritNum": [
+   15
+  ],
+  "BreakItem": [],
+  "BreakItemNum": [],
+  "RuneProfessions": [
+   4
+  ],
+  "RuneSkills": 10068,
+  "RuneSkillWeights": 100
+ },
+ {
+  "RuneID": 910069,
+  "RuneLevel": 0,
+  "RuneExp": 240,
+  "RuneIcon": "Icon_Gear_1",
+  "RuneQuality": 1,
+  "ArtificeEntry": 2,
+  "ArtificeTimes": 6,
+  "ArtificeItem": [
+   212
+  ],
+  "ArtificeItemNum": [
+   10
+  ],
+  "LevelMultiple": 100,
+  "InheritItems": [
+   212
+  ],
+  "InheritNum": [
+   15
+  ],
+  "BreakItem": [],
+  "BreakItemNum": [],
+  "RuneProfessions": [
+   4
+  ],
+  "RuneSkills": 10069,
+  "RuneSkillWeights": 100
+ },
+ {
+  "RuneID": 910070,
+  "RuneLevel": 0,
+  "RuneExp": 240,
+  "RuneIcon": "Icon_Gear_1",
+  "RuneQuality": 1,
+  "ArtificeEntry": 2,
+  "ArtificeTimes": 6,
+  "ArtificeItem": [
+   212
+  ],
+  "ArtificeItemNum": [
+   10
+  ],
+  "LevelMultiple": 100,
+  "InheritItems": [
+   212
+  ],
+  "InheritNum": [
+   15
+  ],
+  "BreakItem": [],
+  "BreakItemNum": [],
+  "RuneProfessions": [
+   7
+  ],
+  "RuneSkills": 10070,
+  "RuneSkillWeights": 100
+ },
+ {
+  "RuneID": 910071,
+  "RuneLevel": 0,
+  "RuneExp": 240,
+  "RuneIcon": "Icon_Gear_1",
+  "RuneQuality": 1,
+  "ArtificeEntry": 2,
+  "ArtificeTimes": 6,
+  "ArtificeItem": [
+   212
+  ],
+  "ArtificeItemNum": [
+   10
+  ],
+  "LevelMultiple": 100,
+  "InheritItems": [
+   212
+  ],
+  "InheritNum": [
+   15
+  ],
+  "BreakItem": [],
+  "BreakItemNum": [],
+  "RuneProfessions": [
+   7
+  ],
+  "RuneSkills": 10071,
+  "RuneSkillWeights": 100
+ },
+ {
+  "RuneID": 910072,
+  "RuneLevel": 0,
+  "RuneExp": 240,
+  "RuneIcon": "Icon_Gear_1",
+  "RuneQuality": 1,
+  "ArtificeEntry": 2,
+  "ArtificeTimes": 6,
+  "ArtificeItem": [
+   212
+  ],
+  "ArtificeItemNum": [
+   10
+  ],
+  "LevelMultiple": 100,
+  "InheritItems": [
+   212
+  ],
+  "InheritNum": [
+   15
+  ],
+  "BreakItem": [],
+  "BreakItemNum": [],
+  "RuneProfessions": [
+   7
+  ],
+  "RuneSkills": 10072,
+  "RuneSkillWeights": 100
+ },
+ {
+  "RuneID": 910073,
+  "RuneLevel": 0,
+  "RuneExp": 240,
+  "RuneIcon": "Icon_Gear_1",
+  "RuneQuality": 1,
+  "ArtificeEntry": 2,
+  "ArtificeTimes": 6,
+  "ArtificeItem": [
+   212
+  ],
+  "ArtificeItemNum": [
+   10
+  ],
+  "LevelMultiple": 100,
+  "InheritItems": [
+   212
+  ],
+  "InheritNum": [
+   15
+  ],
+  "BreakItem": [],
+  "BreakItemNum": [],
+  "RuneProfessions": [
+   6
+  ],
+  "RuneSkills": 10073,
+  "RuneSkillWeights": 100
+ },
+ {
+  "RuneID": 910074,
+  "RuneLevel": 0,
+  "RuneExp": 240,
+  "RuneIcon": "Icon_Gear_1",
+  "RuneQuality": 1,
+  "ArtificeEntry": 2,
+  "ArtificeTimes": 6,
+  "ArtificeItem": [
+   212
+  ],
+  "ArtificeItemNum": [
+   10
+  ],
+  "LevelMultiple": 100,
+  "InheritItems": [
+   212
+  ],
+  "InheritNum": [
+   15
+  ],
+  "BreakItem": [],
+  "BreakItemNum": [],
+  "RuneProfessions": [
+   6
+  ],
+  "RuneSkills": 10074,
+  "RuneSkillWeights": 100
+ },
+ {
+  "RuneID": 910075,
+  "RuneLevel": 0,
+  "RuneExp": 240,
+  "RuneIcon": "Icon_Gear_1",
+  "RuneQuality": 1,
+  "ArtificeEntry": 2,
+  "ArtificeTimes": 6,
+  "ArtificeItem": [
+   212
+  ],
+  "ArtificeItemNum": [
+   10
+  ],
+  "LevelMultiple": 100,
+  "InheritItems": [
+   212
+  ],
+  "InheritNum": [
+   15
+  ],
+  "BreakItem": [],
+  "BreakItemNum": [],
+  "RuneProfessions": [
+   6
+  ],
+  "RuneSkills": 10075,
+  "RuneSkillWeights": 100
+ },
+ {
+  "RuneID": 910076,
+  "RuneLevel": 0,
+  "RuneExp": 240,
+  "RuneIcon": "Icon_Gear_1",
+  "RuneQuality": 1,
+  "ArtificeEntry": 2,
+  "ArtificeTimes": 6,
+  "ArtificeItem": [
+   212
+  ],
+  "ArtificeItemNum": [
+   10
+  ],
+  "LevelMultiple": 100,
+  "InheritItems": [
+   212
+  ],
+  "InheritNum": [
+   15
+  ],
+  "BreakItem": [],
+  "BreakItemNum": [],
+  "RuneProfessions": [
+   3
+  ],
+  "RuneSkills": 10076,
+  "RuneSkillWeights": 100
+ },
+ {
+  "RuneID": 910077,
+  "RuneLevel": 0,
+  "RuneExp": 240,
+  "RuneIcon": "Icon_Gear_1",
+  "RuneQuality": 1,
+  "ArtificeEntry": 2,
+  "ArtificeTimes": 6,
+  "ArtificeItem": [
+   212
+  ],
+  "ArtificeItemNum": [
+   10
+  ],
+  "LevelMultiple": 100,
+  "InheritItems": [
+   212
+  ],
+  "InheritNum": [
+   15
+  ],
+  "BreakItem": [],
+  "BreakItemNum": [],
+  "RuneProfessions": [
+   3
+  ],
+  "RuneSkills": 10077,
+  "RuneSkillWeights": 100
+ },
+ {
+  "RuneID": 910078,
+  "RuneLevel": 0,
+  "RuneExp": 240,
+  "RuneIcon": "Icon_Gear_1",
+  "RuneQuality": 1,
+  "ArtificeEntry": 2,
+  "ArtificeTimes": 6,
+  "ArtificeItem": [
+   212
+  ],
+  "ArtificeItemNum": [
+   10
+  ],
+  "LevelMultiple": 100,
+  "InheritItems": [
+   212
+  ],
+  "InheritNum": [
+   15
+  ],
+  "BreakItem": [],
+  "BreakItemNum": [],
+  "RuneProfessions": [
+   3
+  ],
+  "RuneSkills": 10078,
+  "RuneSkillWeights": 100
+ },
+ {
+  "RuneID": 910079,
+  "RuneLevel": 0,
+  "RuneExp": 240,
+  "RuneIcon": "Icon_Gear_1",
+  "RuneQuality": 1,
+  "ArtificeEntry": 2,
+  "ArtificeTimes": 6,
+  "ArtificeItem": [
+   212
+  ],
+  "ArtificeItemNum": [
+   10
+  ],
+  "LevelMultiple": 100,
+  "InheritItems": [
+   212
+  ],
+  "InheritNum": [
+   15
+  ],
+  "BreakItem": [],
+  "BreakItemNum": [],
+  "RuneProfessions": [
+   15
+  ],
+  "RuneSkills": 10079,
+  "RuneSkillWeights": 100
+ },
+ {
+  "RuneID": 910080,
+  "RuneLevel": 0,
+  "RuneExp": 240,
+  "RuneIcon": "Icon_Gear_1",
+  "RuneQuality": 1,
+  "ArtificeEntry": 2,
+  "ArtificeTimes": 6,
+  "ArtificeItem": [
+   212
+  ],
+  "ArtificeItemNum": [
+   10
+  ],
+  "LevelMultiple": 100,
+  "InheritItems": [
+   212
+  ],
+  "InheritNum": [
+   15
+  ],
+  "BreakItem": [],
+  "BreakItemNum": [],
+  "RuneProfessions": [
+   15
+  ],
+  "RuneSkills": 10080,
+  "RuneSkillWeights": 100
+ },
+ {
+  "RuneID": 910081,
+  "RuneLevel": 0,
+  "RuneExp": 240,
+  "RuneIcon": "Icon_Gear_1",
+  "RuneQuality": 1,
+  "ArtificeEntry": 2,
+  "ArtificeTimes": 6,
+  "ArtificeItem": [
+   212
+  ],
+  "ArtificeItemNum": [
+   10
+  ],
+  "LevelMultiple": 100,
+  "InheritItems": [
+   212
+  ],
+  "InheritNum": [
+   15
+  ],
+  "BreakItem": [],
+  "BreakItemNum": [],
+  "RuneProfessions": [
+   15
+  ],
+  "RuneSkills": 10081,
+  "RuneSkillWeights": 100
+ },
+ {
+  "RuneID": 920001,
+  "RuneLevel": 0,
+  "RuneExp": 540,
+  "RuneIcon": "Icon_Gear_2",
+  "RuneQuality": 2,
+  "ArtificeEntry": 3,
+  "ArtificeTimes": 9,
+  "ArtificeItem": [
+   212
+  ],
+  "ArtificeItemNum": [
+   10
+  ],
+  "LevelMultiple": 100,
+  "InheritItems": [
+   212
+  ],
+  "InheritNum": [
+   15
+  ],
+  "BreakItem": [],
+  "BreakItemNum": [],
+  "RuneProfessions": [
+   8,
+   15
+  ],
+  "RuneSkills": 20001,
+  "RuneSkillWeights": 100
+ },
+ {
+  "RuneID": 920002,
+  "RuneLevel": 0,
+  "RuneExp": 540,
+  "RuneIcon": "Icon_Gear_2",
+  "RuneQuality": 2,
+  "ArtificeEntry": 3,
+  "ArtificeTimes": 9,
+  "ArtificeItem": [
+   212
+  ],
+  "ArtificeItemNum": [
+   10
+  ],
+  "LevelMultiple": 100,
+  "InheritItems": [
+   212
+  ],
+  "InheritNum": [
+   15
+  ],
+  "BreakItem": [],
+  "BreakItemNum": [],
+  "RuneProfessions": [
+   8
+  ],
+  "RuneSkills": 20002,
+  "RuneSkillWeights": 100
+ },
+ {
+  "RuneID": 920003,
+  "RuneLevel": 0,
+  "RuneExp": 540,
+  "RuneIcon": "Icon_Gear_2",
+  "RuneQuality": 2,
+  "ArtificeEntry": 3,
+  "ArtificeTimes": 9,
+  "ArtificeItem": [
+   212
+  ],
+  "ArtificeItemNum": [
+   10
+  ],
+  "LevelMultiple": 100,
+  "InheritItems": [
+   212
+  ],
+  "InheritNum": [
+   15
+  ],
+  "BreakItem": [],
+  "BreakItemNum": [],
+  "RuneProfessions": [
+   9
+  ],
+  "RuneSkills": 20003,
+  "RuneSkillWeights": 100
+ },
+ {
+  "RuneID": 920004,
+  "RuneLevel": 0,
+  "RuneExp": 540,
+  "RuneIcon": "Icon_Gear_2",
+  "RuneQuality": 2,
+  "ArtificeEntry": 3,
+  "ArtificeTimes": 9,
+  "ArtificeItem": [
+   212
+  ],
+  "ArtificeItemNum": [
+   10
+  ],
+  "LevelMultiple": 100,
+  "InheritItems": [
+   212
+  ],
+  "InheritNum": [
+   15
+  ],
+  "BreakItem": [],
+  "BreakItemNum": [],
+  "RuneProfessions": [
+   9
+  ],
+  "RuneSkills": 20004,
+  "RuneSkillWeights": 100
+ },
+ {
+  "RuneID": 920005,
+  "RuneLevel": 0,
+  "RuneExp": 540,
+  "RuneIcon": "Icon_Gear_2",
+  "RuneQuality": 2,
+  "ArtificeEntry": 3,
+  "ArtificeTimes": 9,
+  "ArtificeItem": [
+   212
+  ],
+  "ArtificeItemNum": [
+   10
+  ],
+  "LevelMultiple": 100,
+  "InheritItems": [
+   212
+  ],
+  "InheritNum": [
+   15
+  ],
+  "BreakItem": [],
+  "BreakItemNum": [],
+  "RuneProfessions": [
+   10
+  ],
+  "RuneSkills": 20005,
+  "RuneSkillWeights": 100
+ },
+ {
+  "RuneID": 920006,
+  "RuneLevel": 0,
+  "RuneExp": 540,
+  "RuneIcon": "Icon_Gear_2",
+  "RuneQuality": 2,
+  "ArtificeEntry": 3,
+  "ArtificeTimes": 9,
+  "ArtificeItem": [
+   212
+  ],
+  "ArtificeItemNum": [
+   10
+  ],
+  "LevelMultiple": 100,
+  "InheritItems": [
+   212
+  ],
+  "InheritNum": [
+   15
+  ],
+  "BreakItem": [],
+  "BreakItemNum": [],
+  "RuneProfessions": [
+   10
+  ],
+  "RuneSkills": 20006,
+  "RuneSkillWeights": 100
+ },
+ {
+  "RuneID": 920007,
+  "RuneLevel": 0,
+  "RuneExp": 540,
+  "RuneIcon": "Icon_Gear_2",
+  "RuneQuality": 2,
+  "ArtificeEntry": 3,
+  "ArtificeTimes": 9,
+  "ArtificeItem": [
+   212
+  ],
+  "ArtificeItemNum": [
+   10
+  ],
+  "LevelMultiple": 100,
+  "InheritItems": [
+   212
+  ],
+  "InheritNum": [
+   15
+  ],
+  "BreakItem": [],
+  "BreakItemNum": [],
+  "RuneProfessions": [
+   11
+  ],
+  "RuneSkills": 20007,
+  "RuneSkillWeights": 100
+ },
+ {
+  "RuneID": 920008,
+  "RuneLevel": 0,
+  "RuneExp": 540,
+  "RuneIcon": "Icon_Gear_2",
+  "RuneQuality": 2,
+  "ArtificeEntry": 3,
+  "ArtificeTimes": 9,
+  "ArtificeItem": [
+   212
+  ],
+  "ArtificeItemNum": [
+   10
+  ],
+  "LevelMultiple": 100,
+  "InheritItems": [
+   212
+  ],
+  "InheritNum": [
+   15
+  ],
+  "BreakItem": [],
+  "BreakItemNum": [],
+  "RuneProfessions": [
+   11
+  ],
+  "RuneSkills": 20008,
+  "RuneSkillWeights": 100
+ },
+ {
+  "RuneID": 920009,
+  "RuneLevel": 0,
+  "RuneExp": 540,
+  "RuneIcon": "Icon_Gear_2",
+  "RuneQuality": 2,
+  "ArtificeEntry": 3,
+  "ArtificeTimes": 9,
+  "ArtificeItem": [
+   212
+  ],
+  "ArtificeItemNum": [
+   10
+  ],
+  "LevelMultiple": 100,
+  "InheritItems": [
+   212
+  ],
+  "InheritNum": [
+   15
+  ],
+  "BreakItem": [],
+  "BreakItemNum": [],
+  "RuneProfessions": [
+   12
+  ],
+  "RuneSkills": 20009,
+  "RuneSkillWeights": 100
+ },
+ {
+  "RuneID": 920010,
+  "RuneLevel": 0,
+  "RuneExp": 540,
+  "RuneIcon": "Icon_Gear_2",
+  "RuneQuality": 2,
+  "ArtificeEntry": 3,
+  "ArtificeTimes": 9,
+  "ArtificeItem": [
+   212
+  ],
+  "ArtificeItemNum": [
+   10
+  ],
+  "LevelMultiple": 100,
+  "InheritItems": [
+   212
+  ],
+  "InheritNum": [
+   15
+  ],
+  "BreakItem": [],
+  "BreakItemNum": [],
+  "RuneProfessions": [
+   12
+  ],
+  "RuneSkills": 20010,
+  "RuneSkillWeights": 100
+ },
+ {
+  "RuneID": 920011,
+  "RuneLevel": 0,
+  "RuneExp": 540,
+  "RuneIcon": "Icon_Gear_2",
+  "RuneQuality": 2,
+  "ArtificeEntry": 3,
+  "ArtificeTimes": 9,
+  "ArtificeItem": [
+   212
+  ],
+  "ArtificeItemNum": [
+   10
+  ],
+  "LevelMultiple": 100,
+  "InheritItems": [
+   212
+  ],
+  "InheritNum": [
+   15
+  ],
+  "BreakItem": [],
+  "BreakItemNum": [],
+  "RuneProfessions": [
+   13
+  ],
+  "RuneSkills": 20011,
+  "RuneSkillWeights": 100
+ },
+ {
+  "RuneID": 920012,
+  "RuneLevel": 0,
+  "RuneExp": 540,
+  "RuneIcon": "Icon_Gear_2",
+  "RuneQuality": 2,
+  "ArtificeEntry": 3,
+  "ArtificeTimes": 9,
+  "ArtificeItem": [
+   212
+  ],
+  "ArtificeItemNum": [
+   10
+  ],
+  "LevelMultiple": 100,
+  "InheritItems": [
+   212
+  ],
+  "InheritNum": [
+   15
+  ],
+  "BreakItem": [],
+  "BreakItemNum": [],
+  "RuneProfessions": [
+   13
+  ],
+  "RuneSkills": 20012,
+  "RuneSkillWeights": 100
+ },
+ {
+  "RuneID": 920013,
+  "RuneLevel": 0,
+  "RuneExp": 540,
+  "RuneIcon": "Icon_Gear_2",
+  "RuneQuality": 2,
+  "ArtificeEntry": 3,
+  "ArtificeTimes": 9,
+  "ArtificeItem": [
+   212
+  ],
+  "ArtificeItemNum": [
+   10
+  ],
+  "LevelMultiple": 100,
+  "InheritItems": [
+   212
+  ],
+  "InheritNum": [
+   15
+  ],
+  "BreakItem": [],
+  "BreakItemNum": [],
+  "RuneProfessions": [
+   16
+  ],
+  "RuneSkills": 20013,
+  "RuneSkillWeights": 100
+ },
+ {
+  "RuneID": 920014,
+  "RuneLevel": 0,
+  "RuneExp": 540,
+  "RuneIcon": "Icon_Gear_2",
+  "RuneQuality": 2,
+  "ArtificeEntry": 3,
+  "ArtificeTimes": 9,
+  "ArtificeItem": [
+   212
+  ],
+  "ArtificeItemNum": [
+   10
+  ],
+  "LevelMultiple": 100,
+  "InheritItems": [
+   212
+  ],
+  "InheritNum": [
+   15
+  ],
+  "BreakItem": [],
+  "BreakItemNum": [],
+  "RuneProfessions": [
+   16
+  ],
+  "RuneSkills": 20014,
+  "RuneSkillWeights": 100
+ },
+ {
+  "RuneID": 920015,
+  "RuneLevel": 0,
+  "RuneExp": 540,
+  "RuneIcon": "Icon_Gear_2",
+  "RuneQuality": 2,
+  "ArtificeEntry": 3,
+  "ArtificeTimes": 9,
+  "ArtificeItem": [
+   212
+  ],
+  "ArtificeItemNum": [
+   10
+  ],
+  "LevelMultiple": 100,
+  "InheritItems": [
+   212
+  ],
+  "InheritNum": [
+   15
+  ],
+  "BreakItem": [],
+  "BreakItemNum": [],
+  "RuneProfessions": [
+   14
+  ],
+  "RuneSkills": 20015,
+  "RuneSkillWeights": 100
+ },
+ {
+  "RuneID": 920016,
+  "RuneLevel": 0,
+  "RuneExp": 540,
+  "RuneIcon": "Icon_Gear_2",
+  "RuneQuality": 2,
+  "ArtificeEntry": 3,
+  "ArtificeTimes": 9,
+  "ArtificeItem": [
+   212
+  ],
+  "ArtificeItemNum": [
+   10
+  ],
+  "LevelMultiple": 100,
+  "InheritItems": [
+   212
+  ],
+  "InheritNum": [
+   15
+  ],
+  "BreakItem": [],
+  "BreakItemNum": [],
+  "RuneProfessions": [
+   14
+  ],
+  "RuneSkills": 20016,
+  "RuneSkillWeights": 100
+ },
+ {
+  "RuneID": 920017,
+  "RuneLevel": 0,
+  "RuneExp": 540,
+  "RuneIcon": "Icon_Gear_2",
+  "RuneQuality": 2,
+  "ArtificeEntry": 3,
+  "ArtificeTimes": 9,
+  "ArtificeItem": [
+   212
+  ],
+  "ArtificeItemNum": [
+   10
+  ],
+  "LevelMultiple": 100,
+  "InheritItems": [
+   212
+  ],
+  "InheritNum": [
+   15
+  ],
+  "BreakItem": [],
+  "BreakItemNum": [],
+  "RuneProfessions": [
+   5
+  ],
+  "RuneSkills": 20017,
+  "RuneSkillWeights": 100
+ },
+ {
+  "RuneID": 920018,
+  "RuneLevel": 0,
+  "RuneExp": 540,
+  "RuneIcon": "Icon_Gear_2",
+  "RuneQuality": 2,
+  "ArtificeEntry": 3,
+  "ArtificeTimes": 9,
+  "ArtificeItem": [
+   212
+  ],
+  "ArtificeItemNum": [
+   10
+  ],
+  "LevelMultiple": 100,
+  "InheritItems": [
+   212
+  ],
+  "InheritNum": [
+   15
+  ],
+  "BreakItem": [],
+  "BreakItemNum": [],
+  "RuneProfessions": [
+   5
+  ],
+  "RuneSkills": 20018,
+  "RuneSkillWeights": 100
+ },
+ {
+  "RuneID": 920019,
+  "RuneLevel": 0,
+  "RuneExp": 540,
+  "RuneIcon": "Icon_Gear_2",
+  "RuneQuality": 2,
+  "ArtificeEntry": 3,
+  "ArtificeTimes": 9,
+  "ArtificeItem": [
+   212
+  ],
+  "ArtificeItemNum": [
+   10
+  ],
+  "LevelMultiple": 100,
+  "InheritItems": [
+   212
+  ],
+  "InheritNum": [
+   15
+  ],
+  "BreakItem": [],
+  "BreakItemNum": [],
+  "RuneProfessions": [
+   2
+  ],
+  "RuneSkills": 20019,
+  "RuneSkillWeights": 100
+ },
+ {
+  "RuneID": 920020,
+  "RuneLevel": 0,
+  "RuneExp": 540,
+  "RuneIcon": "Icon_Gear_2",
+  "RuneQuality": 2,
+  "ArtificeEntry": 3,
+  "ArtificeTimes": 9,
+  "ArtificeItem": [
+   212
+  ],
+  "ArtificeItemNum": [
+   10
+  ],
+  "LevelMultiple": 100,
+  "InheritItems": [
+   212
+  ],
+  "InheritNum": [
+   15
+  ],
+  "BreakItem": [],
+  "BreakItemNum": [],
+  "RuneProfessions": [
+   2
+  ],
+  "RuneSkills": 20020,
+  "RuneSkillWeights": 100
+ },
+ {
+  "RuneID": 920021,
+  "RuneLevel": 0,
+  "RuneExp": 540,
+  "RuneIcon": "Icon_Gear_2",
+  "RuneQuality": 2,
+  "ArtificeEntry": 3,
+  "ArtificeTimes": 9,
+  "ArtificeItem": [
+   212
+  ],
+  "ArtificeItemNum": [
+   10
+  ],
+  "LevelMultiple": 100,
+  "InheritItems": [
+   212
+  ],
+  "InheritNum": [
+   15
+  ],
+  "BreakItem": [],
+  "BreakItemNum": [],
+  "RuneProfessions": [
+   2
+  ],
+  "RuneSkills": 20021,
+  "RuneSkillWeights": 100
+ },
+ {
+  "RuneID": 920022,
+  "RuneLevel": 0,
+  "RuneExp": 540,
+  "RuneIcon": "Icon_Gear_2",
+  "RuneQuality": 2,
+  "ArtificeEntry": 3,
+  "ArtificeTimes": 9,
+  "ArtificeItem": [
+   212
+  ],
+  "ArtificeItemNum": [
+   10
+  ],
+  "LevelMultiple": 100,
+  "InheritItems": [
+   212
+  ],
+  "InheritNum": [
+   15
+  ],
+  "BreakItem": [],
+  "BreakItemNum": [],
+  "RuneProfessions": [
+   1
+  ],
+  "RuneSkills": 20022,
+  "RuneSkillWeights": 100
+ },
+ {
+  "RuneID": 920023,
+  "RuneLevel": 0,
+  "RuneExp": 540,
+  "RuneIcon": "Icon_Gear_2",
+  "RuneQuality": 2,
+  "ArtificeEntry": 3,
+  "ArtificeTimes": 9,
+  "ArtificeItem": [
+   212
+  ],
+  "ArtificeItemNum": [
+   10
+  ],
+  "LevelMultiple": 100,
+  "InheritItems": [
+   212
+  ],
+  "InheritNum": [
+   15
+  ],
+  "BreakItem": [],
+  "BreakItemNum": [],
+  "RuneProfessions": [
+   1
+  ],
+  "RuneSkills": 20023,
+  "RuneSkillWeights": 100
+ },
+ {
+  "RuneID": 920024,
+  "RuneLevel": 0,
+  "RuneExp": 540,
+  "RuneIcon": "Icon_Gear_2",
+  "RuneQuality": 2,
+  "ArtificeEntry": 3,
+  "ArtificeTimes": 9,
+  "ArtificeItem": [
+   212
+  ],
+  "ArtificeItemNum": [
+   10
+  ],
+  "LevelMultiple": 100,
+  "InheritItems": [
+   212
+  ],
+  "InheritNum": [
+   15
+  ],
+  "BreakItem": [],
+  "BreakItemNum": [],
+  "RuneProfessions": [
+   1
+  ],
+  "RuneSkills": 20024,
+  "RuneSkillWeights": 100
+ },
+ {
+  "RuneID": 920025,
+  "RuneLevel": 0,
+  "RuneExp": 540,
+  "RuneIcon": "Icon_Gear_2",
+  "RuneQuality": 2,
+  "ArtificeEntry": 3,
+  "ArtificeTimes": 9,
+  "ArtificeItem": [
+   212
+  ],
+  "ArtificeItemNum": [
+   10
+  ],
+  "LevelMultiple": 100,
+  "InheritItems": [
+   212
+  ],
+  "InheritNum": [
+   15
+  ],
+  "BreakItem": [],
+  "BreakItemNum": [],
+  "RuneProfessions": [
+   4
+  ],
+  "RuneSkills": 20025,
+  "RuneSkillWeights": 100
+ },
+ {
+  "RuneID": 920026,
+  "RuneLevel": 0,
+  "RuneExp": 240,
+  "RuneIcon": "Icon_Gear_1",
+  "RuneQuality": 1,
+  "ArtificeEntry": 2,
+  "ArtificeTimes": 6,
+  "ArtificeItem": [
+   212
+  ],
+  "ArtificeItemNum": [
+   10
+  ],
+  "LevelMultiple": 100,
+  "InheritItems": [
+   212
+  ],
+  "InheritNum": [
+   15
+  ],
+  "BreakItem": [],
+  "BreakItemNum": [],
+  "RuneProfessions": [
+   4
+  ],
+  "RuneSkills": 20026,
+  "RuneSkillWeights": 100
+ },
+ {
+  "RuneID": 920027,
+  "RuneLevel": 0,
+  "RuneExp": 540,
+  "RuneIcon": "Icon_Gear_2",
+  "RuneQuality": 2,
+  "ArtificeEntry": 3,
+  "ArtificeTimes": 9,
+  "ArtificeItem": [
+   212
+  ],
+  "ArtificeItemNum": [
+   10
+  ],
+  "LevelMultiple": 100,
+  "InheritItems": [
+   212
+  ],
+  "InheritNum": [
+   15
+  ],
+  "BreakItem": [],
+  "BreakItemNum": [],
+  "RuneProfessions": [
+   4
+  ],
+  "RuneSkills": 20027,
+  "RuneSkillWeights": 100
+ },
+ {
+  "RuneID": 920028,
+  "RuneLevel": 0,
+  "RuneExp": 540,
+  "RuneIcon": "Icon_Gear_2",
+  "RuneQuality": 2,
+  "ArtificeEntry": 3,
+  "ArtificeTimes": 9,
+  "ArtificeItem": [
+   212
+  ],
+  "ArtificeItemNum": [
+   10
+  ],
+  "LevelMultiple": 100,
+  "InheritItems": [
+   212
+  ],
+  "InheritNum": [
+   15
+  ],
+  "BreakItem": [],
+  "BreakItemNum": [],
+  "RuneProfessions": [
+   7
+  ],
+  "RuneSkills": 20028,
+  "RuneSkillWeights": 100
+ },
+ {
+  "RuneID": 920029,
+  "RuneLevel": 0,
+  "RuneExp": 540,
+  "RuneIcon": "Icon_Gear_2",
+  "RuneQuality": 2,
+  "ArtificeEntry": 3,
+  "ArtificeTimes": 9,
+  "ArtificeItem": [
+   212
+  ],
+  "ArtificeItemNum": [
+   10
+  ],
+  "LevelMultiple": 100,
+  "InheritItems": [
+   212
+  ],
+  "InheritNum": [
+   15
+  ],
+  "BreakItem": [],
+  "BreakItemNum": [],
+  "RuneProfessions": [
+   7
+  ],
+  "RuneSkills": 20029,
+  "RuneSkillWeights": 100
+ },
+ {
+  "RuneID": 920030,
+  "RuneLevel": 0,
+  "RuneExp": 540,
+  "RuneIcon": "Icon_Gear_2",
+  "RuneQuality": 2,
+  "ArtificeEntry": 3,
+  "ArtificeTimes": 9,
+  "ArtificeItem": [
+   212
+  ],
+  "ArtificeItemNum": [
+   10
+  ],
+  "LevelMultiple": 100,
+  "InheritItems": [
+   212
+  ],
+  "InheritNum": [
+   15
+  ],
+  "BreakItem": [],
+  "BreakItemNum": [],
+  "RuneProfessions": [
+   7
+  ],
+  "RuneSkills": 20030,
+  "RuneSkillWeights": 100
+ },
+ {
+  "RuneID": 920031,
+  "RuneLevel": 0,
+  "RuneExp": 540,
+  "RuneIcon": "Icon_Gear_2",
+  "RuneQuality": 2,
+  "ArtificeEntry": 3,
+  "ArtificeTimes": 9,
+  "ArtificeItem": [
+   212
+  ],
+  "ArtificeItemNum": [
+   10
+  ],
+  "LevelMultiple": 100,
+  "InheritItems": [
+   212
+  ],
+  "InheritNum": [
+   15
+  ],
+  "BreakItem": [],
+  "BreakItemNum": [],
+  "RuneProfessions": [
+   6
+  ],
+  "RuneSkills": 20031,
+  "RuneSkillWeights": 100
+ },
+ {
+  "RuneID": 920032,
+  "RuneLevel": 0,
+  "RuneExp": 540,
+  "RuneIcon": "Icon_Gear_2",
+  "RuneQuality": 2,
+  "ArtificeEntry": 3,
+  "ArtificeTimes": 9,
+  "ArtificeItem": [
+   212
+  ],
+  "ArtificeItemNum": [
+   10
+  ],
+  "LevelMultiple": 100,
+  "InheritItems": [
+   212
+  ],
+  "InheritNum": [
+   15
+  ],
+  "BreakItem": [],
+  "BreakItemNum": [],
+  "RuneProfessions": [
+   6
+  ],
+  "RuneSkills": 20032,
+  "RuneSkillWeights": 100
+ },
+ {
+  "RuneID": 920033,
+  "RuneLevel": 0,
+  "RuneExp": 540,
+  "RuneIcon": "Icon_Gear_2",
+  "RuneQuality": 2,
+  "ArtificeEntry": 3,
+  "ArtificeTimes": 9,
+  "ArtificeItem": [
+   212
+  ],
+  "ArtificeItemNum": [
+   10
+  ],
+  "LevelMultiple": 100,
+  "InheritItems": [
+   212
+  ],
+  "InheritNum": [
+   15
+  ],
+  "BreakItem": [],
+  "BreakItemNum": [],
+  "RuneProfessions": [
+   6
+  ],
+  "RuneSkills": 20033,
+  "RuneSkillWeights": 100
+ },
+ {
+  "RuneID": 920034,
+  "RuneLevel": 0,
+  "RuneExp": 540,
+  "RuneIcon": "Icon_Gear_2",
+  "RuneQuality": 2,
+  "ArtificeEntry": 3,
+  "ArtificeTimes": 9,
+  "ArtificeItem": [
+   212
+  ],
+  "ArtificeItemNum": [
+   10
+  ],
+  "LevelMultiple": 100,
+  "InheritItems": [
+   212
+  ],
+  "InheritNum": [
+   15
+  ],
+  "BreakItem": [],
+  "BreakItemNum": [],
+  "RuneProfessions": [
+   3
+  ],
+  "RuneSkills": 20034,
+  "RuneSkillWeights": 100
+ },
+ {
+  "RuneID": 920035,
+  "RuneLevel": 0,
+  "RuneExp": 540,
+  "RuneIcon": "Icon_Gear_2",
+  "RuneQuality": 2,
+  "ArtificeEntry": 3,
+  "ArtificeTimes": 9,
+  "ArtificeItem": [
+   212
+  ],
+  "ArtificeItemNum": [
+   10
+  ],
+  "LevelMultiple": 100,
+  "InheritItems": [
+   212
+  ],
+  "InheritNum": [
+   15
+  ],
+  "BreakItem": [],
+  "BreakItemNum": [],
+  "RuneProfessions": [
+   3
+  ],
+  "RuneSkills": 20035,
+  "RuneSkillWeights": 100
+ },
+ {
+  "RuneID": 920036,
+  "RuneLevel": 0,
+  "RuneExp": 540,
+  "RuneIcon": "Icon_Gear_2",
+  "RuneQuality": 2,
+  "ArtificeEntry": 3,
+  "ArtificeTimes": 9,
+  "ArtificeItem": [
+   212
+  ],
+  "ArtificeItemNum": [
+   10
+  ],
+  "LevelMultiple": 100,
+  "InheritItems": [
+   212
+  ],
+  "InheritNum": [
+   15
+  ],
+  "BreakItem": [],
+  "BreakItemNum": [],
+  "RuneProfessions": [
+   3
+  ],
+  "RuneSkills": 20036,
+  "RuneSkillWeights": 100
+ },
+ {
+  "RuneID": 920037,
+  "RuneLevel": 0,
+  "RuneExp": 540,
+  "RuneIcon": "Icon_Gear_2",
+  "RuneQuality": 2,
+  "ArtificeEntry": 3,
+  "ArtificeTimes": 9,
+  "ArtificeItem": [
+   212
+  ],
+  "ArtificeItemNum": [
+   10
+  ],
+  "LevelMultiple": 100,
+  "InheritItems": [
+   212
+  ],
+  "InheritNum": [
+   15
+  ],
+  "BreakItem": [],
+  "BreakItemNum": [],
+  "RuneProfessions": [
+   8
+  ],
+  "RuneSkills": 20037,
+  "RuneSkillWeights": 100
+ },
+ {
+  "RuneID": 920038,
+  "RuneLevel": 0,
+  "RuneExp": 540,
+  "RuneIcon": "Icon_Gear_2",
+  "RuneQuality": 2,
+  "ArtificeEntry": 3,
+  "ArtificeTimes": 9,
+  "ArtificeItem": [
+   212
+  ],
+  "ArtificeItemNum": [
+   10
+  ],
+  "LevelMultiple": 100,
+  "InheritItems": [
+   212
+  ],
+  "InheritNum": [
+   15
+  ],
+  "BreakItem": [],
+  "BreakItemNum": [],
+  "RuneProfessions": [
+   8
+  ],
+  "RuneSkills": 20038,
+  "RuneSkillWeights": 100
+ },
+ {
+  "RuneID": 920039,
+  "RuneLevel": 0,
+  "RuneExp": 540,
+  "RuneIcon": "Icon_Gear_2",
+  "RuneQuality": 2,
+  "ArtificeEntry": 3,
+  "ArtificeTimes": 9,
+  "ArtificeItem": [
+   212
+  ],
+  "ArtificeItemNum": [
+   10
+  ],
+  "LevelMultiple": 100,
+  "InheritItems": [
+   212
+  ],
+  "InheritNum": [
+   15
+  ],
+  "BreakItem": [],
+  "BreakItemNum": [],
+  "RuneProfessions": [
+   8,
+   9
+  ],
+  "RuneSkills": 20039,
+  "RuneSkillWeights": 100
+ },
+ {
+  "RuneID": 920041,
+  "RuneLevel": 0,
+  "RuneExp": 540,
+  "RuneIcon": "Icon_Gear_2",
+  "RuneQuality": 2,
+  "ArtificeEntry": 3,
+  "ArtificeTimes": 9,
+  "ArtificeItem": [
+   212
+  ],
+  "ArtificeItemNum": [
+   10
+  ],
+  "LevelMultiple": 100,
+  "InheritItems": [
+   212
+  ],
+  "InheritNum": [
+   15
+  ],
+  "BreakItem": [],
+  "BreakItemNum": [],
+  "RuneProfessions": [
+   9,
+   14
+  ],
+  "RuneSkills": 20041,
+  "RuneSkillWeights": 100
+ },
+ {
+  "RuneID": 920042,
+  "RuneLevel": 0,
+  "RuneExp": 540,
+  "RuneIcon": "Icon_Gear_2",
+  "RuneQuality": 2,
+  "ArtificeEntry": 3,
+  "ArtificeTimes": 9,
+  "ArtificeItem": [
+   212
+  ],
+  "ArtificeItemNum": [
+   10
+  ],
+  "LevelMultiple": 100,
+  "InheritItems": [
+   212
+  ],
+  "InheritNum": [
+   15
+  ],
+  "BreakItem": [],
+  "BreakItemNum": [],
+  "RuneProfessions": [
+   10,
+   8
+  ],
+  "RuneSkills": 20042,
+  "RuneSkillWeights": 100
+ },
+ {
+  "RuneID": 920043,
+  "RuneLevel": 0,
+  "RuneExp": 540,
+  "RuneIcon": "Icon_Gear_2",
+  "RuneQuality": 2,
+  "ArtificeEntry": 3,
+  "ArtificeTimes": 9,
+  "ArtificeItem": [
+   212
+  ],
+  "ArtificeItemNum": [
+   10
+  ],
+  "LevelMultiple": 100,
+  "InheritItems": [
+   212
+  ],
+  "InheritNum": [
+   15
+  ],
+  "BreakItem": [],
+  "BreakItemNum": [],
+  "RuneProfessions": [
+   10
+  ],
+  "RuneSkills": 20043,
+  "RuneSkillWeights": 100
+ },
+ {
+  "RuneID": 920045,
+  "RuneLevel": 0,
+  "RuneExp": 540,
+  "RuneIcon": "Icon_Gear_2",
+  "RuneQuality": 2,
+  "ArtificeEntry": 3,
+  "ArtificeTimes": 9,
+  "ArtificeItem": [
+   212
+  ],
+  "ArtificeItemNum": [
+   10
+  ],
+  "LevelMultiple": 100,
+  "InheritItems": [
+   212
+  ],
+  "InheritNum": [
+   15
+  ],
+  "BreakItem": [],
+  "BreakItemNum": [],
+  "RuneProfessions": [
+   11
+  ],
+  "RuneSkills": 20045,
+  "RuneSkillWeights": 100
+ },
+ {
+  "RuneID": 920048,
+  "RuneLevel": 0,
+  "RuneExp": 540,
+  "RuneIcon": "Icon_Gear_2",
+  "RuneQuality": 2,
+  "ArtificeEntry": 3,
+  "ArtificeTimes": 9,
+  "ArtificeItem": [
+   212
+  ],
+  "ArtificeItemNum": [
+   10
+  ],
+  "LevelMultiple": 100,
+  "InheritItems": [
+   212
+  ],
+  "InheritNum": [
+   15
+  ],
+  "BreakItem": [],
+  "BreakItemNum": [],
+  "RuneProfessions": [
+   13
+  ],
+  "RuneSkills": 20048,
+  "RuneSkillWeights": 100
+ },
+ {
+  "RuneID": 920049,
+  "RuneLevel": 0,
+  "RuneExp": 540,
+  "RuneIcon": "Icon_Gear_2",
+  "RuneQuality": 2,
+  "ArtificeEntry": 3,
+  "ArtificeTimes": 9,
+  "ArtificeItem": [
+   212
+  ],
+  "ArtificeItemNum": [
+   10
+  ],
+  "LevelMultiple": 100,
+  "InheritItems": [
+   212
+  ],
+  "InheritNum": [
+   15
+  ],
+  "BreakItem": [],
+  "BreakItemNum": [],
+  "RuneProfessions": [
+   13,
+   10
+  ],
+  "RuneSkills": 20049,
+  "RuneSkillWeights": 100
+ },
+ {
+  "RuneID": 920050,
+  "RuneLevel": 0,
+  "RuneExp": 540,
+  "RuneIcon": "Icon_Gear_2",
+  "RuneQuality": 2,
+  "ArtificeEntry": 3,
+  "ArtificeTimes": 9,
+  "ArtificeItem": [
+   212
+  ],
+  "ArtificeItemNum": [
+   10
+  ],
+  "LevelMultiple": 100,
+  "InheritItems": [
+   212
+  ],
+  "InheritNum": [
+   15
+  ],
+  "BreakItem": [],
+  "BreakItemNum": [],
+  "RuneProfessions": [
+   13
+  ],
+  "RuneSkills": 20050,
+  "RuneSkillWeights": 100
+ },
+ {
+  "RuneID": 920052,
+  "RuneLevel": 0,
+  "RuneExp": 540,
+  "RuneIcon": "Icon_Gear_2",
+  "RuneQuality": 2,
+  "ArtificeEntry": 3,
+  "ArtificeTimes": 9,
+  "ArtificeItem": [
+   212
+  ],
+  "ArtificeItemNum": [
+   10
+  ],
+  "LevelMultiple": 100,
+  "InheritItems": [
+   212
+  ],
+  "InheritNum": [
+   15
+  ],
+  "BreakItem": [],
+  "BreakItemNum": [],
+  "RuneProfessions": [
+   16
+  ],
+  "RuneSkills": 20052,
+  "RuneSkillWeights": 100
+ },
+ {
+  "RuneID": 920054,
+  "RuneLevel": 0,
+  "RuneExp": 540,
+  "RuneIcon": "Icon_Gear_2",
+  "RuneQuality": 2,
+  "ArtificeEntry": 3,
+  "ArtificeTimes": 9,
+  "ArtificeItem": [
+   212
+  ],
+  "ArtificeItemNum": [
+   10
+  ],
+  "LevelMultiple": 100,
+  "InheritItems": [
+   212
+  ],
+  "InheritNum": [
+   15
+  ],
+  "BreakItem": [],
+  "BreakItemNum": [],
+  "RuneProfessions": [
+   14
+  ],
+  "RuneSkills": 20054,
+  "RuneSkillWeights": 100
+ },
+ {
+  "RuneID": 920055,
+  "RuneLevel": 0,
+  "RuneExp": 540,
+  "RuneIcon": "Icon_Gear_2",
+  "RuneQuality": 2,
+  "ArtificeEntry": 3,
+  "ArtificeTimes": 9,
+  "ArtificeItem": [
+   212
+  ],
+  "ArtificeItemNum": [
+   10
+  ],
+  "LevelMultiple": 100,
+  "InheritItems": [
+   212
+  ],
+  "InheritNum": [
+   15
+  ],
+  "BreakItem": [],
+  "BreakItemNum": [],
+  "RuneProfessions": [
+   15
+  ],
+  "RuneSkills": 20055,
+  "RuneSkillWeights": 100
+ },
+ {
+  "RuneID": 920056,
+  "RuneLevel": 0,
+  "RuneExp": 540,
+  "RuneIcon": "Icon_Gear_2",
+  "RuneQuality": 2,
+  "ArtificeEntry": 3,
+  "ArtificeTimes": 9,
+  "ArtificeItem": [
+   212
+  ],
+  "ArtificeItemNum": [
+   10
+  ],
+  "LevelMultiple": 100,
+  "InheritItems": [
+   212
+  ],
+  "InheritNum": [
+   15
+  ],
+  "BreakItem": [],
+  "BreakItemNum": [],
+  "RuneProfessions": [
+   15
+  ],
+  "RuneSkills": 20056,
+  "RuneSkillWeights": 100
+ },
+ {
+  "RuneID": 920057,
+  "RuneLevel": 0,
+  "RuneExp": 540,
+  "RuneIcon": "Icon_Gear_2",
+  "RuneQuality": 2,
+  "ArtificeEntry": 3,
+  "ArtificeTimes": 9,
+  "ArtificeItem": [
+   212
+  ],
+  "ArtificeItemNum": [
+   10
+  ],
+  "LevelMultiple": 100,
+  "InheritItems": [
+   212
+  ],
+  "InheritNum": [
+   15
+  ],
+  "BreakItem": [],
+  "BreakItemNum": [],
+  "RuneProfessions": [
+   15
+  ],
+  "RuneSkills": 20057,
+  "RuneSkillWeights": 100
+ },
+ {
+  "RuneID": 920058,
+  "RuneLevel": 0,
+  "RuneExp": 540,
+  "RuneIcon": "Icon_Gear_2",
+  "RuneQuality": 2,
+  "ArtificeEntry": 3,
+  "ArtificeTimes": 9,
+  "ArtificeItem": [
+   212
+  ],
+  "ArtificeItemNum": [
+   10
+  ],
+  "LevelMultiple": 100,
+  "InheritItems": [
+   212
+  ],
+  "InheritNum": [
+   15
+  ],
+  "BreakItem": [],
+  "BreakItemNum": [],
+  "RuneProfessions": [
+   15
+  ],
+  "RuneSkills": 20058,
+  "RuneSkillWeights": 100
+ },
+ {
+  "RuneID": 920059,
+  "RuneLevel": 0,
+  "RuneExp": 540,
+  "RuneIcon": "Icon_Gear_2",
+  "RuneQuality": 2,
+  "ArtificeEntry": 3,
+  "ArtificeTimes": 9,
+  "ArtificeItem": [
+   212
+  ],
+  "ArtificeItemNum": [
+   10
+  ],
+  "LevelMultiple": 100,
+  "InheritItems": [
+   212
+  ],
+  "InheritNum": [
+   15
+  ],
+  "BreakItem": [],
+  "BreakItemNum": [],
+  "RuneProfessions": [
+   2
+  ],
+  "RuneSkills": 20059,
+  "RuneSkillWeights": 100
+ },
+ {
+  "RuneID": 920060,
+  "RuneLevel": 0,
+  "RuneExp": 540,
+  "RuneIcon": "Icon_Gear_2",
+  "RuneQuality": 2,
+  "ArtificeEntry": 3,
+  "ArtificeTimes": 9,
+  "ArtificeItem": [
+   212
+  ],
+  "ArtificeItemNum": [
+   10
+  ],
+  "LevelMultiple": 100,
+  "InheritItems": [
+   212
+  ],
+  "InheritNum": [
+   15
+  ],
+  "BreakItem": [],
+  "BreakItemNum": [],
+  "RuneProfessions": [
+   1
+  ],
+  "RuneSkills": 20060,
+  "RuneSkillWeights": 100
+ },
+ {
+  "RuneID": 920061,
+  "RuneLevel": 0,
+  "RuneExp": 540,
+  "RuneIcon": "Icon_Gear_2",
+  "RuneQuality": 2,
+  "ArtificeEntry": 3,
+  "ArtificeTimes": 9,
+  "ArtificeItem": [
+   212
+  ],
+  "ArtificeItemNum": [
+   10
+  ],
+  "LevelMultiple": 100,
+  "InheritItems": [
+   212
+  ],
+  "InheritNum": [
+   15
+  ],
+  "BreakItem": [],
+  "BreakItemNum": [],
+  "RuneProfessions": [
+   4
+  ],
+  "RuneSkills": 20061,
+  "RuneSkillWeights": 100
+ },
+ {
+  "RuneID": 920062,
+  "RuneLevel": 0,
+  "RuneExp": 540,
+  "RuneIcon": "Icon_Gear_2",
+  "RuneQuality": 2,
+  "ArtificeEntry": 3,
+  "ArtificeTimes": 9,
+  "ArtificeItem": [
+   212
+  ],
+  "ArtificeItemNum": [
+   10
+  ],
+  "LevelMultiple": 100,
+  "InheritItems": [
+   212
+  ],
+  "InheritNum": [
+   15
+  ],
+  "BreakItem": [],
+  "BreakItemNum": [],
+  "RuneProfessions": [
+   7
+  ],
+  "RuneSkills": 20062,
+  "RuneSkillWeights": 100
+ },
+ {
+  "RuneID": 920064,
+  "RuneLevel": 0,
+  "RuneExp": 540,
+  "RuneIcon": "Icon_Gear_2",
+  "RuneQuality": 2,
+  "ArtificeEntry": 3,
+  "ArtificeTimes": 9,
+  "ArtificeItem": [
+   212
+  ],
+  "ArtificeItemNum": [
+   10
+  ],
+  "LevelMultiple": 100,
+  "InheritItems": [
+   212
+  ],
+  "InheritNum": [
+   15
+  ],
+  "BreakItem": [],
+  "BreakItemNum": [],
+  "RuneProfessions": [
+   3
+  ],
+  "RuneSkills": 20064,
+  "RuneSkillWeights": 100
+ },
+ {
+  "RuneID": 930001,
+  "RuneLevel": 0,
+  "RuneExp": 1080,
+  "RuneIcon": "Icon_Gear_3",
+  "RuneQuality": 3,
+  "ArtificeEntry": 4,
+  "ArtificeTimes": 12,
+  "ArtificeItem": [
+   212
+  ],
+  "ArtificeItemNum": [
+   10
+  ],
+  "LevelMultiple": 100,
+  "InheritItems": [
+   212
+  ],
+  "InheritNum": [
+   15
+  ],
+  "BreakItem": [],
+  "BreakItemNum": [],
+  "RuneProfessions": [
+   8
+  ],
+  "RuneSkills": 30001,
+  "RuneSkillWeights": 100
+ },
+ {
+  "RuneID": 930002,
+  "RuneLevel": 0,
+  "RuneExp": 1080,
+  "RuneIcon": "Icon_Gear_3",
+  "RuneQuality": 3,
+  "ArtificeEntry": 4,
+  "ArtificeTimes": 12,
+  "ArtificeItem": [
+   212
+  ],
+  "ArtificeItemNum": [
+   10
+  ],
+  "LevelMultiple": 100,
+  "InheritItems": [
+   212
+  ],
+  "InheritNum": [
+   15
+  ],
+  "BreakItem": [],
+  "BreakItemNum": [],
+  "RuneProfessions": [
+   9
+  ],
+  "RuneSkills": 30002,
+  "RuneSkillWeights": 100
+ },
+ {
+  "RuneID": 930003,
+  "RuneLevel": 0,
+  "RuneExp": 1080,
+  "RuneIcon": "Icon_Gear_3",
+  "RuneQuality": 3,
+  "ArtificeEntry": 4,
+  "ArtificeTimes": 12,
+  "ArtificeItem": [
+   212
+  ],
+  "ArtificeItemNum": [
+   10
+  ],
+  "LevelMultiple": 100,
+  "InheritItems": [
+   212
+  ],
+  "InheritNum": [
+   15
+  ],
+  "BreakItem": [],
+  "BreakItemNum": [],
+  "RuneProfessions": [
+   10
+  ],
+  "RuneSkills": 30003,
+  "RuneSkillWeights": 100
+ },
+ {
+  "RuneID": 930004,
+  "RuneLevel": 0,
+  "RuneExp": 1080,
+  "RuneIcon": "Icon_Gear_3",
+  "RuneQuality": 3,
+  "ArtificeEntry": 4,
+  "ArtificeTimes": 12,
+  "ArtificeItem": [
+   212
+  ],
+  "ArtificeItemNum": [
+   10
+  ],
+  "LevelMultiple": 100,
+  "InheritItems": [
+   212
+  ],
+  "InheritNum": [
+   15
+  ],
+  "BreakItem": [],
+  "BreakItemNum": [],
+  "RuneProfessions": [
+   11
+  ],
+  "RuneSkills": 30004,
+  "RuneSkillWeights": 100
+ },
+ {
+  "RuneID": 930005,
+  "RuneLevel": 0,
+  "RuneExp": 1080,
+  "RuneIcon": "Icon_Gear_3",
+  "RuneQuality": 3,
+  "ArtificeEntry": 4,
+  "ArtificeTimes": 12,
+  "ArtificeItem": [
+   212
+  ],
+  "ArtificeItemNum": [
+   10
+  ],
+  "LevelMultiple": 100,
+  "InheritItems": [
+   212
+  ],
+  "InheritNum": [
+   15
+  ],
+  "BreakItem": [],
+  "BreakItemNum": [],
+  "RuneProfessions": [
+   12
+  ],
+  "RuneSkills": 30005,
+  "RuneSkillWeights": 100
+ },
+ {
+  "RuneID": 930006,
+  "RuneLevel": 0,
+  "RuneExp": 1080,
+  "RuneIcon": "Icon_Gear_3",
+  "RuneQuality": 3,
+  "ArtificeEntry": 4,
+  "ArtificeTimes": 12,
+  "ArtificeItem": [
+   212
+  ],
+  "ArtificeItemNum": [
+   10
+  ],
+  "LevelMultiple": 100,
+  "InheritItems": [
+   212
+  ],
+  "InheritNum": [
+   15
+  ],
+  "BreakItem": [],
+  "BreakItemNum": [],
+  "RuneProfessions": [
+   13
+  ],
+  "RuneSkills": 30006,
+  "RuneSkillWeights": 100
+ },
+ {
+  "RuneID": 930007,
+  "RuneLevel": 0,
+  "RuneExp": 1080,
+  "RuneIcon": "Icon_Gear_3",
+  "RuneQuality": 3,
+  "ArtificeEntry": 4,
+  "ArtificeTimes": 12,
+  "ArtificeItem": [
+   212
+  ],
+  "ArtificeItemNum": [
+   10
+  ],
+  "LevelMultiple": 100,
+  "InheritItems": [
+   212
+  ],
+  "InheritNum": [
+   15
+  ],
+  "BreakItem": [],
+  "BreakItemNum": [],
+  "RuneProfessions": [
+   16
+  ],
+  "RuneSkills": 30007,
+  "RuneSkillWeights": 100
+ },
+ {
+  "RuneID": 930008,
+  "RuneLevel": 0,
+  "RuneExp": 1080,
+  "RuneIcon": "Icon_Gear_3",
+  "RuneQuality": 3,
+  "ArtificeEntry": 4,
+  "ArtificeTimes": 12,
+  "ArtificeItem": [
+   212
+  ],
+  "ArtificeItemNum": [
+   10
+  ],
+  "LevelMultiple": 100,
+  "InheritItems": [
+   212
+  ],
+  "InheritNum": [
+   15
+  ],
+  "BreakItem": [],
+  "BreakItemNum": [],
+  "RuneProfessions": [
+   14
+  ],
+  "RuneSkills": 30008,
+  "RuneSkillWeights": 100
+ },
+ {
+  "RuneID": 930009,
+  "RuneLevel": 0,
+  "RuneExp": 1080,
+  "RuneIcon": "Icon_Gear_3",
+  "RuneQuality": 3,
+  "ArtificeEntry": 4,
+  "ArtificeTimes": 12,
+  "ArtificeItem": [
+   212
+  ],
+  "ArtificeItemNum": [
+   10
+  ],
+  "LevelMultiple": 100,
+  "InheritItems": [
+   212
+  ],
+  "InheritNum": [
+   15
+  ],
+  "BreakItem": [],
+  "BreakItemNum": [],
+  "RuneProfessions": [
+   2
+  ],
+  "RuneSkills": 30009,
+  "RuneSkillWeights": 100
+ },
+ {
+  "RuneID": 930010,
+  "RuneLevel": 0,
+  "RuneExp": 1080,
+  "RuneIcon": "Icon_Gear_3",
+  "RuneQuality": 3,
+  "ArtificeEntry": 4,
+  "ArtificeTimes": 12,
+  "ArtificeItem": [
+   212
+  ],
+  "ArtificeItemNum": [
+   10
+  ],
+  "LevelMultiple": 100,
+  "InheritItems": [
+   212
+  ],
+  "InheritNum": [
+   15
+  ],
+  "BreakItem": [],
+  "BreakItemNum": [],
+  "RuneProfessions": [
+   1
+  ],
+  "RuneSkills": 30010,
+  "RuneSkillWeights": 100
+ },
+ {
+  "RuneID": 930011,
+  "RuneLevel": 0,
+  "RuneExp": 1080,
+  "RuneIcon": "Icon_Gear_3",
+  "RuneQuality": 3,
+  "ArtificeEntry": 4,
+  "ArtificeTimes": 12,
+  "ArtificeItem": [
+   212
+  ],
+  "ArtificeItemNum": [
+   10
+  ],
+  "LevelMultiple": 100,
+  "InheritItems": [
+   212
+  ],
+  "InheritNum": [
+   15
+  ],
+  "BreakItem": [],
+  "BreakItemNum": [],
+  "RuneProfessions": [
+   4
+  ],
+  "RuneSkills": 30011,
+  "RuneSkillWeights": 100
+ },
+ {
+  "RuneID": 930012,
+  "RuneLevel": 0,
+  "RuneExp": 1080,
+  "RuneIcon": "Icon_Gear_3",
+  "RuneQuality": 3,
+  "ArtificeEntry": 4,
+  "ArtificeTimes": 12,
+  "ArtificeItem": [
+   212
+  ],
+  "ArtificeItemNum": [
+   10
+  ],
+  "LevelMultiple": 100,
+  "InheritItems": [
+   212
+  ],
+  "InheritNum": [
+   15
+  ],
+  "BreakItem": [],
+  "BreakItemNum": [],
+  "RuneProfessions": [
+   7
+  ],
+  "RuneSkills": 30012,
+  "RuneSkillWeights": 100
+ },
+ {
+  "RuneID": 930014,
+  "RuneLevel": 0,
+  "RuneExp": 1080,
+  "RuneIcon": "Icon_Gear_3",
+  "RuneQuality": 3,
+  "ArtificeEntry": 4,
+  "ArtificeTimes": 12,
+  "ArtificeItem": [
+   212
+  ],
+  "ArtificeItemNum": [
+   10
+  ],
+  "LevelMultiple": 100,
+  "InheritItems": [
+   212
+  ],
+  "InheritNum": [
+   15
+  ],
+  "BreakItem": [],
+  "BreakItemNum": [],
+  "RuneProfessions": [
+   3
+  ],
+  "RuneSkills": 30014,
+  "RuneSkillWeights": 100
+ },
+ {
+  "RuneID": 930015,
+  "RuneLevel": 0,
+  "RuneExp": 1080,
+  "RuneIcon": "Icon_Gear_3",
+  "RuneQuality": 3,
+  "ArtificeEntry": 4,
+  "ArtificeTimes": 12,
+  "ArtificeItem": [
+   212
+  ],
+  "ArtificeItemNum": [
+   10
+  ],
+  "LevelMultiple": 100,
+  "InheritItems": [
+   212
+  ],
+  "InheritNum": [
+   15
+  ],
+  "BreakItem": [],
+  "BreakItemNum": [],
+  "RuneProfessions": [
+   8
+  ],
+  "RuneSkills": 30015,
+  "RuneSkillWeights": 100
+ },
+ {
+  "RuneID": 930017,
+  "RuneLevel": 0,
+  "RuneExp": 1080,
+  "RuneIcon": "Icon_Gear_3",
+  "RuneQuality": 3,
+  "ArtificeEntry": 4,
+  "ArtificeTimes": 12,
+  "ArtificeItem": [
+   212
+  ],
+  "ArtificeItemNum": [
+   10
+  ],
+  "LevelMultiple": 100,
+  "InheritItems": [
+   212
+  ],
+  "InheritNum": [
+   15
+  ],
+  "BreakItem": [],
+  "BreakItemNum": [],
+  "RuneProfessions": [
+   10
+  ],
+  "RuneSkills": 30017,
+  "RuneSkillWeights": 100
+ },
+ {
+  "RuneID": 930018,
+  "RuneLevel": 0,
+  "RuneExp": 1080,
+  "RuneIcon": "Icon_Gear_3",
+  "RuneQuality": 3,
+  "ArtificeEntry": 4,
+  "ArtificeTimes": 12,
+  "ArtificeItem": [
+   212
+  ],
+  "ArtificeItemNum": [
+   10
+  ],
+  "LevelMultiple": 100,
+  "InheritItems": [
+   212
+  ],
+  "InheritNum": [
+   15
+  ],
+  "BreakItem": [],
+  "BreakItemNum": [],
+  "RuneProfessions": [
+   11
+  ],
+  "RuneSkills": 30018,
+  "RuneSkillWeights": 100
+ },
+ {
+  "RuneID": 930020,
+  "RuneLevel": 0,
+  "RuneExp": 1080,
+  "RuneIcon": "Icon_Gear_3",
+  "RuneQuality": 3,
+  "ArtificeEntry": 4,
+  "ArtificeTimes": 12,
+  "ArtificeItem": [
+   212
+  ],
+  "ArtificeItemNum": [
+   10
+  ],
+  "LevelMultiple": 100,
+  "InheritItems": [
+   212
+  ],
+  "InheritNum": [
+   15
+  ],
+  "BreakItem": [],
+  "BreakItemNum": [],
+  "RuneProfessions": [
+   13
+  ],
+  "RuneSkills": 30020,
+  "RuneSkillWeights": 100
+ },
+ {
+  "RuneID": 930025,
+  "RuneLevel": 0,
+  "RuneExp": 1080,
+  "RuneIcon": "Icon_Gear_3",
+  "RuneQuality": 3,
+  "ArtificeEntry": 4,
+  "ArtificeTimes": 12,
+  "ArtificeItem": [
+   212
+  ],
+  "ArtificeItemNum": [
+   10
+  ],
+  "LevelMultiple": 100,
+  "InheritItems": [
+   212
+  ],
+  "InheritNum": [
+   15
+  ],
+  "BreakItem": [],
+  "BreakItemNum": [],
+  "RuneProfessions": [
+   2
+  ],
+  "RuneSkills": 30025,
+  "RuneSkillWeights": 100
+ },
+ {
+  "RuneID": 930027,
+  "RuneLevel": 0,
+  "RuneExp": 1080,
+  "RuneIcon": "Icon_Gear_3",
+  "RuneQuality": 3,
+  "ArtificeEntry": 4,
+  "ArtificeTimes": 12,
+  "ArtificeItem": [
+   212
+  ],
+  "ArtificeItemNum": [
+   10
+  ],
+  "LevelMultiple": 100,
+  "InheritItems": [
+   212
+  ],
+  "InheritNum": [
+   15
+  ],
+  "BreakItem": [],
+  "BreakItemNum": [],
+  "RuneProfessions": [
+   4
+  ],
+  "RuneSkills": 30027,
+  "RuneSkillWeights": 100
+ },
+ {
+  "RuneID": 930028,
+  "RuneLevel": 0,
+  "RuneExp": 1080,
+  "RuneIcon": "Icon_Gear_3",
+  "RuneQuality": 3,
+  "ArtificeEntry": 4,
+  "ArtificeTimes": 12,
+  "ArtificeItem": [
+   212
+  ],
+  "ArtificeItemNum": [
+   10
+  ],
+  "LevelMultiple": 100,
+  "InheritItems": [
+   212
+  ],
+  "InheritNum": [
+   15
+  ],
+  "BreakItem": [],
+  "BreakItemNum": [],
+  "RuneProfessions": [
+   7
+  ],
+  "RuneSkills": 30028,
+  "RuneSkillWeights": 100
+ },
+ {
+  "RuneID": 930029,
+  "RuneLevel": 0,
+  "RuneExp": 1080,
+  "RuneIcon": "Icon_Gear_3",
+  "RuneQuality": 3,
+  "ArtificeEntry": 4,
+  "ArtificeTimes": 12,
+  "ArtificeItem": [
+   212
+  ],
+  "ArtificeItemNum": [
+   10
+  ],
+  "LevelMultiple": 100,
+  "InheritItems": [
+   212
+  ],
+  "InheritNum": [
+   15
+  ],
+  "BreakItem": [],
+  "BreakItemNum": [],
+  "RuneProfessions": [
+   6
+  ],
+  "RuneSkills": 30029,
+  "RuneSkillWeights": 100
+ },
+ {
+  "RuneID": 930030,
+  "RuneLevel": 0,
+  "RuneExp": 1080,
+  "RuneIcon": "Icon_Gear_3",
+  "RuneQuality": 3,
+  "ArtificeEntry": 4,
+  "ArtificeTimes": 12,
+  "ArtificeItem": [
+   212
+  ],
+  "ArtificeItemNum": [
+   10
+  ],
+  "LevelMultiple": 100,
+  "InheritItems": [
+   212
+  ],
+  "InheritNum": [
+   15
+  ],
+  "BreakItem": [],
+  "BreakItemNum": [],
+  "RuneProfessions": [
+   3
+  ],
+  "RuneSkills": 30030,
+  "RuneSkillWeights": 100
+ },
+ {
+  "RuneID": 930031,
+  "RuneLevel": 0,
+  "RuneExp": 1080,
+  "RuneIcon": "Icon_Gear_3",
+  "RuneQuality": 3,
+  "ArtificeEntry": 4,
+  "ArtificeTimes": 12,
+  "ArtificeItem": [
+   212
+  ],
+  "ArtificeItemNum": [
+   10
+  ],
+  "LevelMultiple": 100,
+  "InheritItems": [
+   212
+  ],
+  "InheritNum": [
+   15
+  ],
+  "BreakItem": [],
+  "BreakItemNum": [],
+  "RuneProfessions": [
+   15
+  ],
+  "RuneSkills": 30031,
+  "RuneSkillWeights": 100
+ },
+ {
+  "RuneID": 940043,
+  "RuneLevel": 0,
+  "RuneExp": 240,
+  "RuneIcon": "Icon_Gear_1",
+  "RuneQuality": 1,
+  "ArtificeEntry": 2,
+  "ArtificeTimes": 6,
+  "ArtificeItem": [
+   212
+  ],
+  "ArtificeItemNum": [
+   10
+  ],
+  "LevelMultiple": 100,
+  "InheritItems": [
+   212
+  ],
+  "InheritNum": [
+   15
+  ],
+  "BreakItem": [],
+  "BreakItemNum": [],
+  "RuneProfessions": [
+   1
+  ],
+  "RuneSkills": 10043,
+  "RuneSkillWeights": 100
+ },
+ {
+  "RuneID": 940044,
+  "RuneLevel": 0,
+  "RuneExp": 240,
+  "RuneIcon": "Icon_Gear_1",
+  "RuneQuality": 1,
+  "ArtificeEntry": 2,
+  "ArtificeTimes": 6,
+  "ArtificeItem": [
+   212
+  ],
+  "ArtificeItemNum": [
+   10
+  ],
+  "LevelMultiple": 100,
+  "InheritItems": [
+   212
+  ],
+  "InheritNum": [
+   15
+  ],
+  "BreakItem": [],
+  "BreakItemNum": [],
+  "RuneProfessions": [
+   1
+  ],
+  "RuneSkills": 10044,
+  "RuneSkillWeights": 100
+ },
+ {
+  "RuneID": 940045,
+  "RuneLevel": 0,
+  "RuneExp": 240,
+  "RuneIcon": "Icon_Gear_1",
+  "RuneQuality": 1,
+  "ArtificeEntry": 2,
+  "ArtificeTimes": 6,
+  "ArtificeItem": [
+   212
+  ],
+  "ArtificeItemNum": [
+   10
+  ],
+  "LevelMultiple": 100,
+  "InheritItems": [
+   212
+  ],
+  "InheritNum": [
+   15
+  ],
+  "BreakItem": [],
+  "BreakItemNum": [],
+  "RuneProfessions": [
+   1
+  ],
+  "RuneSkills": 10045,
+  "RuneSkillWeights": 100
+ },
+ {
+  "RuneID": 940070,
+  "RuneLevel": 0,
+  "RuneExp": 240,
+  "RuneIcon": "Icon_Gear_1",
+  "RuneQuality": 1,
+  "ArtificeEntry": 2,
+  "ArtificeTimes": 6,
+  "ArtificeItem": [
+   212
+  ],
+  "ArtificeItemNum": [
+   10
+  ],
+  "LevelMultiple": 100,
+  "InheritItems": [
+   212
+  ],
+  "InheritNum": [
+   15
+  ],
+  "BreakItem": [],
+  "BreakItemNum": [],
+  "RuneProfessions": [
+   1
+  ],
+  "RuneSkills": 10070,
+  "RuneSkillWeights": 100
+ },
+ {
+  "RuneID": 940083,
+  "RuneLevel": 0,
+  "RuneExp": 240,
+  "RuneIcon": "Icon_Gear_1",
+  "RuneQuality": 1,
+  "ArtificeEntry": 2,
+  "ArtificeTimes": 6,
+  "ArtificeItem": [
+   212
+  ],
+  "ArtificeItemNum": [
+   10
+  ],
+  "LevelMultiple": 100,
+  "InheritItems": [
+   212
+  ],
+  "InheritNum": [
+   15
+  ],
+  "BreakItem": [],
+  "BreakItemNum": [],
+  "RuneProfessions": [
+   1
+  ],
+  "RuneSkills": 10083,
+  "RuneSkillWeights": 100
+ },
+ {
+  "RuneID": 940084,
+  "RuneLevel": 0,
+  "RuneExp": 240,
+  "RuneIcon": "Icon_Gear_1",
+  "RuneQuality": 1,
+  "ArtificeEntry": 2,
+  "ArtificeTimes": 6,
+  "ArtificeItem": [
+   212
+  ],
+  "ArtificeItemNum": [
+   10
+  ],
+  "LevelMultiple": 100,
+  "InheritItems": [
+   212
+  ],
+  "InheritNum": [
+   15
+  ],
+  "BreakItem": [],
+  "BreakItemNum": [],
+  "RuneProfessions": [
+   1
+  ],
+  "RuneSkills": 10084,
+  "RuneSkillWeights": 100
+ },
+ {
+  "RuneID": 940085,
+  "RuneLevel": 0,
+  "RuneExp": 240,
+  "RuneIcon": "Icon_Gear_1",
+  "RuneQuality": 1,
+  "ArtificeEntry": 2,
+  "ArtificeTimes": 6,
+  "ArtificeItem": [
+   212
+  ],
+  "ArtificeItemNum": [
+   10
+  ],
+  "LevelMultiple": 100,
+  "InheritItems": [
+   212
+  ],
+  "InheritNum": [
+   15
+  ],
+  "BreakItem": [],
+  "BreakItemNum": [],
+  "RuneProfessions": [
+   1
+  ],
+  "RuneSkills": 10085,
+  "RuneSkillWeights": 100
+ },
+ {
+  "RuneID": 950017,
+  "RuneLevel": 0,
+  "RuneExp": 540,
+  "RuneIcon": "Icon_Gear_2",
+  "RuneQuality": 2,
+  "ArtificeEntry": 3,
+  "ArtificeTimes": 9,
+  "ArtificeItem": [
+   212
+  ],
+  "ArtificeItemNum": [
+   10
+  ],
+  "LevelMultiple": 100,
+  "InheritItems": [
+   212
+  ],
+  "InheritNum": [
+   15
+  ],
+  "BreakItem": [],
+  "BreakItemNum": [],
+  "RuneProfessions": [
+   1
+  ],
+  "RuneSkills": 20017,
+  "RuneSkillWeights": 100
+ },
+ {
+  "RuneID": 950018,
+  "RuneLevel": 0,
+  "RuneExp": 540,
+  "RuneIcon": "Icon_Gear_2",
+  "RuneQuality": 2,
+  "ArtificeEntry": 3,
+  "ArtificeTimes": 9,
+  "ArtificeItem": [
+   212
+  ],
+  "ArtificeItemNum": [
+   10
+  ],
+  "LevelMultiple": 100,
+  "InheritItems": [
+   212
+  ],
+  "InheritNum": [
+   15
+  ],
+  "BreakItem": [],
+  "BreakItemNum": [],
+  "RuneProfessions": [
+   1
+  ],
+  "RuneSkills": 20018,
+  "RuneSkillWeights": 100
+ },
+ {
+  "RuneID": 950065,
+  "RuneLevel": 0,
+  "RuneExp": 540,
+  "RuneIcon": "Icon_Gear_2",
+  "RuneQuality": 2,
+  "ArtificeEntry": 3,
+  "ArtificeTimes": 9,
+  "ArtificeItem": [
+   212
+  ],
+  "ArtificeItemNum": [
+   10
+  ],
+  "LevelMultiple": 100,
+  "InheritItems": [
+   212
+  ],
+  "InheritNum": [
+   15
+  ],
+  "BreakItem": [],
+  "BreakItemNum": [],
+  "RuneProfessions": [
+   1
+  ],
+  "RuneSkills": 20065,
+  "RuneSkillWeights": 100
+ },
+ {
+  "RuneID": 950066,
+  "RuneLevel": 0,
+  "RuneExp": 540,
+  "RuneIcon": "Icon_Gear_2",
+  "RuneQuality": 2,
+  "ArtificeEntry": 3,
+  "ArtificeTimes": 9,
+  "ArtificeItem": [
+   212
+  ],
+  "ArtificeItemNum": [
+   10
+  ],
+  "LevelMultiple": 100,
+  "InheritItems": [
+   212
+  ],
+  "InheritNum": [
+   15
+  ],
+  "BreakItem": [],
+  "BreakItemNum": [],
+  "RuneProfessions": [
+   1
+  ],
+  "RuneSkills": 20066,
+  "RuneSkillWeights": 100
+ },
+ {
+  "RuneID": 940038,
+  "RuneLevel": 0,
+  "RuneExp": 240,
+  "RuneIcon": "Icon_Gear_1",
+  "RuneQuality": 1,
+  "ArtificeEntry": 2,
+  "ArtificeTimes": 6,
+  "ArtificeItem": [
+   212
+  ],
+  "ArtificeItemNum": [
+   10
+  ],
+  "LevelMultiple": 100,
+  "InheritItems": [
+   212
+  ],
+  "InheritNum": [
+   15
+  ],
+  "BreakItem": [],
+  "BreakItemNum": [],
+  "RuneProfessions": [
+   3
+  ],
+  "RuneSkills": 10038,
+  "RuneSkillWeights": 100
+ },
+ {
+  "RuneID": 940077,
+  "RuneLevel": 0,
+  "RuneExp": 240,
+  "RuneIcon": "Icon_Gear_1",
+  "RuneQuality": 1,
+  "ArtificeEntry": 2,
+  "ArtificeTimes": 6,
+  "ArtificeItem": [
+   212
+  ],
+  "ArtificeItemNum": [
+   10
+  ],
+  "LevelMultiple": 100,
+  "InheritItems": [
+   212
+  ],
+  "InheritNum": [
+   15
+  ],
+  "BreakItem": [],
+  "BreakItemNum": [],
+  "RuneProfessions": [
+   3
+  ],
+  "RuneSkills": 10077,
+  "RuneSkillWeights": 100
+ },
+ {
+  "RuneID": 940076,
+  "RuneLevel": 0,
+  "RuneExp": 240,
+  "RuneIcon": "Icon_Gear_1",
+  "RuneQuality": 1,
+  "ArtificeEntry": 2,
+  "ArtificeTimes": 6,
+  "ArtificeItem": [
+   212
+  ],
+  "ArtificeItemNum": [
+   10
+  ],
+  "LevelMultiple": 100,
+  "InheritItems": [
+   212
+  ],
+  "InheritNum": [
+   15
+  ],
+  "BreakItem": [],
+  "BreakItemNum": [],
+  "RuneProfessions": [
+   3
+  ],
+  "RuneSkills": 10076,
+  "RuneSkillWeights": 100
+ },
+ {
+  "RuneID": 940090,
+  "RuneLevel": 0,
+  "RuneExp": 240,
+  "RuneIcon": "Icon_Gear_1",
+  "RuneQuality": 1,
+  "ArtificeEntry": 2,
+  "ArtificeTimes": 6,
+  "ArtificeItem": [
+   212
+  ],
+  "ArtificeItemNum": [
+   10
+  ],
+  "LevelMultiple": 100,
+  "InheritItems": [
+   212
+  ],
+  "InheritNum": [
+   15
+  ],
+  "BreakItem": [],
+  "BreakItemNum": [],
+  "RuneProfessions": [
+   3
+  ],
+  "RuneSkills": 10090,
+  "RuneSkillWeights": 100
+ },
+ {
+  "RuneID": 940091,
+  "RuneLevel": 0,
+  "RuneExp": 540,
+  "RuneIcon": "Icon_Gear_2",
+  "RuneQuality": 2,
+  "ArtificeEntry": 3,
+  "ArtificeTimes": 9,
+  "ArtificeItem": [
+   212
+  ],
+  "ArtificeItemNum": [
+   10
+  ],
+  "LevelMultiple": 100,
+  "InheritItems": [
+   212
+  ],
+  "InheritNum": [
+   15
+  ],
+  "BreakItem": [],
+  "BreakItemNum": [],
+  "RuneProfessions": [
+   3
+  ],
+  "RuneSkills": 10091,
+  "RuneSkillWeights": 100
+ },
+ {
+  "RuneID": 950036,
+  "RuneLevel": 0,
+  "RuneExp": 540,
+  "RuneIcon": "Icon_Gear_2",
+  "RuneQuality": 2,
+  "ArtificeEntry": 3,
+  "ArtificeTimes": 9,
+  "ArtificeItem": [
+   212
+  ],
+  "ArtificeItemNum": [
+   10
+  ],
+  "LevelMultiple": 100,
+  "InheritItems": [
+   212
+  ],
+  "InheritNum": [
+   15
+  ],
+  "BreakItem": [],
+  "BreakItemNum": [],
+  "RuneProfessions": [
+   3
+  ],
+  "RuneSkills": 20036,
+  "RuneSkillWeights": 100
+ },
+ {
+  "RuneID": 950064,
+  "RuneLevel": 0,
+  "RuneExp": 540,
+  "RuneIcon": "Icon_Gear_2",
+  "RuneQuality": 2,
+  "ArtificeEntry": 3,
+  "ArtificeTimes": 9,
+  "ArtificeItem": [
+   212
+  ],
+  "ArtificeItemNum": [
+   10
+  ],
+  "LevelMultiple": 100,
+  "InheritItems": [
+   212
+  ],
+  "InheritNum": [
+   15
+  ],
+  "BreakItem": [],
+  "BreakItemNum": [],
+  "RuneProfessions": [
+   3
+  ],
+  "RuneSkills": 20064,
+  "RuneSkillWeights": 100
+ },
+ {
+  "RuneID": 960014,
+  "RuneLevel": 0,
+  "RuneExp": 1080,
+  "RuneIcon": "Icon_Gear_3",
+  "RuneQuality": 3,
+  "ArtificeEntry": 4,
+  "ArtificeTimes": 12,
+  "ArtificeItem": [
+   212
+  ],
+  "ArtificeItemNum": [
+   10
+  ],
+  "LevelMultiple": 100,
+  "InheritItems": [
+   212
+  ],
+  "InheritNum": [
+   15
+  ],
+  "BreakItem": [],
+  "BreakItemNum": [],
+  "RuneProfessions": [
+   3
+  ],
+  "RuneSkills": 30014,
+  "RuneSkillWeights": 100
+ },
+ {
+  "RuneID": 960030,
+  "RuneLevel": 0,
+  "RuneExp": 1080,
+  "RuneIcon": "Icon_Gear_3",
+  "RuneQuality": 3,
+  "ArtificeEntry": 4,
+  "ArtificeTimes": 12,
+  "ArtificeItem": [
+   212
+  ],
+  "ArtificeItemNum": [
+   10
+  ],
+  "LevelMultiple": 100,
+  "InheritItems": [
+   212
+  ],
+  "InheritNum": [
+   15
+  ],
+  "BreakItem": [],
+  "BreakItemNum": [],
+  "RuneProfessions": [
+   3
+  ],
+  "RuneSkills": 30030,
+  "RuneSkillWeights": 100
+ },
+ {
+  "RuneID": 960033,
+  "RuneLevel": 0,
+  "RuneExp": 1080,
+  "RuneIcon": "Icon_Gear_3",
+  "RuneQuality": 3,
+  "ArtificeEntry": 4,
+  "ArtificeTimes": 12,
+  "ArtificeItem": [
+   212
+  ],
+  "ArtificeItemNum": [
+   10
+  ],
+  "LevelMultiple": 100,
+  "InheritItems": [
+   212
+  ],
+  "InheritNum": [
+   15
+  ],
+  "BreakItem": [],
+  "BreakItemNum": [],
+  "RuneProfessions": [
+   3
+  ],
+  "RuneSkills": 30033,
+  "RuneSkillWeights": 100
+ },
+ {
+  "RuneID": 940068,
+  "RuneLevel": 0,
+  "RuneExp": 240,
+  "RuneIcon": "Icon_Gear_1",
+  "RuneQuality": 1,
+  "ArtificeEntry": 2,
+  "ArtificeTimes": 6,
+  "ArtificeItem": [
+   212
+  ],
+  "ArtificeItemNum": [
+   10
+  ],
+  "LevelMultiple": 100,
+  "InheritItems": [
+   212
+  ],
+  "InheritNum": [
+   15
+  ],
+  "BreakItem": [],
+  "BreakItemNum": [],
+  "RuneProfessions": [
+   4
+  ],
+  "RuneSkills": 10068,
+  "RuneSkillWeights": 100
+ },
+ {
+  "RuneID": 940069,
+  "RuneLevel": 0,
+  "RuneExp": 240,
+  "RuneIcon": "Icon_Gear_1",
+  "RuneQuality": 1,
+  "ArtificeEntry": 2,
+  "ArtificeTimes": 6,
+  "ArtificeItem": [
+   212
+  ],
+  "ArtificeItemNum": [
+   10
+  ],
+  "LevelMultiple": 100,
+  "InheritItems": [
+   212
+  ],
+  "InheritNum": [
+   15
+  ],
+  "BreakItem": [],
+  "BreakItemNum": [],
+  "RuneProfessions": [
+   4
+  ],
+  "RuneSkills": 10069,
+  "RuneSkillWeights": 100
+ },
+ {
+  "RuneID": 950026,
+  "RuneLevel": 0,
+  "RuneExp": 240,
+  "RuneIcon": "Icon_Gear_1",
+  "RuneQuality": 1,
+  "ArtificeEntry": 2,
+  "ArtificeTimes": 6,
+  "ArtificeItem": [
+   212
+  ],
+  "ArtificeItemNum": [
+   10
+  ],
+  "LevelMultiple": 100,
+  "InheritItems": [
+   212
+  ],
+  "InheritNum": [
+   15
+  ],
+  "BreakItem": [],
+  "BreakItemNum": [],
+  "RuneProfessions": [
+   4
+  ],
+  "RuneSkills": 20026,
+  "RuneSkillWeights": 100
+ },
+ {
+  "RuneID": 950027,
+  "RuneLevel": 0,
+  "RuneExp": 540,
+  "RuneIcon": "Icon_Gear_2",
+  "RuneQuality": 2,
+  "ArtificeEntry": 3,
+  "ArtificeTimes": 9,
+  "ArtificeItem": [
+   212
+  ],
+  "ArtificeItemNum": [
+   10
+  ],
+  "LevelMultiple": 100,
+  "InheritItems": [
+   212
+  ],
+  "InheritNum": [
+   15
+  ],
+  "BreakItem": [],
+  "BreakItemNum": [],
+  "RuneProfessions": [
+   4
+  ],
+  "RuneSkills": 20027,
+  "RuneSkillWeights": 100
+ },
+ {
+  "RuneID": 940092,
+  "RuneLevel": 0,
+  "RuneExp": 540,
+  "RuneIcon": "Icon_Gear_2",
+  "RuneQuality": 2,
+  "ArtificeEntry": 3,
+  "ArtificeTimes": 9,
+  "ArtificeItem": [
+   212
+  ],
+  "ArtificeItemNum": [
+   10
+  ],
+  "LevelMultiple": 100,
+  "InheritItems": [
+   212
+  ],
+  "InheritNum": [
+   15
+  ],
+  "BreakItem": [],
+  "BreakItemNum": [],
+  "RuneProfessions": [
+   4
+  ],
+  "RuneSkills": 10092,
+  "RuneSkillWeights": 100
+ },
+ {
+  "RuneID": 950025,
+  "RuneLevel": 0,
+  "RuneExp": 540,
+  "RuneIcon": "Icon_Gear_2",
+  "RuneQuality": 2,
+  "ArtificeEntry": 3,
+  "ArtificeTimes": 9,
+  "ArtificeItem": [
+   212
+  ],
+  "ArtificeItemNum": [
+   10
+  ],
+  "LevelMultiple": 100,
+  "InheritItems": [
+   212
+  ],
+  "InheritNum": [
+   15
+  ],
+  "BreakItem": [],
+  "BreakItemNum": [],
+  "RuneProfessions": [
+   4
+  ],
+  "RuneSkills": 20025,
+  "RuneSkillWeights": 100
+ },
+ {
+  "RuneID": 950070,
+  "RuneLevel": 0,
+  "RuneExp": 540,
+  "RuneIcon": "Icon_Gear_2",
+  "RuneQuality": 2,
+  "ArtificeEntry": 3,
+  "ArtificeTimes": 9,
+  "ArtificeItem": [
+   212
+  ],
+  "ArtificeItemNum": [
+   10
+  ],
+  "LevelMultiple": 100,
+  "InheritItems": [
+   212
+  ],
+  "InheritNum": [
+   15
+  ],
+  "BreakItem": [],
+  "BreakItemNum": [],
+  "RuneProfessions": [
+   4
+  ],
+  "RuneSkills": 20070,
+  "RuneSkillWeights": 100
+ },
+ {
+  "RuneID": 960011,
+  "RuneLevel": 0,
+  "RuneExp": 1080,
+  "RuneIcon": "Icon_Gear_3",
+  "RuneQuality": 3,
+  "ArtificeEntry": 4,
+  "ArtificeTimes": 12,
+  "ArtificeItem": [
+   212
+  ],
+  "ArtificeItemNum": [
+   10
+  ],
+  "LevelMultiple": 100,
+  "InheritItems": [
+   212
+  ],
+  "InheritNum": [
+   15
+  ],
+  "BreakItem": [],
+  "BreakItemNum": [],
+  "RuneProfessions": [
+   4
+  ],
+  "RuneSkills": 30011,
+  "RuneSkillWeights": 100
+ },
+ {
+  "RuneID": 960027,
+  "RuneLevel": 0,
+  "RuneExp": 1080,
+  "RuneIcon": "Icon_Gear_3",
+  "RuneQuality": 3,
+  "ArtificeEntry": 4,
+  "ArtificeTimes": 12,
+  "ArtificeItem": [
+   212
+  ],
+  "ArtificeItemNum": [
+   10
+  ],
+  "LevelMultiple": 100,
+  "InheritItems": [
+   212
+  ],
+  "InheritNum": [
+   15
+  ],
+  "BreakItem": [],
+  "BreakItemNum": [],
+  "RuneProfessions": [
+   4
+  ],
+  "RuneSkills": 30027,
+  "RuneSkillWeights": 100
+ },
+ {
+  "RuneID": 960034,
+  "RuneLevel": 0,
+  "RuneExp": 1080,
+  "RuneIcon": "Icon_Gear_3",
+  "RuneQuality": 3,
+  "ArtificeEntry": 4,
+  "ArtificeTimes": 12,
+  "ArtificeItem": [
+   212
+  ],
+  "ArtificeItemNum": [
+   10
+  ],
+  "LevelMultiple": 100,
+  "InheritItems": [
+   212
+  ],
+  "InheritNum": [
+   15
+  ],
+  "BreakItem": [],
+  "BreakItemNum": [],
+  "RuneProfessions": [
+   4
+  ],
+  "RuneSkills": 30034,
+  "RuneSkillWeights": 100
+ },
+ {
+  "RuneID": 940027,
+  "RuneLevel": 0,
+  "RuneExp": 240,
+  "RuneIcon": "Icon_Gear_1",
+  "RuneQuality": 1,
+  "ArtificeEntry": 2,
+  "ArtificeTimes": 6,
+  "ArtificeItem": [
+   212
+  ],
+  "ArtificeItemNum": [
+   10
+  ],
+  "LevelMultiple": 100,
+  "InheritItems": [
+   212
+  ],
+  "InheritNum": [
+   15
+  ],
+  "BreakItem": [],
+  "BreakItemNum": [],
+  "RuneProfessions": [
+   5
+  ],
+  "RuneSkills": 10027,
+  "RuneSkillWeights": 100
+ },
+ {
+  "RuneID": 940028,
+  "RuneLevel": 0,
+  "RuneExp": 240,
+  "RuneIcon": "Icon_Gear_1",
+  "RuneQuality": 1,
+  "ArtificeEntry": 2,
+  "ArtificeTimes": 6,
+  "ArtificeItem": [
+   212
+  ],
+  "ArtificeItemNum": [
+   10
+  ],
+  "LevelMultiple": 100,
+  "InheritItems": [
+   212
+  ],
+  "InheritNum": [
+   15
+  ],
+  "BreakItem": [],
+  "BreakItemNum": [],
+  "RuneProfessions": [
+   5
+  ],
+  "RuneSkills": 10028,
+  "RuneSkillWeights": 100
+ },
+ {
+  "RuneID": 950019,
+  "RuneLevel": 0,
+  "RuneExp": 240,
+  "RuneIcon": "Icon_Gear_1",
+  "RuneQuality": 1,
+  "ArtificeEntry": 2,
+  "ArtificeTimes": 6,
+  "ArtificeItem": [
+   212
+  ],
+  "ArtificeItemNum": [
+   10
+  ],
+  "LevelMultiple": 100,
+  "InheritItems": [
+   212
+  ],
+  "InheritNum": [
+   15
+  ],
+  "BreakItem": [],
+  "BreakItemNum": [],
+  "RuneProfessions": [
+   5
+  ],
+  "RuneSkills": 20019,
+  "RuneSkillWeights": 100
+ },
+ {
+  "RuneID": 950020,
+  "RuneLevel": 0,
+  "RuneExp": 240,
+  "RuneIcon": "Icon_Gear_1",
+  "RuneQuality": 1,
+  "ArtificeEntry": 2,
+  "ArtificeTimes": 6,
+  "ArtificeItem": [
+   212
+  ],
+  "ArtificeItemNum": [
+   10
+  ],
+  "LevelMultiple": 100,
+  "InheritItems": [
+   212
+  ],
+  "InheritNum": [
+   15
+  ],
+  "BreakItem": [],
+  "BreakItemNum": [],
+  "RuneProfessions": [
+   5
+  ],
+  "RuneSkills": 20020,
+  "RuneSkillWeights": 100
+ },
+ {
+  "RuneID": 940093,
+  "RuneLevel": 0,
+  "RuneExp": 540,
+  "RuneIcon": "Icon_Gear_2",
+  "RuneQuality": 2,
+  "ArtificeEntry": 3,
+  "ArtificeTimes": 9,
+  "ArtificeItem": [
+   212
+  ],
+  "ArtificeItemNum": [
+   10
+  ],
+  "LevelMultiple": 100,
+  "InheritItems": [
+   212
+  ],
+  "InheritNum": [
+   15
+  ],
+  "BreakItem": [],
+  "BreakItemNum": [],
+  "RuneProfessions": [
+   5
+  ],
+  "RuneSkills": 10093,
+  "RuneSkillWeights": 100
+ },
+ {
+  "RuneID": 950021,
+  "RuneLevel": 0,
+  "RuneExp": 540,
+  "RuneIcon": "Icon_Gear_2",
+  "RuneQuality": 2,
+  "ArtificeEntry": 3,
+  "ArtificeTimes": 9,
+  "ArtificeItem": [
+   212
+  ],
+  "ArtificeItemNum": [
+   10
+  ],
+  "LevelMultiple": 100,
+  "InheritItems": [
+   212
+  ],
+  "InheritNum": [
+   15
+  ],
+  "BreakItem": [],
+  "BreakItemNum": [],
+  "RuneProfessions": [
+   5
+  ],
+  "RuneSkills": 20021,
+  "RuneSkillWeights": 100
+ },
+ {
+  "RuneID": 950072,
+  "RuneLevel": 0,
+  "RuneExp": 540,
+  "RuneIcon": "Icon_Gear_2",
+  "RuneQuality": 2,
+  "ArtificeEntry": 3,
+  "ArtificeTimes": 9,
+  "ArtificeItem": [
+   212
+  ],
+  "ArtificeItemNum": [
+   10
+  ],
+  "LevelMultiple": 100,
+  "InheritItems": [
+   212
+  ],
+  "InheritNum": [
+   15
+  ],
+  "BreakItem": [],
+  "BreakItemNum": [],
+  "RuneProfessions": [
+   5
+  ],
+  "RuneSkills": 20072,
+  "RuneSkillWeights": 100
+ },
+ {
+  "RuneID": 960009,
+  "RuneLevel": 0,
+  "RuneExp": 1080,
+  "RuneIcon": "Icon_Gear_3",
+  "RuneQuality": 3,
+  "ArtificeEntry": 4,
+  "ArtificeTimes": 12,
+  "ArtificeItem": [
+   212
+  ],
+  "ArtificeItemNum": [
+   10
+  ],
+  "LevelMultiple": 100,
+  "InheritItems": [
+   212
+  ],
+  "InheritNum": [
+   15
+  ],
+  "BreakItem": [],
+  "BreakItemNum": [],
+  "RuneProfessions": [
+   5
+  ],
+  "RuneSkills": 30009,
+  "RuneSkillWeights": 100
+ },
+ {
+  "RuneID": 960025,
+  "RuneLevel": 0,
+  "RuneExp": 1080,
+  "RuneIcon": "Icon_Gear_3",
+  "RuneQuality": 3,
+  "ArtificeEntry": 4,
+  "ArtificeTimes": 12,
+  "ArtificeItem": [
+   212
+  ],
+  "ArtificeItemNum": [
+   10
+  ],
+  "LevelMultiple": 100,
+  "InheritItems": [
+   212
+  ],
+  "InheritNum": [
+   15
+  ],
+  "BreakItem": [],
+  "BreakItemNum": [],
+  "RuneProfessions": [
+   5
+  ],
+  "RuneSkills": 30025,
+  "RuneSkillWeights": 100
+ },
+ {
+  "RuneID": 960035,
+  "RuneLevel": 0,
+  "RuneExp": 1080,
+  "RuneIcon": "Icon_Gear_3",
+  "RuneQuality": 3,
+  "ArtificeEntry": 4,
+  "ArtificeTimes": 12,
+  "ArtificeItem": [
+   212
+  ],
+  "ArtificeItemNum": [
+   10
+  ],
+  "LevelMultiple": 100,
+  "InheritItems": [
+   212
+  ],
+  "InheritNum": [
+   15
+  ],
+  "BreakItem": [],
+  "BreakItemNum": [],
+  "RuneProfessions": [
+   5
+  ],
+  "RuneSkills": 30035,
+  "RuneSkillWeights": 100
+ },
+ {
+  "RuneID": 940104,
+  "RuneLevel": 0,
+  "RuneExp": 240,
+  "RuneIcon": "Icon_Gear_1",
+  "RuneQuality": 1,
+  "ArtificeEntry": 2,
+  "ArtificeTimes": 6,
+  "ArtificeItem": [
+   212
+  ],
+  "ArtificeItemNum": [
+   10
+  ],
+  "LevelMultiple": 100,
+  "InheritItems": [
+   212
+  ],
+  "InheritNum": [
+   15
+  ],
+  "BreakItem": [],
+  "BreakItemNum": [],
+  "RuneProfessions": [
+   8
+  ],
+  "RuneSkills": 10104,
+  "RuneSkillWeights": 100
+ },
+ {
+  "RuneID": 940105,
+  "RuneLevel": 0,
+  "RuneExp": 240,
+  "RuneIcon": "Icon_Gear_1",
+  "RuneQuality": 1,
+  "ArtificeEntry": 2,
+  "ArtificeTimes": 6,
+  "ArtificeItem": [
+   212
+  ],
+  "ArtificeItemNum": [
+   10
+  ],
+  "LevelMultiple": 100,
+  "InheritItems": [
+   212
+  ],
+  "InheritNum": [
+   15
+  ],
+  "BreakItem": [],
+  "BreakItemNum": [],
+  "RuneProfessions": [
+   8
+  ],
+  "RuneSkills": 10105,
+  "RuneSkillWeights": 100
+ },
+ {
+  "RuneID": 940106,
+  "RuneLevel": 0,
+  "RuneExp": 240,
+  "RuneIcon": "Icon_Gear_1",
+  "RuneQuality": 1,
+  "ArtificeEntry": 2,
+  "ArtificeTimes": 6,
+  "ArtificeItem": [
+   212
+  ],
+  "ArtificeItemNum": [
+   10
+  ],
+  "LevelMultiple": 100,
+  "InheritItems": [
+   212
+  ],
+  "InheritNum": [
+   15
+  ],
+  "BreakItem": [],
+  "BreakItemNum": [],
+  "RuneProfessions": [
+   8
+  ],
+  "RuneSkills": 10106,
+  "RuneSkillWeights": 100
+ },
+ {
+  "RuneID": 940107,
+  "RuneLevel": 0,
+  "RuneExp": 240,
+  "RuneIcon": "Icon_Gear_1",
+  "RuneQuality": 1,
+  "ArtificeEntry": 2,
+  "ArtificeTimes": 6,
+  "ArtificeItem": [
+   212
+  ],
+  "ArtificeItemNum": [
+   10
+  ],
+  "LevelMultiple": 100,
+  "InheritItems": [
+   212
+  ],
+  "InheritNum": [
+   15
+  ],
+  "BreakItem": [],
+  "BreakItemNum": [],
+  "RuneProfessions": [
+   8
+  ],
+  "RuneSkills": 10107,
+  "RuneSkillWeights": 100
+ },
+ {
+  "RuneID": 940108,
+  "RuneLevel": 0,
+  "RuneExp": 540,
+  "RuneIcon": "Icon_Gear_2",
+  "RuneQuality": 2,
+  "ArtificeEntry": 3,
+  "ArtificeTimes": 9,
+  "ArtificeItem": [
+   212
+  ],
+  "ArtificeItemNum": [
+   10
+  ],
+  "LevelMultiple": 100,
+  "InheritItems": [
+   212
+  ],
+  "InheritNum": [
+   15
+  ],
+  "BreakItem": [],
+  "BreakItemNum": [],
+  "RuneProfessions": [
+   8
+  ],
+  "RuneSkills": 10108,
+  "RuneSkillWeights": 100
+ },
+ {
+  "RuneID": 950009,
+  "RuneLevel": 0,
+  "RuneExp": 540,
+  "RuneIcon": "Icon_Gear_2",
+  "RuneQuality": 2,
+  "ArtificeEntry": 3,
+  "ArtificeTimes": 9,
+  "ArtificeItem": [
+   212
+  ],
+  "ArtificeItemNum": [
+   10
+  ],
+  "LevelMultiple": 100,
+  "InheritItems": [
+   212
+  ],
+  "InheritNum": [
+   15
+  ],
+  "BreakItem": [],
+  "BreakItemNum": [],
+  "RuneProfessions": [
+   8
+  ],
+  "RuneSkills": 20009,
+  "RuneSkillWeights": 100
+ },
+ {
+  "RuneID": 950010,
+  "RuneLevel": 0,
+  "RuneExp": 540,
+  "RuneIcon": "Icon_Gear_2",
+  "RuneQuality": 2,
+  "ArtificeEntry": 3,
+  "ArtificeTimes": 9,
+  "ArtificeItem": [
+   212
+  ],
+  "ArtificeItemNum": [
+   10
+  ],
+  "LevelMultiple": 100,
+  "InheritItems": [
+   212
+  ],
+  "InheritNum": [
+   15
+  ],
+  "BreakItem": [],
+  "BreakItemNum": [],
+  "RuneProfessions": [
+   8
+  ],
+  "RuneSkills": 20010,
+  "RuneSkillWeights": 100
+ },
+ {
+  "RuneID": 960002,
+  "RuneLevel": 0,
+  "RuneExp": 1080,
+  "RuneIcon": "Icon_Gear_3",
+  "RuneQuality": 3,
+  "ArtificeEntry": 4,
+  "ArtificeTimes": 12,
+  "ArtificeItem": [
+   212
+  ],
+  "ArtificeItemNum": [
+   10
+  ],
+  "LevelMultiple": 100,
+  "InheritItems": [
+   212
+  ],
+  "InheritNum": [
+   15
+  ],
+  "BreakItem": [],
+  "BreakItemNum": [],
+  "RuneProfessions": [
+   8
+  ],
+  "RuneSkills": 30002,
+  "RuneSkillWeights": 100
+ },
+ {
+  "RuneID": 960005,
+  "RuneLevel": 0,
+  "RuneExp": 1080,
+  "RuneIcon": "Icon_Gear_3",
+  "RuneQuality": 3,
+  "ArtificeEntry": 4,
+  "ArtificeTimes": 12,
+  "ArtificeItem": [
+   212
+  ],
+  "ArtificeItemNum": [
+   10
+  ],
+  "LevelMultiple": 100,
+  "InheritItems": [
+   212
+  ],
+  "InheritNum": [
+   15
+  ],
+  "BreakItem": [],
+  "BreakItemNum": [],
+  "RuneProfessions": [
+   8
+  ],
+  "RuneSkills": 30005,
+  "RuneSkillWeights": 100
+ },
+ {
+  "RuneID": 960039,
+  "RuneLevel": 0,
+  "RuneExp": 1080,
+  "RuneIcon": "Icon_Gear_3",
+  "RuneQuality": 3,
+  "ArtificeEntry": 4,
+  "ArtificeTimes": 12,
+  "ArtificeItem": [
+   212
+  ],
+  "ArtificeItemNum": [
+   10
+  ],
+  "LevelMultiple": 100,
+  "InheritItems": [
+   212
+  ],
+  "InheritNum": [
+   15
+  ],
+  "BreakItem": [],
+  "BreakItemNum": [],
+  "RuneProfessions": [
+   8
+  ],
+  "RuneSkills": 30039,
+  "RuneSkillWeights": 100
+ },
+ {
+  "RuneID": 940064,
+  "RuneLevel": 0,
+  "RuneExp": 240,
+  "RuneIcon": "Icon_Gear_1",
+  "RuneQuality": 1,
+  "ArtificeEntry": 2,
+  "ArtificeTimes": 6,
+  "ArtificeItem": [
+   212
+  ],
+  "ArtificeItemNum": [
+   10
+  ],
+  "LevelMultiple": 100,
+  "InheritItems": [
+   212
+  ],
+  "InheritNum": [
+   15
+  ],
+  "BreakItem": [],
+  "BreakItemNum": [],
+  "RuneProfessions": [
+   2
+  ],
+  "RuneSkills": 10064,
+  "RuneSkillWeights": 100
+ },
+ {
+  "RuneID": 940065,
+  "RuneLevel": 0,
+  "RuneExp": 240,
+  "RuneIcon": "Icon_Gear_1",
+  "RuneQuality": 1,
+  "ArtificeEntry": 2,
+  "ArtificeTimes": 6,
+  "ArtificeItem": [
+   212
+  ],
+  "ArtificeItemNum": [
+   10
+  ],
+  "LevelMultiple": 100,
+  "InheritItems": [
+   212
+  ],
+  "InheritNum": [
+   15
+  ],
+  "BreakItem": [],
+  "BreakItemNum": [],
+  "RuneProfessions": [
+   2
+  ],
+  "RuneSkills": 10065,
+  "RuneSkillWeights": 100
+ },
+ {
+  "RuneID": 940066,
+  "RuneLevel": 0,
+  "RuneExp": 240,
+  "RuneIcon": "Icon_Gear_1",
+  "RuneQuality": 1,
+  "ArtificeEntry": 2,
+  "ArtificeTimes": 6,
+  "ArtificeItem": [
+   212
+  ],
+  "ArtificeItemNum": [
+   10
+  ],
+  "LevelMultiple": 100,
+  "InheritItems": [
+   212
+  ],
+  "InheritNum": [
+   15
+  ],
+  "BreakItem": [],
+  "BreakItemNum": [],
+  "RuneProfessions": [
+   2
+  ],
+  "RuneSkills": 10066,
+  "RuneSkillWeights": 100
+ },
+ {
+  "RuneID": 950060,
+  "RuneLevel": 0,
+  "RuneExp": 240,
+  "RuneIcon": "Icon_Gear_1",
+  "RuneQuality": 1,
+  "ArtificeEntry": 2,
+  "ArtificeTimes": 6,
+  "ArtificeItem": [
+   212
+  ],
+  "ArtificeItemNum": [
+   10
+  ],
+  "LevelMultiple": 100,
+  "InheritItems": [
+   212
+  ],
+  "InheritNum": [
+   15
+  ],
+  "BreakItem": [],
+  "BreakItemNum": [],
+  "RuneProfessions": [
+   2
+  ],
+  "RuneSkills": 20060,
+  "RuneSkillWeights": 100
+ },
+ {
+  "RuneID": 940088,
+  "RuneLevel": 0,
+  "RuneExp": 540,
+  "RuneIcon": "Icon_Gear_2",
+  "RuneQuality": 2,
+  "ArtificeEntry": 3,
+  "ArtificeTimes": 9,
+  "ArtificeItem": [
+   212
+  ],
+  "ArtificeItemNum": [
+   10
+  ],
+  "LevelMultiple": 100,
+  "InheritItems": [
+   212
+  ],
+  "InheritNum": [
+   15
+  ],
+  "BreakItem": [],
+  "BreakItemNum": [],
+  "RuneProfessions": [
+   2
+  ],
+  "RuneSkills": 10088,
+  "RuneSkillWeights": 100
+ },
+ {
+  "RuneID": 950023,
+  "RuneLevel": 0,
+  "RuneExp": 540,
+  "RuneIcon": "Icon_Gear_2",
+  "RuneQuality": 2,
+  "ArtificeEntry": 3,
+  "ArtificeTimes": 9,
+  "ArtificeItem": [
+   212
+  ],
+  "ArtificeItemNum": [
+   10
+  ],
+  "LevelMultiple": 100,
+  "InheritItems": [
+   212
+  ],
+  "InheritNum": [
+   15
+  ],
+  "BreakItem": [],
+  "BreakItemNum": [],
+  "RuneProfessions": [
+   2
+  ],
+  "RuneSkills": 20023,
+  "RuneSkillWeights": 100
+ },
+ {
+  "RuneID": 950024,
+  "RuneLevel": 0,
+  "RuneExp": 540,
+  "RuneIcon": "Icon_Gear_2",
+  "RuneQuality": 2,
+  "ArtificeEntry": 3,
+  "ArtificeTimes": 9,
+  "ArtificeItem": [
+   212
+  ],
+  "ArtificeItemNum": [
+   10
+  ],
+  "LevelMultiple": 100,
+  "InheritItems": [
+   212
+  ],
+  "InheritNum": [
+   15
+  ],
+  "BreakItem": [],
+  "BreakItemNum": [],
+  "RuneProfessions": [
+   2
+  ],
+  "RuneSkills": 20024,
+  "RuneSkillWeights": 100
+ },
+ {
+  "RuneID": 950022,
+  "RuneLevel": 0,
+  "RuneExp": 1080,
+  "RuneIcon": "Icon_Gear_3",
+  "RuneQuality": 3,
+  "ArtificeEntry": 4,
+  "ArtificeTimes": 12,
+  "ArtificeItem": [
+   212
+  ],
+  "ArtificeItemNum": [
+   10
+  ],
+  "LevelMultiple": 100,
+  "InheritItems": [
+   212
+  ],
+  "InheritNum": [
+   15
+  ],
+  "BreakItem": [],
+  "BreakItemNum": [],
+  "RuneProfessions": [
+   2
+  ],
+  "RuneSkills": 20022,
+  "RuneSkillWeights": 100
+ },
+ {
+  "RuneID": 960010,
+  "RuneLevel": 0,
+  "RuneExp": 1080,
+  "RuneIcon": "Icon_Gear_3",
+  "RuneQuality": 3,
+  "ArtificeEntry": 4,
+  "ArtificeTimes": 12,
+  "ArtificeItem": [
+   212
+  ],
+  "ArtificeItemNum": [
+   10
+  ],
+  "LevelMultiple": 100,
+  "InheritItems": [
+   212
+  ],
+  "InheritNum": [
+   15
+  ],
+  "BreakItem": [],
+  "BreakItemNum": [],
+  "RuneProfessions": [
+   2
+  ],
+  "RuneSkills": 30010,
+  "RuneSkillWeights": 100
+ },
+ {
+  "RuneID": 960032,
+  "RuneLevel": 0,
+  "RuneExp": 1080,
+  "RuneIcon": "Icon_Gear_3",
+  "RuneQuality": 3,
+  "ArtificeEntry": 4,
+  "ArtificeTimes": 12,
+  "ArtificeItem": [
+   212
+  ],
+  "ArtificeItemNum": [
+   10
+  ],
+  "LevelMultiple": 100,
+  "InheritItems": [
+   212
+  ],
+  "InheritNum": [
+   15
+  ],
+  "BreakItem": [],
+  "BreakItemNum": [],
+  "RuneProfessions": [
+   2
+  ],
+  "RuneSkills": 30032,
+  "RuneSkillWeights": 100
+ },
+ {
+  "RuneID": 940094,
+  "RuneLevel": 0,
+  "RuneExp": 240,
+  "RuneIcon": "Icon_Gear_1",
+  "RuneQuality": 1,
+  "ArtificeEntry": 2,
+  "ArtificeTimes": 6,
+  "ArtificeItem": [
+   212
+  ],
+  "ArtificeItemNum": [
+   10
+  ],
+  "LevelMultiple": 100,
+  "InheritItems": [
+   212
+  ],
+  "InheritNum": [
+   15
+  ],
+  "BreakItem": [],
+  "BreakItemNum": [],
+  "RuneProfessions": [
+   6
+  ],
+  "RuneSkills": 10094,
+  "RuneSkillWeights": 100
+ },
+ {
+  "RuneID": 940095,
+  "RuneLevel": 0,
+  "RuneExp": 240,
+  "RuneIcon": "Icon_Gear_1",
+  "RuneQuality": 1,
+  "ArtificeEntry": 2,
+  "ArtificeTimes": 6,
+  "ArtificeItem": [
+   212
+  ],
+  "ArtificeItemNum": [
+   10
+  ],
+  "LevelMultiple": 100,
+  "InheritItems": [
+   212
+  ],
+  "InheritNum": [
+   15
+  ],
+  "BreakItem": [],
+  "BreakItemNum": [],
+  "RuneProfessions": [
+   6
+  ],
+  "RuneSkills": 10095,
+  "RuneSkillWeights": 100
+ },
+ {
+  "RuneID": 940096,
+  "RuneLevel": 0,
+  "RuneExp": 240,
+  "RuneIcon": "Icon_Gear_1",
+  "RuneQuality": 1,
+  "ArtificeEntry": 2,
+  "ArtificeTimes": 6,
+  "ArtificeItem": [
+   212
+  ],
+  "ArtificeItemNum": [
+   10
+  ],
+  "LevelMultiple": 100,
+  "InheritItems": [
+   212
+  ],
+  "InheritNum": [
+   15
+  ],
+  "BreakItem": [],
+  "BreakItemNum": [],
+  "RuneProfessions": [
+   6
+  ],
+  "RuneSkills": 10096,
+  "RuneSkillWeights": 100
+ },
+ {
+  "RuneID": 940097,
+  "RuneLevel": 0,
+  "RuneExp": 240,
+  "RuneIcon": "Icon_Gear_1",
+  "RuneQuality": 1,
+  "ArtificeEntry": 2,
+  "ArtificeTimes": 6,
+  "ArtificeItem": [
+   212
+  ],
+  "ArtificeItemNum": [
+   10
+  ],
+  "LevelMultiple": 100,
+  "InheritItems": [
+   212
+  ],
+  "InheritNum": [
+   15
+  ],
+  "BreakItem": [],
+  "BreakItemNum": [],
+  "RuneProfessions": [
+   6
+  ],
+  "RuneSkills": 10097,
+  "RuneSkillWeights": 100
+ },
+ {
+  "RuneID": 940098,
+  "RuneLevel": 0,
+  "RuneExp": 540,
+  "RuneIcon": "Icon_Gear_2",
+  "RuneQuality": 2,
+  "ArtificeEntry": 3,
+  "ArtificeTimes": 9,
+  "ArtificeItem": [
+   212
+  ],
+  "ArtificeItemNum": [
+   10
+  ],
+  "LevelMultiple": 100,
+  "InheritItems": [
+   212
+  ],
+  "InheritNum": [
+   15
+  ],
+  "BreakItem": [],
+  "BreakItemNum": [],
+  "RuneProfessions": [
+   6
+  ],
+  "RuneSkills": 10098,
+  "RuneSkillWeights": 100
+ },
+ {
+  "RuneID": 950011,
+  "RuneLevel": 0,
+  "RuneExp": 540,
+  "RuneIcon": "Icon_Gear_2",
+  "RuneQuality": 2,
+  "ArtificeEntry": 3,
+  "ArtificeTimes": 9,
+  "ArtificeItem": [
+   212
+  ],
+  "ArtificeItemNum": [
+   10
+  ],
+  "LevelMultiple": 100,
+  "InheritItems": [
+   212
+  ],
+  "InheritNum": [
+   15
+  ],
+  "BreakItem": [],
+  "BreakItemNum": [],
+  "RuneProfessions": [
+   6
+  ],
+  "RuneSkills": 20011,
+  "RuneSkillWeights": 100
+ },
+ {
+  "RuneID": 950012,
+  "RuneLevel": 0,
+  "RuneExp": 540,
+  "RuneIcon": "Icon_Gear_2",
+  "RuneQuality": 2,
+  "ArtificeEntry": 3,
+  "ArtificeTimes": 9,
+  "ArtificeItem": [
+   212
+  ],
+  "ArtificeItemNum": [
+   10
+  ],
+  "LevelMultiple": 100,
+  "InheritItems": [
+   212
+  ],
+  "InheritNum": [
+   15
+  ],
+  "BreakItem": [],
+  "BreakItemNum": [],
+  "RuneProfessions": [
+   6
+  ],
+  "RuneSkills": 20012,
+  "RuneSkillWeights": 100
+ },
+ {
+  "RuneID": 950050,
+  "RuneLevel": 0,
+  "RuneExp": 1080,
+  "RuneIcon": "Icon_Gear_3",
+  "RuneQuality": 3,
+  "ArtificeEntry": 4,
+  "ArtificeTimes": 12,
+  "ArtificeItem": [
+   212
+  ],
+  "ArtificeItemNum": [
+   10
+  ],
+  "LevelMultiple": 100,
+  "InheritItems": [
+   212
+  ],
+  "InheritNum": [
+   15
+  ],
+  "BreakItem": [],
+  "BreakItemNum": [],
+  "RuneProfessions": [
+   6
+  ],
+  "RuneSkills": 20050,
+  "RuneSkillWeights": 100
+ },
+ {
+  "RuneID": 960020,
+  "RuneLevel": 0,
+  "RuneExp": 1080,
+  "RuneIcon": "Icon_Gear_3",
+  "RuneQuality": 3,
+  "ArtificeEntry": 4,
+  "ArtificeTimes": 12,
+  "ArtificeItem": [
+   212
+  ],
+  "ArtificeItemNum": [
+   10
+  ],
+  "LevelMultiple": 100,
+  "InheritItems": [
+   212
+  ],
+  "InheritNum": [
+   15
+  ],
+  "BreakItem": [],
+  "BreakItemNum": [],
+  "RuneProfessions": [
+   6
+  ],
+  "RuneSkills": 30020,
+  "RuneSkillWeights": 100
+ },
+ {
+  "RuneID": 960036,
+  "RuneLevel": 0,
+  "RuneExp": 1080,
+  "RuneIcon": "Icon_Gear_3",
+  "RuneQuality": 3,
+  "ArtificeEntry": 4,
+  "ArtificeTimes": 12,
+  "ArtificeItem": [
+   212
+  ],
+  "ArtificeItemNum": [
+   10
+  ],
+  "LevelMultiple": 100,
+  "InheritItems": [
+   212
+  ],
+  "InheritNum": [
+   15
+  ],
+  "BreakItem": [],
+  "BreakItemNum": [],
+  "RuneProfessions": [
+   6
+  ],
+  "RuneSkills": 30036,
+  "RuneSkillWeights": 100
+ },
+ {
+  "RuneID": 940099,
+  "RuneLevel": 0,
+  "RuneExp": 240,
+  "RuneIcon": "Icon_Gear_1",
+  "RuneQuality": 1,
+  "ArtificeEntry": 2,
+  "ArtificeTimes": 6,
+  "ArtificeItem": [
+   212
+  ],
+  "ArtificeItemNum": [
+   10
+  ],
+  "LevelMultiple": 100,
+  "InheritItems": [
+   212
+  ],
+  "InheritNum": [
+   15
+  ],
+  "BreakItem": [],
+  "BreakItemNum": [],
+  "RuneProfessions": [
+   7
+  ],
+  "RuneSkills": 10099,
+  "RuneSkillWeights": 100
+ },
+ {
+  "RuneID": 940100,
+  "RuneLevel": 0,
+  "RuneExp": 240,
+  "RuneIcon": "Icon_Gear_1",
+  "RuneQuality": 1,
+  "ArtificeEntry": 2,
+  "ArtificeTimes": 6,
+  "ArtificeItem": [
+   212
+  ],
+  "ArtificeItemNum": [
+   10
+  ],
+  "LevelMultiple": 100,
+  "InheritItems": [
+   212
+  ],
+  "InheritNum": [
+   15
+  ],
+  "BreakItem": [],
+  "BreakItemNum": [],
+  "RuneProfessions": [
+   7
+  ],
+  "RuneSkills": 10100,
+  "RuneSkillWeights": 100
+ },
+ {
+  "RuneID": 940101,
+  "RuneLevel": 0,
+  "RuneExp": 240,
+  "RuneIcon": "Icon_Gear_1",
+  "RuneQuality": 1,
+  "ArtificeEntry": 2,
+  "ArtificeTimes": 6,
+  "ArtificeItem": [
+   212
+  ],
+  "ArtificeItemNum": [
+   10
+  ],
+  "LevelMultiple": 100,
+  "InheritItems": [
+   212
+  ],
+  "InheritNum": [
+   15
+  ],
+  "BreakItem": [],
+  "BreakItemNum": [],
+  "RuneProfessions": [
+   7
+  ],
+  "RuneSkills": 10101,
+  "RuneSkillWeights": 100
+ },
+ {
+  "RuneID": 940102,
+  "RuneLevel": 0,
+  "RuneExp": 240,
+  "RuneIcon": "Icon_Gear_1",
+  "RuneQuality": 1,
+  "ArtificeEntry": 2,
+  "ArtificeTimes": 6,
+  "ArtificeItem": [
+   212
+  ],
+  "ArtificeItemNum": [
+   10
+  ],
+  "LevelMultiple": 100,
+  "InheritItems": [
+   212
+  ],
+  "InheritNum": [
+   15
+  ],
+  "BreakItem": [],
+  "BreakItemNum": [],
+  "RuneProfessions": [
+   7
+  ],
+  "RuneSkills": 10102,
+  "RuneSkillWeights": 100
+ },
+ {
+  "RuneID": 940103,
+  "RuneLevel": 0,
+  "RuneExp": 540,
+  "RuneIcon": "Icon_Gear_2",
+  "RuneQuality": 2,
+  "ArtificeEntry": 3,
+  "ArtificeTimes": 9,
+  "ArtificeItem": [
+   212
+  ],
+  "ArtificeItemNum": [
+   10
+  ],
+  "LevelMultiple": 100,
+  "InheritItems": [
+   212
+  ],
+  "InheritNum": [
+   15
+  ],
+  "BreakItem": [],
+  "BreakItemNum": [],
+  "RuneProfessions": [
+   7
+  ],
+  "RuneSkills": 10103,
+  "RuneSkillWeights": 100
+ },
+ {
+  "RuneID": 950075,
+  "RuneLevel": 0,
+  "RuneExp": 540,
+  "RuneIcon": "Icon_Gear_2",
+  "RuneQuality": 2,
+  "ArtificeEntry": 3,
+  "ArtificeTimes": 9,
+  "ArtificeItem": [
+   212
+  ],
+  "ArtificeItemNum": [
+   10
+  ],
+  "LevelMultiple": 100,
+  "InheritItems": [
+   212
+  ],
+  "InheritNum": [
+   15
+  ],
+  "BreakItem": [],
+  "BreakItemNum": [],
+  "RuneProfessions": [
+   7
+  ],
+  "RuneSkills": 20075,
+  "RuneSkillWeights": 100
+ },
+ {
+  "RuneID": 950076,
+  "RuneLevel": 0,
+  "RuneExp": 540,
+  "RuneIcon": "Icon_Gear_2",
+  "RuneQuality": 2,
+  "ArtificeEntry": 3,
+  "ArtificeTimes": 9,
+  "ArtificeItem": [
+   212
+  ],
+  "ArtificeItemNum": [
+   10
+  ],
+  "LevelMultiple": 100,
+  "InheritItems": [
+   212
+  ],
+  "InheritNum": [
+   15
+  ],
+  "BreakItem": [],
+  "BreakItemNum": [],
+  "RuneProfessions": [
+   7
+  ],
+  "RuneSkills": 20076,
+  "RuneSkillWeights": 100
+ },
+ {
+  "RuneID": 960017,
+  "RuneLevel": 0,
+  "RuneExp": 1080,
+  "RuneIcon": "Icon_Gear_3",
+  "RuneQuality": 3,
+  "ArtificeEntry": 4,
+  "ArtificeTimes": 12,
+  "ArtificeItem": [
+   212
+  ],
+  "ArtificeItemNum": [
+   10
+  ],
+  "LevelMultiple": 100,
+  "InheritItems": [
+   212
+  ],
+  "InheritNum": [
+   15
+  ],
+  "BreakItem": [],
+  "BreakItemNum": [],
+  "RuneProfessions": [
+   7
+  ],
+  "RuneSkills": 30017,
+  "RuneSkillWeights": 100
+ },
+ {
+  "RuneID": 960037,
+  "RuneLevel": 0,
+  "RuneExp": 1080,
+  "RuneIcon": "Icon_Gear_3",
+  "RuneQuality": 3,
+  "ArtificeEntry": 4,
+  "ArtificeTimes": 12,
+  "ArtificeItem": [
+   212
+  ],
+  "ArtificeItemNum": [
+   10
+  ],
+  "LevelMultiple": 100,
+  "InheritItems": [
+   212
+  ],
+  "InheritNum": [
+   15
+  ],
+  "BreakItem": [],
+  "BreakItemNum": [],
+  "RuneProfessions": [
+   7
+  ],
+  "RuneSkills": 30037,
+  "RuneSkillWeights": 100
+ },
+ {
+  "RuneID": 960038,
+  "RuneLevel": 0,
+  "RuneExp": 1080,
+  "RuneIcon": "Icon_Gear_3",
+  "RuneQuality": 3,
+  "ArtificeEntry": 4,
+  "ArtificeTimes": 12,
+  "ArtificeItem": [
+   212
+  ],
+  "ArtificeItemNum": [
+   10
+  ],
+  "LevelMultiple": 100,
+  "InheritItems": [
+   212
+  ],
+  "InheritNum": [
+   15
+  ],
+  "BreakItem": [],
+  "BreakItemNum": [],
+  "RuneProfessions": [
+   7
+  ],
+  "RuneSkills": 30038,
+  "RuneSkillWeights": 100
+ }
+]

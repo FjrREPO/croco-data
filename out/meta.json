@@ -1,0 +1,967 @@
+{
+ "heroes": [
+  {
+   "name": "Artemis",
+   "epithet": "Goddess of the Hunt",
+   "rarity": "UR",
+   "profession": "Archer",
+   "cost": 1,
+   "blessings": 12,
+   "mech": {
+    "maxhp": 1,
+    "defpen": 2,
+    "aoe": 5,
+    "summon": 3
+   }
+  },
+  {
+   "name": "Veliana Purple Flame",
+   "epithet": "Light Archer",
+   "rarity": "SP",
+   "profession": "Archer",
+   "cost": 1,
+   "blessings": 12,
+   "mech": {
+    "heal": 1,
+    "aoe": 1
+   }
+  },
+  {
+   "name": "Eria·Ironwing",
+   "epithet": "Bounty Hunter",
+   "rarity": "SSR",
+   "profession": "Archer",
+   "cost": 1,
+   "blessings": 12,
+   "mech": {
+    "aoe": 1
+   }
+  },
+  {
+   "name": "Karen・Xuanren",
+   "epithet": "Turtle Shooter",
+   "rarity": "SR",
+   "profession": "Archer",
+   "cost": 1,
+   "blessings": 11,
+   "mech": {}
+  },
+  {
+   "name": "Karl Redhook",
+   "epithet": "Gunslinger",
+   "rarity": "R",
+   "profession": "Archer",
+   "cost": 1,
+   "blessings": 11,
+   "mech": {
+    "heal": 1
+   }
+  },
+  {
+   "name": "Mitia",
+   "epithet": "Catwoman",
+   "rarity": "SP",
+   "profession": "Assassin",
+   "cost": 1,
+   "blessings": 12,
+   "mech": {
+    "heal": 3,
+    "aoe": 4
+   }
+  },
+  {
+   "name": "Selina Shadowblade",
+   "epithet": "Phantom",
+   "rarity": "SSR",
+   "profession": "Assassin",
+   "cost": 1,
+   "blessings": 12,
+   "mech": {
+    "truedmg": 1,
+    "heal": 1
+   }
+  },
+  {
+   "name": "Karl",
+   "epithet": "Shadow Wolf",
+   "rarity": "SR",
+   "profession": "Assassin",
+   "cost": 1,
+   "blessings": 11,
+   "mech": {
+    "heal": 3
+   }
+  },
+  {
+   "name": "Lias·Shadowblade",
+   "epithet": "Silver Moon Assassin",
+   "rarity": "R",
+   "profession": "Assassin",
+   "cost": 1,
+   "blessings": 11,
+   "mech": {
+    "heal": 2
+   }
+  },
+  {
+   "name": "Kazres·Darkblade",
+   "epithet": "Sword Demon",
+   "rarity": "SP",
+   "profession": "Calamity",
+   "cost": 1,
+   "blessings": 12,
+   "mech": {
+    "softcc": 22,
+    "heal": 3,
+    "aoe": 1,
+    "summon": 3
+   }
+  },
+  {
+   "name": "Lilith·Charmflame",
+   "epithet": "Dark Knight",
+   "rarity": "SSR",
+   "profession": "Calamity",
+   "cost": 1,
+   "blessings": 12,
+   "mech": {
+    "softcc": 30,
+    "heal": 6,
+    "aoe": 1
+   }
+  },
+  {
+   "name": "Willow・Bloodrose",
+   "epithet": "Pain Sorceress",
+   "rarity": "SR",
+   "profession": "Calamity",
+   "cost": 1,
+   "blessings": 11,
+   "mech": {
+    "heal": 2,
+    "aoe": 2,
+    "summon": 1
+   }
+  },
+  {
+   "name": "Sern Darkwing",
+   "epithet": "Night Demon",
+   "rarity": "R",
+   "profession": "Calamity",
+   "cost": 1,
+   "blessings": 11,
+   "mech": {
+    "heal": 1,
+    "shield": 1,
+    "aoe": 1
+   }
+  },
+  {
+   "name": "Selina·Frostcharm",
+   "epithet": "Succubus",
+   "rarity": "SP",
+   "profession": "Control",
+   "cost": 1,
+   "blessings": 12,
+   "mech": {
+    "hardcc": 1,
+    "softcc": 16,
+    "heal": 2,
+    "aoe": 1
+   }
+  },
+  {
+   "name": "Karin",
+   "epithet": "Pharaoh",
+   "rarity": "SSR",
+   "profession": "Control",
+   "cost": 1,
+   "blessings": 12,
+   "mech": {
+    "hardcc": 7,
+    "shield": 1,
+    "summon": 2
+   }
+  },
+  {
+   "name": "Karn Pumpkin",
+   "epithet": "Pumpkin",
+   "rarity": "SR",
+   "profession": "Control",
+   "cost": 1,
+   "blessings": 11,
+   "mech": {
+    "hardcc": 2,
+    "heal": 1
+   }
+  },
+  {
+   "name": "Lia Silvermoon",
+   "epithet": "Little Magic Fairy",
+   "rarity": "R",
+   "profession": "Control",
+   "cost": 1,
+   "blessings": 11,
+   "mech": {
+    "aoe": 1
+   }
+  },
+  {
+   "name": "Livia·Flameveil",
+   "epithet": "Red Queen",
+   "rarity": "SP",
+   "profession": "Mage",
+   "cost": 1,
+   "blessings": 12,
+   "mech": {
+    "defpen": 2,
+    "heal": 1,
+    "aoe": 4,
+    "summon": 5
+   }
+  },
+  {
+   "name": "Liana·Nightrose",
+   "epithet": "Star Mage",
+   "rarity": "SSR",
+   "profession": "Mage",
+   "cost": 1,
+   "blessings": 12,
+   "mech": {
+    "defpen": 2,
+    "aoe": 3,
+    "summon": 9
+   }
+  },
+  {
+   "name": "Aivel",
+   "epithet": "Snow Witch",
+   "rarity": "SR",
+   "profession": "Mage",
+   "cost": 1,
+   "blessings": 11,
+   "mech": {
+    "defpen": 1,
+    "aoe": 4,
+    "summon": 1
+   }
+  },
+  {
+   "name": "Elden·Frost",
+   "epithet": "Ice Mage",
+   "rarity": "R",
+   "profession": "Mage",
+   "cost": 1,
+   "blessings": 11,
+   "mech": {
+    "aoe": 4
+   }
+  },
+  {
+   "name": "Ice Blue Snowbud",
+   "epithet": "Tidecaller",
+   "rarity": "SP",
+   "profession": "Summon",
+   "cost": 1,
+   "blessings": 12,
+   "mech": {
+    "hardcc": 1,
+    "heal": 4,
+    "aoe": 3,
+    "summon": 7,
+    "antictrl": 1
+   }
+  },
+  {
+   "name": "Mia Morning Dew",
+   "epithet": "Fire Spirit Master",
+   "rarity": "SSR",
+   "profession": "Summon",
+   "cost": 1,
+   "blessings": 12,
+   "mech": {
+    "aoe": 3,
+    "summon": 7
+   }
+  },
+  {
+   "name": "Maya Spirit Vine",
+   "epithet": "Necromancer Apprentice",
+   "rarity": "SR",
+   "profession": "Summon",
+   "cost": 1,
+   "blessings": 11,
+   "mech": {
+    "heal": 2,
+    "aoe": 2,
+    "summon": 5
+   }
+  },
+  {
+   "name": "Groda Senxiong",
+   "epithet": "Bear Caller",
+   "rarity": "R",
+   "profession": "Summon",
+   "cost": 1,
+   "blessings": 11,
+   "mech": {
+    "softcc": 2,
+    "heal": 4,
+    "shield": 1,
+    "summon": 11
+   }
+  },
+  {
+   "name": "Lia",
+   "epithet": "Flower Spirit",
+   "rarity": "SP",
+   "profession": "Support",
+   "cost": 1,
+   "blessings": 12,
+   "mech": {
+    "heal": 9,
+    "shield": 5
+   }
+  },
+  {
+   "name": "Sakura",
+   "epithet": "Onmyoji",
+   "rarity": "SSR",
+   "profession": "Support",
+   "cost": 1,
+   "blessings": 12,
+   "mech": {
+    "heal": 4,
+    "summon": 1
+   }
+  },
+  {
+   "name": "Ella・Yaowan",
+   "epithet": "Little Healer",
+   "rarity": "SR",
+   "profession": "Support",
+   "cost": 1,
+   "blessings": 11,
+   "mech": {
+    "heal": 26,
+    "shield": 1
+   }
+  },
+  {
+   "name": "Starstreak",
+   "epithet": "Priest Apprentice",
+   "rarity": "R",
+   "profession": "Support",
+   "cost": 1,
+   "blessings": 11,
+   "mech": {
+    "hardcc": 1,
+    "heal": 17,
+    "shield": 2
+   }
+  },
+  {
+   "name": "Athena",
+   "epithet": "Goddess of Wisdom",
+   "rarity": "UR",
+   "profession": "Warrior",
+   "cost": 1,
+   "blessings": 12,
+   "mech": {
+    "maxhp": 1,
+    "softcc": 2,
+    "heal": 2,
+    "shield": 15,
+    "aoe": 5,
+    "summon": 2,
+    "antictrl": 2
+   }
+  },
+  {
+   "name": "Rain Flame Soul",
+   "epithet": "Dragon Warrior",
+   "rarity": "SP",
+   "profession": "Warrior",
+   "cost": 1,
+   "blessings": 12,
+   "mech": {
+    "softcc": 3,
+    "heal": 3,
+    "shield": 9,
+    "aoe": 5,
+    "summon": 5
+   }
+  },
+  {
+   "name": "Serena·Dawn",
+   "epithet": "Holy Knight",
+   "rarity": "SSR",
+   "profession": "Warrior",
+   "cost": 1,
+   "blessings": 12,
+   "mech": {
+    "softcc": 1,
+    "heal": 6,
+    "shield": 11,
+    "aoe": 2
+   }
+  },
+  {
+   "name": "Elena Glorious",
+   "epithet": "Radiant Warrior",
+   "rarity": "SR",
+   "profession": "Warrior",
+   "cost": 1,
+   "blessings": 11,
+   "mech": {
+    "softcc": 2,
+    "heal": 2,
+    "shield": 5
+   }
+  },
+  {
+   "name": "Peggy",
+   "epithet": "Piggy Vanguard",
+   "rarity": "R",
+   "profession": "Warrior",
+   "cost": 1,
+   "blessings": 11,
+   "mech": {
+    "heal": 3,
+    "shield": 19
+   }
+  }
+ ],
+ "ladder": {
+  "Archer": [
+   "Goddess of the Hunt [UR]",
+   "Light Archer [SP]",
+   "Bounty Hunter [SSR]",
+   "Turtle Shooter [SR]",
+   "Gunslinger [R]"
+  ],
+  "Assassin": [
+   "Catwoman [SP]",
+   "Phantom [SSR]",
+   "Shadow Wolf [SR]",
+   "Silver Moon Assassin [R]"
+  ],
+  "Calamity": [
+   "Sword Demon [SP]",
+   "Dark Knight [SSR]",
+   "Pain Sorceress [SR]",
+   "Night Demon [R]"
+  ],
+  "Control": [
+   "Succubus [SP]",
+   "Pharaoh [SSR]",
+   "Pumpkin [SR]",
+   "Little Magic Fairy [R]"
+  ],
+  "Mage": [
+   "Red Queen [SP]",
+   "Star Mage [SSR]",
+   "Snow Witch [SR]",
+   "Ice Mage [R]"
+  ],
+  "Summon": [
+   "Tidecaller [SP]",
+   "Fire Spirit Master [SSR]",
+   "Necromancer Apprentice [SR]",
+   "Bear Caller [R]"
+  ],
+  "Support": [
+   "Flower Spirit [SP]",
+   "Onmyoji [SSR]",
+   "Little Healer [SR]",
+   "Priest Apprentice [R]"
+  ],
+  "Warrior": [
+   "Goddess of Wisdom [UR]",
+   "Dragon Warrior [SP]",
+   "Holy Knight [SSR]",
+   "Radiant Warrior [SR]",
+   "Piggy Vanguard [R]"
+  ]
+ },
+ "monsters_beaten_by": [
+  {
+   "name": "8202221",
+   "beaten_by": [
+    "Archer"
+   ]
+  },
+  {
+   "name": "8401011",
+   "beaten_by": [
+    "Mage"
+   ]
+  },
+  {
+   "name": "8401071",
+   "beaten_by": [
+    "Support"
+   ]
+  },
+  {
+   "name": "8401072",
+   "beaten_by": [
+    "Support"
+   ]
+  },
+  {
+   "name": "8401211",
+   "beaten_by": [
+    "Mage"
+   ]
+  },
+  {
+   "name": "8401271",
+   "beaten_by": [
+    "Support"
+   ]
+  },
+  {
+   "name": "8401272",
+   "beaten_by": [
+    "Support"
+   ]
+  },
+  {
+   "name": "Abyssal Shadow",
+   "beaten_by": [
+    "Support"
+   ]
+  },
+  {
+   "name": "Bomb King",
+   "beaten_by": [
+    "Summon"
+   ]
+  },
+  {
+   "name": "Corrosive Empress",
+   "beaten_by": [
+    "Summon"
+   ]
+  },
+  {
+   "name": "Corrupted Fungal Lord",
+   "beaten_by": [
+    "Calamity"
+   ]
+  },
+  {
+   "name": "Crab Emperor",
+   "beaten_by": [
+    "Mage"
+   ]
+  },
+  {
+   "name": "Deep Sea Fiend-Arm",
+   "beaten_by": [
+    "Assassin"
+   ]
+  },
+  {
+   "name": "Deep Sea Touch",
+   "beaten_by": [
+    "Mage"
+   ]
+  },
+  {
+   "name": "Deepsea Shadow",
+   "beaten_by": [
+    "Support"
+   ]
+  },
+  {
+   "name": "Demonic Eye of the End",
+   "beaten_by": [
+    "Control"
+   ]
+  },
+  {
+   "name": "Dread of the Dark Sea",
+   "beaten_by": [
+    "Support"
+   ]
+  },
+  {
+   "name": "Eye Monster",
+   "beaten_by": [
+    "Calamity"
+   ]
+  },
+  {
+   "name": "Eye of the Rift",
+   "beaten_by": [
+    "Control"
+   ]
+  },
+  {
+   "name": "Eye of the Void",
+   "beaten_by": [
+    "Control"
+   ]
+  },
+  {
+   "name": "Giant-Armed Fiend",
+   "beaten_by": [
+    "Assassin"
+   ]
+  },
+  {
+   "name": "Hard-Shell Crab Emperor",
+   "beaten_by": [
+    "Archer"
+   ]
+  },
+  {
+   "name": "Hellhound",
+   "beaten_by": [
+    "Calamity"
+   ]
+  },
+  {
+   "name": "Hermit Crab",
+   "beaten_by": [
+    "Archer"
+   ]
+  },
+  {
+   "name": "Hive Tyrant",
+   "beaten_by": [
+    "Warrior"
+   ]
+  },
+  {
+   "name": "Ironclad Crab King",
+   "beaten_by": [
+    "Mage"
+   ]
+  },
+  {
+   "name": "Land Shark King",
+   "beaten_by": [
+    "Archer"
+   ]
+  },
+  {
+   "name": "Mountain Titan",
+   "beaten_by": [
+    "Archer"
+   ]
+  },
+  {
+   "name": "Octopus King",
+   "beaten_by": [
+    "Assassin"
+   ]
+  },
+  {
+   "name": "Phantom Eye Monster",
+   "beaten_by": [
+    "Control"
+   ]
+  },
+  {
+   "name": "Pig Overlord",
+   "beaten_by": [
+    "Warrior"
+   ]
+  },
+  {
+   "name": "Rocksolid Giant",
+   "beaten_by": [
+    "Archer"
+   ]
+  },
+  {
+   "name": "Sea-Splitting Crab Emperor",
+   "beaten_by": [
+    "Mage"
+   ]
+  },
+  {
+   "name": "Shapeshifting Queen",
+   "beaten_by": [
+    "Mage"
+   ]
+  },
+  {
+   "name": "Shield-Breaking Stone Giant",
+   "beaten_by": [
+    "Archer"
+   ]
+  },
+  {
+   "name": "Slime King",
+   "beaten_by": [
+    "Mage"
+   ]
+  },
+  {
+   "name": "Slime Queen",
+   "beaten_by": [
+    "Summon"
+   ]
+  },
+  {
+   "name": "Stone Giant",
+   "beaten_by": [
+    "Archer"
+   ]
+  },
+  {
+   "name": "Tentacle",
+   "beaten_by": [
+    "Assassin"
+   ]
+  },
+  {
+   "name": "The Split Slime King",
+   "beaten_by": [
+    "Summon"
+   ]
+  },
+  {
+   "name": "Toxic Spore Mushroom King",
+   "beaten_by": [
+    "Calamity"
+   ]
+  },
+  {
+   "name": "Two-Headed Dog",
+   "beaten_by": [
+    "Assassin"
+   ]
+  },
+  {
+   "name": "Venom Bee Queen",
+   "beaten_by": [
+    "Warrior"
+   ]
+  },
+  {
+   "name": "Venom Mushroom King",
+   "beaten_by": [
+    "Calamity"
+   ]
+  },
+  {
+   "name": "Venom-Stinger Bee Queen",
+   "beaten_by": [
+    "Assassin"
+   ]
+  },
+  {
+   "name": "Venomous Catfish King",
+   "beaten_by": [
+    "Support"
+   ]
+  }
+ ],
+ "monsters_that_counter": [
+  {
+   "name": "Mutated Slime",
+   "counters": "Archer"
+  },
+  {
+   "name": "Seed Flower",
+   "counters": "Mage"
+  },
+  {
+   "name": "Spellbreaking Lantern Tree",
+   "counters": "Mage"
+  },
+  {
+   "name": "Bigmouth Man-eating Flower",
+   "counters": "Summon"
+  },
+  {
+   "name": "Nightshade Charm Fox",
+   "counters": "Assassin"
+  },
+  {
+   "name": "Mist Octopus",
+   "counters": "Assassin"
+  },
+  {
+   "name": "Illusion Seahorse",
+   "counters": "Calamity"
+  },
+  {
+   "name": "Shrinkshell Seaweed",
+   "counters": "Archer"
+  },
+  {
+   "name": "Desert Worm",
+   "counters": "Summon"
+  },
+  {
+   "name": "Hardshell Rhinoceros Beetle",
+   "counters": "Calamity"
+  },
+  {
+   "name": "Catfish King",
+   "counters": "Mage"
+  }
+ ],
+ "bosses": {
+  "Guild Boss": [
+   {
+    "name": "Igris",
+    "beaten_by": [],
+    "counters": null
+   }
+  ],
+  "Rob Boss": [
+   {
+    "name": "Darkflame Dragonlord·Serregos",
+    "beaten_by": [],
+    "counters": null
+   }
+  ],
+  "Dungeon": [
+   {
+    "name": "Demonic Ancient Tree Urosax",
+    "beaten_by": [],
+    "counters": null
+   },
+   {
+    "name": "Rift King·Magthosen",
+    "beaten_by": [],
+    "counters": null
+   }
+  ]
+ },
+ "pets": [
+  {
+   "name": "Abo",
+   "rarity": "UR",
+   "desc": "At the start of battle, summons 3 clones of yourself to join the fight for 25 seconds. Each clone deals {0}% ATK damage to a single enemy every 0.7 se"
+  },
+  {
+   "name": "Aizen",
+   "rarity": "UR",
+   "desc": "At the start of battle, summons 2 mirror images of the hero with the most Blessings, the mirror images last for 60 seconds, inherit {0}% of the hero's"
+  },
+  {
+   "name": "Celebi",
+   "rarity": "UR",
+   "desc": "At the start of battle, deals {0}% ATK damage every second to the 5x5 area containing the target, and additionally deals damage equal to {1}% of own m"
+  },
+  {
+   "name": "Creed",
+   "rarity": "UR",
+   "desc": "At battle start, deals 3 hits of {0}% ATK damage and marks the target for 3s, increasing damage taken by {1}%."
+  },
+  {
+   "name": "Godoff",
+   "rarity": "UR",
+   "desc": "At battle start, all allied heroes immediately gain a shield equal to {0}% ATK and recover {1}% ATK as HP, while increasing damage by {2}% for 10s."
+  },
+  {
+   "name": "Harry",
+   "rarity": "UR",
+   "desc": "At battle start, deals {0} ATK damage separately to the target's 3x3 area and the 5x5 cross area; this damage ignores {1}% defense."
+  },
+  {
+   "name": "Iron Rabbit",
+   "rarity": "UR",
+   "desc": "At battle start, deals 15 hits of {0}% ATK damage. Each hit on the same target increases damage by 25%."
+  },
+  {
+   "name": "Magneto",
+   "rarity": "UR",
+   "desc": "At battle start, releases a magnetic vortex that gathers all enemies on the field and stuns them for {0}s."
+  },
+  {
+   "name": "Zog・Everdark",
+   "rarity": "UR",
+   "desc": "At the start of battle,deals 5 instances of true damage equal to {0}% ATK and 1 instance of true damage equal to {1}% ATK to all enemies on the battle"
+  },
+  {
+   "name": "Bone Eagle",
+   "rarity": "SP",
+   "desc": "At battle start, applies chains to up to 5 enemies, stunning them for {0}s."
+  },
+  {
+   "name": "Fennec Fox",
+   "rarity": "SP",
+   "desc": "At battle start, deals {0}% ATK damage per second in a 3x3 area around the target for 3s."
+  },
+  {
+   "name": "Fire Owl",
+   "rarity": "SP",
+   "desc": "At battle start, deals {0}% ATK damage in a 5x5 area around the target. This damage ignores {1}% defense."
+  },
+  {
+   "name": "Joyboy",
+   "rarity": "SP",
+   "desc": "At battle start, all allied heroes recover {0}% ATK as HP per second and increase damage by {1}% for 10s."
+  },
+  {
+   "name": "Kai",
+   "rarity": "SP",
+   "desc": "At the start of battle, summon 2 clones of yourself to join the fight for 10 seconds. Each clone deals damage equal to {0}% ATK to a single enemy ever"
+  },
+  {
+   "name": "Kong King Cat",
+   "rarity": "SP",
+   "desc": "At battle start, deals 3 hits of {0}% ATK damage and adds damage equal to {1}% of the target's max HP, up to {2}% of own ATK."
+  },
+  {
+   "name": "Panda",
+   "rarity": "SP",
+   "desc": "Summons a mirror image of the hero with the most Blessings. The mirror image lasts for 60 seconds, inherits {0}% of the hero's stats, and possesses th"
+  }
+ ],
+ "mode_rules": {
+  "campaign_bless_draft": {
+   "0": 78,
+   "1": 71,
+   "3": 11,
+   "2": 893
+  },
+  "coop_bless_draft": {
+   "0": 18,
+   "2": 162
+  },
+  "dungeon_bless_draft": {
+   "0": 90
+  },
+  "coop_class_buffs": [
+   "Mage",
+   "Archer",
+   "Warrior",
+   "Summon",
+   "Calamity",
+   "Assassin"
+  ],
+  "guild_boss_hp": [
+   150,
+   200,
+   300,
+   410,
+   447,
+   1141,
+   1458,
+   1775
+  ],
+  "rob_boss_hp": [
+   -1
+  ],
+  "bond_required_count": {
+   "Support": 2,
+   "Mage": 2,
+   "Assassin": 2,
+   "Archer": 2,
+   "Warrior": 2,
+   "Summon": 2,
+   "Control": 2,
+   "Calamity": 2
+  }
+ }
+}

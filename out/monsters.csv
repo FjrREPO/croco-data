@@ -1,0 +1,142 @@
+id,name,unit_name,rarity,race,role,cost,hp,atk,defense,atk_speed,atk_range,max_level,skills,icon
+840117,Abyssal Shadow,Abyssal Shadow,A,-,-,1,30000,4780,1000,100,4,50,Shadow Water Bolt; Shadow Twin; Abyssal Toxic Mist,icons/Icons/HeadIcon/Icon_Head_840107.png
+840123,Corrosive Empress,Corrosive Empress,A,-,-,1,30000,4780,1000,100,4,50,Devour; Split; Regeneration; Regeneration,icons/Icons/HeadIcon/Icon_Head_840123.png
+840126,Corrupted Fungal Lord,Corrupted Fungal Lord,A,-,-,1,30000,4780,1000,100,1,50,Spore Burst; Frenzied Regeneration; Spore Proliferation,icons/Icons/HeadIcon/Icon_Head_840126.png
+840101,Crab Emperor,Crab Emperor,A,-,-,1,30000,4780,1000,100,1,50,Shell Up; Defense Up; Crab Legion,icons/Icons/HeadIcon/Icon_Head_840111.png
+831201,Crab King,Crab King,A,-,-,1,144000,2900,300,100,1,50,Shell Up; Anti-injury force field,icons/Icons/HeadIcon/Icon_Head_830201.png
+190301,Darkflame Dragonlord·Serregos,Darkflame Dragonlord·Serregos,A,-,-,1,30000,4780,1000,100,1,50,Weakness Curse; Eternal Nightmare; Death Curse,icons/Icons/HeadIcon/Icon_Head_190301.png
+840105,Deep Sea Fiend-Arm,Deep Sea Fiend-Arm,A,-,-,1,60000,4780,1000,100,10,50,Tentacle Smash; Vengeance; Hardened Hide,icons/Icons/HeadIcon/Icon_Head_840115.png
+840115,Deep Sea Touch,Deep Sea Touch,A,-,-,1,60000,4780,1000,100,10,50,Attacked by the tide; tidal erosion; Tentacles breed,icons/Icons/HeadIcon/Icon_Head_840105.png
+840107,Deepsea Shadow,Deepsea Shadow,A,-,-,1,30000,4780,1000,100,4,50,Shadow Water Bolt; Shadow Twin; Abyssal Toxic Mist,icons/Icons/HeadIcon/Icon_Head_840107.png
+190101,Demonic Ancient Tree Urosax,Demonic Ancient Tree Urosax,A,-,-,1,30000,4780,1000,100,1,50,Summon Treant; Earth Nourishment; Return to Spring Soil,icons/Icons/HeadIcon/Icon_Head_190101.png
+840128,Demonic Eye of the End,Demonic Eye of the End,A,-,-,1,60000,4780,1000,100,8,50,Ion Ray; Disintegration Ray; Soul Siphon,icons/Icons/HeadIcon/Icon_Head_840128.png
+840127,Dread of the Dark Sea,Dread of the Dark Sea,A,-,-,1,30000,4780,1000,100,4,50,Shadow Water Bolt; Shadow Twin; Abyssal Toxic Mist,icons/Icons/HeadIcon/Icon_Head_840127.png
+840108,Eye of the Rift,Eye of the Rift,A,-,-,1,60000,4780,1000,100,8,50,Ion Ray; Disintegration Ray; Soul Siphon,icons/Icons/HeadIcon/Icon_Head_840108.png
+840118,Eye of the Void,Eye of the Void,A,-,-,1,60000,4780,1000,100,4,50,Ion Ray; Disintegration Ray; Soul Siphon,icons/Icons/HeadIcon/Icon_Head_840108.png
+810204,Giant Spider,Giant Spider,A,-,-,1,15000,3250,1000,100,1,50,Parasite Spider; Spider Explosive Egg; Mind of the Swarm,icons/Icons/HeadIcon/Icon_Head_810204.png
+840125,Giant-Armed Fiend,Giant-Armed Fiend,A,-,-,1,60000,4780,1000,100,10,50,Tentacle Smash; Vengeance; Hardened Hide,icons/Icons/HeadIcon/Icon_Head_840125.png
+840111,Hard-Shell Crab Emperor,Hard-Shell Crab Emperor,A,-,-,1,30000,4780,1000,100,1,50,Shock iron shell; Barbed Shell Armor; Fury in the Shell,icons/Icons/HeadIcon/Icon_Head_840101.png
+840124,Hive Tyrant,Hive Tyrant,A,-,-,1,30000,4780,1000,100,1,50,Triple Strike; Killing Intent; Shadow Bee Slayer,icons/Icons/HeadIcon/Icon_Head_840124.png
+191101,Igris,Igris,A,-,-,1,30000,4780,1000,100,4,50,Detonate Ember; Dragonflame Impact; Dragonflame Domain,icons/Icons/HeadIcon/Icon_Head_191101.png
+8102041,Little Spider,Little Spider,A,-,-,1,15000,3250,1000,100,1,50,,
+8401031,Mini-slime,Mini-slime,A,-,-,1,30000,4780,1000,100,1,50,Slime Shock; Slime Explosion,
+820222,Mountain Titan,Mountain Titan,A,-,-,1,30000,4780,1000,100,1,50,Seismic Wave; Petrified Skin; Fortified Defense,icons/Icons/HeadIcon/Icon_Head_820222.png
+831204,Octopus King,Octopus King,A,-,-,1,144000,2900,300,100,4,50,Ink Blast; Vengeance,icons/Icons/HeadIcon/Icon_Head_830204.png
+811202,Pig Overlord,Pig Overlord,A,-,-,1,144000,2900,300,100,1,50,Bloodthirsty Charge; Rising Valor,icons/Icons/HeadIcon/Icon_Head_810202.png
+821204,Poison Bug King,Poison Bug King,A,-,-,1,144000,2900,300,100,4,50,Poison Mist; The plague comes back,icons/Icons/HeadIcon/Icon_Head_820204.png
+190201,Rift King·Magthosen,Rift King·Magthosen,A,-,-,1,30000,4780,1000,100,1,50,Bloodthirsty Leap Slash; Counter Storm; Life Drain,icons/Icons/HeadIcon/Icon_Head_190201.png
+820212,Rocksolid Giant,Rocksolid Giant,A,-,-,1,30000,4780,1000,100,1,50,Seismic Wave; concussive shock; Rock Shield Guardian,icons/Icons/HeadIcon/Icon_Head_840102.png
+840121,Sea-Splitting Crab Emperor,Sea-Splitting Crab Emperor,A,-,-,1,30000,4780,1000,100,1,50,Shell Up; Defense Up; Crab Legion,icons/Icons/HeadIcon/Icon_Head_840121.png
+840113,Shapeshifting Queen,Shapeshifting Queen,A,-,-,1,30000,4780,1000,100,4,50,Slime Ball Summon; Slime Split; Slime Explosion,icons/Icons/HeadIcon/Icon_Head_840103.png
+8202021,Shield-Breaking Stone Giant,Shield-Breaking Stone Giant,A,-,-,1,30000,4780,1000,100,1,50,Seismic Wave; Petrified Skin; Fortified Defense,icons/Icons/HeadIcon/Icon_Head_820202.png
+8202121,Shield-Breaking Stone Giant,Shield-Breaking Stone Giant,A,-,-,1,30000,4780,1000,100,1,50,Seismic Wave; concussive shock; Rock Shield Guardian,icons/Icons/HeadIcon/Icon_Head_840102.png
+840103,Slime Queen,Slime Queen,A,-,-,1,30000,4780,1000,100,4,50,Devour; Split; Regeneration; Regeneration,icons/Icons/HeadIcon/Icon_Head_840113.png
+820202,Stone Giant,Stone Giant,A,-,-,1,30000,4780,1000,100,1,50,Seismic Wave; Petrified Skin; Fortified Defense,icons/Icons/HeadIcon/Icon_Head_840112.png
+840116,Toxic Spore Mushroom King,Toxic Spore Mushroom King,A,-,-,1,30000,4780,1000,100,1,50,Spore Burst; Frenzied Regeneration; Spore Proliferation,icons/Icons/HeadIcon/Icon_Head_840106.png
+821201,Two-headed Dog,Two-headed Dog,A,-,-,1,144000,2900,300,100,1,50,Hellfire; Frenzied Regeneration,icons/Icons/HeadIcon/Icon_Head_820201.png
+840104,Venom Bee Queen,Venom Bee Queen,A,-,-,1,30000,4780,1000,100,1,50,Triple Strike; Killing Intent; Shadow Bee Slayer,icons/Icons/HeadIcon/Icon_Head_840114.png
+840106,Venom Mushroom King,Venom Mushroom King,A,-,-,1,30000,4780,1000,100,1,50,Spore Burst; Frenzied Regeneration; Spore Proliferation,icons/Icons/HeadIcon/Icon_Head_840106.png
+840114,Venom-Stinger Bee Queen,Venom-Stinger Bee Queen,A,-,-,1,30000,4780,1000,100,1,50,Fatal Poison Mist; Toxic Shell; Toxic Resonance,icons/Icons/HeadIcon/Icon_Head_840104.png
+8401011,,,A,-,-,1,0,0,0,100,1,50,,icons/Icons/HeadIcon/Icon_Head_840101.png
+8401072,,,A,-,-,1,30000,4780,1000,100,8,50,,icons/Icons/HeadIcon/Icon_Head_8401071.png
+8401071,,,A,-,-,1,30000,4780,1000,100,8,50,,icons/Icons/HeadIcon/Icon_Head_8401072.png
+8401051,,,A,-,-,1,30000,4780,1000,100,1,50,,
+8401052,,,A,-,-,1,30000,4780,1000,100,1,50,,
+8401053,,,A,-,-,1,30000,4780,1000,100,1,50,,icons/Icons/HeadIcon/Icon_Head_840105.png
+8202221,,,A,-,-,1,30000,4780,1000,100,1,50,Seismic Wave; Petrified Skin; Fortified Defense,icons/Icons/HeadIcon/Icon_Head_820222.png
+8401211,,,A,-,-,1,0,0,0,100,1,50,,icons/Icons/HeadIcon/Icon_Head_840121.png
+8401231,,,A,-,-,1,30000,4780,1000,100,1,50,Slime Shock; Slime Explosion,icons/Icons/HeadIcon/Icon_Head_840123.png
+8401272,,,A,-,-,1,30000,4780,1000,100,8,50,,icons/Icons/HeadIcon/Icon_Head_840127.png
+8401271,,,A,-,-,1,30000,4780,1000,100,8,50,,icons/Icons/HeadIcon/Icon_Head_840127.png
+8401251,,,A,-,-,1,30000,4780,1000,100,1,50,,icons/Icons/HeadIcon/Icon_Head_840125.png
+8401252,,,A,-,-,1,30000,4780,1000,100,1,50,,icons/Icons/HeadIcon/Icon_Head_840125.png
+920307,Ammonite Beast,Ammonite Beast,B,-,-,1,7200,2770,800,30,4,50,Charged Blast,icons/Icons/HeadIcon/Icon_Head_910307.png
+810201,Bomb King,Bomb King,B,-,-,1,15500,3250,1000,100,1,50,Shockwave; Prototype Bomb; Slime Will,icons/Icons/HeadIcon/Icon_Head_810211.png
+920201,Cactus,Cactus,B,-,-,1,10800,1850,1200,100,1,50,Rebound,icons/Icons/HeadIcon/Icon_Head_920201.png
+830212,Catfish King,Catfish King,B,-,-,1,21000,3800,1000,100,4,50,Leap; Take advantage of the situation to unload the force,icons/Icons/HeadIcon/Icon_Head_830202.png
+920302,Catfish Monster,Catfish Monster,B,-,-,1,10800,1850,1200,100,1,50,Mud Armor,icons/Icons/HeadIcon/Icon_Head_910302.png
+920301,Crab Monster,Crab Monster,B,-,-,1,10800,1850,1200,100,1,50,Counterstrike,icons/Icons/HeadIcon/Icon_Head_910301.png
+920206,Desert Flower,Desert Flower,B,-,-,1,7200,2770,800,28,4,50,Nectar Inspiration,icons/Icons/HeadIcon/Icon_Head_920206.png
+920205,Desert Worm,Desert Worm,B,-,-,1,10800,1850,1200,100,1,50,Underground Strike,icons/Icons/HeadIcon/Icon_Head_920205.png
+920107,Double-headed Flower,Double-headed Flower,B,-,-,1,7200,2770,800,37,4,50,Twin Core Barrage,icons/Icons/HeadIcon/Icon_Head_910107.png
+820213,Eye Monster,Eye Monster,B,-,-,1,15000,3250,1000,100,4,50,Meteor; Backlash Pulse,icons/Icons/HeadIcon/Icon_Head_820203.png
+920102,Goblin Archer,Goblin Archer,B,-,-,1,7200,2770,800,40,4,50,Rapid-fire Bow,icons/Icons/HeadIcon/Icon_Head_910102.png
+920202,Goblin Warrior,Goblin Warrior,B,-,-,1,10800,1850,1200,100,1,50,Stun ATK,icons/Icons/HeadIcon/Icon_Head_920202.png
+820201,Hellhound,Hellhound,B,-,-,1,15000,3250,1000,100,1,50,Hellfire; Frenzied Regeneration,icons/Icons/HeadIcon/Icon_Head_820211.png
+920305,Hermit Crab,Hermit Crab,B,-,-,1,10800,1850,1200,100,1,50,Shell Rebirth,icons/Icons/HeadIcon/Icon_Head_910305.png
+830211,Hermit Crab,Hermit Crab,B,-,-,1,15000,3250,1000,100,1,50,Crab Leg ATK; unbreakable tide,icons/Icons/HeadIcon/Icon_Head_830201.png
+830201,Ironclad Crab King,Ironclad Crab King,B,-,-,1,15000,3250,1000,100,1,50,Shell Up; Shield Boost,icons/Icons/HeadIcon/Icon_Head_830211.png
+830203,Land Shark King,Land Shark King,B,-,-,1,15000,3250,1000,100,1,50,Charge; Hardened Hide,icons/Icons/HeadIcon/Icon_Head_830203.png
+920105,Lantern Tree,Lantern Tree,B,-,-,1,10800,1850,1200,100,1,50,Thick Bark,icons/Icons/HeadIcon/Icon_Head_910115.png
+920108,Leaf Fox,Leaf Fox,B,-,-,1,7200,2770,800,36,4,50,Emerald Leaf Offering,icons/Icons/HeadIcon/Icon_Head_910108.png
+920106,Man-eating Flower,Man-eating Flower,B,-,-,1,7200,2770,800,38,4,50,Silent Kiss,icons/Icons/HeadIcon/Icon_Head_910106.png
+810203,Mushroom King,Mushroom King,B,-,-,1,15000,3250,1000,100,4,50,Spore ATK; Wild growth; blood-sucking spores,icons/Icons/HeadIcon/Icon_Head_810203.png
+830204,Octopus King,Octopus King,B,-,-,1,15000,3250,1000,100,4,50,Ink Blast; Vengeance,icons/Icons/HeadIcon/Icon_Head_830204.png
+920303,Octopus Monster,Octopus Monster,B,-,-,1,7200,2770,800,33,4,50,Blind,icons/Icons/HeadIcon/Icon_Head_910313.png
+820203,Phantom Eye Monster,Phantom Eye Monster,B,-,-,1,15000,3250,1000,100,4,50,Meteor; Frenzied Assault,icons/Icons/HeadIcon/Icon_Head_820213.png
+810202,Pig Overlord,Pig Overlord,B,-,-,1,15000,3250,1000,100,1,50,Bloodthirsty Charge; Rising Valor,icons/Icons/HeadIcon/Icon_Head_810202.png
+920204,Poison Bug,Poison Bug,B,-,-,1,7200,2770,800,34,4,50,Poison Bullet,icons/Icons/HeadIcon/Icon_Head_920204.png
+820204,Poison Bug King,Poison Bug King,B,-,-,1,15000,3250,1000,100,4,50,Poison Mist; The plague comes back; Poison vein blast,icons/Icons/HeadIcon/Icon_Head_820204.png
+920208,Rhinoceros Beetle,Rhinoceros Beetle,B,-,-,1,7200,2770,800,26,4,50,Iron Steel Shell,icons/Icons/HeadIcon/Icon_Head_920218.png
+920103,Running Pig,Running Pig,B,-,-,1,10800,1850,1200,100,1,50,Charge,icons/Icons/HeadIcon/Icon_Head_910103.png
+920207,Scorpion Monster,Scorpion Monster,B,-,-,1,7200,2770,800,27,4,50,Weakening Sting,icons/Icons/HeadIcon/Icon_Head_920207.png
+920306,Sea Anemone Monster,Sea Anemone Monster,B,-,-,1,7200,2770,800,31,4,50,Bloodsucking Tentacle,icons/Icons/HeadIcon/Icon_Head_910306.png
+920304,Seahorse,Seahorse,B,-,-,1,7200,2770,800,32,4,50,Water Gun Blast,icons/Icons/HeadIcon/Icon_Head_910314.png
+920308,Seaweed Monster,Seaweed Monster,B,-,-,1,7200,2770,800,29,4,50,Seaweed Tangle,icons/Icons/HeadIcon/Icon_Head_910318.png
+920104,Seed Flower,Seed Flower,B,-,-,1,7200,2770,800,39,4,50,Parasite Bullet,icons/Icons/HeadIcon/Icon_Head_910104.png
+920101,Slime,Slime,B,-,-,1,10800,1850,1200,100,1,50,Death Splitting,icons/Icons/HeadIcon/Icon_Head_910101.png
+810211,Slime King,Slime King,B,-,-,1,15500,3250,1000,100,1,50,Shockwave; Split; Slime Will,icons/Icons/HeadIcon/Icon_Head_810201.png
+920203,Spiny Mouse,Spiny Mouse,B,-,-,1,7200,2770,800,35,4,50,Group Spike,icons/Icons/HeadIcon/Icon_Head_920203.png
+8302041,Tentacle,Tentacle,B,-,-,1,15000,3250,1000,100,1,50,,icons/Icons/HeadIcon/Icon_Head_8302041.png
+8302042,Tentacle,Tentacle,B,-,-,1,144000,2900,300,100,1,50,,icons/Icons/HeadIcon/Icon_Head_8302041.png
+8102011,The Split Slime King,The Split Slime King,B,-,-,1,15000,3250,1000,100,1,50,Shockwave,icons/Icons/HeadIcon/Icon_Head_810201.png
+8102012,The Split Slime King,The Split Slime King,B,-,-,1,15000,3250,1000,100,1,50,Shockwave,icons/Icons/HeadIcon/Icon_Head_810201.png
+8102013,The Split Slime King,The Split Slime King,B,-,-,1,15000,3250,1000,100,1,50,Shockwave,icons/Icons/HeadIcon/Icon_Head_810201.png
+8102014,The Split Slime King,The Split Slime King,B,-,-,1,15000,3250,1000,100,1,50,Shockwave,icons/Icons/HeadIcon/Icon_Head_810201.png
+820211,Two-Headed Dog,Two-Headed Dog,B,-,-,1,15000,3250,1000,100,1,50,Hellfire; Scorched Earth Edict,icons/Icons/HeadIcon/Icon_Head_820201.png
+830202,Venomous Catfish King,Venomous Catfish King,B,-,-,1,21000,3800,1000,100,4,50,Bubble Shot; Venom,icons/Icons/HeadIcon/Icon_Head_830212.png
+930102,Alchemist,Alchemist,C,-,-,1,18000,600,300,100,1,50,,
+910307,Ammonite Beast,Ammonite Beast,C,-,-,1,2400,1340,800,30,4,50,Charged Blast,icons/Icons/HeadIcon/Icon_Head_910307.png
+910106,Bigmouth Man-eating Flower,Bigmouth Man-eating Flower,C,-,-,1,2400,1340,800,38,8,50,Silent Kiss,icons/Icons/HeadIcon/Icon_Head_910116.png
+930101,Blacksmith,Blacksmith,C,-,-,1,18000,600,300,100,1,50,,
+910201,Cactus,Cactus,C,-,-,1,3600,900,1200,100,1,50,Rebound,icons/Icons/HeadIcon/Icon_Head_920201.png
+910302,Catfish Monster,Catfish Monster,C,-,-,1,3600,900,1200,100,1,50,Mud Armor,icons/Icons/HeadIcon/Icon_Head_910302.png
+910103,Charging Boar,Charging Boar,C,-,-,1,3600,900,1200,100,1,50,Charge,icons/Icons/HeadIcon/Icon_Head_910113.png
+930103,Collector,Collector,C,-,-,1,18000,600,300,100,1,50,,
+910301,Crab Monster,Crab Monster,C,-,-,1,3600,900,1200,100,1,50,Counterstrike,icons/Icons/HeadIcon/Icon_Head_910301.png
+910206,Desert Flower,Desert Flower,C,-,-,1,2400,1340,800,28,4,50,Nectar Inspiration,icons/Icons/HeadIcon/Icon_Head_920206.png
+910205,Desert Worm,Desert Worm,C,-,-,1,3600,900,1200,100,1,50,Underground Strike,icons/Icons/HeadIcon/Icon_Head_920205.png
+910107,Double-headed Flower,Double-headed Flower,C,-,-,1,2400,1340,800,37,4,50,Twin Core Barrage; Focused ATK,icons/Icons/HeadIcon/Icon_Head_910107.png
+930105,Explorer,Explorer,C,-,-,1,18000,600,300,100,1,50,,
+930108,Gardener,Gardener,C,-,-,1,18000,600,300,100,1,50,,
+910102,Goblin Archer,Goblin Archer,C,-,-,1,2400,1340,800,40,4,50,Rapid-fire Bow,icons/Icons/HeadIcon/Icon_Head_910102.png
+910202,Goblin Warrior,Goblin Warrior,C,-,-,1,3600,900,1200,100,1,50,Stun ATK,icons/Icons/HeadIcon/Icon_Head_920202.png
+910208,Hardshell Rhinoceros Beetle,Hardshell Rhinoceros Beetle,C,-,-,1,3600,900,1200,100,1,50,Iron Steel Shell,icons/Icons/HeadIcon/Icon_Head_920218.png
+910305,Hermit Crab,Hermit Crab,C,-,-,1,3600,900,1200,100,1,50,Shell Rebirth,icons/Icons/HeadIcon/Icon_Head_910305.png
+910304,Illusion Seahorse,Illusion Seahorse,C,-,-,1,2400,1340,800,32,4,50,Water Gun Blast,icons/Icons/HeadIcon/Icon_Head_910314.png
+910115,Lantern Tree,Lantern Tree,C,-,-,1,3600,900,1200,100,1,50,Thick Bark,icons/Icons/HeadIcon/Icon_Head_910105.png
+910118,Leaf Fox,Leaf Fox,C,-,-,1,2400,1340,800,36,4,50,Emerald Leaf Offering,icons/Icons/HeadIcon/Icon_Head_910108.png
+9101011,Little Slime,Little Slime,C,-,-,1,3600,900,1200,100,1,50,,
+910116,Man-eating Flower,Man-eating Flower,C,-,-,1,2400,1340,800,38,8,50,Silent Kiss,icons/Icons/HeadIcon/Icon_Head_910106.png
+190102,Melee Treant,Melee Treant,C,-,-,1,3600,900,1200,100,1,50,,icons/Icons/HeadIcon/Icon_Head_190102.png
+930106,Merchant,Merchant,C,-,-,1,18000,600,300,100,1,50,,
+910303,Mist Octopus,Mist Octopus,C,-,-,1,2400,1340,800,33,8,50,Blind,icons/Icons/HeadIcon/Icon_Head_910313.png
+910101,Mutated Slime,Mutated Slime,C,-,-,1,3600,900,1200,100,1,50,Death Splitting,icons/Icons/HeadIcon/Icon_Head_910111.png
+910108,Nightshade Charm Fox,Nightshade Charm Fox,C,-,-,1,2400,1340,800,36,4,50,Emerald Leaf Offering,icons/Icons/HeadIcon/Icon_Head_910118.png
+910313,Octopus Monster,Octopus Monster,C,-,-,1,2400,1340,800,33,8,50,Blind,icons/Icons/HeadIcon/Icon_Head_910303.png
+910204,Poison Bug,Poison Bug,C,-,-,1,2400,1340,800,34,4,50,Poison Bullet,icons/Icons/HeadIcon/Icon_Head_920204.png
+930107,Rainbow Creature,Rainbow Creature,C,-,-,1,18000,600,300,100,1,50,,
+190103,Ranged Treant,Ranged Treant,C,-,-,1,2400,1340,800,40,4,50,,icons/Icons/HeadIcon/Icon_Head_190103.png
+910218,Rhinoceros Beetle,Rhinoceros Beetle,C,-,-,1,3600,900,1200,100,1,50,Iron Steel Shell,icons/Icons/HeadIcon/Icon_Head_920208.png
+910113,Running Pig,Running Pig,C,-,-,1,3600,900,1200,100,1,50,Charge,icons/Icons/HeadIcon/Icon_Head_910103.png
+910207,Scorpion Monster,Scorpion Monster,C,-,-,1,2400,1340,800,27,4,50,Weakening Sting,icons/Icons/HeadIcon/Icon_Head_920207.png
+910306,Sea Anemone Monster,Sea Anemone Monster,C,-,-,1,2400,1340,800,31,4,50,Bloodsucking Tentacle,icons/Icons/HeadIcon/Icon_Head_910306.png
+910314,Seahorse,Seahorse,C,-,-,1,2400,1340,800,32,4,50,Water Gun Blast,icons/Icons/HeadIcon/Icon_Head_910304.png
+910318,Seaweed Monster,Seaweed Monster,C,-,-,1,2400,1340,800,29,4,50,Seaweed Tangle,icons/Icons/HeadIcon/Icon_Head_910308.png
+910104,Seed Flower,Seed Flower,C,-,-,1,2400,1340,800,39,4,50,Parasite Bullet,icons/Icons/HeadIcon/Icon_Head_910104.png
+910308,Shrinkshell Seaweed,Shrinkshell Seaweed,C,-,-,1,2400,1340,800,29,4,50,Seaweed Tangle,icons/Icons/HeadIcon/Icon_Head_910318.png
+910111,Slime,Slime,C,-,-,1,3600,900,1200,100,1,50,Death Splitting,icons/Icons/HeadIcon/Icon_Head_910101.png
+910105,Spellbreaking Lantern Tree,Spellbreaking Lantern Tree,C,-,-,1,3600,900,1200,100,1,50,Thick Bark,icons/Icons/HeadIcon/Icon_Head_910115.png
+910203,Spiny Mouse,Spiny Mouse,C,-,-,1,2400,1340,800,35,4,50,Group Spike,icons/Icons/HeadIcon/Icon_Head_920203.png
+930104,Tycoon,Tycoon,C,-,-,1,18000,600,300,100,1,50,,
+930201,Wild Boar,Wild Boar,C,-,-,1,18000,600,300,100,1,50,,

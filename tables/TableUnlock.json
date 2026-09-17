@@ -1,0 +1,32 @@
+[
+ {
+  "ID": 1,
+  "UnlockType": 1,
+  "UnlockValue": 9001
+ },
+ {
+  "ID": 2,
+  "UnlockType": 1,
+  "UnlockValue": 9002
+ },
+ {
+  "ID": 3,
+  "UnlockType": 1,
+  "UnlockValue": 9003
+ },
+ {
+  "ID": 4,
+  "UnlockType": 1,
+  "UnlockValue": 9004
+ },
+ {
+  "ID": 5,
+  "UnlockType": 1,
+  "UnlockValue": 9005
+ },
+ {
+  "ID": 6,
+  "UnlockType": 4,
+  "UnlockValue": 410101
+ }
+]

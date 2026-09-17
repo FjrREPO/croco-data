@@ -1,0 +1,732 @@
+[
+ {
+  "DamageID": 1114,
+  "LimitValueType": 0,
+  "LimitTarget": 1999,
+  "LimitAttrID": 100,
+  "LimitAttrRatio": {
+   "Key": "",
+   "Num": 50
+  }
+ },
+ {
+  "DamageID": 100321,
+  "LimitValueType": 0,
+  "LimitTarget": 1999,
+  "LimitAttrID": 100,
+  "LimitAttrRatio": {
+   "Key": "@100321",
+   "Num": 0
+  }
+ },
+ {
+  "DamageID": 100331,
+  "LimitValueType": 0,
+  "LimitTarget": 1999,
+  "LimitAttrID": 100,
+  "LimitAttrRatio": {
+   "Key": "@100331",
+   "Num": 0
+  }
+ },
+ {
+  "DamageID": 100341,
+  "LimitValueType": 0,
+  "LimitTarget": 1999,
+  "LimitAttrID": 100,
+  "LimitAttrRatio": {
+   "Key": "@100341",
+   "Num": 0
+  }
+ },
+ {
+  "DamageID": 200081,
+  "LimitValueType": 0,
+  "LimitTarget": 1999,
+  "LimitAttrID": 100,
+  "LimitAttrRatio": {
+   "Key": "@200081",
+   "Num": 0
+  }
+ },
+ {
+  "DamageID": 200101,
+  "LimitValueType": 0,
+  "LimitTarget": 1999,
+  "LimitAttrID": 100,
+  "LimitAttrRatio": {
+   "Key": "@200102",
+   "Num": 0
+  }
+ },
+ {
+  "DamageID": 20025,
+  "LimitValueType": 1,
+  "LimitTarget": 1,
+  "LimitAttrID": 100,
+  "LimitAttrRatio": {
+   "Key": "@200252",
+   "Num": 0
+  }
+ },
+ {
+  "DamageID": 130101210,
+  "LimitValueType": 1,
+  "LimitTarget": 1,
+  "LimitAttrID": 100,
+  "LimitAttrRatio": {
+   "Key": "",
+   "Num": 90
+  }
+ },
+ {
+  "DamageID": 130101220,
+  "LimitValueType": 1,
+  "LimitTarget": 1,
+  "LimitAttrID": 100,
+  "LimitAttrRatio": {
+   "Key": "",
+   "Num": 150
+  }
+ },
+ {
+  "DamageID": 130101230,
+  "LimitValueType": 1,
+  "LimitTarget": 1,
+  "LimitAttrID": 100,
+  "LimitAttrRatio": {
+   "Key": "",
+   "Num": 150
+  }
+ },
+ {
+  "DamageID": 110202310,
+  "LimitValueType": 1,
+  "LimitTarget": 1,
+  "LimitAttrID": 102,
+  "LimitAttrRatio": {
+   "Key": "",
+   "Num": 180
+  }
+ },
+ {
+  "DamageID": 110202320,
+  "LimitValueType": 1,
+  "LimitTarget": 1,
+  "LimitAttrID": 102,
+  "LimitAttrRatio": {
+   "Key": "",
+   "Num": 240
+  }
+ },
+ {
+  "DamageID": 110202330,
+  "LimitValueType": 1,
+  "LimitTarget": 1,
+  "LimitAttrID": 102,
+  "LimitAttrRatio": {
+   "Key": "",
+   "Num": 300
+  }
+ },
+ {
+  "DamageID": 410501110,
+  "LimitValueType": 1,
+  "LimitTarget": 1,
+  "LimitAttrID": 100,
+  "LimitAttrRatio": {
+   "Key": "",
+   "Num": 96
+  }
+ },
+ {
+  "DamageID": 410501120,
+  "LimitValueType": 1,
+  "LimitTarget": 1,
+  "LimitAttrID": 100,
+  "LimitAttrRatio": {
+   "Key": "",
+   "Num": 128
+  }
+ },
+ {
+  "DamageID": 410501130,
+  "LimitValueType": 1,
+  "LimitTarget": 1,
+  "LimitAttrID": 100,
+  "LimitAttrRatio": {
+   "Key": "",
+   "Num": 160
+  }
+ },
+ {
+  "DamageID": 100040123,
+  "LimitValueType": 0,
+  "LimitTarget": 1999,
+  "LimitAttrID": 100,
+  "LimitAttrRatio": {
+   "Key": "",
+   "Num": 50
+  }
+ },
+ {
+  "DamageID": 130702612,
+  "LimitValueType": 1,
+  "LimitTarget": 1,
+  "LimitAttrID": 100,
+  "LimitAttrRatio": {
+   "Key": "",
+   "Num": 50
+  }
+ },
+ {
+  "DamageID": 130702115,
+  "LimitValueType": 1,
+  "LimitTarget": 1,
+  "LimitAttrID": 100,
+  "LimitAttrRatio": {
+   "Key": "",
+   "Num": 130
+  }
+ },
+ {
+  "DamageID": 130702410,
+  "LimitValueType": 1,
+  "LimitTarget": 1,
+  "LimitAttrID": 100,
+  "LimitAttrRatio": {
+   "Key": "",
+   "Num": 130
+  }
+ },
+ {
+  "DamageID": 130702510,
+  "LimitValueType": 1,
+  "LimitTarget": 1,
+  "LimitAttrID": 100,
+  "LimitAttrRatio": {
+   "Key": "",
+   "Num": 250
+  }
+ },
+ {
+  "DamageID": 20011,
+  "LimitValueType": 0,
+  "LimitTarget": 1,
+  "LimitAttrID": 100,
+  "LimitAttrRatio": {
+   "Key": "",
+   "Num": 180
+  }
+ },
+ {
+  "DamageID": 130601311,
+  "LimitValueType": 1,
+  "LimitTarget": 1,
+  "LimitAttrID": 100,
+  "LimitAttrRatio": {
+   "Key": "",
+   "Num": 15
+  }
+ },
+ {
+  "DamageID": 130601910,
+  "LimitValueType": 1,
+  "LimitTarget": 1,
+  "LimitAttrID": 100,
+  "LimitAttrRatio": {
+   "Key": "",
+   "Num": 25
+  }
+ },
+ {
+  "DamageID": 120603311,
+  "LimitValueType": 1,
+  "LimitTarget": 1,
+  "LimitAttrID": 100,
+  "LimitAttrRatio": {
+   "Key": "",
+   "Num": 50
+  }
+ },
+ {
+  "DamageID": 120603511,
+  "LimitValueType": 1,
+  "LimitTarget": 1,
+  "LimitAttrID": 100,
+  "LimitAttrRatio": {
+   "Key": "",
+   "Num": 65
+  }
+ },
+ {
+  "DamageID": 140701610,
+  "LimitValueType": 1,
+  "LimitTarget": 1,
+  "LimitAttrID": 100,
+  "LimitAttrRatio": {
+   "Key": "@140701610",
+   "Num": 0
+  }
+ },
+ {
+  "DamageID": 1130601311,
+  "LimitValueType": 1,
+  "LimitTarget": 1,
+  "LimitAttrID": 100,
+  "LimitAttrRatio": {
+   "Key": "",
+   "Num": 30
+  }
+ },
+ {
+  "DamageID": 2130601510,
+  "LimitValueType": 1,
+  "LimitTarget": 1,
+  "LimitAttrID": 100,
+  "LimitAttrRatio": {
+   "Key": "",
+   "Num": 30
+  }
+ },
+ {
+  "DamageID": 1120603311,
+  "LimitValueType": 1,
+  "LimitTarget": 1,
+  "LimitAttrID": 100,
+  "LimitAttrRatio": {
+   "Key": "",
+   "Num": 3
+  }
+ },
+ {
+  "DamageID": 2140701211,
+  "LimitValueType": 1,
+  "LimitTarget": 1,
+  "LimitAttrID": 100,
+  "LimitAttrRatio": {
+   "Key": "",
+   "Num": 400
+  }
+ },
+ {
+  "DamageID": 2110604510,
+  "LimitValueType": 0,
+  "LimitTarget": 1,
+  "LimitAttrID": 100,
+  "LimitAttrRatio": {
+   "Key": "",
+   "Num": 7
+  }
+ },
+ {
+  "DamageID": 1130702612,
+  "LimitValueType": 1,
+  "LimitTarget": 1,
+  "LimitAttrID": 100,
+  "LimitAttrRatio": {
+   "Key": "",
+   "Num": 80
+  }
+ },
+ {
+  "DamageID": 1110201511,
+  "LimitValueType": 1,
+  "LimitTarget": 1,
+  "LimitAttrID": 100,
+  "LimitAttrRatio": {
+   "Key": "",
+   "Num": 70
+  }
+ },
+ {
+  "DamageID": 2130702211,
+  "LimitValueType": 1,
+  "LimitTarget": 1,
+  "LimitAttrID": 100,
+  "LimitAttrRatio": {
+   "Key": "",
+   "Num": 40
+  }
+ },
+ {
+  "DamageID": 1140701511,
+  "LimitValueType": 1,
+  "LimitTarget": 1,
+  "LimitAttrID": 100,
+  "LimitAttrRatio": {
+   "Key": "",
+   "Num": 125
+  }
+ },
+ {
+  "DamageID": 1003649,
+  "LimitValueType": 1,
+  "LimitTarget": 1,
+  "LimitAttrID": 100,
+  "LimitAttrRatio": {
+   "Key": "",
+   "Num": 50
+  }
+ },
+ {
+  "DamageID": 1004649,
+  "LimitValueType": 1,
+  "LimitTarget": 1,
+  "LimitAttrID": 100,
+  "LimitAttrRatio": {
+   "Key": "",
+   "Num": 50
+  }
+ },
+ {
+  "DamageID": 1005649,
+  "LimitValueType": 1,
+  "LimitTarget": 1,
+  "LimitAttrID": 100,
+  "LimitAttrRatio": {
+   "Key": "",
+   "Num": 60
+  }
+ },
+ {
+  "DamageID": 1006649,
+  "LimitValueType": 1,
+  "LimitTarget": 1,
+  "LimitAttrID": 100,
+  "LimitAttrRatio": {
+   "Key": "",
+   "Num": 80
+  }
+ },
+ {
+  "DamageID": 1004353,
+  "LimitValueType": 1,
+  "LimitTarget": 1,
+  "LimitAttrID": 100,
+  "LimitAttrRatio": {
+   "Key": "",
+   "Num": 50
+  }
+ },
+ {
+  "DamageID": 1005353,
+  "LimitValueType": 1,
+  "LimitTarget": 1,
+  "LimitAttrID": 100,
+  "LimitAttrRatio": {
+   "Key": "",
+   "Num": 80
+  }
+ },
+ {
+  "DamageID": 1006353,
+  "LimitValueType": 1,
+  "LimitTarget": 1,
+  "LimitAttrID": 100,
+  "LimitAttrRatio": {
+   "Key": "",
+   "Num": 90
+  }
+ },
+ {
+  "DamageID": 1140404513,
+  "LimitValueType": 1,
+  "LimitTarget": 1,
+  "LimitAttrID": 100,
+  "LimitAttrRatio": {
+   "Key": "",
+   "Num": 80
+  }
+ },
+ {
+  "DamageID": 1002673,
+  "LimitValueType": 1,
+  "LimitTarget": 1,
+  "LimitAttrID": 100,
+  "LimitAttrRatio": {
+   "Key": "",
+   "Num": 88
+  }
+ },
+ {
+  "DamageID": 1002674,
+  "LimitValueType": 1,
+  "LimitTarget": 1,
+  "LimitAttrID": 100,
+  "LimitAttrRatio": {
+   "Key": "",
+   "Num": 88
+  }
+ },
+ {
+  "DamageID": 1002675,
+  "LimitValueType": 1,
+  "LimitTarget": 1,
+  "LimitAttrID": 100,
+  "LimitAttrRatio": {
+   "Key": "",
+   "Num": 96
+  }
+ },
+ {
+  "DamageID": 10026751,
+  "LimitValueType": 1,
+  "LimitTarget": 1,
+  "LimitAttrID": 100,
+  "LimitAttrRatio": {
+   "Key": "",
+   "Num": 109
+  }
+ },
+ {
+  "DamageID": 10026752,
+  "LimitValueType": 1,
+  "LimitTarget": 1,
+  "LimitAttrID": 100,
+  "LimitAttrRatio": {
+   "Key": "",
+   "Num": 126
+  }
+ },
+ {
+  "DamageID": 1002736,
+  "LimitValueType": 0,
+  "LimitTarget": 2999,
+  "LimitAttrID": 100,
+  "LimitAttrRatio": {
+   "Key": "",
+   "Num": 136
+  }
+ },
+ {
+  "DamageID": 1002737,
+  "LimitValueType": 0,
+  "LimitTarget": 2999,
+  "LimitAttrID": 100,
+  "LimitAttrRatio": {
+   "Key": "",
+   "Num": 143
+  }
+ },
+ {
+  "DamageID": 1002738,
+  "LimitValueType": 0,
+  "LimitTarget": 2999,
+  "LimitAttrID": 100,
+  "LimitAttrRatio": {
+   "Key": "",
+   "Num": 156
+  }
+ },
+ {
+  "DamageID": 10027381,
+  "LimitValueType": 0,
+  "LimitTarget": 2999,
+  "LimitAttrID": 100,
+  "LimitAttrRatio": {
+   "Key": "",
+   "Num": 177
+  }
+ },
+ {
+  "DamageID": 10027382,
+  "LimitValueType": 0,
+  "LimitTarget": 2999,
+  "LimitAttrID": 100,
+  "LimitAttrRatio": {
+   "Key": "",
+   "Num": 204
+  }
+ },
+ {
+  "DamageID": 1110502911,
+  "LimitValueType": 1,
+  "LimitTarget": 1,
+  "LimitAttrID": 100,
+  "LimitAttrRatio": {
+   "Key": "",
+   "Num": 42
+  }
+ },
+ {
+  "DamageID": 2110401818,
+  "LimitValueType": 1,
+  "LimitTarget": 1,
+  "LimitAttrID": 100,
+  "LimitAttrRatio": {
+   "Key": "",
+   "Num": 60
+  }
+ },
+ {
+  "DamageID": 507007112,
+  "LimitValueType": 1,
+  "LimitTarget": 1,
+  "LimitAttrID": 100,
+  "LimitAttrRatio": {
+   "Key": "",
+   "Num": 54
+  }
+ },
+ {
+  "DamageID": 507007122,
+  "LimitValueType": 1,
+  "LimitTarget": 1,
+  "LimitAttrID": 100,
+  "LimitAttrRatio": {
+   "Key": "",
+   "Num": 63
+  }
+ },
+ {
+  "DamageID": 507007132,
+  "LimitValueType": 1,
+  "LimitTarget": 1,
+  "LimitAttrID": 100,
+  "LimitAttrRatio": {
+   "Key": "",
+   "Num": 72
+  }
+ },
+ {
+  "DamageID": 507007142,
+  "LimitValueType": 1,
+  "LimitTarget": 1,
+  "LimitAttrID": 100,
+  "LimitAttrRatio": {
+   "Key": "",
+   "Num": 81
+  }
+ },
+ {
+  "DamageID": 507007152,
+  "LimitValueType": 1,
+  "LimitTarget": 1,
+  "LimitAttrID": 100,
+  "LimitAttrRatio": {
+   "Key": "",
+   "Num": 90
+  }
+ },
+ {
+  "DamageID": 507007162,
+  "LimitValueType": 1,
+  "LimitTarget": 1,
+  "LimitAttrID": 100,
+  "LimitAttrRatio": {
+   "Key": "",
+   "Num": 99
+  }
+ },
+ {
+  "DamageID": 507007172,
+  "LimitValueType": 1,
+  "LimitTarget": 1,
+  "LimitAttrID": 100,
+  "LimitAttrRatio": {
+   "Key": "",
+   "Num": 108
+  }
+ },
+ {
+  "DamageID": 507007182,
+  "LimitValueType": 1,
+  "LimitTarget": 1,
+  "LimitAttrID": 100,
+  "LimitAttrRatio": {
+   "Key": "",
+   "Num": 117
+  }
+ },
+ {
+  "DamageID": 505001111,
+  "LimitValueType": 1,
+  "LimitTarget": 1,
+  "LimitAttrID": 100,
+  "LimitAttrRatio": {
+   "Key": "",
+   "Num": 42
+  }
+ },
+ {
+  "DamageID": 505001121,
+  "LimitValueType": 1,
+  "LimitTarget": 1,
+  "LimitAttrID": 100,
+  "LimitAttrRatio": {
+   "Key": "",
+   "Num": 49
+  }
+ },
+ {
+  "DamageID": 505001131,
+  "LimitValueType": 1,
+  "LimitTarget": 1,
+  "LimitAttrID": 100,
+  "LimitAttrRatio": {
+   "Key": "",
+   "Num": 56
+  }
+ },
+ {
+  "DamageID": 505001141,
+  "LimitValueType": 1,
+  "LimitTarget": 1,
+  "LimitAttrID": 100,
+  "LimitAttrRatio": {
+   "Key": "",
+   "Num": 63
+  }
+ },
+ {
+  "DamageID": 505001151,
+  "LimitValueType": 1,
+  "LimitTarget": 1,
+  "LimitAttrID": 100,
+  "LimitAttrRatio": {
+   "Key": "",
+   "Num": 70
+  }
+ },
+ {
+  "DamageID": 505001161,
+  "LimitValueType": 1,
+  "LimitTarget": 1,
+  "LimitAttrID": 100,
+  "LimitAttrRatio": {
+   "Key": "",
+   "Num": 77
+  }
+ },
+ {
+  "DamageID": 505001171,
+  "LimitValueType": 1,
+  "LimitTarget": 1,
+  "LimitAttrID": 100,
+  "LimitAttrRatio": {
+   "Key": "",
+   "Num": 84
+  }
+ },
+ {
+  "DamageID": 1005666,
+  "LimitValueType": 1,
+  "LimitTarget": 1,
+  "LimitAttrID": 100,
+  "LimitAttrRatio": {
+   "Key": "",
+   "Num": 120
+  }
+ },
+ {
+  "DamageID": 1006666,
+  "LimitValueType": 1,
+  "LimitTarget": 1,
+  "LimitAttrID": 100,
+  "LimitAttrRatio": {
+   "Key": "",
+   "Num": 150
+  }
+ }
+]

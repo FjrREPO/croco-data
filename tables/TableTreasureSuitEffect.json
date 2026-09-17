@@ -1,0 +1,482 @@
+[
+ {
+  "ID": 1,
+  "AttrIDs": [
+   100
+  ],
+  "AttrTypes": [
+   2
+  ],
+  "AttrVals": [
+   100
+  ]
+ },
+ {
+  "ID": 2,
+  "AttrIDs": [
+   100
+  ],
+  "AttrTypes": [
+   2
+  ],
+  "AttrVals": [
+   200
+  ]
+ },
+ {
+  "ID": 3,
+  "AttrIDs": [
+   100
+  ],
+  "AttrTypes": [
+   2
+  ],
+  "AttrVals": [
+   300
+  ]
+ },
+ {
+  "ID": 4,
+  "AttrIDs": [
+   100
+  ],
+  "AttrTypes": [
+   2
+  ],
+  "AttrVals": [
+   500
+  ]
+ },
+ {
+  "ID": 5,
+  "AttrIDs": [
+   102
+  ],
+  "AttrTypes": [
+   2
+  ],
+  "AttrVals": [
+   200
+  ]
+ },
+ {
+  "ID": 6,
+  "AttrIDs": [
+   102
+  ],
+  "AttrTypes": [
+   2
+  ],
+  "AttrVals": [
+   400
+  ]
+ },
+ {
+  "ID": 7,
+  "AttrIDs": [
+   102
+  ],
+  "AttrTypes": [
+   2
+  ],
+  "AttrVals": [
+   600
+  ]
+ },
+ {
+  "ID": 8,
+  "AttrIDs": [
+   102
+  ],
+  "AttrTypes": [
+   2
+  ],
+  "AttrVals": [
+   1000
+  ]
+ },
+ {
+  "ID": 9,
+  "AttrIDs": [
+   4
+  ],
+  "AttrTypes": [
+   2
+  ],
+  "AttrVals": [
+   200
+  ]
+ },
+ {
+  "ID": 10,
+  "AttrIDs": [
+   4
+  ],
+  "AttrTypes": [
+   2
+  ],
+  "AttrVals": [
+   400
+  ]
+ },
+ {
+  "ID": 11,
+  "AttrIDs": [
+   4
+  ],
+  "AttrTypes": [
+   2
+  ],
+  "AttrVals": [
+   600
+  ]
+ },
+ {
+  "ID": 12,
+  "AttrIDs": [
+   4
+  ],
+  "AttrTypes": [
+   2
+  ],
+  "AttrVals": [
+   1000
+  ]
+ },
+ {
+  "ID": 13,
+  "AttrIDs": [
+   100
+  ],
+  "AttrTypes": [
+   2
+  ],
+  "AttrVals": [
+   200
+  ]
+ },
+ {
+  "ID": 14,
+  "AttrIDs": [
+   100
+  ],
+  "AttrTypes": [
+   2
+  ],
+  "AttrVals": [
+   400
+  ]
+ },
+ {
+  "ID": 15,
+  "AttrIDs": [
+   100
+  ],
+  "AttrTypes": [
+   2
+  ],
+  "AttrVals": [
+   600
+  ]
+ },
+ {
+  "ID": 16,
+  "AttrIDs": [
+   100
+  ],
+  "AttrTypes": [
+   2
+  ],
+  "AttrVals": [
+   1000
+  ]
+ },
+ {
+  "ID": 17,
+  "AttrIDs": [
+   102
+  ],
+  "AttrTypes": [
+   2
+  ],
+  "AttrVals": [
+   400
+  ]
+ },
+ {
+  "ID": 18,
+  "AttrIDs": [
+   102
+  ],
+  "AttrTypes": [
+   2
+  ],
+  "AttrVals": [
+   800
+  ]
+ },
+ {
+  "ID": 19,
+  "AttrIDs": [
+   102
+  ],
+  "AttrTypes": [
+   2
+  ],
+  "AttrVals": [
+   1200
+  ]
+ },
+ {
+  "ID": 20,
+  "AttrIDs": [
+   102
+  ],
+  "AttrTypes": [
+   2
+  ],
+  "AttrVals": [
+   2000
+  ]
+ },
+ {
+  "ID": 21,
+  "AttrIDs": [
+   4
+  ],
+  "AttrTypes": [
+   2
+  ],
+  "AttrVals": [
+   400
+  ]
+ },
+ {
+  "ID": 22,
+  "AttrIDs": [
+   4
+  ],
+  "AttrTypes": [
+   2
+  ],
+  "AttrVals": [
+   800
+  ]
+ },
+ {
+  "ID": 23,
+  "AttrIDs": [
+   4
+  ],
+  "AttrTypes": [
+   2
+  ],
+  "AttrVals": [
+   1200
+  ]
+ },
+ {
+  "ID": 24,
+  "AttrIDs": [
+   4
+  ],
+  "AttrTypes": [
+   2
+  ],
+  "AttrVals": [
+   2000
+  ]
+ },
+ {
+  "ID": 25,
+  "AttrIDs": [
+   100
+  ],
+  "AttrTypes": [
+   2
+  ],
+  "AttrVals": [
+   400
+  ]
+ },
+ {
+  "ID": 26,
+  "AttrIDs": [
+   100
+  ],
+  "AttrTypes": [
+   2
+  ],
+  "AttrVals": [
+   800
+  ]
+ },
+ {
+  "ID": 27,
+  "AttrIDs": [
+   100
+  ],
+  "AttrTypes": [
+   2
+  ],
+  "AttrVals": [
+   1200
+  ]
+ },
+ {
+  "ID": 28,
+  "AttrIDs": [
+   100
+  ],
+  "AttrTypes": [
+   2
+  ],
+  "AttrVals": [
+   2000
+  ]
+ },
+ {
+  "ID": 29,
+  "AttrIDs": [
+   102
+  ],
+  "AttrTypes": [
+   2
+  ],
+  "AttrVals": [
+   500
+  ]
+ },
+ {
+  "ID": 30,
+  "AttrIDs": [
+   102
+  ],
+  "AttrTypes": [
+   2
+  ],
+  "AttrVals": [
+   1000
+  ]
+ },
+ {
+  "ID": 31,
+  "AttrIDs": [
+   102
+  ],
+  "AttrTypes": [
+   2
+  ],
+  "AttrVals": [
+   1500
+  ]
+ },
+ {
+  "ID": 32,
+  "AttrIDs": [
+   102
+  ],
+  "AttrTypes": [
+   2
+  ],
+  "AttrVals": [
+   2500
+  ]
+ },
+ {
+  "ID": 33,
+  "AttrIDs": [
+   4
+  ],
+  "AttrTypes": [
+   2
+  ],
+  "AttrVals": [
+   500
+  ]
+ },
+ {
+  "ID": 34,
+  "AttrIDs": [
+   4
+  ],
+  "AttrTypes": [
+   2
+  ],
+  "AttrVals": [
+   1000
+  ]
+ },
+ {
+  "ID": 35,
+  "AttrIDs": [
+   4
+  ],
+  "AttrTypes": [
+   2
+  ],
+  "AttrVals": [
+   1500
+  ]
+ },
+ {
+  "ID": 36,
+  "AttrIDs": [
+   4
+  ],
+  "AttrTypes": [
+   2
+  ],
+  "AttrVals": [
+   2500
+  ]
+ },
+ {
+  "ID": 37,
+  "AttrIDs": [
+   100
+  ],
+  "AttrTypes": [
+   2
+  ],
+  "AttrVals": [
+   500
+  ]
+ },
+ {
+  "ID": 38,
+  "AttrIDs": [
+   100
+  ],
+  "AttrTypes": [
+   2
+  ],
+  "AttrVals": [
+   1000
+  ]
+ },
+ {
+  "ID": 39,
+  "AttrIDs": [
+   100
+  ],
+  "AttrTypes": [
+   2
+  ],
+  "AttrVals": [
+   1500
+  ]
+ },
+ {
+  "ID": 40,
+  "AttrIDs": [
+   100
+  ],
+  "AttrTypes": [
+   2
+  ],
+  "AttrVals": [
+   2500
+  ]
+ }
+]

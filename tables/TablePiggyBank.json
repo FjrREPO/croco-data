@@ -1,0 +1,122 @@
+[
+ {
+  "ID": 10001,
+  "GroupID": 10001,
+  "Sort": 1,
+  "Condition1": [
+   1,
+   2
+  ],
+  "Condition2": [
+   1,
+   50
+  ],
+  "Max": 300,
+  "MallID": 84000001
+ },
+ {
+  "ID": 10002,
+  "GroupID": 10001,
+  "Sort": 2,
+  "Condition1": [
+   1,
+   2
+  ],
+  "Condition2": [
+   1,
+   50
+  ],
+  "Max": 1500,
+  "MallID": 84000002
+ },
+ {
+  "ID": 10003,
+  "GroupID": 10001,
+  "Sort": 3,
+  "Condition1": [
+   1,
+   2
+  ],
+  "Condition2": [
+   1,
+   50
+  ],
+  "Max": 3400,
+  "MallID": 84000003
+ },
+ {
+  "ID": 10004,
+  "GroupID": 10001,
+  "Sort": 4,
+  "Condition1": [
+   1,
+   2
+  ],
+  "Condition2": [
+   1,
+   50
+  ],
+  "Max": 6400,
+  "MallID": 84000004
+ },
+ {
+  "ID": 10005,
+  "GroupID": 10002,
+  "Sort": 1,
+  "Condition1": [
+   1,
+   2
+  ],
+  "Condition2": [
+   1,
+   50
+  ],
+  "Max": 300,
+  "MallID": 84000001
+ },
+ {
+  "ID": 10006,
+  "GroupID": 10002,
+  "Sort": 2,
+  "Condition1": [
+   1,
+   2
+  ],
+  "Condition2": [
+   1,
+   50
+  ],
+  "Max": 1500,
+  "MallID": 84000002
+ },
+ {
+  "ID": 10007,
+  "GroupID": 10002,
+  "Sort": 3,
+  "Condition1": [
+   1,
+   2
+  ],
+  "Condition2": [
+   1,
+   50
+  ],
+  "Max": 3400,
+  "MallID": 84000003
+ },
+ {
+  "ID": 10008,
+  "GroupID": 10002,
+  "Sort": 4,
+  "Condition1": [
+   1,
+   2
+  ],
+  "Condition2": [
+   1,
+   50
+  ],
+  "Max": 6400,
+  "MallID": 84000004
+ }
+]

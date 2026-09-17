@@ -1,0 +1,242 @@
+[
+ {
+  "StrKey": "@130202110",
+  "DefaultStr": "Buff_130202101"
+ },
+ {
+  "StrKey": "@120602110",
+  "DefaultStr": "event:/Battle/Attack&Skill/NewCharacters/TKMN_Skill_Spell1"
+ },
+ {
+  "StrKey": "@120603110",
+  "DefaultStr": "Buff_120603110"
+ },
+ {
+  "StrKey": "@120603111",
+  "DefaultStr": "ReceiverFx_120603110"
+ },
+ {
+  "StrKey": "@140404110",
+  "DefaultStr": "ReceiverFx_140404100"
+ },
+ {
+  "StrKey": "@140404111",
+  "DefaultStr": "ReceiverFx_140404101"
+ },
+ {
+  "StrKey": "@140404112",
+  "DefaultStr": "ReceiverFx_140404102"
+ },
+ {
+  "StrKey": "@140404113",
+  "DefaultStr": "SenderFx_140404101"
+ },
+ {
+  "StrKey": "@110604100",
+  "DefaultStr": "ForceField_11060400"
+ },
+ {
+  "StrKey": "@110604200",
+  "DefaultStr": "ForceField_11060403"
+ },
+ {
+  "StrKey": "@130601110",
+  "DefaultStr": ""
+ },
+ {
+  "StrKey": "@110604410",
+  "DefaultStr": ""
+ },
+ {
+  "StrKey": "@1110302612",
+  "DefaultStr": ""
+ },
+ {
+  "StrKey": "@2110302112",
+  "DefaultStr": ""
+ },
+ {
+  "StrKey": "@120301110",
+  "DefaultStr": "ReceiverFx_120301100"
+ },
+ {
+  "StrKey": "@110604300",
+  "DefaultStr": "event:/Battle/Attack&Skill/NewCharacters/HJ_Skill_TornadoSmall"
+ },
+ {
+  "StrKey": "@140403110",
+  "DefaultStr": "SenderFx_140403001"
+ },
+ {
+  "StrKey": "@830202110",
+  "DefaultStr": "Bullet_830202001"
+ },
+ {
+  "StrKey": "@830202111",
+  "DefaultStr": "ReceiverFx_830202002"
+ },
+ {
+  "StrKey": "@110502010",
+  "DefaultStr": "ReceiverFx_110502000"
+ },
+ {
+  "StrKey": "@110502110",
+  "DefaultStr": "SenderFx_110502110"
+ },
+ {
+  "StrKey": "@110502111",
+  "DefaultStr": "ReceiverFx_110502110"
+ },
+ {
+  "StrKey": "@150401000",
+  "DefaultStr": "Bullet_150401000"
+ },
+ {
+  "StrKey": "@150401001",
+  "DefaultStr": "ReceiverFx_150401001"
+ },
+ {
+  "StrKey": "@150401100",
+  "DefaultStr": "Buff_150401100"
+ },
+ {
+  "StrKey": "@150401101",
+  "DefaultStr": "Bullet_150401100"
+ },
+ {
+  "StrKey": "@150401102",
+  "DefaultStr": "Bullet_150401101"
+ },
+ {
+  "StrKey": "@150401103",
+  "DefaultStr": "Bullet_150401103"
+ },
+ {
+  "StrKey": "@150401104",
+  "DefaultStr": "ReceiverFx_150401100"
+ },
+ {
+  "StrKey": "@150401105",
+  "DefaultStr": "ReceiverFx_150401101"
+ },
+ {
+  "StrKey": "@150401106",
+  "DefaultStr": "ReceiverFx_150401103"
+ },
+ {
+  "StrKey": "@150401107",
+  "DefaultStr": "ReceiverFx_150401104"
+ },
+ {
+  "StrKey": "@150401108",
+  "DefaultStr": "ReceiverFx_150401105"
+ },
+ {
+  "StrKey": "@150401109",
+  "DefaultStr": "SenderFx_150401100"
+ },
+ {
+  "StrKey": "@150401110",
+  "DefaultStr": "SenderFx_150401101"
+ },
+ {
+  "StrKey": "@150401111",
+  "DefaultStr": "SenderFx_150401102"
+ },
+ {
+  "StrKey": "@150401200",
+  "DefaultStr": "Bullet_150401200"
+ },
+ {
+  "StrKey": "@150401201",
+  "DefaultStr": "ReceiverFx_150401202"
+ },
+ {
+  "StrKey": "@150401202",
+  "DefaultStr": "ReceiverFx_150401203"
+ },
+ {
+  "StrKey": "@150401203",
+  "DefaultStr": "SenderFx_150401201"
+ },
+ {
+  "StrKey": "@150401204",
+  "DefaultStr": "SenderFx_150401202"
+ },
+ {
+  "StrKey": "@150401205",
+  "DefaultStr": "ReceiverFx_150401200"
+ },
+ {
+  "StrKey": "@150401206",
+  "DefaultStr": "SenderFx_150401200"
+ },
+ {
+  "StrKey": "@310502000",
+  "DefaultStr": "Skin_ReceiverFx_110502000"
+ },
+ {
+  "StrKey": "@310502001",
+  "DefaultStr": "SenderFx_110502000"
+ },
+ {
+  "StrKey": "@310502002",
+  "DefaultStr": "SenderFx_110502001"
+ },
+ {
+  "StrKey": "@310502003",
+  "DefaultStr": "Buff_110502110"
+ },
+ {
+  "StrKey": "@310502004",
+  "DefaultStr": "Skin_ReceiverFx_110502110"
+ },
+ {
+  "StrKey": "@310502005",
+  "DefaultStr": "Skin_SenderFx_110502110"
+ },
+ {
+  "StrKey": "@310502006",
+  "DefaultStr": "Buff_1110502210"
+ },
+ {
+  "StrKey": "@310502007",
+  "DefaultStr": "SenderFx_1110502210"
+ },
+ {
+  "StrKey": "@310502008",
+  "DefaultStr": "ReceiverFx_1110502410"
+ },
+ {
+  "StrKey": "@310502009",
+  "DefaultStr": "ReceiverFx_1110502510"
+ },
+ {
+  "StrKey": "@310502010",
+  "DefaultStr": "SenderFx_1110502510"
+ },
+ {
+  "StrKey": "@310502011",
+  "DefaultStr": "SenderFx_1110502511"
+ },
+ {
+  "StrKey": "@310502013",
+  "DefaultStr": "ReceiverFx_1110502611"
+ },
+ {
+  "StrKey": "@310502015",
+  "DefaultStr": "ReceiverFx_2110502310"
+ },
+ {
+  "StrKey": "@310502016",
+  "DefaultStr": "ReceiverFx_2110502410"
+ },
+ {
+  "StrKey": "@310502018",
+  "DefaultStr": "ReceiverFx_2110502610"
+ },
+ {
+  "StrKey": "@310502019",
+  "DefaultStr": "SenderFx_2110502610"
+ }
+]

@@ -1,0 +1,1822 @@
+[
+ {
+  "id": 507006,
+  "name": "Ace",
+  "unit_name": "",
+  "rarity": "SSS+",
+  "rarity_name": "ImmortalⅠ",
+  "quality": 7,
+  "race": "-",
+  "role": "-",
+  "cost": 0,
+  "max_level": 100,
+  "hp": 8640,
+  "atk": 480,
+  "defense": 120,
+  "atk_speed": 100,
+  "atk_range": 10,
+  "move_speed": 0,
+  "crit_dmg": 15000,
+  "mp_regen": 20,
+  "skills": [
+   {
+    "id": 507006100,
+    "name": "Ashen Annihilation",
+    "desc": "At battle start, deals 2 hits of {0}% ATK damage that ignores Defense to all enemies.",
+    "kind": "skill"
+   }
+  ],
+  "passives": [
+   {
+    "id": 507006200,
+    "name": "Beast Swarm Magic SurgeⅢ",
+    "desc": "Mage heroes increase casting speed by {0}%, and deployed pets increase final damage by {1}%.",
+    "kind": "skill"
+   }
+  ],
+  "icon": "icons/Icons/PetIcon/Icon_Pet_507006.png",
+  "pet_quality": 7,
+  "pet_max_level": null,
+  "piece_needed": null,
+  "attr_ids": [],
+  "attr_vals": []
+ },
+ {
+  "id": 507004,
+  "name": "Blood Crow",
+  "unit_name": "",
+  "rarity": "SSS+",
+  "rarity_name": "ImmortalⅠ",
+  "quality": 7,
+  "race": "-",
+  "role": "-",
+  "cost": 0,
+  "max_level": 100,
+  "hp": 8640,
+  "atk": 480,
+  "defense": 120,
+  "atk_speed": 20,
+  "atk_range": 10,
+  "move_speed": 0,
+  "crit_dmg": 15000,
+  "mp_regen": 20,
+  "skills": [
+   {
+    "id": 507004100,
+    "name": "Phantom Raven Shadow",
+    "desc": "At the start of battle, summons a mirror image of the hero with the most Blessings. The mirror image lasts for 60 seconds, inherits {0}% of the hero's stats, and possesses all skills and Blessings.",
+    "kind": "skill"
+   }
+  ],
+  "passives": [
+   {
+    "id": 507004200,
+    "name": "Beast-Tide CalamityⅢ",
+    "desc": "Calamity heroes increase damage by {0}%, and deployed pets increase final damage by {1}%.",
+    "kind": "skill"
+   }
+  ],
+  "icon": "icons/Icons/PetIcon/Icon_Pet_507004.png",
+  "pet_quality": 7,
+  "pet_max_level": 100,
+  "piece_needed": 0,
+  "attr_ids": [],
+  "attr_vals": []
+ },
+ {
+  "id": 507005,
+  "name": "Bruce",
+  "unit_name": "",
+  "rarity": "SSS+",
+  "rarity_name": "ImmortalⅠ",
+  "quality": 7,
+  "race": "-",
+  "role": "-",
+  "cost": 0,
+  "max_level": 100,
+  "hp": 8640,
+  "atk": 480,
+  "defense": 120,
+  "atk_speed": 100,
+  "atk_range": 10,
+  "move_speed": 0,
+  "crit_dmg": 15000,
+  "mp_regen": 20,
+  "skills": [
+   {
+    "id": 507005100,
+    "name": "Bat Swarm Hunt",
+    "desc": "At battle start, deals 18 hits of {0}% ATK damage. Each hit on the same target increases damage by 10%, and 15% of damage dealt is converted into healing for the hero with the lowest HP.",
+    "kind": "skill"
+   }
+  ],
+  "passives": [
+   {
+    "id": 507005200,
+    "name": "Pet-Hunter Swift BowⅢ",
+    "desc": "Archer heroes increase attack speed by {0}%, and deployed pets increase final damage by {1}%.",
+    "kind": "skill"
+   }
+  ],
+  "icon": "icons/Icons/PetIcon/Icon_Pet_507005.png",
+  "pet_quality": 7,
+  "pet_max_level": 100,
+  "piece_needed": 0,
+  "attr_ids": [],
+  "attr_vals": []
+ },
+ {
+  "id": 507001,
+  "name": "Death Warrior",
+  "unit_name": "",
+  "rarity": "SSS+",
+  "rarity_name": "ImmortalⅠ",
+  "quality": 7,
+  "race": "-",
+  "role": "-",
+  "cost": 0,
+  "max_level": 100,
+  "hp": 8640,
+  "atk": 480,
+  "defense": 120,
+  "atk_speed": 20,
+  "atk_range": 10,
+  "move_speed": 0,
+  "crit_dmg": 15000,
+  "mp_regen": 20,
+  "skills": [
+   {
+    "id": 507001100,
+    "name": "Chain Flash Kill",
+    "desc": "At battle start, deals 3 hits of {0}% ATK damage and marks the target for 5s, increasing damage taken by {1}%. If the target dies while marked, this skill effect is recast on another enemy.",
+    "kind": "skill"
+   }
+  ],
+  "passives": [
+   {
+    "id": 507001200,
+    "name": "Pet Hunt BloodbladeⅢ",
+    "desc": "Assassin heroes increase lifesteal by {0}%, and deployed pets increase final damage by {1}%.",
+    "kind": "skill"
+   }
+  ],
+  "icon": "icons/Icons/PetIcon/Icon_Pet_507001.png",
+  "pet_quality": 7,
+  "pet_max_level": 100,
+  "piece_needed": 0,
+  "attr_ids": [],
+  "attr_vals": []
+ },
+ {
+  "id": 507003,
+  "name": "Drunken Panda",
+  "unit_name": "",
+  "rarity": "SSS+",
+  "rarity_name": "ImmortalⅠ",
+  "quality": 7,
+  "race": "-",
+  "role": "-",
+  "cost": 0,
+  "max_level": 100,
+  "hp": 8640,
+  "atk": 480,
+  "defense": 120,
+  "atk_speed": 100,
+  "atk_range": 10,
+  "move_speed": 0,
+  "crit_dmg": 15000,
+  "mp_regen": 20,
+  "skills": [
+   {
+    "id": 507003100,
+    "name": "Drunken Spirit Phantom",
+    "desc": "At the start of battle, summon 4 clones of yourself to join the fight for 10 seconds. Each clone deals damage equal to {0}% ATK to a single enemy every 0.7 seconds, and throws a barrel every 2 seconds, dealing true damage equal to {1}% of your own max HP to a 5x5 area.",
+    "kind": "skill"
+   }
+  ],
+  "passives": [
+   {
+    "id": 507003200,
+    "name": "Frenzy of BeastsⅢ",
+    "desc": "All summons increase damage by {0}%, and deployed pets increase final damage by {1}%.",
+    "kind": "skill"
+   }
+  ],
+  "icon": "icons/Icons/PetIcon/Icon_Pet_507003.png",
+  "pet_quality": 7,
+  "pet_max_level": 100,
+  "piece_needed": 0,
+  "attr_ids": [],
+  "attr_vals": []
+ },
+ {
+  "id": 507008,
+  "name": "Medusa",
+  "unit_name": "",
+  "rarity": "SSS+",
+  "rarity_name": "ImmortalⅠ",
+  "quality": 7,
+  "race": "-",
+  "role": "-",
+  "cost": 0,
+  "max_level": 100,
+  "hp": 8640,
+  "atk": 480,
+  "defense": 120,
+  "atk_speed": 100,
+  "atk_range": 10,
+  "move_speed": 0,
+  "crit_dmg": 15000,
+  "mp_regen": 20,
+  "skills": [
+   {
+    "id": 507008100,
+    "name": "Venom Vine Growth",
+    "desc": "At battle start, stuns all enemies on the field for {0}s. Stunned enemies take 50% extra damage.",
+    "kind": "skill"
+   }
+  ],
+  "passives": [
+   {
+    "id": 507008200,
+    "name": "Beast Array BindⅢ",
+    "desc": "Control heroes increase damage by {0}%, and deployed pets increase final damage by {1}%.",
+    "kind": "skill"
+   }
+  ],
+  "icon": "icons/Icons/PetIcon/Icon_Pet_507008.png",
+  "pet_quality": 7,
+  "pet_max_level": null,
+  "piece_needed": null,
+  "attr_ids": [],
+  "attr_vals": []
+ },
+ {
+  "id": 507007,
+  "name": "Sakura",
+  "unit_name": "",
+  "rarity": "SSS+",
+  "rarity_name": "ImmortalⅠ",
+  "quality": 7,
+  "race": "-",
+  "role": "-",
+  "cost": 0,
+  "max_level": 100,
+  "hp": 8640,
+  "atk": 480,
+  "defense": 120,
+  "atk_speed": 12,
+  "atk_range": 10,
+  "move_speed": 0,
+  "crit_dmg": 15000,
+  "mp_regen": 20,
+  "skills": [
+   {
+    "id": 507007100,
+    "name": "Elemental Storm",
+    "desc": "At battle start, deals {0}% ATK damage separately to the target's entire row and column and to a 5x5 area, and adds damage equal to {1}% of the target's max HP, up to {2}% of own ATK.",
+    "kind": "skill"
+   }
+  ],
+  "passives": [
+   {
+    "id": 507007200,
+    "name": "Battle-Pet UnityⅢ",
+    "desc": "Warrior heroes increase defense by {0}%, and deployed pets increase final damage by {1}%.",
+    "kind": "skill"
+   }
+  ],
+  "icon": "icons/Icons/PetIcon/Icon_Pet_507007.png",
+  "pet_quality": 7,
+  "pet_max_level": null,
+  "piece_needed": null,
+  "attr_ids": [],
+  "attr_vals": []
+ },
+ {
+  "id": 507002,
+  "name": "Strange Owl",
+  "unit_name": "",
+  "rarity": "SSS+",
+  "rarity_name": "ImmortalⅠ",
+  "quality": 7,
+  "race": "-",
+  "role": "-",
+  "cost": 0,
+  "max_level": 100,
+  "hp": 8640,
+  "atk": 480,
+  "defense": 120,
+  "atk_speed": 100,
+  "atk_range": 10,
+  "move_speed": 0,
+  "crit_dmg": 15000,
+  "mp_regen": 20,
+  "skills": [
+   {
+    "id": 507002100,
+    "name": "Arcane Barrier",
+    "desc": "At battle start, all allied heroes immediately gain {0} mana and a shield equal to {1}% ATK, and increase damage by {2}% plus attack speed and casting speed by {3}% for 15s.",
+    "kind": "skill"
+   }
+  ],
+  "passives": [
+   {
+    "id": 507002200,
+    "name": "Beast-Taming GraceⅢ",
+    "desc": "Support heroes increase healing by {0}%, and deployed pets increase final damage by {1}%.",
+    "kind": "skill"
+   }
+  ],
+  "icon": "icons/Icons/PetIcon/Icon_Pet_507002.png",
+  "pet_quality": 7,
+  "pet_max_level": 100,
+  "piece_needed": 0,
+  "attr_ids": [],
+  "attr_vals": []
+ },
+ {
+  "id": 506003,
+  "name": "Abo",
+  "unit_name": "",
+  "rarity": "SSS",
+  "rarity_name": "Immortal",
+  "quality": 6,
+  "race": "-",
+  "role": "-",
+  "cost": 0,
+  "max_level": 100,
+  "hp": 6480,
+  "atk": 360,
+  "defense": 90,
+  "atk_speed": 100,
+  "atk_range": 10,
+  "move_speed": 0,
+  "crit_dmg": 15000,
+  "mp_regen": 20,
+  "skills": [
+   {
+    "id": 506003100,
+    "name": "Three Panda Heroes",
+    "desc": "At the start of battle, summons 3 clones of yourself to join the fight for 25 seconds. Each clone deals {0}% ATK damage to a single enemy every 0.7 seconds and gains a whirlwind that deals {1}% ATK damage per second to nearby enemies.",
+    "kind": "skill"
+   }
+  ],
+  "passives": [
+   {
+    "id": 506003200,
+    "name": "Frenzy of BeastsⅡ",
+    "desc": "All summons increase damage by {0}%, and deployed pets increase final damage by {1}%.",
+    "kind": "skill"
+   }
+  ],
+  "icon": "icons/Icons/PetIcon/Icon_Pet_506003.png",
+  "pet_quality": 6,
+  "pet_max_level": 100,
+  "piece_needed": 0,
+  "attr_ids": [],
+  "attr_vals": []
+ },
+ {
+  "id": 506006,
+  "name": "Aizen",
+  "unit_name": "",
+  "rarity": "SSS",
+  "rarity_name": "Immortal",
+  "quality": 6,
+  "race": "-",
+  "role": "-",
+  "cost": 0,
+  "max_level": 100,
+  "hp": 6480,
+  "atk": 360,
+  "defense": 90,
+  "atk_speed": 33,
+  "atk_range": 10,
+  "move_speed": 0,
+  "crit_dmg": 15000,
+  "mp_regen": 20,
+  "skills": [
+   {
+    "id": 506006100,
+    "name": "Black Coffin Mirror",
+    "desc": "At the start of battle, summons 2 mirror images of the hero with the most Blessings, the mirror images last for 60 seconds, inherit {0}% of the hero's stats, and possess the original's basic attack and skills.",
+    "kind": "skill"
+   }
+  ],
+  "passives": [
+   {
+    "id": 506006200,
+    "name": "Beast-Tide CalamityⅡ",
+    "desc": "Calamity heroes increase damage by {0}%, and deployed pets increase final damage by {1}%.",
+    "kind": "skill"
+   }
+  ],
+  "icon": "icons/Icons/PetIcon/Icon_Pet_506006.png",
+  "pet_quality": 6,
+  "pet_max_level": null,
+  "piece_needed": null,
+  "attr_ids": [],
+  "attr_vals": []
+ },
+ {
+  "id": 506007,
+  "name": "Celebi",
+  "unit_name": "",
+  "rarity": "SSS",
+  "rarity_name": "Immortal",
+  "quality": 6,
+  "race": "-",
+  "role": "-",
+  "cost": 0,
+  "max_level": 100,
+  "hp": 6480,
+  "atk": 360,
+  "defense": 90,
+  "atk_speed": 20,
+  "atk_range": 10,
+  "move_speed": 0,
+  "crit_dmg": 15000,
+  "mp_regen": 20,
+  "skills": [
+   {
+    "id": 506007100,
+    "name": "Spirit Channeling",
+    "desc": "At the start of battle, deals {0}% ATK damage every second to the 5x5 area containing the target, and additionally deals damage equal to {1}% of own max HP, lasting 2 seconds.",
+    "kind": "skill"
+   }
+  ],
+  "passives": [
+   {
+    "id": 506007200,
+    "name": "Battle-Pet UnityⅡ",
+    "desc": "Warrior heroes increase defense by {0}%, and deployed pets increase final damage by {1}%.",
+    "kind": "skill"
+   }
+  ],
+  "icon": "icons/Icons/PetIcon/Icon_Pet_506007.png",
+  "pet_quality": 6,
+  "pet_max_level": null,
+  "piece_needed": null,
+  "attr_ids": [],
+  "attr_vals": []
+ },
+ {
+  "id": 506001,
+  "name": "Creed",
+  "unit_name": "",
+  "rarity": "SSS",
+  "rarity_name": "Immortal",
+  "quality": 6,
+  "race": "-",
+  "role": "-",
+  "cost": 0,
+  "max_level": 100,
+  "hp": 6480,
+  "atk": 360,
+  "defense": 90,
+  "atk_speed": 20,
+  "atk_range": 10,
+  "move_speed": 0,
+  "crit_dmg": 15000,
+  "mp_regen": 20,
+  "skills": [
+   {
+    "id": 506001100,
+    "name": "Nocturnal Judgment",
+    "desc": "At battle start, deals 3 hits of {0}% ATK damage and marks the target for 3s, increasing damage taken by {1}%.",
+    "kind": "skill"
+   }
+  ],
+  "passives": [
+   {
+    "id": 506001200,
+    "name": "Pet Hunt BloodbladeⅡ",
+    "desc": "Assassin heroes increase lifesteal by {0}%, and deployed pets increase final damage by {1}%.",
+    "kind": "skill"
+   }
+  ],
+  "icon": "icons/Icons/PetIcon/Icon_Pet_506001.png",
+  "pet_quality": 6,
+  "pet_max_level": 100,
+  "piece_needed": 0,
+  "attr_ids": [],
+  "attr_vals": []
+ },
+ {
+  "id": 506008,
+  "name": "Godoff",
+  "unit_name": "",
+  "rarity": "SSS",
+  "rarity_name": "Immortal",
+  "quality": 6,
+  "race": "-",
+  "role": "-",
+  "cost": 0,
+  "max_level": 100,
+  "hp": 6480,
+  "atk": 360,
+  "defense": 90,
+  "atk_speed": 100,
+  "atk_range": 10,
+  "move_speed": 0,
+  "crit_dmg": 15000,
+  "mp_regen": 20,
+  "skills": [
+   {
+    "id": 506008100,
+    "name": "White Radiance Guard",
+    "desc": "At battle start, all allied heroes immediately gain a shield equal to {0}% ATK and recover {1}% ATK as HP, while increasing damage by {2}% for 10s.",
+    "kind": "skill"
+   }
+  ],
+  "passives": [
+   {
+    "id": 506008200,
+    "name": "Beast-Taming GraceⅡ",
+    "desc": "Support heroes increase healing by {0}%, and deployed pets increase final damage by {1}%.",
+    "kind": "skill"
+   }
+  ],
+  "icon": "icons/Icons/PetIcon/Icon_Pet_506008.png",
+  "pet_quality": 6,
+  "pet_max_level": null,
+  "piece_needed": null,
+  "attr_ids": [],
+  "attr_vals": []
+ },
+ {
+  "id": 506002,
+  "name": "Harry",
+  "unit_name": "",
+  "rarity": "SSS",
+  "rarity_name": "Immortal",
+  "quality": 6,
+  "race": "-",
+  "role": "-",
+  "cost": 0,
+  "max_level": 100,
+  "hp": 6480,
+  "atk": 360,
+  "defense": 90,
+  "atk_speed": 100,
+  "atk_range": 10,
+  "move_speed": 0,
+  "crit_dmg": 15000,
+  "mp_regen": 20,
+  "skills": [
+   {
+    "id": 506002100,
+    "name": "Fieldwide Thunder Curse",
+    "desc": "At battle start, deals {0} ATK damage separately to the target's 3x3 area and the 5x5 cross area; this damage ignores {1}% defense.",
+    "kind": "skill"
+   }
+  ],
+  "passives": [
+   {
+    "id": 506002200,
+    "name": "Beast Swarm Magic SurgeⅡ",
+    "desc": "Mage heroes increase casting speed by {0}%, and deployed pets increase final damage by {1}%.",
+    "kind": "skill"
+   }
+  ],
+  "icon": "icons/Icons/PetIcon/Icon_Pet_506002.png",
+  "pet_quality": 6,
+  "pet_max_level": 100,
+  "piece_needed": 0,
+  "attr_ids": [],
+  "attr_vals": []
+ },
+ {
+  "id": 506005,
+  "name": "Iron Rabbit",
+  "unit_name": "",
+  "rarity": "SSS",
+  "rarity_name": "Immortal",
+  "quality": 6,
+  "race": "-",
+  "role": "-",
+  "cost": 0,
+  "max_level": 100,
+  "hp": 6480,
+  "atk": 360,
+  "defense": 90,
+  "atk_speed": 100,
+  "atk_range": 10,
+  "move_speed": 0,
+  "crit_dmg": 15000,
+  "mp_regen": 20,
+  "skills": [
+   {
+    "id": 506005100,
+    "name": "Barrage Bombardment",
+    "desc": "At battle start, deals 15 hits of {0}% ATK damage. Each hit on the same target increases damage by 25%.",
+    "kind": "skill"
+   }
+  ],
+  "passives": [
+   {
+    "id": 506005200,
+    "name": "Pet-Hunter Swift BowⅡ",
+    "desc": "Archer heroes increase attack speed by {0}%, and deployed pets increase final damage by {1}%.",
+    "kind": "skill"
+   }
+  ],
+  "icon": "icons/Icons/PetIcon/Icon_Pet_506005.png",
+  "pet_quality": 6,
+  "pet_max_level": 100,
+  "piece_needed": 0,
+  "attr_ids": [],
+  "attr_vals": []
+ },
+ {
+  "id": 506004,
+  "name": "Magneto",
+  "unit_name": "",
+  "rarity": "SSS",
+  "rarity_name": "Immortal",
+  "quality": 6,
+  "race": "-",
+  "role": "-",
+  "cost": 0,
+  "max_level": 100,
+  "hp": 6480,
+  "atk": 360,
+  "defense": 90,
+  "atk_speed": 100,
+  "atk_range": 10,
+  "move_speed": 0,
+  "crit_dmg": 15000,
+  "mp_regen": 20,
+  "skills": [
+   {
+    "id": 506004100,
+    "name": "Magnetic Vortex",
+    "desc": "At battle start, releases a magnetic vortex that gathers all enemies on the field and stuns them for {0}s.",
+    "kind": "skill"
+   }
+  ],
+  "passives": [
+   {
+    "id": 506004200,
+    "name": "Beast Array BindⅡ",
+    "desc": "Control heroes increase damage by {0}%, and deployed pets increase final damage by {1}%.",
+    "kind": "skill"
+   }
+  ],
+  "icon": "icons/Icons/PetIcon/Icon_Pet_506004.png",
+  "pet_quality": 6,
+  "pet_max_level": 100,
+  "piece_needed": 0,
+  "attr_ids": [],
+  "attr_vals": []
+ },
+ {
+  "id": 506009,
+  "name": "Zog・Everdark",
+  "unit_name": "",
+  "rarity": "SSS",
+  "rarity_name": "Immortal",
+  "quality": 6,
+  "race": "-",
+  "role": "-",
+  "cost": 0,
+  "max_level": 100,
+  "hp": 6480,
+  "atk": 360,
+  "defense": 90,
+  "atk_speed": 100,
+  "atk_range": 10,
+  "move_speed": 0,
+  "crit_dmg": 15000,
+  "mp_regen": 20,
+  "skills": [
+   {
+    "id": 506009100,
+    "name": "World-Scorching Netherflame",
+    "desc": "At the start of battle,deals 5 instances of true damage equal to {0}% ATK and 1 instance of true damage equal to {1}% ATK to all enemies on the battlefield,while granting all allied heroes a shield equal to {2}% of Max HP for 10 seconds",
+    "kind": "skill"
+   }
+  ],
+  "passives": [
+   {
+    "id": 506009200,
+    "name": "Dragon Roar Battle HymnⅡ",
+    "desc": "All heroes increase final damage by {0}%, and the deployed pet increases final damage by {1}%.",
+    "kind": "skill"
+   }
+  ],
+  "icon": "icons/Icons/PetIcon/Icon_Pet_506009.png",
+  "pet_quality": 6,
+  "pet_max_level": null,
+  "piece_needed": null,
+  "attr_ids": [],
+  "attr_vals": []
+ },
+ {
+  "id": 505004,
+  "name": "Bone Eagle",
+  "unit_name": "",
+  "rarity": "SS",
+  "rarity_name": "Mythical",
+  "quality": 5,
+  "race": "-",
+  "role": "-",
+  "cost": 0,
+  "max_level": 100,
+  "hp": 4320,
+  "atk": 240,
+  "defense": 60,
+  "atk_speed": 100,
+  "atk_range": 10,
+  "move_speed": 0,
+  "crit_dmg": 15000,
+  "mp_regen": 20,
+  "skills": [
+   {
+    "id": 505004100,
+    "name": "Chains of Fate",
+    "desc": "At battle start, applies chains to up to 5 enemies, stunning them for {0}s.",
+    "kind": "skill"
+   }
+  ],
+  "passives": [
+   {
+    "id": 505004200,
+    "name": "Beast Array BindⅠ",
+    "desc": "Control heroes increase damage by {0}%, and deployed pets increase final damage by {1}%.",
+    "kind": "skill"
+   }
+  ],
+  "icon": "icons/Icons/PetIcon/Icon_Pet_505004.png",
+  "pet_quality": 5,
+  "pet_max_level": 100,
+  "piece_needed": 0,
+  "attr_ids": [],
+  "attr_vals": []
+ },
+ {
+  "id": 505006,
+  "name": "Fennec Fox",
+  "unit_name": "",
+  "rarity": "SS",
+  "rarity_name": "Mythical",
+  "quality": 5,
+  "race": "-",
+  "role": "-",
+  "cost": 0,
+  "max_level": 0,
+  "hp": 4320,
+  "atk": 240,
+  "defense": 60,
+  "atk_speed": 33,
+  "atk_range": 10,
+  "move_speed": 0,
+  "crit_dmg": 15000,
+  "mp_regen": 20,
+  "skills": [
+   {
+    "id": 505006100,
+    "name": "Violent Whirlwind",
+    "desc": "At battle start, deals {0}% ATK damage per second in a 3x3 area around the target for 3s.",
+    "kind": "skill"
+   }
+  ],
+  "passives": [
+   {
+    "id": 505006200,
+    "name": "Battle-Pet UnityⅠ",
+    "desc": "Warrior heroes increase defense by {0}%, and deployed pets increase final damage by {1}%.",
+    "kind": "skill"
+   }
+  ],
+  "icon": "icons/Icons/PetIcon/Icon_Pet_505006.png",
+  "pet_quality": 5,
+  "pet_max_level": null,
+  "piece_needed": null,
+  "attr_ids": [],
+  "attr_vals": []
+ },
+ {
+  "id": 505002,
+  "name": "Fire Owl",
+  "unit_name": "",
+  "rarity": "SS",
+  "rarity_name": "Mythical",
+  "quality": 5,
+  "race": "-",
+  "role": "-",
+  "cost": 0,
+  "max_level": 100,
+  "hp": 4320,
+  "atk": 240,
+  "defense": 60,
+  "atk_speed": 100,
+  "atk_range": 10,
+  "move_speed": 0,
+  "crit_dmg": 15000,
+  "mp_regen": 20,
+  "skills": [
+   {
+    "id": 505002100,
+    "name": "Great Annihilation",
+    "desc": "At battle start, deals {0}% ATK damage in a 5x5 area around the target. This damage ignores {1}% defense.",
+    "kind": "skill"
+   }
+  ],
+  "passives": [
+   {
+    "id": 505002200,
+    "name": "Beast Swarm Magic SurgeⅠ",
+    "desc": "Mage heroes increase casting speed by {0}%, and deployed pets increase final damage by {1}%.",
+    "kind": "skill"
+   }
+  ],
+  "icon": "icons/Icons/PetIcon/Icon_Pet_505002.png",
+  "pet_quality": 5,
+  "pet_max_level": 100,
+  "piece_needed": 0,
+  "attr_ids": [],
+  "attr_vals": []
+ },
+ {
+  "id": 505008,
+  "name": "Joyboy",
+  "unit_name": "",
+  "rarity": "SS",
+  "rarity_name": "Mythical",
+  "quality": 5,
+  "race": "-",
+  "role": "-",
+  "cost": 0,
+  "max_level": 100,
+  "hp": 4320,
+  "atk": 240,
+  "defense": 60,
+  "atk_speed": 100,
+  "atk_range": 10,
+  "move_speed": 0,
+  "crit_dmg": 15000,
+  "mp_regen": 20,
+  "skills": [
+   {
+    "id": 505008100,
+    "name": "Secret Elixir Boost",
+    "desc": "At battle start, all allied heroes recover {0}% ATK as HP per second and increase damage by {1}% for 10s.",
+    "kind": "skill"
+   }
+  ],
+  "passives": [
+   {
+    "id": 505008200,
+    "name": "Beast-Taming GraceⅠ",
+    "desc": "Support heroes increase healing by {0}%, and deployed pets increase final damage by {1}%.",
+    "kind": "skill"
+   }
+  ],
+  "icon": "icons/Icons/PetIcon/Icon_Pet_505008.png",
+  "pet_quality": 5,
+  "pet_max_level": null,
+  "piece_needed": null,
+  "attr_ids": [],
+  "attr_vals": []
+ },
+ {
+  "id": 505007,
+  "name": "Kai",
+  "unit_name": "",
+  "rarity": "SS",
+  "rarity_name": "Mythical",
+  "quality": 5,
+  "race": "-",
+  "role": "-",
+  "cost": 0,
+  "max_level": 100,
+  "hp": 4320,
+  "atk": 240,
+  "defense": 60,
+  "atk_speed": 100,
+  "atk_range": 10,
+  "move_speed": 0,
+  "crit_dmg": 15000,
+  "mp_regen": 20,
+  "skills": [
+   {
+    "id": 505007100,
+    "name": "Summon Ice Spirit",
+    "desc": "At the start of battle, summon 2 clones of yourself to join the fight for 10 seconds. Each clone deals damage equal to {0}% ATK to a single enemy every 0.7 seconds, and every 2.5 seconds drops 3 icicles, each dealing damage equal to {1}% ATK.",
+    "kind": "skill"
+   }
+  ],
+  "passives": [
+   {
+    "id": 505007200,
+    "name": "Frenzy of BeastsⅠ",
+    "desc": "All summons increase damage by {0}%, and deployed pets increase final damage by {1}%.",
+    "kind": "skill"
+   }
+  ],
+  "icon": "icons/Icons/PetIcon/Icon_Pet_505007.png",
+  "pet_quality": 5,
+  "pet_max_level": null,
+  "piece_needed": null,
+  "attr_ids": [],
+  "attr_vals": []
+ },
+ {
+  "id": 505001,
+  "name": "Kong King Cat",
+  "unit_name": "",
+  "rarity": "SS",
+  "rarity_name": "Mythical",
+  "quality": 5,
+  "race": "-",
+  "role": "-",
+  "cost": 0,
+  "max_level": 100,
+  "hp": 4320,
+  "atk": 240,
+  "defense": 60,
+  "atk_speed": 20,
+  "atk_range": 10,
+  "move_speed": 0,
+  "crit_dmg": 15000,
+  "mp_regen": 20,
+  "skills": [
+   {
+    "id": 505001100,
+    "name": "Thousand-Claw Rend",
+    "desc": "At battle start, deals 3 hits of {0}% ATK damage and adds damage equal to {1}% of the target's max HP, up to {2}% of own ATK.",
+    "kind": "skill"
+   }
+  ],
+  "passives": [
+   {
+    "id": 505001200,
+    "name": "Pet Hunt BloodbladeⅠ",
+    "desc": "Assassin heroes increase lifesteal by {0}%, and deployed pets increase final damage by {1}%.",
+    "kind": "skill"
+   }
+  ],
+  "icon": "icons/Icons/PetIcon/Icon_Pet_505001.png",
+  "pet_quality": 5,
+  "pet_max_level": 100,
+  "piece_needed": 0,
+  "attr_ids": [],
+  "attr_vals": []
+ },
+ {
+  "id": 505003,
+  "name": "Panda",
+  "unit_name": "",
+  "rarity": "SS",
+  "rarity_name": "Mythical",
+  "quality": 5,
+  "race": "-",
+  "role": "-",
+  "cost": 0,
+  "max_level": 100,
+  "hp": 4320,
+  "atk": 240,
+  "defense": 60,
+  "atk_speed": 33,
+  "atk_range": 10,
+  "move_speed": 0,
+  "crit_dmg": 15000,
+  "mp_regen": 20,
+  "skills": [
+   {
+    "id": 505003100,
+    "name": "Clone Technique",
+    "desc": "Summons a mirror image of the hero with the most Blessings. The mirror image lasts for 60 seconds, inherits {0}% of the hero's stats, and possesses the original's basic attack and skills.",
+    "kind": "skill"
+   }
+  ],
+  "passives": [
+   {
+    "id": 505003200,
+    "name": "Beast-Tide CalamityⅠ",
+    "desc": "Calamity heroes increase damage by {0}%, and deployed pets increase final damage by {1}%.",
+    "kind": "skill"
+   }
+  ],
+  "icon": "icons/Icons/PetIcon/Icon_Pet_505003.png",
+  "pet_quality": 5,
+  "pet_max_level": 100,
+  "piece_needed": 0,
+  "attr_ids": [],
+  "attr_vals": []
+ },
+ {
+  "id": 505005,
+  "name": "Robin",
+  "unit_name": "",
+  "rarity": "SS",
+  "rarity_name": "Mythical",
+  "quality": 5,
+  "race": "-",
+  "role": "-",
+  "cost": 0,
+  "max_level": 100,
+  "hp": 4320,
+  "atk": 240,
+  "defense": 60,
+  "atk_speed": 100,
+  "atk_range": 10,
+  "move_speed": 0,
+  "crit_dmg": 15000,
+  "mp_regen": 20,
+  "skills": [
+   {
+    "id": 505005100,
+    "name": "Chain Sniping",
+    "desc": "At battle start, deals 10 hits of {0}% ATK damage, and each hit has a 30% chance to additionally deal {1}% ATK damage.",
+    "kind": "skill"
+   }
+  ],
+  "passives": [
+   {
+    "id": 505005200,
+    "name": "Pet-Hunter Swift BowⅠ",
+    "desc": "Archer heroes increase attack speed by {0}%, and deployed pets increase final damage by {1}%.",
+    "kind": "skill"
+   }
+  ],
+  "icon": "icons/Icons/PetIcon/Icon_Pet_505005.png",
+  "pet_quality": 5,
+  "pet_max_level": 100,
+  "piece_needed": 0,
+  "attr_ids": [],
+  "attr_vals": []
+ },
+ {
+  "id": 505009,
+  "name": "Vern・Crimsonclaw",
+  "unit_name": "",
+  "rarity": "SS",
+  "rarity_name": "Mythical",
+  "quality": 5,
+  "race": "-",
+  "role": "-",
+  "cost": 0,
+  "max_level": 100,
+  "hp": 4320,
+  "atk": 240,
+  "defense": 60,
+  "atk_speed": 100,
+  "atk_range": 10,
+  "move_speed": 0,
+  "crit_dmg": 15000,
+  "mp_regen": 20,
+  "skills": [
+   {
+    "id": 505009100,
+    "name": "World-Ending Dragon Claw",
+    "desc": "At the start of battle, deals {0}% ATK damage to all enemies, this damage ignores {1}% DEF, and reduces the targets' damage dealt by {2}%",
+    "kind": "skill"
+   }
+  ],
+  "passives": [
+   {
+    "id": 505009200,
+    "name": "Dragon Roar Battle HymnⅠ",
+    "desc": "All heroes increase final damage by {0}%, and the deployed pet increases final damage by {1}%.",
+    "kind": "skill"
+   }
+  ],
+  "icon": "icons/Icons/PetIcon/Icon_Pet_505009.png",
+  "pet_quality": 5,
+  "pet_max_level": null,
+  "piece_needed": null,
+  "attr_ids": [],
+  "attr_vals": []
+ },
+ {
+  "id": 504003,
+  "name": "Banana",
+  "unit_name": "",
+  "rarity": "S",
+  "rarity_name": "Legendary",
+  "quality": 4,
+  "race": "-",
+  "role": "-",
+  "cost": 0,
+  "max_level": 100,
+  "hp": 3240,
+  "atk": 180,
+  "defense": 45,
+  "atk_speed": 33,
+  "atk_range": 10,
+  "move_speed": 0,
+  "crit_dmg": 15000,
+  "mp_regen": 20,
+  "skills": [
+   {
+    "id": 504003100,
+    "name": "You Are Enhanced",
+    "desc": "At battle start, grants 3 random allied heroes a shield equal to {0}% ATK for 10s.",
+    "kind": "skill"
+   }
+  ],
+  "passives": [
+   {
+    "id": 504003200,
+    "name": "Pet Spirit Battle WillⅣ",
+    "desc": "Deployed pets increase final damage by {0}%.",
+    "kind": "skill"
+   }
+  ],
+  "icon": "icons/Icons/PetIcon/Icon_Pet_504003.png",
+  "pet_quality": 4,
+  "pet_max_level": 100,
+  "piece_needed": 0,
+  "attr_ids": [],
+  "attr_vals": []
+ },
+ {
+  "id": 504001,
+  "name": "Konoha Cat",
+  "unit_name": "",
+  "rarity": "S",
+  "rarity_name": "Legendary",
+  "quality": 4,
+  "race": "-",
+  "role": "-",
+  "cost": 0,
+  "max_level": 100,
+  "hp": 3240,
+  "atk": 180,
+  "defense": 45,
+  "atk_speed": 33,
+  "atk_range": 10,
+  "move_speed": 0,
+  "crit_dmg": 15000,
+  "mp_regen": 20,
+  "skills": [
+   {
+    "id": 504001100,
+    "name": "Thousand-Phantom Leaf Shadow",
+    "desc": "At battle start, deals 6 hits of {0}% ATK damage. Each attack targets a random enemy.",
+    "kind": "skill"
+   }
+  ],
+  "passives": [
+   {
+    "id": 504001200,
+    "name": "Pet Spirit Battle WillⅣ",
+    "desc": "Deployed pets increase final damage by {0}%.",
+    "kind": "skill"
+   }
+  ],
+  "icon": "icons/Icons/PetIcon/Icon_Pet_504001.png",
+  "pet_quality": 4,
+  "pet_max_level": 100,
+  "piece_needed": 0,
+  "attr_ids": [],
+  "attr_vals": []
+ },
+ {
+  "id": 504002,
+  "name": "Sword Poppy",
+  "unit_name": "",
+  "rarity": "S",
+  "rarity_name": "Legendary",
+  "quality": 4,
+  "race": "-",
+  "role": "-",
+  "cost": 0,
+  "max_level": 100,
+  "hp": 3240,
+  "atk": 180,
+  "defense": 45,
+  "atk_speed": 100,
+  "atk_range": 10,
+  "move_speed": 0,
+  "crit_dmg": 15000,
+  "mp_regen": 20,
+  "skills": [
+   {
+    "id": 504002100,
+    "name": "Summon Guard",
+    "desc": "At the start of battle, summon 2 clones of yourself to join the fight for 10 seconds. Each clone deals damage equal to {0}% ATK to a single enemy every 1.2 seconds.",
+    "kind": "skill"
+   }
+  ],
+  "passives": [
+   {
+    "id": 504002200,
+    "name": "Pet Spirit Battle WillⅣ",
+    "desc": "Deployed pets increase final damage by {0}%.",
+    "kind": "skill"
+   }
+  ],
+  "icon": "icons/Icons/PetIcon/Icon_Pet_504002.png",
+  "pet_quality": 4,
+  "pet_max_level": 100,
+  "piece_needed": 0,
+  "attr_ids": [],
+  "attr_vals": []
+ },
+ {
+  "id": 504004,
+  "name": "",
+  "unit_name": "",
+  "rarity": "S",
+  "rarity_name": "Legendary",
+  "quality": 4,
+  "race": "-",
+  "role": "-",
+  "cost": 0,
+  "max_level": 100,
+  "hp": 3240,
+  "atk": 180,
+  "defense": 45,
+  "atk_speed": 100,
+  "atk_range": 10,
+  "move_speed": 0,
+  "crit_dmg": 15000,
+  "mp_regen": 20,
+  "skills": [],
+  "passives": [],
+  "icon": "icons/Icons/PetIcon/Icon_Pet_504004.png",
+  "pet_quality": 4,
+  "pet_max_level": 100,
+  "piece_needed": 0,
+  "attr_ids": [],
+  "attr_vals": []
+ },
+ {
+  "id": 504005,
+  "name": "",
+  "unit_name": "",
+  "rarity": "S",
+  "rarity_name": "Legendary",
+  "quality": 4,
+  "race": "-",
+  "role": "-",
+  "cost": 0,
+  "max_level": 100,
+  "hp": 3240,
+  "atk": 180,
+  "defense": 45,
+  "atk_speed": 100,
+  "atk_range": 10,
+  "move_speed": 0,
+  "crit_dmg": 15000,
+  "mp_regen": 20,
+  "skills": [],
+  "passives": [],
+  "icon": "icons/Icons/PetIcon/Icon_Pet_504005.png",
+  "pet_quality": 4,
+  "pet_max_level": 100,
+  "piece_needed": 0,
+  "attr_ids": [],
+  "attr_vals": []
+ },
+ {
+  "id": 503002,
+  "name": "Hammer Poppy",
+  "unit_name": "",
+  "rarity": "A",
+  "rarity_name": "Epic",
+  "quality": 3,
+  "race": "-",
+  "role": "-",
+  "cost": 0,
+  "max_level": 100,
+  "hp": 2160,
+  "atk": 120,
+  "defense": 30,
+  "atk_speed": 100,
+  "atk_range": 10,
+  "move_speed": 0,
+  "crit_dmg": 15000,
+  "mp_regen": 20,
+  "skills": [
+   {
+    "id": 503002100,
+    "name": "Greater Summoning",
+    "desc": "At the start of battle, summon 2 clones of yourself to join the fight for 8 seconds. Each clone deals damage equal to {0}% ATK to a single enemy every 0.8 seconds.",
+    "kind": "skill"
+   }
+  ],
+  "passives": [
+   {
+    "id": 503002200,
+    "name": "Pet Spirit Battle WillⅢ",
+    "desc": "Deployed pets increase final damage by {0}%.",
+    "kind": "skill"
+   }
+  ],
+  "icon": "icons/Icons/PetIcon/Icon_Pet_503002.png",
+  "pet_quality": 3,
+  "pet_max_level": 100,
+  "piece_needed": 0,
+  "attr_ids": [],
+  "attr_vals": []
+ },
+ {
+  "id": 503003,
+  "name": "Huahua",
+  "unit_name": "",
+  "rarity": "A",
+  "rarity_name": "Epic",
+  "quality": 3,
+  "race": "-",
+  "role": "-",
+  "cost": 0,
+  "max_level": 100,
+  "hp": 2160,
+  "atk": 120,
+  "defense": 30,
+  "atk_speed": 33,
+  "atk_range": 10,
+  "move_speed": 0,
+  "crit_dmg": 15000,
+  "mp_regen": 20,
+  "skills": [
+   {
+    "id": 503003100,
+    "name": "Greater Enhancement",
+    "desc": "At battle start, grants 2 random allied heroes a shield equal to {0}% ATK for 10s.",
+    "kind": "skill"
+   }
+  ],
+  "passives": [
+   {
+    "id": 503003200,
+    "name": "Pet Spirit Battle WillⅢ",
+    "desc": "Deployed pets increase final damage by {0}%.",
+    "kind": "skill"
+   }
+  ],
+  "icon": "icons/Icons/PetIcon/Icon_Pet_503003.png",
+  "pet_quality": 3,
+  "pet_max_level": 100,
+  "piece_needed": 0,
+  "attr_ids": [],
+  "attr_vals": []
+ },
+ {
+  "id": 503001,
+  "name": "Ninja Cat",
+  "unit_name": "",
+  "rarity": "A",
+  "rarity_name": "Epic",
+  "quality": 3,
+  "race": "-",
+  "role": "-",
+  "cost": 0,
+  "max_level": 100,
+  "hp": 2160,
+  "atk": 120,
+  "defense": 30,
+  "atk_speed": 33,
+  "atk_range": 10,
+  "move_speed": 0,
+  "crit_dmg": 15000,
+  "mp_regen": 20,
+  "skills": [
+   {
+    "id": 503001100,
+    "name": "Deadly Dart",
+    "desc": "At battle start, deals 6 hits of {0}% ATK damage. Each attack targets a random enemy.",
+    "kind": "skill"
+   }
+  ],
+  "passives": [
+   {
+    "id": 503001200,
+    "name": "Pet Spirit Battle WillⅢ",
+    "desc": "Deployed pets increase final damage by {0}%.",
+    "kind": "skill"
+   }
+  ],
+  "icon": "icons/Icons/PetIcon/Icon_Pet_503001.png",
+  "pet_quality": 3,
+  "pet_max_level": 100,
+  "piece_needed": 0,
+  "attr_ids": [],
+  "attr_vals": []
+ },
+ {
+  "id": 503004,
+  "name": "",
+  "unit_name": "",
+  "rarity": "A",
+  "rarity_name": "Epic",
+  "quality": 3,
+  "race": "-",
+  "role": "-",
+  "cost": 0,
+  "max_level": 100,
+  "hp": 2160,
+  "atk": 120,
+  "defense": 30,
+  "atk_speed": 100,
+  "atk_range": 10,
+  "move_speed": 0,
+  "crit_dmg": 15000,
+  "mp_regen": 20,
+  "skills": [],
+  "passives": [],
+  "icon": "icons/Icons/PetIcon/Icon_Pet_503004.png",
+  "pet_quality": 3,
+  "pet_max_level": 100,
+  "piece_needed": 0,
+  "attr_ids": [],
+  "attr_vals": []
+ },
+ {
+  "id": 503005,
+  "name": "",
+  "unit_name": "",
+  "rarity": "A",
+  "rarity_name": "Epic",
+  "quality": 3,
+  "race": "-",
+  "role": "-",
+  "cost": 0,
+  "max_level": 100,
+  "hp": 2160,
+  "atk": 120,
+  "defense": 30,
+  "atk_speed": 100,
+  "atk_range": 10,
+  "move_speed": 0,
+  "crit_dmg": 15000,
+  "mp_regen": 20,
+  "skills": [],
+  "passives": [],
+  "icon": "icons/Icons/PetIcon/Icon_Pet_503005.png",
+  "pet_quality": 3,
+  "pet_max_level": 100,
+  "piece_needed": 0,
+  "attr_ids": [],
+  "attr_vals": []
+ },
+ {
+  "id": 502001,
+  "name": "Assassin Cat",
+  "unit_name": "",
+  "rarity": "B",
+  "rarity_name": "Rare",
+  "quality": 2,
+  "race": "-",
+  "role": "-",
+  "cost": 0,
+  "max_level": 100,
+  "hp": 1620,
+  "atk": 90,
+  "defense": 22,
+  "atk_speed": 33,
+  "atk_range": 10,
+  "move_speed": 0,
+  "crit_dmg": 15000,
+  "mp_regen": 20,
+  "skills": [
+   {
+    "id": 502001100,
+    "name": "Shuriken",
+    "desc": "At the start of battle, deal 6 hits of damage equal to {0}% ATK, with each hit targeting a random enemy.",
+    "kind": "skill"
+   }
+  ],
+  "passives": [
+   {
+    "id": 502001200,
+    "name": "Pet Spirit Battle WillⅡ",
+    "desc": "Deployed pets increase final damage by {0}%.",
+    "kind": "skill"
+   }
+  ],
+  "icon": "icons/Icons/PetIcon/Icon_Pet_502001.png",
+  "pet_quality": 2,
+  "pet_max_level": 100,
+  "piece_needed": 0,
+  "attr_ids": [],
+  "attr_vals": []
+ },
+ {
+  "id": 502003,
+  "name": "Mumu",
+  "unit_name": "",
+  "rarity": "B",
+  "rarity_name": "Rare",
+  "quality": 2,
+  "race": "-",
+  "role": "-",
+  "cost": 0,
+  "max_level": 100,
+  "hp": 1620,
+  "atk": 90,
+  "defense": 22,
+  "atk_speed": 33,
+  "atk_range": 10,
+  "move_speed": 0,
+  "crit_dmg": 15000,
+  "mp_regen": 20,
+  "skills": [
+   {
+    "id": 502003100,
+    "name": "Enhancement",
+    "desc": "At battle start, grants 2 random allied heroes a shield equal to {0}% ATK for 10s.",
+    "kind": "skill"
+   }
+  ],
+  "passives": [
+   {
+    "id": 502003200,
+    "name": "Pet Spirit Battle WillⅡ",
+    "desc": "Deployed pets increase final damage by {0}%.",
+    "kind": "skill"
+   }
+  ],
+  "icon": "icons/Icons/PetIcon/Icon_Pet_502003.png",
+  "pet_quality": 2,
+  "pet_max_level": 100,
+  "piece_needed": 0,
+  "attr_ids": [],
+  "attr_vals": []
+ },
+ {
+  "id": 502002,
+  "name": "Pudding",
+  "unit_name": "",
+  "rarity": "B",
+  "rarity_name": "Rare",
+  "quality": 2,
+  "race": "-",
+  "role": "-",
+  "cost": 0,
+  "max_level": 100,
+  "hp": 1620,
+  "atk": 90,
+  "defense": 22,
+  "atk_speed": 100,
+  "atk_range": 10,
+  "move_speed": 0,
+  "crit_dmg": 15000,
+  "mp_regen": 20,
+  "skills": [
+   {
+    "id": 502002100,
+    "name": "Summoning",
+    "desc": "At the start of battle, summon 2 clones of yourself to join the fight for 8 seconds. Each clone deals damage equal to {0}% ATK to a single enemy every 0.5 seconds.",
+    "kind": "skill"
+   }
+  ],
+  "passives": [
+   {
+    "id": 502002200,
+    "name": "Pet Spirit Battle WillⅡ",
+    "desc": "Deployed pets increase final damage by {0}%.",
+    "kind": "skill"
+   }
+  ],
+  "icon": "icons/Icons/PetIcon/Icon_Pet_502002.png",
+  "pet_quality": 2,
+  "pet_max_level": 100,
+  "piece_needed": 0,
+  "attr_ids": [],
+  "attr_vals": []
+ },
+ {
+  "id": 502004,
+  "name": "",
+  "unit_name": "",
+  "rarity": "B",
+  "rarity_name": "Rare",
+  "quality": 2,
+  "race": "-",
+  "role": "-",
+  "cost": 0,
+  "max_level": 100,
+  "hp": 1620,
+  "atk": 90,
+  "defense": 22,
+  "atk_speed": 100,
+  "atk_range": 10,
+  "move_speed": 0,
+  "crit_dmg": 15000,
+  "mp_regen": 20,
+  "skills": [],
+  "passives": [],
+  "icon": "icons/Icons/PetIcon/Icon_Pet_502004.png",
+  "pet_quality": 2,
+  "pet_max_level": 100,
+  "piece_needed": 0,
+  "attr_ids": [],
+  "attr_vals": []
+ },
+ {
+  "id": 502005,
+  "name": "",
+  "unit_name": "",
+  "rarity": "B",
+  "rarity_name": "Rare",
+  "quality": 2,
+  "race": "-",
+  "role": "-",
+  "cost": 0,
+  "max_level": 100,
+  "hp": 1620,
+  "atk": 90,
+  "defense": 22,
+  "atk_speed": 100,
+  "atk_range": 10,
+  "move_speed": 0,
+  "crit_dmg": 15000,
+  "mp_regen": 20,
+  "skills": [],
+  "passives": [],
+  "icon": "icons/Icons/PetIcon/Icon_Pet_502005.png",
+  "pet_quality": 2,
+  "pet_max_level": 100,
+  "piece_needed": 0,
+  "attr_ids": [],
+  "attr_vals": []
+ },
+ {
+  "id": 501003,
+  "name": "Doudou",
+  "unit_name": "",
+  "rarity": "C",
+  "rarity_name": "Great",
+  "quality": 1,
+  "race": "-",
+  "role": "-",
+  "cost": 0,
+  "max_level": 100,
+  "hp": 1080,
+  "atk": 60,
+  "defense": 15,
+  "atk_speed": 33,
+  "atk_range": 10,
+  "move_speed": 0,
+  "crit_dmg": 15000,
+  "mp_regen": 20,
+  "skills": [
+   {
+    "id": 501003100,
+    "name": "Minor Enhancement",
+    "desc": "At battle start, grants 2 random allied heroes a shield equal to {0}% ATK for 10s.",
+    "kind": "skill"
+   }
+  ],
+  "passives": [
+   {
+    "id": 501003200,
+    "name": "Pet Spirit Battle WillⅠ",
+    "desc": "Deployed pets increase final damage by {0}%.",
+    "kind": "skill"
+   }
+  ],
+  "icon": "icons/Icons/PetIcon/Icon_Pet_501003.png",
+  "pet_quality": 1,
+  "pet_max_level": 100,
+  "piece_needed": 0,
+  "attr_ids": [],
+  "attr_vals": []
+ },
+ {
+  "id": 501002,
+  "name": "Poppy",
+  "unit_name": "",
+  "rarity": "C",
+  "rarity_name": "Great",
+  "quality": 1,
+  "race": "-",
+  "role": "-",
+  "cost": 0,
+  "max_level": 100,
+  "hp": 1080,
+  "atk": 60,
+  "defense": 15,
+  "atk_speed": 100,
+  "atk_range": 10,
+  "move_speed": 0,
+  "crit_dmg": 15000,
+  "mp_regen": 20,
+  "skills": [
+   {
+    "id": 501002100,
+    "name": "Minor Summoning",
+    "desc": "At the start of battle, summon 2 clones of yourself to join the fight for 8 seconds. Each clone deals damage equal to {0}% ATK to a single enemy every 0.5 seconds.",
+    "kind": "skill"
+   }
+  ],
+  "passives": [
+   {
+    "id": 501002200,
+    "name": "Pet Spirit Battle WillⅠ",
+    "desc": "Deployed pets increase final damage by {0}%.",
+    "kind": "skill"
+   }
+  ],
+  "icon": "icons/Icons/PetIcon/Icon_Pet_501002.png",
+  "pet_quality": 1,
+  "pet_max_level": 100,
+  "piece_needed": 0,
+  "attr_ids": [],
+  "attr_vals": []
+ },
+ {
+  "id": 501001,
+  "name": "Xiaohei",
+  "unit_name": "",
+  "rarity": "C",
+  "rarity_name": "Great",
+  "quality": 1,
+  "race": "-",
+  "role": "-",
+  "cost": 0,
+  "max_level": 100,
+  "hp": 1080,
+  "atk": 60,
+  "defense": 15,
+  "atk_speed": 33,
+  "atk_range": 10,
+  "move_speed": 0,
+  "crit_dmg": 15000,
+  "mp_regen": 20,
+  "skills": [
+   {
+    "id": 501001100,
+    "name": "Throw Fishbone",
+    "desc": "At the start of battle, deal 6 hits of damage equal to {0}% ATK, with each hit targeting a random enemy.",
+    "kind": "skill"
+   }
+  ],
+  "passives": [
+   {
+    "id": 501001200,
+    "name": "Pet Spirit Battle WillⅠ",
+    "desc": "Deployed pets increase final damage by {0}%.",
+    "kind": "skill"
+   }
+  ],
+  "icon": "icons/Icons/PetIcon/Icon_Pet_501001.png",
+  "pet_quality": 1,
+  "pet_max_level": 100,
+  "piece_needed": 0,
+  "attr_ids": [],
+  "attr_vals": []
+ },
+ {
+  "id": 501004,
+  "name": "",
+  "unit_name": "",
+  "rarity": "C",
+  "rarity_name": "Great",
+  "quality": 1,
+  "race": "-",
+  "role": "-",
+  "cost": 0,
+  "max_level": 100,
+  "hp": 1080,
+  "atk": 60,
+  "defense": 15,
+  "atk_speed": 100,
+  "atk_range": 10,
+  "move_speed": 0,
+  "crit_dmg": 15000,
+  "mp_regen": 20,
+  "skills": [],
+  "passives": [],
+  "icon": "icons/Icons/PetIcon/Icon_Pet_501004.png",
+  "pet_quality": 1,
+  "pet_max_level": 100,
+  "piece_needed": 0,
+  "attr_ids": [],
+  "attr_vals": []
+ },
+ {
+  "id": 501005,
+  "name": "",
+  "unit_name": "",
+  "rarity": "C",
+  "rarity_name": "Great",
+  "quality": 1,
+  "race": "-",
+  "role": "-",
+  "cost": 0,
+  "max_level": 100,
+  "hp": 1080,
+  "atk": 60,
+  "defense": 15,
+  "atk_speed": 100,
+  "atk_range": 10,
+  "move_speed": 0,
+  "crit_dmg": 15000,
+  "mp_regen": 20,
+  "skills": [],
+  "passives": [],
+  "icon": "icons/Icons/PetIcon/Icon_Pet_501005.png",
+  "pet_quality": 1,
+  "pet_max_level": 100,
+  "piece_needed": 0,
+  "attr_ids": [],
+  "attr_vals": []
+ }
+]

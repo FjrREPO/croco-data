@@ -1,0 +1,565 @@
+[
+ {
+  "name": "Rain Flame Soul",
+  "unit_name": "Dragon Warrior",
+  "rarity": "SS",
+  "role": "Mage",
+  "scores": {
+   "boss": 21,
+   "arena": 39,
+   "dungeon": 44
+  },
+  "hits": {
+   "soft CC": 3,
+   "AoE": 5,
+   "summon": 5,
+   "heal": 3,
+   "shield/red.": 9
+  }
+ },
+ {
+  "name": "Athena",
+  "unit_name": "Goddess of Wisdom",
+  "rarity": "SSS",
+  "role": "Mage",
+  "scores": {
+   "boss": 30,
+   "arena": 42,
+   "dungeon": 41
+  },
+  "hits": {
+   "%max HP dmg": 1,
+   "stacking": 10,
+   "soft CC": 2,
+   "anti-control": 3,
+   "AoE": 6,
+   "summon": 2,
+   "heal": 2,
+   "shield/red.": 16
+  }
+ },
+ {
+  "name": "Ice Blue Snowbud",
+  "unit_name": "Tidecaller",
+  "rarity": "SS",
+  "role": "Assistance",
+  "scores": {
+   "boss": 13,
+   "arena": 24,
+   "dungeon": 35
+  },
+  "hits": {
+   "hard CC": 1,
+   "anti-control": 1,
+   "AoE": 3,
+   "summon": 7,
+   "heal": 4
+  }
+ },
+ {
+  "name": "Serena·Dawn",
+  "unit_name": "Holy Knight",
+  "rarity": "S",
+  "role": "Mage",
+  "scores": {
+   "boss": 27,
+   "arena": 28,
+   "dungeon": 32
+  },
+  "hits": {
+   "stacking": 5,
+   "atk speed": 1,
+   "soft CC": 1,
+   "AoE": 2,
+   "heal": 6,
+   "shield/red.": 11
+  }
+ },
+ {
+  "name": "Groda Senxiong",
+  "unit_name": "Bear Caller",
+  "rarity": "B",
+  "role": "Mage",
+  "scores": {
+   "boss": 16,
+   "arena": 21,
+   "dungeon": 28
+  },
+  "hits": {
+   "soft CC": 2,
+   "summon": 11,
+   "heal": 4,
+   "shield/red.": 1
+  }
+ },
+ {
+  "name": "Mitia",
+  "unit_name": "Catwoman",
+  "rarity": "SS",
+  "role": "Assassin",
+  "scores": {
+   "boss": 19,
+   "arena": 18,
+   "dungeon": 28
+  },
+  "hits": {
+   "execute": 1,
+   "stacking": 5,
+   "atk speed": 2,
+   "AoE": 4,
+   "heal": 3
+  }
+ },
+ {
+  "name": "Artemis",
+  "unit_name": "Goddess of the Hunt",
+  "rarity": "SSS",
+  "role": "Archer",
+  "scores": {
+   "boss": 24,
+   "arena": 20,
+   "dungeon": 27
+  },
+  "hits": {
+   "%max HP dmg": 1,
+   "DEF pen": 2,
+   "stacking": 15,
+   "atk speed": 1,
+   "crit": 1,
+   "burst": 2,
+   "AoE": 5,
+   "summon": 3
+  }
+ },
+ {
+  "name": "Livia·Flameveil",
+  "unit_name": "Red Queen",
+  "rarity": "SS",
+  "role": "Assistance",
+  "scores": {
+   "boss": 12,
+   "arena": 16,
+   "dungeon": 27
+  },
+  "hits": {
+   "DEF pen": 2,
+   "AoE": 4,
+   "summon": 5,
+   "heal": 1
+  }
+ },
+ {
+  "name": "Kazres·Darkblade",
+  "unit_name": "Sword Demon",
+  "rarity": "SS",
+  "role": "Mage",
+  "scores": {
+   "boss": 14,
+   "arena": 25,
+   "dungeon": 26
+  },
+  "hits": {
+   "execute": 1,
+   "soft CC": 22,
+   "AoE": 1,
+   "summon": 3,
+   "heal": 3
+  }
+ },
+ {
+  "name": "Maya Spirit Vine",
+  "unit_name": "Necromancer Apprentice",
+  "rarity": "A",
+  "role": "Summon",
+  "scores": {
+   "boss": 8,
+   "arena": 12,
+   "dungeon": 24
+  },
+  "hits": {
+   "AoE": 2,
+   "summon": 5,
+   "heal": 2
+  }
+ },
+ {
+  "name": "Lia",
+  "unit_name": "Flower Spirit",
+  "rarity": "SS",
+  "role": "Warrior",
+  "scores": {
+   "boss": 17,
+   "arena": 22,
+   "dungeon": 21
+  },
+  "hits": {
+   "execute": 1,
+   "heal": 9,
+   "shield/red.": 5
+  }
+ },
+ {
+  "name": "Liana·Nightrose",
+  "unit_name": "Star Mage",
+  "rarity": "S",
+  "role": "Warrior",
+  "scores": {
+   "boss": 10,
+   "arena": 12,
+   "dungeon": 21
+  },
+  "hits": {
+   "DEF pen": 2,
+   "AoE": 3,
+   "summon": 9
+  }
+ },
+ {
+  "name": "Mia Morning Dew",
+  "unit_name": "Fire Spirit Master",
+  "rarity": "S",
+  "role": "Archer",
+  "scores": {
+   "boss": 4,
+   "arena": 10,
+   "dungeon": 21
+  },
+  "hits": {
+   "AoE": 3,
+   "summon": 7
+  }
+ },
+ {
+  "name": "Lilith·Charmflame",
+  "unit_name": "Dark Knight",
+  "rarity": "S",
+  "role": "Summon",
+  "scores": {
+   "boss": 12,
+   "arena": 22,
+   "dungeon": 19
+  },
+  "hits": {
+   "soft CC": 30,
+   "AoE": 1,
+   "heal": 6
+  }
+ },
+ {
+  "name": "Peggy",
+  "unit_name": "Piggy Vanguard",
+  "rarity": "B",
+  "role": "Mage",
+  "scores": {
+   "boss": 16,
+   "arena": 19,
+   "dungeon": 18
+  },
+  "hits": {
+   "atk speed": 1,
+   "heal": 3,
+   "shield/red.": 19
+  }
+ },
+ {
+  "name": "Elena Glorious",
+  "unit_name": "Radiant Warrior",
+  "rarity": "A",
+  "role": "Summon",
+  "scores": {
+   "boss": 16,
+   "arena": 23,
+   "dungeon": 17
+  },
+  "hits": {
+   "atk speed": 1,
+   "soft CC": 2,
+   "heal": 2,
+   "shield/red.": 5
+  }
+ },
+ {
+  "name": "Starstreak",
+  "unit_name": "Priest Apprentice",
+  "rarity": "B",
+  "role": "Warrior",
+  "scores": {
+   "boss": 12,
+   "arena": 17,
+   "dungeon": 17
+  },
+  "hits": {
+   "hard CC": 1,
+   "heal": 17,
+   "shield/red.": 2
+  }
+ },
+ {
+  "name": "Sakura",
+  "unit_name": "Onmyoji",
+  "rarity": "S",
+  "role": "Control",
+  "scores": {
+   "boss": 11,
+   "arena": 10,
+   "dungeon": 16
+  },
+  "hits": {
+   "atk speed": 1,
+   "summon": 1,
+   "heal": 4
+  }
+ },
+ {
+  "name": "Selina·Frostcharm",
+  "unit_name": "Succubus",
+  "rarity": "SS",
+  "role": "Assassin",
+  "scores": {
+   "boss": 10,
+   "arena": 22,
+   "dungeon": 15
+  },
+  "hits": {
+   "atk speed": 1,
+   "hard CC": 1,
+   "soft CC": 16,
+   "AoE": 1,
+   "heal": 2
+  }
+ },
+ {
+  "name": "Ella・Yaowan",
+  "unit_name": "Little Healer",
+  "rarity": "A",
+  "role": "Warrior",
+  "scores": {
+   "boss": 12,
+   "arena": 12,
+   "dungeon": 15
+  },
+  "hits": {
+   "atk speed": 1,
+   "heal": 26,
+   "shield/red.": 1
+  }
+ },
+ {
+  "name": "Aivel",
+  "unit_name": "Snow Witch",
+  "rarity": "A",
+  "role": "Assistance",
+  "scores": {
+   "boss": 4,
+   "arena": 10,
+   "dungeon": 15
+  },
+  "hits": {
+   "DEF pen": 1,
+   "AoE": 4,
+   "summon": 1
+  }
+ },
+ {
+  "name": "Willow・Bloodrose",
+  "unit_name": "Pain Sorceress",
+  "rarity": "A",
+  "role": "Control",
+  "scores": {
+   "boss": 5,
+   "arena": 9,
+   "dungeon": 15
+  },
+  "hits": {
+   "AoE": 2,
+   "summon": 1,
+   "heal": 2
+  }
+ },
+ {
+  "name": "Karin",
+  "unit_name": "Pharaoh",
+  "rarity": "S",
+  "role": "Summon",
+  "scores": {
+   "boss": 8,
+   "arena": 19,
+   "dungeon": 14
+  },
+  "hits": {
+   "atk speed": 2,
+   "hard CC": 7,
+   "summon": 2,
+   "shield/red.": 1
+  }
+ },
+ {
+  "name": "Elden·Frost",
+  "unit_name": "Ice Mage",
+  "rarity": "B",
+  "role": "Assistance",
+  "scores": {
+   "boss": 0,
+   "arena": 8,
+   "dungeon": 12
+  },
+  "hits": {
+   "AoE": 4
+  }
+ },
+ {
+  "name": "Karl",
+  "unit_name": "Shadow Wolf",
+  "rarity": "A",
+  "role": "Assassin",
+  "scores": {
+   "boss": 10,
+   "arena": 6,
+   "dungeon": 11
+  },
+  "hits": {
+   "stacking": 2,
+   "heal": 3
+  }
+ },
+ {
+  "name": "Eria·Ironwing",
+  "unit_name": "Bounty Hunter",
+  "rarity": "S",
+  "role": "Archer",
+  "scores": {
+   "boss": 12,
+   "arena": 9,
+   "dungeon": 10
+  },
+  "hits": {
+   "stacking": 1,
+   "atk speed": 4,
+   "AoE": 1,
+   "shield/red.": 1
+  }
+ },
+ {
+  "name": "Veliana Purple Flame",
+  "unit_name": "Light Archer",
+  "rarity": "SS",
+  "role": "Archer",
+  "scores": {
+   "boss": 10,
+   "arena": 8,
+   "dungeon": 10
+  },
+  "hits": {
+   "atk speed": 5,
+   "AoE": 1,
+   "heal": 1
+  }
+ },
+ {
+  "name": "Sern Darkwing",
+  "unit_name": "Night Demon",
+  "rarity": "B",
+  "role": "Control",
+  "scores": {
+   "boss": 4,
+   "arena": 7,
+   "dungeon": 8
+  },
+  "hits": {
+   "AoE": 1,
+   "heal": 1,
+   "shield/red.": 1
+  }
+ },
+ {
+  "name": "Selina Shadowblade",
+  "unit_name": "Phantom",
+  "rarity": "S",
+  "role": "Assassin",
+  "scores": {
+   "boss": 10,
+   "arena": 7,
+   "dungeon": 6
+  },
+  "hits": {
+   "true dmg": 1,
+   "stacking": 1,
+   "atk speed": 2,
+   "burst": 1,
+   "heal": 1
+  }
+ },
+ {
+  "name": "Karl Redhook",
+  "unit_name": "Gunslinger",
+  "rarity": "B",
+  "role": "Archer",
+  "scores": {
+   "boss": 8,
+   "arena": 5,
+   "dungeon": 6
+  },
+  "hits": {
+   "atk speed": 3,
+   "heal": 1
+  }
+ },
+ {
+  "name": "Lias·Shadowblade",
+  "unit_name": "Silver Moon Assassin",
+  "rarity": "B",
+  "role": "Assassin",
+  "scores": {
+   "boss": 4,
+   "arena": 4,
+   "dungeon": 6
+  },
+  "hits": {
+   "heal": 2
+  }
+ },
+ {
+  "name": "Karn Pumpkin",
+  "unit_name": "Pumpkin",
+  "rarity": "A",
+  "role": "Control",
+  "scores": {
+   "boss": 2,
+   "arena": 8,
+   "dungeon": 5
+  },
+  "hits": {
+   "hard CC": 2,
+   "heal": 1
+  }
+ },
+ {
+  "name": "Lia Silvermoon",
+  "unit_name": "Little Magic Fairy",
+  "rarity": "B",
+  "role": "Assistance",
+  "scores": {
+   "boss": 2,
+   "arena": 5,
+   "dungeon": 5
+  },
+  "hits": {
+   "AoE": 1,
+   "shield/red.": 1
+  }
+ },
+ {
+  "name": "Karen・Xuanren",
+  "unit_name": "Turtle Shooter",
+  "rarity": "A",
+  "role": "Archer",
+  "scores": {
+   "boss": 6,
+   "arena": 3,
+   "dungeon": 3
+  },
+  "hits": {
+   "atk speed": 3
+  }
+ }
+]

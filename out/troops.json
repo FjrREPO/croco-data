@@ -1,0 +1,713 @@
+[
+ {
+  "id": 210501,
+  "name": "GreatSage",
+  "unit_name": "GreatSage",
+  "rarity": "SS",
+  "rarity_name": "Mythical",
+  "quality": 5,
+  "race": "Krock",
+  "role": "Control",
+  "cost": 1,
+  "max_level": 20,
+  "hp": 990,
+  "atk": 66,
+  "defense": 33,
+  "atk_speed": 100,
+  "atk_range": 1,
+  "move_speed": 5,
+  "crit_dmg": 15000,
+  "mp_regen": 20,
+  "skills": [
+   {
+    "id": 210501100,
+    "name": "Golden Cudgel",
+    "desc": "Every 10 seconds, summon 1~3 Golden Cudgels, each dealing True Damage equal to 50% of ATK to enemies. Allies gain +2% Critical Rate for 8 seconds",
+    "kind": "skill"
+   }
+  ],
+  "passives": [
+   {
+    "id": 210501200,
+    "name": "",
+    "desc": "Allied units have a 10% chance to summon the Golden Cudgel when performing a Basic Attack, dealing 5% of ATK as True Damage. Every 10 Golden Cudgel summons, all allies gain +1% Critical Rate, stacking up to 3 times",
+    "kind": "effect"
+   }
+  ],
+  "icon": "icons/Icons/HeadIcon/Icon_Head_210501.png"
+ },
+ {
+  "id": 410503,
+  "name": "Kaka Clone",
+  "unit_name": "Kaka Clone",
+  "rarity": "SS",
+  "rarity_name": "Mythical",
+  "quality": 5,
+  "race": "-",
+  "role": "Assassin",
+  "cost": 1,
+  "max_level": 0,
+  "hp": 2700,
+  "atk": 180,
+  "defense": 90,
+  "atk_speed": 100,
+  "atk_range": 1,
+  "move_speed": 0,
+  "crit_dmg": 15000,
+  "mp_regen": 20,
+  "skills": [],
+  "passives": [],
+  "icon": "icons/Icons/HeadIcon/Icon_Head_410501.png"
+ },
+ {
+  "id": 410502,
+  "name": "Susano Kakaka",
+  "unit_name": "Susano Kakaka",
+  "rarity": "SS",
+  "rarity_name": "Mythical",
+  "quality": 5,
+  "race": "-",
+  "role": "Assassin",
+  "cost": 1,
+  "max_level": 0,
+  "hp": 2700,
+  "atk": 180,
+  "defense": 90,
+  "atk_speed": 100,
+  "atk_range": 1,
+  "move_speed": 10,
+  "crit_dmg": 15000,
+  "mp_regen": 20,
+  "skills": [],
+  "passives": [],
+  "icon": "icons/Icons/HeadIcon/Icon_Head_410501.png"
+ },
+ {
+  "id": 410504,
+  "name": "Susano Kakaka Clone",
+  "unit_name": "Susano Kakaka Clone",
+  "rarity": "SS",
+  "rarity_name": "Mythical",
+  "quality": 5,
+  "race": "-",
+  "role": "Assassin",
+  "cost": 1,
+  "max_level": 0,
+  "hp": 2700,
+  "atk": 180,
+  "defense": 90,
+  "atk_speed": 100,
+  "atk_range": 1,
+  "move_speed": 0,
+  "crit_dmg": 15000,
+  "mp_regen": 20,
+  "skills": [],
+  "passives": [],
+  "icon": "icons/Icons/HeadIcon/Icon_Head_410501.png"
+ },
+ {
+  "id": 420201,
+  "name": "Bubba",
+  "unit_name": "Bubba",
+  "rarity": "S",
+  "rarity_name": "Legendary",
+  "quality": 4,
+  "race": "-",
+  "role": "Archer",
+  "cost": 1,
+  "max_level": 20,
+  "hp": 675,
+  "atk": 24,
+  "defense": 31,
+  "atk_speed": 100,
+  "atk_range": 1,
+  "move_speed": 5,
+  "crit_dmg": 15000,
+  "mp_regen": 20,
+  "skills": [
+   {
+    "id": 130702100,
+    "name": "Demon-Banishing Holy Arrow",
+    "desc": "Every 5 attacks, enter Demon-Banishing State once for 4s, dealing extra damage and having a chance to shoot a Light Arrow",
+    "kind": "skill"
+   },
+   {
+    "id": 140806100,
+    "name": "",
+    "desc": "Accuracy in battle +2%",
+    "kind": "effect"
+   }
+  ],
+  "passives": [
+   {
+    "id": 130702200,
+    "name": "",
+    "desc": "Every shoot 3Lightning Arrow,detonate Lightning Mark deal damage",
+    "kind": "effect"
+   },
+   {
+    "id": 130702300,
+    "name": "",
+    "desc": "Reduce the number of attacks required to trigger Thunder Arrows by -1",
+    "kind": "effect"
+   }
+  ],
+  "icon": null
+ },
+ {
+  "id": 430401,
+  "name": "Goober",
+  "unit_name": "Goober",
+  "rarity": "S",
+  "rarity_name": "Legendary",
+  "quality": 4,
+  "race": "-",
+  "role": "Control",
+  "cost": 1,
+  "max_level": 20,
+  "hp": 1500,
+  "atk": 100,
+  "defense": 60,
+  "atk_speed": 100,
+  "atk_range": 1,
+  "move_speed": 10,
+  "crit_dmg": 15000,
+  "mp_regen": 20,
+  "skills": [],
+  "passives": [],
+  "icon": null
+ },
+ {
+  "id": 130602,
+  "name": "Lich",
+  "unit_name": "Lich",
+  "rarity": "S",
+  "rarity_name": "Legendary",
+  "quality": 4,
+  "race": "-",
+  "role": "-",
+  "cost": 1,
+  "max_level": 20,
+  "hp": 1500,
+  "atk": 100,
+  "defense": 60,
+  "atk_speed": 100,
+  "atk_range": 4,
+  "move_speed": 10,
+  "crit_dmg": 15000,
+  "mp_regen": 20,
+  "skills": [],
+  "passives": [],
+  "icon": null
+ },
+ {
+  "id": 130604,
+  "name": "Little Strong",
+  "unit_name": "Little Strong",
+  "rarity": "S",
+  "rarity_name": "Legendary",
+  "quality": 4,
+  "race": "-",
+  "role": "Archer",
+  "cost": 1,
+  "max_level": 20,
+  "hp": 675,
+  "atk": 24,
+  "defense": 31,
+  "atk_speed": 100,
+  "atk_range": 1,
+  "move_speed": 5,
+  "crit_dmg": 15000,
+  "mp_regen": 20,
+  "skills": [
+   {
+    "id": 130702100,
+    "name": "Demon-Banishing Holy Arrow",
+    "desc": "Every 5 attacks, enter Demon-Banishing State once for 4s, dealing extra damage and having a chance to shoot a Light Arrow",
+    "kind": "skill"
+   },
+   {
+    "id": 140806100,
+    "name": "",
+    "desc": "Accuracy in battle +2%",
+    "kind": "effect"
+   }
+  ],
+  "passives": [
+   {
+    "id": 130702200,
+    "name": "",
+    "desc": "Every shoot 3Lightning Arrow,detonate Lightning Mark deal damage",
+    "kind": "effect"
+   },
+   {
+    "id": 130702300,
+    "name": "",
+    "desc": "Reduce the number of attacks required to trigger Thunder Arrows by -1",
+    "kind": "effect"
+   }
+  ],
+  "icon": null
+ },
+ {
+  "id": 120604,
+  "name": "Little Y",
+  "unit_name": "Little Y",
+  "rarity": "S",
+  "rarity_name": "Legendary",
+  "quality": 4,
+  "race": "-",
+  "role": "Archer",
+  "cost": 1,
+  "max_level": 20,
+  "hp": 675,
+  "atk": 24,
+  "defense": 31,
+  "atk_speed": 100,
+  "atk_range": 1,
+  "move_speed": 5,
+  "crit_dmg": 15000,
+  "mp_regen": 20,
+  "skills": [
+   {
+    "id": 130702100,
+    "name": "Demon-Banishing Holy Arrow",
+    "desc": "Every 5 attacks, enter Demon-Banishing State once for 4s, dealing extra damage and having a chance to shoot a Light Arrow",
+    "kind": "skill"
+   },
+   {
+    "id": 140806100,
+    "name": "",
+    "desc": "Accuracy in battle +2%",
+    "kind": "effect"
+   }
+  ],
+  "passives": [
+   {
+    "id": 130702200,
+    "name": "",
+    "desc": "Every shoot 3Lightning Arrow,detonate Lightning Mark deal damage",
+    "kind": "effect"
+   },
+   {
+    "id": 130702300,
+    "name": "",
+    "desc": "Reduce the number of attacks required to trigger Thunder Arrows by -1",
+    "kind": "effect"
+   }
+  ],
+  "icon": null
+ },
+ {
+  "id": 130301,
+  "name": "Necromancer",
+  "unit_name": "Necromancer",
+  "rarity": "S",
+  "rarity_name": "Legendary",
+  "quality": 4,
+  "race": "-",
+  "role": "Archer",
+  "cost": 1,
+  "max_level": 20,
+  "hp": 675,
+  "atk": 24,
+  "defense": 31,
+  "atk_speed": 100,
+  "atk_range": 1,
+  "move_speed": 5,
+  "crit_dmg": 15000,
+  "mp_regen": 20,
+  "skills": [
+   {
+    "id": 130702100,
+    "name": "Demon-Banishing Holy Arrow",
+    "desc": "Every 5 attacks, enter Demon-Banishing State once for 4s, dealing extra damage and having a chance to shoot a Light Arrow",
+    "kind": "skill"
+   },
+   {
+    "id": 140806100,
+    "name": "",
+    "desc": "Accuracy in battle +2%",
+    "kind": "effect"
+   }
+  ],
+  "passives": [
+   {
+    "id": 130702200,
+    "name": "",
+    "desc": "Every shoot 3Lightning Arrow,detonate Lightning Mark deal damage",
+    "kind": "effect"
+   },
+   {
+    "id": 130702300,
+    "name": "",
+    "desc": "Reduce the number of attacks required to trigger Thunder Arrows by -1",
+    "kind": "effect"
+   }
+  ],
+  "icon": null
+ },
+ {
+  "id": 210301,
+  "name": "Nina",
+  "unit_name": "Nina",
+  "rarity": "S",
+  "rarity_name": "Legendary",
+  "quality": 4,
+  "race": "Krock",
+  "role": "Warrior",
+  "cost": 1,
+  "max_level": 20,
+  "hp": 900,
+  "atk": 60,
+  "defense": 30,
+  "atk_speed": 100,
+  "atk_range": 6,
+  "move_speed": 5,
+  "crit_dmg": 15000,
+  "mp_regen": 20,
+  "skills": [
+   {
+    "id": 210301100,
+    "name": "Lollipop",
+    "desc": "Every 10s, summon a lollipop that deals ATK 5% True dmg to enemies in the area every s for 5s, and grants allies a Shield equal to 5% of their HP.",
+    "kind": "skill"
+   }
+  ],
+  "passives": [
+   {
+    "id": 210301200,
+    "name": "",
+    "desc": "When the adventurer deals dmg, all allies recover 3% of dmg as HP.",
+    "kind": "effect"
+   },
+   {
+    "id": 210301300,
+    "name": "",
+    "desc": "Every 12s, release Life Link, evenly distributing DMG received by allied units, lasting 3s",
+    "kind": "effect"
+   }
+  ],
+  "icon": "icons/Icons/HeadIcon/Icon_Head_210301.png"
+ },
+ {
+  "id": 120601,
+  "name": "Prophet",
+  "unit_name": "Prophet",
+  "rarity": "S",
+  "rarity_name": "Legendary",
+  "quality": 4,
+  "race": "-",
+  "role": "Archer",
+  "cost": 1,
+  "max_level": 20,
+  "hp": 675,
+  "atk": 24,
+  "defense": 31,
+  "atk_speed": 100,
+  "atk_range": 1,
+  "move_speed": 5,
+  "crit_dmg": 15000,
+  "mp_regen": 20,
+  "skills": [
+   {
+    "id": 130702100,
+    "name": "Demon-Banishing Holy Arrow",
+    "desc": "Every 5 attacks, enter Demon-Banishing State once for 4s, dealing extra damage and having a chance to shoot a Light Arrow",
+    "kind": "skill"
+   },
+   {
+    "id": 140806100,
+    "name": "",
+    "desc": "Accuracy in battle +2%",
+    "kind": "effect"
+   }
+  ],
+  "passives": [
+   {
+    "id": 130702200,
+    "name": "",
+    "desc": "Every shoot 3Lightning Arrow,detonate Lightning Mark deal damage",
+    "kind": "effect"
+   },
+   {
+    "id": 130702300,
+    "name": "",
+    "desc": "Reduce the number of attacks required to trigger Thunder Arrows by -1",
+    "kind": "effect"
+   }
+  ],
+  "icon": null
+ },
+ {
+  "id": 110601,
+  "name": "Water Mage",
+  "unit_name": "Water Mage",
+  "rarity": "S",
+  "rarity_name": "Legendary",
+  "quality": 4,
+  "race": "-",
+  "role": "Archer",
+  "cost": 1,
+  "max_level": 20,
+  "hp": 675,
+  "atk": 24,
+  "defense": 31,
+  "atk_speed": 100,
+  "atk_range": 1,
+  "move_speed": 5,
+  "crit_dmg": 15000,
+  "mp_regen": 20,
+  "skills": [
+   {
+    "id": 130702100,
+    "name": "Demon-Banishing Holy Arrow",
+    "desc": "Every 5 attacks, enter Demon-Banishing State once for 4s, dealing extra damage and having a chance to shoot a Light Arrow",
+    "kind": "skill"
+   },
+   {
+    "id": 140806100,
+    "name": "",
+    "desc": "Accuracy in battle +2%",
+    "kind": "effect"
+   }
+  ],
+  "passives": [
+   {
+    "id": 130702200,
+    "name": "",
+    "desc": "Every shoot 3Lightning Arrow,detonate Lightning Mark deal damage",
+    "kind": "effect"
+   },
+   {
+    "id": 130702300,
+    "name": "",
+    "desc": "Reduce the number of attacks required to trigger Thunder Arrows by -1",
+    "kind": "effect"
+   }
+  ],
+  "icon": null
+ },
+ {
+  "id": 140302,
+  "name": "Wind Spirit",
+  "unit_name": "Wind Spirit",
+  "rarity": "S",
+  "rarity_name": "Legendary",
+  "quality": 4,
+  "race": "-",
+  "role": "Archer",
+  "cost": 1,
+  "max_level": 20,
+  "hp": 675,
+  "atk": 24,
+  "defense": 31,
+  "atk_speed": 100,
+  "atk_range": 1,
+  "move_speed": 5,
+  "crit_dmg": 15000,
+  "mp_regen": 20,
+  "skills": [
+   {
+    "id": 130702100,
+    "name": "Demon-Banishing Holy Arrow",
+    "desc": "Every 5 attacks, enter Demon-Banishing State once for 4s, dealing extra damage and having a chance to shoot a Light Arrow",
+    "kind": "skill"
+   },
+   {
+    "id": 140806100,
+    "name": "",
+    "desc": "Accuracy in battle +2%",
+    "kind": "effect"
+   }
+  ],
+  "passives": [
+   {
+    "id": 130702200,
+    "name": "",
+    "desc": "Every shoot 3Lightning Arrow,detonate Lightning Mark deal damage",
+    "kind": "effect"
+   },
+   {
+    "id": 130702300,
+    "name": "",
+    "desc": "Reduce the number of attacks required to trigger Thunder Arrows by -1",
+    "kind": "effect"
+   }
+  ],
+  "icon": "icons/Icons/HeadIcon/heroIcon_006.png"
+ },
+ {
+  "id": 110605,
+  "name": "",
+  "unit_name": "",
+  "rarity": "S",
+  "rarity_name": "Legendary",
+  "quality": 4,
+  "race": "-",
+  "role": "Assistance",
+  "cost": 1,
+  "max_level": 200,
+  "hp": 3600,
+  "atk": 240,
+  "defense": 120,
+  "atk_speed": 100,
+  "atk_range": 4,
+  "move_speed": 10,
+  "crit_dmg": 15000,
+  "mp_regen": 20,
+  "skills": [],
+  "passives": [],
+  "icon": "icons/Icons/HeadIcon/Icon_Head_1010.png"
+ },
+ {
+  "id": 210401,
+  "name": "Dodo​",
+  "unit_name": "Dodo​",
+  "rarity": "A",
+  "rarity_name": "Epic",
+  "quality": 3,
+  "race": "Krock",
+  "role": "Archer",
+  "cost": 1,
+  "max_level": 20,
+  "hp": 750,
+  "atk": 50,
+  "defense": 25,
+  "atk_speed": 100,
+  "atk_range": 6,
+  "move_speed": 5,
+  "crit_dmg": 15000,
+  "mp_regen": 20,
+  "skills": [
+   {
+    "id": 210401100,
+    "name": "Slingshot Shot",
+    "desc": "Every 10s, shoot a bullet at an enemy, dealing ATK 100% True dmg, and mark the enemy, increasing the Final dmg they receive by 20% for 3s.",
+    "kind": "skill"
+   }
+  ],
+  "passives": [
+   {
+    "id": 210401200,
+    "name": "",
+    "desc": "The adventurer inc. allies' Final dmg by 1% for each spell cast this turn.",
+    "kind": "effect"
+   }
+  ],
+  "icon": "icons/Icons/HeadIcon/Icon_Head_210401.png"
+ },
+ {
+  "id": 14030112,
+  "name": "",
+  "unit_name": "",
+  "rarity": "A",
+  "rarity_name": "Epic",
+  "quality": 3,
+  "race": "-",
+  "role": "-",
+  "cost": 1,
+  "max_level": 0,
+  "hp": 0,
+  "atk": 0,
+  "defense": 0,
+  "atk_speed": 100,
+  "atk_range": 1,
+  "move_speed": 10,
+  "crit_dmg": 15000,
+  "mp_regen": 20,
+  "skills": [],
+  "passives": [],
+  "icon": null
+ },
+ {
+  "id": 210101,
+  "name": "Rumble",
+  "unit_name": "Rumble",
+  "rarity": "B",
+  "rarity_name": "Rare",
+  "quality": 2,
+  "race": "Krock",
+  "role": "Mage",
+  "cost": 1,
+  "max_level": 20,
+  "hp": 638,
+  "atk": 43,
+  "defense": 21,
+  "atk_speed": 100,
+  "atk_range": 1,
+  "move_speed": 5,
+  "crit_dmg": 15000,
+  "mp_regen": 20,
+  "skills": [
+   {
+    "id": 210101100,
+    "name": "Throw",
+    "desc": "Every 10s, throw a bone at the enemy, dealing ATK 75% True dmg.",
+    "kind": "skill"
+   }
+  ],
+  "passives": [
+   {
+    "id": 210101200,
+    "name": "",
+    "desc": "The adventurer deals 40% increased Final dmg to enemies with HP below 20%.",
+    "kind": "effect"
+   }
+  ],
+  "icon": "icons/Icons/HeadIcon/Icon_Head_210101.png"
+ },
+ {
+  "id": 1302011,
+  "name": "Little Spider",
+  "unit_name": "Little Spider",
+  "rarity": "D",
+  "rarity_name": "Common",
+  "quality": 0,
+  "race": "-",
+  "role": "-",
+  "cost": 1,
+  "max_level": 20,
+  "hp": 1500,
+  "atk": 100,
+  "defense": 50,
+  "atk_speed": 100,
+  "atk_range": 4,
+  "move_speed": 10,
+  "crit_dmg": 15000,
+  "mp_regen": 20,
+  "skills": [],
+  "passives": [],
+  "icon": null
+ },
+ {
+  "id": 1206031,
+  "name": "Sword Demon",
+  "unit_name": "Sword Demon",
+  "rarity": "D",
+  "rarity_name": "Common",
+  "quality": 0,
+  "race": "Demon Race",
+  "role": "-",
+  "cost": 1,
+  "max_level": 200,
+  "hp": 5400,
+  "atk": 360,
+  "defense": 180,
+  "atk_speed": 100,
+  "atk_range": 1,
+  "move_speed": 10,
+  "crit_dmg": 15000,
+  "mp_regen": 20,
+  "skills": [
+   {
+    "id": 100000100,
+    "name": "dmg increased",
+    "desc": "inc. own Final dmg during battle",
+    "kind": "skill"
+   }
+  ],
+  "passives": [],
+  "icon": "icons/Icons/HeadIcon/Icon_Head_2011.png"
+ }
+]

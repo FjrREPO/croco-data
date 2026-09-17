@@ -1,0 +1,642 @@
+[
+ {
+  "ID": 1,
+  "CardLotteryID": 110001,
+  "Slot": 1,
+  "ItemDrop": [
+   4067,
+   1
+  ],
+  "FinalReward": 1
+ },
+ {
+  "ID": 2,
+  "CardLotteryID": 110001,
+  "Slot": 2,
+  "ItemDrop": [
+   4068,
+   1
+  ],
+  "FinalReward": 0
+ },
+ {
+  "ID": 3,
+  "CardLotteryID": 110001,
+  "Slot": 3,
+  "ItemDrop": [
+   4043,
+   3
+  ],
+  "FinalReward": 0
+ },
+ {
+  "ID": 4,
+  "CardLotteryID": 110001,
+  "Slot": 4,
+  "ItemDrop": [
+   4043,
+   2
+  ],
+  "FinalReward": 0
+ },
+ {
+  "ID": 5,
+  "CardLotteryID": 110001,
+  "Slot": 5,
+  "ItemDrop": [
+   333,
+   200
+  ],
+  "FinalReward": 0
+ },
+ {
+  "ID": 6,
+  "CardLotteryID": 110001,
+  "Slot": 6,
+  "ItemDrop": [
+   333,
+   100
+  ],
+  "FinalReward": 0
+ },
+ {
+  "ID": 7,
+  "CardLotteryID": 110001,
+  "Slot": 7,
+  "ItemDrop": [
+   333,
+   60
+  ],
+  "FinalReward": 0
+ },
+ {
+  "ID": 8,
+  "CardLotteryID": 110001,
+  "Slot": 8,
+  "ItemDrop": [
+   333,
+   40
+  ],
+  "FinalReward": 0
+ },
+ {
+  "ID": 9,
+  "CardLotteryID": 110002,
+  "Slot": 1,
+  "ItemDrop": [
+   4067,
+   1
+  ],
+  "FinalReward": 1
+ },
+ {
+  "ID": 10,
+  "CardLotteryID": 110002,
+  "Slot": 2,
+  "ItemDrop": [
+   4068,
+   1
+  ],
+  "FinalReward": 0
+ },
+ {
+  "ID": 11,
+  "CardLotteryID": 110002,
+  "Slot": 3,
+  "ItemDrop": [
+   4043,
+   3
+  ],
+  "FinalReward": 0
+ },
+ {
+  "ID": 12,
+  "CardLotteryID": 110002,
+  "Slot": 4,
+  "ItemDrop": [
+   4043,
+   2
+  ],
+  "FinalReward": 0
+ },
+ {
+  "ID": 13,
+  "CardLotteryID": 110002,
+  "Slot": 5,
+  "ItemDrop": [
+   333,
+   200
+  ],
+  "FinalReward": 0
+ },
+ {
+  "ID": 14,
+  "CardLotteryID": 110002,
+  "Slot": 6,
+  "ItemDrop": [
+   333,
+   100
+  ],
+  "FinalReward": 0
+ },
+ {
+  "ID": 15,
+  "CardLotteryID": 110002,
+  "Slot": 7,
+  "ItemDrop": [
+   333,
+   60
+  ],
+  "FinalReward": 0
+ },
+ {
+  "ID": 16,
+  "CardLotteryID": 110002,
+  "Slot": 8,
+  "ItemDrop": [
+   333,
+   40
+  ],
+  "FinalReward": 0
+ },
+ {
+  "ID": 17,
+  "CardLotteryID": 110003,
+  "Slot": 1,
+  "ItemDrop": [
+   4067,
+   1
+  ],
+  "FinalReward": 1
+ },
+ {
+  "ID": 18,
+  "CardLotteryID": 110003,
+  "Slot": 2,
+  "ItemDrop": [
+   4068,
+   1
+  ],
+  "FinalReward": 0
+ },
+ {
+  "ID": 19,
+  "CardLotteryID": 110003,
+  "Slot": 3,
+  "ItemDrop": [
+   4043,
+   3
+  ],
+  "FinalReward": 0
+ },
+ {
+  "ID": 20,
+  "CardLotteryID": 110003,
+  "Slot": 4,
+  "ItemDrop": [
+   4043,
+   2
+  ],
+  "FinalReward": 0
+ },
+ {
+  "ID": 21,
+  "CardLotteryID": 110003,
+  "Slot": 5,
+  "ItemDrop": [
+   333,
+   200
+  ],
+  "FinalReward": 0
+ },
+ {
+  "ID": 22,
+  "CardLotteryID": 110003,
+  "Slot": 6,
+  "ItemDrop": [
+   333,
+   100
+  ],
+  "FinalReward": 0
+ },
+ {
+  "ID": 23,
+  "CardLotteryID": 110003,
+  "Slot": 7,
+  "ItemDrop": [
+   333,
+   60
+  ],
+  "FinalReward": 0
+ },
+ {
+  "ID": 24,
+  "CardLotteryID": 110003,
+  "Slot": 8,
+  "ItemDrop": [
+   333,
+   40
+  ],
+  "FinalReward": 0
+ },
+ {
+  "ID": 25,
+  "CardLotteryID": 110004,
+  "Slot": 1,
+  "ItemDrop": [
+   4067,
+   1
+  ],
+  "FinalReward": 1
+ },
+ {
+  "ID": 26,
+  "CardLotteryID": 110004,
+  "Slot": 2,
+  "ItemDrop": [
+   4068,
+   1
+  ],
+  "FinalReward": 0
+ },
+ {
+  "ID": 27,
+  "CardLotteryID": 110004,
+  "Slot": 3,
+  "ItemDrop": [
+   4043,
+   3
+  ],
+  "FinalReward": 0
+ },
+ {
+  "ID": 28,
+  "CardLotteryID": 110004,
+  "Slot": 4,
+  "ItemDrop": [
+   4043,
+   2
+  ],
+  "FinalReward": 0
+ },
+ {
+  "ID": 29,
+  "CardLotteryID": 110004,
+  "Slot": 5,
+  "ItemDrop": [
+   333,
+   200
+  ],
+  "FinalReward": 0
+ },
+ {
+  "ID": 30,
+  "CardLotteryID": 110004,
+  "Slot": 6,
+  "ItemDrop": [
+   333,
+   100
+  ],
+  "FinalReward": 0
+ },
+ {
+  "ID": 31,
+  "CardLotteryID": 110004,
+  "Slot": 7,
+  "ItemDrop": [
+   333,
+   60
+  ],
+  "FinalReward": 0
+ },
+ {
+  "ID": 32,
+  "CardLotteryID": 110004,
+  "Slot": 8,
+  "ItemDrop": [
+   333,
+   40
+  ],
+  "FinalReward": 0
+ },
+ {
+  "ID": 33,
+  "CardLotteryID": 110005,
+  "Slot": 1,
+  "ItemDrop": [
+   4067,
+   1
+  ],
+  "FinalReward": 1
+ },
+ {
+  "ID": 34,
+  "CardLotteryID": 110005,
+  "Slot": 2,
+  "ItemDrop": [
+   4068,
+   1
+  ],
+  "FinalReward": 0
+ },
+ {
+  "ID": 35,
+  "CardLotteryID": 110005,
+  "Slot": 3,
+  "ItemDrop": [
+   4043,
+   3
+  ],
+  "FinalReward": 0
+ },
+ {
+  "ID": 36,
+  "CardLotteryID": 110005,
+  "Slot": 4,
+  "ItemDrop": [
+   4043,
+   2
+  ],
+  "FinalReward": 0
+ },
+ {
+  "ID": 37,
+  "CardLotteryID": 110005,
+  "Slot": 5,
+  "ItemDrop": [
+   333,
+   200
+  ],
+  "FinalReward": 0
+ },
+ {
+  "ID": 38,
+  "CardLotteryID": 110005,
+  "Slot": 6,
+  "ItemDrop": [
+   333,
+   100
+  ],
+  "FinalReward": 0
+ },
+ {
+  "ID": 39,
+  "CardLotteryID": 110005,
+  "Slot": 7,
+  "ItemDrop": [
+   333,
+   60
+  ],
+  "FinalReward": 0
+ },
+ {
+  "ID": 40,
+  "CardLotteryID": 110005,
+  "Slot": 8,
+  "ItemDrop": [
+   333,
+   40
+  ],
+  "FinalReward": 0
+ },
+ {
+  "ID": 41,
+  "CardLotteryID": 110006,
+  "Slot": 1,
+  "ItemDrop": [
+   4067,
+   1
+  ],
+  "FinalReward": 1
+ },
+ {
+  "ID": 42,
+  "CardLotteryID": 110006,
+  "Slot": 2,
+  "ItemDrop": [
+   4068,
+   1
+  ],
+  "FinalReward": 0
+ },
+ {
+  "ID": 43,
+  "CardLotteryID": 110006,
+  "Slot": 3,
+  "ItemDrop": [
+   4043,
+   3
+  ],
+  "FinalReward": 0
+ },
+ {
+  "ID": 44,
+  "CardLotteryID": 110006,
+  "Slot": 4,
+  "ItemDrop": [
+   4043,
+   2
+  ],
+  "FinalReward": 0
+ },
+ {
+  "ID": 45,
+  "CardLotteryID": 110006,
+  "Slot": 5,
+  "ItemDrop": [
+   333,
+   200
+  ],
+  "FinalReward": 0
+ },
+ {
+  "ID": 46,
+  "CardLotteryID": 110006,
+  "Slot": 6,
+  "ItemDrop": [
+   333,
+   100
+  ],
+  "FinalReward": 0
+ },
+ {
+  "ID": 47,
+  "CardLotteryID": 110006,
+  "Slot": 7,
+  "ItemDrop": [
+   333,
+   60
+  ],
+  "FinalReward": 0
+ },
+ {
+  "ID": 48,
+  "CardLotteryID": 110006,
+  "Slot": 8,
+  "ItemDrop": [
+   333,
+   40
+  ],
+  "FinalReward": 0
+ },
+ {
+  "ID": 49,
+  "CardLotteryID": 110007,
+  "Slot": 1,
+  "ItemDrop": [
+   4067,
+   1
+  ],
+  "FinalReward": 1
+ },
+ {
+  "ID": 50,
+  "CardLotteryID": 110007,
+  "Slot": 2,
+  "ItemDrop": [
+   4068,
+   1
+  ],
+  "FinalReward": 0
+ },
+ {
+  "ID": 51,
+  "CardLotteryID": 110007,
+  "Slot": 3,
+  "ItemDrop": [
+   4043,
+   3
+  ],
+  "FinalReward": 0
+ },
+ {
+  "ID": 52,
+  "CardLotteryID": 110007,
+  "Slot": 4,
+  "ItemDrop": [
+   4043,
+   2
+  ],
+  "FinalReward": 0
+ },
+ {
+  "ID": 53,
+  "CardLotteryID": 110007,
+  "Slot": 5,
+  "ItemDrop": [
+   333,
+   200
+  ],
+  "FinalReward": 0
+ },
+ {
+  "ID": 54,
+  "CardLotteryID": 110007,
+  "Slot": 6,
+  "ItemDrop": [
+   333,
+   100
+  ],
+  "FinalReward": 0
+ },
+ {
+  "ID": 55,
+  "CardLotteryID": 110007,
+  "Slot": 7,
+  "ItemDrop": [
+   333,
+   60
+  ],
+  "FinalReward": 0
+ },
+ {
+  "ID": 56,
+  "CardLotteryID": 110007,
+  "Slot": 8,
+  "ItemDrop": [
+   333,
+   40
+  ],
+  "FinalReward": 0
+ },
+ {
+  "ID": 57,
+  "CardLotteryID": 110008,
+  "Slot": 1,
+  "ItemDrop": [
+   4067,
+   1
+  ],
+  "FinalReward": 1
+ },
+ {
+  "ID": 58,
+  "CardLotteryID": 110008,
+  "Slot": 2,
+  "ItemDrop": [
+   4068,
+   1
+  ],
+  "FinalReward": 0
+ },
+ {
+  "ID": 59,
+  "CardLotteryID": 110008,
+  "Slot": 3,
+  "ItemDrop": [
+   4043,
+   3
+  ],
+  "FinalReward": 0
+ },
+ {
+  "ID": 60,
+  "CardLotteryID": 110008,
+  "Slot": 4,
+  "ItemDrop": [
+   4043,
+   2
+  ],
+  "FinalReward": 0
+ },
+ {
+  "ID": 61,
+  "CardLotteryID": 110008,
+  "Slot": 5,
+  "ItemDrop": [
+   333,
+   200
+  ],
+  "FinalReward": 0
+ },
+ {
+  "ID": 62,
+  "CardLotteryID": 110008,
+  "Slot": 6,
+  "ItemDrop": [
+   333,
+   100
+  ],
+  "FinalReward": 0
+ },
+ {
+  "ID": 63,
+  "CardLotteryID": 110008,
+  "Slot": 7,
+  "ItemDrop": [
+   333,
+   60
+  ],
+  "FinalReward": 0
+ },
+ {
+  "ID": 64,
+  "CardLotteryID": 110008,
+  "Slot": 8,
+  "ItemDrop": [
+   333,
+   40
+  ],
+  "FinalReward": 0
+ }
+]

@@ -1,0 +1,1622 @@
+[
+ {
+  "AsistAbyssID": 102001,
+  "LevelNum": 1,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   2,
+   2,
+   2
+  ],
+  "AttrVals": [
+   -6000,
+   -6000,
+   -5300
+  ],
+  "BasicRewardWave": 5,
+  "InviterReward": [
+   401101
+  ],
+  "ChallengerReward": [
+   401101
+  ],
+  "BossId": 840104
+ },
+ {
+  "AsistAbyssID": 102002,
+  "LevelNum": 2,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   2,
+   2,
+   2
+  ],
+  "AttrVals": [
+   -3700,
+   -3700,
+   1300
+  ],
+  "BasicRewardWave": 5,
+  "InviterReward": [
+   401101
+  ],
+  "ChallengerReward": [
+   401101
+  ],
+  "BossId": 840107
+ },
+ {
+  "AsistAbyssID": 102003,
+  "LevelNum": 3,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   2,
+   2,
+   2
+  ],
+  "AttrVals": [
+   -1500,
+   -1500,
+   11900
+  ],
+  "BasicRewardWave": 5,
+  "InviterReward": [
+   401101
+  ],
+  "ChallengerReward": [
+   401101
+  ],
+  "BossId": 840105
+ },
+ {
+  "AsistAbyssID": 102004,
+  "LevelNum": 4,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   2,
+   2,
+   2
+  ],
+  "AttrVals": [
+   6363,
+   6363,
+   28038
+  ],
+  "BasicRewardWave": 5,
+  "InviterReward": [
+   401101
+  ],
+  "ChallengerReward": [
+   401101
+  ],
+  "BossId": 840103
+ },
+ {
+  "AsistAbyssID": 102005,
+  "LevelNum": 5,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   2,
+   2,
+   2
+  ],
+  "AttrVals": [
+   13125,
+   13125,
+   56750
+  ],
+  "BasicRewardWave": 5,
+  "InviterReward": [
+   401101
+  ],
+  "ChallengerReward": [
+   401101
+  ],
+  "BossId": 840108
+ },
+ {
+  "AsistAbyssID": 102006,
+  "LevelNum": 6,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   2,
+   2,
+   2
+  ],
+  "AttrVals": [
+   23894,
+   23894,
+   119900
+  ],
+  "BasicRewardWave": 5,
+  "InviterReward": [
+   401101
+  ],
+  "ChallengerReward": [
+   401101
+  ],
+  "BossId": 820202
+ },
+ {
+  "AsistAbyssID": 102007,
+  "LevelNum": 7,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   2,
+   2,
+   2
+  ],
+  "AttrVals": [
+   36906,
+   36906,
+   258313
+  ],
+  "BasicRewardWave": 5,
+  "InviterReward": [
+   401101
+  ],
+  "ChallengerReward": [
+   401101
+  ],
+  "BossId": 840104
+ },
+ {
+  "AsistAbyssID": 102008,
+  "LevelNum": 8,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   2,
+   2,
+   2
+  ],
+  "AttrVals": [
+   51875,
+   51875,
+   421625
+  ],
+  "BasicRewardWave": 5,
+  "InviterReward": [
+   401101
+  ],
+  "ChallengerReward": [
+   401101
+  ],
+  "BossId": 840107
+ },
+ {
+  "AsistAbyssID": 102009,
+  "LevelNum": 9,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   2,
+   2,
+   2
+  ],
+  "AttrVals": [
+   65750,
+   65750,
+   756125
+  ],
+  "BasicRewardWave": 5,
+  "InviterReward": [
+   401101
+  ],
+  "ChallengerReward": [
+   401101
+  ],
+  "BossId": 840105
+ },
+ {
+  "AsistAbyssID": 102010,
+  "LevelNum": 10,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   2,
+   2,
+   2
+  ],
+  "AttrVals": [
+   79625,
+   79625,
+   1161500
+  ],
+  "BasicRewardWave": 5,
+  "InviterReward": [
+   401101
+  ],
+  "ChallengerReward": [
+   401101
+  ],
+  "BossId": 840103
+ },
+ {
+  "AsistAbyssID": 102011,
+  "LevelNum": 11,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   2,
+   2,
+   2
+  ],
+  "AttrVals": [
+   119000,
+   119000,
+   1883746
+  ],
+  "BasicRewardWave": 5,
+  "InviterReward": [
+   401101
+  ],
+  "ChallengerReward": [
+   401101
+  ],
+  "BossId": 840108
+ },
+ {
+  "AsistAbyssID": 102012,
+  "LevelNum": 12,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   2,
+   2,
+   2
+  ],
+  "AttrVals": [
+   175250,
+   175625,
+   3474500
+  ],
+  "BasicRewardWave": 5,
+  "InviterReward": [
+   401101
+  ],
+  "ChallengerReward": [
+   401101
+  ],
+  "BossId": 820202
+ },
+ {
+  "AsistAbyssID": 102013,
+  "LevelNum": 13,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   2,
+   2,
+   2
+  ],
+  "AttrVals": [
+   231125,
+   231125,
+   5099750
+  ],
+  "BasicRewardWave": 5,
+  "InviterReward": [
+   401101
+  ],
+  "ChallengerReward": [
+   401101
+  ],
+  "BossId": 840108
+ },
+ {
+  "AsistAbyssID": 102014,
+  "LevelNum": 14,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   2,
+   2,
+   2
+  ],
+  "AttrVals": [
+   291496,
+   291496,
+   7296500
+  ],
+  "BasicRewardWave": 5,
+  "InviterReward": [
+   401101
+  ],
+  "ChallengerReward": [
+   401101
+  ],
+  "BossId": 840107
+ },
+ {
+  "AsistAbyssID": 102015,
+  "LevelNum": 15,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   2,
+   2,
+   2
+  ],
+  "AttrVals": [
+   356938,
+   356938,
+   11517125
+  ],
+  "BasicRewardWave": 5,
+  "InviterReward": [
+   401101
+  ],
+  "ChallengerReward": [
+   401101
+  ],
+  "BossId": 840101
+ },
+ {
+  "AsistAbyssID": 102016,
+  "LevelNum": 16,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   2,
+   2,
+   2
+  ],
+  "AttrVals": [
+   414500,
+   414500,
+   13803125
+  ],
+  "BasicRewardWave": 5,
+  "InviterReward": [
+   401101
+  ],
+  "ChallengerReward": [
+   401101
+  ],
+  "BossId": 840108
+ },
+ {
+  "AsistAbyssID": 102017,
+  "LevelNum": 17,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   2,
+   2,
+   2
+  ],
+  "AttrVals": [
+   477125,
+   476934,
+   16474625
+  ],
+  "BasicRewardWave": 5,
+  "InviterReward": [
+   401101
+  ],
+  "ChallengerReward": [
+   401101
+  ],
+  "BossId": 820202
+ },
+ {
+  "AsistAbyssID": 102018,
+  "LevelNum": 18,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   2,
+   2,
+   2
+  ],
+  "AttrVals": [
+   592625,
+   592625,
+   23995250
+  ],
+  "BasicRewardWave": 5,
+  "InviterReward": [
+   401101
+  ],
+  "ChallengerReward": [
+   401101
+  ],
+  "BossId": 840108
+ },
+ {
+  "AsistAbyssID": 102019,
+  "LevelNum": 19,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   2,
+   2,
+   2
+  ],
+  "AttrVals": [
+   774500,
+   774500,
+   36800375
+  ],
+  "BasicRewardWave": 5,
+  "InviterReward": [
+   401101
+  ],
+  "ChallengerReward": [
+   401101
+  ],
+  "BossId": 840107
+ },
+ {
+  "AsistAbyssID": 102020,
+  "LevelNum": 20,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   2,
+   2,
+   2
+  ],
+  "AttrVals": [
+   914375,
+   914750,
+   47354371
+  ],
+  "BasicRewardWave": 5,
+  "InviterReward": [
+   401101
+  ],
+  "ChallengerReward": [
+   401101
+  ],
+  "BossId": 840101
+ },
+ {
+  "AsistAbyssID": 202001,
+  "LevelNum": 1,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   2,
+   2,
+   2
+  ],
+  "AttrVals": [
+   -6000,
+   -6000,
+   -5300
+  ],
+  "BasicRewardWave": 5,
+  "InviterReward": [
+   401102
+  ],
+  "ChallengerReward": [
+   401102
+  ],
+  "BossId": 840108
+ },
+ {
+  "AsistAbyssID": 202002,
+  "LevelNum": 2,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   2,
+   2,
+   2
+  ],
+  "AttrVals": [
+   -3700,
+   -3700,
+   1300
+  ],
+  "BasicRewardWave": 5,
+  "InviterReward": [
+   401102
+  ],
+  "ChallengerReward": [
+   401102
+  ],
+  "BossId": 840107
+ },
+ {
+  "AsistAbyssID": 202003,
+  "LevelNum": 3,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   2,
+   2,
+   2
+  ],
+  "AttrVals": [
+   -1500,
+   -1500,
+   11900
+  ],
+  "BasicRewardWave": 5,
+  "InviterReward": [
+   401102
+  ],
+  "ChallengerReward": [
+   401102
+  ],
+  "BossId": 840106
+ },
+ {
+  "AsistAbyssID": 202004,
+  "LevelNum": 4,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   2,
+   2,
+   2
+  ],
+  "AttrVals": [
+   6363,
+   6363,
+   28038
+  ],
+  "BasicRewardWave": 5,
+  "InviterReward": [
+   401102
+  ],
+  "ChallengerReward": [
+   401102
+  ],
+  "BossId": 840107
+ },
+ {
+  "AsistAbyssID": 202005,
+  "LevelNum": 5,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   2,
+   2,
+   2
+  ],
+  "AttrVals": [
+   13125,
+   13125,
+   56750
+  ],
+  "BasicRewardWave": 5,
+  "InviterReward": [
+   401102
+  ],
+  "ChallengerReward": [
+   401102
+  ],
+  "BossId": 840104
+ },
+ {
+  "AsistAbyssID": 202006,
+  "LevelNum": 6,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   2,
+   2,
+   2
+  ],
+  "AttrVals": [
+   23894,
+   23894,
+   119900
+  ],
+  "BasicRewardWave": 5,
+  "InviterReward": [
+   401102
+  ],
+  "ChallengerReward": [
+   401102
+  ],
+  "BossId": 840103
+ },
+ {
+  "AsistAbyssID": 202007,
+  "LevelNum": 7,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   2,
+   2,
+   2
+  ],
+  "AttrVals": [
+   36906,
+   36906,
+   258313
+  ],
+  "BasicRewardWave": 5,
+  "InviterReward": [
+   401102
+  ],
+  "ChallengerReward": [
+   401102
+  ],
+  "BossId": 820202
+ },
+ {
+  "AsistAbyssID": 202008,
+  "LevelNum": 8,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   2,
+   2,
+   2
+  ],
+  "AttrVals": [
+   51875,
+   51875,
+   421625
+  ],
+  "BasicRewardWave": 5,
+  "InviterReward": [
+   401102
+  ],
+  "ChallengerReward": [
+   401102
+  ],
+  "BossId": 840101
+ },
+ {
+  "AsistAbyssID": 202009,
+  "LevelNum": 9,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   2,
+   2,
+   2
+  ],
+  "AttrVals": [
+   65750,
+   65750,
+   756125
+  ],
+  "BasicRewardWave": 5,
+  "InviterReward": [
+   401102
+  ],
+  "ChallengerReward": [
+   401102
+  ],
+  "BossId": 840106
+ },
+ {
+  "AsistAbyssID": 202010,
+  "LevelNum": 10,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   2,
+   2,
+   2
+  ],
+  "AttrVals": [
+   79625,
+   79625,
+   1161500
+  ],
+  "BasicRewardWave": 5,
+  "InviterReward": [
+   401102
+  ],
+  "ChallengerReward": [
+   401102
+  ],
+  "BossId": 840107
+ },
+ {
+  "AsistAbyssID": 202011,
+  "LevelNum": 11,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   2,
+   2,
+   2
+  ],
+  "AttrVals": [
+   119000,
+   119000,
+   1883746
+  ],
+  "BasicRewardWave": 5,
+  "InviterReward": [
+   401102
+  ],
+  "ChallengerReward": [
+   401102
+  ],
+  "BossId": 840104
+ },
+ {
+  "AsistAbyssID": 202012,
+  "LevelNum": 12,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   2,
+   2,
+   2
+  ],
+  "AttrVals": [
+   175250,
+   175625,
+   3474500
+  ],
+  "BasicRewardWave": 5,
+  "InviterReward": [
+   401102
+  ],
+  "ChallengerReward": [
+   401102
+  ],
+  "BossId": 840103
+ },
+ {
+  "AsistAbyssID": 202013,
+  "LevelNum": 13,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   2,
+   2,
+   2
+  ],
+  "AttrVals": [
+   231125,
+   231125,
+   5099750
+  ],
+  "BasicRewardWave": 5,
+  "InviterReward": [
+   401102
+  ],
+  "ChallengerReward": [
+   401102
+  ],
+  "BossId": 820202
+ },
+ {
+  "AsistAbyssID": 202014,
+  "LevelNum": 14,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   2,
+   2,
+   2
+  ],
+  "AttrVals": [
+   291496,
+   291496,
+   7296500
+  ],
+  "BasicRewardWave": 5,
+  "InviterReward": [
+   401102
+  ],
+  "ChallengerReward": [
+   401102
+  ],
+  "BossId": 840101
+ },
+ {
+  "AsistAbyssID": 202015,
+  "LevelNum": 15,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   2,
+   2,
+   2
+  ],
+  "AttrVals": [
+   356938,
+   356938,
+   11517125
+  ],
+  "BasicRewardWave": 5,
+  "InviterReward": [
+   401102
+  ],
+  "ChallengerReward": [
+   401102
+  ],
+  "BossId": 840106
+ },
+ {
+  "AsistAbyssID": 202016,
+  "LevelNum": 16,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   2,
+   2,
+   2
+  ],
+  "AttrVals": [
+   414500,
+   414500,
+   13803125
+  ],
+  "BasicRewardWave": 5,
+  "InviterReward": [
+   401102
+  ],
+  "ChallengerReward": [
+   401102
+  ],
+  "BossId": 840104
+ },
+ {
+  "AsistAbyssID": 202017,
+  "LevelNum": 17,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   2,
+   2,
+   2
+  ],
+  "AttrVals": [
+   477125,
+   476934,
+   16474625
+  ],
+  "BasicRewardWave": 5,
+  "InviterReward": [
+   401102
+  ],
+  "ChallengerReward": [
+   401102
+  ],
+  "BossId": 840103
+ },
+ {
+  "AsistAbyssID": 202018,
+  "LevelNum": 18,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   2,
+   2,
+   2
+  ],
+  "AttrVals": [
+   592625,
+   592625,
+   23995250
+  ],
+  "BasicRewardWave": 5,
+  "InviterReward": [
+   401102
+  ],
+  "ChallengerReward": [
+   401102
+  ],
+  "BossId": 820202
+ },
+ {
+  "AsistAbyssID": 202019,
+  "LevelNum": 19,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   2,
+   2,
+   2
+  ],
+  "AttrVals": [
+   774500,
+   774500,
+   36800375
+  ],
+  "BasicRewardWave": 5,
+  "InviterReward": [
+   401102
+  ],
+  "ChallengerReward": [
+   401102
+  ],
+  "BossId": 840101
+ },
+ {
+  "AsistAbyssID": 202020,
+  "LevelNum": 20,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   2,
+   2,
+   2
+  ],
+  "AttrVals": [
+   914375,
+   914750,
+   47354371
+  ],
+  "BasicRewardWave": 5,
+  "InviterReward": [
+   401102
+  ],
+  "ChallengerReward": [
+   401102
+  ],
+  "BossId": 840106
+ },
+ {
+  "AsistAbyssID": 302001,
+  "LevelNum": 1,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   2,
+   2,
+   2
+  ],
+  "AttrVals": [
+   -6000,
+   -6000,
+   -5300
+  ],
+  "BasicRewardWave": 5,
+  "InviterReward": [
+   401102
+  ],
+  "ChallengerReward": [
+   401102
+  ],
+  "BossId": 840107
+ },
+ {
+  "AsistAbyssID": 302002,
+  "LevelNum": 2,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   2,
+   2,
+   2
+  ],
+  "AttrVals": [
+   -3700,
+   -3700,
+   1300
+  ],
+  "BasicRewardWave": 5,
+  "InviterReward": [
+   401102
+  ],
+  "ChallengerReward": [
+   401102
+  ],
+  "BossId": 840105
+ },
+ {
+  "AsistAbyssID": 302003,
+  "LevelNum": 3,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   2,
+   2,
+   2
+  ],
+  "AttrVals": [
+   -1500,
+   -1500,
+   11900
+  ],
+  "BasicRewardWave": 5,
+  "InviterReward": [
+   401102
+  ],
+  "ChallengerReward": [
+   401102
+  ],
+  "BossId": 840103
+ },
+ {
+  "AsistAbyssID": 302004,
+  "LevelNum": 4,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   2,
+   2,
+   2
+  ],
+  "AttrVals": [
+   6363,
+   6363,
+   28038
+  ],
+  "BasicRewardWave": 5,
+  "InviterReward": [
+   401102
+  ],
+  "ChallengerReward": [
+   401102
+  ],
+  "BossId": 840108
+ },
+ {
+  "AsistAbyssID": 302005,
+  "LevelNum": 5,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   2,
+   2,
+   2
+  ],
+  "AttrVals": [
+   13125,
+   13125,
+   56750
+  ],
+  "BasicRewardWave": 5,
+  "InviterReward": [
+   401102
+  ],
+  "ChallengerReward": [
+   401102
+  ],
+  "BossId": 820202
+ },
+ {
+  "AsistAbyssID": 302006,
+  "LevelNum": 6,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   2,
+   2,
+   2
+  ],
+  "AttrVals": [
+   23894,
+   23894,
+   119900
+  ],
+  "BasicRewardWave": 5,
+  "InviterReward": [
+   401102
+  ],
+  "ChallengerReward": [
+   401102
+  ],
+  "BossId": 840108
+ },
+ {
+  "AsistAbyssID": 302007,
+  "LevelNum": 7,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   2,
+   2,
+   2
+  ],
+  "AttrVals": [
+   36906,
+   36906,
+   258313
+  ],
+  "BasicRewardWave": 5,
+  "InviterReward": [
+   401102
+  ],
+  "ChallengerReward": [
+   401102
+  ],
+  "BossId": 840107
+ },
+ {
+  "AsistAbyssID": 302008,
+  "LevelNum": 8,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   2,
+   2,
+   2
+  ],
+  "AttrVals": [
+   51875,
+   51875,
+   421625
+  ],
+  "BasicRewardWave": 5,
+  "InviterReward": [
+   401102
+  ],
+  "ChallengerReward": [
+   401102
+  ],
+  "BossId": 840101
+ },
+ {
+  "AsistAbyssID": 302009,
+  "LevelNum": 9,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   2,
+   2,
+   2
+  ],
+  "AttrVals": [
+   65750,
+   65750,
+   756125
+  ],
+  "BasicRewardWave": 5,
+  "InviterReward": [
+   401102
+  ],
+  "ChallengerReward": [
+   401102
+  ],
+  "BossId": 840108
+ },
+ {
+  "AsistAbyssID": 302010,
+  "LevelNum": 10,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   2,
+   2,
+   2
+  ],
+  "AttrVals": [
+   79625,
+   79625,
+   1161500
+  ],
+  "BasicRewardWave": 5,
+  "InviterReward": [
+   401102
+  ],
+  "ChallengerReward": [
+   401102
+  ],
+  "BossId": 840107
+ },
+ {
+  "AsistAbyssID": 302011,
+  "LevelNum": 11,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   2,
+   2,
+   2
+  ],
+  "AttrVals": [
+   119000,
+   119000,
+   1883746
+  ],
+  "BasicRewardWave": 5,
+  "InviterReward": [
+   401102
+  ],
+  "ChallengerReward": [
+   401102
+  ],
+  "BossId": 840106
+ },
+ {
+  "AsistAbyssID": 302012,
+  "LevelNum": 12,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   2,
+   2,
+   2
+  ],
+  "AttrVals": [
+   175250,
+   175625,
+   3474500
+  ],
+  "BasicRewardWave": 5,
+  "InviterReward": [
+   401102
+  ],
+  "ChallengerReward": [
+   401102
+  ],
+  "BossId": 840107
+ },
+ {
+  "AsistAbyssID": 302013,
+  "LevelNum": 13,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   2,
+   2,
+   2
+  ],
+  "AttrVals": [
+   231125,
+   231125,
+   5099750
+  ],
+  "BasicRewardWave": 5,
+  "InviterReward": [
+   401102
+  ],
+  "ChallengerReward": [
+   401102
+  ],
+  "BossId": 840104
+ },
+ {
+  "AsistAbyssID": 302014,
+  "LevelNum": 14,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   2,
+   2,
+   2
+  ],
+  "AttrVals": [
+   291496,
+   291496,
+   7296500
+  ],
+  "BasicRewardWave": 5,
+  "InviterReward": [
+   401102
+  ],
+  "ChallengerReward": [
+   401102
+  ],
+  "BossId": 840103
+ },
+ {
+  "AsistAbyssID": 302015,
+  "LevelNum": 15,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   2,
+   2,
+   2
+  ],
+  "AttrVals": [
+   356938,
+   356938,
+   11517125
+  ],
+  "BasicRewardWave": 5,
+  "InviterReward": [
+   401102
+  ],
+  "ChallengerReward": [
+   401102
+  ],
+  "BossId": 820202
+ },
+ {
+  "AsistAbyssID": 302016,
+  "LevelNum": 16,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   2,
+   2,
+   2
+  ],
+  "AttrVals": [
+   414500,
+   414500,
+   13803125
+  ],
+  "BasicRewardWave": 5,
+  "InviterReward": [
+   401102
+  ],
+  "ChallengerReward": [
+   401102
+  ],
+  "BossId": 840106
+ },
+ {
+  "AsistAbyssID": 302017,
+  "LevelNum": 17,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   2,
+   2,
+   2
+  ],
+  "AttrVals": [
+   477125,
+   476934,
+   16474625
+  ],
+  "BasicRewardWave": 5,
+  "InviterReward": [
+   401102
+  ],
+  "ChallengerReward": [
+   401102
+  ],
+  "BossId": 840107
+ },
+ {
+  "AsistAbyssID": 302018,
+  "LevelNum": 18,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   2,
+   2,
+   2
+  ],
+  "AttrVals": [
+   592625,
+   592625,
+   23995250
+  ],
+  "BasicRewardWave": 5,
+  "InviterReward": [
+   401102
+  ],
+  "ChallengerReward": [
+   401102
+  ],
+  "BossId": 840104
+ },
+ {
+  "AsistAbyssID": 302019,
+  "LevelNum": 19,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   2,
+   2,
+   2
+  ],
+  "AttrVals": [
+   774500,
+   774500,
+   36800375
+  ],
+  "BasicRewardWave": 5,
+  "InviterReward": [
+   401102
+  ],
+  "ChallengerReward": [
+   401102
+  ],
+  "BossId": 840103
+ },
+ {
+  "AsistAbyssID": 302020,
+  "LevelNum": 20,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   2,
+   2,
+   2
+  ],
+  "AttrVals": [
+   914375,
+   914750,
+   47354371
+  ],
+  "BasicRewardWave": 5,
+  "InviterReward": [
+   401102
+  ],
+  "ChallengerReward": [
+   401102
+  ],
+  "BossId": 820202
+ }
+]

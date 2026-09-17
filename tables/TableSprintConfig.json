@@ -1,0 +1,18 @@
+[
+ {
+  "ID": 1001,
+  "Type": 1,
+  "timeType": 2,
+  "timeType01": "1",
+  "timeType02": "7",
+  "SortWeight": 1,
+  "SprintTask": 1,
+  "SprintReward": 1,
+  "Mall": 0,
+  "Shop": 0,
+  "Name": "Sprint_Name1001",
+  "Icon": "rush_icon_chapter",
+  "Rule": "Sprint_Rule1001",
+  "Jump": "Sprint_Jump1001"
+ }
+]

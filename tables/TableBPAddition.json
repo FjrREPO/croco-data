@@ -1,0 +1,167 @@
+[
+ {
+  "ID": 1,
+  "SplitNum": 0,
+  "BattleType": 0,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "ID": 2,
+  "SplitNum": 80,
+  "BattleType": 0,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "ID": 3,
+  "SplitNum": 120,
+  "BattleType": 0,
+  "AttrIDs": [
+   204
+  ],
+  "AttrVals": [
+   300
+  ]
+ },
+ {
+  "ID": 4,
+  "SplitNum": 130,
+  "BattleType": 0,
+  "AttrIDs": [
+   204
+  ],
+  "AttrVals": [
+   500
+  ]
+ },
+ {
+  "ID": 5,
+  "SplitNum": 140,
+  "BattleType": 0,
+  "AttrIDs": [
+   204
+  ],
+  "AttrVals": [
+   1000
+  ]
+ },
+ {
+  "ID": 6,
+  "SplitNum": 150,
+  "BattleType": 0,
+  "AttrIDs": [
+   204
+  ],
+  "AttrVals": [
+   1500
+  ]
+ },
+ {
+  "ID": 7,
+  "SplitNum": 170,
+  "BattleType": 0,
+  "AttrIDs": [
+   204
+  ],
+  "AttrVals": [
+   2000
+  ]
+ },
+ {
+  "ID": 8,
+  "SplitNum": 200,
+  "BattleType": 0,
+  "AttrIDs": [
+   204
+  ],
+  "AttrVals": [
+   3000
+  ]
+ },
+ {
+  "ID": 9,
+  "SplitNum": 0,
+  "BattleType": 3,
+  "AttrIDs": [],
+  "AttrVals": []
+ },
+ {
+  "ID": 10,
+  "SplitNum": 120,
+  "BattleType": 3,
+  "AttrIDs": [
+   204,
+   207
+  ],
+  "AttrVals": [
+   300,
+   300
+  ]
+ },
+ {
+  "ID": 11,
+  "SplitNum": 130,
+  "BattleType": 3,
+  "AttrIDs": [
+   204,
+   207
+  ],
+  "AttrVals": [
+   500,
+   500
+  ]
+ },
+ {
+  "ID": 12,
+  "SplitNum": 140,
+  "BattleType": 3,
+  "AttrIDs": [
+   204,
+   207
+  ],
+  "AttrVals": [
+   1000,
+   1000
+  ]
+ },
+ {
+  "ID": 13,
+  "SplitNum": 150,
+  "BattleType": 3,
+  "AttrIDs": [
+   204,
+   207
+  ],
+  "AttrVals": [
+   1500,
+   1500
+  ]
+ },
+ {
+  "ID": 14,
+  "SplitNum": 170,
+  "BattleType": 3,
+  "AttrIDs": [
+   204,
+   207
+  ],
+  "AttrVals": [
+   2500,
+   2500
+  ]
+ },
+ {
+  "ID": 15,
+  "SplitNum": 200,
+  "BattleType": 4,
+  "AttrIDs": [
+   204,
+   207
+  ],
+  "AttrVals": [
+   5000,
+   5000
+  ]
+ }
+]

@@ -1,0 +1,47 @@
+id,name,unit_name,rarity,race,role,cost,hp,atk,defense,atk_speed,atk_range,max_level,skills,icon
+507006,Ace,,SSS+,-,-,0,8640,480,120,100,10,100,Ashen Annihilation; Beast Swarm Magic SurgeⅢ,icons/Icons/PetIcon/Icon_Pet_507006.png
+507004,Blood Crow,,SSS+,-,-,0,8640,480,120,20,10,100,Phantom Raven Shadow; Beast-Tide CalamityⅢ,icons/Icons/PetIcon/Icon_Pet_507004.png
+507005,Bruce,,SSS+,-,-,0,8640,480,120,100,10,100,Bat Swarm Hunt; Pet-Hunter Swift BowⅢ,icons/Icons/PetIcon/Icon_Pet_507005.png
+507001,Death Warrior,,SSS+,-,-,0,8640,480,120,20,10,100,Chain Flash Kill; Pet Hunt BloodbladeⅢ,icons/Icons/PetIcon/Icon_Pet_507001.png
+507003,Drunken Panda,,SSS+,-,-,0,8640,480,120,100,10,100,Drunken Spirit Phantom; Frenzy of BeastsⅢ,icons/Icons/PetIcon/Icon_Pet_507003.png
+507008,Medusa,,SSS+,-,-,0,8640,480,120,100,10,100,Venom Vine Growth; Beast Array BindⅢ,icons/Icons/PetIcon/Icon_Pet_507008.png
+507007,Sakura,,SSS+,-,-,0,8640,480,120,12,10,100,Elemental Storm; Battle-Pet UnityⅢ,icons/Icons/PetIcon/Icon_Pet_507007.png
+507002,Strange Owl,,SSS+,-,-,0,8640,480,120,100,10,100,Arcane Barrier; Beast-Taming GraceⅢ,icons/Icons/PetIcon/Icon_Pet_507002.png
+506003,Abo,,SSS,-,-,0,6480,360,90,100,10,100,Three Panda Heroes; Frenzy of BeastsⅡ,icons/Icons/PetIcon/Icon_Pet_506003.png
+506006,Aizen,,SSS,-,-,0,6480,360,90,33,10,100,Black Coffin Mirror; Beast-Tide CalamityⅡ,icons/Icons/PetIcon/Icon_Pet_506006.png
+506007,Celebi,,SSS,-,-,0,6480,360,90,20,10,100,Spirit Channeling; Battle-Pet UnityⅡ,icons/Icons/PetIcon/Icon_Pet_506007.png
+506001,Creed,,SSS,-,-,0,6480,360,90,20,10,100,Nocturnal Judgment; Pet Hunt BloodbladeⅡ,icons/Icons/PetIcon/Icon_Pet_506001.png
+506008,Godoff,,SSS,-,-,0,6480,360,90,100,10,100,White Radiance Guard; Beast-Taming GraceⅡ,icons/Icons/PetIcon/Icon_Pet_506008.png
+506002,Harry,,SSS,-,-,0,6480,360,90,100,10,100,Fieldwide Thunder Curse; Beast Swarm Magic SurgeⅡ,icons/Icons/PetIcon/Icon_Pet_506002.png
+506005,Iron Rabbit,,SSS,-,-,0,6480,360,90,100,10,100,Barrage Bombardment; Pet-Hunter Swift BowⅡ,icons/Icons/PetIcon/Icon_Pet_506005.png
+506004,Magneto,,SSS,-,-,0,6480,360,90,100,10,100,Magnetic Vortex; Beast Array BindⅡ,icons/Icons/PetIcon/Icon_Pet_506004.png
+506009,Zog・Everdark,,SSS,-,-,0,6480,360,90,100,10,100,World-Scorching Netherflame; Dragon Roar Battle HymnⅡ,icons/Icons/PetIcon/Icon_Pet_506009.png
+505004,Bone Eagle,,SS,-,-,0,4320,240,60,100,10,100,Chains of Fate; Beast Array BindⅠ,icons/Icons/PetIcon/Icon_Pet_505004.png
+505006,Fennec Fox,,SS,-,-,0,4320,240,60,33,10,0,Violent Whirlwind; Battle-Pet UnityⅠ,icons/Icons/PetIcon/Icon_Pet_505006.png
+505002,Fire Owl,,SS,-,-,0,4320,240,60,100,10,100,Great Annihilation; Beast Swarm Magic SurgeⅠ,icons/Icons/PetIcon/Icon_Pet_505002.png
+505008,Joyboy,,SS,-,-,0,4320,240,60,100,10,100,Secret Elixir Boost; Beast-Taming GraceⅠ,icons/Icons/PetIcon/Icon_Pet_505008.png
+505007,Kai,,SS,-,-,0,4320,240,60,100,10,100,Summon Ice Spirit; Frenzy of BeastsⅠ,icons/Icons/PetIcon/Icon_Pet_505007.png
+505001,Kong King Cat,,SS,-,-,0,4320,240,60,20,10,100,Thousand-Claw Rend; Pet Hunt BloodbladeⅠ,icons/Icons/PetIcon/Icon_Pet_505001.png
+505003,Panda,,SS,-,-,0,4320,240,60,33,10,100,Clone Technique; Beast-Tide CalamityⅠ,icons/Icons/PetIcon/Icon_Pet_505003.png
+505005,Robin,,SS,-,-,0,4320,240,60,100,10,100,Chain Sniping; Pet-Hunter Swift BowⅠ,icons/Icons/PetIcon/Icon_Pet_505005.png
+505009,Vern・Crimsonclaw,,SS,-,-,0,4320,240,60,100,10,100,World-Ending Dragon Claw; Dragon Roar Battle HymnⅠ,icons/Icons/PetIcon/Icon_Pet_505009.png
+504003,Banana,,S,-,-,0,3240,180,45,33,10,100,You Are Enhanced; Pet Spirit Battle WillⅣ,icons/Icons/PetIcon/Icon_Pet_504003.png
+504001,Konoha Cat,,S,-,-,0,3240,180,45,33,10,100,Thousand-Phantom Leaf Shadow; Pet Spirit Battle WillⅣ,icons/Icons/PetIcon/Icon_Pet_504001.png
+504002,Sword Poppy,,S,-,-,0,3240,180,45,100,10,100,Summon Guard; Pet Spirit Battle WillⅣ,icons/Icons/PetIcon/Icon_Pet_504002.png
+504004,,,S,-,-,0,3240,180,45,100,10,100,,icons/Icons/PetIcon/Icon_Pet_504004.png
+504005,,,S,-,-,0,3240,180,45,100,10,100,,icons/Icons/PetIcon/Icon_Pet_504005.png
+503002,Hammer Poppy,,A,-,-,0,2160,120,30,100,10,100,Greater Summoning; Pet Spirit Battle WillⅢ,icons/Icons/PetIcon/Icon_Pet_503002.png
+503003,Huahua,,A,-,-,0,2160,120,30,33,10,100,Greater Enhancement; Pet Spirit Battle WillⅢ,icons/Icons/PetIcon/Icon_Pet_503003.png
+503001,Ninja Cat,,A,-,-,0,2160,120,30,33,10,100,Deadly Dart; Pet Spirit Battle WillⅢ,icons/Icons/PetIcon/Icon_Pet_503001.png
+503004,,,A,-,-,0,2160,120,30,100,10,100,,icons/Icons/PetIcon/Icon_Pet_503004.png
+503005,,,A,-,-,0,2160,120,30,100,10,100,,icons/Icons/PetIcon/Icon_Pet_503005.png
+502001,Assassin Cat,,B,-,-,0,1620,90,22,33,10,100,Shuriken; Pet Spirit Battle WillⅡ,icons/Icons/PetIcon/Icon_Pet_502001.png
+502003,Mumu,,B,-,-,0,1620,90,22,33,10,100,Enhancement; Pet Spirit Battle WillⅡ,icons/Icons/PetIcon/Icon_Pet_502003.png
+502002,Pudding,,B,-,-,0,1620,90,22,100,10,100,Summoning; Pet Spirit Battle WillⅡ,icons/Icons/PetIcon/Icon_Pet_502002.png
+502004,,,B,-,-,0,1620,90,22,100,10,100,,icons/Icons/PetIcon/Icon_Pet_502004.png
+502005,,,B,-,-,0,1620,90,22,100,10,100,,icons/Icons/PetIcon/Icon_Pet_502005.png
+501003,Doudou,,C,-,-,0,1080,60,15,33,10,100,Minor Enhancement; Pet Spirit Battle WillⅠ,icons/Icons/PetIcon/Icon_Pet_501003.png
+501002,Poppy,,C,-,-,0,1080,60,15,100,10,100,Minor Summoning; Pet Spirit Battle WillⅠ,icons/Icons/PetIcon/Icon_Pet_501002.png
+501001,Xiaohei,,C,-,-,0,1080,60,15,33,10,100,Throw Fishbone; Pet Spirit Battle WillⅠ,icons/Icons/PetIcon/Icon_Pet_501001.png
+501004,,,C,-,-,0,1080,60,15,100,10,100,,icons/Icons/PetIcon/Icon_Pet_501004.png
+501005,,,C,-,-,0,1080,60,15,100,10,100,,icons/Icons/PetIcon/Icon_Pet_501005.png

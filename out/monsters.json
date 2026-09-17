@@ -1,0 +1,4658 @@
+[
+ {
+  "id": 840117,
+  "name": "Abyssal Shadow",
+  "unit_name": "Abyssal Shadow",
+  "rarity": "A",
+  "rarity_name": "Epic",
+  "quality": 3,
+  "race": "-",
+  "role": "-",
+  "cost": 1,
+  "max_level": 50,
+  "hp": 30000,
+  "atk": 4780,
+  "defense": 1000,
+  "atk_speed": 100,
+  "atk_range": 4,
+  "move_speed": 5,
+  "crit_dmg": 15000,
+  "mp_regen": 20,
+  "skills": [
+   {
+    "id": 840107100,
+    "name": "Shadow Water Bolt",
+    "desc": "Fires 2 ricocheting water bolts.",
+    "kind": "skill"
+   },
+   {
+    "id": 840107200,
+    "name": "Shadow Twin",
+    "desc": "Splits off 1 Juvenile Abyssal Shadow. If it is not healed enough, it explodes for massive damage; otherwise, it aids the heroes in attacking the adult shadow.",
+    "kind": "skill"
+   },
+   {
+    "id": 840107300,
+    "name": "Abyssal Toxic Mist",
+    "desc": "Unleashes toxic mist across the battlefield, damaging all enemies and inflicting Poison.",
+    "kind": "skill"
+   }
+  ],
+  "passives": [],
+  "icon": "icons/Icons/HeadIcon/Icon_Head_840107.png"
+ },
+ {
+  "id": 840123,
+  "name": "Corrosive Empress",
+  "unit_name": "Corrosive Empress",
+  "rarity": "A",
+  "rarity_name": "Epic",
+  "quality": 3,
+  "race": "-",
+  "role": "-",
+  "cost": 1,
+  "max_level": 50,
+  "hp": 30000,
+  "atk": 4780,
+  "defense": 1000,
+  "atk_speed": 100,
+  "atk_range": 4,
+  "move_speed": 5,
+  "crit_dmg": 15000,
+  "mp_regen": 20,
+  "skills": [
+   {
+    "id": 840103100,
+    "name": "Devour",
+    "desc": "Hurls a slime glob to engulf 1 target, prioritizing summoned units.",
+    "kind": "skill"
+   },
+   {
+    "id": 840103200,
+    "name": "Split",
+    "desc": "On death, splits into numerous small slimes.",
+    "kind": "skill"
+   },
+   {
+    "id": 840103300,
+    "name": "Regeneration",
+    "desc": "Continuously restores HP; healing scales with channel time.",
+    "kind": "skill"
+   },
+   {
+    "id": 840103301,
+    "name": "Regeneration",
+    "desc": "",
+    "kind": "skill"
+   }
+  ],
+  "passives": [],
+  "icon": "icons/Icons/HeadIcon/Icon_Head_840123.png"
+ },
+ {
+  "id": 840126,
+  "name": "Corrupted Fungal Lord",
+  "unit_name": "Corrupted Fungal Lord",
+  "rarity": "A",
+  "rarity_name": "Epic",
+  "quality": 3,
+  "race": "-",
+  "role": "-",
+  "cost": 1,
+  "max_level": 50,
+  "hp": 30000,
+  "atk": 4780,
+  "defense": 1000,
+  "atk_speed": 100,
+  "atk_range": 1,
+  "move_speed": 5,
+  "crit_dmg": 15000,
+  "mp_regen": 20,
+  "skills": [
+   {
+    "id": 840106100,
+    "name": "Spore Burst",
+    "desc": "Fires spore bombs at 3 random targets.",
+    "kind": "skill"
+   },
+   {
+    "id": 840106200,
+    "name": "Frenzied Regeneration",
+    "desc": "Continuously restores a large amount of HP.",
+    "kind": "skill"
+   },
+   {
+    "id": 840106300,
+    "name": "Spore Proliferation",
+    "desc": "Fires 2 additional waves of spore bombs and prioritizes low-HP targets.",
+    "kind": "skill"
+   }
+  ],
+  "passives": [],
+  "icon": "icons/Icons/HeadIcon/Icon_Head_840126.png"
+ },
+ {
+  "id": 840101,
+  "name": "Crab Emperor",
+  "unit_name": "Crab Emperor",
+  "rarity": "A",
+  "rarity_name": "Epic",
+  "quality": 3,
+  "race": "-",
+  "role": "-",
+  "cost": 1,
+  "max_level": 50,
+  "hp": 30000,
+  "atk": 4780,
+  "defense": 1000,
+  "atk_speed": 100,
+  "atk_range": 1,
+  "move_speed": 5,
+  "crit_dmg": 15000,
+  "mp_regen": 20,
+  "skills": [
+   {
+    "id": 840101100,
+    "name": "Shell Up",
+    "desc": "Retracts into its shell, gaining a massive shield and dealing AoE damage to nearby enemies.",
+    "kind": "skill"
+   },
+   {
+    "id": 840101200,
+    "name": "Defense Up",
+    "desc": "While Shelled Up, continuously gains bonus ATK and DEF.",
+    "kind": "skill"
+   },
+   {
+    "id": 840101300,
+    "name": "Crab Legion",
+    "desc": "Summons 1 small crab.",
+    "kind": "skill"
+   }
+  ],
+  "passives": [],
+  "icon": "icons/Icons/HeadIcon/Icon_Head_840111.png"
+ },
+ {
+  "id": 831201,
+  "name": "Crab King",
+  "unit_name": "Crab King",
+  "rarity": "A",
+  "rarity_name": "Epic",
+  "quality": 3,
+  "race": "-",
+  "role": "-",
+  "cost": 1,
+  "max_level": 50,
+  "hp": 144000,
+  "atk": 2900,
+  "defense": 300,
+  "atk_speed": 100,
+  "atk_range": 1,
+  "move_speed": 5,
+  "crit_dmg": 15000,
+  "mp_regen": 20,
+  "skills": [
+   {
+    "id": 830201100,
+    "name": "Shell Up",
+    "desc": "Retracts into its shell, gaining a massive shield and dealing AoE damage to nearby enemies.",
+    "kind": "skill"
+   }
+  ],
+  "passives": [
+   {
+    "id": 830201400,
+    "name": "",
+    "desc": "Gain a shield equal to 200% of ATK power every 5s",
+    "kind": "effect"
+   },
+   {
+    "id": 830201300,
+    "name": "Anti-injury force field",
+    "desc": "While the shield exists, releases seismic waves from itself every s, dealing 50% ATK power DMG to all enemies",
+    "kind": "skill"
+   }
+  ],
+  "icon": "icons/Icons/HeadIcon/Icon_Head_830201.png"
+ },
+ {
+  "id": 190301,
+  "name": "Darkflame Dragonlord·Serregos",
+  "unit_name": "Darkflame Dragonlord·Serregos",
+  "rarity": "A",
+  "rarity_name": "Epic",
+  "quality": 3,
+  "race": "-",
+  "role": "-",
+  "cost": 1,
+  "max_level": 50,
+  "hp": 30000,
+  "atk": 4780,
+  "defense": 1000,
+  "atk_speed": 100,
+  "atk_range": 1,
+  "move_speed": 5,
+  "crit_dmg": 15000,
+  "mp_regen": 20,
+  "skills": [
+   {
+    "id": 190301100,
+    "name": "Weakness Curse",
+    "desc": "Curses all enemies, dealing heavy damage and reducing their ATK",
+    "kind": "skill"
+   },
+   {
+    "id": 190301200,
+    "name": "Eternal Nightmare",
+    "desc": "Applies Permanent Curse to the frontmost enemy, dealing damage every second and transferring to another target when the target dies",
+    "kind": "skill"
+   },
+   {
+    "id": 190301300,
+    "name": "Death Curse",
+    "desc": "Defeated enemies turn into a pool of black water, damaging enemies that touch it",
+    "kind": "skill"
+   }
+  ],
+  "passives": [],
+  "icon": "icons/Icons/HeadIcon/Icon_Head_190301.png"
+ },
+ {
+  "id": 840105,
+  "name": "Deep Sea Fiend-Arm",
+  "unit_name": "Deep Sea Fiend-Arm",
+  "rarity": "A",
+  "rarity_name": "Epic",
+  "quality": 3,
+  "race": "-",
+  "role": "-",
+  "cost": 1,
+  "max_level": 50,
+  "hp": 60000,
+  "atk": 4780,
+  "defense": 1000,
+  "atk_speed": 100,
+  "atk_range": 10,
+  "move_speed": 0,
+  "crit_dmg": 15000,
+  "mp_regen": 20,
+  "skills": [
+   {
+    "id": 840105200,
+    "name": "Tentacle Smash",
+    "desc": "Commands all tentacles on the battlefield to unleash a furious assault.",
+    "kind": "skill"
+   },
+   {
+    "id": 840105300,
+    "name": "Vengeance",
+    "desc": "The Abyssal Arm continuously summons Octopus Legs. When a leg is killed, it launches a vengeful counterattack.",
+    "kind": "skill"
+   },
+   {
+    "id": 840105301,
+    "name": "Hardened Hide",
+    "desc": "Octopus Legs have Hardened Hide and negate 10 instances of damage.",
+    "kind": "skill"
+   }
+  ],
+  "passives": [],
+  "icon": "icons/Icons/HeadIcon/Icon_Head_840115.png"
+ },
+ {
+  "id": 840115,
+  "name": "Deep Sea Touch",
+  "unit_name": "Deep Sea Touch",
+  "rarity": "A",
+  "rarity_name": "Epic",
+  "quality": 3,
+  "race": "-",
+  "role": "-",
+  "cost": 1,
+  "max_level": 50,
+  "hp": 60000,
+  "atk": 4780,
+  "defense": 1000,
+  "atk_speed": 100,
+  "atk_range": 10,
+  "move_speed": 0,
+  "crit_dmg": 15000,
+  "mp_regen": 20,
+  "skills": [
+   {
+    "id": 840115100,
+    "name": "Attacked by the tide",
+    "desc": "Deals damage to one enemy 4 times; with each hit, also commands tentacles to attack the enemy once, dealing damage.",
+    "kind": "skill"
+   },
+   {
+    "id": 840115200,
+    "name": "tidal erosion",
+    "desc": "Every 8 seconds, deals damage to targets within 1 tile around, dealing damage every second for 3S; when it ends, it knocks back enemies within 1 tile around.",
+    "kind": "skill"
+   },
+   {
+    "id": 840115300,
+    "name": "Tentacles breed",
+    "desc": "Summons 1 octopus legs every 6 seconds to attack the people around 1 squares on the field, causing 70% Attack DMG and knockback. After the octopus legs are knocked out, the BOSS deducts 10% of the maximum health. Each octopus leg has its own defense and attack power increased by 10%.",
+    "kind": "skill"
+   }
+  ],
+  "passives": [],
+  "icon": "icons/Icons/HeadIcon/Icon_Head_840105.png"
+ },
+ {
+  "id": 840107,
+  "name": "Deepsea Shadow",
+  "unit_name": "Deepsea Shadow",
+  "rarity": "A",
+  "rarity_name": "Epic",
+  "quality": 3,
+  "race": "-",
+  "role": "-",
+  "cost": 1,
+  "max_level": 50,
+  "hp": 30000,
+  "atk": 4780,
+  "defense": 1000,
+  "atk_speed": 100,
+  "atk_range": 4,
+  "move_speed": 5,
+  "crit_dmg": 15000,
+  "mp_regen": 20,
+  "skills": [
+   {
+    "id": 840107100,
+    "name": "Shadow Water Bolt",
+    "desc": "Fires 2 ricocheting water bolts.",
+    "kind": "skill"
+   },
+   {
+    "id": 840107200,
+    "name": "Shadow Twin",
+    "desc": "Splits off 1 Juvenile Abyssal Shadow. If it is not healed enough, it explodes for massive damage; otherwise, it aids the heroes in attacking the adult shadow.",
+    "kind": "skill"
+   },
+   {
+    "id": 840107300,
+    "name": "Abyssal Toxic Mist",
+    "desc": "Unleashes toxic mist across the battlefield, damaging all enemies and inflicting Poison.",
+    "kind": "skill"
+   }
+  ],
+  "passives": [],
+  "icon": "icons/Icons/HeadIcon/Icon_Head_840107.png"
+ },
+ {
+  "id": 190101,
+  "name": "Demonic Ancient Tree Urosax",
+  "unit_name": "Demonic Ancient Tree Urosax",
+  "rarity": "A",
+  "rarity_name": "Epic",
+  "quality": 3,
+  "race": "-",
+  "role": "-",
+  "cost": 1,
+  "max_level": 50,
+  "hp": 30000,
+  "atk": 4780,
+  "defense": 1000,
+  "atk_speed": 100,
+  "atk_range": 1,
+  "move_speed": 5,
+  "crit_dmg": 15000,
+  "mp_regen": 20,
+  "skills": [
+   {
+    "id": 190101100,
+    "name": "Summon Treant",
+    "desc": "Summons 4 Demonic Treants",
+    "kind": "skill"
+   },
+   {
+    "id": 190101200,
+    "name": "Earth Nourishment",
+    "desc": "Restores a large amount of HP to all Treants",
+    "kind": "skill"
+   },
+   {
+    "id": 190101300,
+    "name": "Return to Spring Soil",
+    "desc": "Whenever the Ancient Tree loses a certain amount of HP, summons one Demonic Treant",
+    "kind": "skill"
+   }
+  ],
+  "passives": [],
+  "icon": "icons/Icons/HeadIcon/Icon_Head_190101.png"
+ },
+ {
+  "id": 840128,
+  "name": "Demonic Eye of the End",
+  "unit_name": "Demonic Eye of the End",
+  "rarity": "A",
+  "rarity_name": "Epic",
+  "quality": 3,
+  "race": "-",
+  "role": "-",
+  "cost": 1,
+  "max_level": 50,
+  "hp": 60000,
+  "atk": 4780,
+  "defense": 1000,
+  "atk_speed": 100,
+  "atk_range": 8,
+  "move_speed": 0,
+  "crit_dmg": 15000,
+  "mp_regen": 20,
+  "skills": [
+   {
+    "id": 840108100,
+    "name": "Ion Ray",
+    "desc": "Deals damage to 3 random targets.",
+    "kind": "skill"
+   },
+   {
+    "id": 840108200,
+    "name": "Disintegration Ray",
+    "desc": "Fires 1 laser beam whose damage ramps up with channel time. Interrupt it!",
+    "kind": "skill"
+   },
+   {
+    "id": 840108300,
+    "name": "Soul Siphon",
+    "desc": "The Eye of the Rift's attacks have powerful lifesteal.",
+    "kind": "skill"
+   }
+  ],
+  "passives": [],
+  "icon": "icons/Icons/HeadIcon/Icon_Head_840128.png"
+ },
+ {
+  "id": 840127,
+  "name": "Dread of the Dark Sea",
+  "unit_name": "Dread of the Dark Sea",
+  "rarity": "A",
+  "rarity_name": "Epic",
+  "quality": 3,
+  "race": "-",
+  "role": "-",
+  "cost": 1,
+  "max_level": 50,
+  "hp": 30000,
+  "atk": 4780,
+  "defense": 1000,
+  "atk_speed": 100,
+  "atk_range": 4,
+  "move_speed": 5,
+  "crit_dmg": 15000,
+  "mp_regen": 20,
+  "skills": [
+   {
+    "id": 840107100,
+    "name": "Shadow Water Bolt",
+    "desc": "Fires 2 ricocheting water bolts.",
+    "kind": "skill"
+   },
+   {
+    "id": 840107200,
+    "name": "Shadow Twin",
+    "desc": "Splits off 1 Juvenile Abyssal Shadow. If it is not healed enough, it explodes for massive damage; otherwise, it aids the heroes in attacking the adult shadow.",
+    "kind": "skill"
+   },
+   {
+    "id": 840107300,
+    "name": "Abyssal Toxic Mist",
+    "desc": "Unleashes toxic mist across the battlefield, damaging all enemies and inflicting Poison.",
+    "kind": "skill"
+   }
+  ],
+  "passives": [],
+  "icon": "icons/Icons/HeadIcon/Icon_Head_840127.png"
+ },
+ {
+  "id": 840108,
+  "name": "Eye of the Rift",
+  "unit_name": "Eye of the Rift",
+  "rarity": "A",
+  "rarity_name": "Epic",
+  "quality": 3,
+  "race": "-",
+  "role": "-",
+  "cost": 1,
+  "max_level": 50,
+  "hp": 60000,
+  "atk": 4780,
+  "defense": 1000,
+  "atk_speed": 100,
+  "atk_range": 8,
+  "move_speed": 0,
+  "crit_dmg": 15000,
+  "mp_regen": 20,
+  "skills": [
+   {
+    "id": 840108100,
+    "name": "Ion Ray",
+    "desc": "Deals damage to 3 random targets.",
+    "kind": "skill"
+   },
+   {
+    "id": 840108200,
+    "name": "Disintegration Ray",
+    "desc": "Fires 1 laser beam whose damage ramps up with channel time. Interrupt it!",
+    "kind": "skill"
+   },
+   {
+    "id": 840108300,
+    "name": "Soul Siphon",
+    "desc": "The Eye of the Rift's attacks have powerful lifesteal.",
+    "kind": "skill"
+   }
+  ],
+  "passives": [],
+  "icon": "icons/Icons/HeadIcon/Icon_Head_840108.png"
+ },
+ {
+  "id": 840118,
+  "name": "Eye of the Void",
+  "unit_name": "Eye of the Void",
+  "rarity": "A",
+  "rarity_name": "Epic",
+  "quality": 3,
+  "race": "-",
+  "role": "-",
+  "cost": 1,
+  "max_level": 50,
+  "hp": 60000,
+  "atk": 4780,
+  "defense": 1000,
+  "atk_speed": 100,
+  "atk_range": 4,
+  "move_speed": 0,
+  "crit_dmg": 15000,
+  "mp_regen": 20,
+  "skills": [
+   {
+    "id": 840108100,
+    "name": "Ion Ray",
+    "desc": "Deals damage to 3 random targets.",
+    "kind": "skill"
+   },
+   {
+    "id": 840108200,
+    "name": "Disintegration Ray",
+    "desc": "Fires 1 laser beam whose damage ramps up with channel time. Interrupt it!",
+    "kind": "skill"
+   },
+   {
+    "id": 840108300,
+    "name": "Soul Siphon",
+    "desc": "The Eye of the Rift's attacks have powerful lifesteal.",
+    "kind": "skill"
+   }
+  ],
+  "passives": [],
+  "icon": "icons/Icons/HeadIcon/Icon_Head_840108.png"
+ },
+ {
+  "id": 810204,
+  "name": "Giant Spider",
+  "unit_name": "Giant Spider",
+  "rarity": "A",
+  "rarity_name": "Epic",
+  "quality": 3,
+  "race": "-",
+  "role": "-",
+  "cost": 1,
+  "max_level": 50,
+  "hp": 15000,
+  "atk": 3250,
+  "defense": 1000,
+  "atk_speed": 100,
+  "atk_range": 1,
+  "move_speed": 5,
+  "crit_dmg": 15000,
+  "mp_regen": 20,
+  "skills": [
+   {
+    "id": 810204100,
+    "name": "Parasite Spider",
+    "desc": "Parasites all enemies, when a parasitized enemy is killed, hatches 3 small spiders",
+    "kind": "skill"
+   }
+  ],
+  "passives": [
+   {
+    "id": 810204200,
+    "name": "Spider Explosive Egg",
+    "desc": "Every 2s, hatches 1 small spider on field, inheriting 20% ATK, 100% defense, 5% HP from Giant Spider",
+    "kind": "skill"
+   },
+   {
+    "id": 810204300,
+    "name": "Mind of the Swarm",
+    "desc": "Small spiders restore 1% of the Spider King's max HP when attacking",
+    "kind": "skill"
+   }
+  ],
+  "icon": "icons/Icons/HeadIcon/Icon_Head_810204.png"
+ },
+ {
+  "id": 840125,
+  "name": "Giant-Armed Fiend",
+  "unit_name": "Giant-Armed Fiend",
+  "rarity": "A",
+  "rarity_name": "Epic",
+  "quality": 3,
+  "race": "-",
+  "role": "-",
+  "cost": 1,
+  "max_level": 50,
+  "hp": 60000,
+  "atk": 4780,
+  "defense": 1000,
+  "atk_speed": 100,
+  "atk_range": 10,
+  "move_speed": 0,
+  "crit_dmg": 15000,
+  "mp_regen": 20,
+  "skills": [
+   {
+    "id": 840105200,
+    "name": "Tentacle Smash",
+    "desc": "Commands all tentacles on the battlefield to unleash a furious assault.",
+    "kind": "skill"
+   },
+   {
+    "id": 840125300,
+    "name": "Vengeance",
+    "desc": "The Abyssal Arm continuously summons Octopus Legs. When a leg is killed, it launches a vengeful counterattack.",
+    "kind": "skill"
+   },
+   {
+    "id": 840125301,
+    "name": "Hardened Hide",
+    "desc": "Octopus Legs have Hardened Hide and negate 10 instances of damage.",
+    "kind": "skill"
+   }
+  ],
+  "passives": [],
+  "icon": "icons/Icons/HeadIcon/Icon_Head_840125.png"
+ },
+ {
+  "id": 840111,
+  "name": "Hard-Shell Crab Emperor",
+  "unit_name": "Hard-Shell Crab Emperor",
+  "rarity": "A",
+  "rarity_name": "Epic",
+  "quality": 3,
+  "race": "-",
+  "role": "-",
+  "cost": 1,
+  "max_level": 50,
+  "hp": 30000,
+  "atk": 4780,
+  "defense": 1000,
+  "atk_speed": 100,
+  "atk_range": 1,
+  "move_speed": 5,
+  "crit_dmg": 15000,
+  "mp_regen": 20,
+  "skills": [
+   {
+    "id": 840111100,
+    "name": "Shock iron shell",
+    "desc": "Every 8s, retracts into shell: gains a shield equal to 5% Max HP and deals 90% ATK DMG to surroundings every second for 3s.",
+    "kind": "skill"
+   },
+   {
+    "id": 840111200,
+    "name": "Barbed Shell Armor",
+    "desc": "Every 5 seconds, gain a shield of 15% of the maximum health, and be attacked by melee, causing the melee to be DMGd by 35% of the attack power.",
+    "kind": "skill"
+   },
+   {
+    "id": 840111300,
+    "name": "Fury in the Shell",
+    "desc": "When equipped with a shield, gain 10% DMG bonus every second",
+    "kind": "skill"
+   }
+  ],
+  "passives": [],
+  "icon": "icons/Icons/HeadIcon/Icon_Head_840101.png"
+ },
+ {
+  "id": 840124,
+  "name": "Hive Tyrant",
+  "unit_name": "Hive Tyrant",
+  "rarity": "A",
+  "rarity_name": "Epic",
+  "quality": 3,
+  "race": "-",
+  "role": "-",
+  "cost": 1,
+  "max_level": 50,
+  "hp": 30000,
+  "atk": 4780,
+  "defense": 1000,
+  "atk_speed": 100,
+  "atk_range": 1,
+  "move_speed": 5,
+  "crit_dmg": 15000,
+  "mp_regen": 0,
+  "skills": [
+   {
+    "id": 840104100,
+    "name": "Triple Strike",
+    "desc": "Unleashes 3 rapid stabs on a single target, dealing massive damage.",
+    "kind": "skill"
+   },
+   {
+    "id": 840104200,
+    "name": "Killing Intent",
+    "desc": "Killing a unit resets Triple Strike's cooldown and adds 1 extra stab.",
+    "kind": "skill"
+   },
+   {
+    "id": 840104300,
+    "name": "Shadow Bee Slayer",
+    "desc": "Summons afterimages to relentlessly slash the hero with the lowest HP.",
+    "kind": "skill"
+   }
+  ],
+  "passives": [],
+  "icon": "icons/Icons/HeadIcon/Icon_Head_840124.png"
+ },
+ {
+  "id": 191101,
+  "name": "Igris",
+  "unit_name": "Igris",
+  "rarity": "A",
+  "rarity_name": "Epic",
+  "quality": 3,
+  "race": "-",
+  "role": "-",
+  "cost": 1,
+  "max_level": 50,
+  "hp": 30000,
+  "atk": 4780,
+  "defense": 1000,
+  "atk_speed": 100,
+  "atk_range": 4,
+  "move_speed": 0,
+  "crit_dmg": 15000,
+  "mp_regen": 20,
+  "skills": [
+   {
+    "id": 191101100,
+    "name": "Detonate Ember",
+    "desc": "Unleashes dragonflame to attack all enemies; enemies affected by Burn are guaranteed to take critical hits",
+    "kind": "skill"
+   },
+   {
+    "id": 191101200,
+    "name": "Dragonflame Impact",
+    "desc": "Deals 3 hits of damage to all enemies and knocks them back, with a chance to inflict Burn",
+    "kind": "skill"
+   },
+   {
+    "id": 191101300,
+    "name": "Dragonflame Domain",
+    "desc": "Ignites the entire battlefield, dealing continuous damage to all enemies and having a chance to burn them",
+    "kind": "skill"
+   }
+  ],
+  "passives": [],
+  "icon": "icons/Icons/HeadIcon/Icon_Head_191101.png"
+ },
+ {
+  "id": 8102041,
+  "name": "Little Spider",
+  "unit_name": "Little Spider",
+  "rarity": "A",
+  "rarity_name": "Epic",
+  "quality": 3,
+  "race": "-",
+  "role": "-",
+  "cost": 1,
+  "max_level": 50,
+  "hp": 15000,
+  "atk": 3250,
+  "defense": 1000,
+  "atk_speed": 100,
+  "atk_range": 1,
+  "move_speed": 5,
+  "crit_dmg": 15000,
+  "mp_regen": 20,
+  "skills": [],
+  "passives": [],
+  "icon": null
+ },
+ {
+  "id": 8401031,
+  "name": "Mini-slime",
+  "unit_name": "Mini-slime",
+  "rarity": "A",
+  "rarity_name": "Epic",
+  "quality": 3,
+  "race": "-",
+  "role": "-",
+  "cost": 1,
+  "max_level": 50,
+  "hp": 30000,
+  "atk": 4780,
+  "defense": 1000,
+  "atk_speed": 100,
+  "atk_range": 1,
+  "move_speed": 5,
+  "crit_dmg": 15000,
+  "mp_regen": 20,
+  "skills": [
+   {
+    "id": 840103500,
+    "name": "Slime Shock",
+    "desc": "Deals 120% ATK as DMG to surrounding enemies.",
+    "kind": "skill"
+   },
+   {
+    "id": 840103700,
+    "name": "Slime Explosion",
+    "desc": "Upon death, deals damage to nearby enemies equal to 5% of their current HP",
+    "kind": "skill"
+   }
+  ],
+  "passives": [],
+  "icon": null
+ },
+ {
+  "id": 820222,
+  "name": "Mountain Titan",
+  "unit_name": "Mountain Titan",
+  "rarity": "A",
+  "rarity_name": "Epic",
+  "quality": 3,
+  "race": "-",
+  "role": "-",
+  "cost": 1,
+  "max_level": 50,
+  "hp": 30000,
+  "atk": 4780,
+  "defense": 1000,
+  "atk_speed": 100,
+  "atk_range": 1,
+  "move_speed": 5,
+  "crit_dmg": 15000,
+  "mp_regen": 20,
+  "skills": [
+   {
+    "id": 820202100,
+    "name": "Seismic Wave",
+    "desc": "Deals massive damage to all enemies and inflicts Stun.",
+    "kind": "skill"
+   },
+   {
+    "id": 820202300,
+    "name": "Petrified Skin",
+    "desc": "Hardens its skin, negating 100 instances of damage.",
+    "kind": "skill"
+   },
+   {
+    "id": 820202200,
+    "name": "Fortified Defense",
+    "desc": "Each enemy hit by Seismic Wave increases its own DEF.",
+    "kind": "skill"
+   }
+  ],
+  "passives": [],
+  "icon": "icons/Icons/HeadIcon/Icon_Head_820222.png"
+ },
+ {
+  "id": 831204,
+  "name": "Octopus King",
+  "unit_name": "Octopus King",
+  "rarity": "A",
+  "rarity_name": "Epic",
+  "quality": 3,
+  "race": "-",
+  "role": "-",
+  "cost": 1,
+  "max_level": 50,
+  "hp": 144000,
+  "atk": 2900,
+  "defense": 300,
+  "atk_speed": 100,
+  "atk_range": 4,
+  "move_speed": 5,
+  "crit_dmg": 15000,
+  "mp_regen": 20,
+  "skills": [
+   {
+    "id": 830204100,
+    "name": "Ink Blast",
+    "desc": "Targets the unit with the highest ATK with an area attack, reducing Accuracy and Attack Speed.",
+    "kind": "skill"
+   }
+  ],
+  "passives": [
+   {
+    "id": 830204200,
+    "name": "Vengeance",
+    "desc": "Continuously summons Octopus Legs. When one is killed, it unleashes a vengeful counterattack.",
+    "kind": "skill"
+   },
+   {
+    "id": 830204501,
+    "name": "",
+    "desc": "Every 6s, after an initial 3s, summons 1 tentacle that inherits 20% of ATK, deals 70% dmg per s and knocks back. The tentacle is invincible but cannot move, and only exists for 20s.",
+    "kind": "effect"
+   }
+  ],
+  "icon": "icons/Icons/HeadIcon/Icon_Head_830204.png"
+ },
+ {
+  "id": 811202,
+  "name": "Pig Overlord",
+  "unit_name": "Pig Overlord",
+  "rarity": "A",
+  "rarity_name": "Epic",
+  "quality": 3,
+  "race": "-",
+  "role": "-",
+  "cost": 1,
+  "max_level": 50,
+  "hp": 144000,
+  "atk": 2900,
+  "defense": 300,
+  "atk_speed": 100,
+  "atk_range": 1,
+  "move_speed": 5,
+  "crit_dmg": 15000,
+  "mp_regen": 20,
+  "skills": [
+   {
+    "id": 810202100,
+    "name": "Bloodthirsty Charge",
+    "desc": "Charges the unit with the lowest HP.",
+    "kind": "skill"
+   }
+  ],
+  "passives": [
+   {
+    "id": 810202200,
+    "name": "Rising Valor",
+    "desc": "Each kill instantly resets Bloodthirsty Charge's cooldown.",
+    "kind": "skill"
+   },
+   {
+    "id": 810202400,
+    "name": "",
+    "desc": "Reduce skill cooldown by 10% every 5s, up to a max red. of 0",
+    "kind": "effect"
+   }
+  ],
+  "icon": "icons/Icons/HeadIcon/Icon_Head_810202.png"
+ },
+ {
+  "id": 821204,
+  "name": "Poison Bug King",
+  "unit_name": "Poison Bug King",
+  "rarity": "A",
+  "rarity_name": "Epic",
+  "quality": 3,
+  "race": "-",
+  "role": "-",
+  "cost": 1,
+  "max_level": 50,
+  "hp": 144000,
+  "atk": 2900,
+  "defense": 300,
+  "atk_speed": 100,
+  "atk_range": 4,
+  "move_speed": 5,
+  "crit_dmg": 15000,
+  "mp_regen": 20,
+  "skills": [
+   {
+    "id": 820204100,
+    "name": "Poison Mist",
+    "desc": "Every 8s, releases poison mist across the battlefield dealing 270% ATK power DMG and inflicting poison, dealing 1% max HP DMG per s, can stack infinitely until the end of the battle",
+    "kind": "skill"
+   }
+  ],
+  "passives": [
+   {
+    "id": 820204200,
+    "name": "The plague comes back",
+    "desc": "When hit, there is a 33% chance to poison the attacker, stacks infinitely",
+    "kind": "skill"
+   },
+   {
+    "id": 820204400,
+    "name": "",
+    "desc": "Detonate poison every 10s, each stack deals 10% ATK dmg",
+    "kind": "effect"
+   }
+  ],
+  "icon": "icons/Icons/HeadIcon/Icon_Head_820204.png"
+ },
+ {
+  "id": 190201,
+  "name": "Rift King·Magthosen",
+  "unit_name": "Rift King·Magthosen",
+  "rarity": "A",
+  "rarity_name": "Epic",
+  "quality": 3,
+  "race": "-",
+  "role": "-",
+  "cost": 1,
+  "max_level": 50,
+  "hp": 30000,
+  "atk": 4780,
+  "defense": 1000,
+  "atk_speed": 100,
+  "atk_range": 1,
+  "move_speed": 5,
+  "crit_dmg": 15000,
+  "mp_regen": 20,
+  "skills": [
+   {
+    "id": 190201100,
+    "name": "Bloodthirsty Leap Slash",
+    "desc": "Leaps toward the farthest enemy, dealing massive damage and executing targets below half HP",
+    "kind": "skill"
+   },
+   {
+    "id": 190201200,
+    "name": "Counter Storm",
+    "desc": "When attacked, has a chance to release Counter Storm, dealing heavy damage around itself",
+    "kind": "skill"
+   },
+   {
+    "id": 190201300,
+    "name": "Life Drain",
+    "desc": "Killing enemies restores own HP and energy",
+    "kind": "skill"
+   }
+  ],
+  "passives": [],
+  "icon": "icons/Icons/HeadIcon/Icon_Head_190201.png"
+ },
+ {
+  "id": 820212,
+  "name": "Rocksolid Giant",
+  "unit_name": "Rocksolid Giant",
+  "rarity": "A",
+  "rarity_name": "Epic",
+  "quality": 3,
+  "race": "-",
+  "role": "-",
+  "cost": 1,
+  "max_level": 50,
+  "hp": 30000,
+  "atk": 4780,
+  "defense": 1000,
+  "atk_speed": 100,
+  "atk_range": 1,
+  "move_speed": 5,
+  "crit_dmg": 15000,
+  "mp_regen": 20,
+  "skills": [
+   {
+    "id": 820202100,
+    "name": "Seismic Wave",
+    "desc": "Deals massive damage to all enemies and inflicts Stun.",
+    "kind": "skill"
+   },
+   {
+    "id": 820212200,
+    "name": "concussive shock",
+    "desc": "Every 5S, it will cause DMG equal to 230% of the attack power to the surrounding enemies one square, and knock them back one square.",
+    "kind": "skill"
+   },
+   {
+    "id": 820212300,
+    "name": "Rock Shield Guardian",
+    "desc": "Gain 80% DMG reduction. After being attacked 100 times, the DMG taken by yourself will increase by 100%.",
+    "kind": "skill"
+   }
+  ],
+  "passives": [],
+  "icon": "icons/Icons/HeadIcon/Icon_Head_840102.png"
+ },
+ {
+  "id": 840121,
+  "name": "Sea-Splitting Crab Emperor",
+  "unit_name": "Sea-Splitting Crab Emperor",
+  "rarity": "A",
+  "rarity_name": "Epic",
+  "quality": 3,
+  "race": "-",
+  "role": "-",
+  "cost": 1,
+  "max_level": 50,
+  "hp": 30000,
+  "atk": 4780,
+  "defense": 1000,
+  "atk_speed": 100,
+  "atk_range": 1,
+  "move_speed": 5,
+  "crit_dmg": 15000,
+  "mp_regen": 20,
+  "skills": [
+   {
+    "id": 840101100,
+    "name": "Shell Up",
+    "desc": "Retracts into its shell, gaining a massive shield and dealing AoE damage to nearby enemies.",
+    "kind": "skill"
+   },
+   {
+    "id": 840101200,
+    "name": "Defense Up",
+    "desc": "While Shelled Up, continuously gains bonus ATK and DEF.",
+    "kind": "skill"
+   },
+   {
+    "id": 840101300,
+    "name": "Crab Legion",
+    "desc": "Summons 1 small crab.",
+    "kind": "skill"
+   }
+  ],
+  "passives": [],
+  "icon": "icons/Icons/HeadIcon/Icon_Head_840121.png"
+ },
+ {
+  "id": 840113,
+  "name": "Shapeshifting Queen",
+  "unit_name": "Shapeshifting Queen",
+  "rarity": "A",
+  "rarity_name": "Epic",
+  "quality": 3,
+  "race": "-",
+  "role": "-",
+  "cost": 1,
+  "max_level": 50,
+  "hp": 30000,
+  "atk": 4780,
+  "defense": 1000,
+  "atk_speed": 100,
+  "atk_range": 4,
+  "move_speed": 5,
+  "crit_dmg": 15000,
+  "mp_regen": 20,
+  "skills": [
+   {
+    "id": 840113100,
+    "name": "Slime Ball Summon",
+    "desc": "Every 6s, throws a slime ball at enemies dealing 180% ATK as AoE DMG, marking them to take 10% more DMG, and summons a Slime.",
+    "kind": "skill"
+   },
+   {
+    "id": 840113200,
+    "name": "Slime Split",
+    "desc": "Splits into 5 small Slimes upon death.",
+    "kind": "skill"
+   },
+   {
+    "id": 840113300,
+    "name": "Slime Explosion",
+    "desc": "Upon death, deals damage to all enemies equal to 25% of their current HP",
+    "kind": "skill"
+   }
+  ],
+  "passives": [],
+  "icon": "icons/Icons/HeadIcon/Icon_Head_840103.png"
+ },
+ {
+  "id": 8202021,
+  "name": "Shield-Breaking Stone Giant",
+  "unit_name": "Shield-Breaking Stone Giant",
+  "rarity": "A",
+  "rarity_name": "Epic",
+  "quality": 3,
+  "race": "-",
+  "role": "-",
+  "cost": 1,
+  "max_level": 50,
+  "hp": 30000,
+  "atk": 4780,
+  "defense": 1000,
+  "atk_speed": 100,
+  "atk_range": 1,
+  "move_speed": 5,
+  "crit_dmg": 15000,
+  "mp_regen": 20,
+  "skills": [
+   {
+    "id": 820202100,
+    "name": "Seismic Wave",
+    "desc": "Deals massive damage to all enemies and inflicts Stun.",
+    "kind": "skill"
+   },
+   {
+    "id": 820202300,
+    "name": "Petrified Skin",
+    "desc": "Hardens its skin, negating 100 instances of damage.",
+    "kind": "skill"
+   },
+   {
+    "id": 820202200,
+    "name": "Fortified Defense",
+    "desc": "Each enemy hit by Seismic Wave increases its own DEF.",
+    "kind": "skill"
+   }
+  ],
+  "passives": [],
+  "icon": "icons/Icons/HeadIcon/Icon_Head_820202.png"
+ },
+ {
+  "id": 8202121,
+  "name": "Shield-Breaking Stone Giant",
+  "unit_name": "Shield-Breaking Stone Giant",
+  "rarity": "A",
+  "rarity_name": "Epic",
+  "quality": 3,
+  "race": "-",
+  "role": "-",
+  "cost": 1,
+  "max_level": 50,
+  "hp": 30000,
+  "atk": 4780,
+  "defense": 1000,
+  "atk_speed": 100,
+  "atk_range": 1,
+  "move_speed": 5,
+  "crit_dmg": 15000,
+  "mp_regen": 20,
+  "skills": [
+   {
+    "id": 820202100,
+    "name": "Seismic Wave",
+    "desc": "Deals massive damage to all enemies and inflicts Stun.",
+    "kind": "skill"
+   },
+   {
+    "id": 820212200,
+    "name": "concussive shock",
+    "desc": "Every 5S, it will cause DMG equal to 230% of the attack power to the surrounding enemies one square, and knock them back one square.",
+    "kind": "skill"
+   },
+   {
+    "id": 820212300,
+    "name": "Rock Shield Guardian",
+    "desc": "Gain 80% DMG reduction. After being attacked 100 times, the DMG taken by yourself will increase by 100%.",
+    "kind": "skill"
+   }
+  ],
+  "passives": [],
+  "icon": "icons/Icons/HeadIcon/Icon_Head_840102.png"
+ },
+ {
+  "id": 840103,
+  "name": "Slime Queen",
+  "unit_name": "Slime Queen",
+  "rarity": "A",
+  "rarity_name": "Epic",
+  "quality": 3,
+  "race": "-",
+  "role": "-",
+  "cost": 1,
+  "max_level": 50,
+  "hp": 30000,
+  "atk": 4780,
+  "defense": 1000,
+  "atk_speed": 100,
+  "atk_range": 4,
+  "move_speed": 5,
+  "crit_dmg": 15000,
+  "mp_regen": 20,
+  "skills": [
+   {
+    "id": 840103100,
+    "name": "Devour",
+    "desc": "Hurls a slime glob to engulf 1 target, prioritizing summoned units.",
+    "kind": "skill"
+   },
+   {
+    "id": 840103200,
+    "name": "Split",
+    "desc": "On death, splits into numerous small slimes.",
+    "kind": "skill"
+   },
+   {
+    "id": 840103300,
+    "name": "Regeneration",
+    "desc": "Continuously restores HP; healing scales with channel time.",
+    "kind": "skill"
+   },
+   {
+    "id": 840103301,
+    "name": "Regeneration",
+    "desc": "",
+    "kind": "skill"
+   }
+  ],
+  "passives": [],
+  "icon": "icons/Icons/HeadIcon/Icon_Head_840113.png"
+ },
+ {
+  "id": 820202,
+  "name": "Stone Giant",
+  "unit_name": "Stone Giant",
+  "rarity": "A",
+  "rarity_name": "Epic",
+  "quality": 3,
+  "race": "-",
+  "role": "-",
+  "cost": 1,
+  "max_level": 50,
+  "hp": 30000,
+  "atk": 4780,
+  "defense": 1000,
+  "atk_speed": 100,
+  "atk_range": 1,
+  "move_speed": 5,
+  "crit_dmg": 15000,
+  "mp_regen": 20,
+  "skills": [
+   {
+    "id": 820202100,
+    "name": "Seismic Wave",
+    "desc": "Deals massive damage to all enemies and inflicts Stun.",
+    "kind": "skill"
+   },
+   {
+    "id": 820202300,
+    "name": "Petrified Skin",
+    "desc": "Hardens its skin, negating 100 instances of damage.",
+    "kind": "skill"
+   },
+   {
+    "id": 820202200,
+    "name": "Fortified Defense",
+    "desc": "Each enemy hit by Seismic Wave increases its own DEF.",
+    "kind": "skill"
+   }
+  ],
+  "passives": [],
+  "icon": "icons/Icons/HeadIcon/Icon_Head_840112.png"
+ },
+ {
+  "id": 840116,
+  "name": "Toxic Spore Mushroom King",
+  "unit_name": "Toxic Spore Mushroom King",
+  "rarity": "A",
+  "rarity_name": "Epic",
+  "quality": 3,
+  "race": "-",
+  "role": "-",
+  "cost": 1,
+  "max_level": 50,
+  "hp": 30000,
+  "atk": 4780,
+  "defense": 1000,
+  "atk_speed": 100,
+  "atk_range": 1,
+  "move_speed": 5,
+  "crit_dmg": 15000,
+  "mp_regen": 20,
+  "skills": [
+   {
+    "id": 840106100,
+    "name": "Spore Burst",
+    "desc": "Fires spore bombs at 3 random targets.",
+    "kind": "skill"
+   },
+   {
+    "id": 840106200,
+    "name": "Frenzied Regeneration",
+    "desc": "Continuously restores a large amount of HP.",
+    "kind": "skill"
+   },
+   {
+    "id": 840106300,
+    "name": "Spore Proliferation",
+    "desc": "Fires 2 additional waves of spore bombs and prioritizes low-HP targets.",
+    "kind": "skill"
+   }
+  ],
+  "passives": [],
+  "icon": "icons/Icons/HeadIcon/Icon_Head_840106.png"
+ },
+ {
+  "id": 821201,
+  "name": "Two-headed Dog",
+  "unit_name": "Two-headed Dog",
+  "rarity": "A",
+  "rarity_name": "Epic",
+  "quality": 3,
+  "race": "-",
+  "role": "-",
+  "cost": 1,
+  "max_level": 50,
+  "hp": 144000,
+  "atk": 2900,
+  "defense": 300,
+  "atk_speed": 100,
+  "atk_range": 1,
+  "move_speed": 5,
+  "crit_dmg": 15000,
+  "mp_regen": 20,
+  "skills": [
+   {
+    "id": 820201100,
+    "name": "Hellfire",
+    "desc": "Deals damage to units within 3 tiles of the target.",
+    "kind": "skill"
+   }
+  ],
+  "passives": [
+   {
+    "id": 820201200,
+    "name": "Frenzied Regeneration",
+    "desc": "Continuously restores a large amount of HP.",
+    "kind": "skill"
+   },
+   {
+    "id": 820201400,
+    "name": "",
+    "desc": "Invincible for 1s every 5s, inc. dmg by 10%, stackable, lasts until the end of the battle",
+    "kind": "effect"
+   }
+  ],
+  "icon": "icons/Icons/HeadIcon/Icon_Head_820201.png"
+ },
+ {
+  "id": 840104,
+  "name": "Venom Bee Queen",
+  "unit_name": "Venom Bee Queen",
+  "rarity": "A",
+  "rarity_name": "Epic",
+  "quality": 3,
+  "race": "-",
+  "role": "-",
+  "cost": 1,
+  "max_level": 50,
+  "hp": 30000,
+  "atk": 4780,
+  "defense": 1000,
+  "atk_speed": 100,
+  "atk_range": 1,
+  "move_speed": 5,
+  "crit_dmg": 15000,
+  "mp_regen": 0,
+  "skills": [
+   {
+    "id": 840104100,
+    "name": "Triple Strike",
+    "desc": "Unleashes 3 rapid stabs on a single target, dealing massive damage.",
+    "kind": "skill"
+   },
+   {
+    "id": 840104200,
+    "name": "Killing Intent",
+    "desc": "Killing a unit resets Triple Strike's cooldown and adds 1 extra stab.",
+    "kind": "skill"
+   },
+   {
+    "id": 840104300,
+    "name": "Shadow Bee Slayer",
+    "desc": "Summons afterimages to relentlessly slash the hero with the lowest HP.",
+    "kind": "skill"
+   }
+  ],
+  "passives": [],
+  "icon": "icons/Icons/HeadIcon/Icon_Head_840114.png"
+ },
+ {
+  "id": 840106,
+  "name": "Venom Mushroom King",
+  "unit_name": "Venom Mushroom King",
+  "rarity": "A",
+  "rarity_name": "Epic",
+  "quality": 3,
+  "race": "-",
+  "role": "-",
+  "cost": 1,
+  "max_level": 50,
+  "hp": 30000,
+  "atk": 4780,
+  "defense": 1000,
+  "atk_speed": 100,
+  "atk_range": 1,
+  "move_speed": 5,
+  "crit_dmg": 15000,
+  "mp_regen": 20,
+  "skills": [
+   {
+    "id": 840106100,
+    "name": "Spore Burst",
+    "desc": "Fires spore bombs at 3 random targets.",
+    "kind": "skill"
+   },
+   {
+    "id": 840106200,
+    "name": "Frenzied Regeneration",
+    "desc": "Continuously restores a large amount of HP.",
+    "kind": "skill"
+   },
+   {
+    "id": 840106300,
+    "name": "Spore Proliferation",
+    "desc": "Fires 2 additional waves of spore bombs and prioritizes low-HP targets.",
+    "kind": "skill"
+   }
+  ],
+  "passives": [],
+  "icon": "icons/Icons/HeadIcon/Icon_Head_840106.png"
+ },
+ {
+  "id": 840114,
+  "name": "Venom-Stinger Bee Queen",
+  "unit_name": "Venom-Stinger Bee Queen",
+  "rarity": "A",
+  "rarity_name": "Epic",
+  "quality": 3,
+  "race": "-",
+  "role": "-",
+  "cost": 1,
+  "max_level": 50,
+  "hp": 30000,
+  "atk": 4780,
+  "defense": 1000,
+  "atk_speed": 100,
+  "atk_range": 1,
+  "move_speed": 5,
+  "crit_dmg": 15000,
+  "mp_regen": 20,
+  "skills": [
+   {
+    "id": 840114100,
+    "name": "Fatal Poison Mist",
+    "desc": "Every 8 seconds, release poison mist across the field, dealing 90% attack damage per second, lasting 3 seconds, with a 33% chance to inflict poison, dealing 1% max health damage per second, stacking infinitely, lasting until the end of the battle.",
+    "kind": "skill"
+   },
+   {
+    "id": 840114200,
+    "name": "Toxic Shell",
+    "desc": "Attacking or being hit has a chance to poison enemies.",
+    "kind": "skill"
+   },
+   {
+    "id": 840114300,
+    "name": "Toxic Resonance",
+    "desc": "When health first falls below 75%/50%/25%, explode poison, each stack dealing 10% attack true damage (does not consume poison stacks).",
+    "kind": "skill"
+   }
+  ],
+  "passives": [],
+  "icon": "icons/Icons/HeadIcon/Icon_Head_840104.png"
+ },
+ {
+  "id": 8401011,
+  "name": "",
+  "unit_name": "",
+  "rarity": "A",
+  "rarity_name": "Epic",
+  "quality": 3,
+  "race": "-",
+  "role": "-",
+  "cost": 1,
+  "max_level": 50,
+  "hp": 0,
+  "atk": 0,
+  "defense": 0,
+  "atk_speed": 100,
+  "atk_range": 1,
+  "move_speed": 5,
+  "crit_dmg": 15000,
+  "mp_regen": 20,
+  "skills": [],
+  "passives": [],
+  "icon": "icons/Icons/HeadIcon/Icon_Head_840101.png"
+ },
+ {
+  "id": 8401072,
+  "name": "",
+  "unit_name": "",
+  "rarity": "A",
+  "rarity_name": "Epic",
+  "quality": 3,
+  "race": "-",
+  "role": "-",
+  "cost": 1,
+  "max_level": 50,
+  "hp": 30000,
+  "atk": 4780,
+  "defense": 1000,
+  "atk_speed": 100,
+  "atk_range": 8,
+  "move_speed": 5,
+  "crit_dmg": 15000,
+  "mp_regen": 20,
+  "skills": [],
+  "passives": [],
+  "icon": "icons/Icons/HeadIcon/Icon_Head_8401071.png"
+ },
+ {
+  "id": 8401071,
+  "name": "",
+  "unit_name": "",
+  "rarity": "A",
+  "rarity_name": "Epic",
+  "quality": 3,
+  "race": "-",
+  "role": "-",
+  "cost": 1,
+  "max_level": 50,
+  "hp": 30000,
+  "atk": 4780,
+  "defense": 1000,
+  "atk_speed": 100,
+  "atk_range": 8,
+  "move_speed": 5,
+  "crit_dmg": 15000,
+  "mp_regen": 20,
+  "skills": [],
+  "passives": [],
+  "icon": "icons/Icons/HeadIcon/Icon_Head_8401072.png"
+ },
+ {
+  "id": 8401051,
+  "name": "",
+  "unit_name": "",
+  "rarity": "A",
+  "rarity_name": "Epic",
+  "quality": 3,
+  "race": "-",
+  "role": "-",
+  "cost": 1,
+  "max_level": 50,
+  "hp": 30000,
+  "atk": 4780,
+  "defense": 1000,
+  "atk_speed": 100,
+  "atk_range": 1,
+  "move_speed": 0,
+  "crit_dmg": 15000,
+  "mp_regen": 20,
+  "skills": [],
+  "passives": [],
+  "icon": null
+ },
+ {
+  "id": 8401052,
+  "name": "",
+  "unit_name": "",
+  "rarity": "A",
+  "rarity_name": "Epic",
+  "quality": 3,
+  "race": "-",
+  "role": "-",
+  "cost": 1,
+  "max_level": 50,
+  "hp": 30000,
+  "atk": 4780,
+  "defense": 1000,
+  "atk_speed": 100,
+  "atk_range": 1,
+  "move_speed": 0,
+  "crit_dmg": 15000,
+  "mp_regen": 20,
+  "skills": [],
+  "passives": [],
+  "icon": null
+ },
+ {
+  "id": 8401053,
+  "name": "",
+  "unit_name": "",
+  "rarity": "A",
+  "rarity_name": "Epic",
+  "quality": 3,
+  "race": "-",
+  "role": "-",
+  "cost": 1,
+  "max_level": 50,
+  "hp": 30000,
+  "atk": 4780,
+  "defense": 1000,
+  "atk_speed": 100,
+  "atk_range": 1,
+  "move_speed": 0,
+  "crit_dmg": 15000,
+  "mp_regen": 20,
+  "skills": [],
+  "passives": [],
+  "icon": "icons/Icons/HeadIcon/Icon_Head_840105.png"
+ },
+ {
+  "id": 8202221,
+  "name": "",
+  "unit_name": "",
+  "rarity": "A",
+  "rarity_name": "Epic",
+  "quality": 3,
+  "race": "-",
+  "role": "-",
+  "cost": 1,
+  "max_level": 50,
+  "hp": 30000,
+  "atk": 4780,
+  "defense": 1000,
+  "atk_speed": 100,
+  "atk_range": 1,
+  "move_speed": 5,
+  "crit_dmg": 15000,
+  "mp_regen": 20,
+  "skills": [
+   {
+    "id": 820202100,
+    "name": "Seismic Wave",
+    "desc": "Deals massive damage to all enemies and inflicts Stun.",
+    "kind": "skill"
+   },
+   {
+    "id": 820202300,
+    "name": "Petrified Skin",
+    "desc": "Hardens its skin, negating 100 instances of damage.",
+    "kind": "skill"
+   },
+   {
+    "id": 820202200,
+    "name": "Fortified Defense",
+    "desc": "Each enemy hit by Seismic Wave increases its own DEF.",
+    "kind": "skill"
+   }
+  ],
+  "passives": [],
+  "icon": "icons/Icons/HeadIcon/Icon_Head_820222.png"
+ },
+ {
+  "id": 8401211,
+  "name": "",
+  "unit_name": "",
+  "rarity": "A",
+  "rarity_name": "Epic",
+  "quality": 3,
+  "race": "-",
+  "role": "-",
+  "cost": 1,
+  "max_level": 50,
+  "hp": 0,
+  "atk": 0,
+  "defense": 0,
+  "atk_speed": 100,
+  "atk_range": 1,
+  "move_speed": 5,
+  "crit_dmg": 15000,
+  "mp_regen": 20,
+  "skills": [],
+  "passives": [],
+  "icon": "icons/Icons/HeadIcon/Icon_Head_840121.png"
+ },
+ {
+  "id": 8401231,
+  "name": "",
+  "unit_name": "",
+  "rarity": "A",
+  "rarity_name": "Epic",
+  "quality": 3,
+  "race": "-",
+  "role": "-",
+  "cost": 1,
+  "max_level": 50,
+  "hp": 30000,
+  "atk": 4780,
+  "defense": 1000,
+  "atk_speed": 100,
+  "atk_range": 1,
+  "move_speed": 5,
+  "crit_dmg": 15000,
+  "mp_regen": 20,
+  "skills": [
+   {
+    "id": 840103500,
+    "name": "Slime Shock",
+    "desc": "Deals 120% ATK as DMG to surrounding enemies.",
+    "kind": "skill"
+   },
+   {
+    "id": 840103700,
+    "name": "Slime Explosion",
+    "desc": "Upon death, deals damage to nearby enemies equal to 5% of their current HP",
+    "kind": "skill"
+   }
+  ],
+  "passives": [],
+  "icon": "icons/Icons/HeadIcon/Icon_Head_840123.png"
+ },
+ {
+  "id": 8401272,
+  "name": "",
+  "unit_name": "",
+  "rarity": "A",
+  "rarity_name": "Epic",
+  "quality": 3,
+  "race": "-",
+  "role": "-",
+  "cost": 1,
+  "max_level": 50,
+  "hp": 30000,
+  "atk": 4780,
+  "defense": 1000,
+  "atk_speed": 100,
+  "atk_range": 8,
+  "move_speed": 5,
+  "crit_dmg": 15000,
+  "mp_regen": 20,
+  "skills": [],
+  "passives": [],
+  "icon": "icons/Icons/HeadIcon/Icon_Head_840127.png"
+ },
+ {
+  "id": 8401271,
+  "name": "",
+  "unit_name": "",
+  "rarity": "A",
+  "rarity_name": "Epic",
+  "quality": 3,
+  "race": "-",
+  "role": "-",
+  "cost": 1,
+  "max_level": 50,
+  "hp": 30000,
+  "atk": 4780,
+  "defense": 1000,
+  "atk_speed": 100,
+  "atk_range": 8,
+  "move_speed": 5,
+  "crit_dmg": 15000,
+  "mp_regen": 20,
+  "skills": [],
+  "passives": [],
+  "icon": "icons/Icons/HeadIcon/Icon_Head_840127.png"
+ },
+ {
+  "id": 8401251,
+  "name": "",
+  "unit_name": "",
+  "rarity": "A",
+  "rarity_name": "Epic",
+  "quality": 3,
+  "race": "-",
+  "role": "-",
+  "cost": 1,
+  "max_level": 50,
+  "hp": 30000,
+  "atk": 4780,
+  "defense": 1000,
+  "atk_speed": 100,
+  "atk_range": 1,
+  "move_speed": 0,
+  "crit_dmg": 15000,
+  "mp_regen": 20,
+  "skills": [],
+  "passives": [],
+  "icon": "icons/Icons/HeadIcon/Icon_Head_840125.png"
+ },
+ {
+  "id": 8401252,
+  "name": "",
+  "unit_name": "",
+  "rarity": "A",
+  "rarity_name": "Epic",
+  "quality": 3,
+  "race": "-",
+  "role": "-",
+  "cost": 1,
+  "max_level": 50,
+  "hp": 30000,
+  "atk": 4780,
+  "defense": 1000,
+  "atk_speed": 100,
+  "atk_range": 1,
+  "move_speed": 0,
+  "crit_dmg": 15000,
+  "mp_regen": 20,
+  "skills": [],
+  "passives": [],
+  "icon": "icons/Icons/HeadIcon/Icon_Head_840125.png"
+ },
+ {
+  "id": 920307,
+  "name": "Ammonite Beast",
+  "unit_name": "Ammonite Beast",
+  "rarity": "B",
+  "rarity_name": "Rare",
+  "quality": 2,
+  "race": "-",
+  "role": "-",
+  "cost": 1,
+  "max_level": 50,
+  "hp": 7200,
+  "atk": 2770,
+  "defense": 800,
+  "atk_speed": 30,
+  "atk_range": 4,
+  "move_speed": 5,
+  "crit_dmg": 15000,
+  "mp_regen": 20,
+  "skills": [
+   {
+    "id": 910307100,
+    "name": "Charged Blast",
+    "desc": "Basic attacks require a 3-second charge and deal area damage.",
+    "kind": "skill"
+   }
+  ],
+  "passives": [],
+  "icon": "icons/Icons/HeadIcon/Icon_Head_910307.png"
+ },
+ {
+  "id": 810201,
+  "name": "Bomb King",
+  "unit_name": "Bomb King",
+  "rarity": "B",
+  "rarity_name": "Rare",
+  "quality": 2,
+  "race": "-",
+  "role": "-",
+  "cost": 1,
+  "max_level": 50,
+  "hp": 15500,
+  "atk": 3250,
+  "defense": 1000,
+  "atk_speed": 100,
+  "atk_range": 1,
+  "move_speed": 5,
+  "crit_dmg": 15000,
+  "mp_regen": 20,
+  "skills": [
+   {
+    "id": 810201100,
+    "name": "Shockwave",
+    "desc": "Damages and knocks back enemies in front.",
+    "kind": "skill"
+   }
+  ],
+  "passives": [
+   {
+    "id": 810201200,
+    "name": "Prototype Bomb",
+    "desc": "Throws terrifying bombs, prioritizing summoned units.",
+    "kind": "skill"
+   },
+   {
+    "id": 810201300,
+    "name": "Slime Will",
+    "desc": "When a slime dies, it inc. the ATK and defense of other alive slimes by 10% each",
+    "kind": "skill"
+   }
+  ],
+  "icon": "icons/Icons/HeadIcon/Icon_Head_810211.png"
+ },
+ {
+  "id": 920201,
+  "name": "Cactus",
+  "unit_name": "Cactus",
+  "rarity": "B",
+  "rarity_name": "Rare",
+  "quality": 2,
+  "race": "-",
+  "role": "-",
+  "cost": 1,
+  "max_level": 50,
+  "hp": 10800,
+  "atk": 1850,
+  "defense": 1200,
+  "atk_speed": 100,
+  "atk_range": 1,
+  "move_speed": 5,
+  "crit_dmg": 15000,
+  "mp_regen": 20,
+  "skills": [
+   {
+    "id": 910201100,
+    "name": "Rebound",
+    "desc": "When hit by a Basic Attack, Reflects 10% of the damage taken.",
+    "kind": "skill"
+   }
+  ],
+  "passives": [],
+  "icon": "icons/Icons/HeadIcon/Icon_Head_920201.png"
+ },
+ {
+  "id": 830212,
+  "name": "Catfish King",
+  "unit_name": "Catfish King",
+  "rarity": "B",
+  "rarity_name": "Rare",
+  "quality": 2,
+  "race": "-",
+  "role": "-",
+  "cost": 1,
+  "max_level": 50,
+  "hp": 21000,
+  "atk": 3800,
+  "defense": 1000,
+  "atk_speed": 100,
+  "atk_range": 4,
+  "move_speed": 5,
+  "crit_dmg": 15000,
+  "mp_regen": 20,
+  "skills": [
+   {
+    "id": 830212100,
+    "name": "Leap",
+    "desc": "Every 6s, the fish splash leap attacks a random target and targets within a one-tile range, dealing 500% ATK power DMG and stunning for 3s",
+    "kind": "skill"
+   },
+   {
+    "id": 830212200,
+    "name": "Take advantage of the situation to unload the force",
+    "desc": "Each time DMG is taken, inc. dodge by 10%, successful dodge deals 100% DMG to the attacker and clears dodge buff",
+    "kind": "skill"
+   }
+  ],
+  "passives": [],
+  "icon": "icons/Icons/HeadIcon/Icon_Head_830202.png"
+ },
+ {
+  "id": 920302,
+  "name": "Catfish Monster",
+  "unit_name": "Catfish Monster",
+  "rarity": "B",
+  "rarity_name": "Rare",
+  "quality": 2,
+  "race": "-",
+  "role": "-",
+  "cost": 1,
+  "max_level": 50,
+  "hp": 10800,
+  "atk": 1850,
+  "defense": 1200,
+  "atk_speed": 100,
+  "atk_range": 1,
+  "move_speed": 5,
+  "crit_dmg": 15000,
+  "mp_regen": 20,
+  "skills": [
+   {
+    "id": 910302100,
+    "name": "Mud Armor",
+    "desc": "Mud Armor: Starts battle with Mud Armor, reducing damage taken. Mud Armor disappears when HP falls below 40%.",
+    "kind": "skill"
+   }
+  ],
+  "passives": [],
+  "icon": "icons/Icons/HeadIcon/Icon_Head_910302.png"
+ },
+ {
+  "id": 920301,
+  "name": "Crab Monster",
+  "unit_name": "Crab Monster",
+  "rarity": "B",
+  "rarity_name": "Rare",
+  "quality": 2,
+  "race": "-",
+  "role": "-",
+  "cost": 1,
+  "max_level": 50,
+  "hp": 10800,
+  "atk": 1850,
+  "defense": 1200,
+  "atk_speed": 100,
+  "atk_range": 1,
+  "move_speed": 5,
+  "crit_dmg": 15000,
+  "mp_regen": 20,
+  "skills": [
+   {
+    "id": 910301100,
+    "name": "Counterstrike",
+    "desc": "Whenever attacked, gains a Shield equal to 3% of Max HP.",
+    "kind": "skill"
+   }
+  ],
+  "passives": [],
+  "icon": "icons/Icons/HeadIcon/Icon_Head_910301.png"
+ },
+ {
+  "id": 920206,
+  "name": "Desert Flower",
+  "unit_name": "Desert Flower",
+  "rarity": "B",
+  "rarity_name": "Rare",
+  "quality": 2,
+  "race": "-",
+  "role": "-",
+  "cost": 1,
+  "max_level": 50,
+  "hp": 7200,
+  "atk": 2770,
+  "defense": 800,
+  "atk_speed": 28,
+  "atk_range": 4,
+  "move_speed": 5,
+  "crit_dmg": 15000,
+  "mp_regen": 20,
+  "skills": [
+   {
+    "id": 910206100,
+    "name": "Nectar Inspiration",
+    "desc": "Grants a blessing to two random allies, restoring HP and increasing attack speed",
+    "kind": "skill"
+   }
+  ],
+  "passives": [],
+  "icon": "icons/Icons/HeadIcon/Icon_Head_920206.png"
+ },
+ {
+  "id": 920205,
+  "name": "Desert Worm",
+  "unit_name": "Desert Worm",
+  "rarity": "B",
+  "rarity_name": "Rare",
+  "quality": 2,
+  "race": "-",
+  "role": "-",
+  "cost": 1,
+  "max_level": 50,
+  "hp": 10800,
+  "atk": 1850,
+  "defense": 1200,
+  "atk_speed": 100,
+  "atk_range": 1,
+  "move_speed": 5,
+  "crit_dmg": 15000,
+  "mp_regen": 20,
+  "skills": [
+   {
+    "id": 920205100,
+    "name": "Underground Strike",
+    "desc": "Every 5 seconds, burrows underground and emerges beside an enemy, dealing damage to enemies within 1 tile and stunning them for 1 second",
+    "kind": "skill"
+   }
+  ],
+  "passives": [],
+  "icon": "icons/Icons/HeadIcon/Icon_Head_920205.png"
+ },
+ {
+  "id": 920107,
+  "name": "Double-headed Flower",
+  "unit_name": "Double-headed Flower",
+  "rarity": "B",
+  "rarity_name": "Rare",
+  "quality": 2,
+  "race": "-",
+  "role": "-",
+  "cost": 1,
+  "max_level": 50,
+  "hp": 7200,
+  "atk": 2770,
+  "defense": 800,
+  "atk_speed": 37,
+  "atk_range": 4,
+  "move_speed": 5,
+  "crit_dmg": 15000,
+  "mp_regen": 20,
+  "skills": [
+   {
+    "id": 910107000,
+    "name": "Twin Core Barrage",
+    "desc": "Attacks hit two enemies simultaneously",
+    "kind": "skill"
+   }
+  ],
+  "passives": [],
+  "icon": "icons/Icons/HeadIcon/Icon_Head_910107.png"
+ },
+ {
+  "id": 820213,
+  "name": "Eye Monster",
+  "unit_name": "Eye Monster",
+  "rarity": "B",
+  "rarity_name": "Rare",
+  "quality": 2,
+  "race": "-",
+  "role": "-",
+  "cost": 1,
+  "max_level": 50,
+  "hp": 15000,
+  "atk": 3250,
+  "defense": 1000,
+  "atk_speed": 100,
+  "atk_range": 4,
+  "move_speed": 5,
+  "crit_dmg": 15000,
+  "mp_regen": 20,
+  "skills": [
+   {
+    "id": 820203100,
+    "name": "Meteor",
+    "desc": "Releases 3 meteors, dealing damage",
+    "kind": "skill"
+   }
+  ],
+  "passives": [
+   {
+    "id": 820203300,
+    "name": "Backlash Pulse",
+    "desc": "Every8s, with initial4s, causes3enemies to ATK their allies in confusion for3s",
+    "kind": "skill"
+   }
+  ],
+  "icon": "icons/Icons/HeadIcon/Icon_Head_820203.png"
+ },
+ {
+  "id": 920102,
+  "name": "Goblin Archer",
+  "unit_name": "Goblin Archer",
+  "rarity": "B",
+  "rarity_name": "Rare",
+  "quality": 2,
+  "race": "-",
+  "role": "-",
+  "cost": 1,
+  "max_level": 50,
+  "hp": 7200,
+  "atk": 2770,
+  "defense": 800,
+  "atk_speed": 40,
+  "atk_range": 4,
+  "move_speed": 5,
+  "crit_dmg": 15000,
+  "mp_regen": 20,
+  "skills": [
+   {
+    "id": 910102100,
+    "name": "Rapid-fire Bow",
+    "desc": "Attack Speed ramps up while attacking the same target.",
+    "kind": "skill"
+   }
+  ],
+  "passives": [],
+  "icon": "icons/Icons/HeadIcon/Icon_Head_910102.png"
+ },
+ {
+  "id": 920202,
+  "name": "Goblin Warrior",
+  "unit_name": "Goblin Warrior",
+  "rarity": "B",
+  "rarity_name": "Rare",
+  "quality": 2,
+  "race": "-",
+  "role": "-",
+  "cost": 1,
+  "max_level": 50,
+  "hp": 10800,
+  "atk": 1850,
+  "defense": 1200,
+  "atk_speed": 100,
+  "atk_range": 1,
+  "move_speed": 5,
+  "crit_dmg": 15000,
+  "mp_regen": 20,
+  "skills": [
+   {
+    "id": 910202100,
+    "name": "Stun ATK",
+    "desc": "Basic Attacks have a 40% chance to Stun the target for 1s.",
+    "kind": "skill"
+   }
+  ],
+  "passives": [],
+  "icon": "icons/Icons/HeadIcon/Icon_Head_920202.png"
+ },
+ {
+  "id": 820201,
+  "name": "Hellhound",
+  "unit_name": "Hellhound",
+  "rarity": "B",
+  "rarity_name": "Rare",
+  "quality": 2,
+  "race": "-",
+  "role": "-",
+  "cost": 1,
+  "max_level": 50,
+  "hp": 15000,
+  "atk": 3250,
+  "defense": 1000,
+  "atk_speed": 100,
+  "atk_range": 1,
+  "move_speed": 5,
+  "crit_dmg": 15000,
+  "mp_regen": 20,
+  "skills": [
+   {
+    "id": 820201100,
+    "name": "Hellfire",
+    "desc": "Deals damage to units within 3 tiles of the target.",
+    "kind": "skill"
+   }
+  ],
+  "passives": [
+   {
+    "id": 820201200,
+    "name": "Frenzied Regeneration",
+    "desc": "Continuously restores a large amount of HP.",
+    "kind": "skill"
+   }
+  ],
+  "icon": "icons/Icons/HeadIcon/Icon_Head_820211.png"
+ },
+ {
+  "id": 920305,
+  "name": "Hermit Crab",
+  "unit_name": "Hermit Crab",
+  "rarity": "B",
+  "rarity_name": "Rare",
+  "quality": 2,
+  "race": "-",
+  "role": "-",
+  "cost": 1,
+  "max_level": 50,
+  "hp": 10800,
+  "atk": 1850,
+  "defense": 1200,
+  "atk_speed": 100,
+  "atk_range": 1,
+  "move_speed": 5,
+  "crit_dmg": 15000,
+  "mp_regen": 20,
+  "skills": [
+   {
+    "id": 910305100,
+    "name": "Shell Rebirth",
+    "desc": "When near death, restore a large amount of HP.",
+    "kind": "skill"
+   }
+  ],
+  "passives": [],
+  "icon": "icons/Icons/HeadIcon/Icon_Head_910305.png"
+ },
+ {
+  "id": 830211,
+  "name": "Hermit Crab",
+  "unit_name": "Hermit Crab",
+  "rarity": "B",
+  "rarity_name": "Rare",
+  "quality": 2,
+  "race": "-",
+  "role": "-",
+  "cost": 1,
+  "max_level": 50,
+  "hp": 15000,
+  "atk": 3250,
+  "defense": 1000,
+  "atk_speed": 100,
+  "atk_range": 1,
+  "move_speed": 5,
+  "crit_dmg": 15000,
+  "mp_regen": 20,
+  "skills": [
+   {
+    "id": 830211100,
+    "name": "Crab Leg ATK",
+    "desc": "Every 6s, throws crab legs, dealing 330% ATK power DMG to 3 random enemies",
+    "kind": "skill"
+   }
+  ],
+  "passives": [
+   {
+    "id": 830211200,
+    "name": "unbreakable tide",
+    "desc": "Every 5s gains a shield equal to 10% max HP",
+    "kind": "skill"
+   }
+  ],
+  "icon": "icons/Icons/HeadIcon/Icon_Head_830201.png"
+ },
+ {
+  "id": 830201,
+  "name": "Ironclad Crab King",
+  "unit_name": "Ironclad Crab King",
+  "rarity": "B",
+  "rarity_name": "Rare",
+  "quality": 2,
+  "race": "-",
+  "role": "-",
+  "cost": 1,
+  "max_level": 50,
+  "hp": 15000,
+  "atk": 3250,
+  "defense": 1000,
+  "atk_speed": 100,
+  "atk_range": 1,
+  "move_speed": 5,
+  "crit_dmg": 15000,
+  "mp_regen": 20,
+  "skills": [
+   {
+    "id": 830201100,
+    "name": "Shell Up",
+    "desc": "Retracts into its shell, gaining a massive shield and dealing AoE damage to nearby enemies.",
+    "kind": "skill"
+   }
+  ],
+  "passives": [
+   {
+    "id": 830201200,
+    "name": "Shield Boost",
+    "desc": "While shielded, gains 200% DEF.",
+    "kind": "skill"
+   }
+  ],
+  "icon": "icons/Icons/HeadIcon/Icon_Head_830211.png"
+ },
+ {
+  "id": 830203,
+  "name": "Land Shark King",
+  "unit_name": "Land Shark King",
+  "rarity": "B",
+  "rarity_name": "Rare",
+  "quality": 2,
+  "race": "-",
+  "role": "-",
+  "cost": 1,
+  "max_level": 50,
+  "hp": 15000,
+  "atk": 3250,
+  "defense": 1000,
+  "atk_speed": 100,
+  "atk_range": 1,
+  "move_speed": 5,
+  "crit_dmg": 15000,
+  "mp_regen": 20,
+  "skills": [
+   {
+    "id": 830203100,
+    "name": "Charge",
+    "desc": "Launches a charging wave toward the farthest 1 target.",
+    "kind": "skill"
+   }
+  ],
+  "passives": [
+   {
+    "id": 830203200,
+    "name": "Hardened Hide",
+    "desc": "Gains a shield at the start of battle that blocks 40 instances of damage.",
+    "kind": "skill"
+   }
+  ],
+  "icon": "icons/Icons/HeadIcon/Icon_Head_830203.png"
+ },
+ {
+  "id": 920105,
+  "name": "Lantern Tree",
+  "unit_name": "Lantern Tree",
+  "rarity": "B",
+  "rarity_name": "Rare",
+  "quality": 2,
+  "race": "-",
+  "role": "-",
+  "cost": 1,
+  "max_level": 50,
+  "hp": 10800,
+  "atk": 1850,
+  "defense": 1200,
+  "atk_speed": 100,
+  "atk_range": 1,
+  "move_speed": 5,
+  "crit_dmg": 15000,
+  "mp_regen": 20,
+  "skills": [
+   {
+    "id": 910105100,
+    "name": "Thick Bark",
+    "desc": "After being hit by a Mage, gains a shield equal to 50% of Max HP. Cooldown: 5s.",
+    "kind": "skill"
+   }
+  ],
+  "passives": [],
+  "icon": "icons/Icons/HeadIcon/Icon_Head_910115.png"
+ },
+ {
+  "id": 920108,
+  "name": "Leaf Fox",
+  "unit_name": "Leaf Fox",
+  "rarity": "B",
+  "rarity_name": "Rare",
+  "quality": 2,
+  "race": "-",
+  "role": "-",
+  "cost": 1,
+  "max_level": 50,
+  "hp": 7200,
+  "atk": 2770,
+  "defense": 800,
+  "atk_speed": 36,
+  "atk_range": 4,
+  "move_speed": 5,
+  "crit_dmg": 15000,
+  "mp_regen": 20,
+  "skills": [
+   {
+    "id": 910108100,
+    "name": "Emerald Leaf Offering",
+    "desc": "At the start of battle, Charms Assassins for 15s.",
+    "kind": "skill"
+   }
+  ],
+  "passives": [],
+  "icon": "icons/Icons/HeadIcon/Icon_Head_910108.png"
+ },
+ {
+  "id": 920106,
+  "name": "Man-eating Flower",
+  "unit_name": "Man-eating Flower",
+  "rarity": "B",
+  "rarity_name": "Rare",
+  "quality": 2,
+  "race": "-",
+  "role": "-",
+  "cost": 1,
+  "max_level": 50,
+  "hp": 7200,
+  "atk": 2770,
+  "defense": 800,
+  "atk_speed": 38,
+  "atk_range": 4,
+  "move_speed": 5,
+  "crit_dmg": 15000,
+  "mp_regen": 20,
+  "skills": [
+   {
+    "id": 910106100,
+    "name": "Silent Kiss",
+    "desc": "Devours a summoned unit every 5s, Silencing it and killing it instantly.",
+    "kind": "skill"
+   }
+  ],
+  "passives": [],
+  "icon": "icons/Icons/HeadIcon/Icon_Head_910106.png"
+ },
+ {
+  "id": 810203,
+  "name": "Mushroom King",
+  "unit_name": "Mushroom King",
+  "rarity": "B",
+  "rarity_name": "Rare",
+  "quality": 2,
+  "race": "-",
+  "role": "-",
+  "cost": 1,
+  "max_level": 50,
+  "hp": 15000,
+  "atk": 3250,
+  "defense": 1000,
+  "atk_speed": 100,
+  "atk_range": 4,
+  "move_speed": 5,
+  "crit_dmg": 15000,
+  "mp_regen": 20,
+  "skills": [
+   {
+    "id": 810203100,
+    "name": "Spore ATK",
+    "desc": "Every 6s, apply toxin to 3 random enemies, putting them into a spore state that deals 20% ATK DMG per s, lasting permanently and can stack up to 10 layers",
+    "kind": "skill"
+   }
+  ],
+  "passives": [
+   {
+    "id": 810203200,
+    "name": "Wild growth",
+    "desc": "Every 6s, initial 4s, inc. ATK and max HP by 10% and restores corresponding HP",
+    "kind": "skill"
+   },
+   {
+    "id": 810203300,
+    "name": "blood-sucking spores",
+    "desc": "Every 6s, initial 8s, absorbs 10% of max HP from enemies in spore status",
+    "kind": "skill"
+   }
+  ],
+  "icon": "icons/Icons/HeadIcon/Icon_Head_810203.png"
+ },
+ {
+  "id": 830204,
+  "name": "Octopus King",
+  "unit_name": "Octopus King",
+  "rarity": "B",
+  "rarity_name": "Rare",
+  "quality": 2,
+  "race": "-",
+  "role": "-",
+  "cost": 1,
+  "max_level": 50,
+  "hp": 15000,
+  "atk": 3250,
+  "defense": 1000,
+  "atk_speed": 100,
+  "atk_range": 4,
+  "move_speed": 5,
+  "crit_dmg": 15000,
+  "mp_regen": 20,
+  "skills": [
+   {
+    "id": 830204100,
+    "name": "Ink Blast",
+    "desc": "Targets the unit with the highest ATK with an area attack, reducing Accuracy and Attack Speed.",
+    "kind": "skill"
+   }
+  ],
+  "passives": [
+   {
+    "id": 830204200,
+    "name": "Vengeance",
+    "desc": "Continuously summons Octopus Legs. When one is killed, it unleashes a vengeful counterattack.",
+    "kind": "skill"
+   }
+  ],
+  "icon": "icons/Icons/HeadIcon/Icon_Head_830204.png"
+ },
+ {
+  "id": 920303,
+  "name": "Octopus Monster",
+  "unit_name": "Octopus Monster",
+  "rarity": "B",
+  "rarity_name": "Rare",
+  "quality": 2,
+  "race": "-",
+  "role": "-",
+  "cost": 1,
+  "max_level": 50,
+  "hp": 7200,
+  "atk": 2770,
+  "defense": 800,
+  "atk_speed": 33,
+  "atk_range": 4,
+  "move_speed": 5,
+  "crit_dmg": 15000,
+  "mp_regen": 20,
+  "skills": [
+   {
+    "id": 910303100,
+    "name": "Blind",
+    "desc": "Aura: Assassins' Accuracy is reduced by 50%.",
+    "kind": "skill"
+   }
+  ],
+  "passives": [],
+  "icon": "icons/Icons/HeadIcon/Icon_Head_910313.png"
+ },
+ {
+  "id": 820203,
+  "name": "Phantom Eye Monster",
+  "unit_name": "Phantom Eye Monster",
+  "rarity": "B",
+  "rarity_name": "Rare",
+  "quality": 2,
+  "race": "-",
+  "role": "-",
+  "cost": 1,
+  "max_level": 50,
+  "hp": 15000,
+  "atk": 3250,
+  "defense": 1000,
+  "atk_speed": 100,
+  "atk_range": 4,
+  "move_speed": 5,
+  "crit_dmg": 15000,
+  "mp_regen": 20,
+  "skills": [
+   {
+    "id": 820203100,
+    "name": "Meteor",
+    "desc": "Releases 3 meteors, dealing damage",
+    "kind": "skill"
+   }
+  ],
+  "passives": [
+   {
+    "id": 820203200,
+    "name": "Frenzied Assault",
+    "desc": "Greatly increases its own Attack Speed, but control effects are amplified during this time.",
+    "kind": "skill"
+   }
+  ],
+  "icon": "icons/Icons/HeadIcon/Icon_Head_820213.png"
+ },
+ {
+  "id": 810202,
+  "name": "Pig Overlord",
+  "unit_name": "Pig Overlord",
+  "rarity": "B",
+  "rarity_name": "Rare",
+  "quality": 2,
+  "race": "-",
+  "role": "-",
+  "cost": 1,
+  "max_level": 50,
+  "hp": 15000,
+  "atk": 3250,
+  "defense": 1000,
+  "atk_speed": 100,
+  "atk_range": 1,
+  "move_speed": 5,
+  "crit_dmg": 15000,
+  "mp_regen": 20,
+  "skills": [
+   {
+    "id": 810202100,
+    "name": "Bloodthirsty Charge",
+    "desc": "Charges the unit with the lowest HP.",
+    "kind": "skill"
+   }
+  ],
+  "passives": [
+   {
+    "id": 810202200,
+    "name": "Rising Valor",
+    "desc": "Each kill instantly resets Bloodthirsty Charge's cooldown.",
+    "kind": "skill"
+   }
+  ],
+  "icon": "icons/Icons/HeadIcon/Icon_Head_810202.png"
+ },
+ {
+  "id": 920204,
+  "name": "Poison Bug",
+  "unit_name": "Poison Bug",
+  "rarity": "B",
+  "rarity_name": "Rare",
+  "quality": 2,
+  "race": "-",
+  "role": "-",
+  "cost": 1,
+  "max_level": 50,
+  "hp": 7200,
+  "atk": 2770,
+  "defense": 800,
+  "atk_speed": 34,
+  "atk_range": 4,
+  "move_speed": 5,
+  "crit_dmg": 15000,
+  "mp_regen": 20,
+  "skills": [
+   {
+    "id": 910204100,
+    "name": "Poison Bullet",
+    "desc": "Basic Attacks have a 30% chance to inflict Poison. Each stack deals true damage equal to 1% Max HP per second until battle ends.",
+    "kind": "skill"
+   }
+  ],
+  "passives": [],
+  "icon": "icons/Icons/HeadIcon/Icon_Head_920204.png"
+ },
+ {
+  "id": 820204,
+  "name": "Poison Bug King",
+  "unit_name": "Poison Bug King",
+  "rarity": "B",
+  "rarity_name": "Rare",
+  "quality": 2,
+  "race": "-",
+  "role": "-",
+  "cost": 1,
+  "max_level": 50,
+  "hp": 15000,
+  "atk": 3250,
+  "defense": 1000,
+  "atk_speed": 100,
+  "atk_range": 4,
+  "move_speed": 5,
+  "crit_dmg": 15000,
+  "mp_regen": 20,
+  "skills": [
+   {
+    "id": 820204100,
+    "name": "Poison Mist",
+    "desc": "Every 8s, releases poison mist across the battlefield dealing 270% ATK power DMG and inflicting poison, dealing 1% max HP DMG per s, can stack infinitely until the end of the battle",
+    "kind": "skill"
+   }
+  ],
+  "passives": [
+   {
+    "id": 820204200,
+    "name": "The plague comes back",
+    "desc": "When hit, there is a 33% chance to poison the attacker, stacks infinitely",
+    "kind": "skill"
+   },
+   {
+    "id": 820204300,
+    "name": "Poison vein blast",
+    "desc": "When HP first drops below 75% / 50% / 25%, detonates poison, each stack deals 10% ATK power DMG",
+    "kind": "skill"
+   }
+  ],
+  "icon": "icons/Icons/HeadIcon/Icon_Head_820204.png"
+ },
+ {
+  "id": 920208,
+  "name": "Rhinoceros Beetle",
+  "unit_name": "Rhinoceros Beetle",
+  "rarity": "B",
+  "rarity_name": "Rare",
+  "quality": 2,
+  "race": "-",
+  "role": "-",
+  "cost": 1,
+  "max_level": 50,
+  "hp": 7200,
+  "atk": 2770,
+  "defense": 800,
+  "atk_speed": 26,
+  "atk_range": 4,
+  "move_speed": 5,
+  "crit_dmg": 15000,
+  "mp_regen": 20,
+  "skills": [
+   {
+    "id": 910208100,
+    "name": "Iron Steel Shell",
+    "desc": "Immune to Calamity effects.",
+    "kind": "skill"
+   }
+  ],
+  "passives": [],
+  "icon": "icons/Icons/HeadIcon/Icon_Head_920218.png"
+ },
+ {
+  "id": 920103,
+  "name": "Running Pig",
+  "unit_name": "Running Pig",
+  "rarity": "B",
+  "rarity_name": "Rare",
+  "quality": 2,
+  "race": "-",
+  "role": "-",
+  "cost": 1,
+  "max_level": 50,
+  "hp": 10800,
+  "atk": 1850,
+  "defense": 1200,
+  "atk_speed": 100,
+  "atk_range": 1,
+  "move_speed": 5,
+  "crit_dmg": 15000,
+  "mp_regen": 20,
+  "skills": [
+   {
+    "id": 910103100,
+    "name": "Charge",
+    "desc": "At the start of battle, charges the farthest enemy, dealing damage equal to 200% ATK. Basic Attack damage gains an additional 100% multiplier.",
+    "kind": "skill"
+   }
+  ],
+  "passives": [],
+  "icon": "icons/Icons/HeadIcon/Icon_Head_910103.png"
+ },
+ {
+  "id": 920207,
+  "name": "Scorpion Monster",
+  "unit_name": "Scorpion Monster",
+  "rarity": "B",
+  "rarity_name": "Rare",
+  "quality": 2,
+  "race": "-",
+  "role": "-",
+  "cost": 1,
+  "max_level": 50,
+  "hp": 7200,
+  "atk": 2770,
+  "defense": 800,
+  "atk_speed": 27,
+  "atk_range": 4,
+  "move_speed": 5,
+  "crit_dmg": 15000,
+  "mp_regen": 20,
+  "skills": [
+   {
+    "id": 910207100,
+    "name": "Weakening Sting",
+    "desc": "Basic Attacks reduce the target's damage dealt and Attack Speed.",
+    "kind": "skill"
+   }
+  ],
+  "passives": [],
+  "icon": "icons/Icons/HeadIcon/Icon_Head_920207.png"
+ },
+ {
+  "id": 920306,
+  "name": "Sea Anemone Monster",
+  "unit_name": "Sea Anemone Monster",
+  "rarity": "B",
+  "rarity_name": "Rare",
+  "quality": 2,
+  "race": "-",
+  "role": "-",
+  "cost": 1,
+  "max_level": 50,
+  "hp": 7200,
+  "atk": 2770,
+  "defense": 800,
+  "atk_speed": 31,
+  "atk_range": 4,
+  "move_speed": 5,
+  "crit_dmg": 15000,
+  "mp_regen": 20,
+  "skills": [
+   {
+    "id": 910306100,
+    "name": "Bloodsucking Tentacle",
+    "desc": "Hurls tentacles that latch onto enemies, dealing damage and restoring HP equal to the damage dealt.",
+    "kind": "skill"
+   }
+  ],
+  "passives": [],
+  "icon": "icons/Icons/HeadIcon/Icon_Head_910306.png"
+ },
+ {
+  "id": 920304,
+  "name": "Seahorse",
+  "unit_name": "Seahorse",
+  "rarity": "B",
+  "rarity_name": "Rare",
+  "quality": 2,
+  "race": "-",
+  "role": "-",
+  "cost": 1,
+  "max_level": 50,
+  "hp": 7200,
+  "atk": 2770,
+  "defense": 800,
+  "atk_speed": 32,
+  "atk_range": 4,
+  "move_speed": 5,
+  "crit_dmg": 15000,
+  "mp_regen": 20,
+  "skills": [
+   {
+    "id": 910304100,
+    "name": "Water Gun Blast",
+    "desc": "Every 6s, converts allies' debuffs into buffs (+20% HP, +20% ATK) for 5s.",
+    "kind": "skill"
+   }
+  ],
+  "passives": [],
+  "icon": "icons/Icons/HeadIcon/Icon_Head_910314.png"
+ },
+ {
+  "id": 920308,
+  "name": "Seaweed Monster",
+  "unit_name": "Seaweed Monster",
+  "rarity": "B",
+  "rarity_name": "Rare",
+  "quality": 2,
+  "race": "-",
+  "role": "-",
+  "cost": 1,
+  "max_level": 50,
+  "hp": 7200,
+  "atk": 2770,
+  "defense": 800,
+  "atk_speed": 29,
+  "atk_range": 4,
+  "move_speed": 5,
+  "crit_dmg": 15000,
+  "mp_regen": 20,
+  "skills": [
+   {
+    "id": 910308100,
+    "name": "Seaweed Tangle",
+    "desc": "After every 4 attacks, Archers are unable to attack for 3s.",
+    "kind": "skill"
+   }
+  ],
+  "passives": [],
+  "icon": "icons/Icons/HeadIcon/Icon_Head_910318.png"
+ },
+ {
+  "id": 920104,
+  "name": "Seed Flower",
+  "unit_name": "Seed Flower",
+  "rarity": "B",
+  "rarity_name": "Rare",
+  "quality": 2,
+  "race": "-",
+  "role": "-",
+  "cost": 1,
+  "max_level": 50,
+  "hp": 7200,
+  "atk": 2770,
+  "defense": 800,
+  "atk_speed": 39,
+  "atk_range": 4,
+  "move_speed": 5,
+  "crit_dmg": 15000,
+  "mp_regen": 20,
+  "skills": [
+   {
+    "id": 910104100,
+    "name": "Parasite Bullet",
+    "desc": "Each attack also strikes Mages, reducing their Energy recovery speed by 25%.",
+    "kind": "skill"
+   }
+  ],
+  "passives": [],
+  "icon": "icons/Icons/HeadIcon/Icon_Head_910104.png"
+ },
+ {
+  "id": 920101,
+  "name": "Slime",
+  "unit_name": "Slime",
+  "rarity": "B",
+  "rarity_name": "Rare",
+  "quality": 2,
+  "race": "-",
+  "role": "-",
+  "cost": 1,
+  "max_level": 50,
+  "hp": 10800,
+  "atk": 1850,
+  "defense": 1200,
+  "atk_speed": 100,
+  "atk_range": 1,
+  "move_speed": 5,
+  "crit_dmg": 15000,
+  "mp_regen": 20,
+  "skills": [
+   {
+    "id": 910101100,
+    "name": "Death Splitting",
+    "desc": "Each time it is hit by an Archer, it has a 40% chance to split into a new copy.",
+    "kind": "skill"
+   }
+  ],
+  "passives": [],
+  "icon": "icons/Icons/HeadIcon/Icon_Head_910101.png"
+ },
+ {
+  "id": 810211,
+  "name": "Slime King",
+  "unit_name": "Slime King",
+  "rarity": "B",
+  "rarity_name": "Rare",
+  "quality": 2,
+  "race": "-",
+  "role": "-",
+  "cost": 1,
+  "max_level": 50,
+  "hp": 15500,
+  "atk": 3250,
+  "defense": 1000,
+  "atk_speed": 100,
+  "atk_range": 1,
+  "move_speed": 5,
+  "crit_dmg": 15000,
+  "mp_regen": 20,
+  "skills": [
+   {
+    "id": 810201100,
+    "name": "Shockwave",
+    "desc": "Damages and knocks back enemies in front.",
+    "kind": "skill"
+   }
+  ],
+  "passives": [
+   {
+    "id": 810211200,
+    "name": "Split",
+    "desc": "Upon death, splits into two smaller slimes that are ejected, can split up to 3 times in total, inheriting 60% ATK and 50% HP, inheriting basic attacks and ultimate skills",
+    "kind": "skill"
+   },
+   {
+    "id": 810201300,
+    "name": "Slime Will",
+    "desc": "When a slime dies, it inc. the ATK and defense of other alive slimes by 10% each",
+    "kind": "skill"
+   }
+  ],
+  "icon": "icons/Icons/HeadIcon/Icon_Head_810201.png"
+ },
+ {
+  "id": 920203,
+  "name": "Spiny Mouse",
+  "unit_name": "Spiny Mouse",
+  "rarity": "B",
+  "rarity_name": "Rare",
+  "quality": 2,
+  "race": "-",
+  "role": "-",
+  "cost": 1,
+  "max_level": 50,
+  "hp": 7200,
+  "atk": 2770,
+  "defense": 800,
+  "atk_speed": 35,
+  "atk_range": 4,
+  "move_speed": 5,
+  "crit_dmg": 15000,
+  "mp_regen": 20,
+  "skills": [
+   {
+    "id": 910203100,
+    "name": "Group Spike",
+    "desc": "Every 4th attack deals damage equal to 100% ATK to all enemies.",
+    "kind": "skill"
+   }
+  ],
+  "passives": [],
+  "icon": "icons/Icons/HeadIcon/Icon_Head_920203.png"
+ },
+ {
+  "id": 8302041,
+  "name": "Tentacle",
+  "unit_name": "Tentacle",
+  "rarity": "B",
+  "rarity_name": "Rare",
+  "quality": 2,
+  "race": "-",
+  "role": "-",
+  "cost": 1,
+  "max_level": 50,
+  "hp": 15000,
+  "atk": 3250,
+  "defense": 1000,
+  "atk_speed": 100,
+  "atk_range": 1,
+  "move_speed": 5,
+  "crit_dmg": 15000,
+  "mp_regen": 20,
+  "skills": [],
+  "passives": [],
+  "icon": "icons/Icons/HeadIcon/Icon_Head_8302041.png"
+ },
+ {
+  "id": 8302042,
+  "name": "Tentacle",
+  "unit_name": "Tentacle",
+  "rarity": "B",
+  "rarity_name": "Rare",
+  "quality": 2,
+  "race": "-",
+  "role": "-",
+  "cost": 1,
+  "max_level": 50,
+  "hp": 144000,
+  "atk": 2900,
+  "defense": 300,
+  "atk_speed": 100,
+  "atk_range": 1,
+  "move_speed": 0,
+  "crit_dmg": 15000,
+  "mp_regen": 20,
+  "skills": [],
+  "passives": [],
+  "icon": "icons/Icons/HeadIcon/Icon_Head_8302041.png"
+ },
+ {
+  "id": 8102011,
+  "name": "The Split Slime King",
+  "unit_name": "The Split Slime King",
+  "rarity": "B",
+  "rarity_name": "Rare",
+  "quality": 2,
+  "race": "-",
+  "role": "-",
+  "cost": 1,
+  "max_level": 50,
+  "hp": 15000,
+  "atk": 3250,
+  "defense": 1000,
+  "atk_speed": 100,
+  "atk_range": 1,
+  "move_speed": 5,
+  "crit_dmg": 15000,
+  "mp_regen": 20,
+  "skills": [
+   {
+    "id": 810201100,
+    "name": "Shockwave",
+    "desc": "Damages and knocks back enemies in front.",
+    "kind": "skill"
+   }
+  ],
+  "passives": [],
+  "icon": "icons/Icons/HeadIcon/Icon_Head_810201.png"
+ },
+ {
+  "id": 8102012,
+  "name": "The Split Slime King",
+  "unit_name": "The Split Slime King",
+  "rarity": "B",
+  "rarity_name": "Rare",
+  "quality": 2,
+  "race": "-",
+  "role": "-",
+  "cost": 1,
+  "max_level": 50,
+  "hp": 15000,
+  "atk": 3250,
+  "defense": 1000,
+  "atk_speed": 100,
+  "atk_range": 1,
+  "move_speed": 5,
+  "crit_dmg": 15000,
+  "mp_regen": 20,
+  "skills": [
+   {
+    "id": 810201100,
+    "name": "Shockwave",
+    "desc": "Damages and knocks back enemies in front.",
+    "kind": "skill"
+   }
+  ],
+  "passives": [],
+  "icon": "icons/Icons/HeadIcon/Icon_Head_810201.png"
+ },
+ {
+  "id": 8102013,
+  "name": "The Split Slime King",
+  "unit_name": "The Split Slime King",
+  "rarity": "B",
+  "rarity_name": "Rare",
+  "quality": 2,
+  "race": "-",
+  "role": "-",
+  "cost": 1,
+  "max_level": 50,
+  "hp": 15000,
+  "atk": 3250,
+  "defense": 1000,
+  "atk_speed": 100,
+  "atk_range": 1,
+  "move_speed": 5,
+  "crit_dmg": 15000,
+  "mp_regen": 20,
+  "skills": [
+   {
+    "id": 810201100,
+    "name": "Shockwave",
+    "desc": "Damages and knocks back enemies in front.",
+    "kind": "skill"
+   }
+  ],
+  "passives": [],
+  "icon": "icons/Icons/HeadIcon/Icon_Head_810201.png"
+ },
+ {
+  "id": 8102014,
+  "name": "The Split Slime King",
+  "unit_name": "The Split Slime King",
+  "rarity": "B",
+  "rarity_name": "Rare",
+  "quality": 2,
+  "race": "-",
+  "role": "-",
+  "cost": 1,
+  "max_level": 50,
+  "hp": 15000,
+  "atk": 3250,
+  "defense": 1000,
+  "atk_speed": 100,
+  "atk_range": 1,
+  "move_speed": 5,
+  "crit_dmg": 15000,
+  "mp_regen": 20,
+  "skills": [
+   {
+    "id": 810201100,
+    "name": "Shockwave",
+    "desc": "Damages and knocks back enemies in front.",
+    "kind": "skill"
+   }
+  ],
+  "passives": [],
+  "icon": "icons/Icons/HeadIcon/Icon_Head_810201.png"
+ },
+ {
+  "id": 820211,
+  "name": "Two-Headed Dog",
+  "unit_name": "Two-Headed Dog",
+  "rarity": "B",
+  "rarity_name": "Rare",
+  "quality": 2,
+  "race": "-",
+  "role": "-",
+  "cost": 1,
+  "max_level": 50,
+  "hp": 15000,
+  "atk": 3250,
+  "defense": 1000,
+  "atk_speed": 100,
+  "atk_range": 1,
+  "move_speed": 5,
+  "crit_dmg": 15000,
+  "mp_regen": 20,
+  "skills": [
+   {
+    "id": 820201100,
+    "name": "Hellfire",
+    "desc": "Deals damage to units within 3 tiles of the target.",
+    "kind": "skill"
+   }
+  ],
+  "passives": [
+   {
+    "id": 820211200,
+    "name": "Scorched Earth Edict",
+    "desc": "Every 3s, randomly selects 5 tiles to create burning floor, lasting 15s, dealing 50% ATK power DMG per s",
+    "kind": "skill"
+   }
+  ],
+  "icon": "icons/Icons/HeadIcon/Icon_Head_820201.png"
+ },
+ {
+  "id": 830202,
+  "name": "Venomous Catfish King",
+  "unit_name": "Venomous Catfish King",
+  "rarity": "B",
+  "rarity_name": "Rare",
+  "quality": 2,
+  "race": "-",
+  "role": "-",
+  "cost": 1,
+  "max_level": 50,
+  "hp": 21000,
+  "atk": 3800,
+  "defense": 1000,
+  "atk_speed": 100,
+  "atk_range": 4,
+  "move_speed": 5,
+  "crit_dmg": 15000,
+  "mp_regen": 20,
+  "skills": [
+   {
+    "id": 830202100,
+    "name": "Bubble Shot",
+    "desc": "Fires 5 bubbles, dealing massive damage.",
+    "kind": "skill"
+   }
+  ],
+  "passives": [
+   {
+    "id": 830202200,
+    "name": "Venom",
+    "desc": "Bubble attacks apply stacking poison, draining HP every second.",
+    "kind": "skill"
+   }
+  ],
+  "icon": "icons/Icons/HeadIcon/Icon_Head_830212.png"
+ },
+ {
+  "id": 930102,
+  "name": "Alchemist",
+  "unit_name": "Alchemist",
+  "rarity": "C",
+  "rarity_name": "Great",
+  "quality": 1,
+  "race": "-",
+  "role": "-",
+  "cost": 1,
+  "max_level": 50,
+  "hp": 18000,
+  "atk": 600,
+  "defense": 300,
+  "atk_speed": 100,
+  "atk_range": 1,
+  "move_speed": 5,
+  "crit_dmg": 15000,
+  "mp_regen": 20,
+  "skills": [],
+  "passives": [],
+  "icon": null
+ },
+ {
+  "id": 910307,
+  "name": "Ammonite Beast",
+  "unit_name": "Ammonite Beast",
+  "rarity": "C",
+  "rarity_name": "Great",
+  "quality": 1,
+  "race": "-",
+  "role": "-",
+  "cost": 1,
+  "max_level": 50,
+  "hp": 2400,
+  "atk": 1340,
+  "defense": 800,
+  "atk_speed": 30,
+  "atk_range": 4,
+  "move_speed": 5,
+  "crit_dmg": 15000,
+  "mp_regen": 20,
+  "skills": [
+   {
+    "id": 910307100,
+    "name": "Charged Blast",
+    "desc": "Basic attacks require a 3-second charge and deal area damage.",
+    "kind": "skill"
+   }
+  ],
+  "passives": [],
+  "icon": "icons/Icons/HeadIcon/Icon_Head_910307.png"
+ },
+ {
+  "id": 910106,
+  "name": "Bigmouth Man-eating Flower",
+  "unit_name": "Bigmouth Man-eating Flower",
+  "rarity": "C",
+  "rarity_name": "Great",
+  "quality": 1,
+  "race": "-",
+  "role": "-",
+  "cost": 1,
+  "max_level": 50,
+  "hp": 2400,
+  "atk": 1340,
+  "defense": 800,
+  "atk_speed": 38,
+  "atk_range": 8,
+  "move_speed": 5,
+  "crit_dmg": 15000,
+  "mp_regen": 20,
+  "skills": [
+   {
+    "id": 910106100,
+    "name": "Silent Kiss",
+    "desc": "Devours a summoned unit every 5s, Silencing it and killing it instantly.",
+    "kind": "skill"
+   }
+  ],
+  "passives": [],
+  "icon": "icons/Icons/HeadIcon/Icon_Head_910116.png"
+ },
+ {
+  "id": 930101,
+  "name": "Blacksmith",
+  "unit_name": "Blacksmith",
+  "rarity": "C",
+  "rarity_name": "Great",
+  "quality": 1,
+  "race": "-",
+  "role": "-",
+  "cost": 1,
+  "max_level": 50,
+  "hp": 18000,
+  "atk": 600,
+  "defense": 300,
+  "atk_speed": 100,
+  "atk_range": 1,
+  "move_speed": 5,
+  "crit_dmg": 15000,
+  "mp_regen": 20,
+  "skills": [],
+  "passives": [],
+  "icon": null
+ },
+ {
+  "id": 910201,
+  "name": "Cactus",
+  "unit_name": "Cactus",
+  "rarity": "C",
+  "rarity_name": "Great",
+  "quality": 1,
+  "race": "-",
+  "role": "-",
+  "cost": 1,
+  "max_level": 50,
+  "hp": 3600,
+  "atk": 900,
+  "defense": 1200,
+  "atk_speed": 100,
+  "atk_range": 1,
+  "move_speed": 5,
+  "crit_dmg": 15000,
+  "mp_regen": 20,
+  "skills": [
+   {
+    "id": 910201100,
+    "name": "Rebound",
+    "desc": "When hit by a Basic Attack, Reflects 10% of the damage taken.",
+    "kind": "skill"
+   }
+  ],
+  "passives": [],
+  "icon": "icons/Icons/HeadIcon/Icon_Head_920201.png"
+ },
+ {
+  "id": 910302,
+  "name": "Catfish Monster",
+  "unit_name": "Catfish Monster",
+  "rarity": "C",
+  "rarity_name": "Great",
+  "quality": 1,
+  "race": "-",
+  "role": "-",
+  "cost": 1,
+  "max_level": 50,
+  "hp": 3600,
+  "atk": 900,
+  "defense": 1200,
+  "atk_speed": 100,
+  "atk_range": 1,
+  "move_speed": 5,
+  "crit_dmg": 15000,
+  "mp_regen": 20,
+  "skills": [
+   {
+    "id": 910302100,
+    "name": "Mud Armor",
+    "desc": "Mud Armor: Starts battle with Mud Armor, reducing damage taken. Mud Armor disappears when HP falls below 40%.",
+    "kind": "skill"
+   }
+  ],
+  "passives": [],
+  "icon": "icons/Icons/HeadIcon/Icon_Head_910302.png"
+ },
+ {
+  "id": 910103,
+  "name": "Charging Boar",
+  "unit_name": "Charging Boar",
+  "rarity": "C",
+  "rarity_name": "Great",
+  "quality": 1,
+  "race": "-",
+  "role": "-",
+  "cost": 1,
+  "max_level": 50,
+  "hp": 3600,
+  "atk": 900,
+  "defense": 1200,
+  "atk_speed": 100,
+  "atk_range": 1,
+  "move_speed": 5,
+  "crit_dmg": 15000,
+  "mp_regen": 20,
+  "skills": [
+   {
+    "id": 910103100,
+    "name": "Charge",
+    "desc": "At the start of battle, charges the farthest enemy, dealing damage equal to 200% ATK. Basic Attack damage gains an additional 100% multiplier.",
+    "kind": "skill"
+   }
+  ],
+  "passives": [],
+  "icon": "icons/Icons/HeadIcon/Icon_Head_910113.png"
+ },
+ {
+  "id": 930103,
+  "name": "Collector",
+  "unit_name": "Collector",
+  "rarity": "C",
+  "rarity_name": "Great",
+  "quality": 1,
+  "race": "-",
+  "role": "-",
+  "cost": 1,
+  "max_level": 50,
+  "hp": 18000,
+  "atk": 600,
+  "defense": 300,
+  "atk_speed": 100,
+  "atk_range": 1,
+  "move_speed": 5,
+  "crit_dmg": 15000,
+  "mp_regen": 20,
+  "skills": [],
+  "passives": [],
+  "icon": null
+ },
+ {
+  "id": 910301,
+  "name": "Crab Monster",
+  "unit_name": "Crab Monster",
+  "rarity": "C",
+  "rarity_name": "Great",
+  "quality": 1,
+  "race": "-",
+  "role": "-",
+  "cost": 1,
+  "max_level": 50,
+  "hp": 3600,
+  "atk": 900,
+  "defense": 1200,
+  "atk_speed": 100,
+  "atk_range": 1,
+  "move_speed": 5,
+  "crit_dmg": 15000,
+  "mp_regen": 20,
+  "skills": [
+   {
+    "id": 910301100,
+    "name": "Counterstrike",
+    "desc": "Whenever attacked, gains a Shield equal to 3% of Max HP.",
+    "kind": "skill"
+   }
+  ],
+  "passives": [],
+  "icon": "icons/Icons/HeadIcon/Icon_Head_910301.png"
+ },
+ {
+  "id": 910206,
+  "name": "Desert Flower",
+  "unit_name": "Desert Flower",
+  "rarity": "C",
+  "rarity_name": "Great",
+  "quality": 1,
+  "race": "-",
+  "role": "-",
+  "cost": 1,
+  "max_level": 50,
+  "hp": 2400,
+  "atk": 1340,
+  "defense": 800,
+  "atk_speed": 28,
+  "atk_range": 4,
+  "move_speed": 5,
+  "crit_dmg": 15000,
+  "mp_regen": 20,
+  "skills": [
+   {
+    "id": 910206100,
+    "name": "Nectar Inspiration",
+    "desc": "Grants a blessing to two random allies, restoring HP and increasing attack speed",
+    "kind": "skill"
+   }
+  ],
+  "passives": [],
+  "icon": "icons/Icons/HeadIcon/Icon_Head_920206.png"
+ },
+ {
+  "id": 910205,
+  "name": "Desert Worm",
+  "unit_name": "Desert Worm",
+  "rarity": "C",
+  "rarity_name": "Great",
+  "quality": 1,
+  "race": "-",
+  "role": "-",
+  "cost": 1,
+  "max_level": 50,
+  "hp": 3600,
+  "atk": 900,
+  "defense": 1200,
+  "atk_speed": 100,
+  "atk_range": 1,
+  "move_speed": 5,
+  "crit_dmg": 15000,
+  "mp_regen": 20,
+  "skills": [
+   {
+    "id": 920205100,
+    "name": "Underground Strike",
+    "desc": "Every 5 seconds, burrows underground and emerges beside an enemy, dealing damage to enemies within 1 tile and stunning them for 1 second",
+    "kind": "skill"
+   }
+  ],
+  "passives": [],
+  "icon": "icons/Icons/HeadIcon/Icon_Head_920205.png"
+ },
+ {
+  "id": 910107,
+  "name": "Double-headed Flower",
+  "unit_name": "Double-headed Flower",
+  "rarity": "C",
+  "rarity_name": "Great",
+  "quality": 1,
+  "race": "-",
+  "role": "-",
+  "cost": 1,
+  "max_level": 50,
+  "hp": 2400,
+  "atk": 1340,
+  "defense": 800,
+  "atk_speed": 37,
+  "atk_range": 4,
+  "move_speed": 5,
+  "crit_dmg": 15000,
+  "mp_regen": 20,
+  "skills": [
+   {
+    "id": 910107000,
+    "name": "Twin Core Barrage",
+    "desc": "Attacks hit two enemies simultaneously",
+    "kind": "skill"
+   },
+   {
+    "id": 910107100,
+    "name": "Focused ATK",
+    "desc": "Attacks hit 2 enemies at once and ignore 20% DEF.",
+    "kind": "skill"
+   }
+  ],
+  "passives": [],
+  "icon": "icons/Icons/HeadIcon/Icon_Head_910107.png"
+ },
+ {
+  "id": 930105,
+  "name": "Explorer",
+  "unit_name": "Explorer",
+  "rarity": "C",
+  "rarity_name": "Great",
+  "quality": 1,
+  "race": "-",
+  "role": "-",
+  "cost": 1,
+  "max_level": 50,
+  "hp": 18000,
+  "atk": 600,
+  "defense": 300,
+  "atk_speed": 100,
+  "atk_range": 1,
+  "move_speed": 5,
+  "crit_dmg": 15000,
+  "mp_regen": 20,
+  "skills": [],
+  "passives": [],
+  "icon": null
+ },
+ {
+  "id": 930108,
+  "name": "Gardener",
+  "unit_name": "Gardener",
+  "rarity": "C",
+  "rarity_name": "Great",
+  "quality": 1,
+  "race": "-",
+  "role": "-",
+  "cost": 1,
+  "max_level": 50,
+  "hp": 18000,
+  "atk": 600,
+  "defense": 300,
+  "atk_speed": 100,
+  "atk_range": 1,
+  "move_speed": 5,
+  "crit_dmg": 15000,
+  "mp_regen": 20,
+  "skills": [],
+  "passives": [],
+  "icon": null
+ },
+ {
+  "id": 910102,
+  "name": "Goblin Archer",
+  "unit_name": "Goblin Archer",
+  "rarity": "C",
+  "rarity_name": "Great",
+  "quality": 1,
+  "race": "-",
+  "role": "-",
+  "cost": 1,
+  "max_level": 50,
+  "hp": 2400,
+  "atk": 1340,
+  "defense": 800,
+  "atk_speed": 40,
+  "atk_range": 4,
+  "move_speed": 5,
+  "crit_dmg": 15000,
+  "mp_regen": 20,
+  "skills": [
+   {
+    "id": 910102100,
+    "name": "Rapid-fire Bow",
+    "desc": "Attack Speed ramps up while attacking the same target.",
+    "kind": "skill"
+   }
+  ],
+  "passives": [],
+  "icon": "icons/Icons/HeadIcon/Icon_Head_910102.png"
+ },
+ {
+  "id": 910202,
+  "name": "Goblin Warrior",
+  "unit_name": "Goblin Warrior",
+  "rarity": "C",
+  "rarity_name": "Great",
+  "quality": 1,
+  "race": "-",
+  "role": "-",
+  "cost": 1,
+  "max_level": 50,
+  "hp": 3600,
+  "atk": 900,
+  "defense": 1200,
+  "atk_speed": 100,
+  "atk_range": 1,
+  "move_speed": 5,
+  "crit_dmg": 15000,
+  "mp_regen": 20,
+  "skills": [
+   {
+    "id": 910202100,
+    "name": "Stun ATK",
+    "desc": "Basic Attacks have a 40% chance to Stun the target for 1s.",
+    "kind": "skill"
+   }
+  ],
+  "passives": [],
+  "icon": "icons/Icons/HeadIcon/Icon_Head_920202.png"
+ },
+ {
+  "id": 910208,
+  "name": "Hardshell Rhinoceros Beetle",
+  "unit_name": "Hardshell Rhinoceros Beetle",
+  "rarity": "C",
+  "rarity_name": "Great",
+  "quality": 1,
+  "race": "-",
+  "role": "-",
+  "cost": 1,
+  "max_level": 50,
+  "hp": 3600,
+  "atk": 900,
+  "defense": 1200,
+  "atk_speed": 100,
+  "atk_range": 1,
+  "move_speed": 5,
+  "crit_dmg": 15000,
+  "mp_regen": 20,
+  "skills": [
+   {
+    "id": 910208100,
+    "name": "Iron Steel Shell",
+    "desc": "Immune to Calamity effects.",
+    "kind": "skill"
+   }
+  ],
+  "passives": [],
+  "icon": "icons/Icons/HeadIcon/Icon_Head_920218.png"
+ },
+ {
+  "id": 910305,
+  "name": "Hermit Crab",
+  "unit_name": "Hermit Crab",
+  "rarity": "C",
+  "rarity_name": "Great",
+  "quality": 1,
+  "race": "-",
+  "role": "-",
+  "cost": 1,
+  "max_level": 50,
+  "hp": 3600,
+  "atk": 900,
+  "defense": 1200,
+  "atk_speed": 100,
+  "atk_range": 1,
+  "move_speed": 5,
+  "crit_dmg": 15000,
+  "mp_regen": 20,
+  "skills": [
+   {
+    "id": 910305100,
+    "name": "Shell Rebirth",
+    "desc": "When near death, restore a large amount of HP.",
+    "kind": "skill"
+   }
+  ],
+  "passives": [],
+  "icon": "icons/Icons/HeadIcon/Icon_Head_910305.png"
+ },
+ {
+  "id": 910304,
+  "name": "Illusion Seahorse",
+  "unit_name": "Illusion Seahorse",
+  "rarity": "C",
+  "rarity_name": "Great",
+  "quality": 1,
+  "race": "-",
+  "role": "-",
+  "cost": 1,
+  "max_level": 50,
+  "hp": 2400,
+  "atk": 1340,
+  "defense": 800,
+  "atk_speed": 32,
+  "atk_range": 4,
+  "move_speed": 5,
+  "crit_dmg": 15000,
+  "mp_regen": 20,
+  "skills": [
+   {
+    "id": 910304100,
+    "name": "Water Gun Blast",
+    "desc": "Every 6s, converts allies' debuffs into buffs (+20% HP, +20% ATK) for 5s.",
+    "kind": "skill"
+   }
+  ],
+  "passives": [],
+  "icon": "icons/Icons/HeadIcon/Icon_Head_910314.png"
+ },
+ {
+  "id": 910115,
+  "name": "Lantern Tree",
+  "unit_name": "Lantern Tree",
+  "rarity": "C",
+  "rarity_name": "Great",
+  "quality": 1,
+  "race": "-",
+  "role": "-",
+  "cost": 1,
+  "max_level": 50,
+  "hp": 3600,
+  "atk": 900,
+  "defense": 1200,
+  "atk_speed": 100,
+  "atk_range": 1,
+  "move_speed": 5,
+  "crit_dmg": 15000,
+  "mp_regen": 20,
+  "skills": [
+   {
+    "id": 910115100,
+    "name": "Thick Bark",
+    "desc": "At the start of battle and every 5 seconds, gains a shield equal to 10% of max HP",
+    "kind": "skill"
+   }
+  ],
+  "passives": [],
+  "icon": "icons/Icons/HeadIcon/Icon_Head_910105.png"
+ },
+ {
+  "id": 910118,
+  "name": "Leaf Fox",
+  "unit_name": "Leaf Fox",
+  "rarity": "C",
+  "rarity_name": "Great",
+  "quality": 1,
+  "race": "-",
+  "role": "-",
+  "cost": 1,
+  "max_level": 50,
+  "hp": 2400,
+  "atk": 1340,
+  "defense": 800,
+  "atk_speed": 36,
+  "atk_range": 4,
+  "move_speed": 5,
+  "crit_dmg": 15000,
+  "mp_regen": 20,
+  "skills": [
+   {
+    "id": 910118100,
+    "name": "Emerald Leaf Offering",
+    "desc": "Feeds an apple to an ally, restoring HP equal to 60% of Attack",
+    "kind": "skill"
+   }
+  ],
+  "passives": [],
+  "icon": "icons/Icons/HeadIcon/Icon_Head_910108.png"
+ },
+ {
+  "id": 9101011,
+  "name": "Little Slime",
+  "unit_name": "Little Slime",
+  "rarity": "C",
+  "rarity_name": "Great",
+  "quality": 1,
+  "race": "-",
+  "role": "-",
+  "cost": 1,
+  "max_level": 50,
+  "hp": 3600,
+  "atk": 900,
+  "defense": 1200,
+  "atk_speed": 100,
+  "atk_range": 1,
+  "move_speed": 5,
+  "crit_dmg": 15000,
+  "mp_regen": 20,
+  "skills": [],
+  "passives": [],
+  "icon": null
+ },
+ {
+  "id": 910116,
+  "name": "Man-eating Flower",
+  "unit_name": "Man-eating Flower",
+  "rarity": "C",
+  "rarity_name": "Great",
+  "quality": 1,
+  "race": "-",
+  "role": "-",
+  "cost": 1,
+  "max_level": 50,
+  "hp": 2400,
+  "atk": 1340,
+  "defense": 800,
+  "atk_speed": 38,
+  "atk_range": 8,
+  "move_speed": 5,
+  "crit_dmg": 15000,
+  "mp_regen": 20,
+  "skills": [
+   {
+    "id": 910116100,
+    "name": "Silent Kiss",
+    "desc": "Basic attacks have a 30% chance to stun enemies for 0.5 seconds",
+    "kind": "skill"
+   }
+  ],
+  "passives": [],
+  "icon": "icons/Icons/HeadIcon/Icon_Head_910106.png"
+ },
+ {
+  "id": 190102,
+  "name": "Melee Treant",
+  "unit_name": "Melee Treant",
+  "rarity": "C",
+  "rarity_name": "Great",
+  "quality": 1,
+  "race": "-",
+  "role": "-",
+  "cost": 1,
+  "max_level": 50,
+  "hp": 3600,
+  "atk": 900,
+  "defense": 1200,
+  "atk_speed": 100,
+  "atk_range": 1,
+  "move_speed": 5,
+  "crit_dmg": 15000,
+  "mp_regen": 20,
+  "skills": [],
+  "passives": [],
+  "icon": "icons/Icons/HeadIcon/Icon_Head_190102.png"
+ },
+ {
+  "id": 930106,
+  "name": "Merchant",
+  "unit_name": "Merchant",
+  "rarity": "C",
+  "rarity_name": "Great",
+  "quality": 1,
+  "race": "-",
+  "role": "-",
+  "cost": 1,
+  "max_level": 50,
+  "hp": 18000,
+  "atk": 600,
+  "defense": 300,
+  "atk_speed": 100,
+  "atk_range": 1,
+  "move_speed": 5,
+  "crit_dmg": 15000,
+  "mp_regen": 20,
+  "skills": [],
+  "passives": [],
+  "icon": null
+ },
+ {
+  "id": 910303,
+  "name": "Mist Octopus",
+  "unit_name": "Mist Octopus",
+  "rarity": "C",
+  "rarity_name": "Great",
+  "quality": 1,
+  "race": "-",
+  "role": "-",
+  "cost": 1,
+  "max_level": 50,
+  "hp": 2400,
+  "atk": 1340,
+  "defense": 800,
+  "atk_speed": 33,
+  "atk_range": 8,
+  "move_speed": 5,
+  "crit_dmg": 15000,
+  "mp_regen": 20,
+  "skills": [
+   {
+    "id": 910303100,
+    "name": "Blind",
+    "desc": "Aura: Assassins' Accuracy is reduced by 50%.",
+    "kind": "skill"
+   }
+  ],
+  "passives": [],
+  "icon": "icons/Icons/HeadIcon/Icon_Head_910313.png"
+ },
+ {
+  "id": 910101,
+  "name": "Mutated Slime",
+  "unit_name": "Mutated Slime",
+  "rarity": "C",
+  "rarity_name": "Great",
+  "quality": 1,
+  "race": "-",
+  "role": "-",
+  "cost": 1,
+  "max_level": 50,
+  "hp": 3600,
+  "atk": 900,
+  "defense": 1200,
+  "atk_speed": 100,
+  "atk_range": 1,
+  "move_speed": 5,
+  "crit_dmg": 15000,
+  "mp_regen": 20,
+  "skills": [
+   {
+    "id": 910101100,
+    "name": "Death Splitting",
+    "desc": "Each time it is hit by an Archer, it has a 40% chance to split into a new copy.",
+    "kind": "skill"
+   }
+  ],
+  "passives": [],
+  "icon": "icons/Icons/HeadIcon/Icon_Head_910111.png"
+ },
+ {
+  "id": 910108,
+  "name": "Nightshade Charm Fox",
+  "unit_name": "Nightshade Charm Fox",
+  "rarity": "C",
+  "rarity_name": "Great",
+  "quality": 1,
+  "race": "-",
+  "role": "-",
+  "cost": 1,
+  "max_level": 50,
+  "hp": 2400,
+  "atk": 1340,
+  "defense": 800,
+  "atk_speed": 36,
+  "atk_range": 4,
+  "move_speed": 5,
+  "crit_dmg": 15000,
+  "mp_regen": 20,
+  "skills": [
+   {
+    "id": 910108100,
+    "name": "Emerald Leaf Offering",
+    "desc": "At the start of battle, Charms Assassins for 15s.",
+    "kind": "skill"
+   }
+  ],
+  "passives": [],
+  "icon": "icons/Icons/HeadIcon/Icon_Head_910118.png"
+ },
+ {
+  "id": 910313,
+  "name": "Octopus Monster",
+  "unit_name": "Octopus Monster",
+  "rarity": "C",
+  "rarity_name": "Great",
+  "quality": 1,
+  "race": "-",
+  "role": "-",
+  "cost": 1,
+  "max_level": 50,
+  "hp": 2400,
+  "atk": 1340,
+  "defense": 800,
+  "atk_speed": 33,
+  "atk_range": 8,
+  "move_speed": 5,
+  "crit_dmg": 15000,
+  "mp_regen": 20,
+  "skills": [
+   {
+    "id": 910313100,
+    "name": "Blind",
+    "desc": "When attacking, there is a 30% chance to use ink to Blind enemies for 3 seconds, reducing Accuracy by 25% and Attack Speed by 25%",
+    "kind": "skill"
+   }
+  ],
+  "passives": [],
+  "icon": "icons/Icons/HeadIcon/Icon_Head_910303.png"
+ },
+ {
+  "id": 910204,
+  "name": "Poison Bug",
+  "unit_name": "Poison Bug",
+  "rarity": "C",
+  "rarity_name": "Great",
+  "quality": 1,
+  "race": "-",
+  "role": "-",
+  "cost": 1,
+  "max_level": 50,
+  "hp": 2400,
+  "atk": 1340,
+  "defense": 800,
+  "atk_speed": 34,
+  "atk_range": 4,
+  "move_speed": 5,
+  "crit_dmg": 15000,
+  "mp_regen": 20,
+  "skills": [
+   {
+    "id": 910204100,
+    "name": "Poison Bullet",
+    "desc": "Basic Attacks have a 30% chance to inflict Poison. Each stack deals true damage equal to 1% Max HP per second until battle ends.",
+    "kind": "skill"
+   }
+  ],
+  "passives": [],
+  "icon": "icons/Icons/HeadIcon/Icon_Head_920204.png"
+ },
+ {
+  "id": 930107,
+  "name": "Rainbow Creature",
+  "unit_name": "Rainbow Creature",
+  "rarity": "C",
+  "rarity_name": "Great",
+  "quality": 1,
+  "race": "-",
+  "role": "-",
+  "cost": 1,
+  "max_level": 50,
+  "hp": 18000,
+  "atk": 600,
+  "defense": 300,
+  "atk_speed": 100,
+  "atk_range": 1,
+  "move_speed": 5,
+  "crit_dmg": 15000,
+  "mp_regen": 20,
+  "skills": [],
+  "passives": [],
+  "icon": null
+ },
+ {
+  "id": 190103,
+  "name": "Ranged Treant",
+  "unit_name": "Ranged Treant",
+  "rarity": "C",
+  "rarity_name": "Great",
+  "quality": 1,
+  "race": "-",
+  "role": "-",
+  "cost": 1,
+  "max_level": 50,
+  "hp": 2400,
+  "atk": 1340,
+  "defense": 800,
+  "atk_speed": 40,
+  "atk_range": 4,
+  "move_speed": 5,
+  "crit_dmg": 15000,
+  "mp_regen": 20,
+  "skills": [],
+  "passives": [],
+  "icon": "icons/Icons/HeadIcon/Icon_Head_190103.png"
+ },
+ {
+  "id": 910218,
+  "name": "Rhinoceros Beetle",
+  "unit_name": "Rhinoceros Beetle",
+  "rarity": "C",
+  "rarity_name": "Great",
+  "quality": 1,
+  "race": "-",
+  "role": "-",
+  "cost": 1,
+  "max_level": 50,
+  "hp": 3600,
+  "atk": 900,
+  "defense": 1200,
+  "atk_speed": 100,
+  "atk_range": 1,
+  "move_speed": 5,
+  "crit_dmg": 15000,
+  "mp_regen": 20,
+  "skills": [
+   {
+    "id": 910218100,
+    "name": "Iron Steel Shell",
+    "desc": "When HP first falls below 50%, enters Hardened Shell state, gaining a shield equal to 50% of max HP, and after 3 seconds restores HP equal to 400% of Attack",
+    "kind": "skill"
+   }
+  ],
+  "passives": [],
+  "icon": "icons/Icons/HeadIcon/Icon_Head_920208.png"
+ },
+ {
+  "id": 910113,
+  "name": "Running Pig",
+  "unit_name": "Running Pig",
+  "rarity": "C",
+  "rarity_name": "Great",
+  "quality": 1,
+  "race": "-",
+  "role": "-",
+  "cost": 1,
+  "max_level": 50,
+  "hp": 3600,
+  "atk": 900,
+  "defense": 1200,
+  "atk_speed": 100,
+  "atk_range": 1,
+  "move_speed": 5,
+  "crit_dmg": 15000,
+  "mp_regen": 20,
+  "skills": [
+   {
+    "id": 910113100,
+    "name": "Charge",
+    "desc": "Every 3 seconds, charges at an enemy and deals damage equal to 300% of Attack",
+    "kind": "skill"
+   }
+  ],
+  "passives": [],
+  "icon": "icons/Icons/HeadIcon/Icon_Head_910103.png"
+ },
+ {
+  "id": 910207,
+  "name": "Scorpion Monster",
+  "unit_name": "Scorpion Monster",
+  "rarity": "C",
+  "rarity_name": "Great",
+  "quality": 1,
+  "race": "-",
+  "role": "-",
+  "cost": 1,
+  "max_level": 50,
+  "hp": 2400,
+  "atk": 1340,
+  "defense": 800,
+  "atk_speed": 27,
+  "atk_range": 4,
+  "move_speed": 5,
+  "crit_dmg": 15000,
+  "mp_regen": 20,
+  "skills": [
+   {
+    "id": 910207100,
+    "name": "Weakening Sting",
+    "desc": "Basic Attacks reduce the target's damage dealt and Attack Speed.",
+    "kind": "skill"
+   }
+  ],
+  "passives": [],
+  "icon": "icons/Icons/HeadIcon/Icon_Head_920207.png"
+ },
+ {
+  "id": 910306,
+  "name": "Sea Anemone Monster",
+  "unit_name": "Sea Anemone Monster",
+  "rarity": "C",
+  "rarity_name": "Great",
+  "quality": 1,
+  "race": "-",
+  "role": "-",
+  "cost": 1,
+  "max_level": 50,
+  "hp": 2400,
+  "atk": 1340,
+  "defense": 800,
+  "atk_speed": 31,
+  "atk_range": 4,
+  "move_speed": 5,
+  "crit_dmg": 15000,
+  "mp_regen": 20,
+  "skills": [
+   {
+    "id": 910306100,
+    "name": "Bloodsucking Tentacle",
+    "desc": "Hurls tentacles that latch onto enemies, dealing damage and restoring HP equal to the damage dealt.",
+    "kind": "skill"
+   }
+  ],
+  "passives": [],
+  "icon": "icons/Icons/HeadIcon/Icon_Head_910306.png"
+ },
+ {
+  "id": 910314,
+  "name": "Seahorse",
+  "unit_name": "Seahorse",
+  "rarity": "C",
+  "rarity_name": "Great",
+  "quality": 1,
+  "race": "-",
+  "role": "-",
+  "cost": 1,
+  "max_level": 50,
+  "hp": 2400,
+  "atk": 1340,
+  "defense": 800,
+  "atk_speed": 32,
+  "atk_range": 4,
+  "move_speed": 5,
+  "crit_dmg": 15000,
+  "mp_regen": 20,
+  "skills": [
+   {
+    "id": 910314100,
+    "name": "Water Gun Blast",
+    "desc": "Every 5 attacks, releases a powerful water stream that deals damage equal to 500% of Attack to one enemy and knocks it back by 1 tile",
+    "kind": "skill"
+   }
+  ],
+  "passives": [],
+  "icon": "icons/Icons/HeadIcon/Icon_Head_910304.png"
+ },
+ {
+  "id": 910318,
+  "name": "Seaweed Monster",
+  "unit_name": "Seaweed Monster",
+  "rarity": "C",
+  "rarity_name": "Great",
+  "quality": 1,
+  "race": "-",
+  "role": "-",
+  "cost": 1,
+  "max_level": 50,
+  "hp": 2400,
+  "atk": 1340,
+  "defense": 800,
+  "atk_speed": 29,
+  "atk_range": 4,
+  "move_speed": 5,
+  "crit_dmg": 15000,
+  "mp_regen": 20,
+  "skills": [
+   {
+    "id": 910318100,
+    "name": "Seaweed Tangle",
+    "desc": "Attacks have a 30% chance to entangle enemies with seaweed (stun effect) for 2 seconds",
+    "kind": "skill"
+   }
+  ],
+  "passives": [],
+  "icon": "icons/Icons/HeadIcon/Icon_Head_910308.png"
+ },
+ {
+  "id": 910104,
+  "name": "Seed Flower",
+  "unit_name": "Seed Flower",
+  "rarity": "C",
+  "rarity_name": "Great",
+  "quality": 1,
+  "race": "-",
+  "role": "-",
+  "cost": 1,
+  "max_level": 50,
+  "hp": 2400,
+  "atk": 1340,
+  "defense": 800,
+  "atk_speed": 39,
+  "atk_range": 4,
+  "move_speed": 5,
+  "crit_dmg": 15000,
+  "mp_regen": 20,
+  "skills": [
+   {
+    "id": 910104100,
+    "name": "Parasite Bullet",
+    "desc": "Each attack also strikes Mages, reducing their Energy recovery speed by 25%.",
+    "kind": "skill"
+   }
+  ],
+  "passives": [],
+  "icon": "icons/Icons/HeadIcon/Icon_Head_910104.png"
+ },
+ {
+  "id": 910308,
+  "name": "Shrinkshell Seaweed",
+  "unit_name": "Shrinkshell Seaweed",
+  "rarity": "C",
+  "rarity_name": "Great",
+  "quality": 1,
+  "race": "-",
+  "role": "-",
+  "cost": 1,
+  "max_level": 50,
+  "hp": 2400,
+  "atk": 1340,
+  "defense": 800,
+  "atk_speed": 29,
+  "atk_range": 4,
+  "move_speed": 5,
+  "crit_dmg": 15000,
+  "mp_regen": 20,
+  "skills": [
+   {
+    "id": 910308100,
+    "name": "Seaweed Tangle",
+    "desc": "After every 4 attacks, Archers are unable to attack for 3s.",
+    "kind": "skill"
+   }
+  ],
+  "passives": [],
+  "icon": "icons/Icons/HeadIcon/Icon_Head_910318.png"
+ },
+ {
+  "id": 910111,
+  "name": "Slime",
+  "unit_name": "Slime",
+  "rarity": "C",
+  "rarity_name": "Great",
+  "quality": 1,
+  "race": "-",
+  "role": "-",
+  "cost": 1,
+  "max_level": 50,
+  "hp": 3600,
+  "atk": 900,
+  "defense": 1200,
+  "atk_speed": 100,
+  "atk_range": 1,
+  "move_speed": 5,
+  "crit_dmg": 15000,
+  "mp_regen": 20,
+  "skills": [
+   {
+    "id": 910111100,
+    "name": "Death Splitting",
+    "desc": "Upon death, splits into 2 small slimes inheriting 70% stats",
+    "kind": "skill"
+   }
+  ],
+  "passives": [],
+  "icon": "icons/Icons/HeadIcon/Icon_Head_910101.png"
+ },
+ {
+  "id": 910105,
+  "name": "Spellbreaking Lantern Tree",
+  "unit_name": "Spellbreaking Lantern Tree",
+  "rarity": "C",
+  "rarity_name": "Great",
+  "quality": 1,
+  "race": "-",
+  "role": "-",
+  "cost": 1,
+  "max_level": 50,
+  "hp": 3600,
+  "atk": 900,
+  "defense": 1200,
+  "atk_speed": 100,
+  "atk_range": 1,
+  "move_speed": 5,
+  "crit_dmg": 15000,
+  "mp_regen": 20,
+  "skills": [
+   {
+    "id": 910105100,
+    "name": "Thick Bark",
+    "desc": "After being hit by a Mage, gains a shield equal to 50% of Max HP. Cooldown: 5s.",
+    "kind": "skill"
+   }
+  ],
+  "passives": [],
+  "icon": "icons/Icons/HeadIcon/Icon_Head_910115.png"
+ },
+ {
+  "id": 910203,
+  "name": "Spiny Mouse",
+  "unit_name": "Spiny Mouse",
+  "rarity": "C",
+  "rarity_name": "Great",
+  "quality": 1,
+  "race": "-",
+  "role": "-",
+  "cost": 1,
+  "max_level": 50,
+  "hp": 2400,
+  "atk": 1340,
+  "defense": 800,
+  "atk_speed": 35,
+  "atk_range": 4,
+  "move_speed": 5,
+  "crit_dmg": 15000,
+  "mp_regen": 20,
+  "skills": [
+   {
+    "id": 910203100,
+    "name": "Group Spike",
+    "desc": "Every 4th attack deals damage equal to 100% ATK to all enemies.",
+    "kind": "skill"
+   }
+  ],
+  "passives": [],
+  "icon": "icons/Icons/HeadIcon/Icon_Head_920203.png"
+ },
+ {
+  "id": 930104,
+  "name": "Tycoon",
+  "unit_name": "Tycoon",
+  "rarity": "C",
+  "rarity_name": "Great",
+  "quality": 1,
+  "race": "-",
+  "role": "-",
+  "cost": 1,
+  "max_level": 50,
+  "hp": 18000,
+  "atk": 600,
+  "defense": 300,
+  "atk_speed": 100,
+  "atk_range": 1,
+  "move_speed": 5,
+  "crit_dmg": 15000,
+  "mp_regen": 20,
+  "skills": [],
+  "passives": [],
+  "icon": null
+ },
+ {
+  "id": 930201,
+  "name": "Wild Boar",
+  "unit_name": "Wild Boar",
+  "rarity": "C",
+  "rarity_name": "Great",
+  "quality": 1,
+  "race": "-",
+  "role": "-",
+  "cost": 1,
+  "max_level": 50,
+  "hp": 18000,
+  "atk": 600,
+  "defense": 300,
+  "atk_speed": 100,
+  "atk_range": 1,
+  "move_speed": 5,
+  "crit_dmg": 15000,
+  "mp_regen": 20,
+  "skills": [],
+  "passives": [],
+  "icon": null
+ }
+]

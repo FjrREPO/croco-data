@@ -1,0 +1,6712 @@
+[
+ {
+  "ID": 430301011,
+  "SkinID": 43030101,
+  "SkinStar": 1,
+  "StarUpItemID": 43030101,
+  "StarUpItemNum": 1,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   10,
+   5,
+   150
+  ]
+ },
+ {
+  "ID": 430301012,
+  "SkinID": 43030101,
+  "SkinStar": 2,
+  "StarUpItemID": 43030101,
+  "StarUpItemNum": 1,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   20,
+   10,
+   300
+  ]
+ },
+ {
+  "ID": 430301013,
+  "SkinID": 43030101,
+  "SkinStar": 3,
+  "StarUpItemID": 43030101,
+  "StarUpItemNum": 1,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   30,
+   15,
+   450
+  ]
+ },
+ {
+  "ID": 430301014,
+  "SkinID": 43030101,
+  "SkinStar": 4,
+  "StarUpItemID": 43030101,
+  "StarUpItemNum": 1,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   40,
+   20,
+   600
+  ]
+ },
+ {
+  "ID": 430301015,
+  "SkinID": 43030101,
+  "SkinStar": 5,
+  "StarUpItemID": 43030101,
+  "StarUpItemNum": 1,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   50,
+   25,
+   750
+  ]
+ },
+ {
+  "ID": 430301021,
+  "SkinID": 43030102,
+  "SkinStar": 1,
+  "StarUpItemID": 43030102,
+  "StarUpItemNum": 1,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   60,
+   30,
+   900
+  ]
+ },
+ {
+  "ID": 430301022,
+  "SkinID": 43030102,
+  "SkinStar": 2,
+  "StarUpItemID": 43030102,
+  "StarUpItemNum": 1,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   120,
+   60,
+   1800
+  ]
+ },
+ {
+  "ID": 430301023,
+  "SkinID": 43030102,
+  "SkinStar": 3,
+  "StarUpItemID": 43030102,
+  "StarUpItemNum": 1,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   180,
+   90,
+   2700
+  ]
+ },
+ {
+  "ID": 430301024,
+  "SkinID": 43030102,
+  "SkinStar": 4,
+  "StarUpItemID": 43030102,
+  "StarUpItemNum": 1,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   240,
+   120,
+   3600
+  ]
+ },
+ {
+  "ID": 430301025,
+  "SkinID": 43030102,
+  "SkinStar": 5,
+  "StarUpItemID": 43030102,
+  "StarUpItemNum": 1,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   300,
+   150,
+   4500
+  ]
+ },
+ {
+  "ID": 110101011,
+  "SkinID": 11010101,
+  "SkinStar": 1,
+  "StarUpItemID": 11010101,
+  "StarUpItemNum": 1,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   10,
+   5,
+   150
+  ]
+ },
+ {
+  "ID": 110101012,
+  "SkinID": 11010101,
+  "SkinStar": 2,
+  "StarUpItemID": 11010101,
+  "StarUpItemNum": 1,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   20,
+   10,
+   300
+  ]
+ },
+ {
+  "ID": 110101013,
+  "SkinID": 11010101,
+  "SkinStar": 3,
+  "StarUpItemID": 11010101,
+  "StarUpItemNum": 1,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   30,
+   15,
+   450
+  ]
+ },
+ {
+  "ID": 110101014,
+  "SkinID": 11010101,
+  "SkinStar": 4,
+  "StarUpItemID": 11010101,
+  "StarUpItemNum": 1,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   40,
+   20,
+   600
+  ]
+ },
+ {
+  "ID": 110101015,
+  "SkinID": 11010101,
+  "SkinStar": 5,
+  "StarUpItemID": 11010101,
+  "StarUpItemNum": 1,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   50,
+   25,
+   750
+  ]
+ },
+ {
+  "ID": 110201011,
+  "SkinID": 11020101,
+  "SkinStar": 1,
+  "StarUpItemID": 11020101,
+  "StarUpItemNum": 1,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   10,
+   5,
+   150
+  ]
+ },
+ {
+  "ID": 110201012,
+  "SkinID": 11020101,
+  "SkinStar": 2,
+  "StarUpItemID": 11020101,
+  "StarUpItemNum": 1,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   20,
+   10,
+   300
+  ]
+ },
+ {
+  "ID": 110201013,
+  "SkinID": 11020101,
+  "SkinStar": 3,
+  "StarUpItemID": 11020101,
+  "StarUpItemNum": 1,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   30,
+   15,
+   450
+  ]
+ },
+ {
+  "ID": 110201014,
+  "SkinID": 11020101,
+  "SkinStar": 4,
+  "StarUpItemID": 11020101,
+  "StarUpItemNum": 1,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   40,
+   20,
+   600
+  ]
+ },
+ {
+  "ID": 110201015,
+  "SkinID": 11020101,
+  "SkinStar": 5,
+  "StarUpItemID": 11020101,
+  "StarUpItemNum": 1,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   50,
+   25,
+   750
+  ]
+ },
+ {
+  "ID": 110202011,
+  "SkinID": 11020201,
+  "SkinStar": 1,
+  "StarUpItemID": 11020201,
+  "StarUpItemNum": 1,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   10,
+   5,
+   150
+  ]
+ },
+ {
+  "ID": 110202012,
+  "SkinID": 11020201,
+  "SkinStar": 2,
+  "StarUpItemID": 11020201,
+  "StarUpItemNum": 1,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   20,
+   10,
+   300
+  ]
+ },
+ {
+  "ID": 110202013,
+  "SkinID": 11020201,
+  "SkinStar": 3,
+  "StarUpItemID": 11020201,
+  "StarUpItemNum": 1,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   30,
+   15,
+   450
+  ]
+ },
+ {
+  "ID": 110202014,
+  "SkinID": 11020201,
+  "SkinStar": 4,
+  "StarUpItemID": 11020201,
+  "StarUpItemNum": 1,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   40,
+   20,
+   600
+  ]
+ },
+ {
+  "ID": 110202015,
+  "SkinID": 11020201,
+  "SkinStar": 5,
+  "StarUpItemID": 11020201,
+  "StarUpItemNum": 1,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   50,
+   25,
+   750
+  ]
+ },
+ {
+  "ID": 110301011,
+  "SkinID": 11030101,
+  "SkinStar": 1,
+  "StarUpItemID": 11030101,
+  "StarUpItemNum": 1,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   10,
+   5,
+   150
+  ]
+ },
+ {
+  "ID": 110301012,
+  "SkinID": 11030101,
+  "SkinStar": 2,
+  "StarUpItemID": 11030101,
+  "StarUpItemNum": 1,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   20,
+   10,
+   300
+  ]
+ },
+ {
+  "ID": 110301013,
+  "SkinID": 11030101,
+  "SkinStar": 3,
+  "StarUpItemID": 11030101,
+  "StarUpItemNum": 1,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   30,
+   15,
+   450
+  ]
+ },
+ {
+  "ID": 110301014,
+  "SkinID": 11030101,
+  "SkinStar": 4,
+  "StarUpItemID": 11030101,
+  "StarUpItemNum": 1,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   40,
+   20,
+   600
+  ]
+ },
+ {
+  "ID": 110301015,
+  "SkinID": 11030101,
+  "SkinStar": 5,
+  "StarUpItemID": 11030101,
+  "StarUpItemNum": 1,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   50,
+   25,
+   750
+  ]
+ },
+ {
+  "ID": 110302011,
+  "SkinID": 11030201,
+  "SkinStar": 1,
+  "StarUpItemID": 11030201,
+  "StarUpItemNum": 1,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   10,
+   5,
+   150
+  ]
+ },
+ {
+  "ID": 110302012,
+  "SkinID": 11030201,
+  "SkinStar": 2,
+  "StarUpItemID": 11030201,
+  "StarUpItemNum": 1,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   20,
+   10,
+   300
+  ]
+ },
+ {
+  "ID": 110302013,
+  "SkinID": 11030201,
+  "SkinStar": 3,
+  "StarUpItemID": 11030201,
+  "StarUpItemNum": 1,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   30,
+   15,
+   450
+  ]
+ },
+ {
+  "ID": 110302014,
+  "SkinID": 11030201,
+  "SkinStar": 4,
+  "StarUpItemID": 11030201,
+  "StarUpItemNum": 1,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   40,
+   20,
+   600
+  ]
+ },
+ {
+  "ID": 110302015,
+  "SkinID": 11030201,
+  "SkinStar": 5,
+  "StarUpItemID": 11030201,
+  "StarUpItemNum": 1,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   50,
+   25,
+   750
+  ]
+ },
+ {
+  "ID": 110402011,
+  "SkinID": 11040201,
+  "SkinStar": 1,
+  "StarUpItemID": 11040201,
+  "StarUpItemNum": 1,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   10,
+   5,
+   150
+  ]
+ },
+ {
+  "ID": 110402012,
+  "SkinID": 11040201,
+  "SkinStar": 2,
+  "StarUpItemID": 11040201,
+  "StarUpItemNum": 1,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   20,
+   10,
+   300
+  ]
+ },
+ {
+  "ID": 110402013,
+  "SkinID": 11040201,
+  "SkinStar": 3,
+  "StarUpItemID": 11040201,
+  "StarUpItemNum": 1,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   30,
+   15,
+   450
+  ]
+ },
+ {
+  "ID": 110402014,
+  "SkinID": 11040201,
+  "SkinStar": 4,
+  "StarUpItemID": 11040201,
+  "StarUpItemNum": 1,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   40,
+   20,
+   600
+  ]
+ },
+ {
+  "ID": 110402015,
+  "SkinID": 11040201,
+  "SkinStar": 5,
+  "StarUpItemID": 11040201,
+  "StarUpItemNum": 1,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   50,
+   25,
+   750
+  ]
+ },
+ {
+  "ID": 110501011,
+  "SkinID": 11050101,
+  "SkinStar": 1,
+  "StarUpItemID": 11050101,
+  "StarUpItemNum": 1,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   10,
+   5,
+   150
+  ]
+ },
+ {
+  "ID": 110501012,
+  "SkinID": 11050101,
+  "SkinStar": 2,
+  "StarUpItemID": 11050101,
+  "StarUpItemNum": 1,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   20,
+   10,
+   300
+  ]
+ },
+ {
+  "ID": 110501013,
+  "SkinID": 11050101,
+  "SkinStar": 3,
+  "StarUpItemID": 11050101,
+  "StarUpItemNum": 1,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   30,
+   15,
+   450
+  ]
+ },
+ {
+  "ID": 110501014,
+  "SkinID": 11050101,
+  "SkinStar": 4,
+  "StarUpItemID": 11050101,
+  "StarUpItemNum": 1,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   40,
+   20,
+   600
+  ]
+ },
+ {
+  "ID": 110501015,
+  "SkinID": 11050101,
+  "SkinStar": 5,
+  "StarUpItemID": 11050101,
+  "StarUpItemNum": 1,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   50,
+   25,
+   750
+  ]
+ },
+ {
+  "ID": 110602011,
+  "SkinID": 11060201,
+  "SkinStar": 1,
+  "StarUpItemID": 11060201,
+  "StarUpItemNum": 1,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   10,
+   5,
+   150
+  ]
+ },
+ {
+  "ID": 110602012,
+  "SkinID": 11060201,
+  "SkinStar": 2,
+  "StarUpItemID": 11060201,
+  "StarUpItemNum": 1,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   20,
+   10,
+   300
+  ]
+ },
+ {
+  "ID": 110602013,
+  "SkinID": 11060201,
+  "SkinStar": 3,
+  "StarUpItemID": 11060201,
+  "StarUpItemNum": 1,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   30,
+   15,
+   450
+  ]
+ },
+ {
+  "ID": 110602014,
+  "SkinID": 11060201,
+  "SkinStar": 4,
+  "StarUpItemID": 11060201,
+  "StarUpItemNum": 1,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   40,
+   20,
+   600
+  ]
+ },
+ {
+  "ID": 110602015,
+  "SkinID": 11060201,
+  "SkinStar": 5,
+  "StarUpItemID": 11060201,
+  "StarUpItemNum": 1,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   50,
+   25,
+   750
+  ]
+ },
+ {
+  "ID": 110603011,
+  "SkinID": 11060301,
+  "SkinStar": 1,
+  "StarUpItemID": 11060301,
+  "StarUpItemNum": 1,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   10,
+   5,
+   150
+  ]
+ },
+ {
+  "ID": 110603012,
+  "SkinID": 11060301,
+  "SkinStar": 2,
+  "StarUpItemID": 11060301,
+  "StarUpItemNum": 1,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   20,
+   10,
+   300
+  ]
+ },
+ {
+  "ID": 110603013,
+  "SkinID": 11060301,
+  "SkinStar": 3,
+  "StarUpItemID": 11060301,
+  "StarUpItemNum": 1,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   30,
+   15,
+   450
+  ]
+ },
+ {
+  "ID": 110603014,
+  "SkinID": 11060301,
+  "SkinStar": 4,
+  "StarUpItemID": 11060301,
+  "StarUpItemNum": 1,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   40,
+   20,
+   600
+  ]
+ },
+ {
+  "ID": 110603015,
+  "SkinID": 11060301,
+  "SkinStar": 5,
+  "StarUpItemID": 11060301,
+  "StarUpItemNum": 1,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   50,
+   25,
+   750
+  ]
+ },
+ {
+  "ID": 110604011,
+  "SkinID": 11060401,
+  "SkinStar": 1,
+  "StarUpItemID": 11060401,
+  "StarUpItemNum": 1,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   10,
+   5,
+   150
+  ]
+ },
+ {
+  "ID": 110604012,
+  "SkinID": 11060401,
+  "SkinStar": 2,
+  "StarUpItemID": 11060401,
+  "StarUpItemNum": 1,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   20,
+   10,
+   300
+  ]
+ },
+ {
+  "ID": 110604013,
+  "SkinID": 11060401,
+  "SkinStar": 3,
+  "StarUpItemID": 11060401,
+  "StarUpItemNum": 1,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   30,
+   15,
+   450
+  ]
+ },
+ {
+  "ID": 110604014,
+  "SkinID": 11060401,
+  "SkinStar": 4,
+  "StarUpItemID": 11060401,
+  "StarUpItemNum": 1,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   40,
+   20,
+   600
+  ]
+ },
+ {
+  "ID": 110604015,
+  "SkinID": 11060401,
+  "SkinStar": 5,
+  "StarUpItemID": 11060401,
+  "StarUpItemNum": 1,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   50,
+   25,
+   750
+  ]
+ },
+ {
+  "ID": 120101011,
+  "SkinID": 12010101,
+  "SkinStar": 1,
+  "StarUpItemID": 12010101,
+  "StarUpItemNum": 1,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   10,
+   5,
+   150
+  ]
+ },
+ {
+  "ID": 120101012,
+  "SkinID": 12010101,
+  "SkinStar": 2,
+  "StarUpItemID": 12010101,
+  "StarUpItemNum": 1,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   20,
+   10,
+   300
+  ]
+ },
+ {
+  "ID": 120101013,
+  "SkinID": 12010101,
+  "SkinStar": 3,
+  "StarUpItemID": 12010101,
+  "StarUpItemNum": 1,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   30,
+   15,
+   450
+  ]
+ },
+ {
+  "ID": 120101014,
+  "SkinID": 12010101,
+  "SkinStar": 4,
+  "StarUpItemID": 12010101,
+  "StarUpItemNum": 1,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   40,
+   20,
+   600
+  ]
+ },
+ {
+  "ID": 120101015,
+  "SkinID": 12010101,
+  "SkinStar": 5,
+  "StarUpItemID": 12010101,
+  "StarUpItemNum": 1,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   50,
+   25,
+   750
+  ]
+ },
+ {
+  "ID": 120201011,
+  "SkinID": 12020101,
+  "SkinStar": 1,
+  "StarUpItemID": 12020101,
+  "StarUpItemNum": 1,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   10,
+   5,
+   150
+  ]
+ },
+ {
+  "ID": 120201012,
+  "SkinID": 12020101,
+  "SkinStar": 2,
+  "StarUpItemID": 12020101,
+  "StarUpItemNum": 1,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   20,
+   10,
+   300
+  ]
+ },
+ {
+  "ID": 120201013,
+  "SkinID": 12020101,
+  "SkinStar": 3,
+  "StarUpItemID": 12020101,
+  "StarUpItemNum": 1,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   30,
+   15,
+   450
+  ]
+ },
+ {
+  "ID": 120201014,
+  "SkinID": 12020101,
+  "SkinStar": 4,
+  "StarUpItemID": 12020101,
+  "StarUpItemNum": 1,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   40,
+   20,
+   600
+  ]
+ },
+ {
+  "ID": 120201015,
+  "SkinID": 12020101,
+  "SkinStar": 5,
+  "StarUpItemID": 12020101,
+  "StarUpItemNum": 1,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   50,
+   25,
+   750
+  ]
+ },
+ {
+  "ID": 120202011,
+  "SkinID": 12020201,
+  "SkinStar": 1,
+  "StarUpItemID": 12020201,
+  "StarUpItemNum": 1,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   10,
+   5,
+   150
+  ]
+ },
+ {
+  "ID": 120202012,
+  "SkinID": 12020201,
+  "SkinStar": 2,
+  "StarUpItemID": 12020201,
+  "StarUpItemNum": 1,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   20,
+   10,
+   300
+  ]
+ },
+ {
+  "ID": 120202013,
+  "SkinID": 12020201,
+  "SkinStar": 3,
+  "StarUpItemID": 12020201,
+  "StarUpItemNum": 1,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   30,
+   15,
+   450
+  ]
+ },
+ {
+  "ID": 120202014,
+  "SkinID": 12020201,
+  "SkinStar": 4,
+  "StarUpItemID": 12020201,
+  "StarUpItemNum": 1,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   40,
+   20,
+   600
+  ]
+ },
+ {
+  "ID": 120202015,
+  "SkinID": 12020201,
+  "SkinStar": 5,
+  "StarUpItemID": 12020201,
+  "StarUpItemNum": 1,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   50,
+   25,
+   750
+  ]
+ },
+ {
+  "ID": 120301011,
+  "SkinID": 12030101,
+  "SkinStar": 1,
+  "StarUpItemID": 12030101,
+  "StarUpItemNum": 1,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   10,
+   5,
+   150
+  ]
+ },
+ {
+  "ID": 120301012,
+  "SkinID": 12030101,
+  "SkinStar": 2,
+  "StarUpItemID": 12030101,
+  "StarUpItemNum": 1,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   20,
+   10,
+   300
+  ]
+ },
+ {
+  "ID": 120301013,
+  "SkinID": 12030101,
+  "SkinStar": 3,
+  "StarUpItemID": 12030101,
+  "StarUpItemNum": 1,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   30,
+   15,
+   450
+  ]
+ },
+ {
+  "ID": 120301014,
+  "SkinID": 12030101,
+  "SkinStar": 4,
+  "StarUpItemID": 12030101,
+  "StarUpItemNum": 1,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   40,
+   20,
+   600
+  ]
+ },
+ {
+  "ID": 120301015,
+  "SkinID": 12030101,
+  "SkinStar": 5,
+  "StarUpItemID": 12030101,
+  "StarUpItemNum": 1,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   50,
+   25,
+   750
+  ]
+ },
+ {
+  "ID": 120302011,
+  "SkinID": 12030201,
+  "SkinStar": 1,
+  "StarUpItemID": 12030201,
+  "StarUpItemNum": 1,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   10,
+   5,
+   150
+  ]
+ },
+ {
+  "ID": 120302012,
+  "SkinID": 12030201,
+  "SkinStar": 2,
+  "StarUpItemID": 12030201,
+  "StarUpItemNum": 1,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   20,
+   10,
+   300
+  ]
+ },
+ {
+  "ID": 120302013,
+  "SkinID": 12030201,
+  "SkinStar": 3,
+  "StarUpItemID": 12030201,
+  "StarUpItemNum": 1,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   30,
+   15,
+   450
+  ]
+ },
+ {
+  "ID": 120302014,
+  "SkinID": 12030201,
+  "SkinStar": 4,
+  "StarUpItemID": 12030201,
+  "StarUpItemNum": 1,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   40,
+   20,
+   600
+  ]
+ },
+ {
+  "ID": 120302015,
+  "SkinID": 12030201,
+  "SkinStar": 5,
+  "StarUpItemID": 12030201,
+  "StarUpItemNum": 1,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   50,
+   25,
+   750
+  ]
+ },
+ {
+  "ID": 120401011,
+  "SkinID": 12040101,
+  "SkinStar": 1,
+  "StarUpItemID": 12040101,
+  "StarUpItemNum": 1,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   10,
+   5,
+   150
+  ]
+ },
+ {
+  "ID": 120401012,
+  "SkinID": 12040101,
+  "SkinStar": 2,
+  "StarUpItemID": 12040101,
+  "StarUpItemNum": 1,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   20,
+   10,
+   300
+  ]
+ },
+ {
+  "ID": 120401013,
+  "SkinID": 12040101,
+  "SkinStar": 3,
+  "StarUpItemID": 12040101,
+  "StarUpItemNum": 1,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   30,
+   15,
+   450
+  ]
+ },
+ {
+  "ID": 120401014,
+  "SkinID": 12040101,
+  "SkinStar": 4,
+  "StarUpItemID": 12040101,
+  "StarUpItemNum": 1,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   40,
+   20,
+   600
+  ]
+ },
+ {
+  "ID": 120401015,
+  "SkinID": 12040101,
+  "SkinStar": 5,
+  "StarUpItemID": 12040101,
+  "StarUpItemNum": 1,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   50,
+   25,
+   750
+  ]
+ },
+ {
+  "ID": 120501011,
+  "SkinID": 12050101,
+  "SkinStar": 1,
+  "StarUpItemID": 12050101,
+  "StarUpItemNum": 1,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   10,
+   5,
+   150
+  ]
+ },
+ {
+  "ID": 120501012,
+  "SkinID": 12050101,
+  "SkinStar": 2,
+  "StarUpItemID": 12050101,
+  "StarUpItemNum": 1,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   20,
+   10,
+   300
+  ]
+ },
+ {
+  "ID": 120501013,
+  "SkinID": 12050101,
+  "SkinStar": 3,
+  "StarUpItemID": 12050101,
+  "StarUpItemNum": 1,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   30,
+   15,
+   450
+  ]
+ },
+ {
+  "ID": 120501014,
+  "SkinID": 12050101,
+  "SkinStar": 4,
+  "StarUpItemID": 12050101,
+  "StarUpItemNum": 1,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   40,
+   20,
+   600
+  ]
+ },
+ {
+  "ID": 120501015,
+  "SkinID": 12050101,
+  "SkinStar": 5,
+  "StarUpItemID": 12050101,
+  "StarUpItemNum": 1,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   50,
+   25,
+   750
+  ]
+ },
+ {
+  "ID": 120602011,
+  "SkinID": 12060201,
+  "SkinStar": 1,
+  "StarUpItemID": 12060201,
+  "StarUpItemNum": 1,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   10,
+   5,
+   150
+  ]
+ },
+ {
+  "ID": 120602012,
+  "SkinID": 12060201,
+  "SkinStar": 2,
+  "StarUpItemID": 12060201,
+  "StarUpItemNum": 1,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   20,
+   10,
+   300
+  ]
+ },
+ {
+  "ID": 120602013,
+  "SkinID": 12060201,
+  "SkinStar": 3,
+  "StarUpItemID": 12060201,
+  "StarUpItemNum": 1,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   30,
+   15,
+   450
+  ]
+ },
+ {
+  "ID": 120602014,
+  "SkinID": 12060201,
+  "SkinStar": 4,
+  "StarUpItemID": 12060201,
+  "StarUpItemNum": 1,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   40,
+   20,
+   600
+  ]
+ },
+ {
+  "ID": 120602015,
+  "SkinID": 12060201,
+  "SkinStar": 5,
+  "StarUpItemID": 12060201,
+  "StarUpItemNum": 1,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   50,
+   25,
+   750
+  ]
+ },
+ {
+  "ID": 120603011,
+  "SkinID": 12060301,
+  "SkinStar": 1,
+  "StarUpItemID": 12060301,
+  "StarUpItemNum": 1,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   10,
+   5,
+   150
+  ]
+ },
+ {
+  "ID": 120603012,
+  "SkinID": 12060301,
+  "SkinStar": 2,
+  "StarUpItemID": 12060301,
+  "StarUpItemNum": 1,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   20,
+   10,
+   300
+  ]
+ },
+ {
+  "ID": 120603013,
+  "SkinID": 12060301,
+  "SkinStar": 3,
+  "StarUpItemID": 12060301,
+  "StarUpItemNum": 1,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   30,
+   15,
+   450
+  ]
+ },
+ {
+  "ID": 120603014,
+  "SkinID": 12060301,
+  "SkinStar": 4,
+  "StarUpItemID": 12060301,
+  "StarUpItemNum": 1,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   40,
+   20,
+   600
+  ]
+ },
+ {
+  "ID": 120603015,
+  "SkinID": 12060301,
+  "SkinStar": 5,
+  "StarUpItemID": 12060301,
+  "StarUpItemNum": 1,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   50,
+   25,
+   750
+  ]
+ },
+ {
+  "ID": 120603021,
+  "SkinID": 12060302,
+  "SkinStar": 1,
+  "StarUpItemID": 12060302,
+  "StarUpItemNum": 1,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   60,
+   30,
+   900
+  ]
+ },
+ {
+  "ID": 120603022,
+  "SkinID": 12060302,
+  "SkinStar": 2,
+  "StarUpItemID": 12060302,
+  "StarUpItemNum": 1,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   120,
+   60,
+   1800
+  ]
+ },
+ {
+  "ID": 120603023,
+  "SkinID": 12060302,
+  "SkinStar": 3,
+  "StarUpItemID": 12060302,
+  "StarUpItemNum": 1,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   180,
+   90,
+   2700
+  ]
+ },
+ {
+  "ID": 120603024,
+  "SkinID": 12060302,
+  "SkinStar": 4,
+  "StarUpItemID": 12060302,
+  "StarUpItemNum": 1,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   240,
+   120,
+   3600
+  ]
+ },
+ {
+  "ID": 120603025,
+  "SkinID": 12060302,
+  "SkinStar": 5,
+  "StarUpItemID": 12060302,
+  "StarUpItemNum": 1,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   300,
+   150,
+   4500
+  ]
+ },
+ {
+  "ID": 130101011,
+  "SkinID": 13010101,
+  "SkinStar": 1,
+  "StarUpItemID": 13010101,
+  "StarUpItemNum": 1,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   10,
+   5,
+   150
+  ]
+ },
+ {
+  "ID": 130101012,
+  "SkinID": 13010101,
+  "SkinStar": 2,
+  "StarUpItemID": 13010101,
+  "StarUpItemNum": 1,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   20,
+   10,
+   300
+  ]
+ },
+ {
+  "ID": 130101013,
+  "SkinID": 13010101,
+  "SkinStar": 3,
+  "StarUpItemID": 13010101,
+  "StarUpItemNum": 1,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   30,
+   15,
+   450
+  ]
+ },
+ {
+  "ID": 130101014,
+  "SkinID": 13010101,
+  "SkinStar": 4,
+  "StarUpItemID": 13010101,
+  "StarUpItemNum": 1,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   40,
+   20,
+   600
+  ]
+ },
+ {
+  "ID": 130101015,
+  "SkinID": 13010101,
+  "SkinStar": 5,
+  "StarUpItemID": 13010101,
+  "StarUpItemNum": 1,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   50,
+   25,
+   750
+  ]
+ },
+ {
+  "ID": 130201011,
+  "SkinID": 13020101,
+  "SkinStar": 1,
+  "StarUpItemID": 13020101,
+  "StarUpItemNum": 1,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   10,
+   5,
+   150
+  ]
+ },
+ {
+  "ID": 130201012,
+  "SkinID": 13020101,
+  "SkinStar": 2,
+  "StarUpItemID": 13020101,
+  "StarUpItemNum": 1,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   20,
+   10,
+   300
+  ]
+ },
+ {
+  "ID": 130201013,
+  "SkinID": 13020101,
+  "SkinStar": 3,
+  "StarUpItemID": 13020101,
+  "StarUpItemNum": 1,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   30,
+   15,
+   450
+  ]
+ },
+ {
+  "ID": 130201014,
+  "SkinID": 13020101,
+  "SkinStar": 4,
+  "StarUpItemID": 13020101,
+  "StarUpItemNum": 1,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   40,
+   20,
+   600
+  ]
+ },
+ {
+  "ID": 130201015,
+  "SkinID": 13020101,
+  "SkinStar": 5,
+  "StarUpItemID": 13020101,
+  "StarUpItemNum": 1,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   50,
+   25,
+   750
+  ]
+ },
+ {
+  "ID": 130202011,
+  "SkinID": 13020201,
+  "SkinStar": 1,
+  "StarUpItemID": 13020201,
+  "StarUpItemNum": 1,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   10,
+   5,
+   150
+  ]
+ },
+ {
+  "ID": 130202012,
+  "SkinID": 13020201,
+  "SkinStar": 2,
+  "StarUpItemID": 13020201,
+  "StarUpItemNum": 1,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   20,
+   10,
+   300
+  ]
+ },
+ {
+  "ID": 130202013,
+  "SkinID": 13020201,
+  "SkinStar": 3,
+  "StarUpItemID": 13020201,
+  "StarUpItemNum": 1,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   30,
+   15,
+   450
+  ]
+ },
+ {
+  "ID": 130202014,
+  "SkinID": 13020201,
+  "SkinStar": 4,
+  "StarUpItemID": 13020201,
+  "StarUpItemNum": 1,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   40,
+   20,
+   600
+  ]
+ },
+ {
+  "ID": 130202015,
+  "SkinID": 13020201,
+  "SkinStar": 5,
+  "StarUpItemID": 13020201,
+  "StarUpItemNum": 1,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   50,
+   25,
+   750
+  ]
+ },
+ {
+  "ID": 130401011,
+  "SkinID": 13040101,
+  "SkinStar": 1,
+  "StarUpItemID": 13040101,
+  "StarUpItemNum": 1,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   10,
+   5,
+   150
+  ]
+ },
+ {
+  "ID": 130401012,
+  "SkinID": 13040101,
+  "SkinStar": 2,
+  "StarUpItemID": 13040101,
+  "StarUpItemNum": 1,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   20,
+   10,
+   300
+  ]
+ },
+ {
+  "ID": 130401013,
+  "SkinID": 13040101,
+  "SkinStar": 3,
+  "StarUpItemID": 13040101,
+  "StarUpItemNum": 1,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   30,
+   15,
+   450
+  ]
+ },
+ {
+  "ID": 130401014,
+  "SkinID": 13040101,
+  "SkinStar": 4,
+  "StarUpItemID": 13040101,
+  "StarUpItemNum": 1,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   40,
+   20,
+   600
+  ]
+ },
+ {
+  "ID": 130401015,
+  "SkinID": 13040101,
+  "SkinStar": 5,
+  "StarUpItemID": 13040101,
+  "StarUpItemNum": 1,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   50,
+   25,
+   750
+  ]
+ },
+ {
+  "ID": 130402011,
+  "SkinID": 13040201,
+  "SkinStar": 1,
+  "StarUpItemID": 13040201,
+  "StarUpItemNum": 1,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   10,
+   5,
+   150
+  ]
+ },
+ {
+  "ID": 130402012,
+  "SkinID": 13040201,
+  "SkinStar": 2,
+  "StarUpItemID": 13040201,
+  "StarUpItemNum": 1,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   20,
+   10,
+   300
+  ]
+ },
+ {
+  "ID": 130402013,
+  "SkinID": 13040201,
+  "SkinStar": 3,
+  "StarUpItemID": 13040201,
+  "StarUpItemNum": 1,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   30,
+   15,
+   450
+  ]
+ },
+ {
+  "ID": 130402014,
+  "SkinID": 13040201,
+  "SkinStar": 4,
+  "StarUpItemID": 13040201,
+  "StarUpItemNum": 1,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   40,
+   20,
+   600
+  ]
+ },
+ {
+  "ID": 130402015,
+  "SkinID": 13040201,
+  "SkinStar": 5,
+  "StarUpItemID": 13040201,
+  "StarUpItemNum": 1,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   50,
+   25,
+   750
+  ]
+ },
+ {
+  "ID": 130501011,
+  "SkinID": 13050101,
+  "SkinStar": 1,
+  "StarUpItemID": 13050101,
+  "StarUpItemNum": 1,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   10,
+   5,
+   150
+  ]
+ },
+ {
+  "ID": 130501012,
+  "SkinID": 13050101,
+  "SkinStar": 2,
+  "StarUpItemID": 13050101,
+  "StarUpItemNum": 1,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   20,
+   10,
+   300
+  ]
+ },
+ {
+  "ID": 130501013,
+  "SkinID": 13050101,
+  "SkinStar": 3,
+  "StarUpItemID": 13050101,
+  "StarUpItemNum": 1,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   30,
+   15,
+   450
+  ]
+ },
+ {
+  "ID": 130501014,
+  "SkinID": 13050101,
+  "SkinStar": 4,
+  "StarUpItemID": 13050101,
+  "StarUpItemNum": 1,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   40,
+   20,
+   600
+  ]
+ },
+ {
+  "ID": 130501015,
+  "SkinID": 13050101,
+  "SkinStar": 5,
+  "StarUpItemID": 13050101,
+  "StarUpItemNum": 1,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   50,
+   25,
+   750
+  ]
+ },
+ {
+  "ID": 130601011,
+  "SkinID": 13060101,
+  "SkinStar": 1,
+  "StarUpItemID": 13060101,
+  "StarUpItemNum": 1,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   10,
+   5,
+   150
+  ]
+ },
+ {
+  "ID": 130601012,
+  "SkinID": 13060101,
+  "SkinStar": 2,
+  "StarUpItemID": 13060101,
+  "StarUpItemNum": 1,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   20,
+   10,
+   300
+  ]
+ },
+ {
+  "ID": 130601013,
+  "SkinID": 13060101,
+  "SkinStar": 3,
+  "StarUpItemID": 13060101,
+  "StarUpItemNum": 1,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   30,
+   15,
+   450
+  ]
+ },
+ {
+  "ID": 130601014,
+  "SkinID": 13060101,
+  "SkinStar": 4,
+  "StarUpItemID": 13060101,
+  "StarUpItemNum": 1,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   40,
+   20,
+   600
+  ]
+ },
+ {
+  "ID": 130601015,
+  "SkinID": 13060101,
+  "SkinStar": 5,
+  "StarUpItemID": 13060101,
+  "StarUpItemNum": 1,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   50,
+   25,
+   750
+  ]
+ },
+ {
+  "ID": 130603011,
+  "SkinID": 13060301,
+  "SkinStar": 1,
+  "StarUpItemID": 13060301,
+  "StarUpItemNum": 1,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   10,
+   5,
+   150
+  ]
+ },
+ {
+  "ID": 130603012,
+  "SkinID": 13060301,
+  "SkinStar": 2,
+  "StarUpItemID": 13060301,
+  "StarUpItemNum": 1,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   20,
+   10,
+   300
+  ]
+ },
+ {
+  "ID": 130603013,
+  "SkinID": 13060301,
+  "SkinStar": 3,
+  "StarUpItemID": 13060301,
+  "StarUpItemNum": 1,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   30,
+   15,
+   450
+  ]
+ },
+ {
+  "ID": 130603014,
+  "SkinID": 13060301,
+  "SkinStar": 4,
+  "StarUpItemID": 13060301,
+  "StarUpItemNum": 1,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   40,
+   20,
+   600
+  ]
+ },
+ {
+  "ID": 130603015,
+  "SkinID": 13060301,
+  "SkinStar": 5,
+  "StarUpItemID": 13060301,
+  "StarUpItemNum": 1,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   50,
+   25,
+   750
+  ]
+ },
+ {
+  "ID": 140101011,
+  "SkinID": 14010101,
+  "SkinStar": 1,
+  "StarUpItemID": 14010101,
+  "StarUpItemNum": 1,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   10,
+   5,
+   150
+  ]
+ },
+ {
+  "ID": 140101012,
+  "SkinID": 14010101,
+  "SkinStar": 2,
+  "StarUpItemID": 14010101,
+  "StarUpItemNum": 1,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   20,
+   10,
+   300
+  ]
+ },
+ {
+  "ID": 140101013,
+  "SkinID": 14010101,
+  "SkinStar": 3,
+  "StarUpItemID": 14010101,
+  "StarUpItemNum": 1,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   30,
+   15,
+   450
+  ]
+ },
+ {
+  "ID": 140101014,
+  "SkinID": 14010101,
+  "SkinStar": 4,
+  "StarUpItemID": 14010101,
+  "StarUpItemNum": 1,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   40,
+   20,
+   600
+  ]
+ },
+ {
+  "ID": 140101015,
+  "SkinID": 14010101,
+  "SkinStar": 5,
+  "StarUpItemID": 14010101,
+  "StarUpItemNum": 1,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   50,
+   25,
+   750
+  ]
+ },
+ {
+  "ID": 140201011,
+  "SkinID": 14020101,
+  "SkinStar": 1,
+  "StarUpItemID": 14020101,
+  "StarUpItemNum": 1,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   10,
+   5,
+   150
+  ]
+ },
+ {
+  "ID": 140201012,
+  "SkinID": 14020101,
+  "SkinStar": 2,
+  "StarUpItemID": 14020101,
+  "StarUpItemNum": 1,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   20,
+   10,
+   300
+  ]
+ },
+ {
+  "ID": 140201013,
+  "SkinID": 14020101,
+  "SkinStar": 3,
+  "StarUpItemID": 14020101,
+  "StarUpItemNum": 1,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   30,
+   15,
+   450
+  ]
+ },
+ {
+  "ID": 140201014,
+  "SkinID": 14020101,
+  "SkinStar": 4,
+  "StarUpItemID": 14020101,
+  "StarUpItemNum": 1,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   40,
+   20,
+   600
+  ]
+ },
+ {
+  "ID": 140201015,
+  "SkinID": 14020101,
+  "SkinStar": 5,
+  "StarUpItemID": 14020101,
+  "StarUpItemNum": 1,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   50,
+   25,
+   750
+  ]
+ },
+ {
+  "ID": 140201021,
+  "SkinID": 14020102,
+  "SkinStar": 1,
+  "StarUpItemID": 14020102,
+  "StarUpItemNum": 1,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   40,
+   20,
+   600
+  ]
+ },
+ {
+  "ID": 140201022,
+  "SkinID": 14020102,
+  "SkinStar": 2,
+  "StarUpItemID": 14020102,
+  "StarUpItemNum": 1,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   80,
+   40,
+   1200
+  ]
+ },
+ {
+  "ID": 140201023,
+  "SkinID": 14020102,
+  "SkinStar": 3,
+  "StarUpItemID": 14020102,
+  "StarUpItemNum": 1,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   120,
+   60,
+   1800
+  ]
+ },
+ {
+  "ID": 140201024,
+  "SkinID": 14020102,
+  "SkinStar": 4,
+  "StarUpItemID": 14020102,
+  "StarUpItemNum": 1,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   160,
+   80,
+   2400
+  ]
+ },
+ {
+  "ID": 140201025,
+  "SkinID": 14020102,
+  "SkinStar": 5,
+  "StarUpItemID": 14020102,
+  "StarUpItemNum": 1,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   200,
+   100,
+   3000
+  ]
+ },
+ {
+  "ID": 140202011,
+  "SkinID": 14020201,
+  "SkinStar": 1,
+  "StarUpItemID": 14020201,
+  "StarUpItemNum": 1,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   10,
+   5,
+   150
+  ]
+ },
+ {
+  "ID": 140202012,
+  "SkinID": 14020201,
+  "SkinStar": 2,
+  "StarUpItemID": 14020201,
+  "StarUpItemNum": 1,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   20,
+   10,
+   300
+  ]
+ },
+ {
+  "ID": 140202013,
+  "SkinID": 14020201,
+  "SkinStar": 3,
+  "StarUpItemID": 14020201,
+  "StarUpItemNum": 1,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   30,
+   15,
+   450
+  ]
+ },
+ {
+  "ID": 140202014,
+  "SkinID": 14020201,
+  "SkinStar": 4,
+  "StarUpItemID": 14020201,
+  "StarUpItemNum": 1,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   40,
+   20,
+   600
+  ]
+ },
+ {
+  "ID": 140202015,
+  "SkinID": 14020201,
+  "SkinStar": 5,
+  "StarUpItemID": 14020201,
+  "StarUpItemNum": 1,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   50,
+   25,
+   750
+  ]
+ },
+ {
+  "ID": 140301011,
+  "SkinID": 14030101,
+  "SkinStar": 1,
+  "StarUpItemID": 14030101,
+  "StarUpItemNum": 1,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   10,
+   5,
+   150
+  ]
+ },
+ {
+  "ID": 140301012,
+  "SkinID": 14030101,
+  "SkinStar": 2,
+  "StarUpItemID": 14030101,
+  "StarUpItemNum": 1,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   20,
+   10,
+   300
+  ]
+ },
+ {
+  "ID": 140301013,
+  "SkinID": 14030101,
+  "SkinStar": 3,
+  "StarUpItemID": 14030101,
+  "StarUpItemNum": 1,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   30,
+   15,
+   450
+  ]
+ },
+ {
+  "ID": 140301014,
+  "SkinID": 14030101,
+  "SkinStar": 4,
+  "StarUpItemID": 14030101,
+  "StarUpItemNum": 1,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   40,
+   20,
+   600
+  ]
+ },
+ {
+  "ID": 140301015,
+  "SkinID": 14030101,
+  "SkinStar": 5,
+  "StarUpItemID": 14030101,
+  "StarUpItemNum": 1,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   50,
+   25,
+   750
+  ]
+ },
+ {
+  "ID": 140303011,
+  "SkinID": 14030301,
+  "SkinStar": 1,
+  "StarUpItemID": 14030301,
+  "StarUpItemNum": 1,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   10,
+   5,
+   150
+  ]
+ },
+ {
+  "ID": 140303012,
+  "SkinID": 14030301,
+  "SkinStar": 2,
+  "StarUpItemID": 14030301,
+  "StarUpItemNum": 1,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   20,
+   10,
+   300
+  ]
+ },
+ {
+  "ID": 140303013,
+  "SkinID": 14030301,
+  "SkinStar": 3,
+  "StarUpItemID": 14030301,
+  "StarUpItemNum": 1,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   30,
+   15,
+   450
+  ]
+ },
+ {
+  "ID": 140303014,
+  "SkinID": 14030301,
+  "SkinStar": 4,
+  "StarUpItemID": 14030301,
+  "StarUpItemNum": 1,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   40,
+   20,
+   600
+  ]
+ },
+ {
+  "ID": 140303015,
+  "SkinID": 14030301,
+  "SkinStar": 5,
+  "StarUpItemID": 14030301,
+  "StarUpItemNum": 1,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   50,
+   25,
+   750
+  ]
+ },
+ {
+  "ID": 140304011,
+  "SkinID": 14030401,
+  "SkinStar": 1,
+  "StarUpItemID": 14030401,
+  "StarUpItemNum": 1,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   10,
+   5,
+   150
+  ]
+ },
+ {
+  "ID": 140304012,
+  "SkinID": 14030401,
+  "SkinStar": 2,
+  "StarUpItemID": 14030401,
+  "StarUpItemNum": 1,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   20,
+   10,
+   300
+  ]
+ },
+ {
+  "ID": 140304013,
+  "SkinID": 14030401,
+  "SkinStar": 3,
+  "StarUpItemID": 14030401,
+  "StarUpItemNum": 1,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   30,
+   15,
+   450
+  ]
+ },
+ {
+  "ID": 140304014,
+  "SkinID": 14030401,
+  "SkinStar": 4,
+  "StarUpItemID": 14030401,
+  "StarUpItemNum": 1,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   40,
+   20,
+   600
+  ]
+ },
+ {
+  "ID": 140304015,
+  "SkinID": 14030401,
+  "SkinStar": 5,
+  "StarUpItemID": 14030401,
+  "StarUpItemNum": 1,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   50,
+   25,
+   750
+  ]
+ },
+ {
+  "ID": 140401011,
+  "SkinID": 14040101,
+  "SkinStar": 1,
+  "StarUpItemID": 14040101,
+  "StarUpItemNum": 1,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   10,
+   5,
+   150
+  ]
+ },
+ {
+  "ID": 140401012,
+  "SkinID": 14040101,
+  "SkinStar": 2,
+  "StarUpItemID": 14040101,
+  "StarUpItemNum": 1,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   20,
+   10,
+   300
+  ]
+ },
+ {
+  "ID": 140401013,
+  "SkinID": 14040101,
+  "SkinStar": 3,
+  "StarUpItemID": 14040101,
+  "StarUpItemNum": 1,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   30,
+   15,
+   450
+  ]
+ },
+ {
+  "ID": 140401014,
+  "SkinID": 14040101,
+  "SkinStar": 4,
+  "StarUpItemID": 14040101,
+  "StarUpItemNum": 1,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   40,
+   20,
+   600
+  ]
+ },
+ {
+  "ID": 140401015,
+  "SkinID": 14040101,
+  "SkinStar": 5,
+  "StarUpItemID": 14040101,
+  "StarUpItemNum": 1,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   50,
+   25,
+   750
+  ]
+ },
+ {
+  "ID": 140402011,
+  "SkinID": 14040201,
+  "SkinStar": 1,
+  "StarUpItemID": 14040201,
+  "StarUpItemNum": 1,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   10,
+   5,
+   150
+  ]
+ },
+ {
+  "ID": 140402012,
+  "SkinID": 14040201,
+  "SkinStar": 2,
+  "StarUpItemID": 14040201,
+  "StarUpItemNum": 1,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   20,
+   10,
+   300
+  ]
+ },
+ {
+  "ID": 140402013,
+  "SkinID": 14040201,
+  "SkinStar": 3,
+  "StarUpItemID": 14040201,
+  "StarUpItemNum": 1,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   30,
+   15,
+   450
+  ]
+ },
+ {
+  "ID": 140402014,
+  "SkinID": 14040201,
+  "SkinStar": 4,
+  "StarUpItemID": 14040201,
+  "StarUpItemNum": 1,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   40,
+   20,
+   600
+  ]
+ },
+ {
+  "ID": 140402015,
+  "SkinID": 14040201,
+  "SkinStar": 5,
+  "StarUpItemID": 14040201,
+  "StarUpItemNum": 1,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   50,
+   25,
+   750
+  ]
+ },
+ {
+  "ID": 140402021,
+  "SkinID": 14040202,
+  "SkinStar": 1,
+  "StarUpItemID": 14040202,
+  "StarUpItemNum": 1,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   50,
+   25,
+   750
+  ]
+ },
+ {
+  "ID": 140402022,
+  "SkinID": 14040202,
+  "SkinStar": 2,
+  "StarUpItemID": 14040202,
+  "StarUpItemNum": 1,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   100,
+   50,
+   1500
+  ]
+ },
+ {
+  "ID": 140402023,
+  "SkinID": 14040202,
+  "SkinStar": 3,
+  "StarUpItemID": 14040202,
+  "StarUpItemNum": 1,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   150,
+   75,
+   2250
+  ]
+ },
+ {
+  "ID": 140402024,
+  "SkinID": 14040202,
+  "SkinStar": 4,
+  "StarUpItemID": 14040202,
+  "StarUpItemNum": 1,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   200,
+   100,
+   3000
+  ]
+ },
+ {
+  "ID": 140402025,
+  "SkinID": 14040202,
+  "SkinStar": 5,
+  "StarUpItemID": 14040202,
+  "StarUpItemNum": 1,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   250,
+   125,
+   3750
+  ]
+ },
+ {
+  "ID": 140403011,
+  "SkinID": 14040301,
+  "SkinStar": 1,
+  "StarUpItemID": 14040301,
+  "StarUpItemNum": 1,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   10,
+   5,
+   150
+  ]
+ },
+ {
+  "ID": 140403012,
+  "SkinID": 14040301,
+  "SkinStar": 2,
+  "StarUpItemID": 14040301,
+  "StarUpItemNum": 1,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   20,
+   10,
+   300
+  ]
+ },
+ {
+  "ID": 140403013,
+  "SkinID": 14040301,
+  "SkinStar": 3,
+  "StarUpItemID": 14040301,
+  "StarUpItemNum": 1,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   30,
+   15,
+   450
+  ]
+ },
+ {
+  "ID": 140403014,
+  "SkinID": 14040301,
+  "SkinStar": 4,
+  "StarUpItemID": 14040301,
+  "StarUpItemNum": 1,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   40,
+   20,
+   600
+  ]
+ },
+ {
+  "ID": 140403015,
+  "SkinID": 14040301,
+  "SkinStar": 5,
+  "StarUpItemID": 14040301,
+  "StarUpItemNum": 1,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   50,
+   25,
+   750
+  ]
+ },
+ {
+  "ID": 140404011,
+  "SkinID": 14040401,
+  "SkinStar": 1,
+  "StarUpItemID": 14040401,
+  "StarUpItemNum": 1,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   10,
+   5,
+   150
+  ]
+ },
+ {
+  "ID": 140404012,
+  "SkinID": 14040401,
+  "SkinStar": 2,
+  "StarUpItemID": 14040401,
+  "StarUpItemNum": 1,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   20,
+   10,
+   300
+  ]
+ },
+ {
+  "ID": 140404013,
+  "SkinID": 14040401,
+  "SkinStar": 3,
+  "StarUpItemID": 14040401,
+  "StarUpItemNum": 1,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   30,
+   15,
+   450
+  ]
+ },
+ {
+  "ID": 140404014,
+  "SkinID": 14040401,
+  "SkinStar": 4,
+  "StarUpItemID": 14040401,
+  "StarUpItemNum": 1,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   40,
+   20,
+   600
+  ]
+ },
+ {
+  "ID": 140404015,
+  "SkinID": 14040401,
+  "SkinStar": 5,
+  "StarUpItemID": 14040401,
+  "StarUpItemNum": 1,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   50,
+   25,
+   750
+  ]
+ },
+ {
+  "ID": 140501011,
+  "SkinID": 14050101,
+  "SkinStar": 1,
+  "StarUpItemID": 14050101,
+  "StarUpItemNum": 1,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   10,
+   5,
+   150
+  ]
+ },
+ {
+  "ID": 140501012,
+  "SkinID": 14050101,
+  "SkinStar": 2,
+  "StarUpItemID": 14050101,
+  "StarUpItemNum": 1,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   20,
+   10,
+   300
+  ]
+ },
+ {
+  "ID": 140501013,
+  "SkinID": 14050101,
+  "SkinStar": 3,
+  "StarUpItemID": 14050101,
+  "StarUpItemNum": 1,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   30,
+   15,
+   450
+  ]
+ },
+ {
+  "ID": 140501014,
+  "SkinID": 14050101,
+  "SkinStar": 4,
+  "StarUpItemID": 14050101,
+  "StarUpItemNum": 1,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   40,
+   20,
+   600
+  ]
+ },
+ {
+  "ID": 140501015,
+  "SkinID": 14050101,
+  "SkinStar": 5,
+  "StarUpItemID": 14050101,
+  "StarUpItemNum": 1,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   50,
+   25,
+   750
+  ]
+ },
+ {
+  "ID": 140502011,
+  "SkinID": 14050201,
+  "SkinStar": 1,
+  "StarUpItemID": 14050201,
+  "StarUpItemNum": 1,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   10,
+   5,
+   150
+  ]
+ },
+ {
+  "ID": 140502012,
+  "SkinID": 14050201,
+  "SkinStar": 2,
+  "StarUpItemID": 14050201,
+  "StarUpItemNum": 1,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   20,
+   10,
+   300
+  ]
+ },
+ {
+  "ID": 140502013,
+  "SkinID": 14050201,
+  "SkinStar": 3,
+  "StarUpItemID": 14050201,
+  "StarUpItemNum": 1,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   30,
+   15,
+   450
+  ]
+ },
+ {
+  "ID": 140502014,
+  "SkinID": 14050201,
+  "SkinStar": 4,
+  "StarUpItemID": 14050201,
+  "StarUpItemNum": 1,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   40,
+   20,
+   600
+  ]
+ },
+ {
+  "ID": 140502015,
+  "SkinID": 14050201,
+  "SkinStar": 5,
+  "StarUpItemID": 14050201,
+  "StarUpItemNum": 1,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   50,
+   25,
+   750
+  ]
+ },
+ {
+  "ID": 150501011,
+  "SkinID": 15050101,
+  "SkinStar": 1,
+  "StarUpItemID": 15050101,
+  "StarUpItemNum": 1,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   10,
+   5,
+   150
+  ]
+ },
+ {
+  "ID": 150501012,
+  "SkinID": 15050101,
+  "SkinStar": 2,
+  "StarUpItemID": 15050101,
+  "StarUpItemNum": 1,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   20,
+   10,
+   300
+  ]
+ },
+ {
+  "ID": 150501013,
+  "SkinID": 15050101,
+  "SkinStar": 3,
+  "StarUpItemID": 15050101,
+  "StarUpItemNum": 1,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   30,
+   15,
+   450
+  ]
+ },
+ {
+  "ID": 150501014,
+  "SkinID": 15050101,
+  "SkinStar": 4,
+  "StarUpItemID": 15050101,
+  "StarUpItemNum": 1,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   40,
+   20,
+   600
+  ]
+ },
+ {
+  "ID": 150501015,
+  "SkinID": 15050101,
+  "SkinStar": 5,
+  "StarUpItemID": 15050101,
+  "StarUpItemNum": 1,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   50,
+   25,
+   750
+  ]
+ },
+ {
+  "ID": 410101011,
+  "SkinID": 41010101,
+  "SkinStar": 1,
+  "StarUpItemID": 41010101,
+  "StarUpItemNum": 1,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   10,
+   5,
+   150
+  ]
+ },
+ {
+  "ID": 410101012,
+  "SkinID": 41010101,
+  "SkinStar": 2,
+  "StarUpItemID": 41010101,
+  "StarUpItemNum": 1,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   20,
+   10,
+   300
+  ]
+ },
+ {
+  "ID": 410101013,
+  "SkinID": 41010101,
+  "SkinStar": 3,
+  "StarUpItemID": 41010101,
+  "StarUpItemNum": 1,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   30,
+   15,
+   450
+  ]
+ },
+ {
+  "ID": 410101014,
+  "SkinID": 41010101,
+  "SkinStar": 4,
+  "StarUpItemID": 41010101,
+  "StarUpItemNum": 1,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   40,
+   20,
+   600
+  ]
+ },
+ {
+  "ID": 410101015,
+  "SkinID": 41010101,
+  "SkinStar": 5,
+  "StarUpItemID": 41010101,
+  "StarUpItemNum": 1,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   50,
+   25,
+   750
+  ]
+ },
+ {
+  "ID": 410301011,
+  "SkinID": 41030101,
+  "SkinStar": 1,
+  "StarUpItemID": 41030101,
+  "StarUpItemNum": 1,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   10,
+   5,
+   150
+  ]
+ },
+ {
+  "ID": 410301012,
+  "SkinID": 41030101,
+  "SkinStar": 2,
+  "StarUpItemID": 41030101,
+  "StarUpItemNum": 1,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   20,
+   10,
+   300
+  ]
+ },
+ {
+  "ID": 410301013,
+  "SkinID": 41030101,
+  "SkinStar": 3,
+  "StarUpItemID": 41030101,
+  "StarUpItemNum": 1,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   30,
+   15,
+   450
+  ]
+ },
+ {
+  "ID": 410301014,
+  "SkinID": 41030101,
+  "SkinStar": 4,
+  "StarUpItemID": 41030101,
+  "StarUpItemNum": 1,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   40,
+   20,
+   600
+  ]
+ },
+ {
+  "ID": 410301015,
+  "SkinID": 41030101,
+  "SkinStar": 5,
+  "StarUpItemID": 41030101,
+  "StarUpItemNum": 1,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   50,
+   25,
+   750
+  ]
+ },
+ {
+  "ID": 410501011,
+  "SkinID": 41050101,
+  "SkinStar": 1,
+  "StarUpItemID": 41050101,
+  "StarUpItemNum": 1,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   10,
+   5,
+   150
+  ]
+ },
+ {
+  "ID": 410501012,
+  "SkinID": 41050101,
+  "SkinStar": 2,
+  "StarUpItemID": 41050101,
+  "StarUpItemNum": 1,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   20,
+   10,
+   300
+  ]
+ },
+ {
+  "ID": 410501013,
+  "SkinID": 41050101,
+  "SkinStar": 3,
+  "StarUpItemID": 41050101,
+  "StarUpItemNum": 1,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   30,
+   15,
+   450
+  ]
+ },
+ {
+  "ID": 410501014,
+  "SkinID": 41050101,
+  "SkinStar": 4,
+  "StarUpItemID": 41050101,
+  "StarUpItemNum": 1,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   40,
+   20,
+   600
+  ]
+ },
+ {
+  "ID": 410501015,
+  "SkinID": 41050101,
+  "SkinStar": 5,
+  "StarUpItemID": 41050101,
+  "StarUpItemNum": 1,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   50,
+   25,
+   750
+  ]
+ },
+ {
+  "ID": 420101011,
+  "SkinID": 42010101,
+  "SkinStar": 1,
+  "StarUpItemID": 42010101,
+  "StarUpItemNum": 1,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   10,
+   5,
+   150
+  ]
+ },
+ {
+  "ID": 420101012,
+  "SkinID": 42010101,
+  "SkinStar": 2,
+  "StarUpItemID": 42010101,
+  "StarUpItemNum": 1,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   20,
+   10,
+   300
+  ]
+ },
+ {
+  "ID": 420101013,
+  "SkinID": 42010101,
+  "SkinStar": 3,
+  "StarUpItemID": 42010101,
+  "StarUpItemNum": 1,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   30,
+   15,
+   450
+  ]
+ },
+ {
+  "ID": 420101014,
+  "SkinID": 42010101,
+  "SkinStar": 4,
+  "StarUpItemID": 42010101,
+  "StarUpItemNum": 1,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   40,
+   20,
+   600
+  ]
+ },
+ {
+  "ID": 420101015,
+  "SkinID": 42010101,
+  "SkinStar": 5,
+  "StarUpItemID": 42010101,
+  "StarUpItemNum": 1,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   50,
+   25,
+   750
+  ]
+ },
+ {
+  "ID": 440201011,
+  "SkinID": 44020101,
+  "SkinStar": 1,
+  "StarUpItemID": 44020101,
+  "StarUpItemNum": 1,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   10,
+   5,
+   150
+  ]
+ },
+ {
+  "ID": 440201012,
+  "SkinID": 44020101,
+  "SkinStar": 2,
+  "StarUpItemID": 44020101,
+  "StarUpItemNum": 1,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   20,
+   10,
+   300
+  ]
+ },
+ {
+  "ID": 440201013,
+  "SkinID": 44020101,
+  "SkinStar": 3,
+  "StarUpItemID": 44020101,
+  "StarUpItemNum": 1,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   30,
+   15,
+   450
+  ]
+ },
+ {
+  "ID": 440201014,
+  "SkinID": 44020101,
+  "SkinStar": 4,
+  "StarUpItemID": 44020101,
+  "StarUpItemNum": 1,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   40,
+   20,
+   600
+  ]
+ },
+ {
+  "ID": 440201015,
+  "SkinID": 44020101,
+  "SkinStar": 5,
+  "StarUpItemID": 44020101,
+  "StarUpItemNum": 1,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   50,
+   25,
+   750
+  ]
+ },
+ {
+  "ID": 440201021,
+  "SkinID": 44020102,
+  "SkinStar": 1,
+  "StarUpItemID": 44020102,
+  "StarUpItemNum": 1,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   60,
+   30,
+   900
+  ]
+ },
+ {
+  "ID": 440201022,
+  "SkinID": 44020102,
+  "SkinStar": 2,
+  "StarUpItemID": 44020102,
+  "StarUpItemNum": 1,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   120,
+   60,
+   1800
+  ]
+ },
+ {
+  "ID": 440201023,
+  "SkinID": 44020102,
+  "SkinStar": 3,
+  "StarUpItemID": 44020102,
+  "StarUpItemNum": 1,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   180,
+   90,
+   2700
+  ]
+ },
+ {
+  "ID": 440201024,
+  "SkinID": 44020102,
+  "SkinStar": 4,
+  "StarUpItemID": 44020102,
+  "StarUpItemNum": 1,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   240,
+   120,
+   3600
+  ]
+ },
+ {
+  "ID": 440201025,
+  "SkinID": 44020102,
+  "SkinStar": 5,
+  "StarUpItemID": 44020102,
+  "StarUpItemNum": 1,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   300,
+   150,
+   4500
+  ]
+ },
+ {
+  "ID": 440401011,
+  "SkinID": 44040101,
+  "SkinStar": 1,
+  "StarUpItemID": 44040101,
+  "StarUpItemNum": 1,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   10,
+   5,
+   150
+  ]
+ },
+ {
+  "ID": 440401012,
+  "SkinID": 44040101,
+  "SkinStar": 2,
+  "StarUpItemID": 44040101,
+  "StarUpItemNum": 1,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   20,
+   10,
+   300
+  ]
+ },
+ {
+  "ID": 440401013,
+  "SkinID": 44040101,
+  "SkinStar": 3,
+  "StarUpItemID": 44040101,
+  "StarUpItemNum": 1,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   30,
+   15,
+   450
+  ]
+ },
+ {
+  "ID": 440401014,
+  "SkinID": 44040101,
+  "SkinStar": 4,
+  "StarUpItemID": 44040101,
+  "StarUpItemNum": 1,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   40,
+   20,
+   600
+  ]
+ },
+ {
+  "ID": 440401015,
+  "SkinID": 44040101,
+  "SkinStar": 5,
+  "StarUpItemID": 44040101,
+  "StarUpItemNum": 1,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   50,
+   25,
+   750
+  ]
+ },
+ {
+  "ID": 450101011,
+  "SkinID": 45010101,
+  "SkinStar": 1,
+  "StarUpItemID": 45010101,
+  "StarUpItemNum": 1,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   10,
+   5,
+   150
+  ]
+ },
+ {
+  "ID": 450101012,
+  "SkinID": 45010101,
+  "SkinStar": 2,
+  "StarUpItemID": 45010101,
+  "StarUpItemNum": 1,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   20,
+   10,
+   300
+  ]
+ },
+ {
+  "ID": 450101013,
+  "SkinID": 45010101,
+  "SkinStar": 3,
+  "StarUpItemID": 45010101,
+  "StarUpItemNum": 1,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   30,
+   15,
+   450
+  ]
+ },
+ {
+  "ID": 450101014,
+  "SkinID": 45010101,
+  "SkinStar": 4,
+  "StarUpItemID": 45010101,
+  "StarUpItemNum": 1,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   40,
+   20,
+   600
+  ]
+ },
+ {
+  "ID": 450101015,
+  "SkinID": 45010101,
+  "SkinStar": 5,
+  "StarUpItemID": 45010101,
+  "StarUpItemNum": 1,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   50,
+   25,
+   750
+  ]
+ },
+ {
+  "ID": 230101011,
+  "SkinID": 23010101,
+  "SkinStar": 1,
+  "StarUpItemID": 23010101,
+  "StarUpItemNum": 1,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   10,
+   5,
+   150
+  ]
+ },
+ {
+  "ID": 230101012,
+  "SkinID": 23010101,
+  "SkinStar": 2,
+  "StarUpItemID": 23010101,
+  "StarUpItemNum": 1,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   20,
+   10,
+   300
+  ]
+ },
+ {
+  "ID": 230101013,
+  "SkinID": 23010101,
+  "SkinStar": 3,
+  "StarUpItemID": 23010101,
+  "StarUpItemNum": 1,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   30,
+   15,
+   450
+  ]
+ },
+ {
+  "ID": 230101014,
+  "SkinID": 23010101,
+  "SkinStar": 4,
+  "StarUpItemID": 23010101,
+  "StarUpItemNum": 1,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   40,
+   20,
+   600
+  ]
+ },
+ {
+  "ID": 230101015,
+  "SkinID": 23010101,
+  "SkinStar": 5,
+  "StarUpItemID": 23010101,
+  "StarUpItemNum": 1,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   50,
+   25,
+   750
+  ]
+ },
+ {
+  "ID": 240101011,
+  "SkinID": 24010101,
+  "SkinStar": 1,
+  "StarUpItemID": 24010101,
+  "StarUpItemNum": 1,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   10,
+   5,
+   150
+  ]
+ },
+ {
+  "ID": 240101012,
+  "SkinID": 24010101,
+  "SkinStar": 2,
+  "StarUpItemID": 24010101,
+  "StarUpItemNum": 1,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   20,
+   10,
+   300
+  ]
+ },
+ {
+  "ID": 240101013,
+  "SkinID": 24010101,
+  "SkinStar": 3,
+  "StarUpItemID": 24010101,
+  "StarUpItemNum": 1,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   30,
+   15,
+   450
+  ]
+ },
+ {
+  "ID": 240101014,
+  "SkinID": 24010101,
+  "SkinStar": 4,
+  "StarUpItemID": 24010101,
+  "StarUpItemNum": 1,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   40,
+   20,
+   600
+  ]
+ },
+ {
+  "ID": 240101015,
+  "SkinID": 24010101,
+  "SkinStar": 5,
+  "StarUpItemID": 24010101,
+  "StarUpItemNum": 1,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   50,
+   25,
+   750
+  ]
+ },
+ {
+  "ID": 240201011,
+  "SkinID": 24020101,
+  "SkinStar": 1,
+  "StarUpItemID": 24020101,
+  "StarUpItemNum": 1,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   10,
+   5,
+   150
+  ]
+ },
+ {
+  "ID": 240201012,
+  "SkinID": 24020101,
+  "SkinStar": 2,
+  "StarUpItemID": 24020101,
+  "StarUpItemNum": 1,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   20,
+   10,
+   300
+  ]
+ },
+ {
+  "ID": 240201013,
+  "SkinID": 24020101,
+  "SkinStar": 3,
+  "StarUpItemID": 24020101,
+  "StarUpItemNum": 1,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   30,
+   15,
+   450
+  ]
+ },
+ {
+  "ID": 240201014,
+  "SkinID": 24020101,
+  "SkinStar": 4,
+  "StarUpItemID": 24020101,
+  "StarUpItemNum": 1,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   40,
+   20,
+   600
+  ]
+ },
+ {
+  "ID": 240201015,
+  "SkinID": 24020101,
+  "SkinStar": 5,
+  "StarUpItemID": 24020101,
+  "StarUpItemNum": 1,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   50,
+   25,
+   750
+  ]
+ },
+ {
+  "ID": 250101011,
+  "SkinID": 25010101,
+  "SkinStar": 1,
+  "StarUpItemID": 25010101,
+  "StarUpItemNum": 1,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   10,
+   5,
+   150
+  ]
+ },
+ {
+  "ID": 250101012,
+  "SkinID": 25010101,
+  "SkinStar": 2,
+  "StarUpItemID": 25010101,
+  "StarUpItemNum": 1,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   20,
+   10,
+   300
+  ]
+ },
+ {
+  "ID": 250101013,
+  "SkinID": 25010101,
+  "SkinStar": 3,
+  "StarUpItemID": 25010101,
+  "StarUpItemNum": 1,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   30,
+   15,
+   450
+  ]
+ },
+ {
+  "ID": 250101014,
+  "SkinID": 25010101,
+  "SkinStar": 4,
+  "StarUpItemID": 25010101,
+  "StarUpItemNum": 1,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   40,
+   20,
+   600
+  ]
+ },
+ {
+  "ID": 250101015,
+  "SkinID": 25010101,
+  "SkinStar": 5,
+  "StarUpItemID": 25010101,
+  "StarUpItemNum": 1,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   50,
+   25,
+   750
+  ]
+ },
+ {
+  "ID": 140304031,
+  "SkinID": 14030403,
+  "SkinStar": 1,
+  "StarUpItemID": 14030403,
+  "StarUpItemNum": 1,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   40,
+   20,
+   600
+  ]
+ },
+ {
+  "ID": 140304032,
+  "SkinID": 14030403,
+  "SkinStar": 2,
+  "StarUpItemID": 14030403,
+  "StarUpItemNum": 1,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   80,
+   40,
+   1200
+  ]
+ },
+ {
+  "ID": 140304033,
+  "SkinID": 14030403,
+  "SkinStar": 3,
+  "StarUpItemID": 14030403,
+  "StarUpItemNum": 1,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   120,
+   60,
+   1800
+  ]
+ },
+ {
+  "ID": 140304034,
+  "SkinID": 14030403,
+  "SkinStar": 4,
+  "StarUpItemID": 14030403,
+  "StarUpItemNum": 1,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   160,
+   80,
+   2400
+  ]
+ },
+ {
+  "ID": 140304035,
+  "SkinID": 14030403,
+  "SkinStar": 5,
+  "StarUpItemID": 14030403,
+  "StarUpItemNum": 1,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   200,
+   100,
+   3000
+  ]
+ },
+ {
+  "ID": 140404031,
+  "SkinID": 14040403,
+  "SkinStar": 1,
+  "StarUpItemID": 14040403,
+  "StarUpItemNum": 1,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   50,
+   25,
+   750
+  ]
+ },
+ {
+  "ID": 140404032,
+  "SkinID": 14040403,
+  "SkinStar": 2,
+  "StarUpItemID": 14040403,
+  "StarUpItemNum": 1,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   100,
+   50,
+   1500
+  ]
+ },
+ {
+  "ID": 140404033,
+  "SkinID": 14040403,
+  "SkinStar": 3,
+  "StarUpItemID": 14040403,
+  "StarUpItemNum": 1,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   150,
+   75,
+   2250
+  ]
+ },
+ {
+  "ID": 140404034,
+  "SkinID": 14040403,
+  "SkinStar": 4,
+  "StarUpItemID": 14040403,
+  "StarUpItemNum": 1,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   200,
+   100,
+   3000
+  ]
+ },
+ {
+  "ID": 140404035,
+  "SkinID": 14040403,
+  "SkinStar": 5,
+  "StarUpItemID": 14040403,
+  "StarUpItemNum": 1,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   250,
+   125,
+   3750
+  ]
+ },
+ {
+  "ID": 450101031,
+  "SkinID": 45010103,
+  "SkinStar": 1,
+  "StarUpItemID": 45010103,
+  "StarUpItemNum": 1,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   60,
+   30,
+   900
+  ]
+ },
+ {
+  "ID": 450101032,
+  "SkinID": 45010103,
+  "SkinStar": 2,
+  "StarUpItemID": 45010103,
+  "StarUpItemNum": 1,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   120,
+   60,
+   1800
+  ]
+ },
+ {
+  "ID": 450101033,
+  "SkinID": 45010103,
+  "SkinStar": 3,
+  "StarUpItemID": 45010103,
+  "StarUpItemNum": 1,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   180,
+   90,
+   2700
+  ]
+ },
+ {
+  "ID": 450101034,
+  "SkinID": 45010103,
+  "SkinStar": 4,
+  "StarUpItemID": 45010103,
+  "StarUpItemNum": 1,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   240,
+   120,
+   3600
+  ]
+ },
+ {
+  "ID": 450101035,
+  "SkinID": 45010103,
+  "SkinStar": 5,
+  "StarUpItemID": 45010103,
+  "StarUpItemNum": 1,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   300,
+   150,
+   4500
+  ]
+ },
+ {
+  "ID": 150401011,
+  "SkinID": 15040101,
+  "SkinStar": 1,
+  "StarUpItemID": 15040101,
+  "StarUpItemNum": 1,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   10,
+   5,
+   150
+  ]
+ },
+ {
+  "ID": 150401012,
+  "SkinID": 15040101,
+  "SkinStar": 2,
+  "StarUpItemID": 15040101,
+  "StarUpItemNum": 1,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   20,
+   10,
+   300
+  ]
+ },
+ {
+  "ID": 150401013,
+  "SkinID": 15040101,
+  "SkinStar": 3,
+  "StarUpItemID": 15040101,
+  "StarUpItemNum": 1,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   30,
+   15,
+   450
+  ]
+ },
+ {
+  "ID": 150401014,
+  "SkinID": 15040101,
+  "SkinStar": 4,
+  "StarUpItemID": 15040101,
+  "StarUpItemNum": 1,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   40,
+   20,
+   600
+  ]
+ },
+ {
+  "ID": 150401015,
+  "SkinID": 15040101,
+  "SkinStar": 5,
+  "StarUpItemID": 15040101,
+  "StarUpItemNum": 1,
+  "AttrIDs": [
+   100,
+   102,
+   4
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   50,
+   25,
+   750
+  ]
+ }
+]

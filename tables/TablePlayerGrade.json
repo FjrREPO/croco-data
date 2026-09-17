@@ -1,0 +1,802 @@
+[
+ {
+  "GradeID": 1,
+  "ExpRequired": 100
+ },
+ {
+  "GradeID": 2,
+  "ExpRequired": 100
+ },
+ {
+  "GradeID": 3,
+  "ExpRequired": 200
+ },
+ {
+  "GradeID": 4,
+  "ExpRequired": 250
+ },
+ {
+  "GradeID": 5,
+  "ExpRequired": 300
+ },
+ {
+  "GradeID": 6,
+  "ExpRequired": 300
+ },
+ {
+  "GradeID": 7,
+  "ExpRequired": 300
+ },
+ {
+  "GradeID": 8,
+  "ExpRequired": 300
+ },
+ {
+  "GradeID": 9,
+  "ExpRequired": 300
+ },
+ {
+  "GradeID": 10,
+  "ExpRequired": 300
+ },
+ {
+  "GradeID": 11,
+  "ExpRequired": 300
+ },
+ {
+  "GradeID": 12,
+  "ExpRequired": 300
+ },
+ {
+  "GradeID": 13,
+  "ExpRequired": 300
+ },
+ {
+  "GradeID": 14,
+  "ExpRequired": 300
+ },
+ {
+  "GradeID": 15,
+  "ExpRequired": 300
+ },
+ {
+  "GradeID": 16,
+  "ExpRequired": 300
+ },
+ {
+  "GradeID": 17,
+  "ExpRequired": 300
+ },
+ {
+  "GradeID": 18,
+  "ExpRequired": 300
+ },
+ {
+  "GradeID": 19,
+  "ExpRequired": 300
+ },
+ {
+  "GradeID": 20,
+  "ExpRequired": 300
+ },
+ {
+  "GradeID": 21,
+  "ExpRequired": 300
+ },
+ {
+  "GradeID": 22,
+  "ExpRequired": 300
+ },
+ {
+  "GradeID": 23,
+  "ExpRequired": 300
+ },
+ {
+  "GradeID": 24,
+  "ExpRequired": 300
+ },
+ {
+  "GradeID": 25,
+  "ExpRequired": 300
+ },
+ {
+  "GradeID": 26,
+  "ExpRequired": 300
+ },
+ {
+  "GradeID": 27,
+  "ExpRequired": 300
+ },
+ {
+  "GradeID": 28,
+  "ExpRequired": 400
+ },
+ {
+  "GradeID": 29,
+  "ExpRequired": 600
+ },
+ {
+  "GradeID": 30,
+  "ExpRequired": 800
+ },
+ {
+  "GradeID": 31,
+  "ExpRequired": 1000
+ },
+ {
+  "GradeID": 32,
+  "ExpRequired": 1200
+ },
+ {
+  "GradeID": 33,
+  "ExpRequired": 1400
+ },
+ {
+  "GradeID": 34,
+  "ExpRequired": 1600
+ },
+ {
+  "GradeID": 35,
+  "ExpRequired": 1800
+ },
+ {
+  "GradeID": 36,
+  "ExpRequired": 2000
+ },
+ {
+  "GradeID": 37,
+  "ExpRequired": 2000
+ },
+ {
+  "GradeID": 38,
+  "ExpRequired": 2000
+ },
+ {
+  "GradeID": 39,
+  "ExpRequired": 2000
+ },
+ {
+  "GradeID": 40,
+  "ExpRequired": 2000
+ },
+ {
+  "GradeID": 41,
+  "ExpRequired": 2000
+ },
+ {
+  "GradeID": 42,
+  "ExpRequired": 2000
+ },
+ {
+  "GradeID": 43,
+  "ExpRequired": 2000
+ },
+ {
+  "GradeID": 44,
+  "ExpRequired": 2000
+ },
+ {
+  "GradeID": 45,
+  "ExpRequired": 2000
+ },
+ {
+  "GradeID": 46,
+  "ExpRequired": 2000
+ },
+ {
+  "GradeID": 47,
+  "ExpRequired": 2000
+ },
+ {
+  "GradeID": 48,
+  "ExpRequired": 2000
+ },
+ {
+  "GradeID": 49,
+  "ExpRequired": 2000
+ },
+ {
+  "GradeID": 50,
+  "ExpRequired": 2000
+ },
+ {
+  "GradeID": 51,
+  "ExpRequired": 2000
+ },
+ {
+  "GradeID": 52,
+  "ExpRequired": 2000
+ },
+ {
+  "GradeID": 53,
+  "ExpRequired": 2000
+ },
+ {
+  "GradeID": 54,
+  "ExpRequired": 2100
+ },
+ {
+  "GradeID": 55,
+  "ExpRequired": 2200
+ },
+ {
+  "GradeID": 56,
+  "ExpRequired": 2300
+ },
+ {
+  "GradeID": 57,
+  "ExpRequired": 2400
+ },
+ {
+  "GradeID": 58,
+  "ExpRequired": 2500
+ },
+ {
+  "GradeID": 59,
+  "ExpRequired": 2600
+ },
+ {
+  "GradeID": 60,
+  "ExpRequired": 2700
+ },
+ {
+  "GradeID": 61,
+  "ExpRequired": 2800
+ },
+ {
+  "GradeID": 62,
+  "ExpRequired": 2900
+ },
+ {
+  "GradeID": 63,
+  "ExpRequired": 3000
+ },
+ {
+  "GradeID": 64,
+  "ExpRequired": 3100
+ },
+ {
+  "GradeID": 65,
+  "ExpRequired": 3200
+ },
+ {
+  "GradeID": 66,
+  "ExpRequired": 3300
+ },
+ {
+  "GradeID": 67,
+  "ExpRequired": 3400
+ },
+ {
+  "GradeID": 68,
+  "ExpRequired": 3500
+ },
+ {
+  "GradeID": 69,
+  "ExpRequired": 3600
+ },
+ {
+  "GradeID": 70,
+  "ExpRequired": 3700
+ },
+ {
+  "GradeID": 71,
+  "ExpRequired": 3800
+ },
+ {
+  "GradeID": 72,
+  "ExpRequired": 3900
+ },
+ {
+  "GradeID": 73,
+  "ExpRequired": 4000
+ },
+ {
+  "GradeID": 74,
+  "ExpRequired": 4100
+ },
+ {
+  "GradeID": 75,
+  "ExpRequired": 4200
+ },
+ {
+  "GradeID": 76,
+  "ExpRequired": 4300
+ },
+ {
+  "GradeID": 77,
+  "ExpRequired": 4400
+ },
+ {
+  "GradeID": 78,
+  "ExpRequired": 4500
+ },
+ {
+  "GradeID": 79,
+  "ExpRequired": 4600
+ },
+ {
+  "GradeID": 80,
+  "ExpRequired": 4900
+ },
+ {
+  "GradeID": 81,
+  "ExpRequired": 5200
+ },
+ {
+  "GradeID": 82,
+  "ExpRequired": 5500
+ },
+ {
+  "GradeID": 83,
+  "ExpRequired": 5800
+ },
+ {
+  "GradeID": 84,
+  "ExpRequired": 6100
+ },
+ {
+  "GradeID": 85,
+  "ExpRequired": 6400
+ },
+ {
+  "GradeID": 86,
+  "ExpRequired": 6700
+ },
+ {
+  "GradeID": 87,
+  "ExpRequired": 7000
+ },
+ {
+  "GradeID": 88,
+  "ExpRequired": 7300
+ },
+ {
+  "GradeID": 89,
+  "ExpRequired": 7600
+ },
+ {
+  "GradeID": 90,
+  "ExpRequired": 11600
+ },
+ {
+  "GradeID": 91,
+  "ExpRequired": 12000
+ },
+ {
+  "GradeID": 92,
+  "ExpRequired": 12400
+ },
+ {
+  "GradeID": 93,
+  "ExpRequired": 12800
+ },
+ {
+  "GradeID": 94,
+  "ExpRequired": 13200
+ },
+ {
+  "GradeID": 95,
+  "ExpRequired": 13600
+ },
+ {
+  "GradeID": 96,
+  "ExpRequired": 14000
+ },
+ {
+  "GradeID": 97,
+  "ExpRequired": 14400
+ },
+ {
+  "GradeID": 98,
+  "ExpRequired": 14800
+ },
+ {
+  "GradeID": 99,
+  "ExpRequired": 15200
+ },
+ {
+  "GradeID": 100,
+  "ExpRequired": 15200
+ },
+ {
+  "GradeID": 101,
+  "ExpRequired": 15200
+ },
+ {
+  "GradeID": 102,
+  "ExpRequired": 15200
+ },
+ {
+  "GradeID": 103,
+  "ExpRequired": 15200
+ },
+ {
+  "GradeID": 104,
+  "ExpRequired": 15200
+ },
+ {
+  "GradeID": 105,
+  "ExpRequired": 15200
+ },
+ {
+  "GradeID": 106,
+  "ExpRequired": 15200
+ },
+ {
+  "GradeID": 107,
+  "ExpRequired": 15200
+ },
+ {
+  "GradeID": 108,
+  "ExpRequired": 15200
+ },
+ {
+  "GradeID": 109,
+  "ExpRequired": 15200
+ },
+ {
+  "GradeID": 110,
+  "ExpRequired": 15200
+ },
+ {
+  "GradeID": 111,
+  "ExpRequired": 15200
+ },
+ {
+  "GradeID": 112,
+  "ExpRequired": 15200
+ },
+ {
+  "GradeID": 113,
+  "ExpRequired": 15200
+ },
+ {
+  "GradeID": 114,
+  "ExpRequired": 15200
+ },
+ {
+  "GradeID": 115,
+  "ExpRequired": 15200
+ },
+ {
+  "GradeID": 116,
+  "ExpRequired": 15200
+ },
+ {
+  "GradeID": 117,
+  "ExpRequired": 15200
+ },
+ {
+  "GradeID": 118,
+  "ExpRequired": 15200
+ },
+ {
+  "GradeID": 119,
+  "ExpRequired": 15200
+ },
+ {
+  "GradeID": 120,
+  "ExpRequired": 15200
+ },
+ {
+  "GradeID": 121,
+  "ExpRequired": 15200
+ },
+ {
+  "GradeID": 122,
+  "ExpRequired": 15200
+ },
+ {
+  "GradeID": 123,
+  "ExpRequired": 15200
+ },
+ {
+  "GradeID": 124,
+  "ExpRequired": 15200
+ },
+ {
+  "GradeID": 125,
+  "ExpRequired": 15200
+ },
+ {
+  "GradeID": 126,
+  "ExpRequired": 15200
+ },
+ {
+  "GradeID": 127,
+  "ExpRequired": 15200
+ },
+ {
+  "GradeID": 128,
+  "ExpRequired": 15200
+ },
+ {
+  "GradeID": 129,
+  "ExpRequired": 15200
+ },
+ {
+  "GradeID": 130,
+  "ExpRequired": 15200
+ },
+ {
+  "GradeID": 131,
+  "ExpRequired": 15200
+ },
+ {
+  "GradeID": 132,
+  "ExpRequired": 15200
+ },
+ {
+  "GradeID": 133,
+  "ExpRequired": 15200
+ },
+ {
+  "GradeID": 134,
+  "ExpRequired": 15200
+ },
+ {
+  "GradeID": 135,
+  "ExpRequired": 15200
+ },
+ {
+  "GradeID": 136,
+  "ExpRequired": 15200
+ },
+ {
+  "GradeID": 137,
+  "ExpRequired": 15200
+ },
+ {
+  "GradeID": 138,
+  "ExpRequired": 15200
+ },
+ {
+  "GradeID": 139,
+  "ExpRequired": 15200
+ },
+ {
+  "GradeID": 140,
+  "ExpRequired": 17200
+ },
+ {
+  "GradeID": 141,
+  "ExpRequired": 17400
+ },
+ {
+  "GradeID": 142,
+  "ExpRequired": 17600
+ },
+ {
+  "GradeID": 143,
+  "ExpRequired": 17800
+ },
+ {
+  "GradeID": 144,
+  "ExpRequired": 18000
+ },
+ {
+  "GradeID": 145,
+  "ExpRequired": 18200
+ },
+ {
+  "GradeID": 146,
+  "ExpRequired": 18400
+ },
+ {
+  "GradeID": 147,
+  "ExpRequired": 18600
+ },
+ {
+  "GradeID": 148,
+  "ExpRequired": 18800
+ },
+ {
+  "GradeID": 149,
+  "ExpRequired": 19000
+ },
+ {
+  "GradeID": 150,
+  "ExpRequired": 25000
+ },
+ {
+  "GradeID": 151,
+  "ExpRequired": 25600
+ },
+ {
+  "GradeID": 152,
+  "ExpRequired": 26200
+ },
+ {
+  "GradeID": 153,
+  "ExpRequired": 26800
+ },
+ {
+  "GradeID": 154,
+  "ExpRequired": 27400
+ },
+ {
+  "GradeID": 155,
+  "ExpRequired": 28000
+ },
+ {
+  "GradeID": 156,
+  "ExpRequired": 28600
+ },
+ {
+  "GradeID": 157,
+  "ExpRequired": 29200
+ },
+ {
+  "GradeID": 158,
+  "ExpRequired": 29800
+ },
+ {
+  "GradeID": 159,
+  "ExpRequired": 30400
+ },
+ {
+  "GradeID": 160,
+  "ExpRequired": 30400
+ },
+ {
+  "GradeID": 161,
+  "ExpRequired": 30400
+ },
+ {
+  "GradeID": 162,
+  "ExpRequired": 30400
+ },
+ {
+  "GradeID": 163,
+  "ExpRequired": 30400
+ },
+ {
+  "GradeID": 164,
+  "ExpRequired": 30400
+ },
+ {
+  "GradeID": 165,
+  "ExpRequired": 30400
+ },
+ {
+  "GradeID": 166,
+  "ExpRequired": 30400
+ },
+ {
+  "GradeID": 167,
+  "ExpRequired": 30400
+ },
+ {
+  "GradeID": 168,
+  "ExpRequired": 30400
+ },
+ {
+  "GradeID": 169,
+  "ExpRequired": 30400
+ },
+ {
+  "GradeID": 170,
+  "ExpRequired": 30400
+ },
+ {
+  "GradeID": 171,
+  "ExpRequired": 30400
+ },
+ {
+  "GradeID": 172,
+  "ExpRequired": 30400
+ },
+ {
+  "GradeID": 173,
+  "ExpRequired": 30400
+ },
+ {
+  "GradeID": 174,
+  "ExpRequired": 30400
+ },
+ {
+  "GradeID": 175,
+  "ExpRequired": 30400
+ },
+ {
+  "GradeID": 176,
+  "ExpRequired": 30400
+ },
+ {
+  "GradeID": 177,
+  "ExpRequired": 30400
+ },
+ {
+  "GradeID": 178,
+  "ExpRequired": 30400
+ },
+ {
+  "GradeID": 179,
+  "ExpRequired": 30400
+ },
+ {
+  "GradeID": 180,
+  "ExpRequired": 30400
+ },
+ {
+  "GradeID": 181,
+  "ExpRequired": 30400
+ },
+ {
+  "GradeID": 182,
+  "ExpRequired": 30400
+ },
+ {
+  "GradeID": 183,
+  "ExpRequired": 30400
+ },
+ {
+  "GradeID": 184,
+  "ExpRequired": 30400
+ },
+ {
+  "GradeID": 185,
+  "ExpRequired": 30400
+ },
+ {
+  "GradeID": 186,
+  "ExpRequired": 30400
+ },
+ {
+  "GradeID": 187,
+  "ExpRequired": 30400
+ },
+ {
+  "GradeID": 188,
+  "ExpRequired": 30400
+ },
+ {
+  "GradeID": 189,
+  "ExpRequired": 30400
+ },
+ {
+  "GradeID": 190,
+  "ExpRequired": 30400
+ },
+ {
+  "GradeID": 191,
+  "ExpRequired": 30400
+ },
+ {
+  "GradeID": 192,
+  "ExpRequired": 30400
+ },
+ {
+  "GradeID": 193,
+  "ExpRequired": 30400
+ },
+ {
+  "GradeID": 194,
+  "ExpRequired": 30400
+ },
+ {
+  "GradeID": 195,
+  "ExpRequired": 30400
+ },
+ {
+  "GradeID": 196,
+  "ExpRequired": 30400
+ },
+ {
+  "GradeID": 197,
+  "ExpRequired": 30400
+ },
+ {
+  "GradeID": 198,
+  "ExpRequired": 30400
+ },
+ {
+  "GradeID": 199,
+  "ExpRequired": 30400
+ },
+ {
+  "GradeID": 200,
+  "ExpRequired": 0
+ }
+]

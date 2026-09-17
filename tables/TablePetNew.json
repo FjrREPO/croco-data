@@ -1,0 +1,278 @@
+[
+ {
+  "PetID": 501001,
+  "PetIcon": "Icon_Pet_501001",
+  "PetQuality": 1,
+  "LimitActivity": 0
+ },
+ {
+  "PetID": 501002,
+  "PetIcon": "Icon_Pet_501002",
+  "PetQuality": 1,
+  "LimitActivity": 0
+ },
+ {
+  "PetID": 501003,
+  "PetIcon": "Icon_Pet_501003",
+  "PetQuality": 1,
+  "LimitActivity": 0
+ },
+ {
+  "PetID": 501004,
+  "PetIcon": "Icon_Pet_501003",
+  "PetQuality": 1,
+  "LimitActivity": 0
+ },
+ {
+  "PetID": 501005,
+  "PetIcon": "Icon_Pet_501003",
+  "PetQuality": 1,
+  "LimitActivity": 0
+ },
+ {
+  "PetID": 502001,
+  "PetIcon": "Icon_Pet_502001",
+  "PetQuality": 2,
+  "LimitActivity": 0
+ },
+ {
+  "PetID": 502002,
+  "PetIcon": "Icon_Pet_502002",
+  "PetQuality": 2,
+  "LimitActivity": 0
+ },
+ {
+  "PetID": 502003,
+  "PetIcon": "Icon_Pet_502003",
+  "PetQuality": 2,
+  "LimitActivity": 0
+ },
+ {
+  "PetID": 502004,
+  "PetIcon": "Icon_Pet_502003",
+  "PetQuality": 2,
+  "LimitActivity": 0
+ },
+ {
+  "PetID": 502005,
+  "PetIcon": "Icon_Pet_502003",
+  "PetQuality": 2,
+  "LimitActivity": 0
+ },
+ {
+  "PetID": 503001,
+  "PetIcon": "Icon_Pet_503001",
+  "PetQuality": 3,
+  "LimitActivity": 0
+ },
+ {
+  "PetID": 503002,
+  "PetIcon": "Icon_Pet_503002",
+  "PetQuality": 3,
+  "LimitActivity": 0
+ },
+ {
+  "PetID": 503003,
+  "PetIcon": "Icon_Pet_503003",
+  "PetQuality": 3,
+  "LimitActivity": 0
+ },
+ {
+  "PetID": 503004,
+  "PetIcon": "Icon_Pet_503003",
+  "PetQuality": 3,
+  "LimitActivity": 0
+ },
+ {
+  "PetID": 503005,
+  "PetIcon": "Icon_Pet_503003",
+  "PetQuality": 3,
+  "LimitActivity": 0
+ },
+ {
+  "PetID": 504001,
+  "PetIcon": "Icon_Pet_504001",
+  "PetQuality": 4,
+  "LimitActivity": 0
+ },
+ {
+  "PetID": 504002,
+  "PetIcon": "Icon_Pet_504002",
+  "PetQuality": 4,
+  "LimitActivity": 0
+ },
+ {
+  "PetID": 504003,
+  "PetIcon": "Icon_Pet_504003",
+  "PetQuality": 4,
+  "LimitActivity": 0
+ },
+ {
+  "PetID": 504004,
+  "PetIcon": "Icon_Pet_504003",
+  "PetQuality": 4,
+  "LimitActivity": 0
+ },
+ {
+  "PetID": 504005,
+  "PetIcon": "Icon_Pet_504003",
+  "PetQuality": 4,
+  "LimitActivity": 0
+ },
+ {
+  "PetID": 505001,
+  "PetIcon": "Icon_Pet_505001",
+  "PetQuality": 5,
+  "LimitActivity": 0
+ },
+ {
+  "PetID": 505002,
+  "PetIcon": "Icon_Pet_505002",
+  "PetQuality": 5,
+  "LimitActivity": 0
+ },
+ {
+  "PetID": 505003,
+  "PetIcon": "Icon_Pet_505003",
+  "PetQuality": 5,
+  "LimitActivity": 0
+ },
+ {
+  "PetID": 505004,
+  "PetIcon": "Icon_Pet_505004",
+  "PetQuality": 5,
+  "LimitActivity": 0
+ },
+ {
+  "PetID": 505005,
+  "PetIcon": "Icon_Pet_505005",
+  "PetQuality": 5,
+  "LimitActivity": 0
+ },
+ {
+  "PetID": 505006,
+  "PetIcon": "Icon_Pet_505006",
+  "PetQuality": 5,
+  "LimitActivity": 0
+ },
+ {
+  "PetID": 505007,
+  "PetIcon": "Icon_Pet_505007",
+  "PetQuality": 5,
+  "LimitActivity": 0
+ },
+ {
+  "PetID": 505008,
+  "PetIcon": "Icon_Pet_505008",
+  "PetQuality": 5,
+  "LimitActivity": 0
+ },
+ {
+  "PetID": 505009,
+  "PetIcon": "Icon_Pet_505009",
+  "PetQuality": 5,
+  "LimitActivity": 151
+ },
+ {
+  "PetID": 506001,
+  "PetIcon": "Icon_Pet_506001",
+  "PetQuality": 6,
+  "LimitActivity": 0
+ },
+ {
+  "PetID": 506002,
+  "PetIcon": "Icon_Pet_506002",
+  "PetQuality": 6,
+  "LimitActivity": 0
+ },
+ {
+  "PetID": 506003,
+  "PetIcon": "Icon_Pet_506003",
+  "PetQuality": 6,
+  "LimitActivity": 0
+ },
+ {
+  "PetID": 506004,
+  "PetIcon": "Icon_Pet_506004",
+  "PetQuality": 6,
+  "LimitActivity": 0
+ },
+ {
+  "PetID": 506005,
+  "PetIcon": "Icon_Pet_506005",
+  "PetQuality": 6,
+  "LimitActivity": 0
+ },
+ {
+  "PetID": 506006,
+  "PetIcon": "Icon_Pet_506006",
+  "PetQuality": 6,
+  "LimitActivity": 0
+ },
+ {
+  "PetID": 506007,
+  "PetIcon": "Icon_Pet_506007",
+  "PetQuality": 6,
+  "LimitActivity": 0
+ },
+ {
+  "PetID": 506008,
+  "PetIcon": "Icon_Pet_506008",
+  "PetQuality": 6,
+  "LimitActivity": 0
+ },
+ {
+  "PetID": 506009,
+  "PetIcon": "Icon_Pet_506009",
+  "PetQuality": 6,
+  "LimitActivity": 151
+ },
+ {
+  "PetID": 507001,
+  "PetIcon": "Icon_Pet_507001",
+  "PetQuality": 7,
+  "LimitActivity": 0
+ },
+ {
+  "PetID": 507002,
+  "PetIcon": "Icon_Pet_507002",
+  "PetQuality": 7,
+  "LimitActivity": 0
+ },
+ {
+  "PetID": 507003,
+  "PetIcon": "Icon_Pet_507003",
+  "PetQuality": 7,
+  "LimitActivity": 0
+ },
+ {
+  "PetID": 507004,
+  "PetIcon": "Icon_Pet_507004",
+  "PetQuality": 7,
+  "LimitActivity": 0
+ },
+ {
+  "PetID": 507005,
+  "PetIcon": "Icon_Pet_507005",
+  "PetQuality": 7,
+  "LimitActivity": 0
+ },
+ {
+  "PetID": 507006,
+  "PetIcon": "Icon_Pet_507006",
+  "PetQuality": 7,
+  "LimitActivity": 0
+ },
+ {
+  "PetID": 507007,
+  "PetIcon": "Icon_Pet_507007",
+  "PetQuality": 7,
+  "LimitActivity": 0
+ },
+ {
+  "PetID": 507008,
+  "PetIcon": "Icon_Pet_507008",
+  "PetQuality": 7,
+  "LimitActivity": 0
+ }
+]

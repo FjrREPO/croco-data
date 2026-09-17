@@ -1,0 +1,158 @@
+[
+ {
+  "ID": 1,
+  "Quality": 0,
+  "Cost": 0,
+  "CostCost": [],
+  "NormalAffix": 0,
+  "RareAffix": 0,
+  "RareAffixRate": [],
+  "RareAffixRateFinal": [],
+  "DecompositionRatio": 10000,
+  "DecomposeCoinRatio": 10000
+ },
+ {
+  "ID": 2,
+  "Quality": 1,
+  "Cost": 0,
+  "CostCost": [],
+  "NormalAffix": 0,
+  "RareAffix": 0,
+  "RareAffixRate": [],
+  "RareAffixRateFinal": [],
+  "DecompositionRatio": 20000,
+  "DecomposeCoinRatio": 16600
+ },
+ {
+  "ID": 3,
+  "Quality": 2,
+  "Cost": 0,
+  "CostCost": [],
+  "NormalAffix": 0,
+  "RareAffix": 0,
+  "RareAffixRate": [],
+  "RareAffixRateFinal": [],
+  "DecompositionRatio": 30000,
+  "DecomposeCoinRatio": 23300
+ },
+ {
+  "ID": 4,
+  "Quality": 3,
+  "Cost": 10000,
+  "CostCost": [
+   3
+  ],
+  "NormalAffix": 1,
+  "RareAffix": 1,
+  "RareAffixRate": [
+   2000
+  ],
+  "RareAffixRateFinal": [],
+  "DecompositionRatio": 60000,
+  "DecomposeCoinRatio": 30000
+ },
+ {
+  "ID": 5,
+  "Quality": 4,
+  "Cost": 12500,
+  "CostCost": [
+   3
+  ],
+  "NormalAffix": 2,
+  "RareAffix": 1,
+  "RareAffixRate": [
+   2000
+  ],
+  "RareAffixRateFinal": [],
+  "DecompositionRatio": 100000,
+  "DecomposeCoinRatio": 36600
+ },
+ {
+  "ID": 6,
+  "Quality": 5,
+  "Cost": 15000,
+  "CostCost": [
+   3
+  ],
+  "NormalAffix": 2,
+  "RareAffix": 1,
+  "RareAffixRate": [
+   2000
+  ],
+  "RareAffixRateFinal": [],
+  "DecompositionRatio": 200000,
+  "DecomposeCoinRatio": 43300
+ },
+ {
+  "ID": 7,
+  "Quality": 6,
+  "Cost": 17500,
+  "CostCost": [
+   3,
+   6
+  ],
+  "NormalAffix": 3,
+  "RareAffix": 2,
+  "RareAffixRate": [
+   2000,
+   2000
+  ],
+  "RareAffixRateFinal": [],
+  "DecompositionRatio": 350000,
+  "DecomposeCoinRatio": 50000
+ },
+ {
+  "ID": 8,
+  "Quality": 7,
+  "Cost": 20000,
+  "CostCost": [
+   3,
+   6
+  ],
+  "NormalAffix": 3,
+  "RareAffix": 2,
+  "RareAffixRate": [
+   2000,
+   2000
+  ],
+  "RareAffixRateFinal": [],
+  "DecompositionRatio": 500000,
+  "DecomposeCoinRatio": 56600
+ },
+ {
+  "ID": 9,
+  "Quality": 8,
+  "Cost": 22500,
+  "CostCost": [
+   3,
+   6
+  ],
+  "NormalAffix": 3,
+  "RareAffix": 2,
+  "RareAffixRate": [
+   2000,
+   2000
+  ],
+  "RareAffixRateFinal": [],
+  "DecompositionRatio": 700000,
+  "DecomposeCoinRatio": 63300
+ },
+ {
+  "ID": 10,
+  "Quality": 9,
+  "Cost": 25000,
+  "CostCost": [
+   3,
+   6
+  ],
+  "NormalAffix": 3,
+  "RareAffix": 2,
+  "RareAffixRate": [
+   2000,
+   2000
+  ],
+  "RareAffixRateFinal": [],
+  "DecompositionRatio": 1000000,
+  "DecomposeCoinRatio": 70000
+ }
+]

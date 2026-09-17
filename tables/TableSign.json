@@ -1,0 +1,2178 @@
+[
+ {
+  "ID": 1,
+  "Type": 1,
+  "RewardId": [
+   2001
+  ],
+  "PayRewardId": [],
+  "RewardItem": [],
+  "RewardItemNumber": [],
+  "ShowItem": [
+   124
+  ],
+  "ShowItemNum": [
+   100
+  ],
+  "Resign": 0,
+  "ResignVal": 0
+ },
+ {
+  "ID": 2,
+  "Type": 1,
+  "RewardId": [
+   2002
+  ],
+  "PayRewardId": [],
+  "RewardItem": [],
+  "RewardItemNumber": [],
+  "ShowItem": [
+   110302
+  ],
+  "ShowItemNum": [
+   1
+  ],
+  "Resign": 0,
+  "ResignVal": 0
+ },
+ {
+  "ID": 3,
+  "Type": 1,
+  "RewardId": [
+   2003
+  ],
+  "PayRewardId": [],
+  "RewardItem": [],
+  "RewardItemNumber": [],
+  "ShowItem": [
+   175
+  ],
+  "ShowItemNum": [
+   3
+  ],
+  "Resign": 0,
+  "ResignVal": 0
+ },
+ {
+  "ID": 4,
+  "Type": 1,
+  "RewardId": [
+   2004
+  ],
+  "PayRewardId": [],
+  "RewardItem": [],
+  "RewardItemNumber": [],
+  "ShowItem": [
+   170
+  ],
+  "ShowItemNum": [
+   10
+  ],
+  "Resign": 0,
+  "ResignVal": 0
+ },
+ {
+  "ID": 5,
+  "Type": 1,
+  "RewardId": [
+   2005
+  ],
+  "PayRewardId": [],
+  "RewardItem": [],
+  "RewardItemNumber": [],
+  "ShowItem": [
+   145
+  ],
+  "ShowItemNum": [
+   60
+  ],
+  "Resign": 0,
+  "ResignVal": 0
+ },
+ {
+  "ID": 6,
+  "Type": 1,
+  "RewardId": [
+   2006
+  ],
+  "PayRewardId": [],
+  "RewardItem": [],
+  "RewardItemNumber": [],
+  "ShowItem": [
+   124
+  ],
+  "ShowItemNum": [
+   100
+  ],
+  "Resign": 0,
+  "ResignVal": 0
+ },
+ {
+  "ID": 7,
+  "Type": 1,
+  "RewardId": [
+   2007
+  ],
+  "PayRewardId": [],
+  "RewardItem": [],
+  "RewardItemNumber": [],
+  "ShowItem": [
+   124,
+   172
+  ],
+  "ShowItemNum": [
+   1000,
+   1
+  ],
+  "Resign": 0,
+  "ResignVal": 0
+ },
+ {
+  "ID": 8,
+  "Type": 1,
+  "RewardId": [
+   2007
+  ],
+  "PayRewardId": [],
+  "RewardItem": [],
+  "RewardItemNumber": [],
+  "ShowItem": [
+   145
+  ],
+  "ShowItemNum": [
+   60
+  ],
+  "Resign": 0,
+  "ResignVal": 0
+ },
+ {
+  "ID": 9,
+  "Type": 1,
+  "RewardId": [
+   2007
+  ],
+  "PayRewardId": [],
+  "RewardItem": [],
+  "RewardItemNumber": [],
+  "ShowItem": [
+   170
+  ],
+  "ShowItemNum": [
+   1
+  ],
+  "Resign": 0,
+  "ResignVal": 0
+ },
+ {
+  "ID": 10,
+  "Type": 1,
+  "RewardId": [
+   2007
+  ],
+  "PayRewardId": [],
+  "RewardItem": [],
+  "RewardItemNumber": [],
+  "ShowItem": [
+   145
+  ],
+  "ShowItemNum": [
+   60
+  ],
+  "Resign": 0,
+  "ResignVal": 0
+ },
+ {
+  "ID": 11,
+  "Type": 1,
+  "RewardId": [
+   2007
+  ],
+  "PayRewardId": [],
+  "RewardItem": [],
+  "RewardItemNumber": [],
+  "ShowItem": [
+   171
+  ],
+  "ShowItemNum": [
+   1
+  ],
+  "Resign": 0,
+  "ResignVal": 0
+ },
+ {
+  "ID": 12,
+  "Type": 1,
+  "RewardId": [
+   2007
+  ],
+  "PayRewardId": [],
+  "RewardItem": [],
+  "RewardItemNumber": [],
+  "ShowItem": [
+   145
+  ],
+  "ShowItemNum": [
+   60
+  ],
+  "Resign": 0,
+  "ResignVal": 0
+ },
+ {
+  "ID": 13,
+  "Type": 1,
+  "RewardId": [
+   2007
+  ],
+  "PayRewardId": [],
+  "RewardItem": [],
+  "RewardItemNumber": [],
+  "ShowItem": [
+   170
+  ],
+  "ShowItemNum": [
+   1
+  ],
+  "Resign": 0,
+  "ResignVal": 0
+ },
+ {
+  "ID": 14,
+  "Type": 1,
+  "RewardId": [
+   2007
+  ],
+  "PayRewardId": [],
+  "RewardItem": [],
+  "RewardItemNumber": [],
+  "ShowItem": [
+   124,
+   172
+  ],
+  "ShowItemNum": [
+   1000,
+   1
+  ],
+  "Resign": 0,
+  "ResignVal": 0
+ },
+ {
+  "ID": 15,
+  "Type": 1,
+  "RewardId": [
+   2007
+  ],
+  "PayRewardId": [],
+  "RewardItem": [],
+  "RewardItemNumber": [],
+  "ShowItem": [
+   124
+  ],
+  "ShowItemNum": [
+   50
+  ],
+  "Resign": 0,
+  "ResignVal": 0
+ },
+ {
+  "ID": 16,
+  "Type": 1,
+  "RewardId": [
+   2007
+  ],
+  "PayRewardId": [],
+  "RewardItem": [],
+  "RewardItemNumber": [],
+  "ShowItem": [
+   110302
+  ],
+  "ShowItemNum": [
+   1
+  ],
+  "Resign": 0,
+  "ResignVal": 0
+ },
+ {
+  "ID": 17,
+  "Type": 1,
+  "RewardId": [
+   2007
+  ],
+  "PayRewardId": [],
+  "RewardItem": [],
+  "RewardItemNumber": [],
+  "ShowItem": [
+   175
+  ],
+  "ShowItemNum": [
+   3
+  ],
+  "Resign": 0,
+  "ResignVal": 0
+ },
+ {
+  "ID": 18,
+  "Type": 1,
+  "RewardId": [
+   2007
+  ],
+  "PayRewardId": [],
+  "RewardItem": [],
+  "RewardItemNumber": [],
+  "ShowItem": [
+   170
+  ],
+  "ShowItemNum": [
+   10
+  ],
+  "Resign": 0,
+  "ResignVal": 0
+ },
+ {
+  "ID": 19,
+  "Type": 1,
+  "RewardId": [
+   2007
+  ],
+  "PayRewardId": [],
+  "RewardItem": [],
+  "RewardItemNumber": [],
+  "ShowItem": [
+   145
+  ],
+  "ShowItemNum": [
+   60
+  ],
+  "Resign": 0,
+  "ResignVal": 0
+ },
+ {
+  "ID": 20,
+  "Type": 1,
+  "RewardId": [
+   2007
+  ],
+  "PayRewardId": [],
+  "RewardItem": [],
+  "RewardItemNumber": [],
+  "ShowItem": [
+   124
+  ],
+  "ShowItemNum": [
+   100
+  ],
+  "Resign": 0,
+  "ResignVal": 0
+ },
+ {
+  "ID": 21,
+  "Type": 1,
+  "RewardId": [
+   2007
+  ],
+  "PayRewardId": [],
+  "RewardItem": [],
+  "RewardItemNumber": [],
+  "ShowItem": [
+   124,
+   172
+  ],
+  "ShowItemNum": [
+   1000,
+   1
+  ],
+  "Resign": 0,
+  "ResignVal": 0
+ },
+ {
+  "ID": 22,
+  "Type": 1,
+  "RewardId": [
+   2007
+  ],
+  "PayRewardId": [],
+  "RewardItem": [],
+  "RewardItemNumber": [],
+  "ShowItem": [
+   124
+  ],
+  "ShowItemNum": [
+   50
+  ],
+  "Resign": 0,
+  "ResignVal": 0
+ },
+ {
+  "ID": 23,
+  "Type": 1,
+  "RewardId": [
+   2007
+  ],
+  "PayRewardId": [],
+  "RewardItem": [],
+  "RewardItemNumber": [],
+  "ShowItem": [
+   110302
+  ],
+  "ShowItemNum": [
+   1
+  ],
+  "Resign": 0,
+  "ResignVal": 0
+ },
+ {
+  "ID": 24,
+  "Type": 1,
+  "RewardId": [
+   2007
+  ],
+  "PayRewardId": [],
+  "RewardItem": [],
+  "RewardItemNumber": [],
+  "ShowItem": [
+   175
+  ],
+  "ShowItemNum": [
+   3
+  ],
+  "Resign": 0,
+  "ResignVal": 0
+ },
+ {
+  "ID": 25,
+  "Type": 1,
+  "RewardId": [
+   2007
+  ],
+  "PayRewardId": [],
+  "RewardItem": [],
+  "RewardItemNumber": [],
+  "ShowItem": [
+   170
+  ],
+  "ShowItemNum": [
+   10
+  ],
+  "Resign": 0,
+  "ResignVal": 0
+ },
+ {
+  "ID": 26,
+  "Type": 1,
+  "RewardId": [
+   2007
+  ],
+  "PayRewardId": [],
+  "RewardItem": [],
+  "RewardItemNumber": [],
+  "ShowItem": [
+   145
+  ],
+  "ShowItemNum": [
+   60
+  ],
+  "Resign": 0,
+  "ResignVal": 0
+ },
+ {
+  "ID": 27,
+  "Type": 1,
+  "RewardId": [
+   2007
+  ],
+  "PayRewardId": [],
+  "RewardItem": [],
+  "RewardItemNumber": [],
+  "ShowItem": [
+   124
+  ],
+  "ShowItemNum": [
+   100
+  ],
+  "Resign": 0,
+  "ResignVal": 0
+ },
+ {
+  "ID": 28,
+  "Type": 1,
+  "RewardId": [
+   2007
+  ],
+  "PayRewardId": [],
+  "RewardItem": [],
+  "RewardItemNumber": [],
+  "ShowItem": [
+   124,
+   172
+  ],
+  "ShowItemNum": [
+   1000,
+   1
+  ],
+  "Resign": 0,
+  "ResignVal": 0
+ },
+ {
+  "ID": 29,
+  "Type": 1,
+  "RewardId": [
+   2007
+  ],
+  "PayRewardId": [],
+  "RewardItem": [],
+  "RewardItemNumber": [],
+  "ShowItem": [
+   124
+  ],
+  "ShowItemNum": [
+   50
+  ],
+  "Resign": 0,
+  "ResignVal": 0
+ },
+ {
+  "ID": 30,
+  "Type": 1,
+  "RewardId": [
+   2007
+  ],
+  "PayRewardId": [],
+  "RewardItem": [],
+  "RewardItemNumber": [],
+  "ShowItem": [
+   110302
+  ],
+  "ShowItemNum": [
+   1
+  ],
+  "Resign": 0,
+  "ResignVal": 0
+ },
+ {
+  "ID": 31,
+  "Type": 1,
+  "RewardId": [
+   2007
+  ],
+  "PayRewardId": [],
+  "RewardItem": [],
+  "RewardItemNumber": [],
+  "ShowItem": [
+   175
+  ],
+  "ShowItemNum": [
+   3
+  ],
+  "Resign": 0,
+  "ResignVal": 0
+ },
+ {
+  "ID": 32,
+  "Type": 1,
+  "RewardId": [
+   2007
+  ],
+  "PayRewardId": [],
+  "RewardItem": [],
+  "RewardItemNumber": [],
+  "ShowItem": [
+   170
+  ],
+  "ShowItemNum": [
+   10
+  ],
+  "Resign": 0,
+  "ResignVal": 0
+ },
+ {
+  "ID": 33,
+  "Type": 1,
+  "RewardId": [
+   2007
+  ],
+  "PayRewardId": [],
+  "RewardItem": [],
+  "RewardItemNumber": [],
+  "ShowItem": [
+   145
+  ],
+  "ShowItemNum": [
+   60
+  ],
+  "Resign": 0,
+  "ResignVal": 0
+ },
+ {
+  "ID": 34,
+  "Type": 1,
+  "RewardId": [
+   2007
+  ],
+  "PayRewardId": [],
+  "RewardItem": [],
+  "RewardItemNumber": [],
+  "ShowItem": [
+   124
+  ],
+  "ShowItemNum": [
+   100
+  ],
+  "Resign": 0,
+  "ResignVal": 0
+ },
+ {
+  "ID": 35,
+  "Type": 1,
+  "RewardId": [
+   2007
+  ],
+  "PayRewardId": [],
+  "RewardItem": [],
+  "RewardItemNumber": [],
+  "ShowItem": [
+   124,
+   172
+  ],
+  "ShowItemNum": [
+   1000,
+   1
+  ],
+  "Resign": 0,
+  "ResignVal": 0
+ },
+ {
+  "ID": 36,
+  "Type": 1,
+  "RewardId": [
+   2007
+  ],
+  "PayRewardId": [],
+  "RewardItem": [],
+  "RewardItemNumber": [],
+  "ShowItem": [
+   124
+  ],
+  "ShowItemNum": [
+   50
+  ],
+  "Resign": 0,
+  "ResignVal": 0
+ },
+ {
+  "ID": 37,
+  "Type": 1,
+  "RewardId": [
+   2007
+  ],
+  "PayRewardId": [],
+  "RewardItem": [],
+  "RewardItemNumber": [],
+  "ShowItem": [
+   110302
+  ],
+  "ShowItemNum": [
+   1
+  ],
+  "Resign": 0,
+  "ResignVal": 0
+ },
+ {
+  "ID": 38,
+  "Type": 1,
+  "RewardId": [
+   2007
+  ],
+  "PayRewardId": [],
+  "RewardItem": [],
+  "RewardItemNumber": [],
+  "ShowItem": [
+   175
+  ],
+  "ShowItemNum": [
+   3
+  ],
+  "Resign": 0,
+  "ResignVal": 0
+ },
+ {
+  "ID": 39,
+  "Type": 1,
+  "RewardId": [
+   2007
+  ],
+  "PayRewardId": [],
+  "RewardItem": [],
+  "RewardItemNumber": [],
+  "ShowItem": [
+   170
+  ],
+  "ShowItemNum": [
+   10
+  ],
+  "Resign": 0,
+  "ResignVal": 0
+ },
+ {
+  "ID": 40,
+  "Type": 1,
+  "RewardId": [
+   2007
+  ],
+  "PayRewardId": [],
+  "RewardItem": [],
+  "RewardItemNumber": [],
+  "ShowItem": [
+   145
+  ],
+  "ShowItemNum": [
+   60
+  ],
+  "Resign": 0,
+  "ResignVal": 0
+ },
+ {
+  "ID": 41,
+  "Type": 1,
+  "RewardId": [
+   2007
+  ],
+  "PayRewardId": [],
+  "RewardItem": [],
+  "RewardItemNumber": [],
+  "ShowItem": [
+   124
+  ],
+  "ShowItemNum": [
+   100
+  ],
+  "Resign": 0,
+  "ResignVal": 0
+ },
+ {
+  "ID": 42,
+  "Type": 1,
+  "RewardId": [
+   2007
+  ],
+  "PayRewardId": [],
+  "RewardItem": [],
+  "RewardItemNumber": [],
+  "ShowItem": [
+   124,
+   172
+  ],
+  "ShowItemNum": [
+   1000,
+   1
+  ],
+  "Resign": 0,
+  "ResignVal": 0
+ },
+ {
+  "ID": 43,
+  "Type": 1,
+  "RewardId": [
+   2007
+  ],
+  "PayRewardId": [],
+  "RewardItem": [],
+  "RewardItemNumber": [],
+  "ShowItem": [
+   124
+  ],
+  "ShowItemNum": [
+   50
+  ],
+  "Resign": 0,
+  "ResignVal": 0
+ },
+ {
+  "ID": 44,
+  "Type": 1,
+  "RewardId": [
+   2007
+  ],
+  "PayRewardId": [],
+  "RewardItem": [],
+  "RewardItemNumber": [],
+  "ShowItem": [
+   110302
+  ],
+  "ShowItemNum": [
+   1
+  ],
+  "Resign": 0,
+  "ResignVal": 0
+ },
+ {
+  "ID": 45,
+  "Type": 1,
+  "RewardId": [
+   2007
+  ],
+  "PayRewardId": [],
+  "RewardItem": [],
+  "RewardItemNumber": [],
+  "ShowItem": [
+   175
+  ],
+  "ShowItemNum": [
+   3
+  ],
+  "Resign": 0,
+  "ResignVal": 0
+ },
+ {
+  "ID": 46,
+  "Type": 1,
+  "RewardId": [
+   2007
+  ],
+  "PayRewardId": [],
+  "RewardItem": [],
+  "RewardItemNumber": [],
+  "ShowItem": [
+   170
+  ],
+  "ShowItemNum": [
+   10
+  ],
+  "Resign": 0,
+  "ResignVal": 0
+ },
+ {
+  "ID": 47,
+  "Type": 1,
+  "RewardId": [
+   2007
+  ],
+  "PayRewardId": [],
+  "RewardItem": [],
+  "RewardItemNumber": [],
+  "ShowItem": [
+   145
+  ],
+  "ShowItemNum": [
+   60
+  ],
+  "Resign": 0,
+  "ResignVal": 0
+ },
+ {
+  "ID": 48,
+  "Type": 1,
+  "RewardId": [
+   2007
+  ],
+  "PayRewardId": [],
+  "RewardItem": [],
+  "RewardItemNumber": [],
+  "ShowItem": [
+   124
+  ],
+  "ShowItemNum": [
+   100
+  ],
+  "Resign": 0,
+  "ResignVal": 0
+ },
+ {
+  "ID": 49,
+  "Type": 1,
+  "RewardId": [
+   2007
+  ],
+  "PayRewardId": [],
+  "RewardItem": [],
+  "RewardItemNumber": [],
+  "ShowItem": [
+   124,
+   172
+  ],
+  "ShowItemNum": [
+   1000,
+   1
+  ],
+  "Resign": 0,
+  "ResignVal": 0
+ },
+ {
+  "ID": 50,
+  "Type": 1,
+  "RewardId": [
+   2007
+  ],
+  "PayRewardId": [],
+  "RewardItem": [],
+  "RewardItemNumber": [],
+  "ShowItem": [
+   124
+  ],
+  "ShowItemNum": [
+   50
+  ],
+  "Resign": 0,
+  "ResignVal": 0
+ },
+ {
+  "ID": 51,
+  "Type": 1,
+  "RewardId": [
+   2007
+  ],
+  "PayRewardId": [],
+  "RewardItem": [],
+  "RewardItemNumber": [],
+  "ShowItem": [
+   110302
+  ],
+  "ShowItemNum": [
+   1
+  ],
+  "Resign": 0,
+  "ResignVal": 0
+ },
+ {
+  "ID": 52,
+  "Type": 1,
+  "RewardId": [
+   2007
+  ],
+  "PayRewardId": [],
+  "RewardItem": [],
+  "RewardItemNumber": [],
+  "ShowItem": [
+   175
+  ],
+  "ShowItemNum": [
+   3
+  ],
+  "Resign": 0,
+  "ResignVal": 0
+ },
+ {
+  "ID": 53,
+  "Type": 1,
+  "RewardId": [
+   2007
+  ],
+  "PayRewardId": [],
+  "RewardItem": [],
+  "RewardItemNumber": [],
+  "ShowItem": [
+   170
+  ],
+  "ShowItemNum": [
+   10
+  ],
+  "Resign": 0,
+  "ResignVal": 0
+ },
+ {
+  "ID": 54,
+  "Type": 1,
+  "RewardId": [
+   2007
+  ],
+  "PayRewardId": [],
+  "RewardItem": [],
+  "RewardItemNumber": [],
+  "ShowItem": [
+   145
+  ],
+  "ShowItemNum": [
+   60
+  ],
+  "Resign": 0,
+  "ResignVal": 0
+ },
+ {
+  "ID": 55,
+  "Type": 1,
+  "RewardId": [
+   2007
+  ],
+  "PayRewardId": [],
+  "RewardItem": [],
+  "RewardItemNumber": [],
+  "ShowItem": [
+   124
+  ],
+  "ShowItemNum": [
+   100
+  ],
+  "Resign": 0,
+  "ResignVal": 0
+ },
+ {
+  "ID": 56,
+  "Type": 1,
+  "RewardId": [
+   2007
+  ],
+  "PayRewardId": [],
+  "RewardItem": [],
+  "RewardItemNumber": [],
+  "ShowItem": [
+   124,
+   172
+  ],
+  "ShowItemNum": [
+   1000,
+   1
+  ],
+  "Resign": 0,
+  "ResignVal": 0
+ },
+ {
+  "ID": 57,
+  "Type": 1,
+  "RewardId": [
+   2007
+  ],
+  "PayRewardId": [],
+  "RewardItem": [],
+  "RewardItemNumber": [],
+  "ShowItem": [
+   124
+  ],
+  "ShowItemNum": [
+   50
+  ],
+  "Resign": 0,
+  "ResignVal": 0
+ },
+ {
+  "ID": 58,
+  "Type": 1,
+  "RewardId": [
+   2007
+  ],
+  "PayRewardId": [],
+  "RewardItem": [],
+  "RewardItemNumber": [],
+  "ShowItem": [
+   110302
+  ],
+  "ShowItemNum": [
+   1
+  ],
+  "Resign": 0,
+  "ResignVal": 0
+ },
+ {
+  "ID": 59,
+  "Type": 1,
+  "RewardId": [
+   2007
+  ],
+  "PayRewardId": [],
+  "RewardItem": [],
+  "RewardItemNumber": [],
+  "ShowItem": [
+   175
+  ],
+  "ShowItemNum": [
+   3
+  ],
+  "Resign": 0,
+  "ResignVal": 0
+ },
+ {
+  "ID": 60,
+  "Type": 1,
+  "RewardId": [
+   2007
+  ],
+  "PayRewardId": [],
+  "RewardItem": [],
+  "RewardItemNumber": [],
+  "ShowItem": [
+   170
+  ],
+  "ShowItemNum": [
+   10
+  ],
+  "Resign": 0,
+  "ResignVal": 0
+ },
+ {
+  "ID": 61,
+  "Type": 1,
+  "RewardId": [
+   2007
+  ],
+  "PayRewardId": [],
+  "RewardItem": [],
+  "RewardItemNumber": [],
+  "ShowItem": [
+   145
+  ],
+  "ShowItemNum": [
+   60
+  ],
+  "Resign": 0,
+  "ResignVal": 0
+ },
+ {
+  "ID": 62,
+  "Type": 1,
+  "RewardId": [
+   2007
+  ],
+  "PayRewardId": [],
+  "RewardItem": [],
+  "RewardItemNumber": [],
+  "ShowItem": [
+   124
+  ],
+  "ShowItemNum": [
+   100
+  ],
+  "Resign": 0,
+  "ResignVal": 0
+ },
+ {
+  "ID": 63,
+  "Type": 1,
+  "RewardId": [
+   2007
+  ],
+  "PayRewardId": [],
+  "RewardItem": [],
+  "RewardItemNumber": [],
+  "ShowItem": [
+   124,
+   172
+  ],
+  "ShowItemNum": [
+   1000,
+   1
+  ],
+  "Resign": 0,
+  "ResignVal": 0
+ },
+ {
+  "ID": 64,
+  "Type": 1,
+  "RewardId": [
+   2007
+  ],
+  "PayRewardId": [],
+  "RewardItem": [],
+  "RewardItemNumber": [],
+  "ShowItem": [
+   124
+  ],
+  "ShowItemNum": [
+   50
+  ],
+  "Resign": 0,
+  "ResignVal": 0
+ },
+ {
+  "ID": 65,
+  "Type": 1,
+  "RewardId": [
+   2007
+  ],
+  "PayRewardId": [],
+  "RewardItem": [],
+  "RewardItemNumber": [],
+  "ShowItem": [
+   110302
+  ],
+  "ShowItemNum": [
+   1
+  ],
+  "Resign": 0,
+  "ResignVal": 0
+ },
+ {
+  "ID": 66,
+  "Type": 1,
+  "RewardId": [
+   2007
+  ],
+  "PayRewardId": [],
+  "RewardItem": [],
+  "RewardItemNumber": [],
+  "ShowItem": [
+   175
+  ],
+  "ShowItemNum": [
+   3
+  ],
+  "Resign": 0,
+  "ResignVal": 0
+ },
+ {
+  "ID": 67,
+  "Type": 1,
+  "RewardId": [
+   2007
+  ],
+  "PayRewardId": [],
+  "RewardItem": [],
+  "RewardItemNumber": [],
+  "ShowItem": [
+   170
+  ],
+  "ShowItemNum": [
+   10
+  ],
+  "Resign": 0,
+  "ResignVal": 0
+ },
+ {
+  "ID": 68,
+  "Type": 1,
+  "RewardId": [
+   2007
+  ],
+  "PayRewardId": [],
+  "RewardItem": [],
+  "RewardItemNumber": [],
+  "ShowItem": [
+   145
+  ],
+  "ShowItemNum": [
+   60
+  ],
+  "Resign": 0,
+  "ResignVal": 0
+ },
+ {
+  "ID": 69,
+  "Type": 1,
+  "RewardId": [
+   2007
+  ],
+  "PayRewardId": [],
+  "RewardItem": [],
+  "RewardItemNumber": [],
+  "ShowItem": [
+   124
+  ],
+  "ShowItemNum": [
+   100
+  ],
+  "Resign": 0,
+  "ResignVal": 0
+ },
+ {
+  "ID": 70,
+  "Type": 1,
+  "RewardId": [
+   2007
+  ],
+  "PayRewardId": [],
+  "RewardItem": [],
+  "RewardItemNumber": [],
+  "ShowItem": [
+   124,
+   172
+  ],
+  "ShowItemNum": [
+   1000,
+   1
+  ],
+  "Resign": 0,
+  "ResignVal": 0
+ },
+ {
+  "ID": 1001,
+  "Type": 2,
+  "RewardId": [
+   2101
+  ],
+  "PayRewardId": [
+   2201
+  ],
+  "RewardItem": [],
+  "RewardItemNumber": [],
+  "ShowItem": [
+   124
+  ],
+  "ShowItemNum": [
+   100
+  ],
+  "Resign": 0,
+  "ResignVal": 0
+ },
+ {
+  "ID": 1002,
+  "Type": 2,
+  "RewardId": [
+   2102
+  ],
+  "PayRewardId": [
+   2202
+  ],
+  "RewardItem": [],
+  "RewardItemNumber": [],
+  "ShowItem": [
+   124
+  ],
+  "ShowItemNum": [
+   100
+  ],
+  "Resign": 0,
+  "ResignVal": 0
+ },
+ {
+  "ID": 1003,
+  "Type": 2,
+  "RewardId": [
+   2103
+  ],
+  "PayRewardId": [
+   2203
+  ],
+  "RewardItem": [],
+  "RewardItemNumber": [],
+  "ShowItem": [
+   124
+  ],
+  "ShowItemNum": [
+   100
+  ],
+  "Resign": 0,
+  "ResignVal": 0
+ },
+ {
+  "ID": 1004,
+  "Type": 2,
+  "RewardId": [
+   2104
+  ],
+  "PayRewardId": [
+   2204
+  ],
+  "RewardItem": [],
+  "RewardItemNumber": [],
+  "ShowItem": [
+   124
+  ],
+  "ShowItemNum": [
+   100
+  ],
+  "Resign": 0,
+  "ResignVal": 0
+ },
+ {
+  "ID": 1005,
+  "Type": 2,
+  "RewardId": [
+   2105
+  ],
+  "PayRewardId": [
+   2205
+  ],
+  "RewardItem": [],
+  "RewardItemNumber": [],
+  "ShowItem": [
+   124
+  ],
+  "ShowItemNum": [
+   100
+  ],
+  "Resign": 0,
+  "ResignVal": 0
+ },
+ {
+  "ID": 1006,
+  "Type": 2,
+  "RewardId": [
+   2106
+  ],
+  "PayRewardId": [
+   2206
+  ],
+  "RewardItem": [],
+  "RewardItemNumber": [],
+  "ShowItem": [
+   124
+  ],
+  "ShowItemNum": [
+   100
+  ],
+  "Resign": 0,
+  "ResignVal": 0
+ },
+ {
+  "ID": 1007,
+  "Type": 2,
+  "RewardId": [
+   2107
+  ],
+  "PayRewardId": [
+   2207
+  ],
+  "RewardItem": [],
+  "RewardItemNumber": [],
+  "ShowItem": [
+   124
+  ],
+  "ShowItemNum": [
+   100
+  ],
+  "Resign": 0,
+  "ResignVal": 0
+ },
+ {
+  "ID": 30001,
+  "Type": 3,
+  "RewardId": [
+   330001
+  ],
+  "PayRewardId": [],
+  "RewardItem": [],
+  "RewardItemNumber": [],
+  "ShowItem": [
+   116
+  ],
+  "ShowItemNum": [
+   5
+  ],
+  "Resign": 0,
+  "ResignVal": 0
+ },
+ {
+  "ID": 30002,
+  "Type": 3,
+  "RewardId": [
+   330002
+  ],
+  "PayRewardId": [],
+  "RewardItem": [],
+  "RewardItemNumber": [],
+  "ShowItem": [
+   124
+  ],
+  "ShowItemNum": [
+   200
+  ],
+  "Resign": 0,
+  "ResignVal": 0
+ },
+ {
+  "ID": 30003,
+  "Type": 3,
+  "RewardId": [
+   330003
+  ],
+  "PayRewardId": [],
+  "RewardItem": [],
+  "RewardItemNumber": [],
+  "ShowItem": [
+   175
+  ],
+  "ShowItemNum": [
+   1
+  ],
+  "Resign": 0,
+  "ResignVal": 0
+ },
+ {
+  "ID": 30004,
+  "Type": 3,
+  "RewardId": [
+   330004
+  ],
+  "PayRewardId": [],
+  "RewardItem": [],
+  "RewardItemNumber": [],
+  "ShowItem": [
+   14020102
+  ],
+  "ShowItemNum": [
+   1
+  ],
+  "Resign": 0,
+  "ResignVal": 0
+ },
+ {
+  "ID": 30005,
+  "Type": 3,
+  "RewardId": [
+   330005
+  ],
+  "PayRewardId": [],
+  "RewardItem": [],
+  "RewardItemNumber": [],
+  "ShowItem": [
+   308
+  ],
+  "ShowItemNum": [
+   2
+  ],
+  "Resign": 0,
+  "ResignVal": 0
+ },
+ {
+  "ID": 30006,
+  "Type": 3,
+  "RewardId": [
+   330006
+  ],
+  "PayRewardId": [],
+  "RewardItem": [],
+  "RewardItemNumber": [],
+  "ShowItem": [
+   124
+  ],
+  "ShowItemNum": [
+   100
+  ],
+  "Resign": 0,
+  "ResignVal": 0
+ },
+ {
+  "ID": 30007,
+  "Type": 3,
+  "RewardId": [
+   330007
+  ],
+  "PayRewardId": [],
+  "RewardItem": [],
+  "RewardItemNumber": [],
+  "ShowItem": [
+   2001
+  ],
+  "ShowItemNum": [
+   1
+  ],
+  "Resign": 0,
+  "ResignVal": 0
+ },
+ {
+  "ID": 30008,
+  "Type": 3,
+  "RewardId": [
+   330008
+  ],
+  "PayRewardId": [],
+  "RewardItem": [],
+  "RewardItemNumber": [],
+  "ShowItem": [
+   227
+  ],
+  "ShowItemNum": [
+   12
+  ],
+  "Resign": 0,
+  "ResignVal": 0
+ },
+ {
+  "ID": 30009,
+  "Type": 3,
+  "RewardId": [
+   330009
+  ],
+  "PayRewardId": [],
+  "RewardItem": [],
+  "RewardItemNumber": [],
+  "ShowItem": [
+   116
+  ],
+  "ShowItemNum": [
+   5
+  ],
+  "Resign": 0,
+  "ResignVal": 0
+ },
+ {
+  "ID": 30010,
+  "Type": 3,
+  "RewardId": [
+   330010
+  ],
+  "PayRewardId": [],
+  "RewardItem": [],
+  "RewardItemNumber": [],
+  "ShowItem": [
+   308
+  ],
+  "ShowItemNum": [
+   2
+  ],
+  "Resign": 0,
+  "ResignVal": 0
+ },
+ {
+  "ID": 30011,
+  "Type": 3,
+  "RewardId": [
+   330011
+  ],
+  "PayRewardId": [],
+  "RewardItem": [],
+  "RewardItemNumber": [],
+  "ShowItem": [
+   14020102
+  ],
+  "ShowItemNum": [
+   1
+  ],
+  "Resign": 0,
+  "ResignVal": 0
+ },
+ {
+  "ID": 30012,
+  "Type": 3,
+  "RewardId": [
+   330012
+  ],
+  "PayRewardId": [],
+  "RewardItem": [],
+  "RewardItemNumber": [],
+  "ShowItem": [
+   175
+  ],
+  "ShowItemNum": [
+   1
+  ],
+  "Resign": 0,
+  "ResignVal": 0
+ },
+ {
+  "ID": 30013,
+  "Type": 3,
+  "RewardId": [
+   330013
+  ],
+  "PayRewardId": [],
+  "RewardItem": [],
+  "RewardItemNumber": [],
+  "ShowItem": [
+   124
+  ],
+  "ShowItemNum": [
+   200
+  ],
+  "Resign": 0,
+  "ResignVal": 0
+ },
+ {
+  "ID": 30014,
+  "Type": 3,
+  "RewardId": [
+   330014
+  ],
+  "PayRewardId": [],
+  "RewardItem": [],
+  "RewardItemNumber": [],
+  "ShowItem": [
+   289
+  ],
+  "ShowItemNum": [
+   1
+  ],
+  "Resign": 0,
+  "ResignVal": 0
+ },
+ {
+  "ID": 40001,
+  "Type": 4,
+  "RewardId": [
+   3340001
+  ],
+  "PayRewardId": [],
+  "RewardItem": [],
+  "RewardItemNumber": [],
+  "ShowItem": [
+   135
+  ],
+  "ShowItemNum": [
+   66
+  ],
+  "Resign": 2,
+  "ResignVal": 10
+ },
+ {
+  "ID": 40002,
+  "Type": 4,
+  "RewardId": [
+   3340002
+  ],
+  "PayRewardId": [],
+  "RewardItem": [],
+  "RewardItemNumber": [],
+  "ShowItem": [
+   1201002
+  ],
+  "ShowItemNum": [
+   1
+  ],
+  "Resign": 2,
+  "ResignVal": 10
+ },
+ {
+  "ID": 40003,
+  "Type": 4,
+  "RewardId": [
+   3340003
+  ],
+  "PayRewardId": [],
+  "RewardItem": [],
+  "RewardItemNumber": [],
+  "ShowItem": [
+   287
+  ],
+  "ShowItemNum": [
+   1
+  ],
+  "Resign": 2,
+  "ResignVal": 10
+ },
+ {
+  "ID": 40004,
+  "Type": 4,
+  "RewardId": [
+   3340004
+  ],
+  "PayRewardId": [],
+  "RewardItem": [],
+  "RewardItemNumber": [],
+  "ShowItem": [
+   175
+  ],
+  "ShowItemNum": [
+   1
+  ],
+  "Resign": 2,
+  "ResignVal": 10
+ },
+ {
+  "ID": 40005,
+  "Type": 4,
+  "RewardId": [
+   3340005
+  ],
+  "PayRewardId": [],
+  "RewardItem": [],
+  "RewardItemNumber": [],
+  "ShowItem": [
+   504002
+  ],
+  "ShowItemNum": [
+   1
+  ],
+  "Resign": 2,
+  "ResignVal": 10
+ },
+ {
+  "ID": 40006,
+  "Type": 4,
+  "RewardId": [
+   3340006
+  ],
+  "PayRewardId": [],
+  "RewardItem": [],
+  "RewardItemNumber": [],
+  "ShowItem": [
+   124
+  ],
+  "ShowItemNum": [
+   30
+  ],
+  "Resign": 2,
+  "ResignVal": 10
+ },
+ {
+  "ID": 40007,
+  "Type": 4,
+  "RewardId": [
+   3340007
+  ],
+  "PayRewardId": [],
+  "RewardItem": [],
+  "RewardItemNumber": [],
+  "ShowItem": [
+   2001
+  ],
+  "ShowItemNum": [
+   1
+  ],
+  "Resign": 2,
+  "ResignVal": 10
+ },
+ {
+  "ID": 40008,
+  "Type": 4,
+  "RewardId": [
+   3340008
+  ],
+  "PayRewardId": [],
+  "RewardItem": [],
+  "RewardItemNumber": [],
+  "ShowItem": [
+   116
+  ],
+  "ShowItemNum": [
+   10
+  ],
+  "Resign": 2,
+  "ResignVal": 10
+ },
+ {
+  "ID": 40009,
+  "Type": 4,
+  "RewardId": [
+   3340009
+  ],
+  "PayRewardId": [],
+  "RewardItem": [],
+  "RewardItemNumber": [],
+  "ShowItem": [
+   175
+  ],
+  "ShowItemNum": [
+   1
+  ],
+  "Resign": 2,
+  "ResignVal": 10
+ },
+ {
+  "ID": 40010,
+  "Type": 4,
+  "RewardId": [
+   3340010
+  ],
+  "PayRewardId": [],
+  "RewardItem": [],
+  "RewardItemNumber": [],
+  "ShowItem": [
+   228
+  ],
+  "ShowItemNum": [
+   1
+  ],
+  "Resign": 2,
+  "ResignVal": 10
+ },
+ {
+  "ID": 40011,
+  "Type": 4,
+  "RewardId": [
+   3340011
+  ],
+  "PayRewardId": [],
+  "RewardItem": [],
+  "RewardItemNumber": [],
+  "ShowItem": [
+   124
+  ],
+  "ShowItemNum": [
+   30
+  ],
+  "Resign": 2,
+  "ResignVal": 10
+ },
+ {
+  "ID": 40012,
+  "Type": 4,
+  "RewardId": [
+   3340012
+  ],
+  "PayRewardId": [],
+  "RewardItem": [],
+  "RewardItemNumber": [],
+  "ShowItem": [
+   227
+  ],
+  "ShowItemNum": [
+   2
+  ],
+  "Resign": 2,
+  "ResignVal": 10
+ },
+ {
+  "ID": 40013,
+  "Type": 4,
+  "RewardId": [
+   3340013
+  ],
+  "PayRewardId": [],
+  "RewardItem": [],
+  "RewardItemNumber": [],
+  "ShowItem": [
+   326
+  ],
+  "ShowItemNum": [
+   100
+  ],
+  "Resign": 2,
+  "ResignVal": 10
+ },
+ {
+  "ID": 40014,
+  "Type": 4,
+  "RewardId": [
+   3340014
+  ],
+  "PayRewardId": [],
+  "RewardItem": [],
+  "RewardItemNumber": [],
+  "ShowItem": [
+   4005
+  ],
+  "ShowItemNum": [
+   1
+  ],
+  "Resign": 2,
+  "ResignVal": 10
+ },
+ {
+  "ID": 40015,
+  "Type": 4,
+  "RewardId": [
+   3340015
+  ],
+  "PayRewardId": [],
+  "RewardItem": [],
+  "RewardItemNumber": [],
+  "ShowItem": [
+   116
+  ],
+  "ShowItemNum": [
+   10
+  ],
+  "Resign": 2,
+  "ResignVal": 10
+ },
+ {
+  "ID": 40016,
+  "Type": 4,
+  "RewardId": [
+   3340016
+  ],
+  "PayRewardId": [],
+  "RewardItem": [],
+  "RewardItemNumber": [],
+  "ShowItem": [
+   175
+  ],
+  "ShowItemNum": [
+   1
+  ],
+  "Resign": 2,
+  "ResignVal": 10
+ },
+ {
+  "ID": 40017,
+  "Type": 4,
+  "RewardId": [
+   3340017
+  ],
+  "PayRewardId": [],
+  "RewardItem": [],
+  "RewardItemNumber": [],
+  "ShowItem": [
+   228
+  ],
+  "ShowItemNum": [
+   1
+  ],
+  "Resign": 2,
+  "ResignVal": 10
+ },
+ {
+  "ID": 40018,
+  "Type": 4,
+  "RewardId": [
+   3340018
+  ],
+  "PayRewardId": [],
+  "RewardItem": [],
+  "RewardItemNumber": [],
+  "ShowItem": [
+   124
+  ],
+  "ShowItemNum": [
+   30
+  ],
+  "Resign": 2,
+  "ResignVal": 10
+ },
+ {
+  "ID": 40019,
+  "Type": 4,
+  "RewardId": [
+   3340019
+  ],
+  "PayRewardId": [],
+  "RewardItem": [],
+  "RewardItemNumber": [],
+  "ShowItem": [
+   227
+  ],
+  "ShowItemNum": [
+   2
+  ],
+  "Resign": 2,
+  "ResignVal": 10
+ },
+ {
+  "ID": 40020,
+  "Type": 4,
+  "RewardId": [
+   3340020
+  ],
+  "PayRewardId": [],
+  "RewardItem": [],
+  "RewardItemNumber": [],
+  "ShowItem": [
+   326
+  ],
+  "ShowItemNum": [
+   100
+  ],
+  "Resign": 2,
+  "ResignVal": 10
+ },
+ {
+  "ID": 40021,
+  "Type": 4,
+  "RewardId": [
+   3340021
+  ],
+  "PayRewardId": [],
+  "RewardItem": [],
+  "RewardItemNumber": [],
+  "ShowItem": [
+   227
+  ],
+  "ShowItemNum": [
+   20
+  ],
+  "Resign": 2,
+  "ResignVal": 10
+ },
+ {
+  "ID": 40022,
+  "Type": 4,
+  "RewardId": [
+   3340022
+  ],
+  "PayRewardId": [],
+  "RewardItem": [],
+  "RewardItemNumber": [],
+  "ShowItem": [
+   116
+  ],
+  "ShowItemNum": [
+   10
+  ],
+  "Resign": 2,
+  "ResignVal": 10
+ },
+ {
+  "ID": 40023,
+  "Type": 4,
+  "RewardId": [
+   3340023
+  ],
+  "PayRewardId": [],
+  "RewardItem": [],
+  "RewardItemNumber": [],
+  "ShowItem": [
+   175
+  ],
+  "ShowItemNum": [
+   1
+  ],
+  "Resign": 2,
+  "ResignVal": 10
+ },
+ {
+  "ID": 40024,
+  "Type": 4,
+  "RewardId": [
+   3340024
+  ],
+  "PayRewardId": [],
+  "RewardItem": [],
+  "RewardItemNumber": [],
+  "ShowItem": [
+   228
+  ],
+  "ShowItemNum": [
+   1
+  ],
+  "Resign": 2,
+  "ResignVal": 10
+ },
+ {
+  "ID": 40025,
+  "Type": 4,
+  "RewardId": [
+   3340025
+  ],
+  "PayRewardId": [],
+  "RewardItem": [],
+  "RewardItemNumber": [],
+  "ShowItem": [
+   124
+  ],
+  "ShowItemNum": [
+   30
+  ],
+  "Resign": 2,
+  "ResignVal": 10
+ },
+ {
+  "ID": 40026,
+  "Type": 4,
+  "RewardId": [
+   3340026
+  ],
+  "PayRewardId": [],
+  "RewardItem": [],
+  "RewardItemNumber": [],
+  "ShowItem": [
+   227
+  ],
+  "ShowItemNum": [
+   2
+  ],
+  "Resign": 2,
+  "ResignVal": 10
+ },
+ {
+  "ID": 40027,
+  "Type": 4,
+  "RewardId": [
+   3340027
+  ],
+  "PayRewardId": [],
+  "RewardItem": [],
+  "RewardItemNumber": [],
+  "ShowItem": [
+   326
+  ],
+  "ShowItemNum": [
+   100
+  ],
+  "Resign": 2,
+  "ResignVal": 10
+ },
+ {
+  "ID": 40028,
+  "Type": 4,
+  "RewardId": [
+   3340028
+  ],
+  "PayRewardId": [],
+  "RewardItem": [],
+  "RewardItemNumber": [],
+  "ShowItem": [
+   289
+  ],
+  "ShowItemNum": [
+   1
+  ],
+  "Resign": 2,
+  "ResignVal": 10
+ }
+]

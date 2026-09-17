@@ -1,0 +1,302 @@
+[
+ {
+  "ID": 1,
+  "SumPoints": 200,
+  "NormalReward": [
+   8002001
+  ],
+  "AdvancedReward": [
+   8002002
+  ]
+ },
+ {
+  "ID": 2,
+  "SumPoints": 400,
+  "NormalReward": [
+   8004001
+  ],
+  "AdvancedReward": [
+   8004002
+  ]
+ },
+ {
+  "ID": 3,
+  "SumPoints": 600,
+  "NormalReward": [
+   8006001
+  ],
+  "AdvancedReward": [
+   8006002
+  ]
+ },
+ {
+  "ID": 4,
+  "SumPoints": 800,
+  "NormalReward": [
+   8008001
+  ],
+  "AdvancedReward": [
+   8008002
+  ]
+ },
+ {
+  "ID": 5,
+  "SumPoints": 1000,
+  "NormalReward": [
+   8010001
+  ],
+  "AdvancedReward": [
+   8010002
+  ]
+ },
+ {
+  "ID": 6,
+  "SumPoints": 1200,
+  "NormalReward": [
+   8012001
+  ],
+  "AdvancedReward": [
+   8012002
+  ]
+ },
+ {
+  "ID": 7,
+  "SumPoints": 1400,
+  "NormalReward": [
+   8014001
+  ],
+  "AdvancedReward": [
+   8014002
+  ]
+ },
+ {
+  "ID": 8,
+  "SumPoints": 1600,
+  "NormalReward": [
+   8016001
+  ],
+  "AdvancedReward": [
+   8016002
+  ]
+ },
+ {
+  "ID": 9,
+  "SumPoints": 1800,
+  "NormalReward": [
+   8018001
+  ],
+  "AdvancedReward": [
+   8018002
+  ]
+ },
+ {
+  "ID": 10,
+  "SumPoints": 2000,
+  "NormalReward": [
+   8020001
+  ],
+  "AdvancedReward": [
+   8020002
+  ]
+ },
+ {
+  "ID": 11,
+  "SumPoints": 2200,
+  "NormalReward": [
+   8022001
+  ],
+  "AdvancedReward": [
+   8022002
+  ]
+ },
+ {
+  "ID": 12,
+  "SumPoints": 2400,
+  "NormalReward": [
+   8024001
+  ],
+  "AdvancedReward": [
+   8024002
+  ]
+ },
+ {
+  "ID": 13,
+  "SumPoints": 2600,
+  "NormalReward": [
+   8026001
+  ],
+  "AdvancedReward": [
+   8026002
+  ]
+ },
+ {
+  "ID": 14,
+  "SumPoints": 2800,
+  "NormalReward": [
+   8028001
+  ],
+  "AdvancedReward": [
+   8028002
+  ]
+ },
+ {
+  "ID": 15,
+  "SumPoints": 3000,
+  "NormalReward": [
+   8030001
+  ],
+  "AdvancedReward": [
+   8030002
+  ]
+ },
+ {
+  "ID": 16,
+  "SumPoints": 3200,
+  "NormalReward": [
+   8032001
+  ],
+  "AdvancedReward": [
+   8032002
+  ]
+ },
+ {
+  "ID": 17,
+  "SumPoints": 3400,
+  "NormalReward": [
+   8034001
+  ],
+  "AdvancedReward": [
+   8034002
+  ]
+ },
+ {
+  "ID": 18,
+  "SumPoints": 3600,
+  "NormalReward": [
+   8036001
+  ],
+  "AdvancedReward": [
+   8036002
+  ]
+ },
+ {
+  "ID": 19,
+  "SumPoints": 3800,
+  "NormalReward": [
+   8038001
+  ],
+  "AdvancedReward": [
+   8038002
+  ]
+ },
+ {
+  "ID": 20,
+  "SumPoints": 4000,
+  "NormalReward": [
+   8040001
+  ],
+  "AdvancedReward": [
+   8040002
+  ]
+ },
+ {
+  "ID": 21,
+  "SumPoints": 4200,
+  "NormalReward": [
+   8042001
+  ],
+  "AdvancedReward": [
+   8042002
+  ]
+ },
+ {
+  "ID": 22,
+  "SumPoints": 4400,
+  "NormalReward": [
+   8044001
+  ],
+  "AdvancedReward": [
+   8044002
+  ]
+ },
+ {
+  "ID": 23,
+  "SumPoints": 4600,
+  "NormalReward": [
+   8046001
+  ],
+  "AdvancedReward": [
+   8046002
+  ]
+ },
+ {
+  "ID": 24,
+  "SumPoints": 4800,
+  "NormalReward": [
+   8048001
+  ],
+  "AdvancedReward": [
+   8048002
+  ]
+ },
+ {
+  "ID": 25,
+  "SumPoints": 5000,
+  "NormalReward": [
+   8050001
+  ],
+  "AdvancedReward": [
+   8050002
+  ]
+ },
+ {
+  "ID": 26,
+  "SumPoints": 5200,
+  "NormalReward": [
+   8052001
+  ],
+  "AdvancedReward": [
+   8052002
+  ]
+ },
+ {
+  "ID": 27,
+  "SumPoints": 5400,
+  "NormalReward": [
+   8054001
+  ],
+  "AdvancedReward": [
+   8054002
+  ]
+ },
+ {
+  "ID": 28,
+  "SumPoints": 5600,
+  "NormalReward": [
+   8056001
+  ],
+  "AdvancedReward": [
+   8056002
+  ]
+ },
+ {
+  "ID": 29,
+  "SumPoints": 5800,
+  "NormalReward": [
+   8058001
+  ],
+  "AdvancedReward": [
+   8058002
+  ]
+ },
+ {
+  "ID": 30,
+  "SumPoints": 6000,
+  "NormalReward": [
+   8060001
+  ],
+  "AdvancedReward": [
+   8060002
+  ]
+ }
+]

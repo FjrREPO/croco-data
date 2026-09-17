@@ -1,0 +1,30 @@
+id,name,unit_name,rarity,race,role,cost,hp,atk,defense,atk_speed,atk_range,max_level,skills,icon
+2105011,Great Sage's Clone,Great Sage's Clone,SS,-,Control,1,990,66,33,100,1,20,,icons/Icons/HeadIcon/Icon_Head_210501.png
+2105012,Great Sage's Clone,Great Sage's Clone,SS,-,Control,1,990,66,33,100,1,20,Golden Cudgel,icons/Icons/HeadIcon/Icon_Head_210501.png
+30021,Resentment Polymer,Resentment Polymer,S,-,-,1,0,0,0,100,1,0,Grudge Polymer,icons/Icons/HeadIcon/Icon_Head_30021.png
+30006,Skeleton King,Skeleton King,S,-,-,1,0,0,0,100,1,0,Skeleton King,icons/Icons/HeadIcon/Icon_Head_30006.png
+30026,Tidal Element,Tidal Element,S,-,-,1,0,0,0,100,4,0,Tidal Elemental,icons/Icons/HeadIcon/Icon_Head_30026.png
+14030110,Bear,Bear,A,-,-,1,0,0,0,100,1,0,,icons/Icons/HeadIcon/Icon_Head_14030111.png
+14030111,Bear,Bear,A,-,-,1,0,0,0,100,1,0,,icons/Icons/HeadIcon/Icon_Head_14030111.png
+5050071,,,A,-,-,1,0,0,0,142,1,0,,icons/Icons/PetIcon/Icon_Pet_504002.png
+5070071,,,A,-,-,1,0,0,0,100,1,0,,icons/Icons/PetIcon/Icon_Pet_503002.png
+5070072,,,A,-,-,1,0,0,0,100,1,0,,icons/Icons/PetIcon/Icon_Pet_503002.png
+5070073,,,A,-,-,1,0,0,0,100,1,0,,icons/Icons/PetIcon/Icon_Pet_503002.png
+5070074,,,A,-,-,1,0,0,0,100,1,0,,icons/Icons/PetIcon/Icon_Pet_503002.png
+5070031,,,A,-,-,1,0,0,0,142,1,0,,icons/Icons/PetIcon/Icon_Pet_507003.png
+5060031,,,A,-,-,1,0,0,0,150,1,0,,icons/Icons/PetIcon/Icon_Pet_507003.png
+5040021,,,A,-,-,1,0,0,0,150,1,0,,icons/Icons/PetIcon/Icon_Pet_507003.png
+5030021,,,A,-,-,1,0,0,0,175,1,0,,icons/Icons/PetIcon/Icon_Pet_507003.png
+5020021,,,A,-,-,1,0,0,0,200,4,0,,icons/Icons/PetIcon/Icon_Pet_507003.png
+5010021,,,A,-,-,1,0,0,0,300,4,0,,icons/Icons/PetIcon/Icon_Pet_507003.png
+130007,Axe Skeleton,Axe Skeleton,B,-,-,1,0,0,0,100,1,0,,icons/Icons/HeadIcon/Icon_Head_130007.png
+130002,Beetle,Beetle,B,-,-,1,0,0,0,100,1,0,,
+120001,Fire Element,Fire Element,B,-,-,1,0,0,0,100,1,0,,icons/Icons/HeadIcon/Icon_Head_120001.png
+130005,Flame Skeleton,Flame Skeleton,B,-,-,1,0,0,0,100,4,0,,icons/Icons/HeadIcon/Icon_Head_130005.png
+130004,Frozen Skeleton,Frozen Skeleton,B,-,-,1,0,0,0,100,4,0,,icons/Icons/HeadIcon/Icon_Head_130004.png
+120002,Healing Totem,Healing Totem,B,-,-,1,0,0,0,100,6,0,,
+130006,Lightning Skeleton,Lightning Skeleton,B,-,-,1,0,0,0,100,4,0,,icons/Icons/HeadIcon/Icon_Head_130006.png
+130003,Skeleton Archer,Skeleton Archer,B,-,-,1,0,0,0,100,4,0,,icons/Icons/HeadIcon/Icon_Head_130003.png
+130001,Skeleton Warrior,Skeleton Warrior,B,-,-,1,0,0,0,100,1,0,,icons/Icons/HeadIcon/Icon_Head_130001.png
+110001,Tidehunter,Tidehunter,B,-,-,1,0,0,0,100,4,0,,icons/Icons/HeadIcon/Icon_Head_110001.png
+120003,Viper Guard,Viper Guard,B,-,-,1,0,0,0,100,6,0,,

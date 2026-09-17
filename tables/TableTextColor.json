@@ -1,0 +1,56 @@
+[
+ {
+  "Key": "UIPanelGemRefining",
+  "OriginalColorCode": [
+   "237219"
+  ],
+  "ColorCode": [
+   "ed6d17"
+  ]
+ },
+ {
+  "Key": "UIPanelGemDetail",
+  "OriginalColorCode": [
+   "237219"
+  ],
+  "ColorCode": [
+   "D47D0C"
+  ]
+ },
+ {
+  "Key": "UIPanelTroopUpgrade",
+  "OriginalColorCode": [
+   "237219"
+  ],
+  "ColorCode": [
+   "5AEC53"
+  ]
+ },
+ {
+  "Key": "GearRefinedAffixDesc",
+  "OriginalColorCode": [
+   "237219"
+  ],
+  "ColorCode": [
+   "5AEC53"
+  ]
+ },
+ {
+  "Key": "UIPanelTroopBestiary",
+  "OriginalColorCode": [
+   "5AEC53"
+  ],
+  "ColorCode": [
+   "237219"
+  ]
+ },
+ {
+  "Key": "UIPanelHeroGemShow",
+  "OriginalColorCode": [
+   "D47D0C"
+  ],
+  "ColorCode": [
+   "009828"
+  ]
+ }
+]

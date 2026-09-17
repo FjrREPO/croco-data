@@ -1,0 +1,122 @@
+[
+ {
+  "BondID": 1002,
+  "BondProfession": 1,
+  "RequiredCount": 2,
+  "BondLevel": 1,
+  "IsEnhanced": 0,
+  "AEIDs": [
+   15002
+  ],
+  "BondFx": "Fetters_100010000",
+  "OpenFx": "",
+  "PersistFx": "",
+  "CloseFx": "",
+  "FxDuration": 0
+ },
+ {
+  "BondID": 2002,
+  "BondProfession": 2,
+  "RequiredCount": 2,
+  "BondLevel": 1,
+  "IsEnhanced": 0,
+  "AEIDs": [
+   1002
+  ],
+  "BondFx": "Fetters_100020000",
+  "OpenFx": "",
+  "PersistFx": "",
+  "CloseFx": "",
+  "FxDuration": 0
+ },
+ {
+  "BondID": 3002,
+  "BondProfession": 3,
+  "RequiredCount": 2,
+  "BondLevel": 1,
+  "IsEnhanced": 0,
+  "AEIDs": [
+   3002
+  ],
+  "BondFx": "Fetters_100030120",
+  "OpenFx": "",
+  "PersistFx": "",
+  "CloseFx": "",
+  "FxDuration": 0
+ },
+ {
+  "BondID": 4002,
+  "BondProfession": 4,
+  "RequiredCount": 2,
+  "BondLevel": 1,
+  "IsEnhanced": 0,
+  "AEIDs": [
+   4002
+  ],
+  "BondFx": "Fetters_100040000",
+  "OpenFx": "",
+  "PersistFx": "",
+  "CloseFx": "",
+  "FxDuration": 0
+ },
+ {
+  "BondID": 5002,
+  "BondProfession": 5,
+  "RequiredCount": 2,
+  "BondLevel": 1,
+  "IsEnhanced": 0,
+  "AEIDs": [
+   2002
+  ],
+  "BondFx": "Fetters_1000050000",
+  "OpenFx": "",
+  "PersistFx": "",
+  "CloseFx": "",
+  "FxDuration": 0
+ },
+ {
+  "BondID": 6002,
+  "BondProfession": 6,
+  "RequiredCount": 2,
+  "BondLevel": 1,
+  "IsEnhanced": 0,
+  "AEIDs": [
+   13001
+  ],
+  "BondFx": "Fetters_1000060000",
+  "OpenFx": "",
+  "PersistFx": "",
+  "CloseFx": "",
+  "FxDuration": 0
+ },
+ {
+  "BondID": 7002,
+  "BondProfession": 7,
+  "RequiredCount": 2,
+  "BondLevel": 1,
+  "IsEnhanced": 0,
+  "AEIDs": [
+   10001
+  ],
+  "BondFx": "Fetters_1000080000",
+  "OpenFx": "",
+  "PersistFx": "",
+  "CloseFx": "",
+  "FxDuration": 0
+ },
+ {
+  "BondID": 8001,
+  "BondProfession": 8,
+  "RequiredCount": 2,
+  "BondLevel": 1,
+  "IsEnhanced": 0,
+  "AEIDs": [
+   9001
+  ],
+  "BondFx": "",
+  "OpenFx": "",
+  "PersistFx": "",
+  "CloseFx": "",
+  "FxDuration": 0
+ }
+]

@@ -1,0 +1,1738 @@
+[
+ {
+  "ID": 10001,
+  "InitialQuality": 1,
+  "CraftFrontQuality": 1,
+  "CraftFrontENHLevel": 0,
+  "CraftBackQuality": 1,
+  "CraftBackENHLevel": 0,
+  "ConsumeType": 1,
+  "ConsumeNum": 1,
+  "InheritanceRatio": 60,
+  "AttrIDs": [
+   100,
+   4,
+   102
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   0,
+   0,
+   0
+  ],
+  "RewardId": 0,
+  "Points": 1
+ },
+ {
+  "ID": 10002,
+  "InitialQuality": 1,
+  "CraftFrontQuality": 1,
+  "CraftFrontENHLevel": 0,
+  "CraftBackQuality": 1,
+  "CraftBackENHLevel": 1,
+  "ConsumeType": 1,
+  "ConsumeNum": 3,
+  "InheritanceRatio": 65,
+  "AttrIDs": [
+   100,
+   4,
+   102
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   0,
+   0,
+   0
+  ],
+  "RewardId": 110,
+  "Points": 3
+ },
+ {
+  "ID": 10003,
+  "InitialQuality": 1,
+  "CraftFrontQuality": 1,
+  "CraftFrontENHLevel": 1,
+  "CraftBackQuality": 2,
+  "CraftBackENHLevel": 0,
+  "ConsumeType": 1,
+  "ConsumeNum": 5,
+  "InheritanceRatio": 75,
+  "AttrIDs": [
+   100,
+   4,
+   102
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   0,
+   0,
+   0
+  ],
+  "RewardId": 110,
+  "Points": 5
+ },
+ {
+  "ID": 10004,
+  "InitialQuality": 1,
+  "CraftFrontQuality": 2,
+  "CraftFrontENHLevel": 0,
+  "CraftBackQuality": 2,
+  "CraftBackENHLevel": 1,
+  "ConsumeType": 1,
+  "ConsumeNum": 10,
+  "InheritanceRatio": 80,
+  "AttrIDs": [
+   100,
+   4,
+   102
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   0,
+   0,
+   0
+  ],
+  "RewardId": 110,
+  "Points": 10
+ },
+ {
+  "ID": 10005,
+  "InitialQuality": 1,
+  "CraftFrontQuality": 2,
+  "CraftFrontENHLevel": 1,
+  "CraftBackQuality": 3,
+  "CraftBackENHLevel": 0,
+  "ConsumeType": 1,
+  "ConsumeNum": 15,
+  "InheritanceRatio": 90,
+  "AttrIDs": [
+   100,
+   4,
+   102
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   0,
+   0,
+   0
+  ],
+  "RewardId": 110,
+  "Points": 15
+ },
+ {
+  "ID": 10006,
+  "InitialQuality": 1,
+  "CraftFrontQuality": 3,
+  "CraftFrontENHLevel": 0,
+  "CraftBackQuality": 3,
+  "CraftBackENHLevel": 1,
+  "ConsumeType": 1,
+  "ConsumeNum": 20,
+  "InheritanceRatio": 95,
+  "AttrIDs": [
+   100,
+   4,
+   102
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   0,
+   0,
+   0
+  ],
+  "RewardId": 110,
+  "Points": 20
+ },
+ {
+  "ID": 10007,
+  "InitialQuality": 1,
+  "CraftFrontQuality": 3,
+  "CraftFrontENHLevel": 1,
+  "CraftBackQuality": 3,
+  "CraftBackENHLevel": 2,
+  "ConsumeType": 1,
+  "ConsumeNum": 25,
+  "InheritanceRatio": 100,
+  "AttrIDs": [
+   100,
+   4,
+   102
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   0,
+   0,
+   0
+  ],
+  "RewardId": 110,
+  "Points": 25
+ },
+ {
+  "ID": 10008,
+  "InitialQuality": 1,
+  "CraftFrontQuality": 3,
+  "CraftFrontENHLevel": 2,
+  "CraftBackQuality": 4,
+  "CraftBackENHLevel": 0,
+  "ConsumeType": 1,
+  "ConsumeNum": 30,
+  "InheritanceRatio": 120,
+  "AttrIDs": [
+   100,
+   4,
+   102
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   0,
+   0,
+   0
+  ],
+  "RewardId": 110,
+  "Points": 30
+ },
+ {
+  "ID": 10009,
+  "InitialQuality": 1,
+  "CraftFrontQuality": 4,
+  "CraftFrontENHLevel": 0,
+  "CraftBackQuality": 4,
+  "CraftBackENHLevel": 1,
+  "ConsumeType": 1,
+  "ConsumeNum": 35,
+  "InheritanceRatio": 130,
+  "AttrIDs": [
+   100,
+   4,
+   102
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   0,
+   0,
+   0
+  ],
+  "RewardId": 110,
+  "Points": 35
+ },
+ {
+  "ID": 10010,
+  "InitialQuality": 1,
+  "CraftFrontQuality": 4,
+  "CraftFrontENHLevel": 1,
+  "CraftBackQuality": 4,
+  "CraftBackENHLevel": 2,
+  "ConsumeType": 1,
+  "ConsumeNum": 40,
+  "InheritanceRatio": 140,
+  "AttrIDs": [
+   100,
+   4,
+   102
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   0,
+   0,
+   0
+  ],
+  "RewardId": 110,
+  "Points": 40
+ },
+ {
+  "ID": 10011,
+  "InitialQuality": 1,
+  "CraftFrontQuality": 4,
+  "CraftFrontENHLevel": 2,
+  "CraftBackQuality": 4,
+  "CraftBackENHLevel": 3,
+  "ConsumeType": 1,
+  "ConsumeNum": 50,
+  "InheritanceRatio": 150,
+  "AttrIDs": [
+   100,
+   4,
+   102
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   0,
+   0,
+   0
+  ],
+  "RewardId": 110,
+  "Points": 50
+ },
+ {
+  "ID": 20001,
+  "InitialQuality": 2,
+  "CraftFrontQuality": 2,
+  "CraftFrontENHLevel": 0,
+  "CraftBackQuality": 2,
+  "CraftBackENHLevel": 0,
+  "ConsumeType": 1,
+  "ConsumeNum": 1,
+  "InheritanceRatio": 75,
+  "AttrIDs": [
+   100,
+   4,
+   102
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   0,
+   0,
+   0
+  ],
+  "RewardId": 0,
+  "Points": 3
+ },
+ {
+  "ID": 20002,
+  "InitialQuality": 2,
+  "CraftFrontQuality": 2,
+  "CraftFrontENHLevel": 0,
+  "CraftBackQuality": 2,
+  "CraftBackENHLevel": 1,
+  "ConsumeType": 1,
+  "ConsumeNum": 1,
+  "InheritanceRatio": 80,
+  "AttrIDs": [
+   100,
+   4,
+   102
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   0,
+   0,
+   0
+  ],
+  "RewardId": 110,
+  "Points": 3
+ },
+ {
+  "ID": 20003,
+  "InitialQuality": 2,
+  "CraftFrontQuality": 2,
+  "CraftFrontENHLevel": 1,
+  "CraftBackQuality": 3,
+  "CraftBackENHLevel": 0,
+  "ConsumeType": 1,
+  "ConsumeNum": 2,
+  "InheritanceRatio": 90,
+  "AttrIDs": [
+   100,
+   4,
+   102
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   0,
+   0,
+   0
+  ],
+  "RewardId": 110,
+  "Points": 6
+ },
+ {
+  "ID": 20004,
+  "InitialQuality": 2,
+  "CraftFrontQuality": 3,
+  "CraftFrontENHLevel": 0,
+  "CraftBackQuality": 3,
+  "CraftBackENHLevel": 1,
+  "ConsumeType": 1,
+  "ConsumeNum": 3,
+  "InheritanceRatio": 95,
+  "AttrIDs": [
+   100,
+   4,
+   102
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   0,
+   0,
+   0
+  ],
+  "RewardId": 110,
+  "Points": 6
+ },
+ {
+  "ID": 20005,
+  "InitialQuality": 2,
+  "CraftFrontQuality": 3,
+  "CraftFrontENHLevel": 1,
+  "CraftBackQuality": 3,
+  "CraftBackENHLevel": 2,
+  "ConsumeType": 1,
+  "ConsumeNum": 5,
+  "InheritanceRatio": 100,
+  "AttrIDs": [
+   100,
+   4,
+   102
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   0,
+   0,
+   0
+  ],
+  "RewardId": 110,
+  "Points": 9
+ },
+ {
+  "ID": 20006,
+  "InitialQuality": 2,
+  "CraftFrontQuality": 3,
+  "CraftFrontENHLevel": 2,
+  "CraftBackQuality": 4,
+  "CraftBackENHLevel": 0,
+  "ConsumeType": 1,
+  "ConsumeNum": 8,
+  "InheritanceRatio": 120,
+  "AttrIDs": [
+   100,
+   4,
+   102
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   0,
+   0,
+   0
+  ],
+  "RewardId": 110,
+  "Points": 15
+ },
+ {
+  "ID": 20007,
+  "InitialQuality": 2,
+  "CraftFrontQuality": 4,
+  "CraftFrontENHLevel": 0,
+  "CraftBackQuality": 4,
+  "CraftBackENHLevel": 1,
+  "ConsumeType": 1,
+  "ConsumeNum": 10,
+  "InheritanceRatio": 130,
+  "AttrIDs": [
+   100,
+   4,
+   102
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   0,
+   0,
+   0
+  ],
+  "RewardId": 110,
+  "Points": 24
+ },
+ {
+  "ID": 20008,
+  "InitialQuality": 2,
+  "CraftFrontQuality": 4,
+  "CraftFrontENHLevel": 1,
+  "CraftBackQuality": 4,
+  "CraftBackENHLevel": 2,
+  "ConsumeType": 1,
+  "ConsumeNum": 12,
+  "InheritanceRatio": 140,
+  "AttrIDs": [
+   100,
+   4,
+   102
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   0,
+   0,
+   0
+  ],
+  "RewardId": 110,
+  "Points": 30
+ },
+ {
+  "ID": 20009,
+  "InitialQuality": 2,
+  "CraftFrontQuality": 4,
+  "CraftFrontENHLevel": 2,
+  "CraftBackQuality": 4,
+  "CraftBackENHLevel": 3,
+  "ConsumeType": 1,
+  "ConsumeNum": 15,
+  "InheritanceRatio": 150,
+  "AttrIDs": [
+   100,
+   4,
+   102
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   0,
+   0,
+   0
+  ],
+  "RewardId": 110,
+  "Points": 36
+ },
+ {
+  "ID": 20010,
+  "InitialQuality": 2,
+  "CraftFrontQuality": 4,
+  "CraftFrontENHLevel": 3,
+  "CraftBackQuality": 5,
+  "CraftBackENHLevel": 0,
+  "ConsumeType": 1,
+  "ConsumeNum": 20,
+  "InheritanceRatio": 170,
+  "AttrIDs": [
+   100,
+   4,
+   102
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   0,
+   0,
+   0
+  ],
+  "RewardId": 110,
+  "Points": 45
+ },
+ {
+  "ID": 20011,
+  "InitialQuality": 2,
+  "CraftFrontQuality": 5,
+  "CraftFrontENHLevel": 0,
+  "CraftBackQuality": 5,
+  "CraftBackENHLevel": 1,
+  "ConsumeType": 1,
+  "ConsumeNum": 25,
+  "InheritanceRatio": 185,
+  "AttrIDs": [
+   100,
+   4,
+   102
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   0,
+   0,
+   0
+  ],
+  "RewardId": 110,
+  "Points": 60
+ },
+ {
+  "ID": 20012,
+  "InitialQuality": 2,
+  "CraftFrontQuality": 5,
+  "CraftFrontENHLevel": 1,
+  "CraftBackQuality": 5,
+  "CraftBackENHLevel": 2,
+  "ConsumeType": 1,
+  "ConsumeNum": 30,
+  "InheritanceRatio": 200,
+  "AttrIDs": [
+   100,
+   4,
+   102
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   0,
+   0,
+   0
+  ],
+  "RewardId": 110,
+  "Points": 75
+ },
+ {
+  "ID": 20013,
+  "InitialQuality": 2,
+  "CraftFrontQuality": 5,
+  "CraftFrontENHLevel": 2,
+  "CraftBackQuality": 5,
+  "CraftBackENHLevel": 3,
+  "ConsumeType": 1,
+  "ConsumeNum": 40,
+  "InheritanceRatio": 215,
+  "AttrIDs": [
+   100,
+   4,
+   102
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   0,
+   0,
+   0
+  ],
+  "RewardId": 110,
+  "Points": 90
+ },
+ {
+  "ID": 20014,
+  "InitialQuality": 2,
+  "CraftFrontQuality": 5,
+  "CraftFrontENHLevel": 3,
+  "CraftBackQuality": 6,
+  "CraftBackENHLevel": 0,
+  "ConsumeType": 1,
+  "ConsumeNum": 50,
+  "InheritanceRatio": 260,
+  "AttrIDs": [
+   100,
+   4,
+   102
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   0,
+   0,
+   0
+  ],
+  "RewardId": 110,
+  "Points": 120
+ },
+ {
+  "ID": 30001,
+  "InitialQuality": 3,
+  "CraftFrontQuality": 3,
+  "CraftFrontENHLevel": 0,
+  "CraftBackQuality": 3,
+  "CraftBackENHLevel": 0,
+  "ConsumeType": 1,
+  "ConsumeNum": 1,
+  "InheritanceRatio": 90,
+  "AttrIDs": [
+   100,
+   4,
+   102
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   0,
+   0,
+   0
+  ],
+  "RewardId": 0,
+  "Points": 5
+ },
+ {
+  "ID": 30002,
+  "InitialQuality": 3,
+  "CraftFrontQuality": 3,
+  "CraftFrontENHLevel": 0,
+  "CraftBackQuality": 3,
+  "CraftBackENHLevel": 1,
+  "ConsumeType": 1,
+  "ConsumeNum": 1,
+  "InheritanceRatio": 95,
+  "AttrIDs": [
+   100,
+   4,
+   102
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   0,
+   0,
+   0
+  ],
+  "RewardId": 112,
+  "Points": 5
+ },
+ {
+  "ID": 30003,
+  "InitialQuality": 3,
+  "CraftFrontQuality": 3,
+  "CraftFrontENHLevel": 1,
+  "CraftBackQuality": 3,
+  "CraftBackENHLevel": 2,
+  "ConsumeType": 1,
+  "ConsumeNum": 2,
+  "InheritanceRatio": 100,
+  "AttrIDs": [
+   100,
+   4,
+   102
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   0,
+   0,
+   0
+  ],
+  "RewardId": 112,
+  "Points": 10
+ },
+ {
+  "ID": 30004,
+  "InitialQuality": 3,
+  "CraftFrontQuality": 3,
+  "CraftFrontENHLevel": 2,
+  "CraftBackQuality": 4,
+  "CraftBackENHLevel": 0,
+  "ConsumeType": 1,
+  "ConsumeNum": 3,
+  "InheritanceRatio": 120,
+  "AttrIDs": [
+   100,
+   4,
+   102
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   0,
+   0,
+   0
+  ],
+  "RewardId": 112,
+  "Points": 15
+ },
+ {
+  "ID": 30005,
+  "InitialQuality": 3,
+  "CraftFrontQuality": 4,
+  "CraftFrontENHLevel": 0,
+  "CraftBackQuality": 4,
+  "CraftBackENHLevel": 1,
+  "ConsumeType": 1,
+  "ConsumeNum": 4,
+  "InheritanceRatio": 130,
+  "AttrIDs": [
+   100,
+   4,
+   102
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   0,
+   0,
+   0
+  ],
+  "RewardId": 112,
+  "Points": 20
+ },
+ {
+  "ID": 30006,
+  "InitialQuality": 3,
+  "CraftFrontQuality": 4,
+  "CraftFrontENHLevel": 1,
+  "CraftBackQuality": 4,
+  "CraftBackENHLevel": 2,
+  "ConsumeType": 1,
+  "ConsumeNum": 5,
+  "InheritanceRatio": 140,
+  "AttrIDs": [
+   100,
+   4,
+   102
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   0,
+   0,
+   0
+  ],
+  "RewardId": 112,
+  "Points": 25
+ },
+ {
+  "ID": 30007,
+  "InitialQuality": 3,
+  "CraftFrontQuality": 4,
+  "CraftFrontENHLevel": 2,
+  "CraftBackQuality": 4,
+  "CraftBackENHLevel": 3,
+  "ConsumeType": 1,
+  "ConsumeNum": 6,
+  "InheritanceRatio": 150,
+  "AttrIDs": [
+   100,
+   4,
+   102
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   0,
+   0,
+   0
+  ],
+  "RewardId": 112,
+  "Points": 30
+ },
+ {
+  "ID": 30008,
+  "InitialQuality": 3,
+  "CraftFrontQuality": 4,
+  "CraftFrontENHLevel": 3,
+  "CraftBackQuality": 5,
+  "CraftBackENHLevel": 0,
+  "ConsumeType": 1,
+  "ConsumeNum": 8,
+  "InheritanceRatio": 170,
+  "AttrIDs": [
+   100,
+   4,
+   102
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   0,
+   0,
+   0
+  ],
+  "RewardId": 112,
+  "Points": 40
+ },
+ {
+  "ID": 30009,
+  "InitialQuality": 3,
+  "CraftFrontQuality": 5,
+  "CraftFrontENHLevel": 0,
+  "CraftBackQuality": 5,
+  "CraftBackENHLevel": 1,
+  "ConsumeType": 1,
+  "ConsumeNum": 10,
+  "InheritanceRatio": 185,
+  "AttrIDs": [
+   100,
+   4,
+   102
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   0,
+   0,
+   0
+  ],
+  "RewardId": 112,
+  "Points": 50
+ },
+ {
+  "ID": 30010,
+  "InitialQuality": 3,
+  "CraftFrontQuality": 5,
+  "CraftFrontENHLevel": 1,
+  "CraftBackQuality": 5,
+  "CraftBackENHLevel": 2,
+  "ConsumeType": 1,
+  "ConsumeNum": 12,
+  "InheritanceRatio": 200,
+  "AttrIDs": [
+   100,
+   4,
+   102
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   0,
+   0,
+   0
+  ],
+  "RewardId": 112,
+  "Points": 60
+ },
+ {
+  "ID": 30011,
+  "InitialQuality": 3,
+  "CraftFrontQuality": 5,
+  "CraftFrontENHLevel": 2,
+  "CraftBackQuality": 5,
+  "CraftBackENHLevel": 3,
+  "ConsumeType": 1,
+  "ConsumeNum": 15,
+  "InheritanceRatio": 215,
+  "AttrIDs": [
+   100,
+   4,
+   102
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   0,
+   0,
+   0
+  ],
+  "RewardId": 112,
+  "Points": 75
+ },
+ {
+  "ID": 30012,
+  "InitialQuality": 3,
+  "CraftFrontQuality": 5,
+  "CraftFrontENHLevel": 3,
+  "CraftBackQuality": 6,
+  "CraftBackENHLevel": 0,
+  "ConsumeType": 1,
+  "ConsumeNum": 18,
+  "InheritanceRatio": 260,
+  "AttrIDs": [
+   100,
+   4,
+   102
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   0,
+   0,
+   0
+  ],
+  "RewardId": 112,
+  "Points": 90
+ },
+ {
+  "ID": 30013,
+  "InitialQuality": 3,
+  "CraftFrontQuality": 6,
+  "CraftFrontENHLevel": 0,
+  "CraftBackQuality": 6,
+  "CraftBackENHLevel": 1,
+  "ConsumeType": 1,
+  "ConsumeNum": 20,
+  "InheritanceRatio": 270,
+  "AttrIDs": [
+   100,
+   4,
+   102
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   0,
+   0,
+   0
+  ],
+  "RewardId": 112,
+  "Points": 100
+ },
+ {
+  "ID": 30014,
+  "InitialQuality": 3,
+  "CraftFrontQuality": 6,
+  "CraftFrontENHLevel": 1,
+  "CraftBackQuality": 6,
+  "CraftBackENHLevel": 2,
+  "ConsumeType": 1,
+  "ConsumeNum": 25,
+  "InheritanceRatio": 280,
+  "AttrIDs": [
+   100,
+   4,
+   102
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   0,
+   0,
+   0
+  ],
+  "RewardId": 112,
+  "Points": 125
+ },
+ {
+  "ID": 30015,
+  "InitialQuality": 3,
+  "CraftFrontQuality": 6,
+  "CraftFrontENHLevel": 2,
+  "CraftBackQuality": 6,
+  "CraftBackENHLevel": 3,
+  "ConsumeType": 1,
+  "ConsumeNum": 30,
+  "InheritanceRatio": 290,
+  "AttrIDs": [
+   100,
+   4,
+   102
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   0,
+   0,
+   0
+  ],
+  "RewardId": 112,
+  "Points": 150
+ },
+ {
+  "ID": 40001,
+  "InitialQuality": 4,
+  "CraftFrontQuality": 4,
+  "CraftFrontENHLevel": 0,
+  "CraftBackQuality": 4,
+  "CraftBackENHLevel": 0,
+  "ConsumeType": 1,
+  "ConsumeNum": 1,
+  "InheritanceRatio": 140,
+  "AttrIDs": [
+   100,
+   4,
+   102
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   0,
+   0,
+   0
+  ],
+  "RewardId": 0,
+  "Points": 30
+ },
+ {
+  "ID": 40002,
+  "InitialQuality": 4,
+  "CraftFrontQuality": 4,
+  "CraftFrontENHLevel": 0,
+  "CraftBackQuality": 4,
+  "CraftBackENHLevel": 1,
+  "ConsumeType": 1,
+  "ConsumeNum": 1,
+  "InheritanceRatio": 150,
+  "AttrIDs": [
+   100,
+   4,
+   102
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   0,
+   0,
+   0
+  ],
+  "RewardId": 114,
+  "Points": 30
+ },
+ {
+  "ID": 40003,
+  "InitialQuality": 4,
+  "CraftFrontQuality": 4,
+  "CraftFrontENHLevel": 1,
+  "CraftBackQuality": 4,
+  "CraftBackENHLevel": 2,
+  "ConsumeType": 1,
+  "ConsumeNum": 1,
+  "InheritanceRatio": 165,
+  "AttrIDs": [
+   100,
+   4,
+   102
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   0,
+   0,
+   0
+  ],
+  "RewardId": 114,
+  "Points": 30
+ },
+ {
+  "ID": 40004,
+  "InitialQuality": 4,
+  "CraftFrontQuality": 4,
+  "CraftFrontENHLevel": 2,
+  "CraftBackQuality": 4,
+  "CraftBackENHLevel": 3,
+  "ConsumeType": 1,
+  "ConsumeNum": 1,
+  "InheritanceRatio": 175,
+  "AttrIDs": [
+   100,
+   4,
+   102
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   0,
+   0,
+   0
+  ],
+  "RewardId": 114,
+  "Points": 30
+ },
+ {
+  "ID": 40005,
+  "InitialQuality": 4,
+  "CraftFrontQuality": 4,
+  "CraftFrontENHLevel": 3,
+  "CraftBackQuality": 5,
+  "CraftBackENHLevel": 0,
+  "ConsumeType": 1,
+  "ConsumeNum": 2,
+  "InheritanceRatio": 200,
+  "AttrIDs": [
+   100,
+   4,
+   102
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   0,
+   0,
+   0
+  ],
+  "RewardId": 114,
+  "Points": 60
+ },
+ {
+  "ID": 40006,
+  "InitialQuality": 4,
+  "CraftFrontQuality": 5,
+  "CraftFrontENHLevel": 0,
+  "CraftBackQuality": 5,
+  "CraftBackENHLevel": 1,
+  "ConsumeType": 1,
+  "ConsumeNum": 2,
+  "InheritanceRatio": 215,
+  "AttrIDs": [
+   100,
+   4,
+   102
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   0,
+   0,
+   0
+  ],
+  "RewardId": 114,
+  "Points": 60
+ },
+ {
+  "ID": 40007,
+  "InitialQuality": 4,
+  "CraftFrontQuality": 5,
+  "CraftFrontENHLevel": 1,
+  "CraftBackQuality": 5,
+  "CraftBackENHLevel": 2,
+  "ConsumeType": 1,
+  "ConsumeNum": 2,
+  "InheritanceRatio": 230,
+  "AttrIDs": [
+   100,
+   4,
+   102
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   0,
+   0,
+   0
+  ],
+  "RewardId": 114,
+  "Points": 60
+ },
+ {
+  "ID": 40008,
+  "InitialQuality": 4,
+  "CraftFrontQuality": 5,
+  "CraftFrontENHLevel": 2,
+  "CraftBackQuality": 5,
+  "CraftBackENHLevel": 3,
+  "ConsumeType": 1,
+  "ConsumeNum": 2,
+  "InheritanceRatio": 250,
+  "AttrIDs": [
+   100,
+   4,
+   102
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   0,
+   0,
+   0
+  ],
+  "RewardId": 114,
+  "Points": 60
+ },
+ {
+  "ID": 40009,
+  "InitialQuality": 4,
+  "CraftFrontQuality": 5,
+  "CraftFrontENHLevel": 3,
+  "CraftBackQuality": 6,
+  "CraftBackENHLevel": 0,
+  "ConsumeType": 1,
+  "ConsumeNum": 3,
+  "InheritanceRatio": 300,
+  "AttrIDs": [
+   100,
+   4,
+   102
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   0,
+   0,
+   0
+  ],
+  "RewardId": 114,
+  "Points": 90
+ },
+ {
+  "ID": 40010,
+  "InitialQuality": 4,
+  "CraftFrontQuality": 6,
+  "CraftFrontENHLevel": 0,
+  "CraftBackQuality": 6,
+  "CraftBackENHLevel": 1,
+  "ConsumeType": 1,
+  "ConsumeNum": 3,
+  "InheritanceRatio": 315,
+  "AttrIDs": [
+   100,
+   4,
+   102
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   0,
+   0,
+   0
+  ],
+  "RewardId": 114,
+  "Points": 90
+ },
+ {
+  "ID": 40011,
+  "InitialQuality": 4,
+  "CraftFrontQuality": 6,
+  "CraftFrontENHLevel": 1,
+  "CraftBackQuality": 6,
+  "CraftBackENHLevel": 2,
+  "ConsumeType": 1,
+  "ConsumeNum": 3,
+  "InheritanceRatio": 325,
+  "AttrIDs": [
+   100,
+   4,
+   102
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   0,
+   0,
+   0
+  ],
+  "RewardId": 114,
+  "Points": 90
+ },
+ {
+  "ID": 40012,
+  "InitialQuality": 4,
+  "CraftFrontQuality": 6,
+  "CraftFrontENHLevel": 2,
+  "CraftBackQuality": 6,
+  "CraftBackENHLevel": 3,
+  "ConsumeType": 1,
+  "ConsumeNum": 4,
+  "InheritanceRatio": 335,
+  "AttrIDs": [
+   100,
+   4,
+   102
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   0,
+   0,
+   0
+  ],
+  "RewardId": 114,
+  "Points": 120
+ },
+ {
+  "ID": 40013,
+  "InitialQuality": 4,
+  "CraftFrontQuality": 6,
+  "CraftFrontENHLevel": 3,
+  "CraftBackQuality": 6,
+  "CraftBackENHLevel": 4,
+  "ConsumeType": 1,
+  "ConsumeNum": 5,
+  "InheritanceRatio": 360,
+  "AttrIDs": [
+   100,
+   4,
+   102
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   0,
+   0,
+   0
+  ],
+  "RewardId": 114,
+  "Points": 150
+ },
+ {
+  "ID": 50001,
+  "InitialQuality": 5,
+  "CraftFrontQuality": 5,
+  "CraftFrontENHLevel": 0,
+  "CraftBackQuality": 5,
+  "CraftBackENHLevel": 0,
+  "ConsumeType": 1,
+  "ConsumeNum": 1,
+  "InheritanceRatio": 225,
+  "AttrIDs": [
+   100,
+   4,
+   102
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   0,
+   0,
+   0
+  ],
+  "RewardId": 0,
+  "Points": 150
+ },
+ {
+  "ID": 50002,
+  "InitialQuality": 5,
+  "CraftFrontQuality": 5,
+  "CraftFrontENHLevel": 0,
+  "CraftBackQuality": 5,
+  "CraftBackENHLevel": 1,
+  "ConsumeType": 1,
+  "ConsumeNum": 1,
+  "InheritanceRatio": 245,
+  "AttrIDs": [
+   100,
+   4,
+   102
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   0,
+   0,
+   0
+  ],
+  "RewardId": 114,
+  "Points": 150
+ },
+ {
+  "ID": 50003,
+  "InitialQuality": 5,
+  "CraftFrontQuality": 5,
+  "CraftFrontENHLevel": 1,
+  "CraftBackQuality": 5,
+  "CraftBackENHLevel": 2,
+  "ConsumeType": 1,
+  "ConsumeNum": 1,
+  "InheritanceRatio": 260,
+  "AttrIDs": [
+   100,
+   4,
+   102
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   0,
+   0,
+   0
+  ],
+  "RewardId": 114,
+  "Points": 150
+ },
+ {
+  "ID": 50004,
+  "InitialQuality": 5,
+  "CraftFrontQuality": 5,
+  "CraftFrontENHLevel": 2,
+  "CraftBackQuality": 5,
+  "CraftBackENHLevel": 3,
+  "ConsumeType": 1,
+  "ConsumeNum": 1,
+  "InheritanceRatio": 280,
+  "AttrIDs": [
+   100,
+   4,
+   102
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   0,
+   0,
+   0
+  ],
+  "RewardId": 114,
+  "Points": 150
+ },
+ {
+  "ID": 50005,
+  "InitialQuality": 5,
+  "CraftFrontQuality": 5,
+  "CraftFrontENHLevel": 3,
+  "CraftBackQuality": 6,
+  "CraftBackENHLevel": 0,
+  "ConsumeType": 1,
+  "ConsumeNum": 2,
+  "InheritanceRatio": 340,
+  "AttrIDs": [
+   100,
+   4,
+   102
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   0,
+   0,
+   0
+  ],
+  "RewardId": 114,
+  "Points": 300
+ },
+ {
+  "ID": 50006,
+  "InitialQuality": 5,
+  "CraftFrontQuality": 6,
+  "CraftFrontENHLevel": 0,
+  "CraftBackQuality": 6,
+  "CraftBackENHLevel": 1,
+  "ConsumeType": 1,
+  "ConsumeNum": 2,
+  "InheritanceRatio": 355,
+  "AttrIDs": [
+   100,
+   4,
+   102
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   0,
+   0,
+   0
+  ],
+  "RewardId": 114,
+  "Points": 300
+ },
+ {
+  "ID": 50007,
+  "InitialQuality": 5,
+  "CraftFrontQuality": 6,
+  "CraftFrontENHLevel": 1,
+  "CraftBackQuality": 6,
+  "CraftBackENHLevel": 2,
+  "ConsumeType": 1,
+  "ConsumeNum": 2,
+  "InheritanceRatio": 365,
+  "AttrIDs": [
+   100,
+   4,
+   102
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   0,
+   0,
+   0
+  ],
+  "RewardId": 114,
+  "Points": 300
+ },
+ {
+  "ID": 50008,
+  "InitialQuality": 5,
+  "CraftFrontQuality": 6,
+  "CraftFrontENHLevel": 2,
+  "CraftBackQuality": 6,
+  "CraftBackENHLevel": 3,
+  "ConsumeType": 1,
+  "ConsumeNum": 2,
+  "InheritanceRatio": 380,
+  "AttrIDs": [
+   100,
+   4,
+   102
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   0,
+   0,
+   0
+  ],
+  "RewardId": 114,
+  "Points": 300
+ },
+ {
+  "ID": 50009,
+  "InitialQuality": 5,
+  "CraftFrontQuality": 6,
+  "CraftFrontENHLevel": 3,
+  "CraftBackQuality": 6,
+  "CraftBackENHLevel": 4,
+  "ConsumeType": 1,
+  "ConsumeNum": 3,
+  "InheritanceRatio": 405,
+  "AttrIDs": [
+   100,
+   4,
+   102
+  ],
+  "AttrTypes": [
+   1,
+   1,
+   1
+  ],
+  "AttrVals": [
+   0,
+   0,
+   0
+  ],
+  "RewardId": 114,
+  "Points": 450
+ }
+]

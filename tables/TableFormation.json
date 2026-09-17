@@ -1,0 +1,442 @@
+[
+ {
+  "FormationID": 1001,
+  "BPTotal": 4500,
+  "MinUnitLv": 1,
+  "MaxUnitLv": 1,
+  "MinEquipmentLv": 0,
+  "MaxEquipmentLv": 0
+ },
+ {
+  "FormationID": 1002,
+  "BPTotal": 11250,
+  "MinUnitLv": 1,
+  "MaxUnitLv": 2,
+  "MinEquipmentLv": 0,
+  "MaxEquipmentLv": 0
+ },
+ {
+  "FormationID": 1003,
+  "BPTotal": 20250,
+  "MinUnitLv": 1,
+  "MaxUnitLv": 2,
+  "MinEquipmentLv": 0,
+  "MaxEquipmentLv": 0
+ },
+ {
+  "FormationID": 1004,
+  "BPTotal": 27000,
+  "MinUnitLv": 1,
+  "MaxUnitLv": 3,
+  "MinEquipmentLv": 0,
+  "MaxEquipmentLv": 0
+ },
+ {
+  "FormationID": 1005,
+  "BPTotal": 40500,
+  "MinUnitLv": 1,
+  "MaxUnitLv": 3,
+  "MinEquipmentLv": 0,
+  "MaxEquipmentLv": 0
+ },
+ {
+  "FormationID": 1006,
+  "BPTotal": 54000,
+  "MinUnitLv": 1,
+  "MaxUnitLv": 4,
+  "MinEquipmentLv": 0,
+  "MaxEquipmentLv": 0
+ },
+ {
+  "FormationID": 1007,
+  "BPTotal": 76500,
+  "MinUnitLv": 2,
+  "MaxUnitLv": 4,
+  "MinEquipmentLv": 0,
+  "MaxEquipmentLv": 0
+ },
+ {
+  "FormationID": 1008,
+  "BPTotal": 99000,
+  "MinUnitLv": 2,
+  "MaxUnitLv": 4,
+  "MinEquipmentLv": 0,
+  "MaxEquipmentLv": 0
+ },
+ {
+  "FormationID": 1009,
+  "BPTotal": 144000,
+  "MinUnitLv": 3,
+  "MaxUnitLv": 4,
+  "MinEquipmentLv": 0,
+  "MaxEquipmentLv": 0
+ },
+ {
+  "FormationID": 1010,
+  "BPTotal": 171000,
+  "MinUnitLv": 3,
+  "MaxUnitLv": 4,
+  "MinEquipmentLv": 0,
+  "MaxEquipmentLv": 0
+ },
+ {
+  "FormationID": 1501,
+  "BPTotal": 4500,
+  "MinUnitLv": 1,
+  "MaxUnitLv": 1,
+  "MinEquipmentLv": 0,
+  "MaxEquipmentLv": 0
+ },
+ {
+  "FormationID": 1502,
+  "BPTotal": 11250,
+  "MinUnitLv": 1,
+  "MaxUnitLv": 2,
+  "MinEquipmentLv": 0,
+  "MaxEquipmentLv": 0
+ },
+ {
+  "FormationID": 1503,
+  "BPTotal": 22500,
+  "MinUnitLv": 1,
+  "MaxUnitLv": 3,
+  "MinEquipmentLv": 0,
+  "MaxEquipmentLv": 0
+ },
+ {
+  "FormationID": 1504,
+  "BPTotal": 24750,
+  "MinUnitLv": 1,
+  "MaxUnitLv": 3,
+  "MinEquipmentLv": 0,
+  "MaxEquipmentLv": 0
+ },
+ {
+  "FormationID": 1505,
+  "BPTotal": 27000,
+  "MinUnitLv": 1,
+  "MaxUnitLv": 3,
+  "MinEquipmentLv": 0,
+  "MaxEquipmentLv": 0
+ },
+ {
+  "FormationID": 1506,
+  "BPTotal": 40500,
+  "MinUnitLv": 2,
+  "MaxUnitLv": 4,
+  "MinEquipmentLv": 0,
+  "MaxEquipmentLv": 0
+ },
+ {
+  "FormationID": 1507,
+  "BPTotal": 49500,
+  "MinUnitLv": 2,
+  "MaxUnitLv": 4,
+  "MinEquipmentLv": 0,
+  "MaxEquipmentLv": 0
+ },
+ {
+  "FormationID": 1508,
+  "BPTotal": 63000,
+  "MinUnitLv": 2,
+  "MaxUnitLv": 4,
+  "MinEquipmentLv": 0,
+  "MaxEquipmentLv": 0
+ },
+ {
+  "FormationID": 1509,
+  "BPTotal": 76500,
+  "MinUnitLv": 2,
+  "MaxUnitLv": 4,
+  "MinEquipmentLv": 0,
+  "MaxEquipmentLv": 0
+ },
+ {
+  "FormationID": 1510,
+  "BPTotal": 90000,
+  "MinUnitLv": 2,
+  "MaxUnitLv": 4,
+  "MinEquipmentLv": 0,
+  "MaxEquipmentLv": 0
+ },
+ {
+  "FormationID": 1511,
+  "BPTotal": 99000,
+  "MinUnitLv": 2,
+  "MaxUnitLv": 4,
+  "MinEquipmentLv": 0,
+  "MaxEquipmentLv": 0
+ },
+ {
+  "FormationID": 1512,
+  "BPTotal": 117000,
+  "MinUnitLv": 3,
+  "MaxUnitLv": 4,
+  "MinEquipmentLv": 0,
+  "MaxEquipmentLv": 0
+ },
+ {
+  "FormationID": 1513,
+  "BPTotal": 135000,
+  "MinUnitLv": 3,
+  "MaxUnitLv": 4,
+  "MinEquipmentLv": 0,
+  "MaxEquipmentLv": 0
+ },
+ {
+  "FormationID": 1514,
+  "BPTotal": 153000,
+  "MinUnitLv": 3,
+  "MaxUnitLv": 4,
+  "MinEquipmentLv": 0,
+  "MaxEquipmentLv": 0
+ },
+ {
+  "FormationID": 1515,
+  "BPTotal": 171000,
+  "MinUnitLv": 3,
+  "MaxUnitLv": 4,
+  "MinEquipmentLv": 0,
+  "MaxEquipmentLv": 0
+ },
+ {
+  "FormationID": 3001,
+  "BPTotal": 4500,
+  "MinUnitLv": 1,
+  "MaxUnitLv": 1,
+  "MinEquipmentLv": 0,
+  "MaxEquipmentLv": 0
+ },
+ {
+  "FormationID": 3002,
+  "BPTotal": 6750,
+  "MinUnitLv": 1,
+  "MaxUnitLv": 1,
+  "MinEquipmentLv": 0,
+  "MaxEquipmentLv": 0
+ },
+ {
+  "FormationID": 3003,
+  "BPTotal": 9000,
+  "MinUnitLv": 1,
+  "MaxUnitLv": 2,
+  "MinEquipmentLv": 0,
+  "MaxEquipmentLv": 0
+ },
+ {
+  "FormationID": 3004,
+  "BPTotal": 9000,
+  "MinUnitLv": 1,
+  "MaxUnitLv": 2,
+  "MinEquipmentLv": 0,
+  "MaxEquipmentLv": 0
+ },
+ {
+  "FormationID": 3005,
+  "BPTotal": 11250,
+  "MinUnitLv": 1,
+  "MaxUnitLv": 3,
+  "MinEquipmentLv": 0,
+  "MaxEquipmentLv": 0
+ },
+ {
+  "FormationID": 3006,
+  "BPTotal": 13500,
+  "MinUnitLv": 1,
+  "MaxUnitLv": 3,
+  "MinEquipmentLv": 0,
+  "MaxEquipmentLv": 0
+ },
+ {
+  "FormationID": 3007,
+  "BPTotal": 13500,
+  "MinUnitLv": 1,
+  "MaxUnitLv": 3,
+  "MinEquipmentLv": 0,
+  "MaxEquipmentLv": 0
+ },
+ {
+  "FormationID": 3008,
+  "BPTotal": 15750,
+  "MinUnitLv": 1,
+  "MaxUnitLv": 3,
+  "MinEquipmentLv": 0,
+  "MaxEquipmentLv": 0
+ },
+ {
+  "FormationID": 3009,
+  "BPTotal": 18000,
+  "MinUnitLv": 1,
+  "MaxUnitLv": 3,
+  "MinEquipmentLv": 0,
+  "MaxEquipmentLv": 0
+ },
+ {
+  "FormationID": 3010,
+  "BPTotal": 20250,
+  "MinUnitLv": 2,
+  "MaxUnitLv": 3,
+  "MinEquipmentLv": 0,
+  "MaxEquipmentLv": 0
+ },
+ {
+  "FormationID": 3011,
+  "BPTotal": 22500,
+  "MinUnitLv": 2,
+  "MaxUnitLv": 3,
+  "MinEquipmentLv": 0,
+  "MaxEquipmentLv": 0
+ },
+ {
+  "FormationID": 3012,
+  "BPTotal": 24750,
+  "MinUnitLv": 2,
+  "MaxUnitLv": 3,
+  "MinEquipmentLv": 0,
+  "MaxEquipmentLv": 0
+ },
+ {
+  "FormationID": 3013,
+  "BPTotal": 31500,
+  "MinUnitLv": 1,
+  "MaxUnitLv": 3,
+  "MinEquipmentLv": 0,
+  "MaxEquipmentLv": 0
+ },
+ {
+  "FormationID": 3014,
+  "BPTotal": 40500,
+  "MinUnitLv": 1,
+  "MaxUnitLv": 3,
+  "MinEquipmentLv": 0,
+  "MaxEquipmentLv": 0
+ },
+ {
+  "FormationID": 3015,
+  "BPTotal": 54000,
+  "MinUnitLv": 1,
+  "MaxUnitLv": 3,
+  "MinEquipmentLv": 0,
+  "MaxEquipmentLv": 0
+ },
+ {
+  "FormationID": 3016,
+  "BPTotal": 49500,
+  "MinUnitLv": 2,
+  "MaxUnitLv": 3,
+  "MinEquipmentLv": 0,
+  "MaxEquipmentLv": 0
+ },
+ {
+  "FormationID": 3017,
+  "BPTotal": 54000,
+  "MinUnitLv": 2,
+  "MaxUnitLv": 3,
+  "MinEquipmentLv": 0,
+  "MaxEquipmentLv": 0
+ },
+ {
+  "FormationID": 3018,
+  "BPTotal": 63000,
+  "MinUnitLv": 2,
+  "MaxUnitLv": 3,
+  "MinEquipmentLv": 0,
+  "MaxEquipmentLv": 0
+ },
+ {
+  "FormationID": 3019,
+  "BPTotal": 72000,
+  "MinUnitLv": 2,
+  "MaxUnitLv": 3,
+  "MinEquipmentLv": 0,
+  "MaxEquipmentLv": 0
+ },
+ {
+  "FormationID": 3020,
+  "BPTotal": 99000,
+  "MinUnitLv": 2,
+  "MaxUnitLv": 4,
+  "MinEquipmentLv": 0,
+  "MaxEquipmentLv": 0
+ },
+ {
+  "FormationID": 3021,
+  "BPTotal": 85500,
+  "MinUnitLv": 2,
+  "MaxUnitLv": 4,
+  "MinEquipmentLv": 0,
+  "MaxEquipmentLv": 0
+ },
+ {
+  "FormationID": 3022,
+  "BPTotal": 94500,
+  "MinUnitLv": 2,
+  "MaxUnitLv": 4,
+  "MinEquipmentLv": 0,
+  "MaxEquipmentLv": 0
+ },
+ {
+  "FormationID": 3023,
+  "BPTotal": 99000,
+  "MinUnitLv": 2,
+  "MaxUnitLv": 4,
+  "MinEquipmentLv": 0,
+  "MaxEquipmentLv": 0
+ },
+ {
+  "FormationID": 3024,
+  "BPTotal": 108000,
+  "MinUnitLv": 2,
+  "MaxUnitLv": 4,
+  "MinEquipmentLv": 0,
+  "MaxEquipmentLv": 0
+ },
+ {
+  "FormationID": 3025,
+  "BPTotal": 144000,
+  "MinUnitLv": 3,
+  "MaxUnitLv": 4,
+  "MinEquipmentLv": 0,
+  "MaxEquipmentLv": 0
+ },
+ {
+  "FormationID": 3026,
+  "BPTotal": 126000,
+  "MinUnitLv": 3,
+  "MaxUnitLv": 4,
+  "MinEquipmentLv": 0,
+  "MaxEquipmentLv": 0
+ },
+ {
+  "FormationID": 3027,
+  "BPTotal": 126000,
+  "MinUnitLv": 3,
+  "MaxUnitLv": 4,
+  "MinEquipmentLv": 0,
+  "MaxEquipmentLv": 0
+ },
+ {
+  "FormationID": 3028,
+  "BPTotal": 135000,
+  "MinUnitLv": 3,
+  "MaxUnitLv": 4,
+  "MinEquipmentLv": 0,
+  "MaxEquipmentLv": 0
+ },
+ {
+  "FormationID": 3029,
+  "BPTotal": 153000,
+  "MinUnitLv": 3,
+  "MaxUnitLv": 4,
+  "MinEquipmentLv": 0,
+  "MaxEquipmentLv": 0
+ },
+ {
+  "FormationID": 3030,
+  "BPTotal": 171000,
+  "MinUnitLv": 3,
+  "MaxUnitLv": 4,
+  "MinEquipmentLv": 0,
+  "MaxEquipmentLv": 0
+ }
+]

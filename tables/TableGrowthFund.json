@@ -1,0 +1,1080 @@
+[
+ {
+  "id": 1001,
+  "Season": 1,
+  "Level": 1,
+  "NormalReward": [
+   20000
+  ],
+  "AdvancedReward": [
+   20001
+  ]
+ },
+ {
+  "id": 1002,
+  "Season": 1,
+  "Level": 2,
+  "NormalReward": [
+   20000
+  ],
+  "AdvancedReward": [
+   20001
+  ]
+ },
+ {
+  "id": 1003,
+  "Season": 1,
+  "Level": 3,
+  "NormalReward": [
+   20000
+  ],
+  "AdvancedReward": [
+   20001
+  ]
+ },
+ {
+  "id": 1004,
+  "Season": 1,
+  "Level": 4,
+  "NormalReward": [
+   20000
+  ],
+  "AdvancedReward": [
+   20001
+  ]
+ },
+ {
+  "id": 1005,
+  "Season": 1,
+  "Level": 5,
+  "NormalReward": [
+   20000
+  ],
+  "AdvancedReward": [
+   20001
+  ]
+ },
+ {
+  "id": 1006,
+  "Season": 1,
+  "Level": 6,
+  "NormalReward": [
+   20000
+  ],
+  "AdvancedReward": [
+   20001
+  ]
+ },
+ {
+  "id": 1007,
+  "Season": 1,
+  "Level": 7,
+  "NormalReward": [
+   20000
+  ],
+  "AdvancedReward": [
+   20001
+  ]
+ },
+ {
+  "id": 1008,
+  "Season": 1,
+  "Level": 8,
+  "NormalReward": [
+   20000
+  ],
+  "AdvancedReward": [
+   20001
+  ]
+ },
+ {
+  "id": 1009,
+  "Season": 1,
+  "Level": 9,
+  "NormalReward": [
+   20000
+  ],
+  "AdvancedReward": [
+   20001
+  ]
+ },
+ {
+  "id": 1010,
+  "Season": 1,
+  "Level": 10,
+  "NormalReward": [
+   20000
+  ],
+  "AdvancedReward": [
+   20001
+  ]
+ },
+ {
+  "id": 2001,
+  "Season": 2,
+  "Level": 9004,
+  "NormalReward": [
+   20000
+  ],
+  "AdvancedReward": [
+   20100
+  ]
+ },
+ {
+  "id": 2002,
+  "Season": 2,
+  "Level": 9006,
+  "NormalReward": [
+   20001
+  ],
+  "AdvancedReward": [
+   20101
+  ]
+ },
+ {
+  "id": 2003,
+  "Season": 2,
+  "Level": 9011,
+  "NormalReward": [
+   20002
+  ],
+  "AdvancedReward": [
+   20102
+  ]
+ },
+ {
+  "id": 2004,
+  "Season": 2,
+  "Level": 9013,
+  "NormalReward": [
+   20003
+  ],
+  "AdvancedReward": [
+   20103
+  ]
+ },
+ {
+  "id": 2005,
+  "Season": 2,
+  "Level": 9016,
+  "NormalReward": [
+   20004
+  ],
+  "AdvancedReward": [
+   20104
+  ]
+ },
+ {
+  "id": 2006,
+  "Season": 2,
+  "Level": 9021,
+  "NormalReward": [
+   20005
+  ],
+  "AdvancedReward": [
+   20105
+  ]
+ },
+ {
+  "id": 2007,
+  "Season": 2,
+  "Level": 9026,
+  "NormalReward": [
+   20006
+  ],
+  "AdvancedReward": [
+   20106
+  ]
+ },
+ {
+  "id": 2008,
+  "Season": 2,
+  "Level": 9031,
+  "NormalReward": [
+   20007
+  ],
+  "AdvancedReward": [
+   20107
+  ]
+ },
+ {
+  "id": 2009,
+  "Season": 2,
+  "Level": 9036,
+  "NormalReward": [
+   20008
+  ],
+  "AdvancedReward": [
+   20108
+  ]
+ },
+ {
+  "id": 2010,
+  "Season": 2,
+  "Level": 9041,
+  "NormalReward": [
+   20009
+  ],
+  "AdvancedReward": [
+   20109
+  ]
+ },
+ {
+  "id": 2011,
+  "Season": 2,
+  "Level": 9046,
+  "NormalReward": [
+   20010
+  ],
+  "AdvancedReward": [
+   20110
+  ]
+ },
+ {
+  "id": 2012,
+  "Season": 2,
+  "Level": 9051,
+  "NormalReward": [
+   20011
+  ],
+  "AdvancedReward": [
+   20111
+  ]
+ },
+ {
+  "id": 2013,
+  "Season": 2,
+  "Level": 9056,
+  "NormalReward": [
+   20012
+  ],
+  "AdvancedReward": [
+   20112
+  ]
+ },
+ {
+  "id": 2014,
+  "Season": 2,
+  "Level": 9061,
+  "NormalReward": [
+   20013
+  ],
+  "AdvancedReward": [
+   20113
+  ]
+ },
+ {
+  "id": 2015,
+  "Season": 2,
+  "Level": 9066,
+  "NormalReward": [
+   20014
+  ],
+  "AdvancedReward": [
+   20114
+  ]
+ },
+ {
+  "id": 2016,
+  "Season": 2,
+  "Level": 9071,
+  "NormalReward": [
+   20015
+  ],
+  "AdvancedReward": [
+   20115
+  ]
+ },
+ {
+  "id": 2017,
+  "Season": 2,
+  "Level": 9076,
+  "NormalReward": [
+   20016
+  ],
+  "AdvancedReward": [
+   20116
+  ]
+ },
+ {
+  "id": 2018,
+  "Season": 2,
+  "Level": 9081,
+  "NormalReward": [
+   20017
+  ],
+  "AdvancedReward": [
+   20117
+  ]
+ },
+ {
+  "id": 2019,
+  "Season": 2,
+  "Level": 9086,
+  "NormalReward": [
+   20018
+  ],
+  "AdvancedReward": [
+   20118
+  ]
+ },
+ {
+  "id": 2020,
+  "Season": 2,
+  "Level": 9091,
+  "NormalReward": [
+   20019
+  ],
+  "AdvancedReward": [
+   20119
+  ]
+ },
+ {
+  "id": 3001,
+  "Season": 3,
+  "Level": 1,
+  "NormalReward": [
+   30000
+  ],
+  "AdvancedReward": [
+   30001
+  ]
+ },
+ {
+  "id": 3002,
+  "Season": 3,
+  "Level": 3,
+  "NormalReward": [
+   30000
+  ],
+  "AdvancedReward": [
+   30001
+  ]
+ },
+ {
+  "id": 3003,
+  "Season": 3,
+  "Level": 6,
+  "NormalReward": [
+   30000
+  ],
+  "AdvancedReward": [
+   30001
+  ]
+ },
+ {
+  "id": 3004,
+  "Season": 3,
+  "Level": 12,
+  "NormalReward": [
+   30000
+  ],
+  "AdvancedReward": [
+   30001
+  ]
+ },
+ {
+  "id": 3005,
+  "Season": 3,
+  "Level": 18,
+  "NormalReward": [
+   30000
+  ],
+  "AdvancedReward": [
+   30001
+  ]
+ },
+ {
+  "id": 3006,
+  "Season": 3,
+  "Level": 24,
+  "NormalReward": [
+   30000
+  ],
+  "AdvancedReward": [
+   30001
+  ]
+ },
+ {
+  "id": 3007,
+  "Season": 3,
+  "Level": 30,
+  "NormalReward": [
+   30000
+  ],
+  "AdvancedReward": [
+   30001
+  ]
+ },
+ {
+  "id": 3008,
+  "Season": 3,
+  "Level": 40,
+  "NormalReward": [
+   30000
+  ],
+  "AdvancedReward": [
+   30001
+  ]
+ },
+ {
+  "id": 3009,
+  "Season": 3,
+  "Level": 50,
+  "NormalReward": [
+   30000
+  ],
+  "AdvancedReward": [
+   30001
+  ]
+ },
+ {
+  "id": 3010,
+  "Season": 3,
+  "Level": 60,
+  "NormalReward": [
+   30000
+  ],
+  "AdvancedReward": [
+   30001
+  ]
+ },
+ {
+  "id": 3011,
+  "Season": 3,
+  "Level": 80,
+  "NormalReward": [
+   30000
+  ],
+  "AdvancedReward": [
+   30001
+  ]
+ },
+ {
+  "id": 3012,
+  "Season": 3,
+  "Level": 100,
+  "NormalReward": [
+   30000
+  ],
+  "AdvancedReward": [
+   30001
+  ]
+ },
+ {
+  "id": 4001,
+  "Season": 4,
+  "Level": 10001,
+  "NormalReward": [
+   40000
+  ],
+  "AdvancedReward": [
+   40001
+  ]
+ },
+ {
+  "id": 4002,
+  "Season": 4,
+  "Level": 10002,
+  "NormalReward": [
+   40000
+  ],
+  "AdvancedReward": [
+   40002
+  ]
+ },
+ {
+  "id": 4003,
+  "Season": 4,
+  "Level": 10003,
+  "NormalReward": [
+   40000
+  ],
+  "AdvancedReward": [
+   40003
+  ]
+ },
+ {
+  "id": 4004,
+  "Season": 4,
+  "Level": 10004,
+  "NormalReward": [
+   40000
+  ],
+  "AdvancedReward": [
+   40002
+  ]
+ },
+ {
+  "id": 4005,
+  "Season": 4,
+  "Level": 10005,
+  "NormalReward": [
+   40000
+  ],
+  "AdvancedReward": [
+   40003
+  ]
+ },
+ {
+  "id": 4006,
+  "Season": 4,
+  "Level": 10007,
+  "NormalReward": [
+   40000
+  ],
+  "AdvancedReward": [
+   40004
+  ]
+ },
+ {
+  "id": 4007,
+  "Season": 4,
+  "Level": 10008,
+  "NormalReward": [
+   40000
+  ],
+  "AdvancedReward": [
+   40003
+  ]
+ },
+ {
+  "id": 4008,
+  "Season": 4,
+  "Level": 10009,
+  "NormalReward": [
+   40000
+  ],
+  "AdvancedReward": [
+   40004
+  ]
+ },
+ {
+  "id": 4009,
+  "Season": 4,
+  "Level": 10010,
+  "NormalReward": [
+   40000
+  ],
+  "AdvancedReward": [
+   40003
+  ]
+ },
+ {
+  "id": 4010,
+  "Season": 4,
+  "Level": 10011,
+  "NormalReward": [
+   40000
+  ],
+  "AdvancedReward": [
+   40004
+  ]
+ },
+ {
+  "id": 4011,
+  "Season": 4,
+  "Level": 10013,
+  "NormalReward": [
+   40000
+  ],
+  "AdvancedReward": [
+   40005
+  ]
+ },
+ {
+  "id": 4012,
+  "Season": 4,
+  "Level": 10014,
+  "NormalReward": [
+   40000
+  ],
+  "AdvancedReward": [
+   40003
+  ]
+ },
+ {
+  "id": 4013,
+  "Season": 4,
+  "Level": 10015,
+  "NormalReward": [
+   40000
+  ],
+  "AdvancedReward": [
+   40004
+  ]
+ },
+ {
+  "id": 4014,
+  "Season": 4,
+  "Level": 10016,
+  "NormalReward": [
+   40000
+  ],
+  "AdvancedReward": [
+   40003
+  ]
+ },
+ {
+  "id": 4015,
+  "Season": 4,
+  "Level": 10017,
+  "NormalReward": [
+   40000
+  ],
+  "AdvancedReward": [
+   40004
+  ]
+ },
+ {
+  "id": 4016,
+  "Season": 4,
+  "Level": 10019,
+  "NormalReward": [
+   40000
+  ],
+  "AdvancedReward": [
+   40003
+  ]
+ },
+ {
+  "id": 4017,
+  "Season": 4,
+  "Level": 10020,
+  "NormalReward": [
+   40000
+  ],
+  "AdvancedReward": [
+   40004
+  ]
+ },
+ {
+  "id": 4018,
+  "Season": 4,
+  "Level": 10021,
+  "NormalReward": [
+   40000
+  ],
+  "AdvancedReward": [
+   40003
+  ]
+ },
+ {
+  "id": 4019,
+  "Season": 4,
+  "Level": 10022,
+  "NormalReward": [
+   40000
+  ],
+  "AdvancedReward": [
+   40004
+  ]
+ },
+ {
+  "id": 4020,
+  "Season": 4,
+  "Level": 10023,
+  "NormalReward": [
+   40000
+  ],
+  "AdvancedReward": [
+   40003
+  ]
+ },
+ {
+  "id": 4021,
+  "Season": 4,
+  "Level": 10025,
+  "NormalReward": [
+   40000
+  ],
+  "AdvancedReward": [
+   40005
+  ]
+ },
+ {
+  "id": 4022,
+  "Season": 4,
+  "Level": 10026,
+  "NormalReward": [
+   40000
+  ],
+  "AdvancedReward": [
+   40003
+  ]
+ },
+ {
+  "id": 4023,
+  "Season": 4,
+  "Level": 10027,
+  "NormalReward": [
+   40000
+  ],
+  "AdvancedReward": [
+   40004
+  ]
+ },
+ {
+  "id": 4024,
+  "Season": 4,
+  "Level": 10028,
+  "NormalReward": [
+   40000
+  ],
+  "AdvancedReward": [
+   40003
+  ]
+ },
+ {
+  "id": 4025,
+  "Season": 4,
+  "Level": 10029,
+  "NormalReward": [
+   40000
+  ],
+  "AdvancedReward": [
+   40004
+  ]
+ },
+ {
+  "id": 4026,
+  "Season": 4,
+  "Level": 10031,
+  "NormalReward": [
+   40000
+  ],
+  "AdvancedReward": [
+   40003
+  ]
+ },
+ {
+  "id": 4027,
+  "Season": 4,
+  "Level": 10032,
+  "NormalReward": [
+   40000
+  ],
+  "AdvancedReward": [
+   40004
+  ]
+ },
+ {
+  "id": 4028,
+  "Season": 4,
+  "Level": 10033,
+  "NormalReward": [
+   40000
+  ],
+  "AdvancedReward": [
+   40003
+  ]
+ },
+ {
+  "id": 4029,
+  "Season": 4,
+  "Level": 10034,
+  "NormalReward": [
+   40000
+  ],
+  "AdvancedReward": [
+   40004
+  ]
+ },
+ {
+  "id": 4030,
+  "Season": 4,
+  "Level": 10035,
+  "NormalReward": [
+   40000
+  ],
+  "AdvancedReward": [
+   40003
+  ]
+ },
+ {
+  "id": 4031,
+  "Season": 4,
+  "Level": 10037,
+  "NormalReward": [
+   40000
+  ],
+  "AdvancedReward": [
+   40005
+  ]
+ },
+ {
+  "id": 4032,
+  "Season": 4,
+  "Level": 10038,
+  "NormalReward": [
+   40000
+  ],
+  "AdvancedReward": [
+   40003
+  ]
+ },
+ {
+  "id": 4033,
+  "Season": 4,
+  "Level": 10039,
+  "NormalReward": [
+   40000
+  ],
+  "AdvancedReward": [
+   40004
+  ]
+ },
+ {
+  "id": 4034,
+  "Season": 4,
+  "Level": 10040,
+  "NormalReward": [
+   40000
+  ],
+  "AdvancedReward": [
+   40003
+  ]
+ },
+ {
+  "id": 4035,
+  "Season": 4,
+  "Level": 10041,
+  "NormalReward": [
+   40000
+  ],
+  "AdvancedReward": [
+   40004
+  ]
+ },
+ {
+  "id": 4036,
+  "Season": 4,
+  "Level": 10043,
+  "NormalReward": [
+   40000
+  ],
+  "AdvancedReward": [
+   40003
+  ]
+ },
+ {
+  "id": 4037,
+  "Season": 4,
+  "Level": 10044,
+  "NormalReward": [
+   40000
+  ],
+  "AdvancedReward": [
+   40004
+  ]
+ },
+ {
+  "id": 4038,
+  "Season": 4,
+  "Level": 10045,
+  "NormalReward": [
+   40000
+  ],
+  "AdvancedReward": [
+   40003
+  ]
+ },
+ {
+  "id": 4039,
+  "Season": 4,
+  "Level": 10046,
+  "NormalReward": [
+   40000
+  ],
+  "AdvancedReward": [
+   40004
+  ]
+ },
+ {
+  "id": 4040,
+  "Season": 4,
+  "Level": 10047,
+  "NormalReward": [
+   40000
+  ],
+  "AdvancedReward": [
+   40003
+  ]
+ },
+ {
+  "id": 4041,
+  "Season": 4,
+  "Level": 10049,
+  "NormalReward": [
+   40000
+  ],
+  "AdvancedReward": [
+   40005
+  ]
+ },
+ {
+  "id": 5001,
+  "Season": 5,
+  "Level": 1,
+  "NormalReward": [
+   40101
+  ],
+  "AdvancedReward": [
+   40116
+  ]
+ },
+ {
+  "id": 5002,
+  "Season": 5,
+  "Level": 3,
+  "NormalReward": [
+   40102
+  ],
+  "AdvancedReward": [
+   40117
+  ]
+ },
+ {
+  "id": 5003,
+  "Season": 5,
+  "Level": 6,
+  "NormalReward": [
+   40103
+  ],
+  "AdvancedReward": [
+   40118
+  ]
+ },
+ {
+  "id": 5004,
+  "Season": 5,
+  "Level": 9,
+  "NormalReward": [
+   40104
+  ],
+  "AdvancedReward": [
+   40119
+  ]
+ },
+ {
+  "id": 5005,
+  "Season": 5,
+  "Level": 12,
+  "NormalReward": [
+   40105
+  ],
+  "AdvancedReward": [
+   40120
+  ]
+ },
+ {
+  "id": 5006,
+  "Season": 5,
+  "Level": 15,
+  "NormalReward": [
+   40106
+  ],
+  "AdvancedReward": [
+   40121
+  ]
+ },
+ {
+  "id": 5007,
+  "Season": 5,
+  "Level": 18,
+  "NormalReward": [
+   40107
+  ],
+  "AdvancedReward": [
+   40122
+  ]
+ },
+ {
+  "id": 5008,
+  "Season": 5,
+  "Level": 24,
+  "NormalReward": [
+   40108
+  ],
+  "AdvancedReward": [
+   40123
+  ]
+ },
+ {
+  "id": 5009,
+  "Season": 5,
+  "Level": 30,
+  "NormalReward": [
+   40109
+  ],
+  "AdvancedReward": [
+   40124
+  ]
+ },
+ {
+  "id": 5010,
+  "Season": 5,
+  "Level": 36,
+  "NormalReward": [
+   40110
+  ],
+  "AdvancedReward": [
+   40125
+  ]
+ },
+ {
+  "id": 5011,
+  "Season": 5,
+  "Level": 42,
+  "NormalReward": [
+   40111
+  ],
+  "AdvancedReward": [
+   40126
+  ]
+ },
+ {
+  "id": 5012,
+  "Season": 5,
+  "Level": 48,
+  "NormalReward": [
+   40112
+  ],
+  "AdvancedReward": [
+   40127
+  ]
+ },
+ {
+  "id": 5013,
+  "Season": 5,
+  "Level": 54,
+  "NormalReward": [
+   40113
+  ],
+  "AdvancedReward": [
+   40128
+  ]
+ },
+ {
+  "id": 5014,
+  "Season": 5,
+  "Level": 66,
+  "NormalReward": [
+   40114
+  ],
+  "AdvancedReward": [
+   40129
+  ]
+ },
+ {
+  "id": 5015,
+  "Season": 5,
+  "Level": 78,
+  "NormalReward": [
+   40115
+  ],
+  "AdvancedReward": [
+   40130
+  ]
+ }
+]

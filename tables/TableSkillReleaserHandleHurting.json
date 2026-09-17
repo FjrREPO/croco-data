@@ -1,0 +1,1317 @@
+[
+ {
+  "SkillID": 110,
+  "ReleaseCondition": [],
+  "TargetPicker": 0,
+  "TargetCount": 0,
+  "HandleType": 0,
+  "AbsorbAttrID": 0,
+  "AbsorbRatio": {
+   "Key": "",
+   "Num": 0
+  },
+  "AttachEffectIDs": [
+   110,
+   111
+  ]
+ },
+ {
+  "SkillID": 570142,
+  "ReleaseCondition": [
+   3000,
+   570142
+  ],
+  "TargetPicker": 0,
+  "TargetCount": 0,
+  "HandleType": 1,
+  "AbsorbAttrID": 0,
+  "AbsorbRatio": {
+   "Key": "",
+   "Num": 50
+  },
+  "AttachEffectIDs": []
+ },
+ {
+  "SkillID": 120702410,
+  "ReleaseCondition": [
+   3000,
+   120702400
+  ],
+  "TargetPicker": 0,
+  "TargetCount": 0,
+  "HandleType": 1,
+  "AbsorbAttrID": 0,
+  "AbsorbRatio": {
+   "Key": "",
+   "Num": 40
+  },
+  "AttachEffectIDs": []
+ },
+ {
+  "SkillID": 120702910,
+  "ReleaseCondition": [
+   3000,
+   120702800
+  ],
+  "TargetPicker": 0,
+  "TargetCount": 0,
+  "HandleType": 1,
+  "AbsorbAttrID": 0,
+  "AbsorbRatio": {
+   "Key": "",
+   "Num": 40
+  },
+  "AttachEffectIDs": []
+ },
+ {
+  "SkillID": 120702912,
+  "ReleaseCondition": [
+   3000,
+   120702901
+  ],
+  "TargetPicker": 0,
+  "TargetCount": 0,
+  "HandleType": 1,
+  "AbsorbAttrID": 0,
+  "AbsorbRatio": {
+   "Key": "",
+   "Num": 40
+  },
+  "AttachEffectIDs": []
+ },
+ {
+  "SkillID": 120702420,
+  "ReleaseCondition": [
+   3000,
+   120702400
+  ],
+  "TargetPicker": 0,
+  "TargetCount": 0,
+  "HandleType": 1,
+  "AbsorbAttrID": 0,
+  "AbsorbRatio": {
+   "Key": "",
+   "Num": 30
+  },
+  "AttachEffectIDs": []
+ },
+ {
+  "SkillID": 120702430,
+  "ReleaseCondition": [
+   3000,
+   120702400
+  ],
+  "TargetPicker": 0,
+  "TargetCount": 0,
+  "HandleType": 1,
+  "AbsorbAttrID": 0,
+  "AbsorbRatio": {
+   "Key": "",
+   "Num": 40
+  },
+  "AttachEffectIDs": []
+ },
+ {
+  "SkillID": 130101410,
+  "ReleaseCondition": [
+   3000,
+   130101200
+  ],
+  "TargetPicker": 0,
+  "TargetCount": 0,
+  "HandleType": 1,
+  "AbsorbAttrID": 0,
+  "AbsorbRatio": {
+   "Key": "",
+   "Num": 100
+  },
+  "AttachEffectIDs": []
+ },
+ {
+  "SkillID": 130101420,
+  "ReleaseCondition": [
+   3000,
+   130101200
+  ],
+  "TargetPicker": 0,
+  "TargetCount": 0,
+  "HandleType": 1,
+  "AbsorbAttrID": 0,
+  "AbsorbRatio": {
+   "Key": "",
+   "Num": 100
+  },
+  "AttachEffectIDs": []
+ },
+ {
+  "SkillID": 130101430,
+  "ReleaseCondition": [
+   3000,
+   130101200
+  ],
+  "TargetPicker": 0,
+  "TargetCount": 0,
+  "HandleType": 1,
+  "AbsorbAttrID": 0,
+  "AbsorbRatio": {
+   "Key": "",
+   "Num": 100
+  },
+  "AttachEffectIDs": []
+ },
+ {
+  "SkillID": 130101510,
+  "ReleaseCondition": [
+   3000,
+   130101300
+  ],
+  "TargetPicker": 0,
+  "TargetCount": 0,
+  "HandleType": 1,
+  "AbsorbAttrID": 0,
+  "AbsorbRatio": {
+   "Key": "",
+   "Num": 100
+  },
+  "AttachEffectIDs": []
+ },
+ {
+  "SkillID": 130101520,
+  "ReleaseCondition": [
+   3000,
+   130101300
+  ],
+  "TargetPicker": 0,
+  "TargetCount": 0,
+  "HandleType": 1,
+  "AbsorbAttrID": 0,
+  "AbsorbRatio": {
+   "Key": "",
+   "Num": 100
+  },
+  "AttachEffectIDs": []
+ },
+ {
+  "SkillID": 130101530,
+  "ReleaseCondition": [
+   3000,
+   130101300
+  ],
+  "TargetPicker": 0,
+  "TargetCount": 0,
+  "HandleType": 1,
+  "AbsorbAttrID": 0,
+  "AbsorbRatio": {
+   "Key": "",
+   "Num": 100
+  },
+  "AttachEffectIDs": []
+ },
+ {
+  "SkillID": 130601210,
+  "ReleaseCondition": [
+   3000,
+   130601200
+  ],
+  "TargetPicker": 0,
+  "TargetCount": 0,
+  "HandleType": 3,
+  "AbsorbAttrID": 0,
+  "AbsorbRatio": {
+   "Key": "",
+   "Num": 40
+  },
+  "AttachEffectIDs": []
+ },
+ {
+  "SkillID": 130601220,
+  "ReleaseCondition": [
+   3000,
+   130601200
+  ],
+  "TargetPicker": 0,
+  "TargetCount": 0,
+  "HandleType": 3,
+  "AbsorbAttrID": 0,
+  "AbsorbRatio": {
+   "Key": "",
+   "Num": 60
+  },
+  "AttachEffectIDs": []
+ },
+ {
+  "SkillID": 130601230,
+  "ReleaseCondition": [
+   3000,
+   130601200
+  ],
+  "TargetPicker": 0,
+  "TargetCount": 0,
+  "HandleType": 3,
+  "AbsorbAttrID": 0,
+  "AbsorbRatio": {
+   "Key": "",
+   "Num": 80
+  },
+  "AttachEffectIDs": []
+ },
+ {
+  "SkillID": 130603210,
+  "ReleaseCondition": [
+   3000,
+   130603200
+  ],
+  "TargetPicker": 0,
+  "TargetCount": 0,
+  "HandleType": 1,
+  "AbsorbAttrID": 0,
+  "AbsorbRatio": {
+   "Key": "",
+   "Num": 20
+  },
+  "AttachEffectIDs": []
+ },
+ {
+  "SkillID": 130603220,
+  "ReleaseCondition": [
+   3000,
+   130603200
+  ],
+  "TargetPicker": 0,
+  "TargetCount": 0,
+  "HandleType": 1,
+  "AbsorbAttrID": 0,
+  "AbsorbRatio": {
+   "Key": "",
+   "Num": 30
+  },
+  "AttachEffectIDs": []
+ },
+ {
+  "SkillID": 130603230,
+  "ReleaseCondition": [
+   3000,
+   130603200
+  ],
+  "TargetPicker": 0,
+  "TargetCount": 0,
+  "HandleType": 1,
+  "AbsorbAttrID": 0,
+  "AbsorbRatio": {
+   "Key": "",
+   "Num": 40
+  },
+  "AttachEffectIDs": []
+ },
+ {
+  "SkillID": 140401212,
+  "ReleaseCondition": [],
+  "TargetPicker": 0,
+  "TargetCount": 0,
+  "HandleType": 0,
+  "AbsorbAttrID": 0,
+  "AbsorbRatio": {
+   "Key": "",
+   "Num": 0
+  },
+  "AttachEffectIDs": [
+   140401212
+  ]
+ },
+ {
+  "SkillID": 100020121,
+  "ReleaseCondition": [
+   3000,
+   100020100
+  ],
+  "TargetPicker": 0,
+  "TargetCount": 0,
+  "HandleType": 1,
+  "AbsorbAttrID": 0,
+  "AbsorbRatio": {
+   "Key": "",
+   "Num": 10
+  },
+  "AttachEffectIDs": []
+ },
+ {
+  "SkillID": 810203311,
+  "ReleaseCondition": [
+   3000,
+   810203310
+  ],
+  "TargetPicker": 0,
+  "TargetCount": 0,
+  "HandleType": 1,
+  "AbsorbAttrID": 0,
+  "AbsorbRatio": {
+   "Key": "",
+   "Num": 100
+  },
+  "AttachEffectIDs": []
+ },
+ {
+  "SkillID": 150001,
+  "ReleaseCondition": [],
+  "TargetPicker": 0,
+  "TargetCount": 0,
+  "HandleType": 0,
+  "AbsorbAttrID": 0,
+  "AbsorbRatio": {
+   "Key": "",
+   "Num": 0
+  },
+  "AttachEffectIDs": [
+   150001,
+   150002
+  ]
+ },
+ {
+  "SkillID": 130101311,
+  "ReleaseCondition": [
+   3000,
+   130101301
+  ],
+  "TargetPicker": 0,
+  "TargetCount": 0,
+  "HandleType": 1,
+  "AbsorbAttrID": 0,
+  "AbsorbRatio": {
+   "Key": "",
+   "Num": 100
+  },
+  "AttachEffectIDs": []
+ },
+ {
+  "SkillID": 120603111,
+  "ReleaseCondition": [
+   3000,
+   1206031,
+   120603111
+  ],
+  "TargetPicker": 0,
+  "TargetCount": 0,
+  "HandleType": 1,
+  "AbsorbAttrID": 0,
+  "AbsorbRatio": {
+   "Key": "",
+   "Num": 100
+  },
+  "AttachEffectIDs": []
+ },
+ {
+  "SkillID": 120603121,
+  "ReleaseCondition": [
+   3000,
+   1206031,
+   120603111
+  ],
+  "TargetPicker": 0,
+  "TargetCount": 0,
+  "HandleType": 1,
+  "AbsorbAttrID": 0,
+  "AbsorbRatio": {
+   "Key": "",
+   "Num": 100
+  },
+  "AttachEffectIDs": []
+ },
+ {
+  "SkillID": 120603131,
+  "ReleaseCondition": [
+   3000,
+   1206031,
+   120603111
+  ],
+  "TargetPicker": 0,
+  "TargetCount": 0,
+  "HandleType": 1,
+  "AbsorbAttrID": 0,
+  "AbsorbRatio": {
+   "Key": "",
+   "Num": 100
+  },
+  "AttachEffectIDs": []
+ },
+ {
+  "SkillID": 210501216,
+  "ReleaseCondition": [],
+  "TargetPicker": 0,
+  "TargetCount": 0,
+  "HandleType": 0,
+  "AbsorbAttrID": 0,
+  "AbsorbRatio": {
+   "Key": "",
+   "Num": 0
+  },
+  "AttachEffectIDs": [
+   210501252
+  ]
+ },
+ {
+  "SkillID": 210301210,
+  "ReleaseCondition": [
+   3000,
+   210301100
+  ],
+  "TargetPicker": 1013,
+  "TargetCount": 0,
+  "HandleType": 1,
+  "AbsorbAttrID": 0,
+  "AbsorbRatio": {
+   "Key": "",
+   "Num": 3
+  },
+  "AttachEffectIDs": []
+ },
+ {
+  "SkillID": 210301220,
+  "ReleaseCondition": [
+   3000,
+   210301100
+  ],
+  "TargetPicker": 1013,
+  "TargetCount": 0,
+  "HandleType": 1,
+  "AbsorbAttrID": 0,
+  "AbsorbRatio": {
+   "Key": "",
+   "Num": 6
+  },
+  "AttachEffectIDs": []
+ },
+ {
+  "SkillID": 210301230,
+  "ReleaseCondition": [
+   3000,
+   210301100
+  ],
+  "TargetPicker": 1013,
+  "TargetCount": 0,
+  "HandleType": 1,
+  "AbsorbAttrID": 0,
+  "AbsorbRatio": {
+   "Key": "",
+   "Num": 6
+  },
+  "AttachEffectIDs": []
+ },
+ {
+  "SkillID": 210301240,
+  "ReleaseCondition": [
+   3000,
+   210301100
+  ],
+  "TargetPicker": 1013,
+  "TargetCount": 0,
+  "HandleType": 1,
+  "AbsorbAttrID": 0,
+  "AbsorbRatio": {
+   "Key": "",
+   "Num": 6
+  },
+  "AttachEffectIDs": []
+ },
+ {
+  "SkillID": 210301250,
+  "ReleaseCondition": [
+   3000,
+   210301100
+  ],
+  "TargetPicker": 1013,
+  "TargetCount": 0,
+  "HandleType": 1,
+  "AbsorbAttrID": 0,
+  "AbsorbRatio": {
+   "Key": "",
+   "Num": 6
+  },
+  "AttachEffectIDs": []
+ },
+ {
+  "SkillID": 210301310,
+  "ReleaseCondition": [
+   3000,
+   210101100
+  ],
+  "TargetPicker": 1013,
+  "TargetCount": 0,
+  "HandleType": 1,
+  "AbsorbAttrID": 0,
+  "AbsorbRatio": {
+   "Key": "",
+   "Num": 3
+  },
+  "AttachEffectIDs": []
+ },
+ {
+  "SkillID": 210301320,
+  "ReleaseCondition": [
+   3000,
+   210101100
+  ],
+  "TargetPicker": 1013,
+  "TargetCount": 0,
+  "HandleType": 1,
+  "AbsorbAttrID": 0,
+  "AbsorbRatio": {
+   "Key": "",
+   "Num": 6
+  },
+  "AttachEffectIDs": []
+ },
+ {
+  "SkillID": 210301330,
+  "ReleaseCondition": [
+   3000,
+   210101100
+  ],
+  "TargetPicker": 1013,
+  "TargetCount": 0,
+  "HandleType": 1,
+  "AbsorbAttrID": 0,
+  "AbsorbRatio": {
+   "Key": "",
+   "Num": 6
+  },
+  "AttachEffectIDs": []
+ },
+ {
+  "SkillID": 210301340,
+  "ReleaseCondition": [
+   3000,
+   210101100
+  ],
+  "TargetPicker": 1013,
+  "TargetCount": 0,
+  "HandleType": 1,
+  "AbsorbAttrID": 0,
+  "AbsorbRatio": {
+   "Key": "",
+   "Num": 6
+  },
+  "AttachEffectIDs": []
+ },
+ {
+  "SkillID": 210301350,
+  "ReleaseCondition": [
+   3000,
+   210101100
+  ],
+  "TargetPicker": 1013,
+  "TargetCount": 0,
+  "HandleType": 1,
+  "AbsorbAttrID": 0,
+  "AbsorbRatio": {
+   "Key": "",
+   "Num": 6
+  },
+  "AttachEffectIDs": []
+ },
+ {
+  "SkillID": 210301410,
+  "ReleaseCondition": [
+   3000,
+   210401100
+  ],
+  "TargetPicker": 1013,
+  "TargetCount": 0,
+  "HandleType": 1,
+  "AbsorbAttrID": 0,
+  "AbsorbRatio": {
+   "Key": "",
+   "Num": 3
+  },
+  "AttachEffectIDs": []
+ },
+ {
+  "SkillID": 210301420,
+  "ReleaseCondition": [
+   3000,
+   210401100
+  ],
+  "TargetPicker": 1013,
+  "TargetCount": 0,
+  "HandleType": 1,
+  "AbsorbAttrID": 0,
+  "AbsorbRatio": {
+   "Key": "",
+   "Num": 6
+  },
+  "AttachEffectIDs": []
+ },
+ {
+  "SkillID": 210301430,
+  "ReleaseCondition": [
+   3000,
+   210401100
+  ],
+  "TargetPicker": 1013,
+  "TargetCount": 0,
+  "HandleType": 1,
+  "AbsorbAttrID": 0,
+  "AbsorbRatio": {
+   "Key": "",
+   "Num": 6
+  },
+  "AttachEffectIDs": []
+ },
+ {
+  "SkillID": 210301440,
+  "ReleaseCondition": [
+   3000,
+   210401100
+  ],
+  "TargetPicker": 1013,
+  "TargetCount": 0,
+  "HandleType": 1,
+  "AbsorbAttrID": 0,
+  "AbsorbRatio": {
+   "Key": "",
+   "Num": 6
+  },
+  "AttachEffectIDs": []
+ },
+ {
+  "SkillID": 210301450,
+  "ReleaseCondition": [
+   3000,
+   210401100
+  ],
+  "TargetPicker": 1013,
+  "TargetCount": 0,
+  "HandleType": 1,
+  "AbsorbAttrID": 0,
+  "AbsorbRatio": {
+   "Key": "",
+   "Num": 6
+  },
+  "AttachEffectIDs": []
+ },
+ {
+  "SkillID": 210301510,
+  "ReleaseCondition": [
+   3000,
+   210501101
+  ],
+  "TargetPicker": 1013,
+  "TargetCount": 0,
+  "HandleType": 1,
+  "AbsorbAttrID": 0,
+  "AbsorbRatio": {
+   "Key": "",
+   "Num": 3
+  },
+  "AttachEffectIDs": []
+ },
+ {
+  "SkillID": 210301520,
+  "ReleaseCondition": [
+   3000,
+   210501101
+  ],
+  "TargetPicker": 1013,
+  "TargetCount": 0,
+  "HandleType": 1,
+  "AbsorbAttrID": 0,
+  "AbsorbRatio": {
+   "Key": "",
+   "Num": 6
+  },
+  "AttachEffectIDs": []
+ },
+ {
+  "SkillID": 210301530,
+  "ReleaseCondition": [
+   3000,
+   210501101
+  ],
+  "TargetPicker": 1013,
+  "TargetCount": 0,
+  "HandleType": 1,
+  "AbsorbAttrID": 0,
+  "AbsorbRatio": {
+   "Key": "",
+   "Num": 6
+  },
+  "AttachEffectIDs": []
+ },
+ {
+  "SkillID": 210301540,
+  "ReleaseCondition": [
+   3000,
+   210501101
+  ],
+  "TargetPicker": 1013,
+  "TargetCount": 0,
+  "HandleType": 1,
+  "AbsorbAttrID": 0,
+  "AbsorbRatio": {
+   "Key": "",
+   "Num": 6
+  },
+  "AttachEffectIDs": []
+ },
+ {
+  "SkillID": 210301550,
+  "ReleaseCondition": [
+   3000,
+   210501101
+  ],
+  "TargetPicker": 1013,
+  "TargetCount": 0,
+  "HandleType": 1,
+  "AbsorbAttrID": 0,
+  "AbsorbRatio": {
+   "Key": "",
+   "Num": 6
+  },
+  "AttachEffectIDs": []
+ },
+ {
+  "SkillID": 210301610,
+  "ReleaseCondition": [
+   3000,
+   210401101
+  ],
+  "TargetPicker": 1013,
+  "TargetCount": 0,
+  "HandleType": 1,
+  "AbsorbAttrID": 0,
+  "AbsorbRatio": {
+   "Key": "",
+   "Num": 3
+  },
+  "AttachEffectIDs": []
+ },
+ {
+  "SkillID": 210301620,
+  "ReleaseCondition": [
+   3000,
+   210401101
+  ],
+  "TargetPicker": 1013,
+  "TargetCount": 0,
+  "HandleType": 1,
+  "AbsorbAttrID": 0,
+  "AbsorbRatio": {
+   "Key": "",
+   "Num": 6
+  },
+  "AttachEffectIDs": []
+ },
+ {
+  "SkillID": 210301630,
+  "ReleaseCondition": [
+   3000,
+   210401101
+  ],
+  "TargetPicker": 1013,
+  "TargetCount": 0,
+  "HandleType": 1,
+  "AbsorbAttrID": 0,
+  "AbsorbRatio": {
+   "Key": "",
+   "Num": 6
+  },
+  "AttachEffectIDs": []
+ },
+ {
+  "SkillID": 210301640,
+  "ReleaseCondition": [
+   3000,
+   210401101
+  ],
+  "TargetPicker": 1013,
+  "TargetCount": 0,
+  "HandleType": 1,
+  "AbsorbAttrID": 0,
+  "AbsorbRatio": {
+   "Key": "",
+   "Num": 6
+  },
+  "AttachEffectIDs": []
+ },
+ {
+  "SkillID": 210301650,
+  "ReleaseCondition": [
+   3000,
+   210401101
+  ],
+  "TargetPicker": 1013,
+  "TargetCount": 0,
+  "HandleType": 1,
+  "AbsorbAttrID": 0,
+  "AbsorbRatio": {
+   "Key": "",
+   "Num": 6
+  },
+  "AttachEffectIDs": []
+ },
+ {
+  "SkillID": 210301710,
+  "ReleaseCondition": [
+   3000,
+   210501102
+  ],
+  "TargetPicker": 1013,
+  "TargetCount": 0,
+  "HandleType": 1,
+  "AbsorbAttrID": 0,
+  "AbsorbRatio": {
+   "Key": "",
+   "Num": 3
+  },
+  "AttachEffectIDs": []
+ },
+ {
+  "SkillID": 210301720,
+  "ReleaseCondition": [
+   3000,
+   210501102
+  ],
+  "TargetPicker": 1013,
+  "TargetCount": 0,
+  "HandleType": 1,
+  "AbsorbAttrID": 0,
+  "AbsorbRatio": {
+   "Key": "",
+   "Num": 6
+  },
+  "AttachEffectIDs": []
+ },
+ {
+  "SkillID": 210301730,
+  "ReleaseCondition": [
+   3000,
+   210501102
+  ],
+  "TargetPicker": 1013,
+  "TargetCount": 0,
+  "HandleType": 1,
+  "AbsorbAttrID": 0,
+  "AbsorbRatio": {
+   "Key": "",
+   "Num": 6
+  },
+  "AttachEffectIDs": []
+ },
+ {
+  "SkillID": 210301740,
+  "ReleaseCondition": [
+   3000,
+   210501102
+  ],
+  "TargetPicker": 1013,
+  "TargetCount": 0,
+  "HandleType": 1,
+  "AbsorbAttrID": 0,
+  "AbsorbRatio": {
+   "Key": "",
+   "Num": 6
+  },
+  "AttachEffectIDs": []
+ },
+ {
+  "SkillID": 210301750,
+  "ReleaseCondition": [
+   3000,
+   210501102
+  ],
+  "TargetPicker": 1013,
+  "TargetCount": 0,
+  "HandleType": 1,
+  "AbsorbAttrID": 0,
+  "AbsorbRatio": {
+   "Key": "",
+   "Num": 6
+  },
+  "AttachEffectIDs": []
+ },
+ {
+  "SkillID": 120702210,
+  "ReleaseCondition": [
+   3000,
+   120702211,
+   120702210
+  ],
+  "TargetPicker": 0,
+  "TargetCount": 0,
+  "HandleType": 1,
+  "AbsorbAttrID": 0,
+  "AbsorbRatio": {
+   "Key": "@120702210",
+   "Num": 0
+  },
+  "AttachEffectIDs": []
+ },
+ {
+  "SkillID": 130601011,
+  "ReleaseCondition": [
+   3000,
+   130601911
+  ],
+  "TargetPicker": 0,
+  "TargetCount": 0,
+  "HandleType": 1,
+  "AbsorbAttrID": 0,
+  "AbsorbRatio": {
+   "Key": "",
+   "Num": 100
+  },
+  "AttachEffectIDs": []
+ },
+ {
+  "SkillID": 120301410,
+  "ReleaseCondition": [
+   3000,
+   120301411,
+   120301410
+  ],
+  "TargetPicker": 0,
+  "TargetCount": 0,
+  "HandleType": 1,
+  "AbsorbAttrID": 0,
+  "AbsorbRatio": {
+   "Key": "",
+   "Num": 500
+  },
+  "AttachEffectIDs": []
+ },
+ {
+  "SkillID": 1004455,
+  "ReleaseCondition": [
+   3000,
+   1004455
+  ],
+  "TargetPicker": 0,
+  "TargetCount": 0,
+  "HandleType": 1,
+  "AbsorbAttrID": 0,
+  "AbsorbRatio": {
+   "Key": "",
+   "Num": 18
+  },
+  "AttachEffectIDs": []
+ },
+ {
+  "SkillID": 1005455,
+  "ReleaseCondition": [
+   3000,
+   1004455
+  ],
+  "TargetPicker": 0,
+  "TargetCount": 0,
+  "HandleType": 1,
+  "AbsorbAttrID": 0,
+  "AbsorbRatio": {
+   "Key": "",
+   "Num": 24
+  },
+  "AttachEffectIDs": []
+ },
+ {
+  "SkillID": 1006455,
+  "ReleaseCondition": [
+   3000,
+   1004455
+  ],
+  "TargetPicker": 0,
+  "TargetCount": 0,
+  "HandleType": 1,
+  "AbsorbAttrID": 0,
+  "AbsorbRatio": {
+   "Key": "",
+   "Num": 30
+  },
+  "AttachEffectIDs": []
+ },
+ {
+  "SkillID": 2140301410,
+  "ReleaseCondition": [
+   3000,
+   2140301411,
+   2140301410
+  ],
+  "TargetPicker": 140301112,
+  "TargetCount": 0,
+  "HandleType": 1,
+  "AbsorbAttrID": 0,
+  "AbsorbRatio": {
+   "Key": "@2140301410",
+   "Num": 0
+  },
+  "AttachEffectIDs": []
+ },
+ {
+  "SkillID": 2140301411,
+  "ReleaseCondition": [
+   3000,
+   2140301412,
+   2140301410
+  ],
+  "TargetPicker": 140301112,
+  "TargetCount": 0,
+  "HandleType": 1,
+  "AbsorbAttrID": 0,
+  "AbsorbRatio": {
+   "Key": "@2140301410",
+   "Num": 0
+  },
+  "AttachEffectIDs": []
+ },
+ {
+  "SkillID": 2140301412,
+  "ReleaseCondition": [
+   3000,
+   2140301413,
+   2140301410
+  ],
+  "TargetPicker": 140301,
+  "TargetCount": 0,
+  "HandleType": 1,
+  "AbsorbAttrID": 0,
+  "AbsorbRatio": {
+   "Key": "@2140301410",
+   "Num": 0
+  },
+  "AttachEffectIDs": []
+ },
+ {
+  "SkillID": 2130601511,
+  "ReleaseCondition": [
+   3000,
+   2130601511,
+   2130601510
+  ],
+  "TargetPicker": 11,
+  "TargetCount": 1,
+  "HandleType": 1,
+  "AbsorbAttrID": 0,
+  "AbsorbRatio": {
+   "Key": "",
+   "Num": 100
+  },
+  "AttachEffectIDs": []
+ },
+ {
+  "SkillID": 1110202210,
+  "ReleaseCondition": [
+   3000,
+   1110202210,
+   110202410
+  ],
+  "TargetPicker": 11,
+  "TargetCount": 1,
+  "HandleType": 3,
+  "AbsorbAttrID": 0,
+  "AbsorbRatio": {
+   "Key": "@110202111",
+   "Num": 0
+  },
+  "AttachEffectIDs": []
+ },
+ {
+  "SkillID": 2120603510,
+  "ReleaseCondition": [
+   3000,
+   2120603510,
+   120603100
+  ],
+  "TargetPicker": 11,
+  "TargetCount": 1,
+  "HandleType": 1,
+  "AbsorbAttrID": 0,
+  "AbsorbRatio": {
+   "Key": "",
+   "Num": 25
+  },
+  "AttachEffectIDs": []
+ },
+ {
+  "SkillID": 2120301710,
+  "ReleaseCondition": [
+   3000,
+   2120301710
+  ],
+  "TargetPicker": 11,
+  "TargetCount": 1,
+  "HandleType": 1,
+  "AbsorbAttrID": 0,
+  "AbsorbRatio": {
+   "Key": "",
+   "Num": 15
+  },
+  "AttachEffectIDs": []
+ },
+ {
+  "SkillID": 910306210,
+  "ReleaseCondition": [
+   3000,
+   910306210
+  ],
+  "TargetPicker": 11,
+  "TargetCount": 1,
+  "HandleType": 1,
+  "AbsorbAttrID": 0,
+  "AbsorbRatio": {
+   "Key": "",
+   "Num": 50
+  },
+  "AttachEffectIDs": []
+ },
+ {
+  "SkillID": 507005111,
+  "ReleaseCondition": [
+   3000
+  ],
+  "TargetPicker": 501012,
+  "TargetCount": 1,
+  "HandleType": 1,
+  "AbsorbAttrID": 0,
+  "AbsorbRatio": {
+   "Key": "",
+   "Num": 15
+  },
+  "AttachEffectIDs": []
+ },
+ {
+  "SkillID": 507005121,
+  "ReleaseCondition": [
+   3000
+  ],
+  "TargetPicker": 501012,
+  "TargetCount": 1,
+  "HandleType": 1,
+  "AbsorbAttrID": 0,
+  "AbsorbRatio": {
+   "Key": "",
+   "Num": 15
+  },
+  "AttachEffectIDs": []
+ },
+ {
+  "SkillID": 507005131,
+  "ReleaseCondition": [
+   3000
+  ],
+  "TargetPicker": 501012,
+  "TargetCount": 1,
+  "HandleType": 1,
+  "AbsorbAttrID": 0,
+  "AbsorbRatio": {
+   "Key": "",
+   "Num": 15
+  },
+  "AttachEffectIDs": []
+ },
+ {
+  "SkillID": 507005141,
+  "ReleaseCondition": [
+   3000
+  ],
+  "TargetPicker": 501012,
+  "TargetCount": 1,
+  "HandleType": 1,
+  "AbsorbAttrID": 0,
+  "AbsorbRatio": {
+   "Key": "",
+   "Num": 15
+  },
+  "AttachEffectIDs": []
+ },
+ {
+  "SkillID": 507005151,
+  "ReleaseCondition": [
+   3000
+  ],
+  "TargetPicker": 501012,
+  "TargetCount": 1,
+  "HandleType": 1,
+  "AbsorbAttrID": 0,
+  "AbsorbRatio": {
+   "Key": "",
+   "Num": 15
+  },
+  "AttachEffectIDs": []
+ },
+ {
+  "SkillID": 507005161,
+  "ReleaseCondition": [
+   3000
+  ],
+  "TargetPicker": 501012,
+  "TargetCount": 1,
+  "HandleType": 1,
+  "AbsorbAttrID": 0,
+  "AbsorbRatio": {
+   "Key": "",
+   "Num": 15
+  },
+  "AttachEffectIDs": []
+ },
+ {
+  "SkillID": 507005171,
+  "ReleaseCondition": [
+   3000
+  ],
+  "TargetPicker": 501012,
+  "TargetCount": 1,
+  "HandleType": 1,
+  "AbsorbAttrID": 0,
+  "AbsorbRatio": {
+   "Key": "",
+   "Num": 15
+  },
+  "AttachEffectIDs": []
+ },
+ {
+  "SkillID": 507005181,
+  "ReleaseCondition": [
+   3000
+  ],
+  "TargetPicker": 501012,
+  "TargetCount": 1,
+  "HandleType": 1,
+  "AbsorbAttrID": 0,
+  "AbsorbRatio": {
+   "Key": "",
+   "Num": 15
+  },
+  "AttachEffectIDs": []
+ },
+ {
+  "SkillID": 1005666,
+  "ReleaseCondition": [
+   3001
+  ],
+  "TargetPicker": 0,
+  "TargetCount": 1,
+  "HandleType": 0,
+  "AbsorbAttrID": 0,
+  "AbsorbRatio": {
+   "Key": "",
+   "Num": 0
+  },
+  "AttachEffectIDs": [
+   1005666
+  ]
+ },
+ {
+  "SkillID": 1006666,
+  "ReleaseCondition": [
+   3001
+  ],
+  "TargetPicker": 0,
+  "TargetCount": 1,
+  "HandleType": 0,
+  "AbsorbAttrID": 0,
+  "AbsorbRatio": {
+   "Key": "",
+   "Num": 0
+  },
+  "AttachEffectIDs": [
+   1006666
+  ]
+ }
+]

@@ -1,0 +1,72 @@
+[
+ {
+  "rankrangemax": 1,
+  "rankrangemin": 10,
+  "matchmax1": 1,
+  "matchmin1": 5,
+  "matchmax2": 6,
+  "matchmin2": 10,
+  "matchmax3": 11,
+  "matchmin3": 15
+ },
+ {
+  "rankrangemax": 11,
+  "rankrangemin": 20,
+  "matchmax1": 1,
+  "matchmin1": 10,
+  "matchmax2": 11,
+  "matchmin2": 20,
+  "matchmax3": 21,
+  "matchmin3": 30
+ },
+ {
+  "rankrangemax": 21,
+  "rankrangemin": 50,
+  "matchmax1": 11,
+  "matchmin1": 20,
+  "matchmax2": 21,
+  "matchmin2": 40,
+  "matchmax3": 41,
+  "matchmin3": 150
+ },
+ {
+  "rankrangemax": 51,
+  "rankrangemin": 100,
+  "matchmax1": 21,
+  "matchmin1": 50,
+  "matchmax2": 51,
+  "matchmin2": 90,
+  "matchmax3": 91,
+  "matchmin3": 150
+ },
+ {
+  "rankrangemax": 101,
+  "rankrangemin": 200,
+  "matchmax1": 51,
+  "matchmin1": 100,
+  "matchmax2": 101,
+  "matchmin2": 180,
+  "matchmax3": 181,
+  "matchmin3": 300
+ },
+ {
+  "rankrangemax": 201,
+  "rankrangemin": 500,
+  "matchmax1": 101,
+  "matchmin1": 200,
+  "matchmax2": 201,
+  "matchmin2": 400,
+  "matchmax3": 401,
+  "matchmin3": 600
+ },
+ {
+  "rankrangemax": 501,
+  "rankrangemin": -1,
+  "matchmax1": 201,
+  "matchmin1": 500,
+  "matchmax2": 501,
+  "matchmin2": 1000,
+  "matchmax3": 1001,
+  "matchmin3": -1
+ }
+]

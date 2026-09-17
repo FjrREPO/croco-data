@@ -1,0 +1,810 @@
+[
+ {
+  "Id": 1,
+  "PopupType": 1,
+  "IsOneTime": 1,
+  "CoolDown": 0,
+  "ModalType": 1,
+  "Groupid": 0,
+  "GroupFirst": 0,
+  "GroupOrder": 0,
+  "TriggerCondition": [
+   24,
+   9009,
+   2,
+   0
+  ],
+  "LockCombine": 0,
+  "MallId": 83000102,
+  "ShowId": 430301,
+  "showOrder": 3
+ },
+ {
+  "Id": 2,
+  "PopupType": 1,
+  "IsOneTime": 1,
+  "CoolDown": 0,
+  "ModalType": 1,
+  "Groupid": 0,
+  "GroupFirst": 0,
+  "GroupOrder": 0,
+  "TriggerCondition": [
+   26,
+   0,
+   2,
+   9999
+  ],
+  "LockCombine": 0,
+  "MallId": 83000101,
+  "ShowId": 430301,
+  "showOrder": 3
+ },
+ {
+  "Id": 3,
+  "PopupType": 1,
+  "IsOneTime": 1,
+  "CoolDown": 0,
+  "ModalType": 1,
+  "Groupid": 0,
+  "GroupFirst": 0,
+  "GroupOrder": 0,
+  "TriggerCondition": [
+   25,
+   83000102,
+   1,
+   1
+  ],
+  "LockCombine": 0,
+  "MallId": 83000103,
+  "ShowId": 430301,
+  "showOrder": 3
+ },
+ {
+  "Id": 4,
+  "PopupType": 1,
+  "IsOneTime": 1,
+  "CoolDown": 0,
+  "ModalType": 1,
+  "Groupid": 0,
+  "GroupFirst": 0,
+  "GroupOrder": 0,
+  "TriggerCondition": [
+   25,
+   83000103,
+   1,
+   1
+  ],
+  "LockCombine": 0,
+  "MallId": 83000104,
+  "ShowId": 430301,
+  "showOrder": 3
+ },
+ {
+  "Id": 5,
+  "PopupType": 1,
+  "IsOneTime": 1,
+  "CoolDown": 0,
+  "ModalType": 1,
+  "Groupid": 0,
+  "GroupFirst": 0,
+  "GroupOrder": 0,
+  "TriggerCondition": [
+   25,
+   83000104,
+   1,
+   1
+  ],
+  "LockCombine": 0,
+  "MallId": 83000105,
+  "ShowId": 430301,
+  "showOrder": 3
+ },
+ {
+  "Id": 6,
+  "PopupType": 1,
+  "IsOneTime": 1,
+  "CoolDown": 0,
+  "ModalType": 1,
+  "Groupid": 0,
+  "GroupFirst": 0,
+  "GroupOrder": 0,
+  "TriggerCondition": [
+   26,
+   0,
+   2,
+   3,
+   24,
+   9016,
+   2,
+   0
+  ],
+  "LockCombine": 1,
+  "MallId": 83000201,
+  "ShowId": 110604,
+  "showOrder": 1
+ },
+ {
+  "Id": 7,
+  "PopupType": 1,
+  "IsOneTime": 1,
+  "CoolDown": 0,
+  "ModalType": 1,
+  "Groupid": 0,
+  "GroupFirst": 0,
+  "GroupOrder": 0,
+  "TriggerCondition": [
+   25,
+   83000201,
+   1,
+   1
+  ],
+  "LockCombine": 0,
+  "MallId": 83000202,
+  "ShowId": 110604,
+  "showOrder": 1
+ },
+ {
+  "Id": 8,
+  "PopupType": 1,
+  "IsOneTime": 1,
+  "CoolDown": 0,
+  "ModalType": 1,
+  "Groupid": 0,
+  "GroupFirst": 0,
+  "GroupOrder": 0,
+  "TriggerCondition": [
+   25,
+   83000202,
+   1,
+   1
+  ],
+  "LockCombine": 0,
+  "MallId": 83000203,
+  "ShowId": 110604,
+  "showOrder": 1
+ },
+ {
+  "Id": 9,
+  "PopupType": 1,
+  "IsOneTime": 1,
+  "CoolDown": 0,
+  "ModalType": 1,
+  "Groupid": 0,
+  "GroupFirst": 0,
+  "GroupOrder": 0,
+  "TriggerCondition": [
+   25,
+   83000203,
+   1,
+   1
+  ],
+  "LockCombine": 0,
+  "MallId": 83000204,
+  "ShowId": 110604,
+  "showOrder": 1
+ },
+ {
+  "Id": 10,
+  "PopupType": 1,
+  "IsOneTime": 1,
+  "CoolDown": 0,
+  "ModalType": 1,
+  "Groupid": 0,
+  "GroupFirst": 0,
+  "GroupOrder": 0,
+  "TriggerCondition": [
+   25,
+   83000204,
+   1,
+   1
+  ],
+  "LockCombine": 0,
+  "MallId": 83000205,
+  "ShowId": 110604,
+  "showOrder": 1
+ },
+ {
+  "Id": 11,
+  "PopupType": 1,
+  "IsOneTime": 1,
+  "CoolDown": 0,
+  "ModalType": 1,
+  "Groupid": 0,
+  "GroupFirst": 0,
+  "GroupOrder": 0,
+  "TriggerCondition": [
+   26,
+   0,
+   2,
+   8,
+   24,
+   9031,
+   2,
+   0
+  ],
+  "LockCombine": 1,
+  "MallId": 83000301,
+  "ShowId": 440201,
+  "showOrder": 2
+ },
+ {
+  "Id": 12,
+  "PopupType": 1,
+  "IsOneTime": 1,
+  "CoolDown": 0,
+  "ModalType": 1,
+  "Groupid": 0,
+  "GroupFirst": 0,
+  "GroupOrder": 0,
+  "TriggerCondition": [
+   25,
+   83000301,
+   1,
+   1
+  ],
+  "LockCombine": 0,
+  "MallId": 83000302,
+  "ShowId": 440201,
+  "showOrder": 2
+ },
+ {
+  "Id": 13,
+  "PopupType": 1,
+  "IsOneTime": 1,
+  "CoolDown": 0,
+  "ModalType": 1,
+  "Groupid": 0,
+  "GroupFirst": 0,
+  "GroupOrder": 0,
+  "TriggerCondition": [
+   25,
+   83000302,
+   1,
+   1
+  ],
+  "LockCombine": 0,
+  "MallId": 83000303,
+  "ShowId": 440201,
+  "showOrder": 2
+ },
+ {
+  "Id": 14,
+  "PopupType": 1,
+  "IsOneTime": 1,
+  "CoolDown": 0,
+  "ModalType": 1,
+  "Groupid": 0,
+  "GroupFirst": 0,
+  "GroupOrder": 0,
+  "TriggerCondition": [
+   25,
+   83000303,
+   1,
+   1
+  ],
+  "LockCombine": 0,
+  "MallId": 83000304,
+  "ShowId": 440201,
+  "showOrder": 2
+ },
+ {
+  "Id": 15,
+  "PopupType": 1,
+  "IsOneTime": 1,
+  "CoolDown": 0,
+  "ModalType": 1,
+  "Groupid": 0,
+  "GroupFirst": 0,
+  "GroupOrder": 0,
+  "TriggerCondition": [
+   25,
+   83000304,
+   1,
+   1
+  ],
+  "LockCombine": 0,
+  "MallId": 83000305,
+  "ShowId": 440201,
+  "showOrder": 2
+ },
+ {
+  "Id": 16,
+  "PopupType": 1,
+  "IsOneTime": 1,
+  "CoolDown": 0,
+  "ModalType": 1,
+  "Groupid": 0,
+  "GroupFirst": 0,
+  "GroupOrder": 0,
+  "TriggerCondition": [
+   25,
+   83000305,
+   1,
+   1
+  ],
+  "LockCombine": 0,
+  "MallId": 83000306,
+  "ShowId": 440201,
+  "showOrder": 2
+ },
+ {
+  "Id": 19,
+  "PopupType": 2,
+  "IsOneTime": 1,
+  "CoolDown": 0,
+  "ModalType": 1,
+  "Groupid": 2001,
+  "GroupFirst": 0,
+  "GroupOrder": 1,
+  "TriggerCondition": [
+   26,
+   0,
+   2,
+   2
+  ],
+  "LockCombine": 0,
+  "MallId": 1700201,
+  "ShowId": 0,
+  "showOrder": 0
+ },
+ {
+  "Id": 20,
+  "PopupType": 2,
+  "IsOneTime": 1,
+  "CoolDown": 0,
+  "ModalType": 1,
+  "Groupid": 2001,
+  "GroupFirst": 0,
+  "GroupOrder": 2,
+  "TriggerCondition": [
+   26,
+   0,
+   2,
+   2
+  ],
+  "LockCombine": 0,
+  "MallId": 1700202,
+  "ShowId": 0,
+  "showOrder": 0
+ },
+ {
+  "Id": 21,
+  "PopupType": 2,
+  "IsOneTime": 1,
+  "CoolDown": 0,
+  "ModalType": 1,
+  "Groupid": 2001,
+  "GroupFirst": 0,
+  "GroupOrder": 3,
+  "TriggerCondition": [
+   26,
+   0,
+   2,
+   2
+  ],
+  "LockCombine": 0,
+  "MallId": 1700203,
+  "ShowId": 0,
+  "showOrder": 0
+ },
+ {
+  "Id": 22,
+  "PopupType": 2,
+  "IsOneTime": 1,
+  "CoolDown": 0,
+  "ModalType": 1,
+  "Groupid": 2001,
+  "GroupFirst": 0,
+  "GroupOrder": 4,
+  "TriggerCondition": [
+   26,
+   0,
+   2,
+   2
+  ],
+  "LockCombine": 0,
+  "MallId": 1700204,
+  "ShowId": 0,
+  "showOrder": 0
+ },
+ {
+  "Id": 23,
+  "PopupType": 2,
+  "IsOneTime": 1,
+  "CoolDown": 0,
+  "ModalType": 1,
+  "Groupid": 2001,
+  "GroupFirst": 0,
+  "GroupOrder": 5,
+  "TriggerCondition": [
+   26,
+   0,
+   2,
+   2
+  ],
+  "LockCombine": 0,
+  "MallId": 1700205,
+  "ShowId": 0,
+  "showOrder": 0
+ },
+ {
+  "Id": 24,
+  "PopupType": 2,
+  "IsOneTime": 1,
+  "CoolDown": 0,
+  "ModalType": 1,
+  "Groupid": 2001,
+  "GroupFirst": 0,
+  "GroupOrder": 6,
+  "TriggerCondition": [
+   26,
+   0,
+   2,
+   2
+  ],
+  "LockCombine": 0,
+  "MallId": 1700206,
+  "ShowId": 0,
+  "showOrder": 0
+ },
+ {
+  "Id": 25,
+  "PopupType": 2,
+  "IsOneTime": 1,
+  "CoolDown": 0,
+  "ModalType": 1,
+  "Groupid": 2001,
+  "GroupFirst": 0,
+  "GroupOrder": 7,
+  "TriggerCondition": [
+   26,
+   0,
+   2,
+   2
+  ],
+  "LockCombine": 0,
+  "MallId": 1700207,
+  "ShowId": 0,
+  "showOrder": 0
+ },
+ {
+  "Id": 26,
+  "PopupType": 2,
+  "IsOneTime": 1,
+  "CoolDown": 0,
+  "ModalType": 1,
+  "Groupid": 2001,
+  "GroupFirst": 0,
+  "GroupOrder": 8,
+  "TriggerCondition": [
+   26,
+   0,
+   2,
+   2
+  ],
+  "LockCombine": 0,
+  "MallId": 1700208,
+  "ShowId": 0,
+  "showOrder": 0
+ },
+ {
+  "Id": 27,
+  "PopupType": 2,
+  "IsOneTime": 1,
+  "CoolDown": 0,
+  "ModalType": 1,
+  "Groupid": 2001,
+  "GroupFirst": 0,
+  "GroupOrder": 9,
+  "TriggerCondition": [
+   26,
+   0,
+   2,
+   2
+  ],
+  "LockCombine": 0,
+  "MallId": 1700209,
+  "ShowId": 0,
+  "showOrder": 0
+ },
+ {
+  "Id": 28,
+  "PopupType": 2,
+  "IsOneTime": 1,
+  "CoolDown": 0,
+  "ModalType": 1,
+  "Groupid": 2001,
+  "GroupFirst": 0,
+  "GroupOrder": 10,
+  "TriggerCondition": [
+   26,
+   0,
+   2,
+   2
+  ],
+  "LockCombine": 0,
+  "MallId": 1700210,
+  "ShowId": 0,
+  "showOrder": 0
+ },
+ {
+  "Id": 29,
+  "PopupType": 2,
+  "IsOneTime": 1,
+  "CoolDown": 0,
+  "ModalType": 1,
+  "Groupid": 2001,
+  "GroupFirst": 0,
+  "GroupOrder": 11,
+  "TriggerCondition": [
+   26,
+   0,
+   2,
+   2
+  ],
+  "LockCombine": 0,
+  "MallId": 1700211,
+  "ShowId": 0,
+  "showOrder": 0
+ },
+ {
+  "Id": 30,
+  "PopupType": 2,
+  "IsOneTime": 1,
+  "CoolDown": 0,
+  "ModalType": 1,
+  "Groupid": 2001,
+  "GroupFirst": 0,
+  "GroupOrder": 12,
+  "TriggerCondition": [
+   26,
+   0,
+   2,
+   2
+  ],
+  "LockCombine": 0,
+  "MallId": 1700212,
+  "ShowId": 0,
+  "showOrder": 0
+ },
+ {
+  "Id": 31,
+  "PopupType": 2,
+  "IsOneTime": 1,
+  "CoolDown": 0,
+  "ModalType": 1,
+  "Groupid": 2002,
+  "GroupFirst": 0,
+  "GroupOrder": 1,
+  "TriggerCondition": [
+   26,
+   0,
+   2,
+   15
+  ],
+  "LockCombine": 0,
+  "MallId": 1730001,
+  "ShowId": 0,
+  "showOrder": 0
+ },
+ {
+  "Id": 32,
+  "PopupType": 2,
+  "IsOneTime": 1,
+  "CoolDown": 0,
+  "ModalType": 1,
+  "Groupid": 2002,
+  "GroupFirst": 0,
+  "GroupOrder": 2,
+  "TriggerCondition": [
+   26,
+   0,
+   2,
+   15
+  ],
+  "LockCombine": 0,
+  "MallId": 1730002,
+  "ShowId": 0,
+  "showOrder": 0
+ },
+ {
+  "Id": 33,
+  "PopupType": 2,
+  "IsOneTime": 1,
+  "CoolDown": 0,
+  "ModalType": 1,
+  "Groupid": 2002,
+  "GroupFirst": 0,
+  "GroupOrder": 3,
+  "TriggerCondition": [
+   26,
+   0,
+   2,
+   15
+  ],
+  "LockCombine": 0,
+  "MallId": 1730003,
+  "ShowId": 0,
+  "showOrder": 0
+ },
+ {
+  "Id": 34,
+  "PopupType": 2,
+  "IsOneTime": 1,
+  "CoolDown": 0,
+  "ModalType": 1,
+  "Groupid": 2002,
+  "GroupFirst": 0,
+  "GroupOrder": 4,
+  "TriggerCondition": [
+   26,
+   0,
+   2,
+   15
+  ],
+  "LockCombine": 0,
+  "MallId": 1730004,
+  "ShowId": 0,
+  "showOrder": 0
+ },
+ {
+  "Id": 35,
+  "PopupType": 2,
+  "IsOneTime": 1,
+  "CoolDown": 0,
+  "ModalType": 1,
+  "Groupid": 2002,
+  "GroupFirst": 0,
+  "GroupOrder": 5,
+  "TriggerCondition": [
+   26,
+   0,
+   2,
+   15
+  ],
+  "LockCombine": 0,
+  "MallId": 1730005,
+  "ShowId": 0,
+  "showOrder": 0
+ },
+ {
+  "Id": 36,
+  "PopupType": 2,
+  "IsOneTime": 1,
+  "CoolDown": 0,
+  "ModalType": 1,
+  "Groupid": 2002,
+  "GroupFirst": 0,
+  "GroupOrder": 6,
+  "TriggerCondition": [
+   26,
+   0,
+   2,
+   15
+  ],
+  "LockCombine": 0,
+  "MallId": 1730006,
+  "ShowId": 0,
+  "showOrder": 0
+ },
+ {
+  "Id": 37,
+  "PopupType": 2,
+  "IsOneTime": 1,
+  "CoolDown": 0,
+  "ModalType": 1,
+  "Groupid": 2002,
+  "GroupFirst": 0,
+  "GroupOrder": 7,
+  "TriggerCondition": [
+   26,
+   0,
+   2,
+   15
+  ],
+  "LockCombine": 0,
+  "MallId": 1730007,
+  "ShowId": 0,
+  "showOrder": 0
+ },
+ {
+  "Id": 38,
+  "PopupType": 2,
+  "IsOneTime": 1,
+  "CoolDown": 0,
+  "ModalType": 1,
+  "Groupid": 2002,
+  "GroupFirst": 0,
+  "GroupOrder": 8,
+  "TriggerCondition": [
+   26,
+   0,
+   2,
+   15
+  ],
+  "LockCombine": 0,
+  "MallId": 1730008,
+  "ShowId": 0,
+  "showOrder": 0
+ },
+ {
+  "Id": 39,
+  "PopupType": 2,
+  "IsOneTime": 1,
+  "CoolDown": 0,
+  "ModalType": 1,
+  "Groupid": 2002,
+  "GroupFirst": 0,
+  "GroupOrder": 9,
+  "TriggerCondition": [
+   26,
+   0,
+   2,
+   15
+  ],
+  "LockCombine": 0,
+  "MallId": 1730009,
+  "ShowId": 0,
+  "showOrder": 0
+ },
+ {
+  "Id": 40,
+  "PopupType": 2,
+  "IsOneTime": 1,
+  "CoolDown": 0,
+  "ModalType": 1,
+  "Groupid": 2002,
+  "GroupFirst": 0,
+  "GroupOrder": 10,
+  "TriggerCondition": [
+   26,
+   0,
+   2,
+   15
+  ],
+  "LockCombine": 0,
+  "MallId": 1730010,
+  "ShowId": 0,
+  "showOrder": 0
+ },
+ {
+  "Id": 41,
+  "PopupType": 2,
+  "IsOneTime": 1,
+  "CoolDown": 0,
+  "ModalType": 1,
+  "Groupid": 2002,
+  "GroupFirst": 0,
+  "GroupOrder": 11,
+  "TriggerCondition": [
+   26,
+   0,
+   2,
+   15
+  ],
+  "LockCombine": 0,
+  "MallId": 1730011,
+  "ShowId": 0,
+  "showOrder": 0
+ },
+ {
+  "Id": 42,
+  "PopupType": 2,
+  "IsOneTime": 1,
+  "CoolDown": 0,
+  "ModalType": 1,
+  "Groupid": 2002,
+  "GroupFirst": 0,
+  "GroupOrder": 12,
+  "TriggerCondition": [
+   26,
+   0,
+   2,
+   15
+  ],
+  "LockCombine": 0,
+  "MallId": 1730012,
+  "ShowId": 0,
+  "showOrder": 0
+ }
+]

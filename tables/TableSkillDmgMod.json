@@ -1,0 +1,1090 @@
+[
+ {
+  "ID": 1120603611,
+  "SenderConditions": [],
+  "ReceiverConditions": [],
+  "AttrID": 0,
+  "CompareType": 0,
+  "LayerTarget": 2,
+  "LayerQueryType": 1,
+  "LayerQueryValue": 120603111,
+  "ModifyType": 2,
+  "ModifyValue": {
+   "Key": "",
+   "Num": 500
+  },
+  "RandomMin": {
+   "Key": "",
+   "Num": 0
+  },
+  "RandomMax": {
+   "Key": "",
+   "Num": 0
+  },
+  "MaxLayer": 0
+ },
+ {
+  "ID": 100266,
+  "SenderConditions": [],
+  "ReceiverConditions": [],
+  "AttrID": 0,
+  "CompareType": 0,
+  "LayerTarget": 2,
+  "LayerQueryType": 3,
+  "LayerQueryValue": 2008,
+  "ModifyType": 2,
+  "ModifyValue": {
+   "Key": "@100266",
+   "Num": 0
+  },
+  "RandomMin": {
+   "Key": "",
+   "Num": 0
+  },
+  "RandomMax": {
+   "Key": "",
+   "Num": 0
+  },
+  "MaxLayer": 0
+ },
+ {
+  "ID": 2008,
+  "SenderConditions": [],
+  "ReceiverConditions": [
+   928
+  ],
+  "AttrID": 0,
+  "CompareType": 0,
+  "LayerTarget": 0,
+  "LayerQueryType": 0,
+  "LayerQueryValue": 0,
+  "ModifyType": 2,
+  "ModifyValue": {
+   "Key": "@20081",
+   "Num": 0
+  },
+  "RandomMin": {
+   "Key": "",
+   "Num": 0
+  },
+  "RandomMax": {
+   "Key": "",
+   "Num": 0
+  },
+  "MaxLayer": 1
+ },
+ {
+  "ID": 20081,
+  "SenderConditions": [
+   9008
+  ],
+  "ReceiverConditions": [],
+  "AttrID": 0,
+  "CompareType": 0,
+  "LayerTarget": 2,
+  "LayerQueryType": 3,
+  "LayerQueryValue": 2001,
+  "ModifyType": 1,
+  "ModifyValue": {
+   "Key": "@20082",
+   "Num": 0
+  },
+  "RandomMin": {
+   "Key": "",
+   "Num": 0
+  },
+  "RandomMax": {
+   "Key": "",
+   "Num": 0
+  },
+  "MaxLayer": 1
+ },
+ {
+  "ID": 20082,
+  "SenderConditions": [],
+  "ReceiverConditions": [],
+  "AttrID": 0,
+  "CompareType": 0,
+  "LayerTarget": 0,
+  "LayerQueryType": 0,
+  "LayerQueryValue": 0,
+  "ModifyType": 2,
+  "ModifyValue": {
+   "Key": "@20083",
+   "Num": 0
+  },
+  "RandomMin": {
+   "Key": "",
+   "Num": 0
+  },
+  "RandomMax": {
+   "Key": "",
+   "Num": 0
+  },
+  "MaxLayer": 1
+ },
+ {
+  "ID": 1002652,
+  "SenderConditions": [],
+  "ReceiverConditions": [],
+  "AttrID": 0,
+  "CompareType": 0,
+  "LayerTarget": 0,
+  "LayerQueryType": 0,
+  "LayerQueryValue": 0,
+  "ModifyType": 2,
+  "ModifyValue": {
+   "Key": "@1002652",
+   "Num": 0
+  },
+  "RandomMin": {
+   "Key": "",
+   "Num": 0
+  },
+  "RandomMax": {
+   "Key": "",
+   "Num": 0
+  },
+  "MaxLayer": 1
+ },
+ {
+  "ID": 2002,
+  "SenderConditions": [],
+  "ReceiverConditions": [],
+  "AttrID": 0,
+  "CompareType": 0,
+  "LayerTarget": 0,
+  "LayerQueryType": 0,
+  "LayerQueryValue": 0,
+  "ModifyType": 2,
+  "ModifyValue": {
+   "Key": "@20021",
+   "Num": 0
+  },
+  "RandomMin": {
+   "Key": "",
+   "Num": 0
+  },
+  "RandomMax": {
+   "Key": "",
+   "Num": 0
+  },
+  "MaxLayer": 1
+ },
+ {
+  "ID": 1100041,
+  "SenderConditions": [],
+  "ReceiverConditions": [],
+  "AttrID": 0,
+  "CompareType": 0,
+  "LayerTarget": 2,
+  "LayerQueryType": 3,
+  "LayerQueryValue": 2008,
+  "ModifyType": 2,
+  "ModifyValue": {
+   "Key": "",
+   "Num": 1000
+  },
+  "RandomMin": {
+   "Key": "",
+   "Num": 0
+  },
+  "RandomMax": {
+   "Key": "",
+   "Num": 0
+  },
+  "MaxLayer": 0
+ },
+ {
+  "ID": 1100121,
+  "SenderConditions": [],
+  "ReceiverConditions": [],
+  "AttrID": 9010,
+  "CompareType": 5,
+  "LayerTarget": 0,
+  "LayerQueryType": 0,
+  "LayerQueryValue": 0,
+  "ModifyType": 2,
+  "ModifyValue": {
+   "Key": "",
+   "Num": 1000
+  },
+  "RandomMin": {
+   "Key": "",
+   "Num": 0
+  },
+  "RandomMax": {
+   "Key": "",
+   "Num": 0
+  },
+  "MaxLayer": 1
+ },
+ {
+  "ID": 1100122,
+  "SenderConditions": [],
+  "ReceiverConditions": [],
+  "AttrID": 9010,
+  "CompareType": 5,
+  "LayerTarget": 0,
+  "LayerQueryType": 0,
+  "LayerQueryValue": 0,
+  "ModifyType": 2,
+  "ModifyValue": {
+   "Key": "",
+   "Num": 1050
+  },
+  "RandomMin": {
+   "Key": "",
+   "Num": 0
+  },
+  "RandomMax": {
+   "Key": "",
+   "Num": 0
+  },
+  "MaxLayer": 1
+ },
+ {
+  "ID": 1100123,
+  "SenderConditions": [],
+  "ReceiverConditions": [],
+  "AttrID": 9010,
+  "CompareType": 5,
+  "LayerTarget": 0,
+  "LayerQueryType": 0,
+  "LayerQueryValue": 0,
+  "ModifyType": 2,
+  "ModifyValue": {
+   "Key": "",
+   "Num": 1150
+  },
+  "RandomMin": {
+   "Key": "",
+   "Num": 0
+  },
+  "RandomMax": {
+   "Key": "",
+   "Num": 0
+  },
+  "MaxLayer": 1
+ },
+ {
+  "ID": 1100124,
+  "SenderConditions": [],
+  "ReceiverConditions": [],
+  "AttrID": 9010,
+  "CompareType": 5,
+  "LayerTarget": 0,
+  "LayerQueryType": 0,
+  "LayerQueryValue": 0,
+  "ModifyType": 2,
+  "ModifyValue": {
+   "Key": "",
+   "Num": 1300
+  },
+  "RandomMin": {
+   "Key": "",
+   "Num": 0
+  },
+  "RandomMax": {
+   "Key": "",
+   "Num": 0
+  },
+  "MaxLayer": 1
+ },
+ {
+  "ID": 1100125,
+  "SenderConditions": [],
+  "ReceiverConditions": [],
+  "AttrID": 9010,
+  "CompareType": 5,
+  "LayerTarget": 0,
+  "LayerQueryType": 0,
+  "LayerQueryValue": 0,
+  "ModifyType": 2,
+  "ModifyValue": {
+   "Key": "",
+   "Num": 1500
+  },
+  "RandomMin": {
+   "Key": "",
+   "Num": 0
+  },
+  "RandomMax": {
+   "Key": "",
+   "Num": 0
+  },
+  "MaxLayer": 1
+ },
+ {
+  "ID": 1100021,
+  "SenderConditions": [],
+  "ReceiverConditions": [],
+  "AttrID": 0,
+  "CompareType": 0,
+  "LayerTarget": 2,
+  "LayerQueryType": 3,
+  "LayerQueryValue": 2008,
+  "ModifyType": 2,
+  "ModifyValue": {
+   "Key": "",
+   "Num": 200
+  },
+  "RandomMin": {
+   "Key": "",
+   "Num": 0
+  },
+  "RandomMax": {
+   "Key": "",
+   "Num": 0
+  },
+  "MaxLayer": 0
+ },
+ {
+  "ID": 1100022,
+  "SenderConditions": [],
+  "ReceiverConditions": [],
+  "AttrID": 0,
+  "CompareType": 0,
+  "LayerTarget": 2,
+  "LayerQueryType": 3,
+  "LayerQueryValue": 2008,
+  "ModifyType": 2,
+  "ModifyValue": {
+   "Key": "",
+   "Num": 210
+  },
+  "RandomMin": {
+   "Key": "",
+   "Num": 0
+  },
+  "RandomMax": {
+   "Key": "",
+   "Num": 0
+  },
+  "MaxLayer": 0
+ },
+ {
+  "ID": 1100023,
+  "SenderConditions": [],
+  "ReceiverConditions": [],
+  "AttrID": 0,
+  "CompareType": 0,
+  "LayerTarget": 2,
+  "LayerQueryType": 3,
+  "LayerQueryValue": 2008,
+  "ModifyType": 2,
+  "ModifyValue": {
+   "Key": "",
+   "Num": 230
+  },
+  "RandomMin": {
+   "Key": "",
+   "Num": 0
+  },
+  "RandomMax": {
+   "Key": "",
+   "Num": 0
+  },
+  "MaxLayer": 0
+ },
+ {
+  "ID": 1100024,
+  "SenderConditions": [],
+  "ReceiverConditions": [],
+  "AttrID": 0,
+  "CompareType": 0,
+  "LayerTarget": 2,
+  "LayerQueryType": 3,
+  "LayerQueryValue": 2008,
+  "ModifyType": 2,
+  "ModifyValue": {
+   "Key": "",
+   "Num": 260
+  },
+  "RandomMin": {
+   "Key": "",
+   "Num": 0
+  },
+  "RandomMax": {
+   "Key": "",
+   "Num": 0
+  },
+  "MaxLayer": 0
+ },
+ {
+  "ID": 1100025,
+  "SenderConditions": [],
+  "ReceiverConditions": [],
+  "AttrID": 0,
+  "CompareType": 0,
+  "LayerTarget": 2,
+  "LayerQueryType": 3,
+  "LayerQueryValue": 2008,
+  "ModifyType": 2,
+  "ModifyValue": {
+   "Key": "",
+   "Num": 300
+  },
+  "RandomMin": {
+   "Key": "",
+   "Num": 0
+  },
+  "RandomMax": {
+   "Key": "",
+   "Num": 0
+  },
+  "MaxLayer": 0
+ },
+ {
+  "ID": 1110502710,
+  "SenderConditions": [],
+  "ReceiverConditions": [],
+  "AttrID": 0,
+  "CompareType": 0,
+  "LayerTarget": 1,
+  "LayerQueryType": 1,
+  "LayerQueryValue": 110502210,
+  "ModifyType": 2,
+  "ModifyValue": {
+   "Key": "@1110502710",
+   "Num": 0
+  },
+  "RandomMin": {
+   "Key": "",
+   "Num": 0
+  },
+  "RandomMax": {
+   "Key": "",
+   "Num": 0
+  },
+  "MaxLayer": 0
+ },
+ {
+  "ID": 2110401810,
+  "SenderConditions": [],
+  "ReceiverConditions": [
+   2110502811
+  ],
+  "AttrID": 0,
+  "CompareType": 0,
+  "LayerTarget": 0,
+  "LayerQueryType": 0,
+  "LayerQueryValue": 0,
+  "ModifyType": 2,
+  "ModifyValue": {
+   "Key": "",
+   "Num": 0
+  },
+  "RandomMin": {
+   "Key": "@2110401811",
+   "Num": 0
+  },
+  "RandomMax": {
+   "Key": "@2110401812",
+   "Num": 0
+  },
+  "MaxLayer": 0
+ },
+ {
+  "ID": 2110401811,
+  "SenderConditions": [],
+  "ReceiverConditions": [
+   2110502811
+  ],
+  "AttrID": 0,
+  "CompareType": 0,
+  "LayerTarget": 0,
+  "LayerQueryType": 0,
+  "LayerQueryValue": 0,
+  "ModifyType": 4,
+  "ModifyValue": {
+   "Key": "",
+   "Num": 18
+  },
+  "RandomMin": {
+   "Key": "",
+   "Num": 0
+  },
+  "RandomMax": {
+   "Key": "",
+   "Num": 0
+  },
+  "MaxLayer": 0
+ },
+ {
+  "ID": 1110401710,
+  "SenderConditions": [],
+  "ReceiverConditions": [],
+  "AttrID": 0,
+  "CompareType": 0,
+  "LayerTarget": 0,
+  "LayerQueryType": 0,
+  "LayerQueryValue": 0,
+  "ModifyType": 3,
+  "ModifyValue": {
+   "Key": "@1110401710",
+   "Num": 0
+  },
+  "RandomMin": {
+   "Key": "",
+   "Num": 0
+  },
+  "RandomMax": {
+   "Key": "",
+   "Num": 0
+  },
+  "MaxLayer": 0
+ },
+ {
+  "ID": 2110401510,
+  "SenderConditions": [],
+  "ReceiverConditions": [],
+  "AttrID": 0,
+  "CompareType": 0,
+  "LayerTarget": 0,
+  "LayerQueryType": 0,
+  "LayerQueryValue": 0,
+  "ModifyType": 3,
+  "ModifyValue": {
+   "Key": "",
+   "Num": 7000
+  },
+  "RandomMin": {
+   "Key": "",
+   "Num": 0
+  },
+  "RandomMax": {
+   "Key": "",
+   "Num": 0
+  },
+  "MaxLayer": 0
+ },
+ {
+  "ID": 1110401910,
+  "SenderConditions": [],
+  "ReceiverConditions": [],
+  "AttrID": 0,
+  "CompareType": 0,
+  "LayerTarget": 0,
+  "LayerQueryType": 0,
+  "LayerQueryValue": 0,
+  "ModifyType": 2,
+  "ModifyValue": {
+   "Key": "@1110401910",
+   "Num": 0
+  },
+  "RandomMin": {
+   "Key": "",
+   "Num": 0
+  },
+  "RandomMax": {
+   "Key": "",
+   "Num": 0
+  },
+  "MaxLayer": 0
+ },
+ {
+  "ID": 506002110,
+  "SenderConditions": [],
+  "ReceiverConditions": [],
+  "AttrID": 0,
+  "CompareType": 0,
+  "LayerTarget": 0,
+  "LayerQueryType": 0,
+  "LayerQueryValue": 0,
+  "ModifyType": 3,
+  "ModifyValue": {
+   "Key": "",
+   "Num": 3000
+  },
+  "RandomMin": {
+   "Key": "",
+   "Num": 0
+  },
+  "RandomMax": {
+   "Key": "",
+   "Num": 0
+  },
+  "MaxLayer": 0
+ },
+ {
+  "ID": 506002120,
+  "SenderConditions": [],
+  "ReceiverConditions": [],
+  "AttrID": 0,
+  "CompareType": 0,
+  "LayerTarget": 0,
+  "LayerQueryType": 0,
+  "LayerQueryValue": 0,
+  "ModifyType": 3,
+  "ModifyValue": {
+   "Key": "",
+   "Num": 3500
+  },
+  "RandomMin": {
+   "Key": "",
+   "Num": 0
+  },
+  "RandomMax": {
+   "Key": "",
+   "Num": 0
+  },
+  "MaxLayer": 0
+ },
+ {
+  "ID": 506002130,
+  "SenderConditions": [],
+  "ReceiverConditions": [],
+  "AttrID": 0,
+  "CompareType": 0,
+  "LayerTarget": 0,
+  "LayerQueryType": 0,
+  "LayerQueryValue": 0,
+  "ModifyType": 3,
+  "ModifyValue": {
+   "Key": "",
+   "Num": 4000
+  },
+  "RandomMin": {
+   "Key": "",
+   "Num": 0
+  },
+  "RandomMax": {
+   "Key": "",
+   "Num": 0
+  },
+  "MaxLayer": 0
+ },
+ {
+  "ID": 506002140,
+  "SenderConditions": [],
+  "ReceiverConditions": [],
+  "AttrID": 0,
+  "CompareType": 0,
+  "LayerTarget": 0,
+  "LayerQueryType": 0,
+  "LayerQueryValue": 0,
+  "ModifyType": 3,
+  "ModifyValue": {
+   "Key": "",
+   "Num": 4500
+  },
+  "RandomMin": {
+   "Key": "",
+   "Num": 0
+  },
+  "RandomMax": {
+   "Key": "",
+   "Num": 0
+  },
+  "MaxLayer": 0
+ },
+ {
+  "ID": 506002150,
+  "SenderConditions": [],
+  "ReceiverConditions": [],
+  "AttrID": 0,
+  "CompareType": 0,
+  "LayerTarget": 0,
+  "LayerQueryType": 0,
+  "LayerQueryValue": 0,
+  "ModifyType": 3,
+  "ModifyValue": {
+   "Key": "",
+   "Num": 5000
+  },
+  "RandomMin": {
+   "Key": "",
+   "Num": 0
+  },
+  "RandomMax": {
+   "Key": "",
+   "Num": 0
+  },
+  "MaxLayer": 0
+ },
+ {
+  "ID": 506002160,
+  "SenderConditions": [],
+  "ReceiverConditions": [],
+  "AttrID": 0,
+  "CompareType": 0,
+  "LayerTarget": 0,
+  "LayerQueryType": 0,
+  "LayerQueryValue": 0,
+  "ModifyType": 3,
+  "ModifyValue": {
+   "Key": "",
+   "Num": 5500
+  },
+  "RandomMin": {
+   "Key": "",
+   "Num": 0
+  },
+  "RandomMax": {
+   "Key": "",
+   "Num": 0
+  },
+  "MaxLayer": 0
+ },
+ {
+  "ID": 506002170,
+  "SenderConditions": [],
+  "ReceiverConditions": [],
+  "AttrID": 0,
+  "CompareType": 0,
+  "LayerTarget": 0,
+  "LayerQueryType": 0,
+  "LayerQueryValue": 0,
+  "ModifyType": 3,
+  "ModifyValue": {
+   "Key": "",
+   "Num": 6000
+  },
+  "RandomMin": {
+   "Key": "",
+   "Num": 0
+  },
+  "RandomMax": {
+   "Key": "",
+   "Num": 0
+  },
+  "MaxLayer": 0
+ },
+ {
+  "ID": 505002110,
+  "SenderConditions": [],
+  "ReceiverConditions": [],
+  "AttrID": 0,
+  "CompareType": 0,
+  "LayerTarget": 0,
+  "LayerQueryType": 0,
+  "LayerQueryValue": 0,
+  "ModifyType": 3,
+  "ModifyValue": {
+   "Key": "",
+   "Num": 2100
+  },
+  "RandomMin": {
+   "Key": "",
+   "Num": 0
+  },
+  "RandomMax": {
+   "Key": "",
+   "Num": 0
+  },
+  "MaxLayer": 0
+ },
+ {
+  "ID": 505002120,
+  "SenderConditions": [],
+  "ReceiverConditions": [],
+  "AttrID": 0,
+  "CompareType": 0,
+  "LayerTarget": 0,
+  "LayerQueryType": 0,
+  "LayerQueryValue": 0,
+  "ModifyType": 3,
+  "ModifyValue": {
+   "Key": "",
+   "Num": 2500
+  },
+  "RandomMin": {
+   "Key": "",
+   "Num": 0
+  },
+  "RandomMax": {
+   "Key": "",
+   "Num": 0
+  },
+  "MaxLayer": 0
+ },
+ {
+  "ID": 505002130,
+  "SenderConditions": [],
+  "ReceiverConditions": [],
+  "AttrID": 0,
+  "CompareType": 0,
+  "LayerTarget": 0,
+  "LayerQueryType": 0,
+  "LayerQueryValue": 0,
+  "ModifyType": 3,
+  "ModifyValue": {
+   "Key": "",
+   "Num": 2800
+  },
+  "RandomMin": {
+   "Key": "",
+   "Num": 0
+  },
+  "RandomMax": {
+   "Key": "",
+   "Num": 0
+  },
+  "MaxLayer": 0
+ },
+ {
+  "ID": 505002140,
+  "SenderConditions": [],
+  "ReceiverConditions": [],
+  "AttrID": 0,
+  "CompareType": 0,
+  "LayerTarget": 0,
+  "LayerQueryType": 0,
+  "LayerQueryValue": 0,
+  "ModifyType": 3,
+  "ModifyValue": {
+   "Key": "",
+   "Num": 3200
+  },
+  "RandomMin": {
+   "Key": "",
+   "Num": 0
+  },
+  "RandomMax": {
+   "Key": "",
+   "Num": 0
+  },
+  "MaxLayer": 0
+ },
+ {
+  "ID": 505002150,
+  "SenderConditions": [],
+  "ReceiverConditions": [],
+  "AttrID": 0,
+  "CompareType": 0,
+  "LayerTarget": 0,
+  "LayerQueryType": 0,
+  "LayerQueryValue": 0,
+  "ModifyType": 3,
+  "ModifyValue": {
+   "Key": "",
+   "Num": 3500
+  },
+  "RandomMin": {
+   "Key": "",
+   "Num": 0
+  },
+  "RandomMax": {
+   "Key": "",
+   "Num": 0
+  },
+  "MaxLayer": 0
+ },
+ {
+  "ID": 505002160,
+  "SenderConditions": [],
+  "ReceiverConditions": [],
+  "AttrID": 0,
+  "CompareType": 0,
+  "LayerTarget": 0,
+  "LayerQueryType": 0,
+  "LayerQueryValue": 0,
+  "ModifyType": 3,
+  "ModifyValue": {
+   "Key": "",
+   "Num": 3900
+  },
+  "RandomMin": {
+   "Key": "",
+   "Num": 0
+  },
+  "RandomMax": {
+   "Key": "",
+   "Num": 0
+  },
+  "MaxLayer": 0
+ },
+ {
+  "ID": 505002170,
+  "SenderConditions": [],
+  "ReceiverConditions": [],
+  "AttrID": 0,
+  "CompareType": 0,
+  "LayerTarget": 0,
+  "LayerQueryType": 0,
+  "LayerQueryValue": 0,
+  "ModifyType": 3,
+  "ModifyValue": {
+   "Key": "",
+   "Num": 4200
+  },
+  "RandomMin": {
+   "Key": "",
+   "Num": 0
+  },
+  "RandomMax": {
+   "Key": "",
+   "Num": 0
+  },
+  "MaxLayer": 0
+ },
+ {
+  "ID": 505009110,
+  "SenderConditions": [],
+  "ReceiverConditions": [],
+  "AttrID": 0,
+  "CompareType": 0,
+  "LayerTarget": 0,
+  "LayerQueryType": 0,
+  "LayerQueryValue": 0,
+  "ModifyType": 3,
+  "ModifyValue": {
+   "Key": "",
+   "Num": 3000
+  },
+  "RandomMin": {
+   "Key": "",
+   "Num": 0
+  },
+  "RandomMax": {
+   "Key": "",
+   "Num": 0
+  },
+  "MaxLayer": 0
+ },
+ {
+  "ID": 505009120,
+  "SenderConditions": [],
+  "ReceiverConditions": [],
+  "AttrID": 0,
+  "CompareType": 0,
+  "LayerTarget": 0,
+  "LayerQueryType": 0,
+  "LayerQueryValue": 0,
+  "ModifyType": 3,
+  "ModifyValue": {
+   "Key": "",
+   "Num": 3500
+  },
+  "RandomMin": {
+   "Key": "",
+   "Num": 0
+  },
+  "RandomMax": {
+   "Key": "",
+   "Num": 0
+  },
+  "MaxLayer": 0
+ },
+ {
+  "ID": 505009130,
+  "SenderConditions": [],
+  "ReceiverConditions": [],
+  "AttrID": 0,
+  "CompareType": 0,
+  "LayerTarget": 0,
+  "LayerQueryType": 0,
+  "LayerQueryValue": 0,
+  "ModifyType": 3,
+  "ModifyValue": {
+   "Key": "",
+   "Num": 4000
+  },
+  "RandomMin": {
+   "Key": "",
+   "Num": 0
+  },
+  "RandomMax": {
+   "Key": "",
+   "Num": 0
+  },
+  "MaxLayer": 0
+ },
+ {
+  "ID": 505009140,
+  "SenderConditions": [],
+  "ReceiverConditions": [],
+  "AttrID": 0,
+  "CompareType": 0,
+  "LayerTarget": 0,
+  "LayerQueryType": 0,
+  "LayerQueryValue": 0,
+  "ModifyType": 3,
+  "ModifyValue": {
+   "Key": "",
+   "Num": 4500
+  },
+  "RandomMin": {
+   "Key": "",
+   "Num": 0
+  },
+  "RandomMax": {
+   "Key": "",
+   "Num": 0
+  },
+  "MaxLayer": 0
+ },
+ {
+  "ID": 505009150,
+  "SenderConditions": [],
+  "ReceiverConditions": [],
+  "AttrID": 0,
+  "CompareType": 0,
+  "LayerTarget": 0,
+  "LayerQueryType": 0,
+  "LayerQueryValue": 0,
+  "ModifyType": 3,
+  "ModifyValue": {
+   "Key": "",
+   "Num": 5000
+  },
+  "RandomMin": {
+   "Key": "",
+   "Num": 0
+  },
+  "RandomMax": {
+   "Key": "",
+   "Num": 0
+  },
+  "MaxLayer": 0
+ },
+ {
+  "ID": 505009160,
+  "SenderConditions": [],
+  "ReceiverConditions": [],
+  "AttrID": 0,
+  "CompareType": 0,
+  "LayerTarget": 0,
+  "LayerQueryType": 0,
+  "LayerQueryValue": 0,
+  "ModifyType": 3,
+  "ModifyValue": {
+   "Key": "",
+   "Num": 5500
+  },
+  "RandomMin": {
+   "Key": "",
+   "Num": 0
+  },
+  "RandomMax": {
+   "Key": "",
+   "Num": 0
+  },
+  "MaxLayer": 0
+ },
+ {
+  "ID": 505009170,
+  "SenderConditions": [],
+  "ReceiverConditions": [],
+  "AttrID": 0,
+  "CompareType": 0,
+  "LayerTarget": 0,
+  "LayerQueryType": 0,
+  "LayerQueryValue": 0,
+  "ModifyType": 3,
+  "ModifyValue": {
+   "Key": "",
+   "Num": 6000
+  },
+  "RandomMin": {
+   "Key": "",
+   "Num": 0
+  },
+  "RandomMax": {
+   "Key": "",
+   "Num": 0
+  },
+  "MaxLayer": 0
+ }
+]

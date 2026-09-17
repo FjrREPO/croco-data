@@ -1,0 +1,2178 @@
+[
+ {
+  "Id": 100101,
+  "DifficultyId": 1,
+  "LevelId": 1,
+  "RewardId1": [
+   2300101,
+   2300102
+  ],
+  "GearRewardNum": 0,
+  "RewardId2": [],
+  "RewardItem": [],
+  "RewardNum": []
+ },
+ {
+  "Id": 100102,
+  "DifficultyId": 1,
+  "LevelId": 2,
+  "RewardId1": [
+   2300103,
+   2300104
+  ],
+  "GearRewardNum": 0,
+  "RewardId2": [],
+  "RewardItem": [],
+  "RewardNum": []
+ },
+ {
+  "Id": 100103,
+  "DifficultyId": 1,
+  "LevelId": 3,
+  "RewardId1": [
+   2300105,
+   2300106
+  ],
+  "GearRewardNum": 1,
+  "RewardId2": [
+   2300100
+  ],
+  "RewardItem": [],
+  "RewardNum": []
+ },
+ {
+  "Id": 100104,
+  "DifficultyId": 1,
+  "LevelId": 4,
+  "RewardId1": [
+   2300107,
+   2300108
+  ],
+  "GearRewardNum": 0,
+  "RewardId2": [],
+  "RewardItem": [],
+  "RewardNum": []
+ },
+ {
+  "Id": 100105,
+  "DifficultyId": 1,
+  "LevelId": 5,
+  "RewardId1": [
+   2300109,
+   2300110
+  ],
+  "GearRewardNum": 0,
+  "RewardId2": [],
+  "RewardItem": [],
+  "RewardNum": []
+ },
+ {
+  "Id": 100106,
+  "DifficultyId": 1,
+  "LevelId": 6,
+  "RewardId1": [
+   2300111,
+   2300112
+  ],
+  "GearRewardNum": 0,
+  "RewardId2": [],
+  "RewardItem": [],
+  "RewardNum": []
+ },
+ {
+  "Id": 100107,
+  "DifficultyId": 1,
+  "LevelId": 7,
+  "RewardId1": [
+   2300113,
+   2300114
+  ],
+  "GearRewardNum": 2,
+  "RewardId2": [
+   2300100
+  ],
+  "RewardItem": [],
+  "RewardNum": []
+ },
+ {
+  "Id": 100108,
+  "DifficultyId": 1,
+  "LevelId": 8,
+  "RewardId1": [
+   2300115,
+   2300116
+  ],
+  "GearRewardNum": 0,
+  "RewardId2": [],
+  "RewardItem": [],
+  "RewardNum": []
+ },
+ {
+  "Id": 100109,
+  "DifficultyId": 1,
+  "LevelId": 9,
+  "RewardId1": [
+   2300117,
+   2300118
+  ],
+  "GearRewardNum": 0,
+  "RewardId2": [],
+  "RewardItem": [],
+  "RewardNum": []
+ },
+ {
+  "Id": 100110,
+  "DifficultyId": 1,
+  "LevelId": 10,
+  "RewardId1": [
+   2300119,
+   2300120
+  ],
+  "GearRewardNum": 3,
+  "RewardId2": [
+   2300100
+  ],
+  "RewardItem": [],
+  "RewardNum": []
+ },
+ {
+  "Id": 100201,
+  "DifficultyId": 2,
+  "LevelId": 1,
+  "RewardId1": [
+   2300201,
+   2300202
+  ],
+  "GearRewardNum": 0,
+  "RewardId2": [],
+  "RewardItem": [],
+  "RewardNum": []
+ },
+ {
+  "Id": 100202,
+  "DifficultyId": 2,
+  "LevelId": 2,
+  "RewardId1": [
+   2300203,
+   2300204
+  ],
+  "GearRewardNum": 0,
+  "RewardId2": [],
+  "RewardItem": [],
+  "RewardNum": []
+ },
+ {
+  "Id": 100203,
+  "DifficultyId": 2,
+  "LevelId": 3,
+  "RewardId1": [
+   2300205,
+   2300206
+  ],
+  "GearRewardNum": 1,
+  "RewardId2": [
+   2300200
+  ],
+  "RewardItem": [],
+  "RewardNum": []
+ },
+ {
+  "Id": 100204,
+  "DifficultyId": 2,
+  "LevelId": 4,
+  "RewardId1": [
+   2300207,
+   2300208
+  ],
+  "GearRewardNum": 0,
+  "RewardId2": [],
+  "RewardItem": [],
+  "RewardNum": []
+ },
+ {
+  "Id": 100205,
+  "DifficultyId": 2,
+  "LevelId": 5,
+  "RewardId1": [
+   2300209,
+   2300210
+  ],
+  "GearRewardNum": 0,
+  "RewardId2": [],
+  "RewardItem": [],
+  "RewardNum": []
+ },
+ {
+  "Id": 100206,
+  "DifficultyId": 2,
+  "LevelId": 6,
+  "RewardId1": [
+   2300211,
+   2300212
+  ],
+  "GearRewardNum": 0,
+  "RewardId2": [],
+  "RewardItem": [],
+  "RewardNum": []
+ },
+ {
+  "Id": 100207,
+  "DifficultyId": 2,
+  "LevelId": 7,
+  "RewardId1": [
+   2300213,
+   2300214
+  ],
+  "GearRewardNum": 2,
+  "RewardId2": [
+   2300200
+  ],
+  "RewardItem": [],
+  "RewardNum": []
+ },
+ {
+  "Id": 100208,
+  "DifficultyId": 2,
+  "LevelId": 8,
+  "RewardId1": [
+   2300215,
+   2300216
+  ],
+  "GearRewardNum": 0,
+  "RewardId2": [],
+  "RewardItem": [],
+  "RewardNum": []
+ },
+ {
+  "Id": 100209,
+  "DifficultyId": 2,
+  "LevelId": 9,
+  "RewardId1": [
+   2300217,
+   2300218
+  ],
+  "GearRewardNum": 0,
+  "RewardId2": [],
+  "RewardItem": [],
+  "RewardNum": []
+ },
+ {
+  "Id": 100210,
+  "DifficultyId": 2,
+  "LevelId": 10,
+  "RewardId1": [
+   2300219,
+   2300220
+  ],
+  "GearRewardNum": 3,
+  "RewardId2": [
+   2300200
+  ],
+  "RewardItem": [],
+  "RewardNum": []
+ },
+ {
+  "Id": 100301,
+  "DifficultyId": 3,
+  "LevelId": 1,
+  "RewardId1": [
+   2300301,
+   2300302
+  ],
+  "GearRewardNum": 0,
+  "RewardId2": [],
+  "RewardItem": [],
+  "RewardNum": []
+ },
+ {
+  "Id": 100302,
+  "DifficultyId": 3,
+  "LevelId": 2,
+  "RewardId1": [
+   2300303,
+   2300304
+  ],
+  "GearRewardNum": 0,
+  "RewardId2": [],
+  "RewardItem": [],
+  "RewardNum": []
+ },
+ {
+  "Id": 100303,
+  "DifficultyId": 3,
+  "LevelId": 3,
+  "RewardId1": [
+   2300305,
+   2300306
+  ],
+  "GearRewardNum": 1,
+  "RewardId2": [
+   2300300
+  ],
+  "RewardItem": [],
+  "RewardNum": []
+ },
+ {
+  "Id": 100304,
+  "DifficultyId": 3,
+  "LevelId": 4,
+  "RewardId1": [
+   2300307,
+   2300308
+  ],
+  "GearRewardNum": 0,
+  "RewardId2": [],
+  "RewardItem": [],
+  "RewardNum": []
+ },
+ {
+  "Id": 100305,
+  "DifficultyId": 3,
+  "LevelId": 5,
+  "RewardId1": [
+   2300309,
+   2300310
+  ],
+  "GearRewardNum": 0,
+  "RewardId2": [],
+  "RewardItem": [],
+  "RewardNum": []
+ },
+ {
+  "Id": 100306,
+  "DifficultyId": 3,
+  "LevelId": 6,
+  "RewardId1": [
+   2300311,
+   2300312
+  ],
+  "GearRewardNum": 0,
+  "RewardId2": [],
+  "RewardItem": [],
+  "RewardNum": []
+ },
+ {
+  "Id": 100307,
+  "DifficultyId": 3,
+  "LevelId": 7,
+  "RewardId1": [
+   2300313,
+   2300314
+  ],
+  "GearRewardNum": 2,
+  "RewardId2": [
+   2300300
+  ],
+  "RewardItem": [],
+  "RewardNum": []
+ },
+ {
+  "Id": 100308,
+  "DifficultyId": 3,
+  "LevelId": 8,
+  "RewardId1": [
+   2300315,
+   2300316
+  ],
+  "GearRewardNum": 0,
+  "RewardId2": [],
+  "RewardItem": [],
+  "RewardNum": []
+ },
+ {
+  "Id": 100309,
+  "DifficultyId": 3,
+  "LevelId": 9,
+  "RewardId1": [
+   2300317,
+   2300318
+  ],
+  "GearRewardNum": 0,
+  "RewardId2": [],
+  "RewardItem": [],
+  "RewardNum": []
+ },
+ {
+  "Id": 100310,
+  "DifficultyId": 3,
+  "LevelId": 10,
+  "RewardId1": [
+   2300319,
+   2300320
+  ],
+  "GearRewardNum": 3,
+  "RewardId2": [
+   2300300
+  ],
+  "RewardItem": [],
+  "RewardNum": []
+ },
+ {
+  "Id": 100401,
+  "DifficultyId": 4,
+  "LevelId": 1,
+  "RewardId1": [
+   2300401,
+   2300402
+  ],
+  "GearRewardNum": 0,
+  "RewardId2": [],
+  "RewardItem": [],
+  "RewardNum": []
+ },
+ {
+  "Id": 100402,
+  "DifficultyId": 4,
+  "LevelId": 2,
+  "RewardId1": [
+   2300403,
+   2300404
+  ],
+  "GearRewardNum": 0,
+  "RewardId2": [],
+  "RewardItem": [],
+  "RewardNum": []
+ },
+ {
+  "Id": 100403,
+  "DifficultyId": 4,
+  "LevelId": 3,
+  "RewardId1": [
+   2300405,
+   2300406
+  ],
+  "GearRewardNum": 1,
+  "RewardId2": [
+   2300400
+  ],
+  "RewardItem": [],
+  "RewardNum": []
+ },
+ {
+  "Id": 100404,
+  "DifficultyId": 4,
+  "LevelId": 4,
+  "RewardId1": [
+   2300407,
+   2300408
+  ],
+  "GearRewardNum": 0,
+  "RewardId2": [],
+  "RewardItem": [],
+  "RewardNum": []
+ },
+ {
+  "Id": 100405,
+  "DifficultyId": 4,
+  "LevelId": 5,
+  "RewardId1": [
+   2300409,
+   2300410
+  ],
+  "GearRewardNum": 0,
+  "RewardId2": [],
+  "RewardItem": [],
+  "RewardNum": []
+ },
+ {
+  "Id": 100406,
+  "DifficultyId": 4,
+  "LevelId": 6,
+  "RewardId1": [
+   2300411,
+   2300412
+  ],
+  "GearRewardNum": 0,
+  "RewardId2": [],
+  "RewardItem": [],
+  "RewardNum": []
+ },
+ {
+  "Id": 100407,
+  "DifficultyId": 4,
+  "LevelId": 7,
+  "RewardId1": [
+   2300413,
+   2300414
+  ],
+  "GearRewardNum": 2,
+  "RewardId2": [
+   2300400
+  ],
+  "RewardItem": [],
+  "RewardNum": []
+ },
+ {
+  "Id": 100408,
+  "DifficultyId": 4,
+  "LevelId": 8,
+  "RewardId1": [
+   2300415,
+   2300416
+  ],
+  "GearRewardNum": 0,
+  "RewardId2": [],
+  "RewardItem": [],
+  "RewardNum": []
+ },
+ {
+  "Id": 100409,
+  "DifficultyId": 4,
+  "LevelId": 9,
+  "RewardId1": [
+   2300417,
+   2300418
+  ],
+  "GearRewardNum": 0,
+  "RewardId2": [],
+  "RewardItem": [],
+  "RewardNum": []
+ },
+ {
+  "Id": 100410,
+  "DifficultyId": 4,
+  "LevelId": 10,
+  "RewardId1": [
+   2300419,
+   2300420
+  ],
+  "GearRewardNum": 3,
+  "RewardId2": [
+   2300400
+  ],
+  "RewardItem": [],
+  "RewardNum": []
+ },
+ {
+  "Id": 100501,
+  "DifficultyId": 5,
+  "LevelId": 1,
+  "RewardId1": [
+   2300501,
+   2300502
+  ],
+  "GearRewardNum": 0,
+  "RewardId2": [],
+  "RewardItem": [],
+  "RewardNum": []
+ },
+ {
+  "Id": 100502,
+  "DifficultyId": 5,
+  "LevelId": 2,
+  "RewardId1": [
+   2300503,
+   2300504
+  ],
+  "GearRewardNum": 0,
+  "RewardId2": [],
+  "RewardItem": [],
+  "RewardNum": []
+ },
+ {
+  "Id": 100503,
+  "DifficultyId": 5,
+  "LevelId": 3,
+  "RewardId1": [
+   2300505,
+   2300506
+  ],
+  "GearRewardNum": 1,
+  "RewardId2": [
+   2300500
+  ],
+  "RewardItem": [],
+  "RewardNum": []
+ },
+ {
+  "Id": 100504,
+  "DifficultyId": 5,
+  "LevelId": 4,
+  "RewardId1": [
+   2300507,
+   2300508
+  ],
+  "GearRewardNum": 0,
+  "RewardId2": [],
+  "RewardItem": [],
+  "RewardNum": []
+ },
+ {
+  "Id": 100505,
+  "DifficultyId": 5,
+  "LevelId": 5,
+  "RewardId1": [
+   2300509,
+   2300510
+  ],
+  "GearRewardNum": 0,
+  "RewardId2": [],
+  "RewardItem": [],
+  "RewardNum": []
+ },
+ {
+  "Id": 100506,
+  "DifficultyId": 5,
+  "LevelId": 6,
+  "RewardId1": [
+   2300511,
+   2300512
+  ],
+  "GearRewardNum": 0,
+  "RewardId2": [],
+  "RewardItem": [],
+  "RewardNum": []
+ },
+ {
+  "Id": 100507,
+  "DifficultyId": 5,
+  "LevelId": 7,
+  "RewardId1": [
+   2300513,
+   2300514
+  ],
+  "GearRewardNum": 2,
+  "RewardId2": [
+   2300500
+  ],
+  "RewardItem": [],
+  "RewardNum": []
+ },
+ {
+  "Id": 100508,
+  "DifficultyId": 5,
+  "LevelId": 8,
+  "RewardId1": [
+   2300515,
+   2300516
+  ],
+  "GearRewardNum": 0,
+  "RewardId2": [],
+  "RewardItem": [],
+  "RewardNum": []
+ },
+ {
+  "Id": 100509,
+  "DifficultyId": 5,
+  "LevelId": 9,
+  "RewardId1": [
+   2300517,
+   2300518
+  ],
+  "GearRewardNum": 0,
+  "RewardId2": [],
+  "RewardItem": [],
+  "RewardNum": []
+ },
+ {
+  "Id": 100510,
+  "DifficultyId": 5,
+  "LevelId": 10,
+  "RewardId1": [
+   2300519,
+   2300520
+  ],
+  "GearRewardNum": 3,
+  "RewardId2": [
+   2300500
+  ],
+  "RewardItem": [],
+  "RewardNum": []
+ },
+ {
+  "Id": 100601,
+  "DifficultyId": 6,
+  "LevelId": 1,
+  "RewardId1": [
+   2300601,
+   2300602
+  ],
+  "GearRewardNum": 0,
+  "RewardId2": [],
+  "RewardItem": [],
+  "RewardNum": []
+ },
+ {
+  "Id": 100602,
+  "DifficultyId": 6,
+  "LevelId": 2,
+  "RewardId1": [
+   2300603,
+   2300604
+  ],
+  "GearRewardNum": 0,
+  "RewardId2": [],
+  "RewardItem": [],
+  "RewardNum": []
+ },
+ {
+  "Id": 100603,
+  "DifficultyId": 6,
+  "LevelId": 3,
+  "RewardId1": [
+   2300605,
+   2300606
+  ],
+  "GearRewardNum": 1,
+  "RewardId2": [
+   2300600
+  ],
+  "RewardItem": [],
+  "RewardNum": []
+ },
+ {
+  "Id": 100604,
+  "DifficultyId": 6,
+  "LevelId": 4,
+  "RewardId1": [
+   2300607,
+   2300608
+  ],
+  "GearRewardNum": 0,
+  "RewardId2": [],
+  "RewardItem": [],
+  "RewardNum": []
+ },
+ {
+  "Id": 100605,
+  "DifficultyId": 6,
+  "LevelId": 5,
+  "RewardId1": [
+   2300609,
+   2300610
+  ],
+  "GearRewardNum": 0,
+  "RewardId2": [],
+  "RewardItem": [],
+  "RewardNum": []
+ },
+ {
+  "Id": 100606,
+  "DifficultyId": 6,
+  "LevelId": 6,
+  "RewardId1": [
+   2300611,
+   2300612
+  ],
+  "GearRewardNum": 0,
+  "RewardId2": [],
+  "RewardItem": [],
+  "RewardNum": []
+ },
+ {
+  "Id": 100607,
+  "DifficultyId": 6,
+  "LevelId": 7,
+  "RewardId1": [
+   2300613,
+   2300614
+  ],
+  "GearRewardNum": 2,
+  "RewardId2": [
+   2300600
+  ],
+  "RewardItem": [],
+  "RewardNum": []
+ },
+ {
+  "Id": 100608,
+  "DifficultyId": 6,
+  "LevelId": 8,
+  "RewardId1": [
+   2300615,
+   2300616
+  ],
+  "GearRewardNum": 0,
+  "RewardId2": [],
+  "RewardItem": [],
+  "RewardNum": []
+ },
+ {
+  "Id": 100609,
+  "DifficultyId": 6,
+  "LevelId": 9,
+  "RewardId1": [
+   2300617,
+   2300618
+  ],
+  "GearRewardNum": 0,
+  "RewardId2": [],
+  "RewardItem": [],
+  "RewardNum": []
+ },
+ {
+  "Id": 100610,
+  "DifficultyId": 6,
+  "LevelId": 10,
+  "RewardId1": [
+   2300619,
+   2300620
+  ],
+  "GearRewardNum": 3,
+  "RewardId2": [
+   2300600
+  ],
+  "RewardItem": [],
+  "RewardNum": []
+ },
+ {
+  "Id": 100701,
+  "DifficultyId": 7,
+  "LevelId": 1,
+  "RewardId1": [
+   2300701,
+   2300702
+  ],
+  "GearRewardNum": 0,
+  "RewardId2": [],
+  "RewardItem": [],
+  "RewardNum": []
+ },
+ {
+  "Id": 100702,
+  "DifficultyId": 7,
+  "LevelId": 2,
+  "RewardId1": [
+   2300703,
+   2300704
+  ],
+  "GearRewardNum": 0,
+  "RewardId2": [],
+  "RewardItem": [],
+  "RewardNum": []
+ },
+ {
+  "Id": 100703,
+  "DifficultyId": 7,
+  "LevelId": 3,
+  "RewardId1": [
+   2300705,
+   2300706
+  ],
+  "GearRewardNum": 1,
+  "RewardId2": [
+   2300700
+  ],
+  "RewardItem": [],
+  "RewardNum": []
+ },
+ {
+  "Id": 100704,
+  "DifficultyId": 7,
+  "LevelId": 4,
+  "RewardId1": [
+   2300707,
+   2300708
+  ],
+  "GearRewardNum": 0,
+  "RewardId2": [],
+  "RewardItem": [],
+  "RewardNum": []
+ },
+ {
+  "Id": 100705,
+  "DifficultyId": 7,
+  "LevelId": 5,
+  "RewardId1": [
+   2300709,
+   2300710
+  ],
+  "GearRewardNum": 0,
+  "RewardId2": [],
+  "RewardItem": [],
+  "RewardNum": []
+ },
+ {
+  "Id": 100706,
+  "DifficultyId": 7,
+  "LevelId": 6,
+  "RewardId1": [
+   2300711,
+   2300712
+  ],
+  "GearRewardNum": 0,
+  "RewardId2": [],
+  "RewardItem": [],
+  "RewardNum": []
+ },
+ {
+  "Id": 100707,
+  "DifficultyId": 7,
+  "LevelId": 7,
+  "RewardId1": [
+   2300713,
+   2300714
+  ],
+  "GearRewardNum": 2,
+  "RewardId2": [
+   2300700
+  ],
+  "RewardItem": [],
+  "RewardNum": []
+ },
+ {
+  "Id": 100708,
+  "DifficultyId": 7,
+  "LevelId": 8,
+  "RewardId1": [
+   2300715,
+   2300716
+  ],
+  "GearRewardNum": 0,
+  "RewardId2": [],
+  "RewardItem": [],
+  "RewardNum": []
+ },
+ {
+  "Id": 100709,
+  "DifficultyId": 7,
+  "LevelId": 9,
+  "RewardId1": [
+   2300717,
+   2300718
+  ],
+  "GearRewardNum": 0,
+  "RewardId2": [],
+  "RewardItem": [],
+  "RewardNum": []
+ },
+ {
+  "Id": 100710,
+  "DifficultyId": 7,
+  "LevelId": 10,
+  "RewardId1": [
+   2300719,
+   2300720
+  ],
+  "GearRewardNum": 3,
+  "RewardId2": [
+   2300700
+  ],
+  "RewardItem": [],
+  "RewardNum": []
+ },
+ {
+  "Id": 100801,
+  "DifficultyId": 8,
+  "LevelId": 1,
+  "RewardId1": [
+   2300801,
+   2300802
+  ],
+  "GearRewardNum": 0,
+  "RewardId2": [],
+  "RewardItem": [],
+  "RewardNum": []
+ },
+ {
+  "Id": 100802,
+  "DifficultyId": 8,
+  "LevelId": 2,
+  "RewardId1": [
+   2300803,
+   2300804
+  ],
+  "GearRewardNum": 0,
+  "RewardId2": [],
+  "RewardItem": [],
+  "RewardNum": []
+ },
+ {
+  "Id": 100803,
+  "DifficultyId": 8,
+  "LevelId": 3,
+  "RewardId1": [
+   2300805,
+   2300806
+  ],
+  "GearRewardNum": 1,
+  "RewardId2": [
+   2300800
+  ],
+  "RewardItem": [],
+  "RewardNum": []
+ },
+ {
+  "Id": 100804,
+  "DifficultyId": 8,
+  "LevelId": 4,
+  "RewardId1": [
+   2300807,
+   2300808
+  ],
+  "GearRewardNum": 0,
+  "RewardId2": [],
+  "RewardItem": [],
+  "RewardNum": []
+ },
+ {
+  "Id": 100805,
+  "DifficultyId": 8,
+  "LevelId": 5,
+  "RewardId1": [
+   2300809,
+   2300810
+  ],
+  "GearRewardNum": 0,
+  "RewardId2": [],
+  "RewardItem": [],
+  "RewardNum": []
+ },
+ {
+  "Id": 100806,
+  "DifficultyId": 8,
+  "LevelId": 6,
+  "RewardId1": [
+   2300811,
+   2300812
+  ],
+  "GearRewardNum": 0,
+  "RewardId2": [],
+  "RewardItem": [],
+  "RewardNum": []
+ },
+ {
+  "Id": 100807,
+  "DifficultyId": 8,
+  "LevelId": 7,
+  "RewardId1": [
+   2300813,
+   2300814
+  ],
+  "GearRewardNum": 2,
+  "RewardId2": [
+   2300800
+  ],
+  "RewardItem": [],
+  "RewardNum": []
+ },
+ {
+  "Id": 100808,
+  "DifficultyId": 8,
+  "LevelId": 8,
+  "RewardId1": [
+   2300815,
+   2300816
+  ],
+  "GearRewardNum": 0,
+  "RewardId2": [],
+  "RewardItem": [],
+  "RewardNum": []
+ },
+ {
+  "Id": 100809,
+  "DifficultyId": 8,
+  "LevelId": 9,
+  "RewardId1": [
+   2300817,
+   2300818
+  ],
+  "GearRewardNum": 0,
+  "RewardId2": [],
+  "RewardItem": [],
+  "RewardNum": []
+ },
+ {
+  "Id": 100810,
+  "DifficultyId": 8,
+  "LevelId": 10,
+  "RewardId1": [
+   2300819,
+   2300820
+  ],
+  "GearRewardNum": 3,
+  "RewardId2": [
+   2300800
+  ],
+  "RewardItem": [],
+  "RewardNum": []
+ },
+ {
+  "Id": 100901,
+  "DifficultyId": 9,
+  "LevelId": 1,
+  "RewardId1": [
+   2300901,
+   2300902
+  ],
+  "GearRewardNum": 0,
+  "RewardId2": [],
+  "RewardItem": [],
+  "RewardNum": []
+ },
+ {
+  "Id": 100902,
+  "DifficultyId": 9,
+  "LevelId": 2,
+  "RewardId1": [
+   2300903,
+   2300904
+  ],
+  "GearRewardNum": 0,
+  "RewardId2": [],
+  "RewardItem": [],
+  "RewardNum": []
+ },
+ {
+  "Id": 100903,
+  "DifficultyId": 9,
+  "LevelId": 3,
+  "RewardId1": [
+   2300905,
+   2300906
+  ],
+  "GearRewardNum": 1,
+  "RewardId2": [
+   2300900
+  ],
+  "RewardItem": [],
+  "RewardNum": []
+ },
+ {
+  "Id": 100904,
+  "DifficultyId": 9,
+  "LevelId": 4,
+  "RewardId1": [
+   2300907,
+   2300908
+  ],
+  "GearRewardNum": 0,
+  "RewardId2": [],
+  "RewardItem": [],
+  "RewardNum": []
+ },
+ {
+  "Id": 100905,
+  "DifficultyId": 9,
+  "LevelId": 5,
+  "RewardId1": [
+   2300909,
+   2300910
+  ],
+  "GearRewardNum": 0,
+  "RewardId2": [],
+  "RewardItem": [],
+  "RewardNum": []
+ },
+ {
+  "Id": 100906,
+  "DifficultyId": 9,
+  "LevelId": 6,
+  "RewardId1": [
+   2300911,
+   2300912
+  ],
+  "GearRewardNum": 0,
+  "RewardId2": [],
+  "RewardItem": [],
+  "RewardNum": []
+ },
+ {
+  "Id": 100907,
+  "DifficultyId": 9,
+  "LevelId": 7,
+  "RewardId1": [
+   2300913,
+   2300914
+  ],
+  "GearRewardNum": 2,
+  "RewardId2": [
+   2300900
+  ],
+  "RewardItem": [],
+  "RewardNum": []
+ },
+ {
+  "Id": 100908,
+  "DifficultyId": 9,
+  "LevelId": 8,
+  "RewardId1": [
+   2300915,
+   2300916
+  ],
+  "GearRewardNum": 0,
+  "RewardId2": [],
+  "RewardItem": [],
+  "RewardNum": []
+ },
+ {
+  "Id": 100909,
+  "DifficultyId": 9,
+  "LevelId": 9,
+  "RewardId1": [
+   2300917,
+   2300918
+  ],
+  "GearRewardNum": 0,
+  "RewardId2": [],
+  "RewardItem": [],
+  "RewardNum": []
+ },
+ {
+  "Id": 100910,
+  "DifficultyId": 9,
+  "LevelId": 10,
+  "RewardId1": [
+   2300919,
+   2300920
+  ],
+  "GearRewardNum": 3,
+  "RewardId2": [
+   2300900
+  ],
+  "RewardItem": [],
+  "RewardNum": []
+ },
+ {
+  "Id": 101001,
+  "DifficultyId": 10,
+  "LevelId": 1,
+  "RewardId1": [
+   2301001,
+   2301002
+  ],
+  "GearRewardNum": 0,
+  "RewardId2": [],
+  "RewardItem": [],
+  "RewardNum": []
+ },
+ {
+  "Id": 101002,
+  "DifficultyId": 10,
+  "LevelId": 2,
+  "RewardId1": [
+   2301003,
+   2301004
+  ],
+  "GearRewardNum": 0,
+  "RewardId2": [],
+  "RewardItem": [],
+  "RewardNum": []
+ },
+ {
+  "Id": 101003,
+  "DifficultyId": 10,
+  "LevelId": 3,
+  "RewardId1": [
+   2301005,
+   2301006
+  ],
+  "GearRewardNum": 1,
+  "RewardId2": [
+   2301000
+  ],
+  "RewardItem": [],
+  "RewardNum": []
+ },
+ {
+  "Id": 101004,
+  "DifficultyId": 10,
+  "LevelId": 4,
+  "RewardId1": [
+   2301007,
+   2301008
+  ],
+  "GearRewardNum": 0,
+  "RewardId2": [],
+  "RewardItem": [],
+  "RewardNum": []
+ },
+ {
+  "Id": 101005,
+  "DifficultyId": 10,
+  "LevelId": 5,
+  "RewardId1": [
+   2301009,
+   2301010
+  ],
+  "GearRewardNum": 0,
+  "RewardId2": [],
+  "RewardItem": [],
+  "RewardNum": []
+ },
+ {
+  "Id": 101006,
+  "DifficultyId": 10,
+  "LevelId": 6,
+  "RewardId1": [
+   2301011,
+   2301012
+  ],
+  "GearRewardNum": 0,
+  "RewardId2": [],
+  "RewardItem": [],
+  "RewardNum": []
+ },
+ {
+  "Id": 101007,
+  "DifficultyId": 10,
+  "LevelId": 7,
+  "RewardId1": [
+   2301013,
+   2301014
+  ],
+  "GearRewardNum": 2,
+  "RewardId2": [
+   2301000
+  ],
+  "RewardItem": [],
+  "RewardNum": []
+ },
+ {
+  "Id": 101008,
+  "DifficultyId": 10,
+  "LevelId": 8,
+  "RewardId1": [
+   2301015,
+   2301016
+  ],
+  "GearRewardNum": 0,
+  "RewardId2": [],
+  "RewardItem": [],
+  "RewardNum": []
+ },
+ {
+  "Id": 101009,
+  "DifficultyId": 10,
+  "LevelId": 9,
+  "RewardId1": [
+   2301017,
+   2301018
+  ],
+  "GearRewardNum": 0,
+  "RewardId2": [],
+  "RewardItem": [],
+  "RewardNum": []
+ },
+ {
+  "Id": 101010,
+  "DifficultyId": 10,
+  "LevelId": 10,
+  "RewardId1": [
+   2301019,
+   2301020
+  ],
+  "GearRewardNum": 3,
+  "RewardId2": [
+   2301000
+  ],
+  "RewardItem": [],
+  "RewardNum": []
+ },
+ {
+  "Id": 101101,
+  "DifficultyId": 11,
+  "LevelId": 1,
+  "RewardId1": [
+   2301101,
+   2301102
+  ],
+  "GearRewardNum": 0,
+  "RewardId2": [],
+  "RewardItem": [],
+  "RewardNum": []
+ },
+ {
+  "Id": 101102,
+  "DifficultyId": 11,
+  "LevelId": 2,
+  "RewardId1": [
+   2301103,
+   2301104
+  ],
+  "GearRewardNum": 0,
+  "RewardId2": [],
+  "RewardItem": [],
+  "RewardNum": []
+ },
+ {
+  "Id": 101103,
+  "DifficultyId": 11,
+  "LevelId": 3,
+  "RewardId1": [
+   2301105,
+   2301106
+  ],
+  "GearRewardNum": 1,
+  "RewardId2": [
+   2301100
+  ],
+  "RewardItem": [],
+  "RewardNum": []
+ },
+ {
+  "Id": 101104,
+  "DifficultyId": 11,
+  "LevelId": 4,
+  "RewardId1": [
+   2301107,
+   2301108
+  ],
+  "GearRewardNum": 0,
+  "RewardId2": [],
+  "RewardItem": [],
+  "RewardNum": []
+ },
+ {
+  "Id": 101105,
+  "DifficultyId": 11,
+  "LevelId": 5,
+  "RewardId1": [
+   2301109,
+   2301110
+  ],
+  "GearRewardNum": 0,
+  "RewardId2": [],
+  "RewardItem": [],
+  "RewardNum": []
+ },
+ {
+  "Id": 101106,
+  "DifficultyId": 11,
+  "LevelId": 6,
+  "RewardId1": [
+   2301111,
+   2301112
+  ],
+  "GearRewardNum": 0,
+  "RewardId2": [],
+  "RewardItem": [],
+  "RewardNum": []
+ },
+ {
+  "Id": 101107,
+  "DifficultyId": 11,
+  "LevelId": 7,
+  "RewardId1": [
+   2301113,
+   2301114
+  ],
+  "GearRewardNum": 2,
+  "RewardId2": [
+   2301100
+  ],
+  "RewardItem": [],
+  "RewardNum": []
+ },
+ {
+  "Id": 101108,
+  "DifficultyId": 11,
+  "LevelId": 8,
+  "RewardId1": [
+   2301115,
+   2301116
+  ],
+  "GearRewardNum": 0,
+  "RewardId2": [],
+  "RewardItem": [],
+  "RewardNum": []
+ },
+ {
+  "Id": 101109,
+  "DifficultyId": 11,
+  "LevelId": 9,
+  "RewardId1": [
+   2301117,
+   2301118
+  ],
+  "GearRewardNum": 0,
+  "RewardId2": [],
+  "RewardItem": [],
+  "RewardNum": []
+ },
+ {
+  "Id": 101110,
+  "DifficultyId": 11,
+  "LevelId": 10,
+  "RewardId1": [
+   2301119,
+   2301120
+  ],
+  "GearRewardNum": 3,
+  "RewardId2": [
+   2301100
+  ],
+  "RewardItem": [],
+  "RewardNum": []
+ },
+ {
+  "Id": 101201,
+  "DifficultyId": 12,
+  "LevelId": 1,
+  "RewardId1": [
+   2301201,
+   2301202
+  ],
+  "GearRewardNum": 0,
+  "RewardId2": [],
+  "RewardItem": [],
+  "RewardNum": []
+ },
+ {
+  "Id": 101202,
+  "DifficultyId": 12,
+  "LevelId": 2,
+  "RewardId1": [
+   2301203,
+   2301204
+  ],
+  "GearRewardNum": 0,
+  "RewardId2": [],
+  "RewardItem": [],
+  "RewardNum": []
+ },
+ {
+  "Id": 101203,
+  "DifficultyId": 12,
+  "LevelId": 3,
+  "RewardId1": [
+   2301205,
+   2301206
+  ],
+  "GearRewardNum": 1,
+  "RewardId2": [
+   2301200
+  ],
+  "RewardItem": [],
+  "RewardNum": []
+ },
+ {
+  "Id": 101204,
+  "DifficultyId": 12,
+  "LevelId": 4,
+  "RewardId1": [
+   2301207,
+   2301208
+  ],
+  "GearRewardNum": 0,
+  "RewardId2": [],
+  "RewardItem": [],
+  "RewardNum": []
+ },
+ {
+  "Id": 101205,
+  "DifficultyId": 12,
+  "LevelId": 5,
+  "RewardId1": [
+   2301209,
+   2301210
+  ],
+  "GearRewardNum": 0,
+  "RewardId2": [],
+  "RewardItem": [],
+  "RewardNum": []
+ },
+ {
+  "Id": 101206,
+  "DifficultyId": 12,
+  "LevelId": 6,
+  "RewardId1": [
+   2301211,
+   2301212
+  ],
+  "GearRewardNum": 0,
+  "RewardId2": [],
+  "RewardItem": [],
+  "RewardNum": []
+ },
+ {
+  "Id": 101207,
+  "DifficultyId": 12,
+  "LevelId": 7,
+  "RewardId1": [
+   2301213,
+   2301214
+  ],
+  "GearRewardNum": 2,
+  "RewardId2": [
+   2301200
+  ],
+  "RewardItem": [],
+  "RewardNum": []
+ },
+ {
+  "Id": 101208,
+  "DifficultyId": 12,
+  "LevelId": 8,
+  "RewardId1": [
+   2301215,
+   2301216
+  ],
+  "GearRewardNum": 0,
+  "RewardId2": [],
+  "RewardItem": [],
+  "RewardNum": []
+ },
+ {
+  "Id": 101209,
+  "DifficultyId": 12,
+  "LevelId": 9,
+  "RewardId1": [
+   2301217,
+   2301218
+  ],
+  "GearRewardNum": 0,
+  "RewardId2": [],
+  "RewardItem": [],
+  "RewardNum": []
+ },
+ {
+  "Id": 101210,
+  "DifficultyId": 12,
+  "LevelId": 10,
+  "RewardId1": [
+   2301219,
+   2301220
+  ],
+  "GearRewardNum": 3,
+  "RewardId2": [
+   2301200
+  ],
+  "RewardItem": [],
+  "RewardNum": []
+ },
+ {
+  "Id": 101301,
+  "DifficultyId": 13,
+  "LevelId": 1,
+  "RewardId1": [
+   2301301,
+   2301302
+  ],
+  "GearRewardNum": 0,
+  "RewardId2": [],
+  "RewardItem": [],
+  "RewardNum": []
+ },
+ {
+  "Id": 101302,
+  "DifficultyId": 13,
+  "LevelId": 2,
+  "RewardId1": [
+   2301303,
+   2301304
+  ],
+  "GearRewardNum": 0,
+  "RewardId2": [],
+  "RewardItem": [],
+  "RewardNum": []
+ },
+ {
+  "Id": 101303,
+  "DifficultyId": 13,
+  "LevelId": 3,
+  "RewardId1": [
+   2301305,
+   2301306
+  ],
+  "GearRewardNum": 1,
+  "RewardId2": [
+   2301300
+  ],
+  "RewardItem": [],
+  "RewardNum": []
+ },
+ {
+  "Id": 101304,
+  "DifficultyId": 13,
+  "LevelId": 4,
+  "RewardId1": [
+   2301307,
+   2301308
+  ],
+  "GearRewardNum": 0,
+  "RewardId2": [],
+  "RewardItem": [],
+  "RewardNum": []
+ },
+ {
+  "Id": 101305,
+  "DifficultyId": 13,
+  "LevelId": 5,
+  "RewardId1": [
+   2301309,
+   2301310
+  ],
+  "GearRewardNum": 0,
+  "RewardId2": [],
+  "RewardItem": [],
+  "RewardNum": []
+ },
+ {
+  "Id": 101306,
+  "DifficultyId": 13,
+  "LevelId": 6,
+  "RewardId1": [
+   2301311,
+   2301312
+  ],
+  "GearRewardNum": 0,
+  "RewardId2": [],
+  "RewardItem": [],
+  "RewardNum": []
+ },
+ {
+  "Id": 101307,
+  "DifficultyId": 13,
+  "LevelId": 7,
+  "RewardId1": [
+   2301313,
+   2301314
+  ],
+  "GearRewardNum": 2,
+  "RewardId2": [
+   2301300
+  ],
+  "RewardItem": [],
+  "RewardNum": []
+ },
+ {
+  "Id": 101308,
+  "DifficultyId": 13,
+  "LevelId": 8,
+  "RewardId1": [
+   2301315,
+   2301316
+  ],
+  "GearRewardNum": 0,
+  "RewardId2": [],
+  "RewardItem": [],
+  "RewardNum": []
+ },
+ {
+  "Id": 101309,
+  "DifficultyId": 13,
+  "LevelId": 9,
+  "RewardId1": [
+   2301317,
+   2301318
+  ],
+  "GearRewardNum": 0,
+  "RewardId2": [],
+  "RewardItem": [],
+  "RewardNum": []
+ },
+ {
+  "Id": 101310,
+  "DifficultyId": 13,
+  "LevelId": 10,
+  "RewardId1": [
+   2301319,
+   2301320
+  ],
+  "GearRewardNum": 3,
+  "RewardId2": [
+   2301300
+  ],
+  "RewardItem": [],
+  "RewardNum": []
+ },
+ {
+  "Id": 101401,
+  "DifficultyId": 14,
+  "LevelId": 1,
+  "RewardId1": [
+   2301401,
+   2301402
+  ],
+  "GearRewardNum": 0,
+  "RewardId2": [],
+  "RewardItem": [],
+  "RewardNum": []
+ },
+ {
+  "Id": 101402,
+  "DifficultyId": 14,
+  "LevelId": 2,
+  "RewardId1": [
+   2301403,
+   2301404
+  ],
+  "GearRewardNum": 0,
+  "RewardId2": [],
+  "RewardItem": [],
+  "RewardNum": []
+ },
+ {
+  "Id": 101403,
+  "DifficultyId": 14,
+  "LevelId": 3,
+  "RewardId1": [
+   2301405,
+   2301406
+  ],
+  "GearRewardNum": 1,
+  "RewardId2": [
+   2301400
+  ],
+  "RewardItem": [],
+  "RewardNum": []
+ },
+ {
+  "Id": 101404,
+  "DifficultyId": 14,
+  "LevelId": 4,
+  "RewardId1": [
+   2301407,
+   2301408
+  ],
+  "GearRewardNum": 0,
+  "RewardId2": [],
+  "RewardItem": [],
+  "RewardNum": []
+ },
+ {
+  "Id": 101405,
+  "DifficultyId": 14,
+  "LevelId": 5,
+  "RewardId1": [
+   2301409,
+   2301410
+  ],
+  "GearRewardNum": 0,
+  "RewardId2": [],
+  "RewardItem": [],
+  "RewardNum": []
+ },
+ {
+  "Id": 101406,
+  "DifficultyId": 14,
+  "LevelId": 6,
+  "RewardId1": [
+   2301411,
+   2301412
+  ],
+  "GearRewardNum": 0,
+  "RewardId2": [],
+  "RewardItem": [],
+  "RewardNum": []
+ },
+ {
+  "Id": 101407,
+  "DifficultyId": 14,
+  "LevelId": 7,
+  "RewardId1": [
+   2301413,
+   2301414
+  ],
+  "GearRewardNum": 2,
+  "RewardId2": [
+   2301400
+  ],
+  "RewardItem": [],
+  "RewardNum": []
+ },
+ {
+  "Id": 101408,
+  "DifficultyId": 14,
+  "LevelId": 8,
+  "RewardId1": [
+   2301415,
+   2301416
+  ],
+  "GearRewardNum": 0,
+  "RewardId2": [],
+  "RewardItem": [],
+  "RewardNum": []
+ },
+ {
+  "Id": 101409,
+  "DifficultyId": 14,
+  "LevelId": 9,
+  "RewardId1": [
+   2301417,
+   2301418
+  ],
+  "GearRewardNum": 0,
+  "RewardId2": [],
+  "RewardItem": [],
+  "RewardNum": []
+ },
+ {
+  "Id": 101410,
+  "DifficultyId": 14,
+  "LevelId": 10,
+  "RewardId1": [
+   2301419,
+   2301420
+  ],
+  "GearRewardNum": 3,
+  "RewardId2": [
+   2301400
+  ],
+  "RewardItem": [],
+  "RewardNum": []
+ },
+ {
+  "Id": 101501,
+  "DifficultyId": 15,
+  "LevelId": 1,
+  "RewardId1": [
+   2301501,
+   2301502
+  ],
+  "GearRewardNum": 0,
+  "RewardId2": [],
+  "RewardItem": [],
+  "RewardNum": []
+ },
+ {
+  "Id": 101502,
+  "DifficultyId": 15,
+  "LevelId": 2,
+  "RewardId1": [
+   2301503,
+   2301504
+  ],
+  "GearRewardNum": 0,
+  "RewardId2": [],
+  "RewardItem": [],
+  "RewardNum": []
+ },
+ {
+  "Id": 101503,
+  "DifficultyId": 15,
+  "LevelId": 3,
+  "RewardId1": [
+   2301505,
+   2301506
+  ],
+  "GearRewardNum": 1,
+  "RewardId2": [
+   2301500
+  ],
+  "RewardItem": [],
+  "RewardNum": []
+ },
+ {
+  "Id": 101504,
+  "DifficultyId": 15,
+  "LevelId": 4,
+  "RewardId1": [
+   2301507,
+   2301508
+  ],
+  "GearRewardNum": 0,
+  "RewardId2": [],
+  "RewardItem": [],
+  "RewardNum": []
+ },
+ {
+  "Id": 101505,
+  "DifficultyId": 15,
+  "LevelId": 5,
+  "RewardId1": [
+   2301509,
+   2301510
+  ],
+  "GearRewardNum": 0,
+  "RewardId2": [],
+  "RewardItem": [],
+  "RewardNum": []
+ },
+ {
+  "Id": 101506,
+  "DifficultyId": 15,
+  "LevelId": 6,
+  "RewardId1": [
+   2301511,
+   2301512
+  ],
+  "GearRewardNum": 0,
+  "RewardId2": [],
+  "RewardItem": [],
+  "RewardNum": []
+ },
+ {
+  "Id": 101507,
+  "DifficultyId": 15,
+  "LevelId": 7,
+  "RewardId1": [
+   2301513,
+   2301514
+  ],
+  "GearRewardNum": 2,
+  "RewardId2": [
+   2301500
+  ],
+  "RewardItem": [],
+  "RewardNum": []
+ },
+ {
+  "Id": 101508,
+  "DifficultyId": 15,
+  "LevelId": 8,
+  "RewardId1": [
+   2301515,
+   2301516
+  ],
+  "GearRewardNum": 0,
+  "RewardId2": [],
+  "RewardItem": [],
+  "RewardNum": []
+ },
+ {
+  "Id": 101509,
+  "DifficultyId": 15,
+  "LevelId": 9,
+  "RewardId1": [
+   2301517,
+   2301518
+  ],
+  "GearRewardNum": 0,
+  "RewardId2": [],
+  "RewardItem": [],
+  "RewardNum": []
+ },
+ {
+  "Id": 101510,
+  "DifficultyId": 15,
+  "LevelId": 10,
+  "RewardId1": [
+   2301519,
+   2301520
+  ],
+  "GearRewardNum": 3,
+  "RewardId2": [
+   2301500
+  ],
+  "RewardItem": [],
+  "RewardNum": []
+ },
+ {
+  "Id": 101601,
+  "DifficultyId": 16,
+  "LevelId": 1,
+  "RewardId1": [
+   2301601,
+   2301602
+  ],
+  "GearRewardNum": 0,
+  "RewardId2": [],
+  "RewardItem": [],
+  "RewardNum": []
+ },
+ {
+  "Id": 101602,
+  "DifficultyId": 16,
+  "LevelId": 2,
+  "RewardId1": [
+   2301603,
+   2301604
+  ],
+  "GearRewardNum": 0,
+  "RewardId2": [],
+  "RewardItem": [],
+  "RewardNum": []
+ },
+ {
+  "Id": 101603,
+  "DifficultyId": 16,
+  "LevelId": 3,
+  "RewardId1": [
+   2301605,
+   2301606
+  ],
+  "GearRewardNum": 1,
+  "RewardId2": [
+   2301600
+  ],
+  "RewardItem": [],
+  "RewardNum": []
+ },
+ {
+  "Id": 101604,
+  "DifficultyId": 16,
+  "LevelId": 4,
+  "RewardId1": [
+   2301607,
+   2301608
+  ],
+  "GearRewardNum": 0,
+  "RewardId2": [],
+  "RewardItem": [],
+  "RewardNum": []
+ },
+ {
+  "Id": 101605,
+  "DifficultyId": 16,
+  "LevelId": 5,
+  "RewardId1": [
+   2301609,
+   2301610
+  ],
+  "GearRewardNum": 0,
+  "RewardId2": [],
+  "RewardItem": [],
+  "RewardNum": []
+ },
+ {
+  "Id": 101606,
+  "DifficultyId": 16,
+  "LevelId": 6,
+  "RewardId1": [
+   2301611,
+   2301612
+  ],
+  "GearRewardNum": 0,
+  "RewardId2": [],
+  "RewardItem": [],
+  "RewardNum": []
+ },
+ {
+  "Id": 101607,
+  "DifficultyId": 16,
+  "LevelId": 7,
+  "RewardId1": [
+   2301613,
+   2301614
+  ],
+  "GearRewardNum": 2,
+  "RewardId2": [
+   2301600
+  ],
+  "RewardItem": [],
+  "RewardNum": []
+ },
+ {
+  "Id": 101608,
+  "DifficultyId": 16,
+  "LevelId": 8,
+  "RewardId1": [
+   2301615,
+   2301616
+  ],
+  "GearRewardNum": 0,
+  "RewardId2": [],
+  "RewardItem": [],
+  "RewardNum": []
+ },
+ {
+  "Id": 101609,
+  "DifficultyId": 16,
+  "LevelId": 9,
+  "RewardId1": [
+   2301617,
+   2301618
+  ],
+  "GearRewardNum": 0,
+  "RewardId2": [],
+  "RewardItem": [],
+  "RewardNum": []
+ },
+ {
+  "Id": 101610,
+  "DifficultyId": 16,
+  "LevelId": 10,
+  "RewardId1": [
+   2301619,
+   2301620
+  ],
+  "GearRewardNum": 3,
+  "RewardId2": [
+   2301600
+  ],
+  "RewardItem": [],
+  "RewardNum": []
+ }
+]

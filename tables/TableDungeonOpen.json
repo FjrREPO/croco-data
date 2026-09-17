@@ -1,0 +1,74 @@
+[
+ {
+  "ID": 1001,
+  "Days": 1,
+  "Weeks": 0,
+  "Types": [
+   1
+  ]
+ },
+ {
+  "ID": 1002,
+  "Days": 2,
+  "Weeks": 0,
+  "Types": [
+   1
+  ]
+ },
+ {
+  "ID": 1003,
+  "Days": 3,
+  "Weeks": 0,
+  "Types": [
+   1
+  ]
+ },
+ {
+  "ID": 1004,
+  "Days": 4,
+  "Weeks": 0,
+  "Types": [
+   2
+  ]
+ },
+ {
+  "ID": 1005,
+  "Days": 5,
+  "Weeks": 0,
+  "Types": [
+   1
+  ]
+ },
+ {
+  "ID": 1006,
+  "Days": 6,
+  "Weeks": 0,
+  "Types": [
+   2
+  ]
+ },
+ {
+  "ID": 1007,
+  "Days": 7,
+  "Weeks": 0,
+  "Types": [
+   1
+  ]
+ },
+ {
+  "ID": 2001,
+  "Days": 0,
+  "Weeks": 1,
+  "Types": [
+   2
+  ]
+ },
+ {
+  "ID": 2002,
+  "Days": 0,
+  "Weeks": 2,
+  "Types": [
+   1
+  ]
+ }
+]

@@ -1,0 +1,272 @@
+[
+ {
+  "Gashaponid": 1,
+  "Group": 1,
+  "Reward": [
+   1501008
+  ],
+  "Mustgain": 1,
+  "Quality": 4
+ },
+ {
+  "Gashaponid": 2,
+  "Group": 1,
+  "Reward": [
+   1501001
+  ],
+  "Mustgain": 1,
+  "Quality": 4
+ },
+ {
+  "Gashaponid": 3,
+  "Group": 1,
+  "Reward": [
+   1501002
+  ],
+  "Mustgain": 0,
+  "Quality": 3
+ },
+ {
+  "Gashaponid": 4,
+  "Group": 1,
+  "Reward": [
+   1501009
+  ],
+  "Mustgain": 0,
+  "Quality": 3
+ },
+ {
+  "Gashaponid": 5,
+  "Group": 1,
+  "Reward": [
+   1501003
+  ],
+  "Mustgain": 0,
+  "Quality": 3
+ },
+ {
+  "Gashaponid": 6,
+  "Group": 1,
+  "Reward": [
+   1501011
+  ],
+  "Mustgain": 0,
+  "Quality": 3
+ },
+ {
+  "Gashaponid": 7,
+  "Group": 1,
+  "Reward": [
+   1501004
+  ],
+  "Mustgain": 0,
+  "Quality": 2
+ },
+ {
+  "Gashaponid": 8,
+  "Group": 1,
+  "Reward": [
+   1501005
+  ],
+  "Mustgain": 0,
+  "Quality": 2
+ },
+ {
+  "Gashaponid": 9,
+  "Group": 1,
+  "Reward": [
+   1501006
+  ],
+  "Mustgain": 0,
+  "Quality": 2
+ },
+ {
+  "Gashaponid": 10,
+  "Group": 1,
+  "Reward": [
+   1501007
+  ],
+  "Mustgain": 0,
+  "Quality": 2
+ },
+ {
+  "Gashaponid": 11,
+  "Group": 1,
+  "Reward": [
+   1501010
+  ],
+  "Mustgain": 0,
+  "Quality": 1
+ },
+ {
+  "Gashaponid": 12,
+  "Group": 1,
+  "Reward": [
+   1501012
+  ],
+  "Mustgain": 0,
+  "Quality": 1
+ },
+ {
+  "Gashaponid": 13,
+  "Group": 1,
+  "Reward": [
+   1501013
+  ],
+  "Mustgain": 0,
+  "Quality": 1
+ },
+ {
+  "Gashaponid": 14,
+  "Group": 1,
+  "Reward": [
+   1501014
+  ],
+  "Mustgain": 0,
+  "Quality": 1
+ },
+ {
+  "Gashaponid": 15,
+  "Group": 1,
+  "Reward": [
+   1501015
+  ],
+  "Mustgain": 0,
+  "Quality": 1
+ },
+ {
+  "Gashaponid": 16,
+  "Group": 2,
+  "Reward": [
+   1501008
+  ],
+  "Mustgain": 1,
+  "Quality": 4
+ },
+ {
+  "Gashaponid": 17,
+  "Group": 2,
+  "Reward": [
+   1501016
+  ],
+  "Mustgain": 1,
+  "Quality": 4
+ },
+ {
+  "Gashaponid": 18,
+  "Group": 2,
+  "Reward": [
+   1501002
+  ],
+  "Mustgain": 0,
+  "Quality": 3
+ },
+ {
+  "Gashaponid": 19,
+  "Group": 2,
+  "Reward": [
+   1501009
+  ],
+  "Mustgain": 0,
+  "Quality": 3
+ },
+ {
+  "Gashaponid": 20,
+  "Group": 2,
+  "Reward": [
+   1501003
+  ],
+  "Mustgain": 0,
+  "Quality": 3
+ },
+ {
+  "Gashaponid": 21,
+  "Group": 2,
+  "Reward": [
+   1501011
+  ],
+  "Mustgain": 0,
+  "Quality": 3
+ },
+ {
+  "Gashaponid": 22,
+  "Group": 2,
+  "Reward": [
+   1501004
+  ],
+  "Mustgain": 0,
+  "Quality": 2
+ },
+ {
+  "Gashaponid": 23,
+  "Group": 2,
+  "Reward": [
+   1501005
+  ],
+  "Mustgain": 0,
+  "Quality": 2
+ },
+ {
+  "Gashaponid": 24,
+  "Group": 2,
+  "Reward": [
+   1501006
+  ],
+  "Mustgain": 0,
+  "Quality": 2
+ },
+ {
+  "Gashaponid": 25,
+  "Group": 2,
+  "Reward": [
+   1501007
+  ],
+  "Mustgain": 0,
+  "Quality": 2
+ },
+ {
+  "Gashaponid": 26,
+  "Group": 2,
+  "Reward": [
+   1501010
+  ],
+  "Mustgain": 0,
+  "Quality": 1
+ },
+ {
+  "Gashaponid": 27,
+  "Group": 2,
+  "Reward": [
+   1501012
+  ],
+  "Mustgain": 0,
+  "Quality": 1
+ },
+ {
+  "Gashaponid": 28,
+  "Group": 2,
+  "Reward": [
+   1501013
+  ],
+  "Mustgain": 0,
+  "Quality": 1
+ },
+ {
+  "Gashaponid": 29,
+  "Group": 2,
+  "Reward": [
+   1501014
+  ],
+  "Mustgain": 0,
+  "Quality": 1
+ },
+ {
+  "Gashaponid": 30,
+  "Group": 2,
+  "Reward": [
+   1501015
+  ],
+  "Mustgain": 0,
+  "Quality": 1
+ }
+]

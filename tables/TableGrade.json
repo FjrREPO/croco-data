@@ -1,0 +1,106 @@
+[
+ {
+  "GradeID": 1,
+  "ExpRequired": 0,
+  "Population": 1,
+  "AttrAdd": [
+   4,
+   0,
+   100,
+   0,
+   102,
+   0
+  ]
+ },
+ {
+  "GradeID": 2,
+  "ExpRequired": 10,
+  "Population": 2,
+  "AttrAdd": [
+   4,
+   0,
+   100,
+   0,
+   102,
+   0
+  ]
+ },
+ {
+  "GradeID": 3,
+  "ExpRequired": 20,
+  "Population": 3,
+  "AttrAdd": [
+   4,
+   0,
+   100,
+   0,
+   102,
+   0
+  ]
+ },
+ {
+  "GradeID": 4,
+  "ExpRequired": 40,
+  "Population": 4,
+  "AttrAdd": [
+   4,
+   0,
+   100,
+   0,
+   102,
+   0
+  ]
+ },
+ {
+  "GradeID": 5,
+  "ExpRequired": 70,
+  "Population": 5,
+  "AttrAdd": [
+   4,
+   0,
+   100,
+   0,
+   102,
+   0
+  ]
+ },
+ {
+  "GradeID": 6,
+  "ExpRequired": 110,
+  "Population": 6,
+  "AttrAdd": [
+   4,
+   0,
+   100,
+   0,
+   102,
+   0
+  ]
+ },
+ {
+  "GradeID": 7,
+  "ExpRequired": 220,
+  "Population": 7,
+  "AttrAdd": [
+   4,
+   0,
+   100,
+   0,
+   102,
+   0
+  ]
+ },
+ {
+  "GradeID": 8,
+  "ExpRequired": 370,
+  "Population": 8,
+  "AttrAdd": [
+   4,
+   0,
+   100,
+   0,
+   102,
+   0
+  ]
+ }
+]

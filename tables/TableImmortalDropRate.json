@@ -1,0 +1,802 @@
+[
+ {
+  "ID": 1,
+  "CardLotteryID": 110001,
+  "DrawTime": 1,
+  "DropRate": [
+   8,
+   92,
+   100,
+   200,
+   900,
+   1700,
+   2800,
+   4200
+  ],
+  "AllDropRate": 0
+ },
+ {
+  "ID": 2,
+  "CardLotteryID": 110001,
+  "DrawTime": 2,
+  "DropRate": [
+   100,
+   120,
+   500,
+   800,
+   2000,
+   3000,
+   3480
+  ],
+  "AllDropRate": 0
+ },
+ {
+  "ID": 3,
+  "CardLotteryID": 110001,
+  "DrawTime": 3,
+  "DropRate": [
+   140,
+   200,
+   600,
+   1000,
+   3000,
+   5060
+  ],
+  "AllDropRate": 0
+ },
+ {
+  "ID": 4,
+  "CardLotteryID": 110001,
+  "DrawTime": 4,
+  "DropRate": [
+   160,
+   300,
+   1000,
+   2400,
+   6140
+  ],
+  "AllDropRate": 0
+ },
+ {
+  "ID": 5,
+  "CardLotteryID": 110001,
+  "DrawTime": 5,
+  "DropRate": [
+   180,
+   400,
+   2400,
+   7020
+  ],
+  "AllDropRate": 0
+ },
+ {
+  "ID": 6,
+  "CardLotteryID": 110001,
+  "DrawTime": 6,
+  "DropRate": [
+   300,
+   2700,
+   7000
+  ],
+  "AllDropRate": 0
+ },
+ {
+  "ID": 7,
+  "CardLotteryID": 110001,
+  "DrawTime": 7,
+  "DropRate": [
+   2700,
+   7300
+  ],
+  "AllDropRate": 0
+ },
+ {
+  "ID": 8,
+  "CardLotteryID": 110001,
+  "DrawTime": 8,
+  "DropRate": [
+   10000
+  ],
+  "AllDropRate": 0
+ },
+ {
+  "ID": 9,
+  "CardLotteryID": 110002,
+  "DrawTime": 1,
+  "DropRate": [
+   8,
+   92,
+   100,
+   200,
+   900,
+   1700,
+   2800,
+   4200
+  ],
+  "AllDropRate": 0
+ },
+ {
+  "ID": 10,
+  "CardLotteryID": 110002,
+  "DrawTime": 2,
+  "DropRate": [
+   100,
+   120,
+   500,
+   800,
+   2000,
+   3000,
+   3480
+  ],
+  "AllDropRate": 0
+ },
+ {
+  "ID": 11,
+  "CardLotteryID": 110002,
+  "DrawTime": 3,
+  "DropRate": [
+   140,
+   200,
+   600,
+   1000,
+   3000,
+   5060
+  ],
+  "AllDropRate": 0
+ },
+ {
+  "ID": 12,
+  "CardLotteryID": 110002,
+  "DrawTime": 4,
+  "DropRate": [
+   160,
+   300,
+   1000,
+   2400,
+   6140
+  ],
+  "AllDropRate": 0
+ },
+ {
+  "ID": 13,
+  "CardLotteryID": 110002,
+  "DrawTime": 5,
+  "DropRate": [
+   180,
+   400,
+   2400,
+   7020
+  ],
+  "AllDropRate": 0
+ },
+ {
+  "ID": 14,
+  "CardLotteryID": 110002,
+  "DrawTime": 6,
+  "DropRate": [
+   300,
+   2700,
+   7000
+  ],
+  "AllDropRate": 0
+ },
+ {
+  "ID": 15,
+  "CardLotteryID": 110002,
+  "DrawTime": 7,
+  "DropRate": [
+   2700,
+   7300
+  ],
+  "AllDropRate": 0
+ },
+ {
+  "ID": 16,
+  "CardLotteryID": 110002,
+  "DrawTime": 8,
+  "DropRate": [
+   10000
+  ],
+  "AllDropRate": 0
+ },
+ {
+  "ID": 17,
+  "CardLotteryID": 110003,
+  "DrawTime": 1,
+  "DropRate": [
+   8,
+   92,
+   100,
+   200,
+   900,
+   1700,
+   2800,
+   4200
+  ],
+  "AllDropRate": 0
+ },
+ {
+  "ID": 18,
+  "CardLotteryID": 110003,
+  "DrawTime": 2,
+  "DropRate": [
+   100,
+   120,
+   500,
+   800,
+   2000,
+   3000,
+   3480
+  ],
+  "AllDropRate": 0
+ },
+ {
+  "ID": 19,
+  "CardLotteryID": 110003,
+  "DrawTime": 3,
+  "DropRate": [
+   140,
+   200,
+   600,
+   1000,
+   3000,
+   5060
+  ],
+  "AllDropRate": 0
+ },
+ {
+  "ID": 20,
+  "CardLotteryID": 110003,
+  "DrawTime": 4,
+  "DropRate": [
+   160,
+   300,
+   1000,
+   2400,
+   6140
+  ],
+  "AllDropRate": 0
+ },
+ {
+  "ID": 21,
+  "CardLotteryID": 110003,
+  "DrawTime": 5,
+  "DropRate": [
+   180,
+   400,
+   2400,
+   7020
+  ],
+  "AllDropRate": 0
+ },
+ {
+  "ID": 22,
+  "CardLotteryID": 110003,
+  "DrawTime": 6,
+  "DropRate": [
+   300,
+   2700,
+   7000
+  ],
+  "AllDropRate": 0
+ },
+ {
+  "ID": 23,
+  "CardLotteryID": 110003,
+  "DrawTime": 7,
+  "DropRate": [
+   2700,
+   7300
+  ],
+  "AllDropRate": 0
+ },
+ {
+  "ID": 24,
+  "CardLotteryID": 110003,
+  "DrawTime": 8,
+  "DropRate": [
+   10000
+  ],
+  "AllDropRate": 0
+ },
+ {
+  "ID": 25,
+  "CardLotteryID": 110004,
+  "DrawTime": 1,
+  "DropRate": [
+   8,
+   92,
+   100,
+   200,
+   900,
+   1700,
+   2800,
+   4200
+  ],
+  "AllDropRate": 0
+ },
+ {
+  "ID": 26,
+  "CardLotteryID": 110004,
+  "DrawTime": 2,
+  "DropRate": [
+   100,
+   120,
+   500,
+   800,
+   2000,
+   3000,
+   3480
+  ],
+  "AllDropRate": 0
+ },
+ {
+  "ID": 27,
+  "CardLotteryID": 110004,
+  "DrawTime": 3,
+  "DropRate": [
+   140,
+   200,
+   600,
+   1000,
+   3000,
+   5060
+  ],
+  "AllDropRate": 0
+ },
+ {
+  "ID": 28,
+  "CardLotteryID": 110004,
+  "DrawTime": 4,
+  "DropRate": [
+   160,
+   300,
+   1000,
+   2400,
+   6140
+  ],
+  "AllDropRate": 0
+ },
+ {
+  "ID": 29,
+  "CardLotteryID": 110004,
+  "DrawTime": 5,
+  "DropRate": [
+   180,
+   400,
+   2400,
+   7020
+  ],
+  "AllDropRate": 0
+ },
+ {
+  "ID": 30,
+  "CardLotteryID": 110004,
+  "DrawTime": 6,
+  "DropRate": [
+   300,
+   2700,
+   7000
+  ],
+  "AllDropRate": 0
+ },
+ {
+  "ID": 31,
+  "CardLotteryID": 110004,
+  "DrawTime": 7,
+  "DropRate": [
+   2700,
+   7300
+  ],
+  "AllDropRate": 0
+ },
+ {
+  "ID": 32,
+  "CardLotteryID": 110004,
+  "DrawTime": 8,
+  "DropRate": [
+   10000
+  ],
+  "AllDropRate": 0
+ },
+ {
+  "ID": 33,
+  "CardLotteryID": 110005,
+  "DrawTime": 1,
+  "DropRate": [
+   8,
+   92,
+   100,
+   200,
+   900,
+   1700,
+   2800,
+   4200
+  ],
+  "AllDropRate": 0
+ },
+ {
+  "ID": 34,
+  "CardLotteryID": 110005,
+  "DrawTime": 2,
+  "DropRate": [
+   100,
+   120,
+   500,
+   800,
+   2000,
+   3000,
+   3480
+  ],
+  "AllDropRate": 0
+ },
+ {
+  "ID": 35,
+  "CardLotteryID": 110005,
+  "DrawTime": 3,
+  "DropRate": [
+   140,
+   200,
+   600,
+   1000,
+   3000,
+   5060
+  ],
+  "AllDropRate": 0
+ },
+ {
+  "ID": 36,
+  "CardLotteryID": 110005,
+  "DrawTime": 4,
+  "DropRate": [
+   160,
+   300,
+   1000,
+   2400,
+   6140
+  ],
+  "AllDropRate": 0
+ },
+ {
+  "ID": 37,
+  "CardLotteryID": 110005,
+  "DrawTime": 5,
+  "DropRate": [
+   180,
+   400,
+   2400,
+   7020
+  ],
+  "AllDropRate": 0
+ },
+ {
+  "ID": 38,
+  "CardLotteryID": 110005,
+  "DrawTime": 6,
+  "DropRate": [
+   300,
+   2700,
+   7000
+  ],
+  "AllDropRate": 0
+ },
+ {
+  "ID": 39,
+  "CardLotteryID": 110005,
+  "DrawTime": 7,
+  "DropRate": [
+   2700,
+   7300
+  ],
+  "AllDropRate": 0
+ },
+ {
+  "ID": 40,
+  "CardLotteryID": 110005,
+  "DrawTime": 8,
+  "DropRate": [
+   10000
+  ],
+  "AllDropRate": 0
+ },
+ {
+  "ID": 41,
+  "CardLotteryID": 110006,
+  "DrawTime": 1,
+  "DropRate": [
+   8,
+   92,
+   100,
+   200,
+   900,
+   1700,
+   2800,
+   4200
+  ],
+  "AllDropRate": 0
+ },
+ {
+  "ID": 42,
+  "CardLotteryID": 110006,
+  "DrawTime": 2,
+  "DropRate": [
+   100,
+   120,
+   500,
+   800,
+   2000,
+   3000,
+   3480
+  ],
+  "AllDropRate": 0
+ },
+ {
+  "ID": 43,
+  "CardLotteryID": 110006,
+  "DrawTime": 3,
+  "DropRate": [
+   140,
+   200,
+   600,
+   1000,
+   3000,
+   5060
+  ],
+  "AllDropRate": 0
+ },
+ {
+  "ID": 44,
+  "CardLotteryID": 110006,
+  "DrawTime": 4,
+  "DropRate": [
+   160,
+   300,
+   1000,
+   2400,
+   6140
+  ],
+  "AllDropRate": 0
+ },
+ {
+  "ID": 45,
+  "CardLotteryID": 110006,
+  "DrawTime": 5,
+  "DropRate": [
+   180,
+   400,
+   2400,
+   7020
+  ],
+  "AllDropRate": 0
+ },
+ {
+  "ID": 46,
+  "CardLotteryID": 110006,
+  "DrawTime": 6,
+  "DropRate": [
+   300,
+   2700,
+   7000
+  ],
+  "AllDropRate": 0
+ },
+ {
+  "ID": 47,
+  "CardLotteryID": 110006,
+  "DrawTime": 7,
+  "DropRate": [
+   2700,
+   7300
+  ],
+  "AllDropRate": 0
+ },
+ {
+  "ID": 48,
+  "CardLotteryID": 110006,
+  "DrawTime": 8,
+  "DropRate": [
+   10000
+  ],
+  "AllDropRate": 0
+ },
+ {
+  "ID": 49,
+  "CardLotteryID": 110007,
+  "DrawTime": 1,
+  "DropRate": [
+   8,
+   92,
+   100,
+   200,
+   900,
+   1700,
+   2800,
+   4200
+  ],
+  "AllDropRate": 0
+ },
+ {
+  "ID": 50,
+  "CardLotteryID": 110007,
+  "DrawTime": 2,
+  "DropRate": [
+   100,
+   120,
+   500,
+   800,
+   2000,
+   3000,
+   3480
+  ],
+  "AllDropRate": 0
+ },
+ {
+  "ID": 51,
+  "CardLotteryID": 110007,
+  "DrawTime": 3,
+  "DropRate": [
+   140,
+   200,
+   600,
+   1000,
+   3000,
+   5060
+  ],
+  "AllDropRate": 0
+ },
+ {
+  "ID": 52,
+  "CardLotteryID": 110007,
+  "DrawTime": 4,
+  "DropRate": [
+   160,
+   300,
+   1000,
+   2400,
+   6140
+  ],
+  "AllDropRate": 0
+ },
+ {
+  "ID": 53,
+  "CardLotteryID": 110007,
+  "DrawTime": 5,
+  "DropRate": [
+   180,
+   400,
+   2400,
+   7020
+  ],
+  "AllDropRate": 0
+ },
+ {
+  "ID": 54,
+  "CardLotteryID": 110007,
+  "DrawTime": 6,
+  "DropRate": [
+   300,
+   2700,
+   7000
+  ],
+  "AllDropRate": 0
+ },
+ {
+  "ID": 55,
+  "CardLotteryID": 110007,
+  "DrawTime": 7,
+  "DropRate": [
+   2700,
+   7300
+  ],
+  "AllDropRate": 0
+ },
+ {
+  "ID": 56,
+  "CardLotteryID": 110007,
+  "DrawTime": 8,
+  "DropRate": [
+   10000
+  ],
+  "AllDropRate": 0
+ },
+ {
+  "ID": 57,
+  "CardLotteryID": 110008,
+  "DrawTime": 1,
+  "DropRate": [
+   8,
+   92,
+   100,
+   200,
+   900,
+   1700,
+   2800,
+   4200
+  ],
+  "AllDropRate": 0
+ },
+ {
+  "ID": 58,
+  "CardLotteryID": 110008,
+  "DrawTime": 2,
+  "DropRate": [
+   100,
+   120,
+   500,
+   800,
+   2000,
+   3000,
+   3480
+  ],
+  "AllDropRate": 0
+ },
+ {
+  "ID": 59,
+  "CardLotteryID": 110008,
+  "DrawTime": 3,
+  "DropRate": [
+   140,
+   200,
+   600,
+   1000,
+   3000,
+   5060
+  ],
+  "AllDropRate": 0
+ },
+ {
+  "ID": 60,
+  "CardLotteryID": 110008,
+  "DrawTime": 4,
+  "DropRate": [
+   160,
+   300,
+   1000,
+   2400,
+   6140
+  ],
+  "AllDropRate": 0
+ },
+ {
+  "ID": 61,
+  "CardLotteryID": 110008,
+  "DrawTime": 5,
+  "DropRate": [
+   180,
+   400,
+   2400,
+   7020
+  ],
+  "AllDropRate": 0
+ },
+ {
+  "ID": 62,
+  "CardLotteryID": 110008,
+  "DrawTime": 6,
+  "DropRate": [
+   300,
+   2700,
+   7000
+  ],
+  "AllDropRate": 0
+ },
+ {
+  "ID": 63,
+  "CardLotteryID": 110008,
+  "DrawTime": 7,
+  "DropRate": [
+   2700,
+   7300
+  ],
+  "AllDropRate": 0
+ },
+ {
+  "ID": 64,
+  "CardLotteryID": 110008,
+  "DrawTime": 8,
+  "DropRate": [
+   10000
+  ],
+  "AllDropRate": 0
+ }
+]

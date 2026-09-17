@@ -1,0 +1,222 @@
+[
+ {
+  "ID": 1001,
+  "idx": 1,
+  "GiftType": 1000,
+  "FreeGift": [
+   305
+  ],
+  "Gift": 6300000,
+  "ExtraFragment": 0,
+  "Star": 3
+ },
+ {
+  "ID": 1002,
+  "idx": 2,
+  "GiftType": 1000,
+  "FreeGift": [
+   305
+  ],
+  "Gift": 6300001,
+  "ExtraFragment": 0,
+  "Star": 5
+ },
+ {
+  "ID": 1003,
+  "idx": 3,
+  "GiftType": 1000,
+  "FreeGift": [
+   305
+  ],
+  "Gift": 6300002,
+  "ExtraFragment": 10,
+  "Star": 7
+ },
+ {
+  "ID": 1004,
+  "idx": 4,
+  "GiftType": 1000,
+  "FreeGift": [
+   305
+  ],
+  "Gift": 6300003,
+  "ExtraFragment": 10,
+  "Star": 10
+ },
+ {
+  "ID": 1005,
+  "idx": 5,
+  "GiftType": 1000,
+  "FreeGift": [
+   305
+  ],
+  "Gift": 6300004,
+  "ExtraFragment": 10,
+  "Star": 12
+ },
+ {
+  "ID": 1006,
+  "idx": 6,
+  "GiftType": 1000,
+  "FreeGift": [
+   305
+  ],
+  "Gift": 6300005,
+  "ExtraFragment": 10,
+  "Star": 15
+ },
+ {
+  "ID": 1007,
+  "idx": 7,
+  "GiftType": 1000,
+  "FreeGift": [
+   305
+  ],
+  "Gift": 6300006,
+  "ExtraFragment": 10,
+  "Star": 17
+ },
+ {
+  "ID": 1008,
+  "idx": 8,
+  "GiftType": 1000,
+  "FreeGift": [
+   305
+  ],
+  "Gift": 6300007,
+  "ExtraFragment": 10,
+  "Star": 20
+ },
+ {
+  "ID": 1009,
+  "idx": 9,
+  "GiftType": 1000,
+  "FreeGift": [
+   305
+  ],
+  "Gift": 6300008,
+  "ExtraFragment": 30,
+  "Star": 22
+ },
+ {
+  "ID": 1010,
+  "idx": 10,
+  "GiftType": 1000,
+  "FreeGift": [
+   305
+  ],
+  "Gift": 6300009,
+  "ExtraFragment": 50,
+  "Star": 25
+ },
+ {
+  "ID": 2001,
+  "idx": 1,
+  "GiftType": 1001,
+  "FreeGift": [
+   305
+  ],
+  "Gift": 6300000,
+  "ExtraFragment": 0,
+  "Star": 3
+ },
+ {
+  "ID": 2002,
+  "idx": 2,
+  "GiftType": 1001,
+  "FreeGift": [
+   305
+  ],
+  "Gift": 6300001,
+  "ExtraFragment": 0,
+  "Star": 5
+ },
+ {
+  "ID": 2003,
+  "idx": 3,
+  "GiftType": 1001,
+  "FreeGift": [
+   305
+  ],
+  "Gift": 6300002,
+  "ExtraFragment": 10,
+  "Star": 7
+ },
+ {
+  "ID": 2004,
+  "idx": 4,
+  "GiftType": 1001,
+  "FreeGift": [
+   305
+  ],
+  "Gift": 6300003,
+  "ExtraFragment": 10,
+  "Star": 10
+ },
+ {
+  "ID": 2005,
+  "idx": 5,
+  "GiftType": 1001,
+  "FreeGift": [
+   305
+  ],
+  "Gift": 6300004,
+  "ExtraFragment": 10,
+  "Star": 12
+ },
+ {
+  "ID": 2006,
+  "idx": 6,
+  "GiftType": 1001,
+  "FreeGift": [
+   305
+  ],
+  "Gift": 6300005,
+  "ExtraFragment": 10,
+  "Star": 15
+ },
+ {
+  "ID": 2007,
+  "idx": 7,
+  "GiftType": 1001,
+  "FreeGift": [
+   305
+  ],
+  "Gift": 6300006,
+  "ExtraFragment": 10,
+  "Star": 17
+ },
+ {
+  "ID": 2008,
+  "idx": 8,
+  "GiftType": 1001,
+  "FreeGift": [
+   305
+  ],
+  "Gift": 6300007,
+  "ExtraFragment": 10,
+  "Star": 20
+ },
+ {
+  "ID": 2009,
+  "idx": 9,
+  "GiftType": 1001,
+  "FreeGift": [
+   305
+  ],
+  "Gift": 6300008,
+  "ExtraFragment": 30,
+  "Star": 22
+ },
+ {
+  "ID": 2010,
+  "idx": 10,
+  "GiftType": 1001,
+  "FreeGift": [
+   305
+  ],
+  "Gift": 6300009,
+  "ExtraFragment": 50,
+  "Star": 25
+ }
+]

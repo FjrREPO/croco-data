@@ -1,0 +1,26 @@
+[
+ {
+  "ChatId": 1001,
+  "ChatContent": "TeamPVE_QuickChat01",
+  "ChatEmoji": "ChatEmoji_croc_20",
+  "IsDef": 0
+ },
+ {
+  "ChatId": 1002,
+  "ChatContent": "TeamPVE_QuickChat02",
+  "ChatEmoji": "ChatEmoji_croc_22",
+  "IsDef": 0
+ },
+ {
+  "ChatId": 1003,
+  "ChatContent": "TeamPVE_QuickChat03",
+  "ChatEmoji": "ChatEmoji_croc_15",
+  "IsDef": 0
+ },
+ {
+  "ChatId": 1004,
+  "ChatContent": "TeamPVE_QuickChat04",
+  "ChatEmoji": "ChatEmoji_croc_03",
+  "IsDef": 1
+ }
+]
